@@ -1,0 +1,75 @@
+# Source The Verge, Source URL:https://www.theverge.com/rss/index.xml, Source language: en-US
+
+## A partial list of all the EVs that qualify for the new $7,500 tax credit
+ - [https://www.theverge.com/2023/1/1/23534707/ev-tax-credit-eligible-vehicle-list-tesla-chevy-cadillac-vw](https://www.theverge.com/2023/1/1/23534707/ev-tax-credit-eligible-vehicle-list-tesla-chevy-cadillac-vw)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-01-01 22:14:47+00:00
+ - user: None
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/l9jTe6tgW34QE-YGvEEHniIy9_4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71813863/226426_Cadillac_Lyriq_Review_AHawkins_0019.0.jpg" />
+        <figcaption>Photo by Andrew J. Hawkins / The Verge</figcaption>
+    </figure>
+
+  <p id="eq8hPM">As of January 1st, 2023, a bunch of electric vehicles became newly eligible for the $7,500 tax credit, which passed into law as part of the $430 billion <a href="https://www.theverge.com/2022/8/12/23302050/inflation-reduction-act-house-vote-climate-change-clean-energy">Inflation Reduction Act</a> a year ago. </p>
+<p id="481DZH">Some models new to the list had lost their eligibility when their manufacturer hit the previous credit’s sales cap of 200,000 vehicles (Tesla models, Chevy Bolts). Others have recently shifted their production to North America, meeting one of the crucial requirements (VW ID.4). </p>
+<div class="c-float-left c-float-hang"><aside id="tyg41m"><q>There’s still a lot in the air right now</q></aside></div>
+<p id="Sw1JGl"><a href="https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to">There’s still a lot in the air right now</a> — the Treasury Department has set <a href="https://www.theverge.com/2022/12/20/23519701/ev-tax-credit-delay-treasury-gm-tesla">a March deadline</a> for releasing guidance on some of the thornier issues surrounding battery material sourcing and other rules that could drastically reduce the...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/1/1/23534707/ev-tax-credit-eligible-vehicle-list-tesla-chevy-cadillac-vw">Continue reading&hellip;</a>
+  </p>
+
+## Telegram’s revamped media editor adds a blur tool and more text options
+ - [https://www.theverge.com/2023/1/1/23534248/telegram-revamped-media-editor-blur-tool-text](https://www.theverge.com/2023/1/1/23534248/telegram-revamped-media-editor-blur-tool-text)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-01-01 17:00:46+00:00
+ - user: None
+
+<figure>
+      <img alt="The Telegram logo repeated on a blue background." src="https://cdn.vox-cdn.com/thumbor/-UyH9VvrNAEhqzCXAbvE0s2tTbE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71812989/acastro_180417_1777_telegram_0001.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="vtfazI">Telegram’s latest update includes an overhauled media editor outfitted with a bunch of new tools to decorate — or conceal — parts of your image or videos. In <a href="https://telegram.org/blog/hidden-media-zero-storage-profile-pics">an update on its blog</a>, Telegram says it’s introducing a new blur tool that lets you block out certain areas of a photo or video, allowing you to hide sensitive information, or blur the faces of passersby who appear in the background.</p>
+<p id="IIS4pC">To make the blurred portion of your photo blend in, Telegram says you can use the eyedropper tool to match the color of the blur brush to your image. Additionally, Telegram’s adding a way to change the size, font, and background of text (sort of like Instagram or Snapchat) when adding it to photos or videos.</p>
+  <figure class="e-image">
+        
+      <cite>Image: Telegram</cite>
+      <figcaption><em>T...</em></figcaption></figure>
+  <p>
+    <a href="https://www.theverge.com/2023/1/1/23534248/telegram-revamped-media-editor-blur-tool-text">Continue reading&hellip;</a>
+  </p>
+
+## Sony’s A7R V camera is a technical triumph, so why is using it such a pain?
+ - [https://www.theverge.com/23527936/sony-alpha-a7rv-mirrorless-fullframe-camera-hands-on-ergonomics-pain](https://www.theverge.com/23527936/sony-alpha-a7rv-mirrorless-fullframe-camera-hands-on-ergonomics-pain)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-01-01 16:00:00+00:00
+ - user: None
+
+<figure>
+      <img alt="A front view of the Sony A7R V camera with lens attached, sitting on a patterned table with wooden model hands holding it." src="https://cdn.vox-cdn.com/thumbor/j8iL72eEH8lUebziOH68hKLL_Mw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71812733/Sony_A7RV_camera_ADiBenedetto_0005.0.jpg" />
+        <figcaption><em>Sony has pioneered many state of the art features in modern cameras, but it still feels like you’re wielding something not quite meant for human hands.</em></figcaption>
+    </figure>
+
+  <p id="FvVyQD">There’s only so much that really needs to be said about <a href="https://www.theverge.com/2022/10/26/23424298/sony-alpha-a7rv-full-frame-camera-ai-video-price-specs-features">Sony’s A7R V</a> mirrorless camera. Sony made so many right decisions with this new model, that it’s easily one of the best cameras money can buy right now. The new AI autofocus system is an excellent jump forward. The improved built-in image stabilization is excellent for hand-holding slower shots. The new articulating display is so good it should just be copied by all other manufacturers as soon as possible. And the 61-megapixel sensor yields some of the best image quality you can get today without jumping to medium format — trusting your computer and storage are up to the task of processing these beefy files. </p>
+<p id="oiIBqG">But while Sony has made some recent strides to offer quality-of-life...</p>
+  <p>
+    <a href="https://www.theverge.com/23527936/sony-alpha-a7rv-mirrorless-fullframe-camera-hands-on-ergonomics-pain">Continue reading&hellip;</a>
+  </p>
+
+## Kaleidoscope is a generic heist story but a fascinating experiment
+ - [https://www.theverge.com/23521184/kaleidoscope-review-netflix-series-giancarlo-esposito](https://www.theverge.com/23521184/kaleidoscope-review-netflix-series-giancarlo-esposito)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-01-01 14:00:00+00:00
+ - user: None
+
+<figure>
+      <img alt="A photo of Giancarlo Esposito and Tati Gabrielle in the Netflix series Kaleidoscope." src="https://cdn.vox-cdn.com/thumbor/F14xPp_Y3dCC5wO7agQTJrNJCbY=/282x0:3318x2024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71812407/Kaleidoscope_S1_Yellow__00_42_00_04R.0.jpeg" />
+        <figcaption><em>Giancarlo Esposito and Tati Gabrielle in </em>Kaleidoscope<em>.</em> | Image: Netflix</figcaption>
+    </figure>
+
+  <p id="KSDfAq">On the surface, <a href="https://www.theverge.com/2022/12/13/23507195/netflix-kaleidoscope-trailer-giancarlo-esposito"><em>Kaleidoscope</em></a> is a straightforward, albeit generic, heist story. It hits all of the beats you’d expect: the revenge-filled backstory, the complex process of finding a team and forming a plan, and the satisfaction of watching that plan unfold. And since <em>Kaleidoscope</em>’s story spans around 25 years, you get plenty of all of those things over the course of its eight episodes. But that’s not what makes the show interesting. <em>Kaleidoscope </em>is also a fascinating experiment, an attempt to tell the kind of drama most viewers are familiar with — but designed so that you can watch episodes in any order. As a nonlinear story, it’s a success — but as a fun crime caper, <em>Kaleidoscope</em> leaves a lot to be desired.</p>
+<p id="4IIqwS">The series is centered on Leo...</p>
+  <p>
+    <a href="https://www.theverge.com/23521184/kaleidoscope-review-netflix-series-giancarlo-esposito">Continue reading&hellip;</a>
+  </p>
