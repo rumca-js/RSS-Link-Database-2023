@@ -1,0 +1,49 @@
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+
+## Nope's Excellent Script Is Available to Read Online
+ - [https://gizmodo.com/nope-script-read-online-free-jordan-peele-1849943291](https://gizmodo.com/nope-script-read-online-free-jordan-peele-1849943291)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-02 22:30:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--rl4iODP6--/c_fit,fl_progressive,q_80,w_636/c4312cb5301e3615b4aa9e93367d4c22.jpg" /><p>It’s the most wonderful time of the year: awards season, or more specifically, the courting period of awards season where studios drop wonderful behind-the-scenes samples of the <a href="https://gizmodo.com/best-movies-2022-horror-sci-fi-fantasy-superhero-genre-1849935315">past year’s best movies</a> to drum up FYC hype. Sure we’re not the ones actually nominating stuff for awards, but it’s nice to reap the benefits…</p><p><a href="https://gizmodo.com/nope-script-read-online-free-jordan-peele-1849943291">Read more...</a></p>
+
+## Moon Girl and Devil Dinosaur Looks Stylish as Hell
+ - [https://gizmodo.com/marvel-moon-girl-and-devil-dinosaur-cartoon-preview-1849943147](https://gizmodo.com/marvel-moon-girl-and-devil-dinosaur-cartoon-preview-1849943147)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-02 21:00:00+00:00
+ - user: None
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--BMr567dq--/c_fit,fl_progressive,q_80,w_636/047e07809f1c7236811b8988fdfd5fb2.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--KJUnsyvh--/c_fit,fl_progressive,q_80,w_636/047e07809f1c7236811b8988fdfd5fb2.mp4" type="video/mp4" /></video><p>Marvel’s <a href="https://gizmodo.com/the-moon-girl-and-devil-dinosaur-cartoon-gets-a-very-1848219328">next animated series</a> is set to hit the Disney Channel next month, and if you weren’t already sure that the <a href="https://gizmodo.com/the-moon-girl-and-devil-dinosaur-cartoon-just-got-a-gre-1846241240"><em>Moon Girl</em> show</a> was juking where the rest of the Marvel-verse is jiving by already giving us a show with an Inhuman heroine, it’s also showing off a great deal more style.<br /></p><p><a href="https://gizmodo.com/marvel-moon-girl-and-devil-dinosaur-cartoon-preview-1849943147">Read more...</a></p>
+
+## The Best Horror, Sci-Fi, and Fantasy Streaming in January 2023
+ - [https://gizmodo.com/best-horror-movies-streaming-january-2023-sci-fi-fantas-1849936231](https://gizmodo.com/best-horror-movies-streaming-january-2023-sci-fi-fantas-1849936231)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-02 19:30:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--AjL3JIdI--/c_fit,fl_progressive,q_80,w_636/7bebf8ca2408dcd10a419fdfbca3cdb9.png" /><p>Happy new year! And welcome to io9's first Nerd’s Watch of 2023. The monthly column where we pare down the enormous lists of new films and television shows arriving on all your favorite streaming services into the sci-fi, fantasy, and horror titles we think you’ll like most.<br /></p><p><a href="https://gizmodo.com/best-horror-movies-streaming-january-2023-sci-fi-fantas-1849936231">Read more...</a></p>
+
+## io9's Top 100 Posts of 2022
+ - [https://gizmodo.com/io9s-top-100-posts-of-2022-1849937580](https://gizmodo.com/io9s-top-100-posts-of-2022-1849937580)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-02 18:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--WJZSk0dp--/c_fit,fl_progressive,q_80,w_636/b280e178ba8033cf06bbc6aa3774a7ae.png" /><p>Roughly speaking, we write about 4,000 or so posts each year at io9. Sometimes it’s breaking news, like Marvel Studios announcing the entirety of its <a href="https://gizmodo.com/marvel-phase-five-movies-shows-disney-plus-schedule-1849315502">Phase 5 slate</a>. Sometimes it’s things we want to help explain to you, like our many looks at <a href="https://gizmodo.com/lord-of-the-rings-wizards-rings-of-power-stranger-1849536723"><em>Lord of the Rings: The Rings of Power</em></a>. Sometimes, we just want to <a href="https://gizmodo.com/dc-black-adam-box-office-flop-dwayne-johnson-the-rock-1849866587">make fun of…</a></p><p><a href="https://gizmodo.com/io9s-top-100-posts-of-2022-1849937580">Read more...</a></p>
+
+## Leslie Grace Reveals the Final Batgirl Costume That Could've Been
+ - [https://gizmodo.com/batgirl-movie-upgraded-costume-leslie-grace-warner-bros-1849942840](https://gizmodo.com/batgirl-movie-upgraded-costume-leslie-grace-warner-bros-1849942840)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-02 16:30:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--1WAjsWJ2--/c_fit,fl_progressive,q_80,w_636/36df3ad259cff8d661fb762f93537c21.png" /><p>2022 is behind us, but it seems like the mystery of just <a href="https://gizmodo.com/batgirl-directors-blocked-server-footage-held-hostage-1849445406">what the hell went down</a> with Warner Bros.’ scrapping of <a href="https://gizmodo.com/batgirl-movie-canceled-hbo-max-batman-dc-films-warner-1849361909">the <em>Batgirl</em> movie</a> will be with us for a while yet—especially while <a href="https://gizmodo.com/dc-movie-status-2023-james-gunn-henry-cavill-gal-gadot-1849920995">star Leslie Grace</a> is still teasing tidbits of what the <a href="https://gizmodo.com/batgirl-hbo-max-cancelled-purchase-accounting-explained-1849365191">allegedly near-completed movie</a> could’ve done for Barbara Gordon.<br /></p><p><a href="https://gizmodo.com/batgirl-movie-upgraded-costume-leslie-grace-warner-bros-1849942840">Read more...</a></p>
+
+## James Cameron Wants to Introduce Na'vi Villains in Avatar 3
+ - [https://gizmodo.com/avatar-3-navi-villains-fire-tribe-james-cameron-1849942357](https://gizmodo.com/avatar-3-navi-villains-fire-tribe-james-cameron-1849942357)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-02 15:15:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--k7dYc7wA--/c_fit,fl_progressive,q_80,w_636/9836fcf26ff69bfbd94cd5416f666b20.png" /><p>Anya Taylor-Joy teases the blood and dirt of <em>Furiosa</em>. <em>Scream 6</em>'s new poster teases potential victims for Ghostface’s New York trip. Charlie Cox still isn’t sure just what parts of his Matt Murdock are carrying over to <em>Daredevil: Born Again</em>. Plus, new pictures from the return of <em>Shadow and Bone</em>. Spoilers, away!<br /></p><p><a href="https://gizmodo.com/avatar-3-navi-villains-fire-tribe-james-cameron-1849942357">Read more...</a></p>
