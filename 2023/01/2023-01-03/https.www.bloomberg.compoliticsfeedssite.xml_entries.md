@@ -1,0 +1,449 @@
+# Source Bloomberg - politics, Source URL:https://www.bloomberg.com/politics/feeds/site.xml, Source language: en-US
+
+## House Adjourns With McCarthy’s Speaker Bid Still in Doubt
+ - [https://www.bloomberg.com/news/articles/2023-01-03/house-adjourns-with-mccarthy-s-bid-for-speaker-still-in-doubt](https://www.bloomberg.com/news/articles/2023-01-03/house-adjourns-with-mccarthy-s-bid-for-speaker-still-in-doubt)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 22:36:28+00:00
+ - user: None
+
+Kevin McCarthy, center, speaks to members of the media while walking to the House Chamber at the US Capitol in Washington, DC, on Jan. 3, 2023. Photographer: Sarah Silbiger/Bloomberg
+
+## Sunak to Pledge Math Teaching to Age 18 as UK Woes Add Up
+ - [https://www.bloomberg.com/news/articles/2023-01-03/sunak-pledges-maths-to-18-for-all-english-pupils-as-woes-add-up](https://www.bloomberg.com/news/articles/2023-01-03/sunak-pledges-maths-to-18-for-all-english-pupils-as-woes-add-up)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 22:30:00+00:00
+ - user: None
+
+Prime Minister Rishi Sunak will pledge to make all pupils in English schools learn some form of maths to the age of 18, in a speech Wednesday seeking to reset his premiership amid a health crisis, ongoing industrial action and dire poll ratings for the ruling Conservative Party.
+
+## Southwest ‘Failed’ Customers During Travel Meltdown, White House Says
+ - [https://www.bloomberg.com/news/articles/2023-01-03/white-house-says-southwest-failed-customers-in-travel-meltdown](https://www.bloomberg.com/news/articles/2023-01-03/white-house-says-southwest-failed-customers-in-travel-meltdown)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 21:00:05+00:00
+ - user: None
+
+The White House said Southwest Airlines Co. should bear full responsibility for massive holiday travel disruptions that stranded thousands of passengers across the US, and would be held accountable by the administration.
+
+## Population Shifts Point to 2030 Congressional Seat Turmoil
+ - [https://www.bloomberg.com/news/articles/2023-01-03/population-shifts-may-point-toward-further-2030-congressional-seat-turmoil](https://www.bloomberg.com/news/articles/2023-01-03/population-shifts-may-point-toward-further-2030-congressional-seat-turmoil)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 20:50:43+00:00
+ - user: None
+
+The government’s latest US population estimates portend significant shifts in congressional seats away from Democratic-leaning states by the end of the decade if current trends continue.
+
+## White House Says No Cause for China Retaliation Over Covid Curbs
+ - [https://www.bloomberg.com/news/articles/2023-01-03/white-house-says-no-cause-for-china-retaliation-over-covid-curbs](https://www.bloomberg.com/news/articles/2023-01-03/white-house-says-no-cause-for-china-retaliation-over-covid-curbs)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 20:25:34+00:00
+ - user: None
+
+The White House said there’s no reason Beijing should retaliate against the US and other nations that have imposed Covid restrictions on its travelers, saying the moves were justified on public health grounds as China experiences a surge in cases.
+
+## Biden Praying for Hospitalized NFL Player, Spokeswoman Says
+ - [https://www.bloomberg.com/news/articles/2023-01-03/biden-praying-for-hospitalized-nfl-player-spokeswoman-says](https://www.bloomberg.com/news/articles/2023-01-03/biden-praying-for-hospitalized-nfl-player-spokeswoman-says)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 20:21:55+00:00
+ - user: None
+
+President Joe Biden and his White House aides are hopeful that Buffalo Bills player Damar Hamlin recovers after he collapsed on the field during a nationally televised National Football League game and was taken to the hospital.
+
+## NYC Subway Shooter Pleads Guilty to Terrorism and Gun Charges
+ - [https://www.bloomberg.com/news/articles/2023-01-03/new-york-city-subway-shooter-frank-james-pleads-guilty-to-terrorism-gun-charges](https://www.bloomberg.com/news/articles/2023-01-03/new-york-city-subway-shooter-frank-james-pleads-guilty-to-terrorism-gun-charges)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 20:07:46+00:00
+ - user: None
+
+The New York City native who tossed smoke cannisters inside a packed Brooklyn subway car before opening fire on stunned commuters last year has pleaded guilty to terrorism and gun charges.
+
+## Credit-Reporting Firms Face More US Scrutiny as Complaints Jump
+ - [https://www.bloomberg.com/news/articles/2023-01-03/credit-reporting-firms-face-more-us-scrutiny-as-complaints-jump](https://www.bloomberg.com/news/articles/2023-01-03/credit-reporting-firms-face-more-us-scrutiny-as-complaints-jump)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 19:24:00+00:00
+ - user: None
+
+Rohit Chopra, director of the Consumer Financial Protection Bureau (CFPB), during a Senate Banking, Housing, and Urban Affairs Committee hearing in Washington, DC, US, on Thursday, Dec. 15, 2022. House Republicans vowed vigorous oversight over the CFPB's policy-making, enforcement, and even the agency directors schedule when they take the gavel in January.
+
+## Ex-Fed Chief Greenspan Says US Recession Is Likely
+ - [https://www.bloomberg.com/news/articles/2023-01-03/ex-fed-chief-greenspan-sees-us-recession-as-most-likely-outcome](https://www.bloomberg.com/news/articles/2023-01-03/ex-fed-chief-greenspan-sees-us-recession-as-most-likely-outcome)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 19:22:29+00:00
+ - user: None
+
+Former Federal Reserve Chair Alan Greenspan said a US recession is the “most likely outcome” as the central bank tightens monetary policy to curb inflation.
+
+## US News to Change Law School Rankings After Yale, Harvard Quit
+ - [https://www.bloomberg.com/news/articles/2023-01-03/us-news-to-change-law-school-rankings-after-yale-harvard-quit](https://www.bloomberg.com/news/articles/2023-01-03/us-news-to-change-law-school-rankings-after-yale-harvard-quit)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 19:11:59+00:00
+ - user: None
+
+US News &amp; World Report pledged to modify its law school rankings after a growing number of institutions, including Yale and Harvard, called the rankings “flawed.”
+
+## Congress Orders Pentagon to Review ‘Controlled Unclassified’ Label
+ - [https://www.bloomberg.com/news/articles/2023-01-03/congress-orders-pentagon-to-review-controlled-unclassified-information-label](https://www.bloomberg.com/news/articles/2023-01-03/congress-orders-pentagon-to-review-controlled-unclassified-information-label)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 19:04:39+00:00
+ - user: None
+
+Congress has given the Defense Department until the end of January to look into whether bureaucrats are overusing a document designation known as Controlled Unclassified Information to keep the public from learning about bad news.
+
+## McCarthy Suffers Historic Rebuff as Voting for House Speaker Drags Out
+ - [https://www.bloomberg.com/news/articles/2023-01-03/mccarthy-suffers-historic-rebuff-as-voting-for-speaker-drags-out](https://www.bloomberg.com/news/articles/2023-01-03/mccarthy-suffers-historic-rebuff-as-voting-for-speaker-drags-out)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 19:03:46+00:00
+ - user: None
+
+Representative Kevin McCarthy, a Republican from California, departs following a House Republicans caucus meeting at the US Capitol in Washington, DC, US, on Tuesday, Jan. 3, 2023. McCarthy's chances of becoming House speaker remained in doubt hours before Republicans formally take control of the chamber with Republicans holding only a slender majority when the new Congress convenes today. Photographer: Al Drago/Bloomberg
+
+## US Bank Watchdogs Issue Joint Warning on Crypto Activities
+ - [https://www.bloomberg.com/news/articles/2023-01-03/top-us-bank-watchdogs-issue-joint-warning-on-crypto-activities](https://www.bloomberg.com/news/articles/2023-01-03/top-us-bank-watchdogs-issue-joint-warning-on-crypto-activities)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 19:00:00+00:00
+ - user: None
+
+The top US bank regulators issued a fresh warning to lenders about the risks associated with delving into crypto.
+
+## DeSantis Bashes Biden’s Policies, in Prelude to Possible National Run
+ - [https://www.bloomberg.com/news/articles/2023-01-03/desantis-rips-biden-s-policies-setting-up-possible-national-run](https://www.bloomberg.com/news/articles/2023-01-03/desantis-rips-biden-s-policies-setting-up-possible-national-run)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 18:47:54+00:00
+ - user: None
+
+Florida Governor Ron DeSantis bashed President Joe Biden’s policies on everything from public spending and energy to immigration, using his second-term inauguration to set up a potential run for the Republican presidential nomination in 2024.
+
+## Mexico Expects State Oil Giant Pemex to Pay Its Debt Without Help
+ - [https://www.bloomberg.com/news/articles/2023-01-03/mexico-expects-pemex-to-pay-its-debt-without-government-help](https://www.bloomberg.com/news/articles/2023-01-03/mexico-expects-pemex-to-pay-its-debt-without-government-help)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 18:43:47+00:00
+ - user: None
+
+Mexico’s Finance Ministry expects Petroleos Mexicanos to pay debt coming due in the first quarter without government help, according to people with knowledge of the situation.
+
+## Tesla Subpoenas Saudi Wealth Fund Chief for Go-Private Tweet Fraud Trial
+ - [https://www.bloomberg.com/news/articles/2023-01-03/tesla-subpoenas-saudi-pif-chief-for-go-private-tweet-fraud-trial](https://www.bloomberg.com/news/articles/2023-01-03/tesla-subpoenas-saudi-pif-chief-for-go-private-tweet-fraud-trial)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 17:59:20+00:00
+ - user: None
+
+Tesla Inc. is seeking to call the chief of Saudia Arabia’s Public Investment Fund as a defense witness for a trial over claims Elon Musk defrauded shareholders by falsely tweeting more than four years ago that he had a plan to take the automaker private.
+
+## EU Moves Toward Requiring Covid Tests for Passengers From China
+ - [https://www.bloomberg.com/news/articles/2023-01-03/eu-moves-toward-requiring-covid-tests-for-passengers-from-china](https://www.bloomberg.com/news/articles/2023-01-03/eu-moves-toward-requiring-covid-tests-for-passengers-from-china)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 17:44:47+00:00
+ - user: None
+
+The European Union is moving toward an approach to the rampant Covid outbreak in China that may include masks and pre-flight testing requirements on flights from the country.
+
+## Canada Sets Immigration Record as Trudeau Seeks More Workers
+ - [https://www.bloomberg.com/news/articles/2023-01-03/immigration-to-canada-hits-record-as-trudeau-seeks-more-workers](https://www.bloomberg.com/news/articles/2023-01-03/immigration-to-canada-hits-record-as-trudeau-seeks-more-workers)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 17:41:21+00:00
+ - user: None
+
+The Canada National Flag is reflected in glass over fans during the Women's Ice Hockey preliminary game between Switzerland and Canada at the UBC Thunderbird Arena during the XXI Winter Olympic Games in Vancouver, Canada on February 15, 2010. AFP PHOTO/Luis ACOSTA (Photo by Luis ACOSTA / AFP) (Photo by LUIS ACOSTA/AFP via Getty Images)
+
+## Parthenon Marbles May Return to Greece in Exchange Deal With UK
+ - [https://www.bloomberg.com/news/articles/2023-01-03/parthenon-marbles-may-return-to-greece-in-exchange-deal-with-uk](https://www.bloomberg.com/news/articles/2023-01-03/parthenon-marbles-may-return-to-greece-in-exchange-deal-with-uk)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 17:08:57+00:00
+ - user: None
+
+The British Museum and the Acropolis Museum in Athens are closing in on an agreement that would see the Parthenon Marbles returned over time to Greece as part of a cultural exchange, ending a feud over the historical artifacts that dates back to the 1800s.
+
+## Turkish Finance Czar Rules Out a Policy U-Turn After Elections
+ - [https://www.bloomberg.com/news/articles/2023-01-03/turkish-finance-czar-rules-out-a-policy-u-turn-after-elections](https://www.bloomberg.com/news/articles/2023-01-03/turkish-finance-czar-rules-out-a-policy-u-turn-after-elections)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 17:03:18+00:00
+ - user: None
+
+Turkish Treasury and Finance Minister Nureddin Nebati promised a continuation of policies that prioritize economic growth after this year’s elections, despite warnings that the current policy mix is unsustainable.
+
+## Massachusetts Orders Costly Offshore Wind Projects to Push Ahead
+ - [https://www.bloomberg.com/news/articles/2023-01-03/massachusetts-orders-costly-offshore-wind-projects-to-push-ahead](https://www.bloomberg.com/news/articles/2023-01-03/massachusetts-orders-costly-offshore-wind-projects-to-push-ahead)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 17:02:32+00:00
+ - user: None
+
+Massachusetts has denied requests from developers to renegotiate electricity contracts for proposed offshore wind farms after soaring inflation drove up construction costs, effectively ordering the renewable energy projects to push ahead.
+
+## Medical Credit Cards Cause Financial Pain for Struggling Patients, Senators Say
+ - [https://www.bloomberg.com/news/articles/2023-01-03/medical-credit-cards-lead-to-further-patient-pain-senators-say](https://www.bloomberg.com/news/articles/2023-01-03/medical-credit-cards-lead-to-further-patient-pain-senators-say)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 16:44:42+00:00
+ - user: None
+
+Credit cards offered by banks including Wells Fargo &amp; Co. and Synchrony Financial intended to cover expensive health-care services may be causing unnecessary financial pain for consumers, said a group of US senators, who cited potentially deceptive promotions.
+
+## Biden to Renominate Dozens and Name New IRS Chief
+ - [https://www.bloomberg.com/news/articles/2023-01-03/biden-to-renominate-dozens-including-garcetti-and-new-irs-chief](https://www.bloomberg.com/news/articles/2023-01-03/biden-to-renominate-dozens-including-garcetti-and-new-irs-chief)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 16:33:36+00:00
+ - user: None
+
+President Joe Biden plans to renominate dozens of candidates to key national security, judicial, and administrative posts with the start of a new Congress Tuesday, including controversial picks like former Los Angeles Mayor Eric Garcetti who failed to win confirmation as ambassador to India last year.
+
+## Petrobras Investors Tank Shares as Lula Makes a Populist Strategy Shift
+ - [https://www.bloomberg.com/news/articles/2023-01-03/petrobras-investors-balk-as-lula-shifts-oil-giant-s-strategy](https://www.bloomberg.com/news/articles/2023-01-03/petrobras-investors-balk-as-lula-shifts-oil-giant-s-strategy)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 16:31:38+00:00
+ - user: None
+
+Luiz Inacio Lula da Silva, Brazil's president-elect, speaks during a press conference at the Bank of Brazil Cultural Center (CCBB) in Brasilia, Brazil, on Thursday, Nov. 10, 2022. Lula appointed a mix of liberal and left-leaning economists to his government transition team, reflecting the broad coalition that helped him defeat Jair Bolsonaro last month.
+
+## Venezuela Greets First European Cruise Ship in 15 Years
+ - [https://www.bloomberg.com/news/articles/2023-01-03/venezuela-greets-first-european-cruise-ship-in-15-years](https://www.bloomberg.com/news/articles/2023-01-03/venezuela-greets-first-european-cruise-ship-in-15-years)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 16:20:44+00:00
+ - user: None
+
+A tourist on the beach in Isla Margarita, Nueva Esparta state, Venezuela, in November 2022.
+
+## BlackRock, Citigroup Among Firms Named Fossil-Fuel Boycotters by Kentucky
+ - [https://www.bloomberg.com/news/articles/2023-01-03/kentucky-lists-blackrock-citi-and-others-as-energy-boycotters](https://www.bloomberg.com/news/articles/2023-01-03/kentucky-lists-blackrock-citi-and-others-as-energy-boycotters)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 15:57:53+00:00
+ - user: None
+
+Kentucky State Treasurer Allison Ball published a list of 11 financial companies, including several major Wall Street banks, that she deems to be hostile to the fossil fuel industry.
+
+## McCarthy Privately Acknowledges Speaker Fight Will Drag Out
+ - [https://www.bloomberg.com/news/articles/2023-01-03/mccarthy-privately-acknowledges-speakership-fight-will-drag-out](https://www.bloomberg.com/news/articles/2023-01-03/mccarthy-privately-acknowledges-speakership-fight-will-drag-out)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 15:57:16+00:00
+ - user: None
+
+Representative Kevin McCarthy conceded Tuesday that he won’t be able to claim the mantle of US House speaker on the first round of voting, the first time in a century that the top position in Congress has required more than one ballot.
+
+## California Braces for Its Next Deluge as Pacific Storms Line Up
+ - [https://www.bloomberg.com/news/articles/2023-01-03/california-braces-for-its-next-deluge-as-pacific-storms-line-up](https://www.bloomberg.com/news/articles/2023-01-03/california-braces-for-its-next-deluge-as-pacific-storms-line-up)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 15:39:25+00:00
+ - user: None
+
+While California tries to clean up from floods and mudslides that killed at least one person over the weekend, the next in a series of atmospheric rivers is bearing down on the most populous US state for later this week.
+
+## Mitch McConnell Reaches New Milestone as Longest-Serving Senate Leader
+ - [https://www.bloomberg.com/news/articles/2023-01-03/mitch-mcconnell-reaches-new-milestone-as-longest-serving-senate-leader](https://www.bloomberg.com/news/articles/2023-01-03/mitch-mcconnell-reaches-new-milestone-as-longest-serving-senate-leader)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 15:30:46+00:00
+ - user: None
+
+Mitch McConnell is set to break Democrat Mike Mansfield’s record as longest-serving Senate party leader at noon when he starts his 17th year as Republican leader &mdash; a mark of stability in a Capitol riven by chaos on the House side of the building.
+
+## Santos Is Set to Be Sworn-In Amid Controversy, House GOP Turmoil
+ - [https://www.bloomberg.com/news/articles/2023-01-03/santos-set-to-be-sworn-in-amid-controversy-house-gop-turmoil](https://www.bloomberg.com/news/articles/2023-01-03/santos-set-to-be-sworn-in-amid-controversy-house-gop-turmoil)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 14:00:00+00:00
+ - user: None
+
+New York Republican George Santos, who has admitted making up much of his resume, is set to be sworn in as a member of the House Tuesday, an added element of drama to GOP turmoil as the party takes control of the chamber.
+
+## Drone Advances in Ukraine Could Bring Dawn of Killer Robots
+ - [https://www.bloomberg.com/news/articles/2023-01-03/drone-advances-in-ukraine-could-bring-dawn-of-killer-robots](https://www.bloomberg.com/news/articles/2023-01-03/drone-advances-in-ukraine-could-bring-dawn-of-killer-robots)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 13:37:16+00:00
+ - user: None
+
+Kyiv, Ukraine (AP) -- Drone advances in Ukraine have accelerated a long-anticipated technology trend that could soon bring the world's first fully autonomous fighting robots to the battlefield, inaugurating a new age of warfare.
+
+## China’s Finance Minister Reiterates Plan for Fiscal Expansion
+ - [https://www.bloomberg.com/news/articles/2023-01-03/china-s-finance-minister-reiterates-plan-for-fiscal-expansion](https://www.bloomberg.com/news/articles/2023-01-03/china-s-finance-minister-reiterates-plan-for-fiscal-expansion)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 13:37:11+00:00
+ - user: None
+
+China’s Finance Minister Liu Kun reiterated plans to appropriately expand fiscal spending to aid economic recovery, while pledging to prevent systemic risks.
+
+## Blackstone’s BREIT Gets $4 Billion California Injection
+ - [https://www.bloomberg.com/news/articles/2023-01-03/blackstone-s-breit-gets-4-billion-from-university-of-california](https://www.bloomberg.com/news/articles/2023-01-03/blackstone-s-breit-gets-4-billion-from-university-of-california)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 13:30:22+00:00
+ - user: None
+
+Blackstone Inc. is getting a $4 billion cash infusion from the University of California for its massive real estate fund Blackstone Real Estate Income Trust, which has faced pressure from investors pulling cash.
+
+## German Inflation Slowed After Government Picked Up Gas Bills
+ - [https://www.bloomberg.com/news/articles/2023-01-03/german-inflation-slowed-after-government-picked-up-gas-bills](https://www.bloomberg.com/news/articles/2023-01-03/german-inflation-slowed-after-government-picked-up-gas-bills)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 13:05:24+00:00
+ - user: None
+
+German inflation slowed more than anticipated in December after the government paid some households’ gas bills for the month, offering a temporary respite in the country’s cost-of-living crisis.
+
+## US Recession ‘Pretty Likely,’ Ex-New York Fed Chief Dudley Says
+ - [https://www.bloomberg.com/news/articles/2023-01-03/us-recession-pretty-likely-ex-new-york-fed-chief-dudley-says](https://www.bloomberg.com/news/articles/2023-01-03/us-recession-pretty-likely-ex-new-york-fed-chief-dudley-says)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 13:05:15+00:00
+ - user: None
+
+A US economic recession is in the cards because of what the Federal Reserve must do to cool inflation, said former New York Fed President William Dudley, but it probably won’t be a severe slowdown.
+
+## Iran Upholds Death Sentences for Teenage Protesters
+ - [https://www.bloomberg.com/news/articles/2023-01-03/iran-upholds-death-sentences-for-teenage-protesters](https://www.bloomberg.com/news/articles/2023-01-03/iran-upholds-death-sentences-for-teenage-protesters)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 12:48:39+00:00
+ - user: None
+
+Iran’s judiciary upheld death sentences for two male teenagers who had taken part in anti-government protests that have gripped the country since September.
+
+## Russia's Oil Flows Slump to 2022-Low as Sanctions Squeeze Moscow
+ - [https://www.bloomberg.com/news/articles/2023-01-03/russia-s-oil-flows-slump-to-2022-low-as-sanctions-squeeze-moscow](https://www.bloomberg.com/news/articles/2023-01-03/russia-s-oil-flows-slump-to-2022-low-as-sanctions-squeeze-moscow)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 12:27:25+00:00
+ - user: None
+
+<p>Four-week average cargoes fell&nbsp;by 600,000 barrels a day in eight&nbsp;weeks</p>
+
+## Germany Open to Seizing Russian Assets to Help Ukraine Rebuild
+ - [https://www.bloomberg.com/news/articles/2023-01-03/germany-is-open-to-using-seized-russian-assets-for-ukraine-s-reconstruction](https://www.bloomberg.com/news/articles/2023-01-03/germany-is-open-to-using-seized-russian-assets-for-ukraine-s-reconstruction)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 12:05:35+00:00
+ - user: None
+
+Germany is open to using billions of euros in frozen Russian assets to help Ukraine rebuild as long as legal issues can be resolved and allies follow suit.
+
+## US Treasuries Poised for Best New-Year Start in Two Decades
+ - [https://www.bloomberg.com/news/articles/2023-01-03/us-treasuries-poised-for-best-new-year-start-in-two-decades](https://www.bloomberg.com/news/articles/2023-01-03/us-treasuries-poised-for-best-new-year-start-in-two-decades)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 11:05:48+00:00
+ - user: None
+
+US Treasuries headed for the strongest start to a year in more than two decades as investors scooped up government debt on wagers the Federal Reserve will further slow its pace of rate hikes as inflation cools.
+
+## These 10 Things Will Shape Politics in 2023
+ - [https://www.bloomberg.com/news/newsletters/2023-01-03/these-10-things-will-shape-politics-in-2023](https://www.bloomberg.com/news/newsletters/2023-01-03/these-10-things-will-shape-politics-in-2023)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 11:01:35+00:00
+ - user: None
+
+Welcome back to Balance of Power! We’re expecting yet another busy year, with some major ongoing themes but a few emerging trends too. We’ll be here to unpick the biggest developments and steer our readers through the political noise around the world.
+
+## Netanyahu Pledges Open Opposition to Return of Iran Nuclear Deal
+ - [https://www.bloomberg.com/news/articles/2023-01-03/netanyahu-pledges-open-opposition-to-return-of-iran-nuclear-deal](https://www.bloomberg.com/news/articles/2023-01-03/netanyahu-pledges-open-opposition-to-return-of-iran-nuclear-deal)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 10:26:21+00:00
+ - user: None
+
+Israeli Prime Minister Benjamin Netanyahu pledged to step up his efforts to derail a return to the Iran nuclear deal by airing his opposition openly and in public, in an apparent shift from a more circumspect approach taken by the previous government.
+
+## Family Trips to Jamaica Were Early Economics Lessons for New Boston Fed President
+ - [https://www.bloomberg.com/news/articles/2023-01-03/boston-fed-s-susan-collins-takes-real-life-lessons-in-economics-to-new-job](https://www.bloomberg.com/news/articles/2023-01-03/boston-fed-s-susan-collins-takes-real-life-lessons-in-economics-to-new-job)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 10:00:14+00:00
+ - user: None
+
+<p>Susan Collins is the first Black woman to head a regional Fed bank.</p>
+
+## Bodies Pile Up in China as Covid Surge Overwhelms Crematoriums
+ - [https://www.bloomberg.com/news/articles/2023-01-03/bodies-pile-up-in-china-as-covid-surge-overwhelms-crematoriums](https://www.bloomberg.com/news/articles/2023-01-03/bodies-pile-up-in-china-as-covid-surge-overwhelms-crematoriums)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 10:00:01+00:00
+ - user: None
+
+For five days the elderly Chinese lady’s corpse lay decomposing in the Shanghai house she shared with her family before a hearse finally arrived to take away her remains.
+
+## Singapore Eyes Further Measures in Budget to Allay Cost Worries
+ - [https://www.bloomberg.com/news/articles/2023-01-03/singapore-eyes-further-measures-in-budget-to-allay-cost-worries](https://www.bloomberg.com/news/articles/2023-01-03/singapore-eyes-further-measures-in-budget-to-allay-cost-worries)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 09:58:00+00:00
+ - user: None
+
+Singapore is looking at additional support measures in the budget to help locals with cost of living issues over the coming year.
+
+## China Vows to Hit Back at Nations Imposing Covid Travel Curbs
+ - [https://www.bloomberg.com/news/articles/2023-01-03/china-vows-to-hit-back-at-nations-imposing-covid-travel-curbs](https://www.bloomberg.com/news/articles/2023-01-03/china-vows-to-hit-back-at-nations-imposing-covid-travel-curbs)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 09:46:26+00:00
+ - user: None
+
+China said it would hit back at nations that placed Covid restrictions on its travelers for “political goals,” showing the coronavirus remains a politically sensitive subject in Beijing even as it lets the virus run rampant.
+
+## Bulgaria Starts New Bid to Form Coalition as Snap Elections Loom
+ - [https://www.bloomberg.com/news/articles/2023-01-03/bulgaria-starts-new-bid-to-form-coalition-as-snap-elections-loom](https://www.bloomberg.com/news/articles/2023-01-03/bulgaria-starts-new-bid-to-form-coalition-as-snap-elections-loom)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 09:14:20+00:00
+ - user: None
+
+Bulgaria’s president gave a former ruling party the chance to create a new government and steer the nation out of a political crisis that may lead to the fifth elections in two years.
+
+## French PM Says Raising Retirement Age to 65 Not Set in Stone
+ - [https://www.bloomberg.com/news/articles/2023-01-03/french-pm-says-raising-retirement-age-to-65-not-set-in-stone](https://www.bloomberg.com/news/articles/2023-01-03/french-pm-says-raising-retirement-age-to-65-not-set-in-stone)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 08:24:56+00:00
+ - user: None
+
+French Prime Minister Elisabeth Borne said a contentious overhaul of the country’s pension system may not necessarily require raising the minimum retirement age to 65 from 62.
+
+## Ukraine Latest: NATO Allies Seek Deal to Boost Defense Spending
+ - [https://www.bloomberg.com/news/articles/2023-01-03/ukraine-latest-nato-allies-seek-deal-to-boost-defense-spending](https://www.bloomberg.com/news/articles/2023-01-03/ukraine-latest-nato-allies-seek-deal-to-boost-defense-spending)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 08:13:38+00:00
+ - user: None
+
+NATO Secretary General Jens Stoltenberg said allies are pushing to strengthen the alliance’s target of spending 2% of output on defense, with the aim of reaching an agreement by July.
+
+## Swedes Reject Legal Concessions to Win Turkey’s NATO Assent, Poll Shows
+ - [https://www.bloomberg.com/news/articles/2023-01-03/swedes-reject-legal-concessions-for-turkey-s-nato-assent-in-dagens-nyheter-poll](https://www.bloomberg.com/news/articles/2023-01-03/swedes-reject-legal-concessions-for-turkey-s-nato-assent-in-dagens-nyheter-poll)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 07:13:31+00:00
+ - user: None
+
+Swedish voters are backing their government in saying the Nordic country should refrain from compromising on its legal principles to win Turkey’s ratification for its NATO application, according to a poll.
+
+## Oil Money Can’t Buy Progress for Gulf’s Laggard State Kuwait
+ - [https://www.bloomberg.com/news/articles/2023-01-03/oil-rich-kuwait-falls-behind-saudi-uae-qatar-in-middle-east-spending-spree](https://www.bloomberg.com/news/articles/2023-01-03/oil-rich-kuwait-falls-behind-saudi-uae-qatar-in-middle-east-spending-spree)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 07:00:18+00:00
+ - user: None
+
+<p>As leaders in the Middle East use oil and gas&nbsp;wealth&nbsp;to gain influence and shake up economies, in&nbsp;Kuwait there’s concern the country is going backwards.</p>
+
+## Where Are the Gulf Arab Tourists? Israel's Hopes Fall Short
+ - [https://www.bloomberg.com/news/articles/2023-01-03/where-are-the-gulf-arab-tourists-israel-s-hopes-fall-short](https://www.bloomberg.com/news/articles/2023-01-03/where-are-the-gulf-arab-tourists-israel-s-hopes-fall-short)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 06:11:32+00:00
+ - user: None
+
+Jerusalem (AP) -- When Israel struck an agreement with the United Arab Emirates to open diplomatic ties in 2020, it brought an electrifying sense of achievement to a country long ostracized in the Middle East.
+
+## Marcos Seeks to Move China Ties to ‘Higher Gear’ in Beijing Trip
+ - [https://www.bloomberg.com/news/articles/2023-01-03/marcos-seeks-to-move-china-ties-to-higher-gear-in-beijing-trip](https://www.bloomberg.com/news/articles/2023-01-03/marcos-seeks-to-move-china-ties-to-higher-gear-in-beijing-trip)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 06:00:20+00:00
+ - user: None
+
+Philippine President Ferdinand Marcos Jr. said his government expects to sign more than 10 agreements with China during his visit there starting Tuesday, as he seeks to shift the two nations’ ties to “higher gear.”
+
+## The 10 US Lawmakers You Need to Know About in 2023
+ - [https://www.bloomberg.com/graphics/2023-top-us-lawmakers-congress/](https://www.bloomberg.com/graphics/2023-top-us-lawmakers-congress/)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 05:01:17+00:00
+ - user: None
+
+<p>Bloomberg identified 10 US lawmakers with the legislative expertise, political stature, and ability to get things done in a divided Congress &mdash; and they'll be making waves this year.</p>
+
+## China’s Foreign Minister Says ‘Deeply Impressed’ With Americans
+ - [https://www.bloomberg.com/news/articles/2023-01-03/china-s-foreign-minister-says-deeply-impressed-with-americans](https://www.bloomberg.com/news/articles/2023-01-03/china-s-foreign-minister-says-deeply-impressed-with-americans)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 02:46:01+00:00
+ - user: None
+
+New Chinese Foreign Minister Qin Gang offered effusive praise of Americans after stepping down as his nation’s top envoy to Washington, signaling that ties between the world’s biggest economies appear to be warming despite recent tensions over Taiwan.
+
+## Mistakes Were Made on All Sides in Handling of Brexit, Says Leo Varadkar
+ - [https://www.bloomberg.com/news/articles/2023-01-03/mistakes-were-made-on-all-sides-in-handling-of-brexit-says-varadkar](https://www.bloomberg.com/news/articles/2023-01-03/mistakes-were-made-on-all-sides-in-handling-of-brexit-says-varadkar)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 00:02:35+00:00
+ - user: None
+
+Taoiseach Leo Varadkar has said mistakes were made on all sides in the handling of Brexit, but vowed to be "flexible and reasonable" when attempting to solve issues with the Northern Ireland Protocol.
+
+## UK Government Urged to Act Amid Warnings of 'Intolerable' NHS Pressures
+ - [https://www.bloomberg.com/news/articles/2023-01-03/government-urged-to-act-amid-warnings-of-intolerable-nhs-pressures](https://www.bloomberg.com/news/articles/2023-01-03/government-urged-to-act-amid-warnings-of-intolerable-nhs-pressures)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-01-03 00:02:35+00:00
+ - user: None
+
+The Government is being warned that pressure on the NHS shows little sign of relenting, as ministers come under increasing pressure to respond to the crisis.
