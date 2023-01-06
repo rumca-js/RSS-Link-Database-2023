@@ -1,0 +1,32 @@
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+
+## Apple in India shows the future of tech
+ - [https://www.computerworld.com/article/3684731/apple-in-india-shows-the-future-of-tech.html#tk.rss_all](https://www.computerworld.com/article/3684731/apple-in-india-shows-the-future-of-tech.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-05 16:48:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>It <a href="https://www.computerworld.com/article/3139063/apples-thousand-year-plan-for-india.html">wasn’t so long ago</a> that critics derided Apple CEO Tim Cook for his <a href="https://www.applemust.com/tim-cooks-laser-like-vision-for-growth-tells-an-india-story/" rel="noopener nofollow" target="_blank">ambition to build business in India</a>, but now it all makes complete sense.</p><h2><strong>India has a lot to offer Apple and tech</strong></h2>
+<p>India has and always did have <a href="https://www.computerworld.com/article/3026717/tim-cook-s-apple-s-focus-on-india-is-insanely-great.html">a lot to offer Apple</a>: a young population, education, a growing middle class and consumer market, and relatively low employment costs. Apple has also worked extremely hard with India’s governments to navigate that nation’s desire to protect its own economy while opening to manufacturing.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3684731/apple-in-india-shows-the-future-of-tech.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Amazon confirms more than 18,000 employees to be laid off
+ - [https://www.computerworld.com/article/3684789/amazon-confirms-more-than-18000-employees-to-be-laid-off.html#tk.rss_all](https://www.computerworld.com/article/3684789/amazon-confirms-more-than-18000-employees-to-be-laid-off.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-05 15:04:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>Amazon has confirmed that company layoffs will total more than 18,000 employees, with the bulk of job cuts coming later this month. While several teams are impacted, the majority of the job cuts will be in the Amazon Stores and People, Experience, and Technology (PXT) organizations.</p><p>The layoffs, which represent the largest round of job cuts in the company’s history, are a result of “the uncertain economy,” according to a <a href="https://www.aboutamazon.com/news/company-news/update-from-ceo-andy-jassy-on-role-eliminations" rel="nofollow">note from CEO Andy Jassy</a> that was posted for employees on Wednesday and shared publicly. Jassy added that Amazon had weathered “difficult economies” in the past and would continue to do so.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3684789/amazon-confirms-more-than-18000-employees-to-be-laid-off.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Raises for some IT pros could jump 8% in 2023, exceeding inflation
+ - [https://www.computerworld.com/article/3684748/raises-for-some-it-pros-could-jump-8-in-2023-exceeding-inflation.html#tk.rss_all](https://www.computerworld.com/article/3684748/raises-for-some-it-pros-could-jump-8-in-2023-exceeding-inflation.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-05 11:00:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>After <a href="https://www.computerworld.com/article/3662128/it-salaries-arent-keeping-up-with-inflation-but-that-may-soon-change.html">failing miserably to keep up with inflation</a> over the past two years, it appears salaries for IT pros are beginning to catch up, according to <a href="https://e-janco.com/salary.htm" rel="nofollow noopener" target="_blank">a new study from Janco Associates</a>.</p><p>In 2021, the mean compensation for all IT pros rose just 2.05%, according to a mid-year salary survey from the business consultancy. In 2021, the median salary for IT pros at large enterprises was $100,022, and $95,681 for those at mid-sized firms.</p><p>In 2022, however, merit increases for IT pros lept to 5.61%, with the median salary for all IT professionals rising from $95,845 to $101,323. The median salary for an IT executive rose to $180,000.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3684748/raises-for-some-it-pros-could-jump-8-in-2023-exceeding-inflation.html#jump">To read this article in full, please click here</a></p></section></article>
