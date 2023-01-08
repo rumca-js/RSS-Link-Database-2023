@@ -1,0 +1,81 @@
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+
+## Michael Imperioli | First Fandoms
+ - [https://gizmodo.com/michael-imperioli-first-fandoms-1849953117](https://gizmodo.com/michael-imperioli-first-fandoms-1849953117)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 20:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--9S5fiXdi--/c_fit,fl_progressive,q_80,w_636/8c5b8f1fd74f1a7cdf9129a57e54e4eb.jpg" /><p><a href="https://gizmodo.com/michael-imperioli-first-fandoms-1849953117">Read more...</a></p>
+
+## Zom 100 Makes the Zombie Apocalypse Into an Office Worker's Godsend
+ - [https://gizmodo.com/zom-100-bucket-list-of-dead-anime-trailer-1849961873](https://gizmodo.com/zom-100-bucket-list-of-dead-anime-trailer-1849961873)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 19:15:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--58D15S_c--/c_fit,fl_progressive,q_80,w_636/8ee32f73d8bcedd0bd5bcc96d87d73f8.png" /><p>Over the years, there’ve been so many <a href="https://gizmodo.com/walking-dead-recap-io9-rob-bricken-10-years-1849802025">zombie shows</a> and <a href="https://gizmodo.com/10-recent-zombie-standouts-sadness-all-of-us-are-dead-1849447106">films</a> that new additions to the undead canon need some a <a href="https://gizmodo.com/all-of-us-are-dead-makes-high-school-even-scarier-1848366896">pretty good hook</a> to stand out from the crowd. How do you make the undead feel fresh and fun in today’s market? According to <em>Zom 100: Bucket List of the Dead, </em>you use them as an excuse to quit your job.<br /></p><p><a href="https://gizmodo.com/zom-100-bucket-list-of-dead-anime-trailer-1849961873">Read more...</a></p>
+
+## 12 Times Elon Musk Replied Lovingly to Elon Musk Quotes on Twitter
+ - [https://gizmodo.com/elon-musk-twitter-agreed-with-himself-elon-tweets-1849960815](https://gizmodo.com/elon-musk-twitter-agreed-with-himself-elon-tweets-1849960815)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 17:36:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--CI2MDOSV--/c_fit,fl_progressive,q_80,w_636/287bee87c92e712072b912b0aa86ae49.jpg" /><p>As Twitter CEO Elon Musk continues to bamboozle the world, some might be wondering what the hell he’s thinking. This is a person who went from being<a href="https://time.com/person-of-the-year-2021-elon-musk/" rel="noopener noreferrer" target="_blank"> TIME’s ‘Person of the Year’</a> to being the first person ever to <a href="https://edition.cnn.com/2023/01/02/investing/elon-musk-wealth/index.html" rel="noopener noreferrer" target="_blank">lose $200 billion</a> in personal net worth from one year to the next. Now, it looks like Musk is tech’s newest…</p><p><a href="https://gizmodo.com/elon-musk-twitter-agreed-with-himself-elon-tweets-1849960815">Read more...</a></p>
+
+## Yee-Haw, the Guardians of the Galaxy are Going Space Western
+ - [https://gizmodo.com/marvel-guardians-of-the-galaxy-comic-book-run-1849961631](https://gizmodo.com/marvel-guardians-of-the-galaxy-comic-book-run-1849961631)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 17:30:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--tkPEH3sB--/c_fit,fl_progressive,q_80,w_636/fac278b7bd383c37a21523060a3e1b80.jpg" /><p>Whenever a new Marvel movie is on the horizon, you can expect the comic book counterpart of a few characters to undergo a massive <a href="https://gizmodo.com/the-intergalactic-future-of-black-panthers-wakanda-is-a-1826323558">new status quo</a> or <a href="https://gizmodo.com/namor-sub-marine-conquered-shores-marvel-comics-series-1849186615">start showing up</a> in more comics as a guest character. (Sometimes <a href="https://gizmodo.com/jane-foster-thor-miniseries-marvel-comics-1848677868">both</a>.) So it goes with the Guardians of the Galaxy: Al Ewing and Juan Frigeri’s run on the cosmic group of…</p><p><a href="https://gizmodo.com/marvel-guardians-of-the-galaxy-comic-book-run-1849961631">Read more...</a></p>
+
+## Netflix's 2022 Darling The Sea Beast is Getting a Sequel
+ - [https://gizmodo.com/netflix-the-sea-beast-sequel-film-1849961504](https://gizmodo.com/netflix-the-sea-beast-sequel-film-1849961504)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 15:45:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--yKsuHrC2--/c_fit,fl_progressive,q_80,w_636/f981ce3acbdba2f27bed51f34ae5ea31.jpg" /><p>Netflix’s most high-profile animated movie of 2022 was perhaps understandably <a href="https://gizmodo.com/pinocchio-2022-review-guillermo-del-toro-netflix-disney-1849866730"><em>Pinocchio</em></a><em>, </em>but the streamer did release some other pretty solid animated features and shows throughout last year. One of those was <a href="https://gizmodo.com/sea-beast-trailer-netflix-movie-big-hero-6-moana-1849028429"><em>The Sea Beast</em></a><em>, </em>a fun throwback CG film about sailors hunting down giant underwater creatures, and a film that…</p><p><a href="https://gizmodo.com/netflix-the-sea-beast-sequel-film-1849961504">Read more...</a></p>
+
+## 10 Windows Interfaces That Are Burned Into Your Brain Forever
+ - [https://gizmodo.com/windows-microsoft-word-excel-screensaver-space-cadet-1849958868](https://gizmodo.com/windows-microsoft-word-excel-screensaver-space-cadet-1849958868)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 15:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--LWPQfwAe--/c_fit,fl_progressive,q_80,w_636/807e6bc8f7ed0bb4bd6e3d420dd68c26.jpg" /><p>As I lay on my death bed, the last image that flashes before me will be of a menu on Windows XP, seared into brain cells that are supposed to be used for memories of loved ones. I’m sure of it.</p><p><a href="https://gizmodo.com/windows-microsoft-word-excel-screensaver-space-cadet-1849958868">Read more...</a></p>
+
+## 10 Things ChatGPT Can and Can't Do
+ - [https://gizmodo.com/chatgpt-free-ai-10-fails-nyc-schools-college-essay-porn-1849956907](https://gizmodo.com/chatgpt-free-ai-10-fails-nyc-schools-college-essay-porn-1849956907)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 14:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--ySwvajq2--/c_fit,fl_progressive,q_80,w_636/2a95d744074d2533f39076eb3990c994.jpg" /><p>Is it <a href="https://www.washingtonpost.com/opinions/interactive/2022/chatgpt-questions-predictions-ethics/" rel="noopener noreferrer" target="_blank">a  tool</a> or a  toy? A <a href="https://www.sciencefocus.com/news/chatgpt-scientist-openai-chatbot/" rel="noopener noreferrer" target="_blank">genius</a> or a  <a href="https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/" rel="noopener noreferrer" target="_blank">dumbass</a>? A technological breakthrough or a flash in the pan? You’ve heard of <a href="https://gizmodo.com/chatgpt-how-to-use-openai-ai-elon-musk-1849855605">ChatGPT</a>, the preternaturally well-spoken chatbot spawned by  OpenAI. The algorithmic program has made headlines for its ability to ape human speech and automate previously time-consuming <a href="https://cybertext.wordpress.com/2022/12/11/testing-chatgpt-against-an-editors-rewrite/" rel="noopener noreferrer" target="_blank">editorial tasks</a>…</p><p><a href="https://gizmodo.com/chatgpt-free-ai-10-fails-nyc-schools-college-essay-porn-1849956907">Read more...</a></p>
+
+## DoNotPay's 'Robot Lawyer' Is Gearing Up for Its First U.S. Court Case
+ - [https://gizmodo.com/donotpay-speeding-ticket-chatgpt-1849960272](https://gizmodo.com/donotpay-speeding-ticket-chatgpt-1849960272)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 14:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--pMXW2kXU--/c_fit,fl_progressive,q_80,w_636/d579b84567a3277eafef9710327dc68f.png" /><p>An AI-based legal advisor is set to play the role of a lawyer in an actual court case for the first time. Via an earpiece, the artificial intelligence will coach a courtroom defendant on what to say to get out of the associated fines and consequences of a speeding charge, AI-company <a href="https://donotpay.com/about/" rel="noopener noreferrer" target="_blank">DoNotPay</a> has claimed in <a href="https://webcache.googleusercontent.com/search?q=cache:https://www.newscientist.com/article/2351893-ai-legal-assistant-will-help-defendant-fight-a-speeding-case-in-court/" rel="noopener noreferrer" target="_blank">a report</a>…</p><p><a href="https://gizmodo.com/donotpay-speeding-ticket-chatgpt-1849960272">Read more...</a></p>
+
+## The Most Precious Human Relics Left in Space
+ - [https://gizmodo.com/space-history-most-important-human-objects-1849950095](https://gizmodo.com/space-history-most-important-human-objects-1849950095)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 13:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--M23iJ6yO--/c_fit,fl_progressive,q_80,w_636/epumtiwsrkiti3w77ojx.jpg" /><p>Being the space nerd that I am, I often imagine a museum  filled with the most important objects ever sent to space. We couldn’t possibly build a place like this, but we can speculate as to which human artifacts deserve a place in our imaginary spaceflight museum. </p><p><a href="https://gizmodo.com/space-history-most-important-human-objects-1849950095">Read more...</a></p>
+
+## Brendan Fraser Would Absolutely Sign Up for a Mummy Reboot
+ - [https://gizmodo.com/brendan-fraser-the-mummy-reboot-rick-oconnell-return-1849960697](https://gizmodo.com/brendan-fraser-the-mummy-reboot-rick-oconnell-return-1849960697)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-07 00:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--7x1mH-SO--/c_fit,fl_progressive,q_80,w_636/77b8404fbdfdad3499f63fce5fc3a7d1.jpg" /><p>In a new interview, Brendan Fraser revealed that he would be open to joining any reboot of <a href="https://gizmodo.com/if-you-have-to-watch-a-mummy-movie-this-weekend-make-i-1795964092"><em>The Mummy</em></a> that Universal might be planning. Setting aside the 2017 update with<a href="https://gizmodo.com/the-first-mummy-trailer-looks-like-mission-impossible-w-1789581924"> Tom Cruise</a> <a href="https://gizmodo.com/the-mummy-tom-cruise-actually-had-a-few-redeeming-quali-1848838239">(which I didn’t think was all that bad, actually!</a>), which offered a totally new take within the same mythos, we’ve yet to see a recent …</p><p><a href="https://gizmodo.com/brendan-fraser-the-mummy-reboot-rick-oconnell-return-1849960697">Read more...</a></p>
