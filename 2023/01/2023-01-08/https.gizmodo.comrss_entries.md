@@ -1,0 +1,49 @@
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+
+## Fire Emblem Engage's Intro is Already the Year's Cheesiest Anime OP
+ - [https://gizmodo.com/fire-emblem-engage-intro-cinematic-nintendo-1849963955](https://gizmodo.com/fire-emblem-engage-intro-cinematic-nintendo-1849963955)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-08 20:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--znCv9e52--/c_fit,fl_progressive,q_80,w_636/32d5fcc8b7bf1f48acdbe5e1ade93254.jpg" /><p>If you <a href="https://gizmodo.com/gundam-witch-from-mercury-suletta-miorine-wives-lgbtq-1849610157">watch anime</a>, you’re used to intros that alternate between being deeply emotional and serious or cheesy and silly as all hell. Sometimes it’s neither of those and is purely running off of <a href="https://gizmodo.com/cannon-busters-is-a-completely-fine-anime-with-a-theme-1837410724">good vibes</a>. (Usually this is after the show in question hits a new arc.) <a href="https://gizmodo.com/lego-star-wars-skywalker-saga-opening-cutscene-trailer-1848757394">Video games</a> don’t always get flashy intros, and it’s…</p><p><a href="https://gizmodo.com/fire-emblem-engage-intro-cinematic-nintendo-1849963955">Read more...</a></p>
+
+## AMC's Pantheon Canceled After One Season Despite Two-Season Order
+ - [https://gizmodo.com/amc-pantheon-animated-series-cancelled-1849964031](https://gizmodo.com/amc-pantheon-animated-series-cancelled-1849964031)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-08 19:15:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--V5SVp2-M--/c_fit,fl_progressive,q_80,w_636/c7c21dff729011fcb8bbc7bea0821b2d.jpg" /><p>TV shows <a href="https://gizmodo.com/bastard-son-devil-himself-netflix-canceled-1849878613">getting canceled</a> are nothing new, but the last two or three years have seen shows get <a href="https://gizmodo.com/westworld-has-been-canceled-by-hbo-warner-bros-1849745181">abruptly killed off</a>, even as they were already locked in for another season. In some cases, like with <em>GLOW </em>over on Netflix, it was because of the COVID pandemic. But more recently, other series (like <em>The Minx </em>at HBO Max)…</p><p><a href="https://gizmodo.com/amc-pantheon-animated-series-cancelled-1849964031">Read more...</a></p>
+
+## M3GAN Overperforms for Her Box Office Opening Weekend
+ - [https://gizmodo.com/m3gan-overperforms-for-her-box-office-opening-weekend-1849963996](https://gizmodo.com/m3gan-overperforms-for-her-box-office-opening-weekend-1849963996)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-08 18:35:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--_dkTPmLj--/c_fit,fl_progressive,q_80,w_636/da7366b2fb31bad5f1d3a0dae07df6e3.jpg" /><p>Ever since Blumhouse and Universal released the first trailer for <a href="https://gizmodo.com/blumhouse-james-wan-m3gan-horror-trailer-robot-doll-1849642774"><em>M3GAN</em></a><em> </em>this past October, all eyes have been on the android doll. Universal’s <a href="https://gizmodo.com/m3gan-alamo-drafthouse-psa-horror-doll-robot-james-wan-1849899209">spent weeks</a> making sure that people know about the killer toy movie from <em>Malignant </em>writer <a href="https://gizmodo.com/killer-doll-m3gan-almost-had-r-rating-james-wan-1849955271">Akela Cooper</a>, acclaimed horror architect James Wan, and <em>Housebound </em>director Gerard…</p><p><a href="https://gizmodo.com/m3gan-overperforms-for-her-box-office-opening-weekend-1849963996">Read more...</a></p>
+
+## James Cameron Sees Writing on the Wall, Says Avatar Sequels Will Happen
+ - [https://gizmodo.com/james-cameron-avatar-4-avatar-5-sequels-1849963281](https://gizmodo.com/james-cameron-avatar-4-avatar-5-sequels-1849963281)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-08 17:30:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--L6dfK4IY--/c_fit,fl_progressive,q_80,w_636/8f4127a9b5cafe968b0f3e8c28e81dc5.jpg" /><p>We’re only a week into 2023, but <a href="https://gizmodo.com/avatar-2-the-way-of-water-box-office-james-cameron-1849929959"><em>Avatar: The Way of Water</em></a><em> </em>has continued to dominate the box office since its mid-December 2022 release. Having basically <a href="https://gizmodo.com/avatar-way-of-water-box-office-open-1849908745">wiped the floor</a> with any other competition in theaters during the month (and even the year’s previous big juggernaut <a href="https://gizmodo.com/highest-grossing-film-2022-avatar-2-beats-top-gun-2-1849954716"><em>Top Gun Maverick</em>)</a>, it’s only a matter of time…</p><p><a href="https://gizmodo.com/james-cameron-avatar-4-avatar-5-sequels-1849963281">Read more...</a></p>
+
+## Tim Miller Takes Over Reshoot Duties for Eli Roth's Borderlands Movie
+ - [https://gizmodo.com/borderlands-tim-miller-direct-reshoots-eli-roth-1849963510](https://gizmodo.com/borderlands-tim-miller-direct-reshoots-eli-roth-1849963510)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-08 15:45:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--_5CUWsbu--/c_fit,fl_progressive,q_80,w_636/ea19e721dea057fd5b7cbeef7e580deb.jpg" /><p>Back in 2020, Lionsgate announced its intentions to finally get a movie adaptation of Gearbox’s RPG-shooter franchise <a href="https://gizmodo.com/borderlands-first-look-at-cate-blanchett-as-lilith-is-1847007420"><em>Borderlands</em></a><em> </em>off the ground<em>. </em>After a flurry of casting news that ranged from the <a href="https://gizmodo.com/borderlands-moxxi-has-been-cast-completing-eli-roths-a-1846791477">strange</a> to the <a href="https://gizmodo.com/borderlands-actor-edgar-ramirez-lets-fans-know-what-to-1847404414">surprisingly fitting</a>, we’ve not heard a thing about it, even as some of its stars like Jamie Lee Curtis…</p><p><a href="https://gizmodo.com/borderlands-tim-miller-direct-reshoots-eli-roth-1849963510">Read more...</a></p>
+
+## Why Elon's Twitter Subscriptions Are Missing the Point
+ - [https://gizmodo.com/elon-musk-twitter-subscriptions-privacy-mewe-facebook-1849955915](https://gizmodo.com/elon-musk-twitter-subscriptions-privacy-mewe-facebook-1849955915)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-08 14:00:00+00:00
+ - user: None
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--ptM_AS1q--/c_fit,fl_progressive,q_80,w_636/52da1e038d248a278e0d88f7f4ae636b.jpg" /><p>Controversy sells. For a long time, there has been no place where this is more true than on social media platforms like Twitter and Facebook. Controversy and conflict keep you clicking, commenting, and generating the data about yourself that is used to sell ads. Every day, it becomes more obvious that the intertwined…</p><p><a href="https://gizmodo.com/elon-musk-twitter-subscriptions-privacy-mewe-facebook-1849955915">Read more...</a></p>
