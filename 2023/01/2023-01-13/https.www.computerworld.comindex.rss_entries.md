@@ -1,0 +1,83 @@
+# Source ComputerWorld, Source URL:https://www.computerworld.com/index.rss, Source language: en-US
+
+## Google warns court against changing liability shield for internet companies
+ - [https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all](https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 21:16:00+00:00
+ - user: rumpel
+ - tags: moderation,censorship,google,freedom
+
+<article>
+	<section class="page">
+<p>In a defense brief filed to the US Supreme Court this week, Google warned that altering Section 230 of the Communications Decency Act — which protects internet-based companies from being sued for content created by their users — would "upend the internet."</p><p>The brief was filed as part of Google's defense in a lawsuit brought by the family of Nohemi Gonzalez, a 23-year-old US citizen who was killed by ISIS in Paris in November 2015. Oral arguments for the case are set to be heard on February 21.</p><p>The family argues that Google-owned YouTube violated the Anti-Terrorism Act (ATA) when its algorithms recommended ISIS-related content to users. They argue that even if the company is not liable for the ISIS content, the algorithmic recommendations should not be protected by Section 230.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Patch now to address critical Windows zero-day flaw
+ - [https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all](https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 20:59:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>The first Patch Tuesday of the year from Microsoft addresses 98 security vulnerabilities, with 10 classified as critical for Windows. One vulnerability (<a href="http://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674" rel="nofollow noopener" target="_blank">CVE-2023-21674</a>) in a core section of Windows code is a zero-day that requires immediate attention. And Adobe has returned with a critical update, paired with a few low-profile patches for the Microsoft Edge browser.</p><p>We have added the Windows and Adobe updates to our “Patch Now” list, recognizing that this month’s patch deployments will require significant testing and engineering effort. The team at <a href="https://applicationreadiness.com/" rel="nofollow noopener" target="_blank">Application Readiness</a> has provided a <a href="https://applicationreadiness.com/assurance-security-dashboard-january-2023/" rel="nofollow noopener" target="_blank">helpful infographic</a> that outlines the risks associated with each of the updates for this January update cycle.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3685534/patch-now-to-address-critical-windows-zero-day-flaw.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Microsoft aims to improve OKR adoption with Viva Goals integrations
+ - [https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all](https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 17:01:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>Microsoft Friday <a href="https://www.microsoft.com/en-us/microsoft-365/blog/?p=268948&amp;preview=1&amp;_ppp=41bcb0b0ac" rel="nofollow">announced new features</a> for Viva Goals designed to make it easier to accelerate the adoption of Objectives and Key Results (OKRs) through enhanced integration with Microsoft applications such as Teams and Planner, as well as new analytics capabilities that aim to help business leaders better understand how employees are engaging with goals.</p><p>Research commissioned by Microsoft and undertaken by Forrester found that 47% of leaders said poorly structured goal setting reduces employee motivation. Additionally, 50% of employee respondents said that having more clarity around their goals gives them a greater sense of purpose and motivates them to work harder, a sentiment echoed by 60% of leaders that were surveyed. New research from Forrester and Microsoft shows employees who have clarity around goal setting are make for more motivated employees</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3685668/microsoft-aims-to-improve-okr-adoption-with-viva-goals-integrations.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## How Apple and ‘composable business’ go hand in glove
+ - [https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all](https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 15:12:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>Break it down to build it up. At its root, that’s the nature of composable business. I’d argue that the <a href="https://www.computerworld.com/article/3685228/15-years-of-iphone-put-apple-into-business.html">Apple platform</a> has a powerful place to play in this new approach to business transformation, agility, and competitiveness.</p><h2>What is composable business?</h2>
+<p><a href="https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable/" rel="nofollow noopener" target="_blank">Gartner says</a> that by adopting a <a href="https://www.cio.com/article/404619/3-reasons-why-the-future-of-business-will-be-composable.html" rel="noopener" target="_blank">composable approach to business</a>, enterprises can become more resilient to future shocks. The idea behind this approach is that rather than being committed to monolithic business applications, a business breaks down its needs to find modular solutions that integrate.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3685489/how-apple-and-composable-business-go-hand-in-glove.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Hybrid-work hardware debuts at CES. Wait…, what?
+ - [https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all](https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 12:30:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>Hybrid hardware makes perfect sense from a marketing perspective.</p><p>The most significant trend in how people work is remote and hybrid work. Some are working from home full-time, others part-time. And still, others work often neither at home nor in the office but from wherever they happen to be at the moment. </p><p>Marketing-speak is nice, but have hardware needs actually changed to reflect what remote and hybrid workers need in the real world?</p><p>Two of the leading makers of business hardware emerged at last week’s <a href="https://www.ces.tech/" rel="nofollow">CES 2023</a> with some straightforward answers. Let’s have a look.</p><p><strong>Lenovo</strong></p><p class="jumpTag"><a href="https://www.computerworld.com/article/3684756/hybrid-work-hardware-debuts-at-ces-wait-what.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## The productivity promise (and perils) of generative AI
+ - [https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all](https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 11:00:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>There’s a lot of tech industry excitement these days about tools like <a href="https://openai.com/blog/chatgpt/" rel="noopener nofollow" target="_blank">ChatGPT</a> and <a href="https://openai.com/dall-e-2/" rel="noopener nofollow" target="_blank">DALL-E</a> that fall into a class called generative AI. Generative AI looks at existing work and generates a result that seems unique,  but is actually derived from what it’s viewed. (I’d argue this is how most people produce work — by taking what they’ve learned from others to create a skill set that can be used independently of those earlier references.)</p><p>Like many others, I really enjoy working out the concept of something I want to create, but I get bored quickly when executing that concept. This reminds me of an old friend who bought a knock-off Ferrari kit car. Coming up with the dream of driving it was easy and fun, but actually putting in the thousands of hours to build it was too much. It sat in his garage, unbuilt. With these tools, you can focus on the fun part of creation (coming up with an idea), and then let the tools step in to do the tedious part of bringing everything to fruition. </p><p class="jumpTag"><a href="https://www.computerworld.com/article/3685371/the-productivity-promise-and-perils-with-generative-ai.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## 9 Android accessibility treasures that'll make anyone more productive
+ - [https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all](https://www.computerworld.com/article/3346010/android-accessibility.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 10:45:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>Accessibility in our age of mobile technology is a pretty inspiring thing.</p><p>I mean, think about it: These powerful little computers we carry around in our purses and pantaloon pockets have the potential to open up all sorts of futuristic possibilities. Their effects can be downright <em>life-changing </em>for folks with issues like impaired hearing or limited vision — and in the grand scheme of things, those sorts of advancements are far more meaningful than any random phone feature we use to organize our lives or save ourselves a few seconds here and there.</p><p>Here's the cool part, though: Those two areas don't <em>have</em> to be mutually exclusive. Some of Android's most interesting accessibility options are poised to both help those who truly need 'em <em>and</em> be handy in a way that can benefit anyone. They work for accessibility, sure, but they're also valuable for far more mundane productivity gains.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3346010/android-accessibility.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Alphabet robotics subsidiary Intrinsic lays off 20% staff
+ - [https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all](https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-01-13 08:13:00+00:00
+ - user: None
+
+<article>
+	<section class="page">
+<p>Layoffs at Alphabet’s “Other Bets” division has widened to include its robotics subsidiary Intrinsic AI, which is eliminating about 20% of its workforce or roughly 40 employees, according to reports.</p><p>Intrinsic AI came out of Alphabet's X research unit, after incubating there for close to five years. It is a robotics firm that is working on developing artificial intelligence-based software to bolster the use of robots in industries and commercial environments.</p><p>The news about the company’s layoffs was first report by <a href="https://www.theinformation.com/articles/alphabet-job-cuts-widen-to-robotics-subsidiary" rel="nofollow">The Information</a>. An email sent to Intrinsic AI didn’t immediately receive a response.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html#jump">To read this article in full, please click here</a></p></section></article>

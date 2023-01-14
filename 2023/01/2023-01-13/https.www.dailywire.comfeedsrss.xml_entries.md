@@ -1,0 +1,353 @@
+# Source Daily Wire, Source URL:https://www.dailywire.com/feeds/rss.xml, Source language: en-US
+
+## The Left Cancels More Words, Proving Once Again We Are Wasting Our Lives Listening To Mush-Brained Parasites
+ - [https://www.dailywire.com/news/the-left-cancels-more-words-proving-once-again-we-are-wasting-our-lives-listening-to-mush-brained-parasites](https://www.dailywire.com/news/the-left-cancels-more-words-proving-once-again-we-are-wasting-our-lives-listening-to-mush-brained-parasites)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 22:22:27+00:00
+ - user: None
+
+The following is the opening satirical monologue from “The Andrew Klavan Show.“ In a stunningly courageous blow against racism — or possibly just a pitiable but somehow hilarious waste of time — the University of Southern California’s School of Social Work has decided to stop using the word “field.” A notice from the school said, ...
+
+## ‘The Least I Can Do’: Ryan Reynolds Promises To Show Up And ‘Embarrass Myself’ If ‘Spirited’ Tune Scores Oscar Nod
+ - [https://www.dailywire.com/news/the-least-i-can-do-ryan-reynolds-promises-to-show-up-and-embarrass-myself-if-spirited-tune-scores-oscar-nod](https://www.dailywire.com/news/the-least-i-can-do-ryan-reynolds-promises-to-show-up-and-embarrass-myself-if-spirited-tune-scores-oscar-nod)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 21:23:52+00:00
+ - user: None
+
+Actor Ryan Reynolds says that if a song from his holiday Apple TV+ offering &#8220;Spirited&#8221; were to earn an Academy Award nomination, he would feel obligated to &#8220;show up on that stage and embarrass myself.&#8221; The song in question is titled &#8220;Good Afternoon&#8221; and is already reportedly on a &#8220;shortlist&#8221; shared by entertainment site Variety: ...
+
+## Karine Jean-Pierre Shut Out Fox’s Peter Doocy: Here’s What He Would Have Asked
+ - [https://www.dailywire.com/news/karine-jean-pierre-shut-out-foxs-peter-doocy-heres-what-he-would-have-asked](https://www.dailywire.com/news/karine-jean-pierre-shut-out-foxs-peter-doocy-heres-what-he-would-have-asked)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 20:39:58+00:00
+ - user: None
+
+Press Secretary Karine Jean-Pierre did not shed much light on the still-unfolding situation regarding the classified documents found in President Joe Biden&#8217;s possession — and while she stone-walled reporters on the subject during Friday&#8217;s briefing, Fox News White House correspondent Peter Doocy later revealed what he would have asked. Doocy spoke with &#8220;America Reports&#8221; anchor ...
+
+## DeSantis Hammers NHL Over ‘Discriminatory’ Job Posting: ‘Not Welcome In The State Of Florida’
+ - [https://www.dailywire.com/news/desantis-hammers-nhl-over-discriminatory-job-posting-not-welcome-in-the-state-of-florida](https://www.dailywire.com/news/desantis-hammers-nhl-over-discriminatory-job-posting-not-welcome-in-the-state-of-florida)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 19:50:00+00:00
+ - user: None
+
+Florida Governor Ron DeSantis slammed the National Hockey League (NHL) in a statement Friday afternoon after the league posted what the state deemed to be a &#8220;discriminatory&#8221; job posting. &#8220;The NHL is proud to announce its first-ever Pathway to Hockey Summit launching during our 2023 All Star festivities in South Florida!&#8221; the NHL said in ...
+
+## Supreme Court Agrees To Hear Case Of Postal Worker Forced Out Of Job After Requesting To Observe Sabbath
+ - [https://www.dailywire.com/news/supreme-court-agrees-to-hear-case-of-postal-worker-forced-out-of-job-after-requesting-to-observe-sabbath](https://www.dailywire.com/news/supreme-court-agrees-to-hear-case-of-postal-worker-forced-out-of-job-after-requesting-to-observe-sabbath)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 19:39:28+00:00
+ - user: None
+
+The Supreme Court has agreed to take up a case about a postal worker who was forced out of his job when he did not want to work on Sundays due to his religious convictions. “It is unlawful for employers to discriminate against employees on the basis of religion,” Kelly Shackelford, President, CEO, and Chief ...
+
+## Former NFL Running Back Peyton Hillis Taken Off Ventilator After Saving Kids From Drowning: Report
+ - [https://www.dailywire.com/news/former-nfl-running-back-peyton-hillis-taken-off-ventilator-after-saving-kids-from-drowning-report](https://www.dailywire.com/news/former-nfl-running-back-peyton-hillis-taken-off-ventilator-after-saving-kids-from-drowning-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 19:31:11+00:00
+ - user: None
+
+Former NFL running back Peyton Hillis, who was on the cover of the 2012 Madden NFL video game, has reportedly been taken off a ventilator that he was placed on after being hospitalized following a swimming accident. Hillis, 36, was rushed to the hospital earlier this month by helicopter in critical condition after he saved ...
+
+## WATCH: Karine Jean-Pierre Ducks Questions About Biden’s Classified Document Scandal
+ - [https://www.dailywire.com/news/watch-karine-jean-pierre-ducks-questions-about-bidens-classified-document-scandal](https://www.dailywire.com/news/watch-karine-jean-pierre-ducks-questions-about-bidens-classified-document-scandal)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 18:53:40+00:00
+ - user: None
+
+White House Press Secretary Karine Jean-Pierre repeatedly deflected questions this week about the growing controversy surrounding classified documents that were found at the home and private office of President Joe Biden. The document scandal was first revealed earlier this week when CBS News reported that personal lawyers for Biden were clearing out a private office ...
+
+## It’s Not A Great Look If You Google How To Dispose Of A Woman’s Body And Then Your Wife Goes Missing
+ - [https://www.dailywire.com/news/its-not-a-great-look-if-you-google-how-to-dispose-of-a-womans-body-and-then-your-wife-goes-missing](https://www.dailywire.com/news/its-not-a-great-look-if-you-google-how-to-dispose-of-a-womans-body-and-then-your-wife-goes-missing)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 18:35:40+00:00
+ - user: None
+
+On Fridays, I will talk about current criminal cases being discussed in the media that are fascinating or interesting for one reason or another. This weekly segment on “Candace” will be called The Friday Files and the topics will relate to the crime itself or the cover-up of a crime. You can watch more of ...
+
+## ‘Here, Kitty Kitty’: Dallas Zoo Calls Escaped ‘Non-Dangerous’ Leopard ‘A Serious Situation.’ Twitter Users, Not So Much.
+ - [https://www.dailywire.com/news/here-kitty-kitty-dallas-zoo-calls-escaped-non-dangerous-leopard-a-serious-situation-twitter-users-not-so-much](https://www.dailywire.com/news/here-kitty-kitty-dallas-zoo-calls-escaped-non-dangerous-leopard-a-serious-situation-twitter-users-not-so-much)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 18:35:16+00:00
+ - user: None
+
+The Dallas Zoo closed Friday due to a &#8220;serious situation” — though Twitter users didn&#8217;t think it was that serious. The zoo closed Friday morning when Nova, a clouded leopard, escaped its habitat. Dallas Police assisted in the search and found evidence that the animal may have intentionally been let loose. Twitter users, however, were ...
+
+## Harvard’s Kennedy School Dean Should Be Applauded For Defending Academic Integrity
+ - [https://www.dailywire.com/news/harvards-kennedy-school-dean-should-be-applauded-for-defending-academic-integrity](https://www.dailywire.com/news/harvards-kennedy-school-dean-should-be-applauded-for-defending-academic-integrity)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 18:17:14+00:00
+ - user: None
+
+Last week it was reported that Douglas Elmendorf, Dean of Harvard’s Kennedy School, decided not to award a prestigious fellowship to Kenneth Roth, the former director of the NGO Human Rights Watch. A spokesman for the school explained that the decision was based on “an evaluation of the candidate’s potential contributions” to the school, but ...
+
+## Judge Dismisses Obstruction Charge Against J6 Defendant Who Said ‘Spirit Of God’ Moved Him In Capitol
+ - [https://www.dailywire.com/news/judge-dismisses-obstruction-charge-against-j6-defendant-who-said-spirit-of-god-moved-him-in-capitol](https://www.dailywire.com/news/judge-dismisses-obstruction-charge-against-j6-defendant-who-said-spirit-of-god-moved-him-in-capitol)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 17:58:20+00:00
+ - user: None
+
+D.C. District Judge Amy Berman Jackson acquitted a January 6 defendant of obstruction on Friday after ruling that prosecutors presented no evidence that the defendant intended to stop Congress that day. Joshua Black of Alabama was cleared of the charge because Jackson said the “unique stew in his mind” that was described during the trial ...
+
+## Democrats, Media Imply Sexism In Missouri Women Lawmaker Dress Code Change, But It Hardly Changed Anything
+ - [https://www.dailywire.com/news/democrats-media-imply-sexism-in-missouri-women-lawmaker-dress-code-change-but-it-hardly-changed-anything](https://www.dailywire.com/news/democrats-media-imply-sexism-in-missouri-women-lawmaker-dress-code-change-but-it-hardly-changed-anything)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 17:48:35+00:00
+ - user: None
+
+Missouri House lawmakers voted to change the women’s dress code on Wednesday, sparking outrage from Democrats and several legacy media reports that looked to imply there was sexism at play, even though the new code ended up looking surprisingly similar to the previous dress code. Republican state Representative Ann Kelley pushed for the changes, saying ...
+
+## Evidence The January 6 Committee Never Released
+ - [https://www.dailywire.com/news/evidence-the-january-6-committee-never-released](https://www.dailywire.com/news/evidence-the-january-6-committee-never-released)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 17:33:45+00:00
+ - user: None
+
+The January 6 Committee ended its year-and-a-half-long investigation without releasing publicly several pieces of evidence. Last month, the panel released its final report, recommended charges against former President Donald Trump, and began to release hundreds of witness materials. But because the panel disbanded at the start of the new session of Congress, it cannot release the ...
+
+## Pfizer’s Updated COVID Booster Linked To Potential Stroke Risk, CDC Launches ‘Additional Investigation’
+ - [https://www.dailywire.com/news/pfizers-updated-covid-booster-linked-to-potential-stroke-risk-cdc-launches-additional-investigation](https://www.dailywire.com/news/pfizers-updated-covid-booster-linked-to-potential-stroke-risk-cdc-launches-additional-investigation)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 16:46:19+00:00
+ - user: None
+
+The Centers for Disease Control and Prevention (CDC) announced Friday that it has launched an “additional investigation” into Pfizer’s updated COVID booster after a government safety monitoring system detected a potential stroke risk for those 65 and older who received the pharmaceutical giant’s bivalent shot.  Bivalent COVID vaccines were authorized by the FDA last August ...
+
+## Murder Charge For Man Who Allegedly Killed Ex-Japanese Prime Minister With Homemade Gun
+ - [https://www.dailywire.com/news/murder-charge-for-man-who-allegedly-killed-ex-japanese-prime-minister-with-homemade-gun](https://www.dailywire.com/news/murder-charge-for-man-who-allegedly-killed-ex-japanese-prime-minister-with-homemade-gun)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 16:43:21+00:00
+ - user: None
+
+The man accused of assassinating former Japanese Prime Minister Shinzo Abe has been charged with murder, months after Abe was shot while giving a campaign speech in western Japan. Tetsuya Yamagami, who allegedly shot Abe in July with a homemade gun, will stand trial for murder and a gun charge, according to the Nara District ...
+
+## Gwyneth Paltrow Warns Katy Perry That Kids Can Be Difficult On A Marriage; Perry Pushes Back
+ - [https://www.dailywire.com/news/gwyneth-paltrow-warns-katy-perry-that-kids-can-be-difficult-on-a-marriage-perry-pushes-back](https://www.dailywire.com/news/gwyneth-paltrow-warns-katy-perry-that-kids-can-be-difficult-on-a-marriage-perry-pushes-back)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 16:23:02+00:00
+ - user: None
+
+Actress Gwyneth Paltrow had some fun with singer Katy Perry when she warned the young mother that young kids can ruin a marriage and that it&#8217;s &#8220;hard on a relationship.&#8221; During the 50-year-old actress&#8217; latest &#8220;Goop&#8221; podcast, the host was speaking with her guest, 38-year-old pop singer Perry, about how everything changes when children enter ...
+
+## New Study Finds ‘Methodological Flaws’ And ‘Significant Risk Of Harm’ In ‘Dutch Protocol’ For Pediatric Medical Transition
+ - [https://www.dailywire.com/news/new-study-finds-methodological-flaws-and-significant-risk-of-harm-in-dutch-protocol-for-pediatric-medical-transition](https://www.dailywire.com/news/new-study-finds-methodological-flaws-and-significant-risk-of-harm-in-dutch-protocol-for-pediatric-medical-transition)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 15:50:03+00:00
+ - user: None
+
+A new study found that even the &#8220;best&#8221; evidence for pediatric medical transition is of extremely low quality and should not be relied upon as justification for medically transitioning minors. A peer-reviewed paper published last week critically analyzed the &#8220;gold standard&#8221; evidence in support of medically transitioning trans-identified children, known as the &#8220;Dutch studies,&#8221; and ...
+
+## Here’s What Bureaucratic Gaslighting Over Gas Stoves Is Really About
+ - [https://www.dailywire.com/news/heres-what-bureaucratic-gaslighting-over-gas-stoves-is-really-about](https://www.dailywire.com/news/heres-what-bureaucratic-gaslighting-over-gas-stoves-is-really-about)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 15:21:40+00:00
+ - user: None
+
+The Biden administration’s Consumer Product Safety Commission drew heat over the past several days after officials floated a ban on stoves fueled by natural gas. CPSC Commissioner Richard Trumka Jr. remarked during an interview with Bloomberg that gas stoves represent a “hidden hazard” and said “any option is on the table” for banning the popular ...
+
+## One Year After Supreme Court Struck Down COVID Vax Mandate, Freedom Flourishes
+ - [https://www.dailywire.com/news/one-year-after-supreme-court-struck-down-covid-vax-mandate-freedom-flourishes](https://www.dailywire.com/news/one-year-after-supreme-court-struck-down-covid-vax-mandate-freedom-flourishes)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 15:19:44+00:00
+ - user: None
+
+One year ago, The Daily Wire helped strike a blow for freedom when the United States Supreme Court ruled that the Biden administration could not mandate the COVID vaccine for employees. In the year since the landmark ruling, businesses around the nation dropped their vaccine mandates in a win for liberty and the rule of law. ...
+
+## ‘Wants Crime To Flourish’: Joe Rogan Slams Soros As An ‘Evil’ Villain In Superhero Movie
+ - [https://www.dailywire.com/news/wants-crime-to-flourish-joe-rogan-slams-soros-as-an-evil-villain-in-superhero-movie](https://www.dailywire.com/news/wants-crime-to-flourish-joe-rogan-slams-soros-as-an-evil-villain-in-superhero-movie)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 15:09:34+00:00
+ - user: None
+
+Joe Rogan didn&#8217;t hold back when he compared leftist billionaire George Soros to an &#8220;evil&#8221; villain in a superhero movie and said it&#8217;s almost like Soros wants &#8220;crime to flourish&#8221; when he supports soft-on crime district attorneys. During Spotify&#8217;s &#8220;The Joe Rogan Experience&#8221; podcast on Wednesday, the host was speaking with former CIA covert operations ...
+
+## Celebrities Continue Sharing Tributes To Lisa Marie Presley As Her Burial Plans Are Revealed
+ - [https://www.dailywire.com/news/celebrities-continue-sharing-tributes-to-lisa-marie-presley-as-her-burial-plans-are-revealed](https://www.dailywire.com/news/celebrities-continue-sharing-tributes-to-lisa-marie-presley-as-her-burial-plans-are-revealed)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 14:41:02+00:00
+ - user: None
+
+Celebrities continued sharing touching tributes to Elvis Presley&#8217;s daughter, Lisa Marie Presley, in the wake of her death after she went into cardiac arrest Thursday. She was 54. Presley&#8217;s mother, Priscilla, shared the devastating news in a Thursday statement. &#8220;My beautiful daughter Lisa Marie has left us. She was the most passionate strong and loving ...
+
+## Suspects In Supreme Court Leak Narrowed Down: Report
+ - [https://www.dailywire.com/news/suspects-in-supreme-court-leak-narrowed-down-report](https://www.dailywire.com/news/suspects-in-supreme-court-leak-narrowed-down-report)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 14:26:21+00:00
+ - user: None
+
+The Supreme Court investigation into who leaked a draft opinion indicating Roe v. Wade would be overturned last year has narrowed down the list of suspects, according to a new report. The Wall Street Journal, which broke the news Friday, cited sources who stressed that officials have not yet settled on a specific suspect. Chief ...
+
+## House Judiciary Committee Launches Investigation Into Biden Documents Scandal
+ - [https://www.dailywire.com/news/house-judiciary-committee-launches-investigation-into-biden-documents-scandal](https://www.dailywire.com/news/house-judiciary-committee-launches-investigation-into-biden-documents-scandal)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 14:20:42+00:00
+ - user: None
+
+The House Judiciary Committee announced Friday an investigation into President Joe Biden&#8216;s handling of classified documents. Chairman Jim Jordan (R-OH) and Rep. Mike Johnson (R-LA) sent a letter to Attorney General Merrick Garland demanding documents and communications by January 27. Among the records sought by the lawmakers were documents and communications related to the appointment ...
+
+## Mindy Kaling’s ‘Scooby Doo’ Spinoff ‘Velma’ Trashed By Fans Saying It’s ‘Horrible,’ ‘Not Funny At All’
+ - [https://www.dailywire.com/news/mindy-kalings-scooby-doo-spinoff-velma-trashed-by-fans-saying-its-horrible-not-funny-at-all](https://www.dailywire.com/news/mindy-kalings-scooby-doo-spinoff-velma-trashed-by-fans-saying-its-horrible-not-funny-at-all)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 14:16:05+00:00
+ - user: None
+
+The new “Scooby-Doo” spinoff cartoon “Velma” is not appealing to many fans of the original series. The adult-oriented cartoon airing on HBO Max features the character Velma Dinkley and her origin story before the beloved crime-solving gang from the original &#8220;Scooby-Doo&#8221; series got together. It stars comedic actress Mindy Kaling as the voice of the ...
+
+## New Twitter Files Release Shows How Adam Schiff Staffers Harassed The Company With Absurd Ban Requests
+ - [https://www.dailywire.com/news/new-twitter-files-release-shows-how-adam-schiff-staffers-harassed-the-company-with-absurd-ban-requests](https://www.dailywire.com/news/new-twitter-files-release-shows-how-adam-schiff-staffers-harassed-the-company-with-absurd-ban-requests)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 14:01:24+00:00
+ - user: None
+
+Independent journalist Matt Taibbi released a supplemental edition of the Twitter Files on Friday which detailed the many requests made by the office of Rep. Adam Schiff (D-CA) to ban posts that criticized Joe Biden and purportedly advanced conspiracy theories. Previous editions of the project, revealed by independent reporters based on emails and other internal ...
+
+## McCarthy Invites Biden To Deliver State Of The Union Address
+ - [https://www.dailywire.com/news/mccarthy-invites-biden-to-deliver-state-of-the-union-address](https://www.dailywire.com/news/mccarthy-invites-biden-to-deliver-state-of-the-union-address)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 13:39:34+00:00
+ - user: None
+
+President Joe Biden is set to deliver his State of the Union address next month following an invitation by House Speaker Kevin McCarthy (R-CA). McCarthy, who was voted speaker by his peers less than a week ago, issued a letter to Biden on Friday that set February 7 as the date for the president to ...
+
+## A Headless Torso Was Found At A Rest Stop In 2004. Someone Finally Has Been Arrested For The Crime.
+ - [https://www.dailywire.com/news/a-headless-torso-was-found-at-a-rest-stop-in-2004-someone-finally-has-been-arrested-for-the-crime](https://www.dailywire.com/news/a-headless-torso-was-found-at-a-rest-stop-in-2004-someone-finally-has-been-arrested-for-the-crime)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 13:38:09+00:00
+ - user: None
+
+It’s been nearly 20 years since the headless torso of a woman was found near a picnic area at a rest stop in Warren County, Missouri, but a man finally has been arrested for the crime. Authorities weren’t able to identify the deceased woman for 12 years, using DNA samples in 2016 to determine that ...
+
+## ‘Hell, Maybe I’ll Look Into Getting A Huge Statue’: Silk Cites George Floyd, Mocks Leftists Slamming Her After Sister’s Death
+ - [https://www.dailywire.com/news/hell-maybe-ill-look-into-getting-a-huge-statue-silk-cites-george-floyd-mocks-leftists-slamming-her-after-sisters-death](https://www.dailywire.com/news/hell-maybe-ill-look-into-getting-a-huge-statue-silk-cites-george-floyd-mocks-leftists-slamming-her-after-sisters-death)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 12:49:04+00:00
+ - user: None
+
+In the wake of her sister’s death earlier this week and subsequent mocking by leftists of a GiveSendGo page devoted to preserving her sister’s legacy, Silk of the former team Diamond and Silk delivered a ringing response, citing leftists’ deification of George Floyd. “On Sunday, January 8, 2023, the World just lost a True Angel ...
+
+## CNN Writes The Puff Piece Of All Puff Pieces About Biden’s Work Ethic, Handling Of Classified Docs
+ - [https://www.dailywire.com/news/cnn-writes-the-puff-piece-of-all-puff-pieces-about-bidens-work-ethic-handling-of-classified-docs](https://www.dailywire.com/news/cnn-writes-the-puff-piece-of-all-puff-pieces-about-bidens-work-ethic-handling-of-classified-docs)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 12:44:07+00:00
+ - user: None
+
+It wasn&#8217;t President Joe Biden&#8217;s fault that he left classified documents sprawled throughout the Acela corridor after leaving the vice presidency, CNN wants you to know. He was too busy working hard up until the last minute of the Obama presidency and was a victim of his own making, the legacy media outlet implied Friday ...
+
+## Virginia School Official Aware That 6-Year-Old May Have Been Armed Before Teacher Was Shot, Superintendent Says
+ - [https://www.dailywire.com/news/virginia-school-official-aware-that-6-year-old-may-have-been-armed-before-was-teacher-shot-superintendent-says](https://www.dailywire.com/news/virginia-school-official-aware-that-6-year-old-may-have-been-armed-before-was-teacher-shot-superintendent-says)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 12:01:15+00:00
+ - user: None
+
+A Virginia school administrator knew of a possible weapon on campus before a teacher was shot by a 6-year-old, according to the school’s superintendent.  Newport News Public Schools Superintendent George Parker told parents Thursday evening that “at least one” school official was aware of a potential gun on the campus of Richneck Elementary School before ...
+
+## ‘Witchcraft … Demonic’: Former NFL Player Blasts Chicago Mayor Lightfoot’s Crime Ad
+ - [https://www.dailywire.com/news/witchcraft-demonic-former-nfl-player-blasts-chicago-mayor-lightfoots-crime-ad](https://www.dailywire.com/news/witchcraft-demonic-former-nfl-player-blasts-chicago-mayor-lightfoots-crime-ad)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 11:58:06+00:00
+ - user: None
+
+Former NFL safety Jack Brewer blasted an ad from Democrat Chicago Mayor Lori Lightfoot that boasts of her record on combatting crime, calling the “manipulation,” in the ad &#8220;demonic&#8221; and akin to “witchcraft.&#8221; Brewer, who supported former President Donald Trump, made his remarks in an interview with Fox News’ Neil Cavuto, who commented that the ad touted ...
+
+## Janet Yellen Says Inflation Has Been ‘Quite Moderate, Quite Low For The Last Six Months’
+ - [https://www.dailywire.com/news/janet-yellen-says-inflation-has-been-quite-moderate-quite-low-for-the-last-six-months](https://www.dailywire.com/news/janet-yellen-says-inflation-has-been-quite-moderate-quite-low-for-the-last-six-months)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 11:51:30+00:00
+ - user: None
+
+Treasury Secretary Janet Yellen said Friday that inflationary pressures have been “moderate” and “low” over the last several months. Price levels decreased slightly last month amid a decline in energy prices; year-over-year inflation, therefore, fell from 7.1% in November to 6.5% in December, marking the largest overall decline in nearly three years while food and ...
+
+## Prince Harry’s ‘Spare’ Breaks Publisher’s Sales Record, Selling 1.4 Million Copies In One Day
+ - [https://www.dailywire.com/news/prince-harrys-spare-breaks-publishers-sales-record-selling-1-4-million-copies-in-one-day](https://www.dailywire.com/news/prince-harrys-spare-breaks-publishers-sales-record-selling-1-4-million-copies-in-one-day)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 11:31:31+00:00
+ - user: None
+
+Prince Harry&#8217;s highly publicized memoir, “Spare,” sold a record-breaking 1.4 million copies during the first day of its release. Critics have been circulating some of the more sensational segments of the British royal’s tell-all book, with many mocking some of the details Harry chose to share in the memoir. But the fact remains that the book ...
+
+## Federal Spending Must Be Cut 26% To Balance Budget, Even More To Keep Core Social, Defense Programs Intact: Analysis
+ - [https://www.dailywire.com/news/federal-spending-must-be-cut-26-to-balance-budget-even-more-to-keep-core-social-defense-programs-intact-analysis](https://www.dailywire.com/news/federal-spending-must-be-cut-26-to-balance-budget-even-more-to-keep-core-social-defense-programs-intact-analysis)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 11:20:51+00:00
+ - user: None
+
+Severe reductions to federal expenditures would be required in order to attain a balanced budget while keeping intact critical programs such as Social Security, according to a new analysis. Policymakers must enact 26% across-the-board spending cuts in order to balance the budget within the next decade, according to an analysis from the Committee for a ...
+
+## These TV Characters Would Never Fly Today — And We All Know Why
+ - [https://www.dailywire.com/news/these-tv-characters-would-never-fly-today-and-we-all-know-why](https://www.dailywire.com/news/these-tv-characters-would-never-fly-today-and-we-all-know-why)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 11:18:40+00:00
+ - user: None
+
+Cancel culture’s impact on Hollywood can’t be over-stated.  The woke revolution made fun, frothy awards shows into grim lectures on inequality, racism, and the dastardly GOP politician du jour. The mainstream movie comedy is on the endangered species list, degraded by rules that don’t allow for ribald, R-rated shenanigans. TV has partially escaped the cancel ...
+
+## Trump Organization Hit With Max Penalty In Tax Fraud Case
+ - [https://www.dailywire.com/news/trump-organization-hit-with-max-penalty-in-tax-fraud-case](https://www.dailywire.com/news/trump-organization-hit-with-max-penalty-in-tax-fraud-case)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 11:06:25+00:00
+ - user: None
+
+Former President Donald Trump’s business was ordered to pay the maximum penalty Friday after being convicted on multiple charges related to tax evasion last month. A Manhattan judge ordered the Trump Organization to pay a fine of $1.6 million for a years-long scheme to evade taxes by handing out gifts and perks to top executives, ...
+
+## UFO Reports From U.S. Military Are Increasing
+ - [https://www.dailywire.com/news/ufo-reports-from-u-s-military-are-increasing](https://www.dailywire.com/news/ufo-reports-from-u-s-military-are-increasing)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 10:53:02+00:00
+ - user: None
+
+The number of reports from U.S. military personnel revolving around UFOs has increased substantially in the last year. The Office of the Director of National Intelligence released a report on Thursday revealing that 510 such reports have been filed, including the 144 incidents mentioned in its June 2021 unclassified report on “Unidentified Anomalous Phenomena.” “Unidentified ...
+
+## Suspected Idaho Killer Requests Documents Related To ‘Co-Defendant,’ Who Has Never Been Mentioned By Police
+ - [https://www.dailywire.com/news/suspected-idaho-killer-requests-documents-related-to-co-defendant-who-has-never-been-mentioned-by-police](https://www.dailywire.com/news/suspected-idaho-killer-requests-documents-related-to-co-defendant-who-has-never-been-mentioned-by-police)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 10:48:24+00:00
+ - user: None
+
+An attorney representing the man suspected of killing four University of Idaho students in November has filed some unusual requests in the case, including documents requesting information related to an unnamed “co-defendant.” The 28-year-old suspect, who will not be named per Daily Wire policy, is charged with four counts of first-degree murder and one count of felony burglary. ...
+
+## ‘Futile Efforts Of A Desperate Man’: FBI Whistleblower Rips Wray’s Rebranding Bid As Jim Jordan Preps Probes
+ - [https://www.dailywire.com/news/futile-efforts-of-a-desperate-man-fbi-whistleblower-rips-wrays-rebranding-bid-as-jim-jordan-preps-probes](https://www.dailywire.com/news/futile-efforts-of-a-desperate-man-fbi-whistleblower-rips-wrays-rebranding-bid-as-jim-jordan-preps-probes)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 10:38:38+00:00
+ - user: None
+
+An FBI whistleblower accused Director Christopher Wray of scrambling to rebrand himself as a non-partisan, law and order man just as House Republicans are preparing to investigate how the bureau has allegedly been “weaponized” against conservative Americans under his watch. Steve Friend, an eight-year agent who was suspended indefinitely after complaining about internal FBI policies ...
+
+## Activist Investor Plans Shakeup At Disney But Does Not Address Woke Activism
+ - [https://www.dailywire.com/news/activist-investor-plans-shakeup-at-disney-but-does-not-address-woke-activism](https://www.dailywire.com/news/activist-investor-plans-shakeup-at-disney-but-does-not-address-woke-activism)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 09:42:38+00:00
+ - user: None
+
+Trian Fund Management CEO Nelson Peltz launched a widely publicized campaign to earn a seat on the Disney board of directors and address various corporate governance issues, but the longtime investor does not appear to have plans to reverse the company&#8217;s social and political activism. Trian, which holds a stake in Disney worth approximately $900 ...
+
+## Brit Awards’ Nominees For ‘Artist Of The Year’ Are All Men After Ditching Gendered Categories
+ - [https://www.dailywire.com/news/brit-awards-nominees-for-artist-of-the-year-are-all-men-after-ditching-gendered-categories](https://www.dailywire.com/news/brit-awards-nominees-for-artist-of-the-year-are-all-men-after-ditching-gendered-categories)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 09:31:57+00:00
+ - user: None
+
+After deciding to ditch gendered categories in an effort to be more inclusive, The Brit Awards are facing scrutiny now that this year&#8217;s nominees for &#8220;Artist of the Year&#8221; don’t include any women. The annual showcase of British musical artists debuted its new policy last year. They replaced “Best Male” and Best Female” solo artist ...
+
+## U.S. Flights Were Grounded Because Of One Man’s Mistake, Official Says
+ - [https://www.dailywire.com/news/u-s-flights-were-grounded-because-of-one-mans-mistake-official-says](https://www.dailywire.com/news/u-s-flights-were-grounded-because-of-one-mans-mistake-official-says)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 08:47:45+00:00
+ - user: None
+
+An engineer has been blamed for the Federal Aviation Administration (FAA) NOTAM system crash that halted all domestic airplane departures Wednesday morning, according to a new report. A senior FAA official told ABC News Thursday that systems monitoring of the NOTAM system was at an urgently high level as a result of Wednesday’s debacle. An ...
+
+## Air New Zealand Mocks Prince Harry’s Claim In ‘Spare’
+ - [https://www.dailywire.com/news/air-new-zealand-mocks-prince-harrys-claim-in-spare](https://www.dailywire.com/news/air-new-zealand-mocks-prince-harrys-claim-in-spare)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 08:15:06+00:00
+ - user: None
+
+Air New Zealand decked Great Britain’s Prince Harry after seeing a claim he made about them in his book “Spare” that they said was demonstrably false. In the book, Harry claims that his wife, Meghan Markle, bought a first-class ticket on the airline from Mexico to Great Britain for her father Thomas because she was ...
+
+## United Nations Alerts Policymakers To Brace For An Aging Population
+ - [https://www.dailywire.com/news/united-nations-alerts-policymakers-to-brace-for-an-aging-population](https://www.dailywire.com/news/united-nations-alerts-policymakers-to-brace-for-an-aging-population)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-13 07:34:59+00:00
+ - user: None
+
+A report from The United Nations encouraged policymakers around the world to plan for older populations with fewer younger workers. Developed countries with a greater share of older people and developing countries with more young people will experience the “irreversible global trend” of population aging, according to a report from the organization. The number of ...
