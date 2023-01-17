@@ -1,0 +1,49 @@
+# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
+
+## The Last of Us Stars Pedro Pascal and Nico Parker Break Down Iconic Death Scene
+ - [https://www.gamespot.com/videos/the-last-of-us-stars-pedro-pascal-and-nico-parker-break-down-iconic-death-scene/2300-6460389/](https://www.gamespot.com/videos/the-last-of-us-stars-pedro-pascal-and-nico-parker-break-down-iconic-death-scene/2300-6460389/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-01-16 18:15:00+00:00
+ - user: None
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1570/15705953/4086966-230116_gsu_lastofus_scenebreakdown_site.jpeg" width="480" /> The Last of Us stars Pedro Pascal (Joel), Nico Parker (Sarah), and Gabriel Luna (Tommy) break down the heartbreaking Episode 1 death and how they adapted one of the most iconic scenes from the game.
+
+## The Last of Us Episode 1 Breakdown | The Chat With Us
+ - [https://www.gamespot.com/videos/the-last-of-us-episode-1-breakdown-the-chat-with-us/2300-6460388/](https://www.gamespot.com/videos/the-last-of-us-episode-1-breakdown-the-chat-with-us/2300-6460388/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-01-16 17:44:00+00:00
+ - user: None
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1570/15705953/4086964-230116_gsu_lastofus_chat_with_us_site.jpeg" width="480" /> GameSpot Entertainment Editor Chris Hayner, TV Guide Senior Editor Megan Vick, and Metacritic Senior Editor Danielle Turchiano break down the series premiere of HBO's The Last of Us and check in with series stars Pedro Pascal, Bella Ramsey, Nico Parker, and Gabriel Luna about adapting the video game prologue in the first episode of the series. The after-show is a collaboration between the brands at Fandom Inc.
+
+## The Last Of Us: GameSpot, TV Guide, And Metacritic Launch After Show
+ - [https://www.gamespot.com/articles/the-last-of-us-gamespot-tv-guide-and-metacritic-launch-after-show/1100-6510585/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-of-us-gamespot-tv-guide-and-metacritic-launch-after-show/1100-6510585/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-01-16 16:57:00+00:00
+ - user: None
+
+<p dir="ltr">The first episode of HBO's The Last of Us has arrived and chances are you have a lot you want to discuss and break down. Luckily for you, there's an outlet for that. GameSpot has joined forces with sister sites <a href="https://www.tvguide.com/tvshows/the-last-of-us/1030763342/">TV Guide</a> and <a href="https://www.metacritic.com/news">Metacritic</a> for The Chat with Us, a The Last of Us after-show presented by <a href="https://www.fandom.com/">Fandom</a>. You can take a look at the first episode below.</p><p dir="ltr">The Chat with Us will features interviews with key cast and creatives from the HBO series, as well as The Last of Us video game experts as we dive deep into every single episode of the new show. After all, is there ever enough talk about Clickers? Or the continuing adventures of Joel and Ellie, for that matter?</p><div>          </div><p dir="ltr">The first episode features insight from The Last of Us stars Pedro Pascal, Bella Ramsey, Nico Parker, and Gabriel Luna, as they discuss bringing the game's iconic and heartbreaking prologue to life for the first time. We also look at the scariest moments of the episode, the introduction of Ellie, and speak with GameSpot's Jake Dekker about how this first installment stacks up against the game.</p><a href="https://www.gamespot.com/articles/the-last-of-us-gamespot-tv-guide-and-metacritic-launch-after-show/1100-6510585/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Upcoming 2023 PlayStation Games Official Trailer
+ - [https://www.gamespot.com/videos/upcoming-2023-playstation-games-official-trailer/2300-6460387/](https://www.gamespot.com/videos/upcoming-2023-playstation-games-official-trailer/2300-6460387/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-01-16 16:32:00+00:00
+ - user: None
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4086953-pspsp1.jpg" width="480" /> Check out the games coming to PlayStation 4 and PlayStation 5 in this latest trailer from PlayStation. Some of the titles include: Dead Space, Hogwarts Legacy, Marvel's Spider-Man 2, Resident Evil Remake, Final Fantasy XVI, Assassin's Creed Mirage, Street Fighter 6, and more!
+
+## 18 MORE Things You STILL Didn't Know In Zelda Breath Of The Wild
+ - [https://www.gamespot.com/videos/18-more-things-you-still-didnt-know-in-zelda-breath-of-the-wild/2300-6460382/](https://www.gamespot.com/videos/18-more-things-you-still-didnt-know-in-zelda-breath-of-the-wild/2300-6460382/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-01-16 15:00:00+00:00
+ - user: None
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4086512-botwthings22_thumbsite.jpg" width="480" /> This time in Breath of the Wild, we show how Talus have a secret ability that Nintendo never told us, a new powerful glitch to start the new year, and a multitude of small secrets hidden around Rito Village.
+
+## The Last Of Us Cast Breaks Down Heartbreaking Premiere Scene
+ - [https://www.gamespot.com/articles/the-last-of-us-cast-breaks-down-heartbreaking-premiere-scene/1100-6510576/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-of-us-cast-breaks-down-heartbreaking-premiere-scene/1100-6510576/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-01-16 03:25:00+00:00
+ - user: None
+
+<p dir="ltr">The first episode of HBO's <a href="https://www.gamespot.com/articles/the-last-of-us-how-to-watch-what-streaming-service-is-it-on-and-when-does-it-air/1100-6510562/">The Last of Us</a> has premiered, inviting fans of the video game franchise, as well as those who haven't played, into the world of Ellie, Joel, clickers, and the end of society as we know it. Anyone who's spent time playing the Naughty Dog game series knows that The Last of Us isn't your run of the mill zombie apocalypse story. It's one of soul-crushing heartbreak and how you move forward from it.</p><p dir="ltr"><em><strong>Warning: From here on out, we will be discussing spoilers for the premiere episode of The Last of Us. If you've yet to watch the show, head over to HBO Max now and see for yourself what happens.</strong></em></p><p dir="ltr">That heartbreak is a key component of the opening of the video game, so for those familiar, it should come as no surprise that the first episode of The Last of Us realizes those horrific moments in live-action. The series introduces Joel (Pedro Pascal), his daughter Sarah (Nico Parker), and his brother Tommy (Gabriel Luna), as they come to realize a fungal outbreak is turning people into zombified beings. In their fight to escape the horrors, they end up in the crosshairs of members of the military, who gun down Sarah. It's a disturbing scene to watch play out, as literally nobody seems to know exactly what's happening or why these newly-minted monsters are attacking other people.</p><a href="https://www.gamespot.com/articles/the-last-of-us-cast-breaks-down-heartbreaking-premiere-scene/1100-6510576/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>

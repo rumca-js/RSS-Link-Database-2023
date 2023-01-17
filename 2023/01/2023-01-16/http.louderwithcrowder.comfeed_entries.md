@@ -1,0 +1,274 @@
+# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+
+## Democrat congresswoman introduces bill criminalizing what she calls 'conspiracy to commit white supremacy'
+ - [https://www.louderwithcrowder.com/shelia-jackson-lee-supremacy](https://www.louderwithcrowder.com/shelia-jackson-lee-supremacy)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 22:31:42+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32853952&amp;width=600&amp;height=600&amp;coordinates=282%2C0%2C278%2C0" /><br /><br /><p>Our old pal Rep. Sheila Jackson Lee recently introduced the "Leading Against White Supremacy Act of 2023." The bill would criminalize certain forms of hate speech, most notably, of course, "white supremacy."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cRep. Sheila Jackson Lee has introduced a House Bill to criminalize \u201cconspiracy to commit white supremacy,\u201d which includes any criticism of non-white people that influences (such as something published or said online) someone who commits a hate crime. https://t.co/QD93bVJmA9\u201d</div> — Ian Miles Cheong (@Ian Miles Cheong)
+        <a href="https://twitter.com/stillgray/status/1614748073326174210">1673820915</a>
+</blockquote>
+<p>In case you need a refresher on Sheila, she's the broad who <a href="https://www.louderwithcrowder.com/woman-kicked-off-plane-democrat" target="_blank">reportedly</a> bumped a constituent from their first-class plane seat, then cried "rAcIsM" when the passenger complained. </p><p>And back in 2021, Sheila <a href="https://www.louderwithcrowder.com/show-notes-february-4" target="_blank">introduced</a> H.R. 127, a crazy gun-grabbing bill that, among other things, mandated a public database of nationwide licensing for the possession of firearms and ammunition, a psychological evaluation, and an $800 annual gun insurance fee<em>.</em></p><p>When promoting her bill, Sheila claimed to have held an AR-15, and it was as "heavy as 10 boxes." Boxes of what, we don't know. She's a woman of mystery. And idiocy. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cThe knowledge level of those who want to ban guns\n\n@JacksonLeeTX18\n\nAR-15 "weighs as much as 10 moving boxes and fires a .50 cal round"\u201d</div> — Jim Hanson (@Jim Hanson)
+        <a href="https://twitter.com/JimHansonDC/status/1176132630196248578">1569246845</a>
+</blockquote>
+<p>Her most recent <a href="https://www.congress.gov/bill/118th-congress/house-bill/61/text?r=19&amp;s=6" target="_blank">bill</a> about white supremacy is extremely broad. A portion of the bill explains, "person engages in a white supremacy inspired hate crime when white supremacy ideology has motivated the planning, development, preparation, or perpetration of actions that constituted a crime or were undertaken in furtherance of activity that, if effectuated, would have constituted a crime."</p><p>It also explains, "a conspiracy to engage in a white supremacy-inspired hate crime shall be determined to exist between two or more persons—at least one of whom engaged in the planning, development, preparation, or perpetration of a white supremacy inspired hate crime" and "at least one of whom published material advancing white supremacy, white supremacist ideology, antagonism based on ‘replacement theory,’ or hate speech that vilifies or is otherwise directed against any non-White person or group, and such published material," if it was "read, heard, or viewed by a person who engaged in the planning, development, preparation, or perpetration of a white supremacy inspired hate crime."</p><p>The bill, however, fails to define white supremacy. Of course. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Crowder DIES LAUGHING Mocking Rep. Jackson! | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/GNUz0dn9FuA" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: There are NO visitor logs for Biden's home. The home once owned by Hunter that has all the classified docs. Oh.
+ - [https://www.louderwithcrowder.com/joe-biden-vistor-logs](https://www.louderwithcrowder.com/joe-biden-vistor-logs)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 21:43:44+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32853880&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1" /><br /><br /><p>Last week, classified documents <a href="https://www.louderwithcrowder.com/the-view-classified-documents" target="_blank">were discovered</a> at Joe Biden's Delaware home - specifically in his garage, stacked next to his Corvette. But don't worry, the garage was LOCKED! </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cIn August 2020 Biden shot a video of himself driving his Corvette from his "locked garage" where boxes can be seen in the background.\u201d</div> — The Post Millennial (@The Post Millennial)
+        <a href="https://twitter.com/TPostMillennial/status/1613580654939377664">1673542581</a>
+</blockquote>
+<p>Since the discovery of the documents, Republicans have demanded visitor logs for Biden's residence, since it would be important to know who may have had access to top-secret government information. Apparently, however, there aren't any visitor logs. How convenient.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cDOOCY: "Republicans on the Hill are asking for a record of who may have been in the Wilmington Residence and...had access to these areas where the documents were found. It does not appear that [record] exists."\u201d</div> — Daily Caller (@Daily Caller)
+        <a href="https://twitter.com/DailyCaller/status/1615016904850132993">1673885010</a>
+</blockquote>
+<p>We know one person who WAS there: Hunter Biden, of course! That guy just keeps turning up in the most bizarre places--China, Ukraine, laptop repair shops, motels with Russian hookers. What a guy. </p><p>Hunter Biden reportedly lived at the Delaware residence for about a year following his divorce from Kathleen Biden. As a refresher, Hunter and Kathleen divorced after Kathleen found out Hunter was having an affair with his dead brother Beau's widow, Hallie Biden. </p><p>A document uncovered from Hunter's abandoned laptop shows Hunter lived at <a href="https://www.louderwithcrowder.com/joe-biden-civil-rights-activist" target="_blank">Biden's</a> Delaware home from March 2017 to February 2018. The document, labeled "Background Screening Report," claims Hunter owned the house. However, it also notes he paid $50,000 a month in rent to Joe Biden. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cIn 2018 Hunter Biden claimed he owned the house where Joe Biden kept classified documents alongside his Corvette in the garage Via @jj_talking\u201d</div> — Miranda Devine (@Miranda Devine)
+        <a href="https://twitter.com/mirandadevine/status/1613576887728496640">1673541683</a>
+</blockquote>
+<p><br /></p><p>Given that the first round of discovered documents included intelligence memos on <a href="https://www.louderwithcrowder.com/hunter-biden-forensic-email" target="_blank">Ukraine</a>, it's not hard to figure out why Hunter may have an interest in these secret documents, given that he served on the board of Burisma, and his father had a top Ukrainian prosecutor fired. </p><p>Potential international crimes aside, this story has another laughably hypocritical element. Joe Biden allegedly <a href="https://pjmedia.com/vodkapundit/2023/01/16/tax-cheat-joe-didnt-report-the-50000-month-in-rent-hunter-claimed-he-paid-n1662135" target="_blank">didn't report</a> the $50k in monthly income he was getting from Hunter. On his 2017 tax forms, Biden reported $19,800 in “rents received,” and none in 2018. </p><p>Interestingly, Hunter Biden was being <a href="https://nypost.com/2020/10/14/hunter-biden-emails-show-leveraging-connections-with-dad-to-boost-burisma-pay/" target="_blank">paid</a> approximately $50k a month for serving on the board of Burisma. Must just be another crazy coincidence! This family seems to have a lot of those...</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">"Biden Farts" Baby Shark PARODY | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/l67cA2H7tyQ" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Dude makes regrettable mistake of stealing an old lady's purse in front of the wrong group of Texans
+ - [https://www.louderwithcrowder.com/old-ladys-purse-texas](https://www.louderwithcrowder.com/old-ladys-purse-texas)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 21:33:53+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32853836&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Again, we've been over this. If you are going to commit a crime in Texas, assume everyone around you has a gun. <a href="https://www.louderwithcrowder.com/taqueria-texas-robber" target="_blank">The taco restaurant guy didn't</a>, and look what happened to him. </p><p>An alleged purse thief stole an old lady's handbag and was immediately chased by a group of samaritans. Sadly, that part is not in the video. The video picks up with the man being held...at gunpoint.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">This is what happens when you steal a purse in TEXAS <a href="https://t.co/F0ZHA1uuUF">pic.twitter.com/F0ZHA1uuUF</a><br />— TXDeplorable (@Texas_Made956) <a href="https://twitter.com/Texas_Made956/status/1614720600471117824?ref_src=twsrc%5Etfw">January 15, 2023</a></blockquote> </div><p>I say allegedly because we are going by the narration of the two ladies recording the incident, and who sound like this was the most exciting thing to happen to them. It wasn't until the alleged thief jumped over the woman's car after stealing the purse that she thought to take her smartphone out and record that sh*t for the content.</p><p>I'm not even sure what part of Texas this is. I can only confirm it is somewhere in Texas. One strong clue...</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="b0144" src="https://www.louderwithcrowder.com/media-library/image.png?id=32853847&amp;width=980" />
+</p>
+<p>The thief attempted to make a run for it. That's when the gun owner fired a warning shot to scare him. And it worked! It scared him right into a police car.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="bfa57" src="https://www.louderwithcrowder.com/media-library/image.png?id=32853848&amp;width=980" />
+</p>
+<p>All while our mystery gun-toting hero walked off into the horizon. Nothing but Ted Nugent's "Stranglehold" playing in the background. That's what's playing in my head at least, as she walks away in slow motion.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="0d0db" src="https://www.louderwithcrowder.com/media-library/image.png?id=32853849&amp;width=980" />
+</p>
+<p>The odd thing is while we at the Louder with Crowder Dot Com website are "good gal with gun" aficionados, if the guy tried to steal an old lady's purse as the narrator claims, we would have liked more comeuppance. Either seeing the purse thief <a href="https://www.louderwithcrowder.com/thief-stealing-purse" target="_blank">eat a face full of pavement</a>. OR, catching the <a href="https://www.louderwithcrowder.com/elderly-woman-cane" target="_blank">old lady get some shots in herself</a>. </p><p>That would have made this 10/10 content. I give this video a 7.5.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">CHANGE MY MIND Clips: 'I'm Pro Gun 2nd Edition'-- Why So Much Media Bias?  | Crowder Classics (2018)</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/fDEj_ybnmEc" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## 'You found me': Brendan Fraser's emotional award show speech illustrates why America is rooting for him
+ - [https://www.louderwithcrowder.com/brendan-fraser-critics-choice](https://www.louderwithcrowder.com/brendan-fraser-critics-choice)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 18:29:07+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32852030&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Everyone loves Brendan Fraser. Well, everyone except for bitter activists claiming his movie <em>T</em><em>he Whale</em> is fat-phobic. But to those of us who aren't miserable specimens banging our chubby fingers on the keyboard, Fraser is one of the most likable guys in entertainment. He was huge in the 90s, fell off a bit, but is now having a career resurgence thanks to <em>The Whale</em> and an internet meme that everyone is cheering for him.</p><p>His emotional acceptance speech winning Best Actor at the Critics Choice Awards is an example of why.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Brendan Fraser's acceptance speech for The Whale at the <a href="https://twitter.com/hashtag/CriticsChoiceAwards?src=hash&amp;ref_src=twsrc%5Etfw">#CriticsChoiceAwards</a> <a href="https://t.co/jxQsEfQfKo">pic.twitter.com/jxQsEfQfKo</a><br />— philip lewis (@Phil_Lewis_) <a href="https://twitter.com/Phil_Lewis_/status/1614822834370654208?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p>He saluted director Darren Aronofsky, saying "I was in the wilderness, and I probably should have left a trail of breadcrumbs, but you found me [...] showed me where to go to get to where I needed to be." </p><p>Then came his message to everyone at home, and the waterworks. Someone snuck into my office now and start peeling onions. Bastard.</p><blockquote>If you, like a guy like Charlie, who I played in this movie, in anyway struggle with obesity, or you just feel like you’re in a dark sea, I want you to know that if you too can have the strength to just get to your feet and go to the light, good things will happen.</blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="90a78" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32852080&amp;width=980" />
+</p><p>It's very similar to the infamous meet-and-greet video from 2021, when Fraser first found out how much the Internet was rooting for him.</p><div class="rm-embed embed-media"><blockquote cite="https://www.tiktok.com/@littlelottiecosplay/video/6994167027736874246" class="tiktok-embed"> <section> <a href="https://www.tiktok.com/@littlelottiecosplay?refer=embed" target="_blank" title="@littlelottiecosplay">@littlelottiecosplay</a> “Shucks, ma’am!” 🥰🥰🥰 Adding to the Brendan love from earlier today. <a href="https://www.tiktok.com/tag/brendanfraser?refer=embed" target="_blank" title="brendanfraser">#brendanfraser</a> <a href="https://www.tiktok.com/tag/themummy?refer=embed" target="_blank" title="themummy">#themummy</a> <a href="https://www.tiktok.com/tag/mummytok?refer=embed" target="_blank" title="mummytok">#mummytok</a> <a href="https://www.tiktok.com/tag/rickoconnell?refer=embed" target="_blank" title="rickoconnell">#rickoconnell</a> <a href="https://www.tiktok.com/music/A-O-K-6953851540646709249?refer=embed" target="_blank" title="♬ A-O-K - Tai Verdes">♬ A-O-K - Tai Verdes</a> </section> </blockquote> </div><p>In his now award-winning role in <em>The Whale</em>, Fraser plays a reclusive, morbidly obese English teacher that attempts to reconnect with his teenage daughter. I can't remember the last new movie I sat down and watched. <em>The Whale</em> is going to be on the agenda for the weekend. </p><p>But not before revisiting Fraser's greatest role, the 1994 classic <em>Airheads</em>.  <a href="https://www.louderwithcrowder.com/adam-sandler-gotham-awards" target="_blank">With a young Adam Sandler</a>.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">As we celebrate Brendan Fraser in <a href="https://twitter.com/hashtag/TheWhale?src=hash&amp;ref_src=twsrc%5Etfw">#TheWhale</a> and just by being Brendan Fraser, don't forget his greatest role...<br /><br />Chazz. <a href="https://t.co/fKR9r7uXYJ">pic.twitter.com/fKR9r7uXYJ</a><br />— Louder with Crowder Dot Com (@LWCnewswire) <a href="https://twitter.com/LWCnewswire/status/1615049911279489024?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p>Awards shows tend to be terrible. Nothing but an excuse for Hollywood to give themselves reach-arounds in celebration of their perceived awesomeness and make political statements the DNC sent to their publicist. Every so often, <a href="https://www.louderwithcrowder.com/chris-pratt-nine-rules" target="_blank">you get an acceptance speech that is something special</a>. Cheers to Brendan Fraser.</p><p>Though it's still not an excuse to waste precious time watching award shows. In the rare event of these wholesome moments, that's what you have websites like us for.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">TOUGH LOVE: "Help, I'm Dating a Nazi!" | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/XfSyE46BI-w" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## WATCH: Trans owner of Miss Universe proclaims pageant is run by 'women,' for all 'women'
+ - [https://www.louderwithcrowder.com/miss-universe-proclaims](https://www.louderwithcrowder.com/miss-universe-proclaims)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 17:09:20+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32851839&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Watch out, ladies: men aren't just replacing you in <a href="https://www.louderwithcrowder.com/ncaa-athletes-protest" target="_blank">sports</a>. Now, not even Miss Universe is safe from the woke gender-bending mob.</p><p>Last year, Thai reality star Anne Jakrajutatip became the first 'woman' to own the pageant after purchasing it for $20 million. There's just one problem: s/he's a man, baby. Or, as the AP Styleguide states, a woman, and don't you dare say otherwise.</p><p>During the recent pageant in New Orleans, Kajrajutatip claimed, "From now on it’s going to be run by women, owned by a trans woman for all women around the world to celebrate the power of feminism!"</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cAnne Jakrajutatip, the new owner of Miss Universe, delivered an empowering speech yesterday: \u201cWelcome to the new era. From now on it\u2019s gonna be run by women, owned by a trans woman, for all women around the world.\u201d\u201d</div> — Dan Hastings-\u0ba8\u0bbe\u0bb0\u0bbe\u0baf\u0ba3\u0ba9\u0bcd (@Dan Hastings-\u0ba8\u0bbe\u0bb0\u0bbe\u0baf\u0ba3\u0ba9\u0bcd)
+        <a href="https://twitter.com/notdanhastings/status/1614602694022369280">1673786254</a>
+</blockquote>
+<p>Yeah, about that...is it really "feminism" if it favors people who were born men titles that should belong to, y'know, ACTUAL women? Seems a bit contradictory, no? Just me? Ok. </p><p>The Wall Street Journal detailed an interview with Kajrajutatip titled, "<a href="https://www.wsj.com/podcasts/the-journal/miss-universe-is-now-owned-by-a-woman-will-it-change/029A26E2-0DEA-4B77-A67F-D1E390A502DF" rel="noopener noreferrer" target="_blank">Miss Universe Is Now Owned by a Woman. Will It Change?</a>" Speaking on how the pageant will change under "female" leadership, Kajrajutatip said, "You're going to see the women's empowerment platform because the hosts, two of them, they are female. Commentators, they're all female. The judges, they're all female. The owner is the woman. The president of the company is a woman. The CEO of the company is also a woman. So everybody, we are women on the stage. If you are a man, you're not allowed to go on the stage, my dear. That is the evolution of Miss Universe. What you're going to see." </p><p>No man is ever going to go on stage? Hmmm...</p><p><a href="https://www.louderwithcrowder.com/show-notes-twitter-trump-5" target="_blank">Donald Trump</a> was the owner of Miss Universe until 2015, when he sold it to the talent agency, WME-IMG. Trump's <a href="https://www.nytimes.com/2015/09/15/business/media/trump-sells-miss-universe-organization-to-wme-img-talent-agency.html" target="_blank">ownership</a> of the pageant came under fire after his controversial statements about illegal immigrants during the 2016 campaign. NBC refused to air the Miss USA pageant over the remarks. </p><p>And now, after a few years of turmoil, Miss Universe is back in the hands of a reality star who at least at one point had a penis. Progress! </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">REVIEW: Taylor Swift's Feminist Documentary Disaster! | Louder with Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/_tMFVLZQp98" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## LOL: During MLK speech, Joe Biden repeats claim he was a civil rights activist. Spoiler: His pants are on fire.
+ - [https://www.louderwithcrowder.com/joe-biden-civil-rights-activist](https://www.louderwithcrowder.com/joe-biden-civil-rights-activist)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 15:28:57+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32851404&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Last night, <a href="https://www.louderwithcrowder.com/joe-biden-jeans-hometown" target="_blank">Joe Biden</a> gave a speech honoring <a href="https://www.louderwithcrowder.com/martin-luther-king-statue" target="_blank">Dr. Martin Luther King Jr</a>. from Ebenezer Baptist Church in Atlanta, where Dr. King served as a pastor until his assassination. Biden is now the first sitting president to deliver a Sunday sermon from the historic church. </p><p>Biden, of course, couldn't help but f*** things up,  as his former boss might say. He claimed to have participated in the Civil Rights movement, saying, "I have two political heroes, my entire life when I started off as a 22-year-old kid on the east side in the civil rights movement.”</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cWhile at Ebenezer Baptist Church, Joe Biden once again claims he was a civil rights activist: \u201cWhen I started off as a 22-year-old kid on the east side in the civil rights movement.\u201d\n\nThis is a debunked lie.\u201d</div> — RNC Research (@RNC Research)
+        <a href="https://twitter.com/RNCResearch/status/1614669126118813696">1673802093</a>
+</blockquote>
+<p>Biden has made this claim several times, even though it has been thoroughly debunked. Last January, he claimed to have been arrested for protesting during the Civil Rights movement. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cONE YEAR AGO TODAY: Joe Biden recalled "the first time" he "got arrested" while protesting during the civil rights movement.\n\nBiden has never been arrested and he wasn't a civil rights activist.\nhttps://t.co/VcKVS2hrN8\u201d</div> — RNC Research (@RNC Research)
+        <a href="https://twitter.com/RNCResearch/status/1613249227374616592">1673463563</a>
+</blockquote>
+<p>But in 1987, a more lucid Biden admitted he was not actually an activist--rather, he was "involved" because he worked at an all-black swimming pool. Seriously. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cIn 1987, after falsely claiming he "marched" in the civil rights movement, Biden admitted he was lying.\n\n"I was not an activist...I was not out marching. I was not down in Selma. I was not anywhere else."\nhttps://t.co/ijty46nY83\u201d</div> — RNC Research (@RNC Research)
+        <a href="https://twitter.com/RNCResearch/status/1613250219142946819">1673463563</a>
+</blockquote>
+<p>Last night, Biden also claimed to have attended a black church in high school, saying, "I used to go to 7:30 mass every morning in high school and then in college before I went to the Black church. Not a joke." </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cBiden: "I used to go to 7:30 mass every morning in high school and then in college, before I went to the Black church. Not a joke." (Not a thing he ever did)\n\u201d</div> — Greg Price (@Greg Price)
+        <a href="https://twitter.com/greg_price11/status/1614672518169739269">1673802902</a>
+</blockquote>
+<p>Biden has frequently claimed he attended a black church in Delaware, Union Baptist Church, and helped organize desegregation marches. During his 2020 campaign, Biden <a href="https://www.youtube.com/watch?v=T8iMN62PzsQ&amp;t=129s" target="_blank">told</a> the congregants of Bethlehem Baptist Church that he would go to Union's 8 AM mass, then meet with the Reverend to figure out where they wanted to go for their desegregation protest. </p><p>But congregants of Union Baptist Church <a href="https://nypost.com/2020/10/12/members-of-black-delaware-church-dont-recall-biden-being-raised-there/" target="_blank">can't recall</a> seeing a young Joe Biden attending their church. Woopsie!</p><p>And of course, Biden couldn't let last night pass without at least one creepy comment. As he was speaking, he randomly asked a young person in the crowd, "what;'s your name, honey?" He then asked for a picture before they left. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cJoe being creepy again at MLK Day speech: "What's your name honey? It's good to see you. Maybe I can have a picture with you before I leave, ok?"\u201d</div> — The Post Millennial (@The Post Millennial)
+        <a href="https://twitter.com/TPostMillennial/status/1614684549803544576">1673805770</a>
+</blockquote>
+<p>We haven't seen that picture yet, but there's a 99.9% chance that child's hair has now been thoroughly <a href="https://www.louderwithcrowder.com/joe-biden-kids-connecticut-school" target="_blank">sniffed</a>. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">"Biden Farts" Baby Shark PARODY | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/l67cA2H7tyQ" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Security accosts man to remove his offensive shirt or leave the mall. It said "Jesus Saves."
+ - [https://www.louderwithcrowder.com/jesus-saves-mall-shirt](https://www.louderwithcrowder.com/jesus-saves-mall-shirt)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 15:16:21+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32851303&amp;width=1200&amp;height=800&amp;coordinates=198%2C0%2C0%2C0" /><br /><br /><p>California and New York have better PR, but Minnesota remains the most progressive communist state in America. It's the one state that DIDN'T vote for Ronald Reagan. It is <a href="https://www.louderwithcrowder.com/student-equity-minnesota-survey" target="_blank">indoctrinating students</a>, <a href="https://www.louderwithcrowder.com/toddler-police-officers" target="_blank">toddlers attacking cops</a>, <a href="https://www.louderwithcrowder.com/minnesota-ag-lawsuit" target="_blank">victim-blaming victims of crime</a> woke AF. It should come as no surprise that a Christian would be told to leave not only a mall but the "Mall of America."</p><p>Gross and disgusting? Yes. But not surprising. After all, the guy was wearing a "Jesus Saves" shirt. He is a menace.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">I automatically assumed this was overseas, but it's right here in America. <a href="https://t.co/Q79eUCG7xh">pic.twitter.com/Q79eUCG7xh</a><br />— John Mason (@LivingGodsTruth) <a href="https://twitter.com/LivingGodsTruth/status/1613556181460475904?ref_src=twsrc%5Etfw">January 12, 2023</a></blockquote> </div><p>We'll set aside the irony of a white security guard harassing a black guy in GeorgeFloydville and having it be celebrated by progressives.</p><p>Local media outlet<a href="https://alphanews.org/video-shows-security-booting-man-with-jesus-saves-shirt-from-mall-of-america/" target="_blank"> Alpha News</a> provides some context. The man was accused of "religious soliciting," which is against mall policy. So sayeth the Paul Blart reject: "Jesus is associated with religion and it’s offending people. People have been offended."</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="1c184" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32851355&amp;width=980" />
+</p>
+<p>People were offended? Yes. Multiple people if you were to take Paul Blart 2 at his words. He claimed that the guy was wearing that shirt in the form of soliciting and, quote, "we’ve had guests come up and say they’re offended by your shirt."</p><p>The man wasn't preaching. As far as I know, he didn't go up to someone wearing an "I'm not transgender but my xi is" shirt and start a fight. The dude claims to have just been shopping at Macy's.</p><p><span></span>But his t-shirt had the word "Jesus" on it. That was enough to trigger shoppers in Minneapolis.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="1ce37" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32851361&amp;width=980" />
+</p>
+<p>I know you're wondering, and yes. The Mall of America DID <a href="https://alphanews.org/mall-of-america-to-host-family-friendly-drag-show/" rel="noopener noreferrer" target="_blank">host</a> a drag show for “all ages." </p><p>Maybe this is all a sign that the Mall of America isn't worth Jesus saving. I'll leave that up to Him.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Bible Stories! Bernie Sanders Tempts Jesus Christ | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/bHemNK5A0oE" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Elderly rocker Neil Young still won't shut up about Joe Rogan, claims Rogan knowingly lies to his audience
+ - [https://www.louderwithcrowder.com/neil-young-joe-rogan-lie](https://www.louderwithcrowder.com/neil-young-joe-rogan-lie)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 14:40:24+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32851173&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>There are two people in America who still believe the government narrative about the pandemic. One of them is Anthony Fauci. The other is corporate sellout Howard Stern. Howard sat down with elderly rocker Neil Young to recap his beef with Joe Rogan, who Young accused of KNOWINGLY lying to his audience about the Fauci Ouchie.</p><p>Before we hit the recap, please join me in welcoming @MythinformedMKE back to Twitter!</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="f20ab" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32851202&amp;width=980" />
+</p>
+<p>Joe Rogan has a podcast on Spotify. Leftists hated the fact that Rogan had a platform to contradict the government narrative on Spotify. Neil Young <a href="https://www.louderwithcrowder.com/neil-young-joe-rogan" target="_blank">pulled all his music off of the platform in protest</a>. People <a href="https://www.louderwithcrowder.com/jon-stewart-joe-rogan-spotify" target="_blank">mocked Young's virtue signaling</a>. Rogan <a href="https://www.louderwithcrowder.com/joe-rogan-spotify" target="_blank">made the mistake of attempting to appease his haters</a>, who <a href="https://www.louderwithcrowder.com/dave-portnoy-medias-touch" target="_blank">then accused him of being racist</a>. Rogan agreed to have a <a href="https://www.louderwithcrowder.com/joe-rogan-sanjay-gupta-cnn" target="_blank">pro-narrative voice on his show</a>, who he got to admit that CNN lies.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="0cab2" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32851205&amp;width=980" />
+</p>
+<p>Stern had Neil Young to discuss the boycott, a year later, and long after everyone forgot about the boycott and Neil Young. Young wouldn't even say Rogan's name.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Why won’t Neil Young say Joe Rogan’s name and have this discussion with Joe rather than Howard Stern? <a href="https://t.co/TtbS4jkbwL">pic.twitter.com/TtbS4jkbwL</a><br />— Mythinformed MKE (@MythinformedMKE) <a href="https://twitter.com/MythinformedMKE/status/1614719959749525504?ref_src=twsrc%5Etfw">January 15, 2023</a></blockquote> </div><blockquote>So these people were distressed by the fact that Spotify was doing this misinformation with some show they had. And I listened to it and I did and they were saying he purposely is saying the stuff that he knows isn't true. About [SCHMOVID] And people are dying you know.</blockquote><p>Whatever dude.</p><p>Spotify does not "have a podcast where they are putting out information about a schmaccine." They have a podcast where conversations are had. That's a thing that happens on podcasts. It's what podcasts are.</p><p>In a few of those conversations, people expressed their opinion about a schmaccine. Or in the case of doctors who were guests, scientific facts. The rub is those opinions and facts went against the government narrative. Please try and keep up. <a href="https://www.louderwithcrowder.com/ted-lieu-fact-checked" target="_blank">There are Twitter files</a> on it <a href="https://www.louderwithcrowder.com/trump-tweet-removed" target="_blank">and everything</a>.</p><p>And Neil's bars about Rogan saying things he "knows isn't true," I'm wondering how far Young thinks it goes. Does he think Rogan is actually quintuple schmaxxed and sits in his house with a mask on and security to keep people six feet away from him at all times? Only to take the mask off before recording so he can lie to his audience? That sounds crazier than any "conspiracy" spread about the pandemic. Which as time goes on, are less and less a conspiracy.</p><p>The dumbest thing in the entire controversy? Young hurt no one but himself. Anyone who still remembers the artist has his music on vinyl and doesn't know what a Spotify is.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Joe Rogan and Crowder Talk Pot Debate | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/iwG0rtfA4Lk" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## "If you had showed that to anyone in the hood...": MLK family member blasts phallic-looking tribute to Dr. King
+ - [https://www.louderwithcrowder.com/mlk-statue-coretta-scott-cousin](https://www.louderwithcrowder.com/mlk-statue-coretta-scott-cousin)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 13:47:15+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32851063&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>The city of Boston unveiled a new monument to Rev. Martin Luther the King over the weekend. It was supposed to be a tribute to King embracing his wife Coretta Scott King. What we got instead <a href="https://www.louderwithcrowder.com/martin-luther-king-statue" target="_blank">depends on what angle you look at it</a>. Some say it looks like a giant penis. Others say a giant turd. And from one angle, it looks like someone generously chowing down on the funparts of their significant other.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Happy Martin Luther the King Day. What do YOU think this looks like? <a href="https://t.co/E87UsocQoH">pic.twitter.com/E87UsocQoH</a><br />— Louder with Crowder Dot Com (@LWCnewswire) <a href="https://twitter.com/LWCnewswire/status/1614959668505333764?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p>Among the haters who <a href="https://www.louderwithcrowder.com/new-york-times-balenciaga" target="_blank">don't understand fine art</a> is Seneca Scott, Coretta Scott King's cousin. The Oakland civil right activist tells <a href="https://nypost.com/2023/01/15/woke-mlk-penis-statue-insults-black-community-coretta-scott-king-kin/" target="_blank">the New York Post</a> he is less than amused with TEN MILLION DOLLAR tribute to his family. And that anyone in the mainstream media who claims it's "beautiful" is only saying so because they are ordered to.</p><blockquote>But then when it came out, a little boy pointed out — "That’s a penis!" and everyone was like, "Yo, that’s a big old dong, man." <br /><br />If you had showed that statute to anyone in the ’hood, they’d have been like, "No, absolutely not."</blockquote><p>Scott shared his feelings in further detail <a href="https://compactmag.com/article/a-masturbatory-homage-to-my-family" target="_blank">with an OpEd for Compact</a>.</p><blockquote>Ten <em>million</em> dollars were wasted to create a masturbatory metal homage to my legendary family members [...] he Boston debacle could be a blessing in disguise, by exposing the insidiousness of astroturfed woke movements that have come to dominate black America: How could anyone fail to see that this was a <em>major </em>dick move (pun intended) that brings very few, if any, tangible benefits to struggling black families?</blockquote><p>My guess? The woke white liberals who greenlit the statue and the bag of ten million dollars weren't thinking about that.</p><p>If nothing else, we have the internet to do internet things about this misguided tribute.</p><p><br /></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet"> <a href="https://t.co/eK43hKl3ob">pic.twitter.com/eK43hKl3ob</a><br />— PorcupinePete (@LibertyPork) <a href="https://twitter.com/LibertyPork/status/1614960191979528192?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p><br /></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet"> <a href="https://t.co/kikh5kKcsu">pic.twitter.com/kikh5kKcsu</a><br />— RatDaddy (@LTruckair) <a href="https://twitter.com/LTruckair/status/1614959933358854145?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p><br /></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">MLK's other, less discussed, dream where penises have elbows<br />— Harry Baalzonyah (@Harrybaalzonyah) <a href="https://twitter.com/Harrybaalzonyah/status/1614967002296193026?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p><br /></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">One angle looks like MLK is proving to be a cunning linguist, another looks likes he’s holding up a record breaking turd & at its best possible angle it looks like disembodied arms attached together with death grasps.<br />— WhoAtTheWhatNow? (@AlexBunner) <a href="https://twitter.com/AlexBunner/status/1614963474098003972?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p><br /></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">I got nothing…<br />— Unapologetic Texan (@RealSteveNewton) <a href="https://twitter.com/RealSteveNewton/status/1614971266011725824?ref_src=twsrc%5Etfw">January 16, 2023</a></blockquote> </div><p>On behalf of all of us here at the Louder with Crowder Dot Com website, have a very happy Martin Luther the King Day! He had a dream that one day people of all races and creeds would come together. And we have! All of us -- black, white, and in between -- are united in our mockery of this TEN MILLION DOLLAR tribute that looks like a giant penis turd. Together, we are laughing as one people.</p><p>In that regard, maybe this monument is a tribute to King's dream fulfilled.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Who's REALLY Killing the American Dream?! | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/wvMd9wDisJ0" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Woke artist buys Harry Potter books to remove JK Rowling's name and resell them at a premium to suckers
+ - [https://www.louderwithcrowder.com/harry-potter-book-name-removed](https://www.louderwithcrowder.com/harry-potter-book-name-removed)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-16 13:07:24+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=32850973&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>There was a point in time when <a href="https://www.louderwithcrowder.com/daniel-radcliffe-jk-rowling" target="_blank">Harry Potter</a> was the only book that progressive read. They would identify as Hogwarth sects in their battle to resist Donald Trump. Then, author JK Rowling became the Head Transphobe in Charge saying things like " it is wrong for police to put <a href="https://www.louderwithcrowder.com/jk-rowling-scotland-police" target="_self">rapists who have male genitalia</a> into prisons with <a href="https://www.louderwithcrowder.com/jk-rowling-scotish-law-activist" target="_self">women who have female genitalia</a>." Progressives were lost...until now!</p><p>Artist Laur Flom has a solution! <a href="https://nypost.com/2023/01/13/reseller-removes-j-k-rowlings-name-from-harry-potter-books/" target="_blank">He/she/they are buying up Harry Potter books</a>. They are removing JK Rowling's name from them. Then, they are reselling the books back to suckers who are dumb enough to buy them. For a profit, natch.</p><p>If I have the scam right, Flom buys this, which you can get on Amazon today for $21.50.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="408b2" src="https://www.louderwithcrowder.com/media-library/image.png?id=32851004&amp;width=980" />
+</p>
+<p>Flom then not only replaces the covers but REMOVES Rowling's name from the copyright and title pages. The "artist" then resells this back to marks for $170.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="7992c" src="https://www.louderwithcrowder.com/media-library/image.png?id=32851011&amp;width=980" />
+</p>
+<p>When you factor in that Laur buys all the books second-hand -- <a href="https://www.louderwithcrowder.com/jk-rowling-royalties" target="_blank">since JK Rowling has made enough money off of her haters</a> -- that is quite a profit! Especially if Potter fans hate Rowling that much, they can buy the books and rip her name off themselves for a lot less. </p><p>Laur claims eventually the money will be donated to a trans charity. Emphasis on "eventually."</p><p>Unclear is if Laur can name anything transphobic JK Rowling has said. Rowling's haters all <em>know</em> she is a transphobe, <a href="https://www.louderwithcrowder.com/jk-rowling-defies-hater" target="_blank">but when challenged to name a single transphobic comment</a>, they need to ask for a lifeline. One author even did the research <a href="https://www.louderwithcrowder.com/jk-rowling-twenty-quotes" target="_blank">after being assigned "Rowling is a transphobe" clickbait</a>. All she discovered was that Rowling makes a lot of sense.</p><p>Shout to Laur Flom, though. I may disagree on a variety of political beliefs, but I'm still an unabashed capitalist. Flom identified an underserved audience and is exploiting them. Don't knock the hustle!</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">THIS WOULD NEVER BE ALLOWED ON YOUTUBE... #MugClubForever | Louder with Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/l3fG9SpK0jU" target="_blank">youtu.be</a>
+</small>
+</p>
