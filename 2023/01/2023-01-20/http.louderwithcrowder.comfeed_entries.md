@@ -1,0 +1,219 @@
+# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+
+## Watch: Karine Jean-Pierre whines Florida teachers can't talk about who they bang during AP History
+ - [https://www.louderwithcrowder.com/karine-jean-pierre-florida-history](https://www.louderwithcrowder.com/karine-jean-pierre-florida-history)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 22:23:28+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32882025&amp;width=1245&amp;height=700&amp;coordinates=0%2C1%2C0%2C0" /><br /><br /><p>It's another day, which means there's something new to be mad at <a href="https://www.louderwithcrowder.com/ron-desantis-nyt" target="_blank">Governor Ron DeSantis</a> about. This time, it's over his preference not to shame white children for the color of their skin. Such an evil, evil man. </p><p>Earlier today, Press Secretary <a href="https://www.louderwithcrowder.com/doocy-biden-classified-docs" target="_blank">Karine Jean-Pierre</a> was asked about DeSantis' education department <a href="https://www.louderwithcrowder.com/joy-reid-ron-desantis" target="_blank">banning</a> an Advanced Placement course on African American Studies. Even though this was a very straightforward question, she bizarrely brought in LGBTQAAEIP+2S talking points. Deflection must just be her natural instinct. </p><p>Jean-Pierre claimed that Florida's actions aren't surprising, since Florida teachers aren't allowed to talk "about who they are and who they love." </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201c#BREAKING: Karine Jean-Pierre responds to Gov. Ron DeSantis's (R-FL) education department banning AP African American Studies: "These types of actions aren't new... Florida currently bans teachers from talking about who they are and who they love."\u201d</div> — Forbes (@Forbes)
+        <a href="https://twitter.com/Forbes/status/1616517342363586589">1674242742</a>
+</blockquote>
+<p>Actually, Florida bans teachers from randomly talking to preschoolers about who they like to bang and why. Which I personally find quite reasonable. </p><p>Plus, the African American Studies course in question was not banned because DeSantis is a meanie racist poopy head. It's because it includes Critical Race Theory and intersectionality, which basically teach children that race is the most important thing in life and white people are racist and evil. </p><p><a href="https://www.theflstandard.com/exclusive-rejected-african-american-studies-course-in-florida-features-crt-intersectionality-and-queer-theory/" target="_blank">The Florida Standard</a> obtained a leaked copy of the curriculum ahead of its release. It features texts from Eduardo Bonilla-Silva, author of the book "Racism without Racists," which describes how "whites talk, think, and account for the existence of racial inequality and makes clear that color-blind racism is as insidious now as ever." </p><p>The curriculum also includes a section called “Black Queer Studies," described as "explor[ing] the concept of queer color critique, grounded in Black feminism and intersectionality, as a Black studies lens that shifts sexuality studies towards racial analysis.”</p><p>I do wonder how a course like this could possibly be determined to be an "Advanced Placement" course. Normal AP courses are just...advanced versions of regular courses. Like Biology vs. AP Biology. Is there a less advanced class on how to hate the whites? I need answers. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Debate Mixtape: Crowder OWNS the Libs on Gun Reform, Gender Wage Gap & Critical Race Theory!</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/-EC2gusGplw" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Eggs have gotten so expensive, Americans are smuggling them across the border like fentanyl
+ - [https://www.louderwithcrowder.com/egg-prices-mexico](https://www.louderwithcrowder.com/egg-prices-mexico)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 22:16:28+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32882011&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1" /><br /><br /><p>In case you haven't heard, there's a national egg shortage for unspecified reasons other than everything sucks. Eggs in some cities are over $8 a dozen, leaving Americans tragically lacking in omelets.  </p><p>The real reason eggs are lacking is apparently due to a <a href="https://abc7news.com/why-are-eggs-so-expensive-now-egg-shortage-avian-flu-price-today/12707274/#:~:text=Inflation%2C%20legacy%20supply%20chain%20problems,rising%20prices%20and%20lower%20availability." target="_blank">couple of factors</a>. There was a deadly outbreak of Avian flu in the United States, which killed off a lot of hens. The supply chain still hasn't recovered from that time the U.S. government decided to shut down for a few years over a respiratory illness. And <a href="https://www.louderwithcrowder.com/cardi-b-inflation" target="_blank">inflation</a>, of course, was already raising prices. </p><p>Due to the shortage, egg smuggling across the U.S.-Mexico <a href="https://www.louderwithcrowder.com/mexican-president-border-wall" target="_blank">border</a> has increased by 108% in the past four months. Custom officers have reportedly seen a huge rise in cases of smugglers failing to declare their eggs, only to discover mountainous quantities of eggs upon further inspection. </p><p>Failure to declare one's eggs could result in a penalty of up to $10,000 for repeat egg criminals. On the other hand, if you fess up to your crimes and throw yourself at the mercy of U.S. Customs and Border Patrol by declaring your eggs,  you won't face any penalty. But your eggs will tragically end up in the incinerator. </p><p>So smugglers, please remember to always declare your eggs when entering the country. It'll save everyone a lot of hassle. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cThe San Diego Field Office has recently noticed an increase in the number of eggs intercepted at our ports of entry. As a reminder, uncooked eggs are prohibited entry from Mexico into the U.S. Failure to declare agriculture items can result in penalties of up to $10,000.\u201d</div> — Director of Field Operations Jennifer De La O (@Director of Field Operations Jennifer De La O)
+        <a href="https://twitter.com/DFOSanDiegoCA/status/1615521977611046913">1674005429</a>
+</blockquote>
+<p>While us American plebeians are struggling to find a dozen eggs below $8, eggs in Mexico are reportedly selling for as little as $3 for 30. So please excuse me while I go on a trip to an undisclosed location in the South. </p><p>Uncooked eggs aren't allowed across the border due to the risk of disease. As opposed to caravans of random migrants traveling for months from Guatemala. Those guys are in tip-top shape, no threat detected. Those eggs, though. They could end us all. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Trump Talks: Mexico</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/CzJBv7DYonA" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Woke health officials find a new way to ruin your life. It's that birthday cake in the office break room
+ - [https://www.louderwithcrowder.com/office-birthday-cake](https://www.louderwithcrowder.com/office-birthday-cake)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 19:11:33+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=32880457&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p>Working in an office is dreadful. Any hamandegger who has a nine-to-five in a cubicle farm is picking up what I'm throwing down. We've all been there. It's a horrible experience. One of the few enjoyments is when you go into the breakroom, pour your fifth cup of coffee, and see <a href="https://www.louderwithcrowder.com/red-flag-wedding-cake-tiktok" target="_blank">a cake </a>or <a href="https://www.louderwithcrowder.com/bear-steals-snacks-7-eleven" target="_blank">another snack</a> on the breakroom table. Not anymore, if the UK has its way. A London health official, <a href="https://torontosun.com/news/world/cake-in-office-as-harmful-as-secondhand-smoke-u-k-food-official?utm_term=Autofeed&amp;utm_medium=Social&amp;utm_source=Twitter#Echobox=1674072710" target="_blank">Karen McHardo or something</a>, thinks office birthday cake should go away.</p><p>That cake in the break room? It's no different than secondhand smoke.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Britain's food regulator in her personal capacity:<br /><br />"Cake in office is as harmful as second hand smoke...if nobody brought in cakes into the office, I would not eat cakes in the day, but because people bring cakes, I eat them.”<br /><br />Just stop. Let us eat cake! <a href="https://t.co/1HpiQGrvA2">https://t.co/1HpiQGrvA2</a><br />— Roman Baber (@Roman_Baber) <a href="https://twitter.com/Roman_Baber/status/1615842147562913792?ref_src=twsrc%5Etfw">January 18, 2023</a></blockquote> </div><blockquote>Cake in office is as harmful as second hand smoke...if nobody brought in cakes into the office, I would not eat cakes in the day, but because people bring cakes, I eat them.</blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="2e89d" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32880478&amp;width=980" />
+</p>
+<p>Or, follow me here, you can maaaaaybe just not eat the cake?</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="3613d" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32880494&amp;width=980" />
+</p>
+<p>Not that I don't get it. Prior to becoming the lovable right-wing sunovabitch whose content you adore, I used to work in the corporate office of a convenience store chain. The CFO was pretty based. We had great conversations. We even had a running gag where I wouldn't make eye contact with her because that's what Hillary Clinton demanded of the Secret Service.</p><p>Whenever someone would pitch a product to the sales manager, ALL the free samples would wind up in the break room. My favorite was the ice cream guy. I was also a lot heavier then. So I understand the temptations. And not having the willpower to resist that temptation.</p><p>But that's an individual's problem. Government health officials shouldn't destroy it for everyone else and look to ruin the one joy people have in life. It's only a "recommendation" now. It's always a "recommendation" before it becomes a ban.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Crowder's World Cup HOT Take! | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/2PvhTL6osO0" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Leave it to Joy Behar to have dumbest partisan response to Alec Baldwin facing a manslaughter charge
+ - [https://www.louderwithcrowder.com/joy-behar-alec-baldwin-excuse](https://www.louderwithcrowder.com/joy-behar-alec-baldwin-excuse)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 18:27:06+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32880313&amp;width=1245&amp;height=700&amp;coordinates=0%2C11%2C0%2C107" /><br /><br /><p>The shrill harpies on <em>The View</em> are the most trusted name in low information dingbattery. It is no surprise the dumbest reaction to Alec Baldwin catching a manslaughter charge <a href="https://www.louderwithcrowder.com/alec-baldwin-charged-rust" target="_blank">for killing cinematographer Halyna Hutchins on the set of "Rust"</a> would come from the show. It's less of a surprise that it would come out of the facehole of Joy Behar.</p><p>The most important thing to know about the case? The prosecutor (who she confused for a district attorney) is, like, totally a Republican or something.</p><p class="shortcode-media shortcode-media-rumble">
+
+</p>
+<blockquote>The DA who is inditing him or whatever that legal term is right now. She's a big Republican. I'm only saying this because Alec Baldwin is a target for Republicans. They cannot stand him. I'm not saying anything more than that.</blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="b9d50" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32880324&amp;width=980" />
+</p>
+<p>Kyle Rittenhouse called. He wants to know if Joy has met Thomas Binger and the entire Kenosha County District Attorney's office.</p><p><span></span>Baldwin killed a woman (accidentally) <a href="https://www.louderwithcrowder.com/alec-baldwin-attorney-claim" target="_self">after refusing to take a gun safety course</a>. He <a href="https://www.louderwithcrowder.com/alec-baldwin-abc-interview" target="_self">cried about it while claiming he has no guilt for killing her</a>. Then, he <a href="https://www.louderwithcrowder.com/alec-baldwin-blames" target="_self">blamed HER for it</a>. Then he <a href="https://www.louderwithcrowder.com/alec-baldwin-instagram" target="_blank">marked the one-year anniversary of killing her</a> by talking about himself on Instagram. All while offending the Hutchins family every step of the way. Widower Matt Hutchins <a href="https://www.louderwithcrowder.com/alec-baldwin-rust-widower" target="_self">told the <em>Today Show</em></a>:</p><blockquote>I was just so angry to see him talk about her death so publicly in such a detailed way and then to not accept any responsibility after having just described killing her. Almost sounds like he was the victim, hearing him blame Halyna in the interview and shift responsibility to others, and seeing him cry about it. I just feel like, 'Are we really supposed to feel bad about you, Mr. Baldwin?</blockquote><p>But, no. Alec Baldwin is not a target for Republicans. The only time we've thought about the failed Trump impersonator at all this year is to laugh at his many, many, many, many, many, many PR blunders in talking about accidentally killing Halyna Hutchins. Accidentally? Yes. Killing? Also yes.</p><p>Baldwin isn't being charged because derpity derp the prosecutor is Republican. He's being charged because one day over a year ago he fired a gun as it was pointed at a woman and she died from it.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">7 BAD Excuses for Alec Baldwin | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/IjHvfM_xkJw" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## WATCH: Crime is so out of control, Houston bar owners are forced to sleep in their businesses. Armed.
+ - [https://www.louderwithcrowder.com/houston-bar-owners-armed](https://www.louderwithcrowder.com/houston-bar-owners-armed)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 17:38:26+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32880198&amp;width=1245&amp;height=700&amp;coordinates=0%2C17%2C0%2C101" /><br /><br /><p>Biden's America is thriving this Friday morning, as per usual. That is if you interpret "thriving" as an open border, failure to prosecute crime, and eliminating eggs from the food pyramid. What else could you want from the most powerful country in the world? </p><p>A group of bar owners in Houston is reportedly sleeping in their businesses armed due to endless break-ins. They recently took their complaints to a City Council meeting, hoping to find some relief. </p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">'Sleeping in our bars armed' | Houston business owners sick of crime ask city for help</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=t3dQKLHEHro" target="_blank">www.youtube.com</a>
+</small>
+</p><p>Robert Curry, the owner of Coaches Pub, said he saved up money for years to afford his business and is now forced to sleep in it armed. He moved from Missouri to Houston to start the pub and finally had the chance to start his dream, even though it took four months of living in an RV to get his business off the ground. He told KHOU-11 news he at times regrets his decision to come to Houston. </p><p>Curry's most recent break-in was last Friday when a criminal tried to steal expensive booze. Curry has spent 10 grand on security film, wrought-iron bars, and repairs from repeated break-ins, but nothing has worked. He said each time he calls the police, they take a report, give him a number, then leave. </p><p>Lindsey Rae, owner of the Two-Headed Dog in Midtown, said she has been burglarized 15 times in the past year. The response time from Houston police, she said, ranges from one to four hours. The criminals are often released because of Houston's cash-bond system and return to burglarize the same bars again. </p><p>Just a few <a href="https://www.louderwithcrowder.com/taqueria-texas-robber" target="_blank">weeks ago</a>, a taco joint in Houston made headlines after a customer gunned down a thug trying to hold the place up with a fake gun. The hero then proceeded to return the stolen money to the respective customers, like a true taco-loving Texan. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cTerrible things happen while doing terrible things, especially while trying to rob an entire restaurant with people with a fake gun. \n\nA customer in Houston TX at a taqueria restaurant shot and killed the would be robber after stealing everyone\u2019s money and wallets.  @fox26houston\u201d</div> — Carl Ducena (@Carl Ducena)
+        <a href="https://twitter.com/Carlducena/status/1611528918737068033">1673053409</a>
+</blockquote>
+<p>The unnamed ace is now <a href="https://www.louderwithcrowder.com/houston-taqueria-robbed-again" target="_blank">facing</a> a grand jury after turning himself in, and that same taqueria was burglarized less than a week later. When he gets off, perhaps he can launch a career in private security for the struggling Houstonians. He'd certainly have enough clients. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p>
+
+## Joe Rogan goes off on the three demons looking to control you: Trudeau, Newson, and whatsherface from New Zealand
+ - [https://www.louderwithcrowder.com/joe-rogan-demons](https://www.louderwithcrowder.com/joe-rogan-demons)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 15:49:38+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32879155&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Joe Rogan was having a kibitz with independent researchers Jimmy Corsetti and Ben van Kerkwyk. They were discussing the schmandemic and some of the insane lockdowns. Specifically, when it came to whatsherface down in New Zealand. AKA Prime Minister Jacinda Ardern. Though most of you will know her best as whatsherface down in New Zealand.</p><p>Rogan felt she was a demon, and named two others: Gavin Newsom and "Justin "I Feel Pretty" Trudeau.</p><p class="shortcode-media shortcode-media-rumble">
+
+</p><blockquote>There are so many of them. Justin Trudeau. Gavin Newsom. So many of these f*cking people, they seem benign. Then [SCHMOVID] came along and they saw the opportunity to control people and a "reason" to do so. We're all in danger. And they exaggerated that danger. You guys are f*cking demons. </blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="fa425" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32879433&amp;width=980" />
+</p>
+<p>When it comes to demons, these three were the three pillars of "go f*ck yourself" during the pandemic.</p><p>Canada's walking pile of soy and hair goop <a href="https://www.louderwithcrowder.com/justin-trudeau-emergencies-act" target="_blank">declared marshall law on peaceful protestors</a>. That's after police were sent to their homes <a href="https://www.louderwithcrowder.com/freedom-convoy-police-facebook" target="_blank">based on Facebook posts supporting the freedom convoy</a>.</p><p>Gavin Newsom <a href="https://www.louderwithcrowder.com/principal-school-lockdown-masks-religous" target="_blank">locked kids out of school</a> for not complying with <a href="https://www.louderwithcrowder.com/school-bullies-boy-learning-disability" target="_blank">the arbitrary restrictions</a>. Restrictions, that <a href="https://www.louderwithcrowder.com/gavin-newsom-it-wasnt-me" target="_blank">he and his elitist friends didn't follow themselves</a>.</p><p>Arden acted like <a href="https://www.louderwithcrowder.com/new-zealand-pm-bathroom" target="_blank">allowing citizens to use the bathroom and visit family</a> was a privilege. There was also that whole <a href="https://www.louderwithcrowder.com/jacinda-ardern-free-speech-un" target="_blank">declaring war on free speech</a> at the UN thing.</p><p>In Australia, there was no one leader who stood out as a demon. So we'll just call Australia hell.</p><p>People need to pay attention. It's one thing to say "don't trust leaders" and "freedom can be lost." Over the past two years, we saw it happen and saw who was responsible.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">"She's So High" - Nancy Pelosi Parody | Louder with Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/AJpgn1Q1544" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Joy Reid: DeSantis would've loved fascist Italy because he doesn't want white kids to hate themselves
+ - [https://www.louderwithcrowder.com/joy-reid-ron-desantis](https://www.louderwithcrowder.com/joy-reid-ron-desantis)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 15:22:58+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32879369&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>Last night, MSNBC's Joy Reid attacked Florida Governor Ron DeSantis and claimed it's "up for debate" whether the governor thinks "Fascist Italy" was a "bad guy" in World War II. You'd think such an inflammatory statement must be backed up by some pretty legit facts, right? But alas, this is Joy Reid after all. Not exactly known for her <a href="https://www.louderwithcrowder.com/byron-donalds-joy-reid-msnbc" target="_blank">big-brained arguments</a>. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cReally, Joy? Are you being serious right now? https://t.co/jvCmdJ28XJ\u201d</div> — Daily Caller (@Daily Caller)
+        <a href="https://twitter.com/DailyCaller/status/1616319616568934400">1674195601</a>
+</blockquote>
+<p>Reid's basis for suggesting Governor DeSantis is a murderous Fascist sympathizer is...his opposition to teaching white kids to hate themselves. Specifically, <a href="https://www.louderwithcrowder.com/desantis-rejects-textbooks-pushing-crt" target="_blank">Critical Race Theory.</a> </p><p>Florida recently rejected an Advanced Placement African-American studies course because it allegedly contains CRT. Reid was unhappy with this move since it means that Florida schools will continue to teach European history and fail to sufficiently shame white students. </p><p>Last year, DeSantis signed the "Stop Woke Act," which prohibits teachings about race that make students feel “guilt, anguish or other psychological distress." Portions of the act have since been blocked in court over free-speech allegations. The act seems pretty fair to me, but maybe that's just my racist whiteness speaking. I am a fan of little to no anguish and psychological distress for white kindergarteners. Call me crazy. </p><p>Reid also went after DeSantis for <a href="https://www.louderwithcrowder.com/nhl-job-fair-florida" target="_blank">criticizing the National Hockey League's</a> recent 'diversity' efforts, after the NHL posted on LinkedIn information about an event for women, veterans, Black people, Asians, Pacific Islanders, Hispanics, Latinos, Indigenous, LGBTQ, or disabled people. </p><p><span></span>DeSantis' spokesman said of the event, "Discrimination of any sort is not welcome in the state of Florida." Which is exactly what a fascist overlord would say. Everyone knows anti-discrimination was the name of the game in Nazi Germany. <br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cNEW - @GovRonDeSantis spox issues statement condemning NHL for hosting summit where participants must .. \u201cidentify as female, Black, Asian/Pacific Islander, Hispanic/Latino ..\u201d\n\n\u201cDiscrimination of any sort is not welcome in the state of Florida,\u201d says spox @BryanDGriffin \n\n\ud83d\udc47\ud83c\udffd\u201d</div> — MAHSA SAEIDI, ESQ.\ud83d\udd75\ud83c\udffc \u200e\u0645\u0647\u0633\u0627 (@MAHSA SAEIDI, ESQ.\ud83d\udd75\ud83c\udffc \u200e\u0645\u0647\u0633\u0627)
+        <a href="https://twitter.com/MahsaWho/status/1614054703263784961">1673655603</a>
+</blockquote>
+<p>Reid then closed her argument with a cute little quote from DeSantis' 2018 opponent, “I’m not saying Ron DeSantis is racist, but to quote Andrew Gillum, ‘I think the racists might think he’s racist.'" You go, queen. I think she just ended fascism with that sass. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">They're Reversing Reality... | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/faeOkB6zRNo" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Woke sports writer has an atomic hissy fit over NFL 'allowing' Tony Dungy to go to the Right-to-Life March
+ - [https://www.louderwithcrowder.com/tony-dungy-right-to-life](https://www.louderwithcrowder.com/tony-dungy-right-to-life)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 14:11:22+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=32878637&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C24%2C0" /><br /><br /><p>Tony Dungy is the first black NFL coach to win a Super Bowl, an analyst for NBC Sports, and a practicing Christian who isn't afraid to say so. Dave Zirin is a woke twat. He covers "sports" for <em>The Nation</em> and he has a sand castle in his vagina over Dungy, in his free time, attending the annual Right-to-Life March.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">I’m done with Tony Dungy and the way the NFL and NBC coddle his right wing extremism. So I wrote about it. <a href="https://t.co/98iiHKTEAi">https://t.co/98iiHKTEAi</a><br />— Dave Zirin (@EdgeofSports) <a href="https://twitter.com/EdgeofSports/status/1616153927300284433?ref_src=twsrc%5Etfw">January 19, 2023</a></blockquote> </div><p>You may remember Zirin from such classics as <a href="https://www.louderwithcrowder.com/volleyball-girls-accusation" target="_blank">falling for a high school volleyball racism hoax</a> and <a href="https://www.louderwithcrowder.com/reskins-game-thansgiving" target="_blank">lashing out at the Redskins before the Redksins sold out to the Commanders</a>. Now Zirin is cranky that the NFL and NBC "coddle" Dungy's "right-wing extremism." The extremism being that he believes in Jesus and believes in alternatives to all abortion, all the time, always.</p><p>Dungy doesn't talk about this while he is covering the NFL on NBC Sports. Unlike <a href="https://www.louderwithcrowder.com/nhl-pride-jersey-ivan-provorov" target="_blank">way too many</a> analysts <a href="https://www.louderwithcrowder.com/nhl-network-analyst-lashes-out" target="_blank">for the NHL</a>, Dungy believes when people tune in to the NFL on NBC, they want to see NBC talk about the NFL. But Dungy is allowed to be on television while holding political opinions Zirin doesn't approve of. It gives David a sad.</p><p>Zirin's rant had the usual buzzwords: "disinformation," the anon between P and R, "DeSantis," etc. The bulk of his outburst went to the two Dungy partners.</p><blockquote>[The NFL and NBC's] silence speaks volumes. It’s a silence that’s almost as loud as Dungy’s hateful blather, almost as loud as the thousands of people descending upon Washington—some mandatorily—to celebrate a fascistic...</blockquote><p>Saying that states can decide regulations on aborting choices =/= fascism.</p><blockquote>...discredited Supreme Court...<span></span></blockquote><p>It's problematic the way Zirin is attempting to discredit a government institution like this. He sounds like an insurrectionist.</p><blockquote>...and the loss of our rights.</blockquote><p>Zirin is a man who lives in Washington DC, where you can have an abortion up until right before the baby pops out. Nothing the Supreme Court did caused a loss to his rights or anyone else's rights. But if not for spreading disinformation, leftists would have nothing to talk about when it came to abortion or the Supreme Court.</p><p>Dungy is taking part in a peaceful march that happens every year. Then he is going to talk about football and tell everyone why the Buffalo Bills are winning the Super Bowl this year. Zirin can go cry in the corner about it.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Steven Crowder Refutes Student's Abortion Argument | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/2Q1I0XarWuk" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Overweight - woman - wants to get healthy, gets refused by girls-only gym because she used to be a man
+ - [https://www.louderwithcrowder.com/womens-gym-forbidden](https://www.louderwithcrowder.com/womens-gym-forbidden)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-20 13:22:44+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32878415&amp;width=1200&amp;height=800&amp;coordinates=102%2C0%2C98%2C0" /><br /><br /><p>Brigid Klyne-Simpson is overweight. Massively overweight. Rotund. The kind of fat you would make "yo' mama so fat jokes" about. Or as fat activists would call her, perfect just the way she is. But Klyne-Simpson wants to get in better shape. She attempted to join a women's only gym <a href="https://thepostmillennial.com/biological-male-considers-filing-human-rights-complaint-after-being-barred-from-bc-womens-gym" target="_blank">but had her membership rejected</a>.</p><p>The rub is Brigid used to be a man. There are women who have always been women <a href="https://www.louderwithcrowder.com/ycma-city-council-lockerroom-complaint" target="_blank">who take issue with having a used-to-be-a-man in their safe space</a>.  I know, right? 2019 called and they want their passe definitions of gender back!</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">If you’re that concerned about losing weight, what’s wrong with the coed facility? <a href="https://t.co/7lipYWecb3">pic.twitter.com/7lipYWecb3</a><br />— Catch Up (@CatchUpNetwork) <a href="https://twitter.com/CatchUpNetwork/status/1616201318590484487?ref_src=twsrc%5Etfw">January 19, 2023</a></blockquote> </div><p>Brigid used to work out at a men's gym (before he became a she) but was uncomfortable around so many buff guys. It wasn't until he realized they were trans and became a she that Brigit realized what the problem was. Brigit thought they found the perfect fitness center to live -- her -- best authentic self. Then came a dreadful phone call.</p><blockquote>I got a call…basically saying, ‘Sorry, we made a mistake, you’re not actually allowed to be here, but you’re more than welcome to use the co-ed facility." I just hung up, because I mean, I was extremely devastated, there’s really no other word for it.</blockquote><p>The gym's owner felt Brigit would be better served at their co-ed gym. The gym has gender-neutral changing rooms in the name of inclusivity. The owner understands Klyne-Simpson's disappointment, but they are trying to find balance.</p><blockquote>We also have to worry about the young girls that this gym is set up for them and the women, and how are their parents are going to feel that they’re in there, then this person walks in with a male voice and big person.</blockquote><p>It's a dilemma many in 2023 find themselves wrestling with. Do you side with the comfort of the <a href="https://www.louderwithcrowder.com/ymca-elderly-woman-banned" target="_blank">grown adult who (presumably) still comes with their factory-installed genitalia</a>? Or do side with, as the gym's owner says "the comfort of the young girls that are working out there that might not feel comfortable?"</p><p>Brigid Klyne-Simpson is of the belief you side with her comfort. She is considering filing a Human Rights complaint in order to force educating the gym that trans women are women. Even though critics continue to say "...uh, no they're not."</p><p>We here at the Louder with Crowder Dot Com website will continue to bring you any updates to this story.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Crowder Sets Off The "Lunk Alarm" as a Brave Beautiful Woman | Crowder Classics</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/N5Vsz3FuJUU" target="_blank">youtu.be</a>
+</small>
+</p>
