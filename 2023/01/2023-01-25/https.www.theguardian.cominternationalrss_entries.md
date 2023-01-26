@@ -1,0 +1,97 @@
+# Source The Guardian - International, Source URL:https://www.theguardian.com/international/rss, Source language: en-US
+
+## Confusion reigns after umpires miss clear goal as Australia defend Quad Series title
+ - [https://www.theguardian.com/sport/2023/jan/26/netball-quad-series-australia-diamonds](https://www.theguardian.com/sport/2023/jan/26/netball-quad-series-australia-diamonds)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 23:08:02+00:00
+ - user: None
+
+<ul><li>Diamonds beat Silver Ferns 56-50 in Cape Town final</li><li>Stacey Marinkovich’s side secure title for fifth straight time</li></ul><p>An embarrassing umpiring error left New Zealand searching for answers as Australia laid down an emphatic marker ahead of the Netball World Cup with another Quad Series triumph.</p><p>The Diamonds successfully defended their title without a single loss, beating their fiercest rivals New Zealand 56-50 in the final in Cape Town on Wednesday.</p> <a href="https://www.theguardian.com/sport/2023/jan/26/netball-quad-series-australia-diamonds">Continue reading...</a>
+
+## Patrick Mahomes is ‘ready to go’ before AFC title game despite ankle injury
+ - [https://www.theguardian.com/sport/2023/jan/25/patrick-mahomes-ankle-injury-kansas-city-chiefs-afc-championship-game-nfl](https://www.theguardian.com/sport/2023/jan/25/patrick-mahomes-ankle-injury-kansas-city-chiefs-afc-championship-game-nfl)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 20:18:04+00:00
+ - user: None
+
+<ul><li>Chiefs quarterback is dealing with sprained right ankle</li><li>Kansas City face Cincinnati for place in Super Bowl</li></ul><p>The Chiefs’ Patrick Mahomes went through a morning walkthrough on Wednesday and intends to practice as usual, raising expectations that the All-Pro quarterback will not be slowed by his sprained ankle in this weekend’s AFC title game against the Cincinnati Bengals.</p><p>Indeed on Wednesday, when asked about the Bengals game, Mahomes sounded bullish.</p> <a href="https://www.theguardian.com/sport/2023/jan/25/patrick-mahomes-ankle-injury-kansas-city-chiefs-afc-championship-game-nfl">Continue reading...</a>
+
+## ‘Her tears were real’: survivors of Christchurch attack weigh up Jacinda Ardern’s legacy
+ - [https://www.theguardian.com/world/2023/jan/25/christchurch-attack-survivors-on-jacinda-ardern-legacy-as-new-zealand-pm](https://www.theguardian.com/world/2023/jan/25/christchurch-attack-survivors-on-jacinda-ardern-legacy-as-new-zealand-pm)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 19:00:37+00:00
+ - user: None
+
+<p>Ardern’s response to the shooting at two mosques is considered by many to be the defining moment in her time as New Zealand prime minister</p><p>When Temel Ataçocuğu regained consciousness in hospital after being shot nine times during a white supremacist terror attack, a friend showed him a video of New Zealand’s prime minister responding to the horror.</p><p>“Many of those who will have been directly affected by this shooting may be migrants to New Zealand, they may even be refugees here. They have chosen to make New Zealand their home, and it is their home,” Ardern said, in a speech that reverberated around the world.</p> <a href="https://www.theguardian.com/world/2023/jan/25/christchurch-attack-survivors-on-jacinda-ardern-legacy-as-new-zealand-pm">Continue reading...</a>
+
+## Suspicious death of ‘Pin’ the vulture adds to Dallas zoo’s mysterious woes
+ - [https://www.theguardian.com/us-news/2023/jan/25/dallas-zoo-pin-vulture-dies-suspicious-wound](https://www.theguardian.com/us-news/2023/jan/25/dallas-zoo-pin-vulture-dies-suspicious-wound)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 18:31:38+00:00
+ - user: None
+
+<p>News comes after unusual activity at the zoo that included one of its clouded leopards missing </p><p>A lappet-faced vulture at the Dallas zoo has <a href="https://twitter.com/dallaszoo/status/1617924019499433991?s=46&amp;t=S-gRjbx62UIXAup9u7Zevw">died</a> from a suspicious wound in its Wilds of Africa habitat. Officials called the mysterious death of 35-year-old Pin “devastating” and are offering a $10,000 reward for any information.</p><p>The announcement follows a bout of unusual activity at the zoo. Last week it shut down after it reported one of its two clouded leopards, Nova, was missing. A zoo spokesperson assured the public the 25lb cat didn’t pose a threat to humans and Nova was found later that day on zoo grounds near her habitat.</p> <a href="https://www.theguardian.com/us-news/2023/jan/25/dallas-zoo-pin-vulture-dies-suspicious-wound">Continue reading...</a>
+
+## This month’s best paperbacks: Oliver Bullough, Saba Sams and more
+ - [https://www.theguardian.com/books/ng-interactive/2023/jan/25/this-months-best-paperbacks-oliver-bullough-saba-sams-and-more](https://www.theguardian.com/books/ng-interactive/2023/jan/25/this-months-best-paperbacks-oliver-bullough-saba-sams-and-more)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 15:22:36+00:00
+ - user: None
+
+<p>Looking for a new reading recommendation? Here are some brilliant new paperbacks, from a remarkable study of food to an exhilarating short story collection</p> <a href="https://www.theguardian.com/books/ng-interactive/2023/jan/25/this-months-best-paperbacks-oliver-bullough-saba-sams-and-more">Continue reading...</a>
+
+## Briton arrested in Spain for allegedly helping Russian oligarch evade sanctions
+ - [https://www.theguardian.com/world/2023/jan/25/briton-arrested-spain-allegedly-helping-russian-oligarch-evade-sanctions](https://www.theguardian.com/world/2023/jan/25/briton-arrested-spain-allegedly-helping-russian-oligarch-evade-sanctions)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 12:51:54+00:00
+ - user: None
+
+<p>Richard Masters, wanted by US, is charged over scheme involving superyacht Tango owned by Viktor Vekselberg</p><p>A British man who is wanted by the US authorities for allegedly helping a Russian oligarch evade sanctions relating to his $90m (£73m) superyacht has been arrested in Spain.</p><p>The Briton, named by the US Department of Justice as Richard Masters, 52, has been charged with facilitating a sanctions-evasion and money-laundering scheme involving Tango, a 255ft luxury yacht belonging to <a href="https://www.theguardian.com/artanddesign/2022/mar/01/tate-faces-call-to-cut-ties-with-russian-oligarch-viktor-vekselberg-and-vladimir-putin-associate">Viktor Vekselberg</a>, a Russian oligarch <a href="https://www.theguardian.com/world/2022/mar/04/russia-oligarchs-business-figures-west-sanction-lists-us-eu-uk-ukraine">under US sanctions</a> who is an associate of Vladimir Putin.</p> <a href="https://www.theguardian.com/world/2023/jan/25/briton-arrested-spain-allegedly-helping-russian-oligarch-evade-sanctions">Continue reading...</a>
+
+## Inuit warn of ‘rock concert-like’ noise from ships affecting Arctic wildlife
+ - [https://www.theguardian.com/environment/2023/jan/25/inuit-warn-noise-pollution-ships-arctic-narwhals](https://www.theguardian.com/environment/2023/jan/25/inuit-warn-noise-pollution-ships-arctic-narwhals)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 11:56:15+00:00
+ - user: None
+
+<p>Calls for mandatory measures to reduce underwater noise pollution as melting ice opens up shipping routes</p><p>For centuries, narwhals and ringed seals have provided food for Inuit communities on the ice floes of Mittimatalik, or Pond Inlet, on northern Canada’s Baffin Island. But now, the Inuit – who have hunted, trapped and fished in the region since long before the Hudson Bay Company opened its first Arctic trading camp here in 1921 – say they no longer find the narwhals where they should be. They say shipping noise is to blame.</p><p><a href="https://nunatsiaq.com/stories/article/ship-noise-could-damage-hearing-in-marine-mammals-research-suggests/)">Researchers</a> have likened the passing of a single ice-breaker, increasingly present in the Arctic, to an underwater rock concert. Ship noise can be caused by everything from propellers to hull form to onboard machinery. It can disrupt activities that marine mammals need to survive, by shrinking their communication space, causing stress and displacing them from important habitats.</p> <a href="https://www.theguardian.com/environment/2023/jan/25/inuit-warn-noise-pollution-ships-arctic-narwhals">Continue reading...</a>
+
+## Madonna bootcamp was gruelling, intense and, it turns out, completely pointless
+ - [https://www.theguardian.com/film/2023/jan/25/madonna-bootcamp-was-gruelling-intense-and-it-turns-out-completely-pointless](https://www.theguardian.com/film/2023/jan/25/madonna-bootcamp-was-gruelling-intense-and-it-turns-out-completely-pointless)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 11:42:24+00:00
+ - user: None
+
+<p>Julia Garner, Florence Pugh and Odessa Young were put through the musical equivalent of the first half hour of Full Metal Jacket for a now cancelled auto-biopic of the singer</p><p>It’s a sad day to be Julia Garner. For years, Garner has been slowly carving out a niche for herself as one of Hollywood’s most promising leading actors. She was the best thing about Ozark, the best thing about The Assistant, the best thing about Dirty John, and she was also in Inventing Anna. And this unstoppable rise was meant to be capped with a showy turn as one of the biggest icons the world has ever seen: Madonna.</p><p>Of course, that’s all in the bin now. The long-gestating Madonna biopic – about Madonna, co-written by Madonna and directed by Madonna – has been canned. News of the film’s cancellation came after Madonna announced a huge world tour, although it’s understood that the decision was made before that. According to the Hollywood Reporter, every script that Madonna turned in was at least three hours long, and so full of incident that producers were unsure whether to turn it into a television show or split it into parts like a Harry Potter film.</p> <a href="https://www.theguardian.com/film/2023/jan/25/madonna-bootcamp-was-gruelling-intense-and-it-turns-out-completely-pointless">Continue reading...</a>
+
+## Homeless at Starbucks: why the coffee chain is bringing in social workers
+ - [https://www.theguardian.com/environment/2023/jan/25/homeless-at-starbucks-social-workers-outreach](https://www.theguardian.com/environment/2023/jan/25/homeless-at-starbucks-social-workers-outreach)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 11:00:19+00:00
+ - user: None
+
+<p>Unhoused people use the cafe locations to warm up and rest – and now outreach workers can find them there and offer services</p><p>On a chilly recent morning, customers inside a Starbucks in New York City’s midtown were doing what you’d expect: buying coffee, warming up, chatting. But one person was moving through the store with a different purpose: she first approached a woman standing near the door, and then another man seated with a cup of coffee, saying hello, asking how they were and offering them gloves, hats and handwarmers.</p><p>This was an outreach worker named Thashana Jacobs, and this store was her first stop of the day. The organization she works for, a homeless outreach and housing non-profit, has been contracted by Starbucks to deal with an issue that the company feels it cannot ignore: the number of unhoused people who come into the store looking for a place to sit, rest and use the restroom.</p> <a href="https://www.theguardian.com/environment/2023/jan/25/homeless-at-starbucks-social-workers-outreach">Continue reading...</a>
+
+## The one change that didn’t work: I gave up coffee – and got hooked on energy drinks
+ - [https://www.theguardian.com/lifeandstyle/2023/jan/25/the-one-change-that-didnt-work-i-gave-up-coffee-but-got-hooked-on-energy-drinks](https://www.theguardian.com/lifeandstyle/2023/jan/25/the-one-change-that-didnt-work-i-gave-up-coffee-but-got-hooked-on-energy-drinks)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 11:00:19+00:00
+ - user: None
+
+<p>When my dentist mentioned my stained teeth, I decided to quit coffee and tea. But the sugar-free drinks I started downing left me with nasty jitters</p><p>Vanity made me do it. I had been to the dentist and, in between poking horrible things into my mouth, she asked if I drank a lot of coffee. “Unhhyeahhhh!” I said, as best I could. (Why do dentists always talk to you when it’s obvious you’re in no position to answer?) “I can tell!” she said. “There’s a lot of staining. Try drinking less coffee.” I gurgled something in agreement, while indignantly thinking that the dentist should try brushing up on her social skills. Still, I immediately resolved to cut down.</p><p>Actually, vanity was probably only 90% of the impetus to reduce my coffee intake. The other 10% was patriotic pride. I’m a Brit in the US – and we all know the reputation that Brits have when it comes to their teeth. I felt I had a duty to try and counter that reputation. I decided to give up coffee and tea (equally bad for the teeth), but I didn’t want to give up caffeine, so I came up with a cunning plan: instead of drinking five to eight teas and coffees a day, I started drinking five to eight sugar-free energy drinks a day. With a straw, obviously.</p> <a href="https://www.theguardian.com/lifeandstyle/2023/jan/25/the-one-change-that-didnt-work-i-gave-up-coffee-but-got-hooked-on-energy-drinks">Continue reading...</a>
+
+## Man, 74, arrested in Spain over letter bombs sent to PM and embassies
+ - [https://www.theguardian.com/world/2023/jan/25/man-74-arrested-in-spain-over-letter-bombs-sent-to-pm-and-embassies](https://www.theguardian.com/world/2023/jan/25/man-74-arrested-in-spain-over-letter-bombs-sent-to-pm-and-embassies)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 10:05:21+00:00
+ - user: None
+
+<p>Six explosive devices sent to targets including Pedro Sánchez and the Ukrainian and US embassies</p><p>Spanish police have arrested a 74-year-old man in connection with a series of <a href="https://www.theguardian.com/world/2022/dec/01/spanish-police-investigate-four-devices-ukraine-embassy-blast-madrid">letter bombs and explosive devices</a> sent to the Ukrainian and US embassies and the office of the Spanish prime minister at the end of last year.</p><p>Spain stepped up security at government buildings and embassies in December after six devices were sent to targets that also included the defence minister, an airbase near Madrid, and a weapons company that manufactures the C90 rocket launchers that have been donated to Ukraine.</p> <a href="https://www.theguardian.com/world/2023/jan/25/man-74-arrested-in-spain-over-letter-bombs-sent-to-pm-and-embassies">Continue reading...</a>
+
+## Madonna biopic scrapped after singer’s world tour announced
+ - [https://www.theguardian.com/music/2023/jan/25/madonna-biopic-scrapped-after-singers-world-tour-announced](https://www.theguardian.com/music/2023/jan/25/madonna-biopic-scrapped-after-singers-world-tour-announced)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-01-25 01:49:28+00:00
+ - user: None
+
+<p>The film, which generated an online frenzy over its gruelling audition process, was set to star Julia Garner and be directed by Madonna herself</p><p>A much-anticipated Madonna biopic, directed by the singer herself and starring the Ozark actor Julia Garner, has been scrapped.</p><p>The film, which had been in development since 2020 with Universal Pictures and had the working title Little Sparrow, was set to chronicle Madonna’s four-decade career spanning music, cinema and fashion.</p> <a href="https://www.theguardian.com/music/2023/jan/25/madonna-biopic-scrapped-after-singers-world-tour-announced">Continue reading...</a>
