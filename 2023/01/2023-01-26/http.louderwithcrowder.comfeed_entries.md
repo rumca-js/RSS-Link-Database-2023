@@ -1,0 +1,216 @@
+# Source Louder With Crowder, Source URL:http://louderwithcrowder.com/feed/, Source language: en-US
+
+## Don Lemon: Florida law banning porn in schools is totally 'like the 1950s all over again' or something
+ - [https://www.louderwithcrowder.com/don-lemon-florida-law-banning](https://www.louderwithcrowder.com/don-lemon-florida-law-banning)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 22:54:10+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32910619&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>The left is yet again upset with <a href="https://www.louderwithcrowder.com/ron-desantis-history-class" target="_blank">Florida Governor Ron DeSantis</a>. This time, it's over "book-banning." </p><p>Florida is requiring all curriculum and reading material to be vetted according to standards set by the Florida Department of Education. This will inevitably lead to the exclusion of some books deemed inappropriate. </p><p><a href="https://www.louderwithcrowder.com/don-lemon-reparations" target="_blank">Don Lemon</a> was beside himself at this news. He told Poppy Harlow, "It feels like the 1950s all over again, with book banning. This is cancel culture from people who are – I guess they just want our kids to be ignorant, and to control the teachers. This is outrageous ... it's just ridiculous."</p><p>Lemon went on to say that "this isn't about a [parent's] voice in education" and called that argument a "red herring" because there are lots of uncomfortable topics in school books, like Nazism. Poppy decried that teachers can be charged with a third-degree felony if they violate the law </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cCNN's @DonLemon on Florida: "It feels like the 1950s all over again, with book banning. This is cancel culture from people who are \u2013 I guess they just want our kids to be ignorant, and to control the teachers. This is outrageous ... it's just ridiculous."\u201d</div> — Tom Elliott (@Tom Elliott)
+        <a href="https://twitter.com/tomselliott/status/1618621820202000384">1674744489</a>
+</blockquote>
+<p>Toward the end of the clip, Donny boy got very worked up and started yelling about how history is meant to be uncomfortable but that's how children learn. Surely, Don Lemon's extreme distress must mean Florida is trying to prevent kids from reading about crucial parts of history, like Hitler or slavery...right? </p><p>Oh no. It bans pornography. </p><p>The Florida education standards <a href="https://www.kplctv.com/2023/01/26/book-ban-underway-teachers-fear-prosecution/" target="_blank">require</a> lesson materials to be “free of pornography and material prohibited under state statute, suited to student needs and their ability to comprehend the material presented, appropriate for the grade level and age group for which the materials are used and made available.”</p><p>So...the kids are still learning about Hitler, still learning about slavery, and African American history...just no porn. Seems reasonable to me. But I have some questions for Don.  </p><p>What's even more disturbing is, some Florida schools are so worried about violating this law, they've shut down all classroom libraries and covered the totally-porn-free books with paper. I have some questions for those schools, as well. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">CNN Host's DELUSIONAL Perception Of Texas | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/ylr8ZY08cjw" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## WATCH: College sicko claims 12-year-olds can consent to sex with adults. There should be a word for that...
+ - [https://www.louderwithcrowder.com/berkeley-12-year-old](https://www.louderwithcrowder.com/berkeley-12-year-old)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 22:48:23+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32910549&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Ah, <a href="https://www.louderwithcrowder.com/abolish-white-people-crt-cult" target="_blank">Berkeley</a>. The land of hipsters, avocado toast, and apparently, people who think children should have sex with adults. Sounds about right. </p><p>Chris Elston, AKA "Billboard Chris" on Twitter,  is currently at UC Berkeley. If you aren't familiar with Billboard Chris, he travels across the U.S. and Canada wearing billboards that feature his most controversial opinions, such as "children cannot consent to puberty blockers."  </p><p>Unsurprisingly, he takes a lot of heat for his opposition to the <a href="https://www.louderwithcrowder.com/gender-affirming-seven-year-olds" target="_blank">practice</a> of putting children on dangerous and irreversible medication that could permanently sterilize them. Earlier this week, he fractured his arm during a scuffle with masked thugs who apparently <em>really</em> want to put kids on puberty blockers. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> — Tony G @mbta is a dumpster fire. (@Tony G @mbta is a dumpster fire.)
+        <a href="https://twitter.com/BillboardChris/status/1618014521238654976">1674599921</a>
+</blockquote>
+<p>If the pro-puberty blockers crowd weren't enough, yesterday Chris encountered a guy who is openly pro-pedophilia on Berkeley's campus.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> — Andy Ng\u00f4 \ud83c\udff3\ufe0f\u200d\ud83c\udf08 (@Andy Ng\u00f4 \ud83c\udff3\ufe0f\u200d\ud83c\udf08)
+        <a href="https://twitter.com/BillboardChris/status/1618465498433490944">1674709786</a>
+</blockquote>
+<p>Chris asked this dude if a 12-year-old can consent to sex with an adult. To which the obvious and immediate answer from any sane person would be a resounding "no." </p><p><em></em>But this guy immediately said, "yes." He then asked if they could first talk about a 17-year-old and "work their way down." </p><p>How about <em>no</em>. </p><p>The dude claimed that there are "exceptions" and "exceptional 12-year-olds understand what consent is" and asked Chris to define the terms "child" and "consent." According to him, the legal age of consent doesn't answer the "philosophical" question of what consent actually is. </p><p>This guy clearly thinks he's some radical free-thinker. He called the discussion "taboo" and questioned why we aren't allowed to discuss it. </p><p>Because it's rape, you dimwit. </p><p>To be fair, this guy could be trolling. Part of me hopes he is- if he isn't, that means his opinion is well on its way to being normalized in society. But it is Berkeley, after all. They literally created <a href="https://nypost.com/2022/09/30/uc-berkeley-blasted-for-creating-jewish-free-zones-with-pro-israel-speaker-ban/" target="_blank">"Jewish Free Zones" </a> by banning pro-Israel speakers and didn't think anyone would have a problem with it.  Such progressivism!  </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Elon Musk Calls Out U.N. PEDOPHILIA | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/WA8m5t1pUG0" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Guy blasts gym-shamer who thinks she's all that and makes fun of dude who dares speak to her
+ - [https://www.louderwithcrowder.com/gym-shamer-girl-tiktok](https://www.louderwithcrowder.com/gym-shamer-girl-tiktok)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 19:21:46+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32908962&amp;width=1245&amp;height=700&amp;coordinates=0%2C31%2C0%2C87" /><br /><br /><p>We here at the Louder with Crowder Dot Com website are all about doing it for the content. But f*ck all the way off with gym-shaming videos. One went viral last week when a girl got upset a guy made eye-contact and <a href="https://www.louderwithcrowder.com/twitch-streamer-gym" target="_blank">shamed him on social media for "sexualizing" her</a>. As opposed to thinking he just happened to be looking that way at that moment like a normal person would. The gym is a crowded place. There are only so many places you can stare. It happens.</p><p>Our new favorite <a href="https://www.louderwithcrowder.com/gym-tiktok-embarassing" target="_blank">shamer of gym-shamers</a> Joey Swoll spotted another video. The crime against this girl who thinks she's all that was when a guy who looked confused asked her if she was using a nearby machine. That also happens at the gym sometimes.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Talking to someone at the gym doesn’t mean they’re hitting on you and EVERYTHING doesn’t need to be posted on social media. <a href="https://t.co/20oMlnIxBE">pic.twitter.com/20oMlnIxBE</a><br />— Joey Swoll (@TheJoeySwoll) <a href="https://twitter.com/TheJoeySwoll/status/1618431647757766656?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote> </div><blockquote>It's really sad that you took this interaction, and you had to post it, and you had to share it to shame this man. To make him out to be a gym creep, that he's trying to hit on you, just for intention and likes. The gym is a sad space. People are going to interact with you, This is harmless. This man asked you a question, and you say no, and he moves on. This video never needs to be posted.</blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="cfe74" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32909029&amp;width=980" />
+</p><p>One other thing that annoys me about this video is when/if the cancel culture vultures get involved. They find out who the guy is and where he works. They send an email to his boss. The guy gets fired no questions asked. All because he asked if a machine was free. And the broad he asked, probably the kind who says if you aren't there at her worst you don't deserve her at her best (spoiler: there's a never best), wanted attention on social media.</p><p>If the guy really was a gym creep...it's a gym. It's loaded with people hopped up on testosterone that would be happy to have a frank conversation with the guy about it.</p><p>Though while I'm of the belief to mind your own business at the gym, I still think we need to have a national conversation about people who tie up machines scrolling the internet and NOT working out. It doesn't need to go on TikTok. But when I'm on my fourth set and you haven't done one the entire time, it still makes me hate you.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Indian CHADS Demolish Chinese Virgin Soldiers at Border! | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/PHQkz9z0JzM" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Kindergarten teachers brags about confusing five-year-olds about their gender
+ - [https://www.louderwithcrowder.com/kindergarten-teacher-tiktok](https://www.louderwithcrowder.com/kindergarten-teacher-tiktok)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 18:05:09+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32908666&amp;width=1200&amp;height=800&amp;coordinates=136%2C0%2C63%2C0" /><br /><br /><p>Last July, the teachers' union <a href="https://www.nbcnews.com/politics/politics-news/desantis-education-message-winning-battleground-states-teacher-union-p-rcna38232" target="_blank">put a poll into the field</a> hoping for data to say Americans (or those in battleground states) hated Ron DeSantis and all <a href="https://www.louderwithcrowder.com/florida-school-board-results" target="_blank">his education policies</a>. You know, like how it's inappropriate to indoctrinate children under the age of ten on sex and gender. Not only did the teachers' union poll <a href="https://www.louderwithcrowder.com/stephen-a-smith-gop-presidential" target="_blank">NOT turn out in opposition to DeSantis</a>, but it showed "voters approve of DeSantis’ education policy positions and even some of his rhetoric."</p><p>I think of that when I see videos like this specimen. It's an alleged kindergarten teacher bragging about how she confuses your five-year-old. You see, there are people in America who hold the political belief you can choose whether you are a boy or a girl. This teacher not only believes it, but she (or maybe he) also pushes those political beliefs on your kids.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Non-binary kindergarten teacher recounts telling a student that they can decide what gender they want to be. <br /><br />These are the people teaching your kids. <a href="https://t.co/WznN8V96N0">pic.twitter.com/WznN8V96N0</a><br />— Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1618469497475825665?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote> </div><p>Videoes like this take me back to High School. Picture it: 1992. Kris Kross ruled the airwaves. A young Roseanne Barr made us laugh. And a naive Brodigan innocently asked his US History teacher who she liked in the 1992 Democrat Primary. I still recall look of awkwardness on her face because it was inappropriate to discuss personal political views with students. Even when asked a simple question about current events.</p><p>1992 is a bygone era. As is 2021, where teachers at least had the sense not to advertise their indoctrination on social media. Now it's 2023 and teachers believe it's their right to exploit your five-year-old by pushing their political agenda on them instead of teaching things like sight words. The teachers and their allies act as if they're NOT the ones who are assholes in this situation. You're the asshole for thinking this is inappropriate for kindergarten students.</p><p> These same teachers, along with the union thugs who control them and the democrats those unions give millions of dollars to, then wonder why a diverse coalition of parents support leaders who are willing to stand up and fight back.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">HEATED: 2 College Students Debate Gender! | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/FDI0RL2_RGU" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Bill Gates goes all in on communist China, claims the country's rise is a 'huge win for the globe'
+ - [https://www.louderwithcrowder.com/bill-gates-china-comments](https://www.louderwithcrowder.com/bill-gates-china-comments)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 16:40:10+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32908285&amp;width=1200&amp;height=800&amp;coordinates=56%2C0%2C144%2C0" /><br /><br /><p>Earlier this week, everyone's favorite creepy old guy intent on world domination, <a href="https://www.louderwithcrowder.com/bill-gates-joe-manchin" target="_blank">Bill Gates,</a> praised the rise of China and claimed it's actually good for the world. Who doesn't want the most powerful country to be the one that censors and locks down its citizens while carrying out a not-so-secretive ethnic cleansing?</p><p> Gates was speaking at a non-partisan Australian think-tank called "Lowy Institute." He said, “I tend to see China’s rise as a huge win for the world. I mean, that’s 20 percent of humanity. <a href="https://www.louderwithcrowder.com/china-protests" target="_blank">China</a> is a very innovative country, very important, you know, arguably the number two innovator, but the distance [from the US] is unbelievable.”</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cIt\u2019s actually a massive L for us https://t.co/9OtA2kuvWz\u201d</div> — Daily Caller (@Daily Caller)
+        <a href="https://twitter.com/DailyCaller/status/1618579504829448196">1674734400</a>
+</blockquote>
+<p>I don't know about you, but when I think of China, the first word to come to mind is definitely "innovative." Not "genocidal" or "horrifyingly tyrannical." No, no. Their shining feature is definitely their innovation. </p><p>To his credit, he did admit that a weakened United States is "scary for the world." But he seemed to miss the correlation between a stronger China and a weaker America, and decried America's low willingness to depend on goods from China. </p><p>He also brought up climate change, of course. He said, “Climate change is worth investing in massively because it will get worse and worse over time." This is hilarious because he seems oblivious to the fact that China is one of the <a href="https://www.washingtonpost.com/climate-environment/2022/11/23/china-climate-finance-cop27/" target="_blank">worst</a> polluters in the world. </p><p>We shouldn't be surprised by Gates', given that this isn't the first time Gates has praised China. Back in 2020, he said China "did a lot of things right at the beginning of the pandemic." </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cBill Gates actually praises China -- the country that caused the coronavirus and lied to the world by trying to cover it up -- as having done "a lot of things right," while criticizing America's response.\u201d</div> — MRCTV (@MRCTV)
+        <a href="https://twitter.com/mrctv/status/1255230052599427072">1588105140</a>
+</blockquote>
+<p>If by "a lot of things right," he means covered up the outbreak, blamed the United States military, miscounted deaths, locked citizens in their homes indefinitely, and probably created the virus itself...then he's spot on! </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">EXPOSED: Bill Gates’ CREEPY Covid Response | Louder with Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/FSmW-ryD-NE" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## NYC courthouse erects demonic-looking statute they claim is meant to pay homage to Ruth Bader Ginsburg
+ - [https://www.louderwithcrowder.com/nyc-courthouse-ruth-bader-ginsburg](https://www.louderwithcrowder.com/nyc-courthouse-ruth-bader-ginsburg)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 15:25:59+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32907957&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C118" /><br /><br /><p>From statues of George Floyd to <a href="https://www.louderwithcrowder.com/martin-luther-king-statue" target="_blank">phallic monuments</a> dedicated to Dr. Martin Luther King Jr., modern "art" has gradually overtaken our cities. Case in point: a New York City courthouse is now adorned with this terrifying demonic figure that's apparently supposed to represent Ruth Bader Ginsburg and abortion, which I guess makes sense. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cA new statue atop a New York City courthouse. The artist says it\u2019s part of an \u201curgent and necessary cultural reckoning underway as New York reconsiders traditional representations of power in public spaces and recasts civic structures to better reflect 21st-century social mores.\u201d\u201d</div> — Andrew Beck (@Andrew Beck)
+        <a href="https://twitter.com/AndrewBeckUSA/status/1618248543537606656">1674655493</a>
+</blockquote>
+<p>The statue is a terrifying 8 feet tall and shows a Medusa-looking creature with tentacles emerging from a lotus flower. It's also wearing <a href="https://www.louderwithcrowder.com/aoc-mitch-mcconnell-rbg" target="_blank">Ruth Bader Ginsburg's</a> signature lace collar. It stands near the statues of Moses, Confucius, and Zoroaster. </p><p>The artist behind the, ahem, "masterpiece,"  is 53-year-old Shahzia Sikander. Sikander <a href="https://www.nytimes.com/2023/01/25/arts/design/discrimination-sculpture-madison-park-sikander-women.html" target="_blank">said</a> the sculpture "was part of an urgent and necessary cultural reckoning underway as New York, along with cities across the world, reconsiders traditional representations of power in public spaces and recasts civic structures to better reflect 21st-century social mores [...] She is a fierce woman and a form of resistance in a space that has historically been dominated by patriarchal representation." </p><p>Personally, I was fine with the traditional, non-demonic "representations of power," but maybe that's just me. Perhaps New Yorkers love abortion Medusa watching over their every moment. </p><p>The statue is called "NOW" because, according to Sikander, it was needed...now. Y'know, due to the rampant attacks on women's "reproductive freedom" and "bodily autonomy," which is leftist for "you can't kill quite as many of your babies in some states." </p><p>"NOW" is also apparently "in dialogue" with another statue by Sikander, "Witness" in Madison Square Park. That one is 18 feet tall and equally, if not more, terrifying. Its dome skirt apparently represents the stained-glass dome of the courthouse and symbolizes the need to “break the legal glass ceiling.” </p><p>I'm not entirely sure what "glass ceiling" they're referring to since there are currently four female justices on the Supreme Court. Though they probably don't count <a href="https://www.louderwithcrowder.com/search/?q=ruth+bader+ginsburg" target="_blank">Amy Coney Barrett</a>. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Confirm Amy Coney Barrett (Part 2) | Change My Mind</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/hOGw8rczdvo" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Adam Schiff is so distraught getting kicked off of the House Intel committee he joins TikTok, owned by...you know
+ - [https://www.louderwithcrowder.com/adam-schiff-tiktok](https://www.louderwithcrowder.com/adam-schiff-tiktok)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 14:36:33+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32907636&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Congressman Adam "I'm a Piece of" Schiff was kicked off of the House Intelligence Committee and he's not handling it well. He's handling it better than Congressman Eric "Spyf*cker" Swalwell. That drama queen claims <a href="https://www.louderwithcrowder.com/kevin-mccarthy-reporter" target="_blank">Speaker Kevin McCarthy</a> is <a href="https://www.louderwithcrowder.com/eric-swalwell-blasts-kevin-mccarthy" target="_blank">trying to get them killed</a> by *checks notes* saying they aren't grown-up enough to handle vital intelligence. Schiff is more of a basic b*tch whining on social media. Bored with Twitter, he joined TikTok.</p><p>Correct. A guy whining he was kicked off of the House INTELLIGENCE committee signed up for TIKTOK, owned by...you know.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">WATCH: Congressman Adam Schiff posts a TikTok video after being removed from the House Intelligence Committee <a href="https://t.co/Dw4CjBwqxY">pic.twitter.com/Dw4CjBwqxY</a><br />— Daily Caller (@DailyCaller) <a href="https://twitter.com/DailyCaller/status/1618408468771409920?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote> </div><p>Set aside the usual summary where Rep. Schitt as Chairman of the Intelligence Committee <a href="https://www.louderwithcrowder.com/adam-schiff-twitter-sperry" target="_blank">pushed the Russian collusion hoax</a> used to impeach the former president. And how he lied claiming he saw the intelligence that proved Russian collusion, even though he was told it didn't prove Russian collusion. I know that you know all that.</p><p>To whine about no longer receiving US Intelligence, he signs up for an app...OWNED BY COMMUNIST CHINA. <a href="https://www.louderwithcrowder.com/tiktok-joe-rogan" target="_blank">THAT SENDS ALL HIS PERSONAL DATA TO COMMUNIST CHINA</a>.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="a55c3" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32907665&amp;width=980" />
+</p>
+<p>State and federal governments are banning TikTok from being used on government-issued phones over the whole "communist China" thing. Colleges are banning it over the whole "communist China" thing as well. Yet Adam Schitt, who used to be CHAIRMAN of the House INTELLIGENCE Committee, signed up for TikTok to whine about no longer receiving intelligence. He could have used Instagram or Snapchat. He went with the app guaranteed to send all his data to Chinese commies.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="c16f5" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32907683&amp;width=980" />
+</p>
+<p>I know, at least to a degree, McCarthy kicked Schitt off as revenge for Nancy Pelosi kicking republicans off of committees for bitterly partisan reasons. Don't get me wrong, I'd be cool if revenge was the only reason for yeeting democrats. But maybe the reason Rep. Schitt doesn't get to see any more Intelligence is due to his overwhelming lack of intelligence.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">WHAT A PIECE OF SH*T: Adam Schiff | Louder with Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/keYMC3Q2kuE" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Britney Spears fans call cops to do a welfare check when she deleted her Instagram and the singer is pissed
+ - [https://www.louderwithcrowder.com/britney-spears-deletes-instagram](https://www.louderwithcrowder.com/britney-spears-deletes-instagram)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 13:47:09+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32907448&amp;width=1245&amp;height=700&amp;coordinates=0%2C25%2C0%2C93" /><br /><br /><p>I don't want to write about this. I do this as a service to YOU, the Louder with Crowder Dot Com website reader. You know when you see Britney Spears trending you're going to be curious. Instead of scrolling through "why is Britney Spears trending?" tweets and TikToks of that God-awful song she did with <a href="https://www.louderwithcrowder.com/elon-musk-elton-john" target="_blank">Elton John</a>, let me save you the trouble. Britney is trending because her stans called the cops on her.</p><p>She deleted her Instagram account and they were concerned. So they called LAPD to do a welfare check. And livestreamed it.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">These are the “fans” that called the cops on Britney because she deleted her Instagram account.. y’all know what to do! <a href="https://t.co/aBGVyiA8Dk">pic.twitter.com/aBGVyiA8Dk</a><br />— KingSpears (@godkneebitch) <a href="https://twitter.com/godkneebitch/status/1618299971199201280?ref_src=twsrc%5Etfw">January 25, 2023</a></blockquote> </div><p>According <a href="https://www.tmz.com/2023/01/26/britney-spears-911-call-welfare-check-annoyed-fans-delete-instagram/" target="_blank">to TMZ</a>, Spears was left “annoyed” after the unexpected visit. She understands how deeply her fans care about her and her well-being and wasn’t totes surprised fans got the cops involved. Still, it was an inconvenience. </p><p>These stans weren't the only ones who called the cops because they were worried and couldn't even. It also wasn't the only recent Britney drama. She was out for dinner with husband Sam Asghari, who walked out when the singer looked, quote, "manic." Also, prior to deleting her Instagram, she announced on the app she was changing her name to River Red.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="56a1a" src="https://www.louderwithcrowder.com/media-library/image.gif?id=32907567&amp;width=980" />
+</p>
+<p>Drama has been following Britney all over for the past few years. She lashed out when she discovered <a href="https://www.louderwithcrowder.com/britney-spears-catholic-church" target="_blank">she had to be Catholic to get married in a Catholic church</a>. Haters called her racist when she accused Kevin Federline of <a href="https://www.louderwithcrowder.com/britney-spears-racist" target="_blank">smoking too much weed just like all those rappers</a>. Then there was that <a href="https://en.wikipedia.org/wiki/Britney_Spears_conservatorship_dispute" target="_blank">whole conservatorship with her father thing</a>, which I never understood and don't care to learn about now.</p><p>If nothing else, Britney still has obsessed fans who care about her. Obsessed fans who, in 2023, are still obsessed with her for some reason. I'd understand it more if they were obsessed over Taylor Swift or Cardi B., both of whom are still happening. But to each their own.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">"She's So High" - Nancy Pelosi Parody | Louder with Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/AJpgn1Q1544" target="_blank">youtu.be</a>
+</small>
+</p>
+
+## Watch: Pfizer director makes ludicrous claim about why company is mutating viruses, gets 'directed evolution' trending
+ - [https://www.louderwithcrowder.com/pfizer-director-mutatiing](https://www.louderwithcrowder.com/pfizer-director-mutatiing)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-01-26 13:07:54+00:00
+ - user: None
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32907245&amp;width=2000&amp;height=1500&amp;coordinates=46%2C0%2C274%2C0" /><br /><br /><p>What you are about to hear is a claim made by a Pfizer director that sounds insane. Almost as insane as being told to "imagine the compliance" of a pill with a tiny chip that sends a wireless signal to relevant authorities when the pharmaceutical has been digested. <a href="https://www.louderwithcrowder.com/pfizer-ceo-pill-computer-chip" target="_blank">That claim was made by Pfizer's CEO, and there is video of that too</a>. This claim of what critics are calling "directed evolution" was made by Jordon Trishton Walker, Pfizer Director of Research and Development.</p><p>Mutating schmovid means MORE schmovid schmaccines! Apropos of nothing, Pfizer, Joe Biden's favorite pharmaceutical company, made over $101 billion in 2022.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">BREAKING: <a href="https://twitter.com/pfizer?ref_src=twsrc%5Etfw">@Pfizer</a> Exploring "Mutating" COVID-19 Virus For New Vaccines<br /><br />"Don't tell anyone this...There is a risk...have to be very controlled to make sure this virus you mutate doesn't create something...the way that the virus started in Wuhan, to be honest."<a href="https://twitter.com/hashtag/DirectedEvolution?src=hash&amp;ref_src=twsrc%5Etfw">#DirectedEvolution</a> <a href="https://t.co/xaRvlD5qTo">pic.twitter.com/xaRvlD5qTo</a><br />— Project Veritas (@Project_Veritas) <a href="https://twitter.com/Project_Veritas/status/1618405890612420609?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote> </div><blockquote>Don’t tell anyone. Promise you won’t tell anyone.</blockquote><p>My man actually said that.</p><blockquote>One of the things we're exploring is like, why don't we just mutate it ourselves so we could create -- preemptively develop new vaccines, right? So, we have to do that. If we're gonna do that though, there's a risk of like, as you could imagine -- no one wants to be having a pharma company mutating f*cking viruses.</blockquote><p>Yes, correct. No one wants to be having a pharma company that does such a thing.</p><p>Jordon Trishton Walker, Pfizer's Director of Research and Development, claimed without evidence the way it works is that they put the virus in monkeys, cause them to keep infecting each other, and collect serial samples from them. <a href="https://www.louderwithcrowder.com/new-bombshell-report-from-the-intercept-on-ori-gins-of-covid-19-should-have-dr-fauci-in-a-panic" target="_blank">If that sounds</a> somewhat <a href="https://www.louderwithcrowder.com/jon-stewart-wuhan-lab-theory" target="_blank">familiar to you</a>, it sounds familiar to Jordon Trishton Walker, Pfizer's Director of Research and Development, as well.</p><p>If news got out about this, people would start spreading related misinformation all throughout social media. THANKFULLY our Big Tech companies are hard at work.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Of course. <a href="https://t.co/mf6TeEEWoC">pic.twitter.com/mf6TeEEWoC</a><br />— Mythinformed MKE (@MythinformedMKE) <a href="https://twitter.com/MythinformedMKE/status/1618476457319337984?ref_src=twsrc%5Etfw">January 26, 2023</a></blockquote> </div><p>This undercover video was released by citizen journalists <a href="https://www.projectveritas.com/news/pfizer-executive-mutate-covid-via-directed-evolution-for-company-to-continue/" target="_blank">Project Veritas</a>. Jordon Trishton Walker, Pfizer's Director of Research and Development, appeared to think he was on a date. Like most guys who are on a date, Jordon Trishton Walker, Pfizer's Director of Research and Development, claims could have been less truthy as much as him spitting game at his date hoping to get laid. Guys say all sorts of crazy sh*t on dates trying to get a piece. I once told a girl I could get her to meet Gerald Morgan Jr.</p><p><em>IF</em> this is true, I foresee any combination of three things. Pfizer denying it. Critics of directed evolution will be told they are too dumb to understand the science. And Jordon Trishton Walker, Pfizer's Director of Research and Development, will find that he's no longer Pfizer's Director of Research and Development.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Totally REAL Opioids Commercial! Sponsored by Big Pharma! | Louder With Crowder</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/2xrbcz3gt68" target="_blank">youtu.be</a>
+</small>
+</p>
