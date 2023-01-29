@@ -1,0 +1,55 @@
+# Source Reclaim The Net, Source URL:https://reclaimthenet.org/feed/, Source language: en-US
+
+## Florida cops to upgrade biometric tech for potential future facial recognition
+ - [https://reclaimthenet.org/florida-cops-to-upgrade-biometric-tech/](https://reclaimthenet.org/florida-cops-to-upgrade-biometric-tech/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-28 20:08:54+00:00
+ - user: None
+
+<a href="https://reclaimthenet.org/florida-cops-to-upgrade-biometric-tech/" rel="nofollow" title="Florida cops to upgrade biometric tech for potential future facial recognition"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/01/florida-face.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>$20 million spend.</p>
+<p>The post <a href="https://reclaimthenet.org/florida-cops-to-upgrade-biometric-tech/" rel="nofollow">Florida cops to upgrade biometric tech for potential future facial recognition</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Brazil plots law against “anti-democratic” online speech
+ - [https://reclaimthenet.org/brazil-plots-law-against-anti-democratic-online-speech/](https://reclaimthenet.org/brazil-plots-law-against-anti-democratic-online-speech/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-28 19:37:37+00:00
+ - user: None
+
+<a href="https://reclaimthenet.org/brazil-plots-law-against-anti-democratic-online-speech/" rel="nofollow" title="Brazil plots law against &#8220;anti-democratic&#8221; online speech"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/01/Flavio-Dino.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>New threats to free speech.</p>
+<p>The post <a href="https://reclaimthenet.org/brazil-plots-law-against-anti-democratic-online-speech/" rel="nofollow">Brazil plots law against &#8220;anti-democratic&#8221; online speech</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Vimeo bans documentary about parents’ concern over transgender surgery for minors
+ - [https://reclaimthenet.org/vimeo-bans-documentary-deadname/](https://reclaimthenet.org/vimeo-bans-documentary-deadname/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-28 19:04:34+00:00
+ - user: None
+
+<a href="https://reclaimthenet.org/vimeo-bans-documentary-deadname/" rel="nofollow" title="Vimeo bans documentary about parents&#8217; concern over transgender surgery for minors"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/01/vimeo-censor-doc.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Vimeo called the documentary "hateful."</p>
+<p>The post <a href="https://reclaimthenet.org/vimeo-bans-documentary-deadname/" rel="nofollow">Vimeo bans documentary about parents&#8217; concern over transgender surgery for minors</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## New York investigates Madison Square Garden company over facial recognition scan for entry
+ - [https://reclaimthenet.org/new-york-investigates-msg-facial-recognition-entry/](https://reclaimthenet.org/new-york-investigates-msg-facial-recognition-entry/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-28 18:40:45+00:00
+ - user: None
+
+<a href="https://reclaimthenet.org/new-york-investigates-msg-facial-recognition-entry/" rel="nofollow" title="New York investigates Madison Square Garden company over facial recognition scan for entry"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/01/msg.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>A possible civil liberties violation.</p>
+<p>The post <a href="https://reclaimthenet.org/new-york-investigates-msg-facial-recognition-entry/" rel="nofollow">New York investigates Madison Square Garden company over facial recognition scan for entry</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## YouTube censors and punishes Project Veritas over undercover Pfizer video
+ - [https://reclaimthenet.org/youtube-censors-and-punishes-project-veritas-pfizer-sting-video/](https://reclaimthenet.org/youtube-censors-and-punishes-project-veritas-pfizer-sting-video/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-28 01:05:24+00:00
+ - user: None
+
+<a href="https://reclaimthenet.org/youtube-censors-and-punishes-project-veritas-pfizer-sting-video/" rel="nofollow" title="YouTube censors and punishes Project Veritas over undercover Pfizer video"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/01/yt-censor-veritas.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The channel has been given a strike and Project Veritas is temporarily banned from uploading.</p>
+<p>The post <a href="https://reclaimthenet.org/youtube-censors-and-punishes-project-veritas-pfizer-sting-video/" rel="nofollow">YouTube censors and punishes Project Veritas over undercover Pfizer video</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## The 600 influential Russian Twitter bots narrative was pushed by mainstream media. Twitter executives knew it was false.
+ - [https://reclaimthenet.org/twitter-execs-knew-600-twitter-bot-narrative-false/](https://reclaimthenet.org/twitter-execs-knew-600-twitter-bot-narrative-false/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-28 00:23:52+00:00
+ - user: None
+
+<a href="https://reclaimthenet.org/twitter-execs-knew-600-twitter-bot-narrative-false/" rel="nofollow" title="The 600 influential Russian Twitter bots narrative was pushed by mainstream media. Twitter executives knew it was false."><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/01/twitter-files-hamilton68.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>But kept quiet.</p>
+<p>The post <a href="https://reclaimthenet.org/twitter-execs-knew-600-twitter-bot-narrative-false/" rel="nofollow">The 600 influential Russian Twitter bots narrative was pushed by mainstream media. Twitter executives knew it was false.</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
