@@ -1,0 +1,81 @@
+# Source Sky News, Source URL:http://feeds.skynews.com/feeds/rss/world.xml, Source language: en-US
+
+## Dances With Wolves actor 'trained wives how to use guns if police tried to break up family'
+ - [https://news.sky.com/story/nathan-chasing-horse-arrest-dances-with-wolves-actor-trained-wives-how-to-use-guns-if-police-tried-to-break-family-apart-12801829](https://news.sky.com/story/nathan-chasing-horse-arrest-dances-with-wolves-actor-trained-wives-how-to-use-guns-if-police-tried-to-break-family-apart-12801829)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 22:01:00+00:00
+ - user: None
+
+A Dances With Wolves actor allegedly trained his wives how to use guns and told them to "shoot it out" if officers tried to "break their family apart".
+
+## 'Your pain is my pain': Pope urges young people to forge a new future as he meets victims of atrocities in Congo
+ - [https://news.sky.com/story/your-pain-is-my-pain-pope-urges-young-people-to-forge-a-new-future-as-he-meets-victims-of-atrocities-in-congo-12801719](https://news.sky.com/story/your-pain-is-my-pain-pope-urges-young-people-to-forge-a-new-future-as-he-meets-victims-of-atrocities-in-congo-12801719)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 18:04:00+00:00
+ - user: None
+
+Pope Francis has urged young people in the Democratic Republic of Congo to forge a new future without the ethnic rivalry, corruption and distrust that have fuelled so many bloody conflicts in Africa.
+
+## 'I'm expecting death any time': How South Africa's scheduled power cuts put lives on the line
+ - [https://news.sky.com/story/im-expecting-death-any-time-how-south-africas-scheduled-power-cuts-put-lives-on-the-line-12801637](https://news.sky.com/story/im-expecting-death-any-time-how-south-africas-scheduled-power-cuts-put-lives-on-the-line-12801637)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 15:36:00+00:00
+ - user: None
+
+A tube runs from Jeanette Mahlangu's nose to an at-home oxygen concentrator positioned on the side of her couch.
+
+## Israel president uses artificial intelligence to write part of major speech
+ - [https://news.sky.com/story/israel-president-uses-chatgpt-artificial-intelligence-to-write-part-of-major-speech-12801304](https://news.sky.com/story/israel-president-uses-chatgpt-artificial-intelligence-to-write-part-of-major-speech-12801304)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 10:22:00+00:00
+ - user: None
+
+Israel's president, Isaac Herzog, shocked hi-tech professionals at a major cybersecurity convention in Tel Aviv on Wednesday when he revealed that the opening part of his speech was written by artificial intelligence software.
+
+## India's richest man loses $100bn in less than a week
+ - [https://news.sky.com/story/indias-richest-man-gautam-adani-loses-100bn-in-less-than-a-week-12801300](https://news.sky.com/story/indias-richest-man-gautam-adani-loses-100bn-in-less-than-a-week-12801300)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 10:21:00+00:00
+ - user: None
+
+India's richest man has seen his personal wealth shrink by billions in less than a week.
+
+## China 'a bigger threat to the world than Vladimir Putin'
+ - [https://news.sky.com/story/mike-pompeo-china-wants-world-dominance-and-is-a-bigger-threat-than-vladimir-putin-12801296](https://news.sky.com/story/mike-pompeo-china-wants-world-dominance-and-is-a-bigger-threat-than-vladimir-putin-12801296)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 10:13:00+00:00
+ - user: None
+
+Former US Secretary of State Mike Pompeo has told Sky News he believes China's President Xi is a bigger threat to the world than Vladimir Putin.
+
+## 'Impossible to escape': El Salvador opens 40,000-inmate prison in 'war against gangs'
+ - [https://news.sky.com/story/el-salvador-opens-40000-inmate-prison-in-war-against-gangs-12801280](https://news.sky.com/story/el-salvador-opens-40000-inmate-prison-in-war-against-gangs-12801280)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 10:00:00+00:00
+ - user: None
+
+El Salvador has opened one of the world's largest prisons, which will hold 40,000 inmates as arrests soar in a government crackdown on violent crime.
+
+## Five Canadian Mounties charged over death of indigenous man in custody
+ - [https://news.sky.com/story/dale-culver-five-canadian-mounties-charged-over-death-of-indigenous-man-in-custody-12801191](https://news.sky.com/story/dale-culver-five-canadian-mounties-charged-over-death-of-indigenous-man-in-custody-12801191)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 07:45:00+00:00
+ - user: None
+
+Five Canadian Mounties have been charged over the death of an indigenous man in custody.
+
+## 'Nobody is born smart': Ex-commander of Russian mercenary group apologises for fighting in Ukraine
+ - [https://news.sky.com/story/former-commander-of-russias-wagner-group-apologises-for-fighting-in-ukraine-after-fleeing-to-norway-12801151](https://news.sky.com/story/former-commander-of-russias-wagner-group-apologises-for-fighting-in-ukraine-after-fleeing-to-norway-12801151)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 06:02:00+00:00
+ - user: None
+
+A former commander of Russia's notorious mercenary Wagner Group who is seeking asylum in Norway has apologised for fighting in Ukraine.
+
+## King Charles won't appear on new Australian banknote - here's why
+ - [https://news.sky.com/story/king-charles-wont-appear-on-new-australian-banknote-heres-why-12801131](https://news.sky.com/story/king-charles-wont-appear-on-new-australian-banknote-heres-why-12801131)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-02 03:12:00+00:00
+ - user: None
+
+Australia is removing the British monarchy from its banknotes and will feature an indigenous design rather than an image of King Charles on its new $5 note.
