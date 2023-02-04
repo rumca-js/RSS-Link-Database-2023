@@ -1,0 +1,313 @@
+# Source Gizmodo, Source URL:https://gizmodo.com/rss, Source language: en-US
+
+## 22 Ridiculous Tables From the 1979 Advanced Dungeons & Dragons DM’s Guide
+ - [https://gizmodo.com/dungeons-and-dragons-advanced-dungeon-master-guide-1850071862](https://gizmodo.com/dungeons-and-dragons-advanced-dungeon-master-guide-1850071862)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 23:15:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2Jv5kJ0G--/c_fit,fl_progressive,q_80,w_636/7b101918270e91937b858a386a6d7b0d.jpg" /><p><a href="https://gizmodo.com/dungeons-and-dragons-gary-gygax-greyhawk-artifact-of-ev-1848694236">Gary Gygax</a>, creator of <a href="https://gizmodo.com/dungeons-dragons-will-no-longer-deauthorize-its-open-1850041837"><em>Dungeons &amp; Dragons</em></a>, really wanted to get his money’s worth when it came to the <a href="https://gizmodo.com/dungeons-dragons-dnd-dice-how-to-uncurse-roll-20-1849871968">various dice</a> used to play the game. That’s the only possible explanation for the overwhelming number of tables inside the AD&amp;D 1st Edition of the <em>Dungeon Master’s Guide</em>. Gygax wanted players to roll for practically <em></em>…</p><p><a href="https://gizmodo.com/dungeons-and-dragons-advanced-dungeon-master-guide-1850071862">Read more...</a></p>
+
+## Another Vortex Hits Texas | Extreme Earth
+ - [https://gizmodo.com/another-vortex-hits-texas-extreme-earth-1850072599](https://gizmodo.com/another-vortex-hits-texas-extreme-earth-1850072599)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 22:40:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--XXVjUEei--/c_fit,fl_progressive,q_80,w_636/be85abeeca91b112c0d4aca8d516fc50.jpg" /><p><a href="https://gizmodo.com/another-vortex-hits-texas-extreme-earth-1850072599">Read more...</a></p>
+
+## ‘Shoot. It. Down.’ How Washington Freaked Out About the Chinese Spy Balloon
+ - [https://gizmodo.com/china-spy-balloon-pentagon-marjorie-taylor-greene-tweet-1850072663](https://gizmodo.com/china-spy-balloon-pentagon-marjorie-taylor-greene-tweet-1850072663)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 22:35:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nQ8PK6rX--/c_fit,fl_progressive,q_80,w_636/a734b12e00346f9dcb9d37ecde6dfb49.jpg" /><p>Late Thursday night, a <a href="https://gizmodo.com/china-verifying-spy-balloon-montana-1850069388">giant, mysterious balloon floated over the United States</a>, apparently by way of the Pacific Ocean all the way to sensitive air space in Montana.</p><p><a href="https://gizmodo.com/china-spy-balloon-pentagon-marjorie-taylor-greene-tweet-1850072663">Read more...</a></p>
+
+## Ted Lasso's Brett Goldstein Is Going to Be on Harley Quinn
+ - [https://gizmodo.com/ted-lasso-brett-goldstein-dc-harley-quinn-valentines-da-1850072324](https://gizmodo.com/ted-lasso-brett-goldstein-dc-harley-quinn-valentines-da-1850072324)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 22:30:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YrPE62E9--/c_fit,fl_progressive,q_80,w_636/d66d15e6290e2a1e1937298653cc917e.png" /><p>The more we hear about <a href="https://gizmodo.com/hbo-max-harley-quinn-valentines-day-special-trailer-1850019554"><em>Harley Quinn:</em> </a><a href="https://gizmodo.com/hbo-max-harley-quinn-valentines-day-special-trailer-1850019554"><em>A Very Problematic Valentine’s Day Special</em></a><em>, </em>the more hyped we are for it. We already know it centers on <a href="https://gizmodo.com/the-joker-harley-quinn-poison-ivy-hbo-max-dc-universe-1849344668">Poison Ivy getting such a big O from Harls</a> that it unleashes a wave of pheromones that makes all of Gotham horny, which legit is the perfect unhinged plot twist for a holiday…</p><p><a href="https://gizmodo.com/ted-lasso-brett-goldstein-dc-harley-quinn-valentines-da-1850072324">Read more...</a></p>
+
+## Samsung's SmartThings Station is a Minimal Way to Add Matter to your Smart Home
+ - [https://gizmodo.com/samsung-smartthings-station-hands-on-matter-smart-home-1850072204](https://gizmodo.com/samsung-smartthings-station-hands-on-matter-smart-home-1850072204)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:50:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--orO2xP3I--/c_fit,fl_progressive,q_80,w_636/94a6868b2dec8230f90374e411503b9b.jpg" /><p>It was a big week for <a href="https://gizmodo.com/samsung-galaxy-s23-ultra-phone-specs-price-release-book-1850057230">Samsung</a>. The company launched its latest batch of flagship smartphones, including the <a href="https://gizmodo.com/samsung-galaxy-s23-ultra-price-release-date-specs-phone-1850056018">Galaxy S23 Ultr</a>a, which has a whopping 200-MP primary camera. It also reminded us that it’s selling a device ecosystem, first with the companion announcement of the Windows-based <a href="https://gizmodo.com/samsungs-galaxy-book-3-pro-360-ultra-windows-laptops-1850057038">Galaxy Book 3 Pro</a> lineup, which…</p><p><a href="https://gizmodo.com/samsung-smartthings-station-hands-on-matter-smart-home-1850072204">Read more...</a></p>
+
+## Spider-Man Features Prominently in George Santos' Latest Lie
+ - [https://gizmodo.com/george-santos-spider-man-turn-off-the-dark-broadway-u2-1850072226](https://gizmodo.com/george-santos-spider-man-turn-off-the-dark-broadway-u2-1850072226)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:40:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--zBLn-5p---/c_fit,fl_progressive,q_80,w_636/365bc2ed25ba8e4c7ac2cf90dde0e9a0.jpg" /><p>He’s lied about his heritage, he’s lied about his education, but now <a href="https://gizmodo.com/george-santos-gofundme-new-york-1850001726">Congressman George Santos</a> has officially gone into the dark. <a href="https://gizmodo.com/10-reasons-why-the-spider-man-musical-will-blow-your-da-5635272"><em>Spider-Man: Turn Off the Dark,</em></a> to be exact.</p><p><a href="https://gizmodo.com/george-santos-spider-man-turn-off-the-dark-broadway-u2-1850072226">Read more...</a></p>
+
+## Elon’s Lawyer to Jury: Look at Him, He’s Just a Widdle Baby
+ - [https://gizmodo.com/tesla-elon-musk-twitter-trial-kid-funding-secured-1850072225](https://gizmodo.com/tesla-elon-musk-twitter-trial-kid-funding-secured-1850072225)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:38:18+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--JgKq5Ekk--/c_fit,fl_progressive,q_80,w_636/b98a74544f7abf7750d421ddb6e70b64.jpg" /><p>The outcome of a three-week, multimillion-dollar <a href="https://gizmodo.com/elon-musk-tesla-trial-san-francisco-twitter-1850002921">securities fraud trial</a> over Elon Musk’s infamous 2018 “<a href="https://gizmodo.com/report-it-doesnt-sound-like-elon-musk-really-thought-o-1828614159">funding secured</a>” tweet is coming down to whether or not Musk’s lawyer can convince jurors the billionaire Tesla CEO is just a little baby.</p><p><a href="https://gizmodo.com/tesla-elon-musk-twitter-trial-kid-funding-secured-1850072225">Read more...</a></p>
+
+## Perseverance Rover Captures Ominous Sign of Mars’ Impending Cloudy Season
+ - [https://gizmodo.com/perseverance-images-clouds-mars-seasons-nasa-1850071859](https://gizmodo.com/perseverance-images-clouds-mars-seasons-nasa-1850071859)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:36:14+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_NiAgmTs--/c_fit,fl_progressive,q_80,w_636/a9b39f6a6949f2ad86d0c61df0cb5ab4.png" /><p>The sky is a hazy shade of—er, summer—on Mars, as captured in a new image by NASA’s Perseverance rover.</p><p><a href="https://gizmodo.com/perseverance-images-clouds-mars-seasons-nasa-1850071859">Read more...</a></p>
+
+## The Best Valentine's Day Movies for Nerds
+ - [https://gizmodo.com/the-best-valentines-day-movies-for-nerds-1850071616](https://gizmodo.com/the-best-valentines-day-movies-for-nerds-1850071616)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:33:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Qf4JOGyr--/c_fit,fl_progressive,q_80,w_636/409d6b302b71c9e228429072a444292b.png" /><p>When it comes to romantic movies, most folks can content themselves with swooning over <em>The Notebook </em>or taking a trip on the <em>Titanic. </em>But but nerdy genre film fans appreciate a little time-jumping or severed limbs or robots to spice up their love stories. We’ve scoured all the streaming services to find this master…</p><p><a href="https://gizmodo.com/the-best-valentines-day-movies-for-nerds-1850071616">Read more...</a></p>
+
+## How to Make Zoom Better Using Its Best Apps
+ - [https://gizmodo.com/best-apps-zoom-breakout-survey-notes-record-better-audi-1850032620](https://gizmodo.com/best-apps-zoom-breakout-survey-notes-record-better-audi-1850032620)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:29:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--EMyQAr4J--/c_fit,fl_progressive,q_80,w_636/43a567e10ab5f194d4ea90cb84aae599.jpg" /><p>We’re all now a lot more familiar with Zoom than we were, say, before a certain global pandemic forced large numbers of us to work from home and keep in touch with friends, family and colleagues over video chat. In fact, Zoom is now so big that there are all kinds of add-ons and extra extensions you can add on top of…</p><p><a href="https://gizmodo.com/best-apps-zoom-breakout-survey-notes-record-better-audi-1850032620">Read more...</a></p>
+
+## James Gunn's Superpowers Now Include Increasing DC Comic Book Sales
+ - [https://gizmodo.com/james-gunn-dc-studios-comic-sales-boom-grant-morrison-1850071900](https://gizmodo.com/james-gunn-dc-studios-comic-sales-boom-grant-morrison-1850071900)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:15:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RWKA-nbF--/c_fit,fl_progressive,q_80,w_636/a5f5bb6c73c015f3dcf51ccf2d29f560.jpg" /><p>Comic-book fans were thrilled by <a href="https://gizmodo.com/james-gunn-dc-slate-revealed-batman-superman-green-lant-1850050974">this week’s big announcement</a> by <a href="https://gizmodo.com/james-gunn-dc-slate-info-flash-aquaman-justice-league-1850051467">DC Studios heads James Gunn and Peter Safran</a>, revealing what’s to come for the DC Universe. Soon after, Gunn shared <a href="https://gizmodo.com/james-gunn-dc-slate-comics-batman-superman-authority-1850066525">a handful of specific DC titles</a> that will have an influence on that future—and it seems a whole lot of people decided they’d like to do…</p><p><a href="https://gizmodo.com/james-gunn-dc-studios-comic-sales-boom-grant-morrison-1850071900">Read more...</a></p>
+
+## New ChatGPT Interface Is Allegedly Popping Up on Bing
+ - [https://gizmodo.com/bing-chatgpt-microsoft-ai-1850072135](https://gizmodo.com/bing-chatgpt-microsoft-ai-1850072135)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 21:15:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--eR51Us_N--/c_fit,fl_progressive,q_80,w_636/ab4a2f653580dbdac81abdb57ab84c99.jpg" /><p>Microsoft’s Bing is <a href="https://gizmodo.com/microsoft-openai-chatgpt-bing-google-1849947997">introducing ChatGPT and GPT 4.0</a> to its search tool in the upcoming weeks, and screenshots of the what could be the new interface have surfaced on social media.</p><p><a href="https://gizmodo.com/bing-chatgpt-microsoft-ai-1850072135">Read more...</a></p>
+
+## Paizo's Open Gaming Sale Heard You Might Also Want to Try Out Starfinder
+ - [https://gizmodo.com/paizo-starfinder-sale-ogl-wizards-of-the-coast-d-and-d-1850071839](https://gizmodo.com/paizo-starfinder-sale-ogl-wizards-of-the-coast-d-and-d-1850071839)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 20:41:24+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cixGeckx--/c_fit,fl_progressive,q_80,w_636/dbdfecedf0e7cae36e7aa13bf98bf5af.png" /><p>Yesterday, Paizo—the TTRPG publisher behind fantasy series <em>Pathfinder</em> and current face of a new <a href="https://gizmodo.com/paizo-universal-rpg-license-interview-jim-butler-1849986745">collaborative gaming license</a> in the wake of <a href="https://gizmodo.com/dungeons-and-dragons-ogl-1-1-explained-wizards-of-the-c-1850006448">a disastrous month</a> of about-turns for market leader Wizards of the Coast—revealed a <a href="https://gizmodo.com/paizo-humble-bundle-pathfinder-pf2e-new-player-rules-1850067658">massive Humble Bundle sale</a> for the beloved game. Turns out it was not done letting you know…</p><p><a href="https://gizmodo.com/paizo-starfinder-sale-ogl-wizards-of-the-coast-d-and-d-1850071839">Read more...</a></p>
+
+## This Robot Uses Tape Measures Like Spider-Man Uses Webs
+ - [https://gizmodo.com/nasa-stanford-tape-measure-robot-rough-terrain-1850071783](https://gizmodo.com/nasa-stanford-tape-measure-robot-rough-terrain-1850071783)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 20:15:00+00:00
+ - user: None
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--zxF_iF_X--/c_fit,fl_progressive,q_80,w_636/8fb21cdb934570571a476a7fc6db51a4.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--ivouavMa--/c_fit,fl_progressive,q_80,w_636/8fb21cdb934570571a476a7fc6db51a4.mp4" type="video/mp4" /></video><p>It’s scientifically impossible to use a tape measure to just measure something. It’s the workshop tool of 1,000 other useless uses, including lightsabers, or seeing how far it can extend before the tape collapses. <a href="https://www.youtube.com/watch?v=Q6uvS_19OcA" rel="noopener noreferrer" target="_blank">Researchers at Stanford University</a> have found <a href="https://spectrum.ieee.org/video-friday-reachbot" rel="noopener noreferrer" target="_blank">yet another use for the tape measure</a>: as a way for robots…</p><p><a href="https://gizmodo.com/nasa-stanford-tape-measure-robot-rough-terrain-1850071783">Read more...</a></p>
+
+## The X-Men Are Running Attack Ads on Each Other
+ - [https://gizmodo.com/x-men-vote-2023-attack-ads-marvel-fall-of-x-1850071147](https://gizmodo.com/x-men-vote-2023-attack-ads-marvel-fall-of-x-1850071147)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 19:45:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--IgG4GQTK--/c_fit,fl_progressive,q_80,w_636/5a0f0a4ad7f268894b1efa726eddff8d.png" /><p>Since the dawn of <a href="https://gizmodo.com/x-men-krakoan-age-comics-guide-reading-order-1848443586">Marvel’s Krakoan Age</a>, mutantkind has held an annual vote to induct the latest team of X-Men to be Krakoa’s <a href="https://gizmodo.com/keeping-the-x-mens-greatest-secret-requires-one-hell-of-1848339840">public-facing representation</a> to the world of superheroes at large. In the real world, fans have played a part by being able to vote for one member of the lineup, and it’s usually a bit of…</p><p><a href="https://gizmodo.com/x-men-vote-2023-attack-ads-marvel-fall-of-x-1850071147">Read more...</a></p>
+
+## Suck It, Saturn: Jupiter Now Officially Has Most Moons in the Solar System
+ - [https://gizmodo.com/jupiter-most-moons-in-the-solar-system-saturn-1850070379](https://gizmodo.com/jupiter-most-moons-in-the-solar-system-saturn-1850070379)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 19:40:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--fiuZAnu_--/c_fit,fl_progressive,q_80,w_636/f41c6dca1880ec040d253c8a83cd1b75.jpg" /><p><a href="https://gizmodo.com/webb-telescope-images-jupiter-auroras-1849441045">Jupiter</a> is a superstar in our solar system. It’s the biggest, it’s wonderfully gassy, and it now has the most documented moons, clocking in at 92 natural satellites. Its new count became official on January 20, 2023, when the Minor Planet Center recognized the <a href="https://minorplanetcenter.net/mpec/K23/K23B51.html" rel="noopener noreferrer" target="_blank">last of a batch</a> of 10 newly identified moons.<strong> </strong>Jupiter is…</p><p><a href="https://gizmodo.com/jupiter-most-moons-in-the-solar-system-saturn-1850070379">Read more...</a></p>
+
+## Activision Blizzard Settles Misconduct Allegations in a $35 Million Payout
+ - [https://gizmodo.com/activision-blizzard-call-of-duty-microsoft-gaming-1850071506](https://gizmodo.com/activision-blizzard-call-of-duty-microsoft-gaming-1850071506)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 19:25:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--s_4Do-7w--/c_fit,fl_progressive,q_80,w_636/882144fe7f45604fd8d221873bc3702a.jpg" /><p><a href="https://gizmodo.com/microsoft-xbox-call-of-duty-activision-blizzard-1849871936">Activision Blizzard Inc</a>. has agreed to pay out a $35 million settlement for allegations that it violated workers’ rights by failing to maintain “adequate” workplace harassment protocols and violated federal whistleblower protection rights, the Securities and Exchange Commission (SEC) said in a <a href="https://www.sec.gov/news/press-release/2023-22" rel="noopener noreferrer" target="_blank">press release</a> on Friday.</p><p><a href="https://gizmodo.com/activision-blizzard-call-of-duty-microsoft-gaming-1850071506">Read more...</a></p>
+
+## Incoming Deep Freeze Could Leave U.S. Northeast Its Coldest in Decades
+ - [https://gizmodo.com/northeast-usa-deep-freeze-wind-chill-february-1850070328](https://gizmodo.com/northeast-usa-deep-freeze-wind-chill-february-1850070328)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 19:05:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--FcDKUr-B--/c_fit,fl_progressive,q_80,w_636/844d5a0cc46ab67ba2a7edd516b6b24e.jpg" /><p>The winter weather that left <a href="https://gizmodo.com/texas-winter-storm-power-outages-car-accidents-1850065684">hundreds of thousands in Texas without power</a> is moving north, and is set to bring wind chills as low as -50 degrees <a href="https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=pmdspd&amp;version=1&amp;fmt=reg" rel="noopener noreferrer" target="_blank">Fahrenheit</a> (-45 Celsius) into New England.</p><p><a href="https://gizmodo.com/northeast-usa-deep-freeze-wind-chill-february-1850070328">Read more...</a></p>
+
+## Avatar 3's Fire Clan Will Be Led by Game of Thrones' Oona Chaplin
+ - [https://gizmodo.com/avatar-3-fire-tribe-oona-chaplin-james-cameron-ash-navi-1850070845](https://gizmodo.com/avatar-3-fire-tribe-oona-chaplin-james-cameron-ash-navi-1850070845)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 19:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---qGsJlQ8--/c_fit,fl_progressive,q_80,w_636/8f99967d4e0ed633203543eac7de5836.jpg" /><p>No, you aren’t experiencing déjà vu. Back in 2017, news broke that <a href="https://gizmodo.com/jon-hamm-and-oona-chaplain-will-be-in-black-mirrors-chr-1640261616">actress Oona Chaplin</a>, granddaughter of Charlie Chaplin and veteran of <em>Game of Thrones</em>, was cast in James Cameron’s <a href="https://gizmodo.com/avatar-2-release-date-plot-sequels-james-cameron-1849334200">sequels to <em>Avatar</em></a>. At that time, we even heard that her character was named “Varang.” But time passes, <a href="https://gizmodo.com/a-brief-history-of-the-not-so-brief-wait-for-avatar-2-1843290196">sequels are delayed</a>, and now that <em></em>…</p><p><a href="https://gizmodo.com/avatar-3-fire-tribe-oona-chaplin-james-cameron-ash-navi-1850070845">Read more...</a></p>
+
+## Mexican Pharmacies Are Selling Pills Laced With Meth and Fentanyl
+ - [https://gizmodo.com/mexico-pharmacy-adderall-oxycodone-meth-fentanyl-1850065988](https://gizmodo.com/mexico-pharmacy-adderall-oxycodone-meth-fentanyl-1850065988)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 18:50:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--eumaue1l--/c_fit,fl_progressive,q_80,w_636/843440f1196ea4ce914e1612be0f7cdf.jpg" /><p>Customers seeking Adderall, Oxycodone, and other medications at Mexican pharmacies are being sold counterfeit pills containing dangerous substances like methamphetamine and fentanyl.</p><p><a href="https://gizmodo.com/mexico-pharmacy-adderall-oxycodone-meth-fentanyl-1850065988">Read more...</a></p>
+
+## Netflix Passwords, ChatGPT Can’t Detect AI, and No More CoTweets | Editor Picks
+ - [https://gizmodo.com/netflix-passwords-chatgpt-can-t-detect-ai-and-no-more-1850071135](https://gizmodo.com/netflix-passwords-chatgpt-can-t-detect-ai-and-no-more-1850071135)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 18:40:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0Aj8yzX5--/c_fit,fl_progressive,q_80,w_636/0979c30f114b59f687ff54cd70b6bdc8.jpg" /><p><a href="https://gizmodo.com/netflix-passwords-chatgpt-can-t-detect-ai-and-no-more-1850071135">Read more...</a></p>
+
+## Scientists Discover Amorphous Ice That's Weirdly Similar to Liquid Water
+ - [https://gizmodo.com/medium-density-amorphous-ice-resembles-liquid-water-1850069785](https://gizmodo.com/medium-density-amorphous-ice-resembles-liquid-water-1850069785)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 18:33:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--O4TlgME6--/c_fit,fl_progressive,q_80,w_636/d2d76ad9cf3b81e9332267b2c3f0c45a.png" /><p>If you thought ice varieties got no more interesting than crushed versus cubed, think again: Researchers have discovered an ice form whose haphazard molecular structure resembles that of liquid water, despite being a solid.</p><p><a href="https://gizmodo.com/medium-density-amorphous-ice-resembles-liquid-water-1850069785">Read more...</a></p>
+
+## Austin Butler Won't Do His Persistent 'Elvis Voice' in Dune 2
+ - [https://gizmodo.com/austin-butler-elvis-voice-dune-part-two-dave-bautista-1850070650](https://gizmodo.com/austin-butler-elvis-voice-dune-part-two-dave-bautista-1850070650)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 18:15:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--L2V-5av9--/c_fit,fl_progressive,q_80,w_636/6e94cd87cb40601430d355718cfd4068.jpg" /><p>Austin Butler—previously best known for <a href="https://gizmodo.com/the-real-reason-why-shannara-chronicles-failed-to-copy-1763426515">MTV’s <em>The Shannara Chronicles</em></a>—turned in a performance in <em>Elvis </em>that brought him A-list fame and an Oscar nomination. <a href="https://gizmodo.com/report-dune-part-two-might-be-close-to-finding-its-fe-1848636918">His next project</a>, Denis Villeneuve’s <em>Dune: Part Two</em>, is similarly high-profile, and it sounds like it’ll showcase yet another aspect of his acting talents.</p><p><a href="https://gizmodo.com/austin-butler-elvis-voice-dune-part-two-dave-bautista-1850070650">Read more...</a></p>
+
+## Scott Lang's Autobiography From Ant-Man 3 Is Actually Being Released
+ - [https://gizmodo.com/ant-man-3-book-paul-rudd-quantumania-marvel-studios-1850070500](https://gizmodo.com/ant-man-3-book-paul-rudd-quantumania-marvel-studios-1850070500)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 17:30:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---_wm1u9l--/c_fit,fl_progressive,q_80,w_636/4ad427d59cf31c4968d9c9786631879a.jpg" /><p>My favorite kinds of movie memorabilia are <a href="https://gizmodo.com/nerf-aliens-pulse-rifle-james-cameron-marines-ripley-1849916959">screen-accurate props or prop replicas</a>. Something I can hold in my hand and be like “This is exactly like something in the movie.” For <a href="https://gizmodo.com/ant-man-and-wasp-quantumania-marvel-trailer-breakdown-1849969494"><em>Ant-Man and the Wasp: Quantumania</em></a>, Marvel Studios, and Disney Books are teaming up to create something like that, but in an even <a href="https://gizmodo.com/ant-man-3-trailer-the-wasp-quantumania-marvel-studios-1849965595">more unique…</a></p><p><a href="https://gizmodo.com/ant-man-3-book-paul-rudd-quantumania-marvel-studios-1850070500">Read more...</a></p>
+
+## Richard Branson’s Satellite Launch Company Isn't Doing So Hot
+ - [https://gizmodo.com/virgin-orbit-branson-financial-trouble-satellites-1850070137](https://gizmodo.com/virgin-orbit-branson-financial-trouble-satellites-1850070137)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 17:05:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RNOvj2G---/c_fit,fl_progressive,q_80,w_636/21be4af71b6fbc0ad9ff8479e6d6501c.jpg" /><p>Virgin Investments Limited has pumped $55 million into Virgin Orbit since November of last year, in what is a troubling sign for the fledgling satellite launch company.<br /></p><p><a href="https://gizmodo.com/virgin-orbit-branson-financial-trouble-satellites-1850070137">Read more...</a></p>
+
+## LIGHTSPEED Presents: 'Learning Letters' by Carrie Vaughn
+ - [https://gizmodo.com/lightspeed-fiction-learning-letters-carrie-vaughn-1850070312](https://gizmodo.com/lightspeed-fiction-learning-letters-carrie-vaughn-1850070312)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 16:40:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--rcpkn_zQ--/c_fit,fl_progressive,q_80,w_636/ba5d4a492002ff08d961ef19f901460e.jpg" /><p><em>io9 is proud to present fiction from <a href="http://bit.ly/lightspeedpresents" rel="noopener noreferrer" target="_blank">LIGHTSPEED MAGAZINE</a>.  Once a month, we feature a story from LIGHTSPEED’s current issue. This  month’s selection is “Learning Letters” by Carrie Vaughn. You can read the  story below or <a href="https://www.lightspeedmagazine.com/fiction/learning-letters/" rel="noopener noreferrer" target="_blank">listen to the podcast</a> on LIGHTSPEED’s website. Enjoy!<br /></em></p><p><a href="https://gizmodo.com/lightspeed-fiction-learning-letters-carrie-vaughn-1850070312">Read more...</a></p>
+
+## Twitter Ordered to Change Building Permit to Keep Beds at HQ
+ - [https://gizmodo.com/twitter-elon-musk-beds-san-francisco-1850069788](https://gizmodo.com/twitter-elon-musk-beds-san-francisco-1850069788)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 16:10:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--VcASNE33--/c_fit,fl_progressive,q_80,w_636/59c5cc7bb0bfab54851937db9de5174e.jpg" /><p>If Twitter wants to keep the recently added sleeping quarters at its main San Francisco office, the company has to make a few changes. </p><p><a href="https://gizmodo.com/twitter-elon-musk-beds-san-francisco-1850069788">Read more...</a></p>
+
+## Judge Uses ChatGPT in Medical Rights Case in Colombia
+ - [https://gizmodo.com/chatgpt-courtroom-judge-colombia-autism-1850069862](https://gizmodo.com/chatgpt-courtroom-judge-colombia-autism-1850069862)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 15:55:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--EVd6p13C--/c_fit,fl_progressive,q_80,w_636/59c9e729dcacfd2fbd9b49769beea60f.jpg" /><p>A judge in Colombia used the <a href="https://gizmodo.com/open-ai-chatgpt-ai-text-detector-1850055005">artificial intelligence</a> software, <a href="https://gizmodo.com/chatgpt-free-ai-10-fails-nyc-schools-college-essay-porn-1849956907">ChatGPT</a>, in a medical rights<strong> </strong>case for a child diagnosed with Autism Spectrum Disorder (ASD). Judge Juan Manuel Padilla oversaw the case in Cartagena and used the OpenAI tool to determine if the boy was exempt from medical costs, including transportation,…</p><p><a href="https://gizmodo.com/chatgpt-courtroom-judge-colombia-autism-1850069862">Read more...</a></p>
+
+## Self-Air Conditioning Tent Just Needs a Gallon of Water To Stay Cool Inside
+ - [https://gizmodo.com/air-conditioning-tent-material-camping-outdoors-heat-ho-1850069922](https://gizmodo.com/air-conditioning-tent-material-camping-outdoors-heat-ho-1850069922)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 15:30:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Hx9rCXZZ--/c_fit,fl_progressive,q_80,w_636/a62e68c741697f347543b133f41d09e9.jpg" /><p>With summers now warmer than ever, enjoying the great outdoors inside a stiflingly hot tent is becoming less appealing than a vacation spent relaxing in an air-conditioned hotel room. That could soon change, however, as a <a href="https://today.uconn.edu/2023/01/a-self-cooling-tent-that-runs-on-just-water-and-sunshine/" rel="noopener noreferrer" target="_blank">University of Connecticut researcher</a> has <a href="https://newatlas.com/outdoors/water-cooled-camping-tent/" rel="noopener noreferrer" target="_blank">created a new fabric</a> that could potentially cool the…</p><p><a href="https://gizmodo.com/air-conditioning-tent-material-camping-outdoors-heat-ho-1850069922">Read more...</a></p>
+
+## YouTube Contractors Ready to Strike as Return to Office Hits Post-Pandemic High
+ - [https://gizmodo.com/youtube-return-to-office-google-strike-remote-work-1850069549](https://gizmodo.com/youtube-return-to-office-google-strike-remote-work-1850069549)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 15:15:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--QAweXLse--/c_fit,fl_progressive,q_80,w_636/adab50d0b1e83ea04bf0f81995cbd55c.jpg" /><p>Working from home was one of the perks of the covid-19 stay-at-home orders, and most of the corporate world was able to prove that their jobs could be done fully or mostly remote. But <a href="https://gizmodo.com/elon-musk-tesla-return-to-work-remote-work-1849000568">big tech’s push to return to work</a> is not coming without resistance, as <a href="http://axios.com/2023/02/03/youtube-contractors-strike-return-office-google" rel="noopener noreferrer" target="_blank">Axios</a> is reporting this morning that contractors at YouTube are <a href="https://gizmodo.com/apple-workers-want-to-re-think-strict-return-to-office-1848874625">…</a></p><p><a href="https://gizmodo.com/youtube-return-to-office-google-strike-remote-work-1850069549">Read more...</a></p>
+
+## The Mayfair Witches Will Cast Another Season of Spells
+ - [https://gizmodo.com/mayfair-witches-flash-arrowverse-ant-man-biography-1850067440](https://gizmodo.com/mayfair-witches-flash-arrowverse-ant-man-biography-1850067440)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 15:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Kiz0X6TJ--/c_fit,fl_progressive,q_80,w_636/7671fb1adaf67755dd56f4c2e341be96.jpg" /><p>Angels are coming to <a href="https://gizmodo.com/evil-paramount-plus-mike-colter-katja-herbers-demons-1849174759"><em>Evil</em></a>, and apparently, they’re not <em>not</em> evil. Scott Lang’s <a href="https://gizmodo.com/ant-man-3-trailer-the-wasp-quantumania-marvel-studios-1849965595">Ant-Man</a> autobiography has somehow become a real thing you can read. Plus, <a href="https://gizmodo.com/mindy-kaling-velma-trailer-hbo-max-adult-animated-1849975740"><em>Velma</em></a> gets ready to solve her first-season mystery. And I would have gotten away with it, too, if not for these meddling spoilers!<br /></p><p><a href="https://gizmodo.com/mayfair-witches-flash-arrowverse-ant-man-biography-1850067440">Read more...</a></p>
+
+## This Handheld Can Put on Joystick Pants When Retro Gaming Goes 3D
+ - [https://gizmodo.com/gkd-mini-plus-review-miyoo-emulation-emulator-handheld-1850026223](https://gizmodo.com/gkd-mini-plus-review-miyoo-emulation-emulator-handheld-1850026223)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 14:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ojdFZhHG--/c_fit,fl_progressive,q_80,w_636/0c3fa36bc970b7ca2c5ed7f1c4ff0fc9.jpg" /><p>There’s a newish challenge when it comes to designing Game Boy-style handhelds capable of playing retro games, because consoles like the original Sony PlayStation and Sega Dreamcast are now considered ‘retro’ too, requiring these devices to find room for a pair of analog joysticks to accommodate 3D games. The <a href="https://www.keepretro.com/products/gkd-mini-plus" rel="noopener noreferrer" target="_blank">GKD Mini…</a></p><p><a href="https://gizmodo.com/gkd-mini-plus-review-miyoo-emulation-emulator-handheld-1850026223">Read more...</a></p>
+
+## How the Supreme Court Could Finally Force Big Oil to Face Trial
+ - [https://gizmodo.com/how-the-supreme-court-could-finally-force-big-oil-to-fa-1850069482](https://gizmodo.com/how-the-supreme-court-could-finally-force-big-oil-to-fa-1850069482)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 13:45:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--HWXpLnai--/c_fit,fl_progressive,q_80,w_636/66a0a5f12b31ad5da97e47aa7a27588a.jpg" /><p><em>This story was originally published by <a href="https://grist.org/" rel="noopener noreferrer" target="_blank">Grist</a>. You can <a href="https://go.grist.org/signup/weekly?utm_campaign=signup-page&amp;utm_medium=web&amp;utm_source=grist&amp;utm_content=weekly" rel="noopener noreferrer" target="_blank">subscribe to its weekly newsletter here</a>.<br /></em></p><p><a href="https://gizmodo.com/how-the-supreme-court-could-finally-force-big-oil-to-fa-1850069482">Read more...</a></p>
+
+## The Coolest and Weirdest Gadgets of January
+ - [https://gizmodo.com/january-best-gadgets-controllers-bikes-drones-mods-game-1850064700](https://gizmodo.com/january-best-gadgets-controllers-bikes-drones-mods-game-1850064700)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 13:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---6-Nv-Et--/c_fit,fl_progressive,q_80,w_636/b4892379ffdfae18877cd06e72d08f60.jpg" /><p>It seems like just yesterday that we were decking the halls and then stumbling through them after long nights partying on New Year’s Eve. But it’s somehow now February already, and if January feels like a complete blur, we’ve rounded up the most interesting and most curious gadgets of the past month so you can catch…</p><p><a href="https://gizmodo.com/january-best-gadgets-controllers-bikes-drones-mods-game-1850064700">Read more...</a></p>
+
+## China Says It’s Checking Whether It Sent Spy Balloon to Montana
+ - [https://gizmodo.com/china-verifying-spy-balloon-montana-1850069388](https://gizmodo.com/china-verifying-spy-balloon-montana-1850069388)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 12:50:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7IfOyyVD--/c_fit,fl_progressive,q_80,w_636/59f638b6599ad92cc17cd3e41d9bd148.jpg" /><p>It’s a bird, it’s a plane, it’s a… <a href="https://gizmodo.com/pentagon-chinea-surveillance-balloon-united-states-1850067980">Chinese spy balloon?</a> According to China, the answer could be “maybe.” </p><p><a href="https://gizmodo.com/china-verifying-spy-balloon-montana-1850069388">Read more...</a></p>
+
+## Instagram Memers Are Performing in Sold-Out Live Shows
+ - [https://gizmodo.com/instagram-memes-wikipedia-sold-out-live-shows-1850040438](https://gizmodo.com/instagram-memes-wikipedia-sold-out-live-shows-1850040438)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 11:30:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nKmbIojB--/c_fit,fl_progressive,q_80,w_636/06c8e4e570da47e16e08c1700820252b.jpg" /><p>At 9:30 p.m. on a Tuesday night in a small Manhattan comedy club, Annie Rauwerda brought down the full house with a PowerPoint slide, a blurry picture of <a href="https://en.wikipedia.org/wiki/Vienna_bread" rel="noopener noreferrer" target="_blank">Vienna bread</a> illustrating a Wikipedia entry. The baked good was enhanced with motion-blur, looking inexplicably like an oncoming car. The audience, around a hundred…</p><p><a href="https://gizmodo.com/instagram-memes-wikipedia-sold-out-live-shows-1850040438">Read more...</a></p>
+
+## An FTC Power Grab Could Save Your Medical Secrets
+ - [https://gizmodo.com/goodrx-ftc-facebook-google-medication-data-settlement-1850067453](https://gizmodo.com/goodrx-ftc-facebook-google-medication-data-settlement-1850067453)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 11:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_iLa9QgR--/c_fit,fl_progressive,q_80,w_636/3cf64e4306189f13337b23d84eebc401.jpg" /><p>Want to save money on drugs? You could head to GoodRx.com. Type in the name of a medication, and the company will give you a coupon to use at a pharmacy. But there’s a little problem, one that GoodRx <a href="https://gizmodo.com/goodrx-shares-my-prescriptions-with-third-parties-and-i-1841772965">forgot to tell its customers</a> about. Going back to at least 2017, GoodRx sent details about the medications you take to…</p><p><a href="https://gizmodo.com/goodrx-ftc-facebook-google-medication-data-settlement-1850067453">Read more...</a></p>
+
+## Dive Into a 20,000 Leagues Under the Sea Dining Experience
+ - [https://gizmodo.com/20-000-leagues-under-the-sea-dinner-area-15-las-vegas-1850055348](https://gizmodo.com/20-000-leagues-under-the-sea-dinner-area-15-las-vegas-1850055348)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 01:30:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ue4XciY2--/c_fit,fl_progressive,q_80,w_636/4f16856669eaa1707545be0df0742502.jpg" /><p>There’s beginning to be more to Vegas than the strip, and at the forefront of  the play paradise destination is <a href="https://area15.com/" rel="noopener noreferrer" target="_blank">Area 15</a>, home to <a href="https://gizmodo.com/lost-spirits-rum-distillery-photo-tour-las-vegas-1849901074">immersive distillery Lost Spirits</a> (and soon to be <a href="https://gizmodo.com/theme-park-news-disney-parks-universal-studios-marvel-1849999143">expanding with Universal Studios</a>, too.) Lost Spirits is themed around sci-fi adventure literature; it boasts a futuristically aged selection…</p><p><a href="https://gizmodo.com/20-000-leagues-under-the-sea-dinner-area-15-las-vegas-1850055348">Read more...</a></p>
+
+## The Pentagon Claims a Chinese Surveillance Balloon Has Been Floating Over the U.S. for Days
+ - [https://gizmodo.com/pentagon-chinea-surveillance-balloon-united-states-1850067980](https://gizmodo.com/pentagon-chinea-surveillance-balloon-united-states-1850067980)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-03 00:05:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--79w6mAWv--/c_fit,fl_progressive,q_80,w_636/9a6f322056d19bcde692c785e4bf27a2.jpg" /><p>Defense officials claim that a Chinese surveillance balloon has been drifting over the northern part of the United States for the past several days. The balloon is thought to have traveled over a number of different states where sensitive defense installations (read: nuclear silos) <a href="https://apnews.com/article/chinese-surveillance-balloon-united-states-montana-47248b0ef2b085620fcd866c105054be?utm_source=homepage&amp;utm_medium=TopNews&amp;utm_campaign=position_03" rel="noopener noreferrer" target="_blank">are located</a>. </p><p><a href="https://gizmodo.com/pentagon-chinea-surveillance-balloon-united-states-1850067980">Read more...</a></p>
