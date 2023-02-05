@@ -1,0 +1,25 @@
+# Source Lifehacker, Source URL:https://lifehacker.com/rss, Source language: en-US
+
+## Don't Buy These Houseplants That You'll Probably Kill
+ - [https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851](https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-04 16:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--TzeWTW_9--/c_fit,fl_progressive,q_80,w_636/f131337855c01c20a3ba1350a6e30eee.jpg" /><p>Over the past several years, houseplants have become such an integral part of our interior decor that it can be easy to forget that they’re actually living things that require certain conditions to grow. And while some plants can adapt to a variety of environments, others are a bit more rigid, and tend to die if they…</p><p><a href="https://lifehacker.com/dont-buy-these-houseplants-that-youll-probably-kill-1850066851">Read more...</a></p>
+
+## These Markets Are Predicted to See the Biggest Increase in Homes for Sale
+ - [https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839](https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-04 14:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--A-ZRALEr--/c_fit,fl_progressive,q_80,w_636/d8527d5285695f5dc98a1e37d2e77a9c.jpg" /><p>Most prospective homebuyers know that compromising is an unfortunate but necessary part of the process. Unless money truly is no object, finding a new home that works for you and the other members of your household requires some flexibility in terms of the location, cost, and features of the property.</p><p><a href="https://lifehacker.com/these-markets-are-predicted-to-see-the-biggest-increase-1850066839">Read more...</a></p>
+
+## How to Care for Your Dog or Cat in Their Old Age
+ - [https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347](https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-04 00:00:00+00:00
+ - user: None
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vLAzbNCF--/c_fit,fl_progressive,q_80,w_636/d557deddfcfcc752e42dfcd12b78e0bd.jpg" /><p>Caring for an aging pet is both lower-stress and higher-stress than raising a puppy or kitten. On the one hand, older pets tend to prefer napping to climbing the walls or sprinting around the house like a maniac; on the other, they’re at higher risk for serious health issues, and it can be hard to tell the difference…</p><p><a href="https://lifehacker.com/how-to-care-for-your-dog-or-cat-in-their-old-age-1850072347">Read more...</a></p>
