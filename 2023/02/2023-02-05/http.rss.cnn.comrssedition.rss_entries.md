@@ -1,0 +1,218 @@
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss, Source language: en-US
+
+## Map shows the latest state of control in Ukraine
+ - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-2-5-23-intl/h_d4c4c9d058573ed4f84f8963cdbcc01e](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-2-5-23-intl/h_d4c4c9d058573ed4f84f8963cdbcc01e)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 23:50:53.167143+00:00
+ - user: None
+
+• Analysis: Bitter harvest of freedom as Kherson suffers Russian bombardment 
+• Bakhmut remains a stronghold, says Ukraine's defense minister
+
+## Map shows the latest state of control in Ukraine
+ - [http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-2-5-23-intl/index.html](http://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-2-5-23-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 17:50:45.729109+00:00
+ - user: None
+
+
+
+## Map shows the latest state of control in Ukraine
+ - [https://www.cnn.com/europe/live-news/russia-ukraine-war-news-2-5-23-intl/index.html](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-2-5-23-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 15:19:15+00:00
+ - user: None
+
+• Analysis: Bitter harvest of freedom as Kherson suffers Russian bombardment
+
+## How to watch the 2023 Grammy Awards: Time, channels and more
+ - [https://www.cnn.com/2023/02/05/entertainment/how-to-watch-grammys-2023/index.html](https://www.cnn.com/2023/02/05/entertainment/how-to-watch-grammys-2023/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 14:56:33+00:00
+ - user: None
+
+The biggest night in music is here with the 65th Grammy Awards on Sunday.
+
+## Opinion: Biden doesn't throw away his shot
+ - [https://www.cnn.com/2023/02/05/opinions/chinese-balloon-opinion-column-galant/index.html](https://www.cnn.com/2023/02/05/opinions/chinese-balloon-opinion-column-galant/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 14:36:00+00:00
+ - user: None
+
+In Lord Byron's satirical epic poem, "Don Juan," the main character marvels at "the whole earth, of man the wonderful, and of the stars ... of air-balloons, and of the many bars to perfect knowledge of the boundless skies — and then he thought of Donna Julia's eyes."
+
+## 'You know why.' Jurgen Klopp refuses to answer journalist's question
+ - [https://www.cnn.com/2023/02/05/football/jurgen-klopp-liverpool-refuses-to-answer-question-spt-intl/index.html](https://www.cnn.com/2023/02/05/football/jurgen-klopp-liverpool-refuses-to-answer-question-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 13:20:23+00:00
+ - user: None
+
+To say this has been a disappointing season for Liverpool would be an understatement. On recent results alone, the club is in crisis.
+
+## Lionel Messi scores to secure victory for Paris Saint Germain
+ - [https://www.cnn.com/2023/02/05/football/lionel-messi-scores-psg-toulouse-spt-int/index.html](https://www.cnn.com/2023/02/05/football/lionel-messi-scores-psg-toulouse-spt-int/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 13:10:10+00:00
+ - user: None
+
+Paris Saint-Germain has struggled in recent games, relatively speaking, but thankfully for the Parisian club, Lionel Messi has been in fine scoring form.
+
+## Koch network plans to back a Republican -- other than Trump -- in 2024 presidential primary
+ - [https://www.cnn.com/2023/02/05/politics/koch-network-republican-primary-2024/index.html](https://www.cnn.com/2023/02/05/politics/koch-network-republican-primary-2024/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 12:32:53+00:00
+ - user: None
+
+The deep-pocketed network associated with billionaire Charles Koch is preparing to throw its money and weight behind a single Republican candidate in the 2024 presidential primary -- in a move that could significantly reshape the GOP field.
+
+## Did investors learn nothing from last year's market meltdown?
+ - [https://www.cnn.com/2023/02/05/investing/stocks-week-ahead/index.html](https://www.cnn.com/2023/02/05/investing/stocks-week-ahead/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 12:25:50+00:00
+ - user: None
+
+Meme stock mania was supposed to be over, right? Guess what: It's not.
+
+## DeSantis says Florida requires African American history. Advocates say the state is failing that mandate
+ - [https://www.cnn.com/2023/02/05/politics/desantis-florida-ap-history/index.html](https://www.cnn.com/2023/02/05/politics/desantis-florida-ap-history/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 11:00:51+00:00
+ - user: None
+
+Facing accusations of whitewashing history after his administration blocked a new Black studies course for high-achieving high schoolers, Gov. Ron DeSantis has countered that Florida students already must learn about the triumphs and plight of African Americans.
+
+## Borussia Dortmund's Sebastien Haller scores first goal after return from cancer treatment
+ - [https://www.cnn.com/2023/02/05/football/sebastien-haller-goal-cancer-spt-intl/index.html](https://www.cnn.com/2023/02/05/football/sebastien-haller-goal-cancer-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 10:04:48+00:00
+ - user: None
+
+It was a straightforward header from close range that put Borussia Dortmund 3-1 ahead in the second half of its league game Saturday, but the simplicity of the goal should not mask its significance.
+
+## Decoding the ups and downs of cryptocurrency
+ - [https://www.cnn.com/videos/tv/2023/01/30/crypto-decoded-show-spc-intl.cnn](https://www.cnn.com/videos/tv/2023/01/30/crypto-decoded-show-spc-intl.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 09:23:06+00:00
+ - user: None
+
+What happens when money gets a 21st century makeover? CNN's Anna Stewart decodes cryptocurrency to understand how it's made, how it's spent, and what it could mean for society.
+
+## Beijing protests after US jets shoot down Chinese balloon suspected of spying
+ - [http://edition.cnn.com/webview/politics/live-news/china-spy-balloon-us-latest-02-05-23/index.html](http://edition.cnn.com/webview/politics/live-news/china-spy-balloon-us-latest-02-05-23/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 08:50:45.513513+00:00
+ - user: None
+
+
+
+## LeBron James close to breaking NBA all-time scoring record
+ - [https://www.cnn.com/2023/02/05/sport/lebron-james-pelicans-nba-record/index.html](https://www.cnn.com/2023/02/05/sport/lebron-james-pelicans-nba-record/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 08:33:49+00:00
+ - user: None
+
+LeBron James finished with 27 points in the Los Angeles Lakers' 131-126 loss to the New Orleans Pelicans Saturday, leaving the 38-year-old needing 36 points to surpass Kareem Abdul-Jabbar's NBA all-time scoring record.
+
+## Pakistan's former President Pervez Musharraf dies in Dubai
+ - [https://www.cnn.com/2023/02/05/asia/pervez-musharraf-former-pakistan-president-dies-intl-hnk/index.html](https://www.cnn.com/2023/02/05/asia/pervez-musharraf-former-pakistan-president-dies-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 08:07:01+00:00
+ - user: None
+
+Pakistan's former President General Pervez Musharraf has died in Dubai after a prolonged illness at Dubai American Hospital, according to a statement from the Pakistani military.
+
+## How to see February's full snow moon
+ - [https://www.cnn.com/2023/02/05/world/february-full-snow-moon-scn/index.html](https://www.cnn.com/2023/02/05/world/february-full-snow-moon-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 08:07:00+00:00
+ - user: None
+
+Look in the night sky this weekend for February's full moon, where it can be glimpsed around the world.
+
+## Similar balloon has been spotted over Latin America this week
+ - [https://edition.cnn.com/politics/live-news/suspected-chinese-balloon-over-us-02-04-23/h_043789c943b3f4b3dae70b2c0736e6f3](https://edition.cnn.com/politics/live-news/suspected-chinese-balloon-over-us-02-04-23/h_043789c943b3f4b3dae70b2c0736e6f3)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 07:41:26.459572+00:00
+ - user: None
+
+
+
+## US authorities found young dolphin's skull inside unattended bag at a Detroit airport
+ - [https://www.cnn.com/2023/02/05/us/customs-detroit-dolphin-skull-trnd/index.html](https://www.cnn.com/2023/02/05/us/customs-detroit-dolphin-skull-trnd/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 07:02:05+00:00
+ - user: None
+
+Federal authorities made a grim and unexpected discovery in an unattended bag last week at a Detroit airport.
+
+## Bitter harvest of freedom and victory as Kherson suffers Russian bombardment
+ - [https://www.cnn.com/2023/02/05/europe/kherson-ukraine-russia-conflict-intl/index.html](https://www.cnn.com/2023/02/05/europe/kherson-ukraine-russia-conflict-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 06:02:18+00:00
+ - user: None
+
+Gone are the acres of jubilant crowds that filled Freedom Square with blue and yellow Ukrainian flags that swayed like heads of wheat when the Russians were driven out. Now the crack-crunch of Russian artillery eating into the city echoes around the plaza.
+
+## China accuses US of 'seriously violating international practice' in shooting down balloon
+ - [https://www.cnn.com/2023/02/04/asia/beijing-reacts-us-jets-shoot-chinese-spy-balloon-intl-hnk/index.html](https://www.cnn.com/2023/02/04/asia/beijing-reacts-us-jets-shoot-chinese-spy-balloon-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 05:49:55+00:00
+ - user: None
+
+China has expressed its "strong dissatisfaction and protest" against Washington's decision to shoot down its balloon, accusing it of "overreacting" and "seriously violating international practice."
+
+## US jets down spy balloon with a single missile
+ - [https://www.cnn.com/politics/live-news/china-spy-balloon-us-latest-02-05-23/index.html](https://www.cnn.com/politics/live-news/china-spy-balloon-us-latest-02-05-23/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 05:34:53+00:00
+ - user: None
+
+
+
+## Investigators probe possible near-collision between two aircraft on airport runway in Texas
+ - [https://www.cnn.com/2023/02/05/business/austin-texas-airport-near-collision/index.html](https://www.cnn.com/2023/02/05/business/austin-texas-airport-near-collision/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 05:16:13+00:00
+ - user: None
+
+A FedEx cargo plane trying to land at an Austin, Texas, airport had to change course Saturday to avoid a potential collision with a Southwest Airlines jet that was taking off from the same runway, officials said.
+
+## Shark kills teenage girl who went for swim in Australian river
+ - [https://www.cnn.com/2023/02/04/asia/shark-attack-teenager-death-perth-swan-river-intl-hnk/index.html](https://www.cnn.com/2023/02/04/asia/shark-attack-teenager-death-perth-swan-river-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 04:58:20+00:00
+ - user: None
+
+A 16-year-old girl has been attacked and killed by a shark while swimming in a river in Perth, Western Australia, local authorities said.
+
+## Moment US missile hits suspected Chinese spy balloon captured on video
+ - [https://www.cnn.com/videos/world/2023/02/05/moment-china-spy-balloon-shot-vo-acostanr-vpx-sot.cnn](https://www.cnn.com/videos/world/2023/02/05/moment-china-spy-balloon-shot-vo-acostanr-vpx-sot.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 03:33:26+00:00
+ - user: None
+
+New video shows the moment a missile fired by a US fighter jet shoots down a suspected Chinese spy balloon.
+
+## Hear what retired lt. general thinks China learned with suspected spy balloon
+ - [https://www.cnn.com/videos/world/2023/02/05/mark-hertling-china-spy-balloon-motivation-tsr-sot-vpx.cnn](https://www.cnn.com/videos/world/2023/02/05/mark-hertling-china-spy-balloon-motivation-tsr-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 03:32:14+00:00
+ - user: None
+
+Retired Lt. Gen. Mark Hertling says he believes it is more likely China was trying to learn how the US would respond to the spy balloon rather than collect real intelligence from the endeavor.
+
+## Inside Biden's decision to 'take care of' the Chinese spy balloon that triggered a diplomatic crisis
+ - [https://www.cnn.com/2023/02/04/politics/china-spy-balloon-tick-tock/index.html](https://www.cnn.com/2023/02/04/politics/china-spy-balloon-tick-tock/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 02:16:14+00:00
+ - user: None
+
+When President Joe Biden learned a likely Chinese spy balloon was drifting through the stratosphere 60,000 feet above Montana, his first inclination was to take it down.
+
+## They eat ice cream and read 'Harry Potter,' but these North Korean YouTubers aren't what they seem
+ - [https://www.cnn.com/2023/02/04/asia/north-korea-youtuber-yumi-intl-hnk-dst/index.html](https://www.cnn.com/2023/02/04/asia/north-korea-youtuber-yumi-intl-hnk-dst/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-05 01:36:54+00:00
+ - user: None
+
+The young woman rifles through a fridge of popsicles, pulling out several to show the camera.
