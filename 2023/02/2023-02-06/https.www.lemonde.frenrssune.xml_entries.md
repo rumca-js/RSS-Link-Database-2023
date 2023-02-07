@@ -1,0 +1,177 @@
+# Source Le Monde, Source URL:https://www.lemonde.fr/en/rss/une.xml, Source language: en-US
+
+## French pension reform: Parliament showdown set to begin under street-led pressure
+ - [https://www.lemonde.fr/en/politics/article/2023/02/06/french-pension-reform-parliament-showdown-set-to-begin-under-street-led-pressure_6014618_5.html](https://www.lemonde.fr/en/politics/article/2023/02/06/french-pension-reform-parliament-showdown-set-to-begin-under-street-led-pressure_6014618_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 14:37:16+00:00
+ - user: None
+
+Starting Monday, the Assemblée Nationale will debate Emmanuel Macron's bill in a public session ahead of a new day of strikes and demonstrations called for Tuesday.
+
+## The death of former Pakistan president Pervez Musharraf, an advocate of 'controlled democracy'
+ - [https://www.lemonde.fr/en/obituaries/article/2023/02/06/former-pakistan-president-and-key-us-ally-pervez-musharraf-dies-in-exile_6014617_15.html](https://www.lemonde.fr/en/obituaries/article/2023/02/06/former-pakistan-president-and-key-us-ally-pervez-musharraf-dies-in-exile_6014617_15.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 14:36:11+00:00
+ - user: None
+
+The former military leader died on Sunday in Dubai, where he was treated for a rare disease, amyloidosis.
+
+## French museums are determined to replicate abroad
+ - [https://www.lemonde.fr/en/culture/article/2023/02/06/french-museums-are-determined-to-replicate-abroad_6014611_30.html](https://www.lemonde.fr/en/culture/article/2023/02/06/french-museums-are-determined-to-replicate-abroad_6014611_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 13:28:15+00:00
+ - user: None
+
+While the Centre Pompidou is about to sign a contract for a new museum in Saudi Arabia, other projects in China, Belgium and the Canary Islands have met with varying degrees of success.
+
+## French parliament explained: Five possible outcomes for the pension reform
+ - [https://www.lemonde.fr/en/les-decodeurs/article/2023/02/06/french-parliament-explained-five-possible-outcomes-for-the-pension-reform_6014606_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2023/02/06/french-parliament-explained-five-possible-outcomes-for-the-pension-reform_6014606_8.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 11:45:14+00:00
+ - user: None
+
+Starting on Monday, the French government's pension reform will be debated on the floor of the Assemblée Nationale. A number of scenarios are possible.
+
+## Half Moon Bay mass shooting reveals misery of life for immigrant workers
+ - [https://www.lemonde.fr/en/international/article/2023/02/06/half-moon-bay-mass-shooting-revealed-misery-of-life-for-farm-workers_6014603_4.html](https://www.lemonde.fr/en/international/article/2023/02/06/half-moon-bay-mass-shooting-revealed-misery-of-life-for-farm-workers_6014603_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 11:39:59+00:00
+ - user: None
+
+On January 23, a 66-year-old Chinese employee killed seven co-workers. This story of humiliation and revenge has highlighted the brutal living conditions endured by farm workers in one of the San Francisco Bay's wealthiest communities.
+
+## Marine Le Pen takes advantage of French pension reform debate to defend pro-birth policy
+ - [https://www.lemonde.fr/en/politics/article/2023/02/06/marine-le-pen-takes-advantage-of-french-pension-reform-debate-to-defend-pro-birth-policy_6014600_5.html](https://www.lemonde.fr/en/politics/article/2023/02/06/marine-le-pen-takes-advantage-of-french-pension-reform-debate-to-defend-pro-birth-policy_6014600_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 10:58:21+00:00
+ - user: None
+
+The birth rate has been left out or the debate on pensions, argues the far-right Rassemblement National party. But they are conveniently forgetting the other key demographic component: immigration.
+
+## In Italy, Zelensky's message at the Sanremo Music Festival revives arguments about the war in Ukraine
+ - [https://www.lemonde.fr/en/international/article/2023/02/06/in-italy-zelensky-s-message-at-the-sanremo-music-festival-revives-arguments-about-the-war-in-ukraine_6014593_4.html](https://www.lemonde.fr/en/international/article/2023/02/06/in-italy-zelensky-s-message-at-the-sanremo-music-festival-revives-arguments-about-the-war-in-ukraine_6014593_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 09:53:30+00:00
+ - user: None
+
+The planned broadcast of a message from the Ukrainian president during the closing night of this legendary festival is being opposed by a diverse group of politicians.
+
+## New Renault and Nissan alliance to focus on operational projects
+ - [https://www.lemonde.fr/en/economy/article/2023/02/06/new-renault-and-nissan-alliance-to-focus-on-operational-projects_6014590_19.html](https://www.lemonde.fr/en/economy/article/2023/02/06/new-renault-and-nissan-alliance-to-focus-on-operational-projects_6014590_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 09:35:17+00:00
+ - user: None
+
+With Renault relinquishing major capital from Nissan, the Franco-Japanese Alliance is starting again from scratch.
+
+## Renault-Nissan Alliance: Key moments in their rocky deal
+ - [https://www.lemonde.fr/en/economy/article/2023/02/06/renault-nissan-alliance-key-moments-in-their-rocky-deal_6014589_19.html](https://www.lemonde.fr/en/economy/article/2023/02/06/renault-nissan-alliance-key-moments-in-their-rocky-deal_6014589_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 09:21:20+00:00
+ - user: None
+
+As Renault and Nissan announce a restructuring to their landmark Alliancem, we look at the pivotal moments that brought the two car producing giants to this point.
+
+## Balloon flying over Latin America is Chinese, confirms Beijing
+ - [https://www.lemonde.fr/en/china/article/2023/02/06/balloon-flying-over-latin-america-is-chinese-confirms-beijing_6014581_162.html](https://www.lemonde.fr/en/china/article/2023/02/06/balloon-flying-over-latin-america-is-chinese-confirms-beijing_6014581_162.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 09:00:39+00:00
+ - user: None
+
+The balloon, similar to the device shot down by the United States over the week-end, was spotted on Friday over Colombia.
+
+## Pakistan blocks Wikipedia, says it 'hurts sentiments of Muslims'
+ - [https://www.lemonde.fr/en/pixels/article/2023/02/06/pakistan-blocks-wikipedia-says-it-hurts-sentiments-of-muslims_6014576_13.html](https://www.lemonde.fr/en/pixels/article/2023/02/06/pakistan-blocks-wikipedia-says-it-hurts-sentiments-of-muslims_6014576_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 08:27:41+00:00
+ - user: None
+
+Pakistani authorities said Wikipedia did not respect a deadline to remove content it considers blasphemous.
+
+## Israeli troops kill five Palestinian gunmen in West Bank raid, says army
+ - [https://www.lemonde.fr/en/international/article/2023/02/06/israeli-troops-kill-five-palestinian-gunmen-in-west-bank-raid-says-army_6014575_4.html](https://www.lemonde.fr/en/international/article/2023/02/06/israeli-troops-kill-five-palestinian-gunmen-in-west-bank-raid-says-army_6014575_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 08:12:58+00:00
+ - user: None
+
+The Israeli military said it targeted the cell behind a failed shooting at a restaurant in a settlement last month.
+
+## As the UK's NHS goes on strike, the country's whole health model is being questioned
+ - [https://www.lemonde.fr/en/international/article/2023/02/06/as-the-uk-s-nhs-goes-on-strike-the-country-s-whole-health-model-is-being-questioned_6014572_4.html](https://www.lemonde.fr/en/international/article/2023/02/06/as-the-uk-s-nhs-goes-on-strike-the-country-s-whole-health-model-is-being-questioned_6014572_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 07:40:22+00:00
+ - user: None
+
+Tens of thousands of nurses and paramedics are expected to go on strike on Monday. According to the unions, this is the biggest such movement in the history of the NHS.
+
+## In France, the Russian diesel embargo keeps pressure on pump prices
+ - [https://www.lemonde.fr/en/economy/article/2023/02/06/in-france-the-russian-diesel-embargo-keeps-pressure-on-pump-prices_6014558_19.html](https://www.lemonde.fr/en/economy/article/2023/02/06/in-france-the-russian-diesel-embargo-keeps-pressure-on-pump-prices_6014558_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 04:22:09+00:00
+ - user: None
+
+The new ban approved by the EU may have an inflationary effect at the pump, but professionals assure that it has already been largely anticipated in the current rates.
+
+## Oil sanctions: Russia stuck between forced price cuts and evasion
+ - [https://www.lemonde.fr/en/economy/article/2023/02/06/oil-sanctions-russia-stuck-between-forced-price-cuts-and-evasion_6014557_19.html](https://www.lemonde.fr/en/economy/article/2023/02/06/oil-sanctions-russia-stuck-between-forced-price-cuts-and-evasion_6014557_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 04:22:04+00:00
+ - user: None
+
+The first embargo, targeting Russian crude oil, was said to cost Moscow €160 million a day. Now a second will extend to imports of refined Russian oil products.
+
+## War in Ukraine: Europe bans Russian diesel in order to weaken Putin
+ - [https://www.lemonde.fr/en/economy/article/2023/02/06/war-in-ukraine-europe-bans-russian-diesel-in-order-to-weaken-putin_6014556_19.html](https://www.lemonde.fr/en/economy/article/2023/02/06/war-in-ukraine-europe-bans-russian-diesel-in-order-to-weaken-putin_6014556_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 04:00:17+00:00
+ - user: None
+
+In coordination with the G7, the EU-27 is implementing a second round of sanctions targeting Russian oil. Products refined in Russia will be banned from February 5 and a price cap will be set.
+
+## 7.8 magnitude earthquake kills at least eighteen in Turkey, thirteen in Syria
+ - [https://www.lemonde.fr/en/environment/article/2023/02/06/7-8-magnitude-earthquake-kills-at-least-five-people-in-central-turkey_6014553_114.html](https://www.lemonde.fr/en/environment/article/2023/02/06/7-8-magnitude-earthquake-kills-at-least-five-people-in-central-turkey_6014553_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 03:00:30+00:00
+ - user: None
+
+Hundreds of buildings have collapsed and there are fears that the deaths could be in the hundreds.
+
+## Emmanuel Macron's pursuit for institutional reform
+ - [https://www.lemonde.fr/en/politics/article/2023/02/06/emmanuel-macron-s-pursuit-for-institutional-reform_6014550_5.html](https://www.lemonde.fr/en/politics/article/2023/02/06/emmanuel-macron-s-pursuit-for-institutional-reform_6014550_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 02:54:14+00:00
+ - user: None
+
+The head of state has not given up on a reform – which could include seven-year terms, the electoral calendar or proportional representation – despite tensions surrounding pensions and the weakening of his majority in the Assemblée Nationale.
+
+## Grammy Awards 2023: Beyonce ties record for most Grammys by an artist
+ - [https://www.lemonde.fr/en/culture/article/2023/02/06/grammy-awards-2023-beyonce-ties-record-for-most-grammys-by-an-artist_6014547_30.html](https://www.lemonde.fr/en/culture/article/2023/02/06/grammy-awards-2023-beyonce-ties-record-for-most-grammys-by-an-artist_6014547_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 02:09:42+00:00
+ - user: None
+
+After scoring the award for Best R&amp;B Song for "Cuff It," she needs just one more victory to overtake classical conductor Georg Solti for the most wins by any artist.
+
+## Ukraine shakes up military leadership following corruption scandals
+ - [https://www.lemonde.fr/en/international/article/2023/02/06/ukraine-shakes-up-military-leadership-following-corruption-scandals_6014545_4.html](https://www.lemonde.fr/en/international/article/2023/02/06/ukraine-shakes-up-military-leadership-following-corruption-scandals_6014545_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 01:46:48+00:00
+ - user: None
+
+Ahead of an expected Russian offensive, Kyiv has appointed Kyrylo Budanov will replace Oleksiy Reznikov as head of the defense ministry.
+
+## Zelensky appeals to the people of the Caucasus to rally against Putin
+ - [https://www.lemonde.fr/en/international/article/2023/02/06/zelensky-appeals-to-the-people-of-the-caucasus-to-rally-against-putin_6014542_4.html](https://www.lemonde.fr/en/international/article/2023/02/06/zelensky-appeals-to-the-people-of-the-caucasus-to-rally-against-putin_6014542_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 01:30:24+00:00
+ - user: None
+
+President Volodymyr Zelensky is banking on a gradual rallying of Russia's 'indigenous peoples' to the Ukrainian cause, in the name of a shared experience of Russian oppression.
+
+## The strange exuberance of European stock markets
+ - [https://www.lemonde.fr/en/europe/article/2023/02/06/the-strange-exuberance-of-european-stock-markets_6014539_143.html](https://www.lemonde.fr/en/europe/article/2023/02/06/the-strange-exuberance-of-european-stock-markets_6014539_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-02-06 00:38:30+00:00
+ - user: None
+
+Amidst Europe's stagnant economy verging on recession, the London FTSE 100 has reached its highest historical level and the Paris CAC 40 is close to it.
