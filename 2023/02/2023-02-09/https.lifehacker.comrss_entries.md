@@ -1,0 +1,114 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## Should You Clap on the 1 and 3 Beat or the 2 and 4?
+ - [https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--XT9LDtSR--/c_fit,fl_progressive,q_80,w_636/d64a6c4cd6d1d5b9a240c414c093f077.jpg" /><p>Listen to this <a href="https://www.youtube.com/watch?v=X6KPF6yEc7k" rel="noopener noreferrer" target="_blank">clip of blues legend Taj Mahal</a> playing a concert in Germany in the 1990s. The crowd is clapping along happily to “Blues with Feeling,” but Taj stops the performance mid-song.<br /></p><p><a href="https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102">Read more...</a></p>
+
+## 8 Cleaning Products TikTok Absolutely Loves
+ - [https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--y4pJeyuj--/c_fit,fl_progressive,q_80,w_636/9a9d2dad35a88bd63fe30e75fba5322c.jpg" /><p>Whether you get your tidying inspo from <a href="https://lifehacker.com/15-of-the-best-cleantok-accounts-to-follow-on-tiktok-1849838334">CleanTok influencers</a>, Pinterest, or the stuff your aunt shares on Facebook, a lot of home advice these days is viral. Sometimes, the <a href="https://lifehacker.com/try-the-five-things-method-when-you-re-overwhelmed-by-1850087958">viral content is about methodology</a>, but other times, it centers on specific products and tools. Here are some of the most viral cleaning tools, as…</p><p><a href="https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503">Read more...</a></p>
+
+## 11 Things You Use (or Eat) That Aren't Made the Way You Think
+ - [https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ysXL4Js---/c_fit,fl_progressive,q_80,w_636/d879ed8bf907f6b0966addf8e46b5f4d.jpg" /><p>We’re so used to seeing finished products, it’s hard to imagine that they were once anything else. But nails, staples, springs, and chains all <a href="https://www.youtube.com/watch?v=CUTTmtLKD2g" rel="noopener noreferrer" target="_blank">started life as spools of wire</a>, and a bunch of other household objects and foods have even more surprising origins. Here’s a tour—starting with some bad news about silk. I’m so…</p><p><a href="https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719">Read more...</a></p>
+
+## Improve Your iPhone's Digital Zoom With This App
+ - [https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3xq1z9nU--/c_fit,fl_progressive,q_80,w_636/d015fff0998ce7367f4c72bd278b5765.jpg" /><p>Any iPhone can take a <em>great</em> picture. If you want to zoom in, though, you need to go Pro. Since the iPhone 7 Plus, Apple has reserved the telephoto zoom lens for its more expensive devices. Its “standard” iPhones must use a digital zoom to move in closer to a subject, which results in a reduced quality image. At least,…</p><p><a href="https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334">Read more...</a></p>
+
+## 10 Things You Actually Can't Clean With All-Purpose Cleaner
+ - [https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--4ah28Eon--/c_fit,fl_progressive,q_80,w_636/78cb8be593764061626e595db79ac2c5.jpg" /><p>The name all-purpose cleaner is enticing, especially if you’re in a rush or don’t have a lot to spend on cleaning products (and aren’t <a href="https://lifehacker.com/14-diy-cleaning-recipes-for-people-who-hate-chemicals-1850079064">in the mood to DIY some</a>). Unfortunately, it’s also misleading: Not everything can be cleaned with all-purpose cleaner, so you have to be careful not to put it on surfaces that won’t…</p><p><a href="https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135">Read more...</a></p>
+
+## You Should Add a Banana to Your French Toast Batter
+ - [https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 19:30:05+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cXPmKor1--/c_fit,fl_progressive,q_80,w_636/120fc2d7c28678adbcd291ef57678287.jpg" /><p>In the age of viral <a href="https://lifehacker.com/how-to-avoid-being-triggered-by-fake-viral-recipe-video-1846869897">and often antagonistic</a> TikTok recipes, it’s nice to see something vintage get attention. Take this “secret banana” french toast—The <a href="https://www.reddit.com/r/Old_Recipes/comments/10ioew0/the_invisible_banana_french_toast/" rel="noopener noreferrer" target="_blank">Reddit-famous recipe</a> is quite simple: Puree half a banana with an egg and a little cinnamon, dip some whole grain bread in the batter, and fry in butter. It’s sort of…</p><p><a href="https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258">Read more...</a></p>
+
+## Here Are the 200 Bed Bath & Beyond Stores About to Close Soon
+ - [https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080](https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--D18d3-7K--/c_fit,fl_progressive,q_80,w_636/eb13bb0443e57d0112676f779f1b1818.jpg" /><p>Bed Bath &amp; Beyond has been struggling to recover from its <a href="https://www.usatoday.com/story/money/2020/07/08/bed-bath-beyond-store-closures-coronavirus-impact/5401627002/" rel="noopener noreferrer" target="_blank">downturn during the pandemic</a>—and now, the situation is so dire that they’re selling $1 billion in stocks to pay their debts, <a href="https://nypost.com/2023/02/07/bed-bath-beyond-sells-1b-in-stock-to-avoid-bankruptcy/" rel="noopener noreferrer" target="_blank">according to the New York Post</a>. Bed Bath &amp; Beyond has been <a href="https://thehill.com/homenews/nexstar_media_wire/3807368-bed-bath-beyond-to-close-additional-stores-heres-where/" rel="noopener noreferrer" target="_blank">slowly</a> but <a href="https://thehill.com/homenews/nexstar_media_wire/3836476-bed-bath-beyond-announces-87-more-store-closures/" rel="noopener noreferrer" target="_blank">surely</a> putting out statements and updating their list of stores…</p><p><a href="https://lifehacker.com/here-are-the-200-bed-bath-beyond-stores-about-to-clos-1850095080">Read more...</a></p>
+
+## These Awesome PC Games Are $5 or Less Right Now
+ - [https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709](https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 18:41:18+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nyS6gIbZ--/c_fit,fl_progressive,q_80,w_636/0f64a17d9036340e88a876eef2d03dd6.jpg" /><p>Buying cheap video games is a much better value proposition than it used to be. Shopping around for cheap games back in the day usually meant you’d be getting what you paid for (anyone else remember browsing the under $5 older/used section of <a href="https://www.gamespot.com/articles/gamestop-buying-eb-games/1100-6122418/" rel="noopener noreferrer" target="_blank">EB Games</a>?).<br /></p><p><a href="https://lifehacker.com/these-awesome-pc-games-are-5-or-less-right-now-1850094709">Read more...</a></p>
+
+## Dutch Doors, Laundry Chutes, and Other Old-Fashioned Home Features You Should Still Use Today
+ - [https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601](https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--gaHPNoEo--/c_fit,fl_progressive,q_80,w_636/3515d1dbab83b2cd74b89e4f9f21d7c1.jpg" /><p>I grew up in a densely-populated city in the Northeast, about as far from rural life as you can get. Running around as a kid, I remember seeing some older homes having these weird little posts out in front on the sidewalk, usually with a tiny horse head on top. For a long time I was mystified, until someone finally…</p><p><a href="https://lifehacker.com/dutch-doors-laundry-chutes-and-other-old-fashioned-ho-1850094601">Read more...</a></p>
+
+## Make This Quick Thai Banana Roti Immediately
+ - [https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469](https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 17:51:24+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--mTWNF4Fs--/c_fit,fl_progressive,q_80,w_636/aa25f6523c7f3c12fed0f482298cae84.jpg" /><p> I’ve been craving a plate of Thai banana roti, and yet my body, mind, and spirit do not want to mix or stretch any roti. Instead, I’ve made Thai banana faux-ti using phyllo dough, and it was a resounding success. If you like bananas even a little bit, you’re going to love this quick four-ingredient dish.<br /></p><p><a href="https://lifehacker.com/make-this-quick-thai-banana-roti-immediately-1850094469">Read more...</a></p>
+
+## How to Reload Your Tabs When Your Browser Unexpectedly Quits
+ - [https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866](https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6Yuseg3I--/c_fit,fl_progressive,q_80,w_636/3668b92acbfae4dfba60ab7248c08104.jpg" /><p>Tabs are not meant to be read. Tabs are meant to be opened, and left opened, while you spend your valuable time opening more tabs. At any given moment, you may have dozens of tabs running idle in the background, waiting for your return. But when disaster strikes, and you accidentally quit your browser—or it quits…</p><p><a href="https://lifehacker.com/how-to-reload-your-tabs-when-your-browser-unexpectedly-1850093866">Read more...</a></p>
+
+## 12 Complete Podcasts to Binge Right Now
+ - [https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348](https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9ESzALIF--/c_fit,fl_progressive,q_80,w_636/3b824c988e1732b0c89af22c7b6e5194.png" /><p>Across all forms of entertainment media, we are living in <a href="https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528">the age of the binge</a>, and podcasts are no different. Certainly it’s frustrating  to be swept away by a captivating podcast episode only to find out you have to wait a week or more to continue the story. <br /><br />How satisfying, then, to listen to these 12 great, now…</p><p><a href="https://lifehacker.com/12-podcasts-to-binge-right-now-1850079348">Read more...</a></p>
+
+## Why You Should Use Obsidian As a Journaling App
+ - [https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690](https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--I-ybU0N_--/c_fit,fl_progressive,q_80,w_636/6417cce56d847e3d79b96a929eeb3fe1.png" /><p>It isn’t difficult to find an app designed for journaling. In fact, it’s more challenging to <em>choose</em> one from the sea of options out there. Worse yet, most lock their features behind a subscription service, and store your notes themselves, making it hard to switch apps in the future. But you actually can journal for…</p><p><a href="https://lifehacker.com/why-you-should-use-obsidian-as-a-journaling-app-1850086690">Read more...</a></p>
+
+## Impress Everyone You Know With Caramelized Onion Bread
+ - [https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432](https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--y-rHzh-E--/c_fit,fl_progressive,q_80,w_636/11e91a89ef8ca1bfed97fd11a5a76b48.jpg" /><p>Like any reasonable person, I love garlic bread, but it is not the only allium-based bread you can make and enjoy. Much like their cloved cousin, onions can be transformed into a sweet and savory, irresistible bread topping. All you need is butter, onions, heat, and time.</p><p><a href="https://lifehacker.com/impress-everyone-you-know-with-caramelized-onion-bread-1850091432">Read more...</a></p>
+
+## 12 Everyday Dangers You Should Avoid at All Costs
+ - [https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598](https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2_qhprYD--/c_fit,fl_progressive,q_80,w_636/e3376257a6eb703ae5707d99f6d61f22.jpg" /><p>We’ve given you <a href="https://lifehacker.com/9-tips-that-could-save-your-life-in-very-specific-emerg-1850082781">tips for extremely specific emergencies</a>, but what you may not realize is that emergency situations can be waiting right around the corner—or in your own house. Here are some tips to help you avoid the under-appreciated but ever-present dangers of everyday life.<br /></p><p><a href="https://lifehacker.com/12-everyday-dangers-you-should-avoid-at-all-costs-1850090598">Read more...</a></p>
+
+## 8 Alternatives to Dining Out on Valentine’s Day
+ - [https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443](https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-09 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--pggbSIzm--/c_fit,fl_progressive,q_80,w_636/5963f90bdabbae3b82489c13ec219f38.jpg" /><p>Heading out to a dazzling restaurant for a lovely meal is certainly one option for a memorable Valentine’s Day. Contrarily, it’s often disappointing. Stress can stem from reserving a table weeks in advance, only to find that the atmosphere is too busy, then get rushed out because they’re turning over tables on a tight…</p><p><a href="https://lifehacker.com/8-alternatives-to-dining-out-on-valentine-s-day-1850091443">Read more...</a></p>
+
