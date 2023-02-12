@@ -1,0 +1,30 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Hogwarts Legacy - 12 Things I Wish I Knew
+ - [https://www.gamespot.com/videos/hogwarts-legacy-12-things-i-wish-i-knew/2300-6460606/](https://www.gamespot.com/videos/hogwarts-legacy-12-things-i-wish-i-knew/2300-6460606/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-02-11 18:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4098004-feature_hogtips_v4_site.jpg" width="480" /> Hogwarts Legacy is a game about how wizarding school is hard, and being a student of the magical arts, you may have a few questions once you’ve started it up - like: Why is my inventory filling so fast, and what can I do about it?! Or - my character looks like they put on everything in their wardrobe at once, is there an easy way to fix this?! We’re here to help you out with things we wish we knew going into Hogwarts Legacy.
+
+## The Last of Us Episode 5 Breakdown: Sam and Henry's Fate, Lamar Johnson Interview
+ - [https://www.gamespot.com/videos/the-last-of-us-episode-5-breakdown-sam-and-henrys-fate-lamar-johnson-interview/2300-6460607/](https://www.gamespot.com/videos/the-last-of-us-episode-5-breakdown-sam-and-henrys-fate-lamar-johnson-interview/2300-6460607/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-02-11 17:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4098097-230210_gsu_last-of-us-e5_site.jpg" width="480" /> We break down The Last of Us Episode 5, including Joel and Ellie's new companions Sam and Henry, the introduction of the Bloater (aka "Big Boy"), and Henry's impossible choice in the end. The Chat With Us is a weekly The Last of Us after show from GameSpot, TV Guide, and Metacritic, powered by Fandom.
+
+## Firearms Expert Reacts To GoldenEye 007’s Guns
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-goldeneye-007s-guns/2300-6460598/](https://www.gamespot.com/videos/firearms-expert-reacts-to-goldeneye-007s-guns/2300-6460598/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-02-11 15:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4097662-goldeneye_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down more of the weaponry of GoldenEye 007, including the iconic Klobb SMG, James Bond’s signature PP7, the RC-P90, and of course, the Golden Gun itself.
+
+## The Last Of Us' Lamar Johnson Talks Fighting Infected And Gut-Wrenching Scenes
+ - [https://www.gamespot.com/articles/the-last-of-us-lamar-johnson-talks-fighting-infected-and-gut-wrenching-scenes/1100-6511435/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-last-of-us-lamar-johnson-talks-fighting-infected-and-gut-wrenching-scenes/1100-6511435/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-02-11 03:00:00+00:00
+
+<p dir="ltr">Another The Last of Us episode has debuted and, as such, more heartbreak has played out on our televisions. Seemingly each week, Joel (Pedro Pascal) and Ellie (Bella Ramsey) find themselves in the middle of a devastating situation and the fifth installment of the HBO series’ first season was no different--especially after introducing game characters Henry (Lamar Johnson) and Sam (Keivonn Montreal Woodard) into the mix.</p><p dir="ltr"><em><strong>Warning: The following contains spoilers for Episode 5 of HBO's The Last of Us. If you haven't watched it yet, head over to HBO Max now to catch up.</strong></em></p><p dir="ltr">Henry and Sam were first introduced at the end of Episode 4, holding Joel and Ellie at gunpoint. In Episode 5, though, the four team up to escape Kansas City together, bringing down the wrath of Kathleen (Melanie Lynskey) and her army of revolutionaries that control the city.</p><a href="https://www.gamespot.com/articles/the-last-of-us-lamar-johnson-talks-fighting-infected-and-gut-wrenching-scenes/1100-6511435/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

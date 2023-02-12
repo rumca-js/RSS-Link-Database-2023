@@ -1,0 +1,23 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## The Valentine's Day Gifts That Have Been Impacted Most (and Least) By Inflation
+ - [https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-11 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--NIGiXEhT--/c_fit,fl_progressive,q_80,w_636/22a538ea666078bb7d5b950858a5cccb.jpg" /><p>With Valentine’s Day coming up in a few days, those who choose to celebrate the holiday may opt to shower their loved one(s) with gifts. And while there are no one-size-fits-all tokens of affection, there are certain presents and activities that are considered traditional—or, depending on your point of view, cliché.</p><p><a href="https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359">Read more...</a></p>
+
+## The Best Way to Remove Scuff Marks From Your Shoes
+ - [https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-11 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RzC8lMQa--/c_fit,fl_progressive,q_80,w_636/7be49b7fec7a69800d99a090adca4cd0.jpg" /><p>Unless you go to great lengths to keep your shoes looking pristine at all times, they’re probably going to accumulate some scuff marks  from everyday wear and tear. But the good news is that for the most part, those blemishes are only temporary, and tend to be fairly easy to remove. Here are some of the best ways to…</p><p><a href="https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364">Read more...</a></p>
+
+## 8 Ways You Should Use Your Scrub Daddy (but Aren't)
+ - [https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-11 00:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--oCIVTKk_--/c_fit,fl_progressive,q_80,w_636/66f45fe4288b75f445d8a464d5dbdcc0.jpg" /><p>The Scrub Daddy is <a href="https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503">a truly viral cleaning tool</a> that people love both online and in real life. <a href="https://scrubdaddy.com/scrub-daddy-original/" rel="noopener noreferrer" target="_blank">The official website</a> bills the scrubber as “America’s favorite sponge” and attributes that to its use of FlexTexture material that is more absorbent in warm water and abrasive in cold. You don’t have to know what FlexTexture…</p><p><a href="https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345">Read more...</a></p>
+
