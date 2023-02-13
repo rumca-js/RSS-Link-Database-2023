@@ -1,0 +1,10 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## Ad network blacklist is accused of political bias
+ - [https://reclaimthenet.org/ad-network-blacklist-is-accused-of-political-bias](https://reclaimthenet.org/ad-network-blacklist-is-accused-of-political-bias)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-02-12 18:30:45+00:00
+
+<a href="https://reclaimthenet.org/ad-network-blacklist-is-accused-of-political-bias" rel="nofollow" title="Ad network blacklist is accused of political bias"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/02/news-b-list.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Conservative news outlets appear to be listed as promoters of "disinformation."</p>
+<p>The post <a href="https://reclaimthenet.org/ad-network-blacklist-is-accused-of-political-bias" rel="nofollow">Ad network blacklist is accused of political bias</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
