@@ -1,0 +1,30 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## Microsoft officially unleashes Windows 11 on Apple Silicon Macs
+ - [https://www.computerworld.com/article/3688552/microsoft-officially-unleashes-windows-11-on-apple-silicon-macs.html#tk.rss_all](https://www.computerworld.com/article/3688552/microsoft-officially-unleashes-windows-11-on-apple-silicon-macs.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-17 14:17:00+00:00
+
+<article>
+	<section class="page">
+<p>Many enterprise professionals have been hoping Microsoft would agree to authorize Windows for use on Apple Silicon Macs inside <a href="https://www.parallels.com/products/desktop" rel="noopener nofollow" target="_blank">Alludo’s Parallels Desktop</a>.</p><p>Now, they officially can. Parallels Desktop is finally an authorized solution for Arm versions of Windows 11 on Macs running M-series processors. </p><h2><strong>Windows for the Macs of us</strong></h2>
+<p>The move is particularly good news for <a href="https://www.computerworld.com/article/3686689/macstadium-sees-a-massive-opportunity-for-apple-in-business-markets.html">enterprises with mixed fleets</a>, as it eases the path to an upgrade to Macs across the company. It also means legacy Windows apps can be supported on those new Apple computers.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688552/microsoft-officially-unleashes-windows-11-on-apple-silicon-macs.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Three zero-days require urgent attention for Windows, Exchange
+ - [https://www.computerworld.com/article/3688551/three-zero-days-require-urgent-attention-for-windows-exchange.html#tk.rss_all](https://www.computerworld.com/article/3688551/three-zero-days-require-urgent-attention-for-windows-exchange.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-17 12:54:00+00:00
+
+<article>
+	<section class="page">
+<p>Microsoft's February Patch Tuesday update deals with 76 vulnerabilities that affect Windows, Exchange, Office, and Microsoft development tools — and three Windows vulnerabilities (<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21823" rel="noopener nofollow" target="_blank">CVE-2023-21823,</a><a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21715" rel="noopener nofollow" target="_blank"> CVE-2023-21715</a> and<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23376" rel="noopener nofollow" target="_blank"> CVE-2023-23376</a>) have been reported as exploited in the wild and require immediate attention.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688551/three-zero-days-require-urgent-attention-for-windows-exchange.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Q&A: What happened when a chatbot provider upgraded to ChatGPT?
+ - [https://www.computerworld.com/article/3688428/qa-what-happened-when-a-chatbot-provider-upgraded-to-chatgpt.html#tk.rss_all](https://www.computerworld.com/article/3688428/qa-what-happened-when-a-chatbot-provider-upgraded-to-chatgpt.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-17 11:00:00+00:00
+
+<article>
+	<section class="page">
+<p>ChatGPT is a chatbot sensation that virtually every enterprise — large and small — is considering using to create greater business efficiencies. Five days after its November launch, it had 1 million users. Over the next two months, <a href="https://www.computerworld.com/article/3686616/6-surprising-facts-about-chatgpt-nobody-told-you.html">the AI chatbot</a> had more than 200 million users.</p><p>The machine learning language program created by San Francisco-based research firm <a href="https://openai.com/" rel="nofollow noopener" target="_blank">OpenAI</a> offers human-like text responses to queries. It can summarize long articles or text-thread conversations, make writing suggestions, come up with marketing campaigns, produce business plans and even create or correct computer code. And all that can be done with <a href="https://www.computerworld.com/article/3687614/how-enterprises-can-use-chatgpt-and-gpt-3.html">limited investments</a>.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688428/qa-what-happened-when-a-chatbot-provider-upgraded-to-chatgpt.html#jump">To read this article in full, please click here</a></p></section></article>
+
