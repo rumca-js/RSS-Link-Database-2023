@@ -1,0 +1,100 @@
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## European roundup: Bayern beaten again by bogey side Mönchengladbach
+ - [https://www.theguardian.com/football/2023/feb/18/european-roundup-bayern-gladbach-milan-inter-real-madrid](https://www.theguardian.com/football/2023/feb/18/european-roundup-bayern-gladbach-milan-inter-real-madrid)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 18:33:06+00:00
+
+<ul><li>Borussia Mönchengladbach 3-2 Bayern Munich</li><li>Freiburg and Leipzig cut gap at top with victories</li></ul><p>Borussia Mönchengladbach beat 10-man Bayern Munich 3-2 on Saturday, stretching their unbeaten run over the Bundesliga champions to five games in all competitions.</p><p>Gladbach went ahead through Lars Stindl in the 13th minute after Bayern got off to a nightmare start, with Dayot Upamecano bringing down Alassane Pléa outside the box and being shown a red card in the eighth minute. Stindl missed a golden chance to double their lead in the 24th but sent his close-range shot wide.</p> <a href="https://www.theguardian.com/football/2023/feb/18/european-roundup-bayern-gladbach-milan-inter-real-madrid">Continue reading...</a>
+
+## Frank half-time ‘chat’ inspired Arsenal comeback at Aston Villa, says Jorginho
+ - [https://www.theguardian.com/football/2023/feb/18/frank-half-time-chat-inspired-arsenal-comeback-aston-villa-jorginho-mikel-arteta](https://www.theguardian.com/football/2023/feb/18/frank-half-time-chat-inspired-arsenal-comeback-aston-villa-jorginho-mikel-arteta)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 16:47:01+00:00
+
+<ul><li>Team ‘went back to doing the basics’ after trailing at break</li><li>Arteta says Arsenal ‘didn’t do simple things right’ in first half</li></ul><p>A frank exchange of views in the Arsenal dressing room at half-time proved the foundation for their <a href="https://www.theguardian.com/football/2023/feb/18/aston-villa-arsenal-premier-league-match-report">spectacular late comeback</a> against Aston Villa. Arsenal returned to the top of the Premier League on Saturday lunchtime by coming back from 2-1 down to win 4-2, with the key moment a freak own goal in the third minute of added time by Emiliano Martínez after Jorginho’s shot had hit the bar. But in the euphoria of the victory Arteta sounded a note of concern on his team’s limp first-half performance, in which they twice fell behind.<br /><br />He sent his players out early for the second half and elaborated on what was said. “We have to raise our individual level, look each other in the face and do much, much more if we want to win,” he said. “In the first half we didn’t do the simple things right. In the second half we dominated. We needed a magic moment and Jorginho produced it.</p><p>“If you want to be at the top, you have to win games in different ways. At some stage you’re going to have to win games in the 94th and the 96th minute, you have to score when you are down to 10 men, you have to score from set pieces. I think we showed a lot of resilience, character and quality. The dressing room is bouncing.”</p> <a href="https://www.theguardian.com/football/2023/feb/18/frank-half-time-chat-inspired-arsenal-comeback-aston-villa-jorginho-mikel-arteta">Continue reading...</a>
+
+## Sarina Wiegman welcomes Keira Walsh back and takes swipe at Tiger Woods
+ - [https://www.theguardian.com/football/2023/feb/18/sarina-wiegman-pleased-to-have-keira-walsh-back-but-criticises-tiger-woods](https://www.theguardian.com/football/2023/feb/18/sarina-wiegman-pleased-to-have-keira-walsh-back-but-criticises-tiger-woods)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 14:40:17+00:00
+
+<ul><li>Midfielder back for Arnold Clark Cup match against Italy</li><li>Wiegman calls Woods’ tampon prank ‘very inappropriate’</li></ul><p>Sarina Wiegman is looking forward to Keira Walsh being available after illness for Sunday’s Arnold Clark Cup match against Italy at Coventry, though the England coach was less than impressed by <a href="https://www.theguardian.com/sport/2023/feb/17/tiger-woods-hands-tampon-to-justin-thomas-golf-genesis-invitational">Tiger Woods’s antics</a> on the golf course.</p><p>England – now unbeaten in 27 games under Wiegman – <a href="https://www.theguardian.com/football/2023/feb/16/england-women-south-korea-arnold-clark-cup-match-report">beat South Korea 4-0</a> in Milton Keynes on Thursday without Walsh but the Barcelona midfielder is set to return to the fold for the Italy game. “It is really nice for her that she is back, because of course she wants to be part of the team and we want to see her play,” the head coach said. “It will be really nice to have her on the pitch.” Walsh’s return should enable Leah Williamson, the captain, to return to centre-back after filling in midfield against South Korea.</p> <a href="https://www.theguardian.com/football/2023/feb/18/sarina-wiegman-pleased-to-have-keira-walsh-back-but-criticises-tiger-woods">Continue reading...</a>
+
+## Mardi Gras on a plate: Keshia Sakarah’s New Orleans-style recipes
+ - [https://www.theguardian.com/food/2023/feb/18/new-orleans-recipes-po-boy-etouffee-stew-rice-beans-cajun-creole-mardi-gras-on-a-plate-keshia-sakarah](https://www.theguardian.com/food/2023/feb/18/new-orleans-recipes-po-boy-etouffee-stew-rice-beans-cajun-creole-mardi-gras-on-a-plate-keshia-sakarah)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 14:00:41+00:00
+
+<p>Po’ boys, rice ‘n’ beans and shrimp stew: three barnstorming cajun-creole dishes that will bring the flavours of Louisiana’s world-famous celebration to your home</p><p>The food of New Orleans is a real melting pot, with an array of cultures contributing to its cooking. Its inner-city food is often described as Creole, having been heavily influenced by west African communities, but it combines that with those of the Spanish, French and Native Americans. Out in the countryside, meanwhile, you’ll find Cajun, which is more rustic, less spiced and features more shellfish and game due to its rurality and proximity to the waters that surround Louisiana.</p><p>Keshia Sakarah is chef/founder of <a href="https://www.caribeuk.com/baruru">Baruru Supper Club</a> in London</p> <a href="https://www.theguardian.com/food/2023/feb/18/new-orleans-recipes-po-boy-etouffee-stew-rice-beans-cajun-creole-mardi-gras-on-a-plate-keshia-sakarah">Continue reading...</a>
+
+## Aston Villa v Arsenal: Premier League – live
+ - [https://www.theguardian.com/football/live/2023/feb/18/aston-villa-v-arsenal-premier-league-live](https://www.theguardian.com/football/live/2023/feb/18/aston-villa-v-arsenal-premier-league-live)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 12:18:49+00:00
+
+<ul><li>Updates from the 12.30pm GMT kick-off at Villa Park</li><li><a href="https://www.theguardian.com/football/blog/2023/feb/17/premier-league-10-things-to-look-out-for-this-weekend">Premier League: 10 things to look out for</a></li><li>Get in touch: <a href="mailto:scott.murray@theguardian.com">Email Scott</a> with your thoughts</li></ul><p><strong>Unai Emery speaks to BT.</strong> “Good afternoon … we want Tyrone Mings to be available at the start and to play the 90 minutes … we have to be competitive … I am happy with the players’ commitment and attitude … [Arsenal’s form] does not change things … they have been amazing this season … of course the last matches they have lost but they are playing in the same mood … they are confident and competitive … it is going to be a very difficult match … I want to play the best Arsenal and show our personal identity.”</p><p><strong>Mikel Arteta – cutting an impressively relaxed figure given his disappointments of the last week – speaks to BT Sport.</strong> “I have given Leandro [Trossard] the chance he deserves in the starting XI … he has been impacting the team … we need some energy in the front line … I saw how they played against the best team in the world [Manchester City] but they gave the game away … the first 20 minutes we have to play really well … we need much more efficiency in both boxes … we are here [ahead of schedule and unexpectedly in the title race] and we want to make the best out of it … we can do it … we have to stick together … we need characters with mentality in difficult moments … [Unai Emery] is a top manager with a lot of solutions and he is going to make it really hard for us, that’s for sure.”</p> <a href="https://www.theguardian.com/football/live/2023/feb/18/aston-villa-v-arsenal-premier-league-live">Continue reading...</a>
+
+## Charismatic cats: mountain lion besties gain TikTok following
+ - [https://www.theguardian.com/world/2023/feb/18/hazel-holly-oakland-zoo-mountain-lion-cubs-tiktok](https://www.theguardian.com/world/2023/feb/18/hazel-holly-oakland-zoo-mountain-lion-cubs-tiktok)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 11:00:37+00:00
+
+<p>Rescued cubs Holly and Hazel now spend their days cuddling after being found in the Santa Cruz mountains</p><p>The internet has a new favorite pair of celebrity cats: Hazel and Holly, two mountain lion cubs whose recovery journey at a California zoo has attracted a loyal following.</p><p>The abandoned cubs were brought in just a few days apart to the Oakland zoo, after wildlife officials realized they had been separated from their mothers. They have since forged a close bond, racking up millions of views on the Oakland zoo’s social media pages where viewers <a href="https://www.facebook.com/OakZoo/videos/3154998034790260/">watch them</a> cuddle and wrestle together.</p> <a href="https://www.theguardian.com/world/2023/feb/18/hazel-holly-oakland-zoo-mountain-lion-cubs-tiktok">Continue reading...</a>
+
+## ‘Not much time left’: Salt Lake City’s mayor on the Great Lake drying up
+ - [https://www.theguardian.com/us-news/2023/feb/18/salt-lake-city-mayor-erin-mendenhall-utah-great-lake-decline-climate-crisis](https://www.theguardian.com/us-news/2023/feb/18/salt-lake-city-mayor-erin-mendenhall-utah-great-lake-decline-climate-crisis)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 09:05:34+00:00
+
+<p>Former environmental activist Erin Mendenhall leads a fast-growing city threatened by toxic dust from the lake’s shrinking water levels</p><p>Erin Mendenhall was once an environmental activist, campaigning for clean air. Now, in a fitting but grim twist, she is the mayor of a fast-growing US city that faces being enveloped by a huge toxic cloud of dust.</p><p>Mendenhall, who is 42, became animated by the issue of air pollution after learning that the air quality in Salt Lake City had become so bad from cars, trucks and industry that it could take two years off the life of her newborn son. In 2010, she co-founded a non-profit group, called <a href="https://www.breatheutah.org/">Breathe Utah</a>, before embarking upon a political career that saw her <a href="https://www.slc.gov/mayor/staff/mayor-erin-mendenhall/">become Salt Lake City’s mayor</a> in 2020. “I had to do something [about the air pollution] or move,” she says.</p> <a href="https://www.theguardian.com/us-news/2023/feb/18/salt-lake-city-mayor-erin-mendenhall-utah-great-lake-decline-climate-crisis">Continue reading...</a>
+
+## ‘They don’t care’: how the US lets down workers with serious illnesses
+ - [https://www.theguardian.com/business/2023/feb/18/walmart-sick-workers-serious-illnesss](https://www.theguardian.com/business/2023/feb/18/walmart-sick-workers-serious-illnesss)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 09:00:35+00:00
+
+<p>Ernest Paschal II was fired from Walmart while recovering from sepsis – and like many sick workers, he’s found employers aren’t accommodating </p><p>Last summer 44-year-old Ernest Paschal II was fired from his job at a Walmart in South Carolina while recovering from sepsis. Paschal is paraplegic due to a work injury he sustained at the age of 19 and had his left leg amputated in 2019 due to a medical condition.</p><p>Like many US workers living with serious illness, Paschal found some employers have little interest – and almost no incentive – to make accommodations for sick workers.</p> <a href="https://www.theguardian.com/business/2023/feb/18/walmart-sick-workers-serious-illnesss">Continue reading...</a>
+
+## Ohio is facing a chemical disaster. Biden must declare a state of emergency | Steven Donziger
+ - [https://www.theguardian.com/commentisfree/2023/feb/18/ohio-train-derailment-biden-east-palestine](https://www.theguardian.com/commentisfree/2023/feb/18/ohio-train-derailment-biden-east-palestine)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 08:09:33+00:00
+
+<p>A train derailed and flooded a town with cancer-causing chemicals. But something larger, and more troubling, is at work</p><p>Earlier this month, a train carrying toxic chemicals derailed in eastern Ohio, exploding into flames and unleashing a spume of chemical smoke on the small town of East Palestine. The train’s freight included vinyl chloride, a chemical known to cause liver cancer and other sicknesses.</p><p>In response, government and railway officials decided to “burn off” the vinyl chloride – effectively dumping 1.1m lbs of the chemical into the local community, according to a new lawsuit. Officials said that they did so to avert the vinyl chloride from exploding; in contrast, an attorney for the lawsuit has said that the decision was cheap, unsafe, and more interested in restoring train service and appeasing railway shareholders than protecting local residents.</p><p>Steven Donziger is a human rights and environmental lawyer, a Guardian US columnist, and the creator of the Substack newsletter <a href="https://stevendonziger.substack.com/">Donziger on Justice</a></p> <a href="https://www.theguardian.com/commentisfree/2023/feb/18/ohio-train-derailment-biden-east-palestine">Continue reading...</a>
+
+## ‘Surviving is a matter of luck’: Ukrainians living under fire in Kherson - video
+ - [https://www.theguardian.com/world/video/2023/feb/18/surviving-is-a-matter-of-luck-ukrainians-living-under-fire-in-kherson-video](https://www.theguardian.com/world/video/2023/feb/18/surviving-is-a-matter-of-luck-ukrainians-living-under-fire-in-kherson-video)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 08:00:34+00:00
+
+<p>Kherson was liberated by Ukrainian troops in November, when Russian forces evacuated across the Dnipro river. Since then, the residents of Kherson have been living under daily shelling by Russian troops.<b>&nbsp;Luke Harding&nbsp;</b>and&nbsp;<b>Christopher Cherry</b>&nbsp;report from Kherson as Ukraine braces itself for an anticipated spring offensive</p> <a href="https://www.theguardian.com/world/video/2023/feb/18/surviving-is-a-matter-of-luck-ukrainians-living-under-fire-in-kherson-video">Continue reading...</a>
+
+## Indian journalists say BBC raid part of drive to intimidate media
+ - [https://www.theguardian.com/world/2023/feb/18/indian-journalists-bbc-raid-media](https://www.theguardian.com/world/2023/feb/18/indian-journalists-bbc-raid-media)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 05:00:29+00:00
+
+<p>Media staff targeted for criticising BJP government fear tax raid is escalation of coercion</p><p>“Did BBC Take Cash From China For Propaganda?” ran the opening title on the primetime news debate. As the flashy graphics of Republic TV, India’s hardline and overwhelmingly popular news channel, faded and its presenter Arnab Goswami appeared on the screen, he addressed millions of viewers across the country directly. “Ladies and gentlemen, our worst suspicions have been proved absolutely correct,” he said. “The BBC is funded by China.”</p><p>Two weeks later, on Tuesday, more than 50 officers from the income tax department <a href="https://www.theguardian.com/world/2023/feb/14/bbc-offices-india-raided-tax-officials-modi-documentary-fallout">descended on the Delhi and Mumbai offices</a> of the BBC. Over the course of three days, officials went through documents, searched emails and cloned phones and laptops, according to BBC employees who were inside the building. At least 10 BBC employees, including five senior editors, were kept there for three nights until the “tax survey” was finally completed on Friday.</p> <a href="https://www.theguardian.com/world/2023/feb/18/indian-journalists-bbc-raid-media">Continue reading...</a>
+
+## Restored Paris art deco public loo worth every penny of €2 charge
+ - [https://www.theguardian.com/world/2023/feb/18/restored-paris-art-deco-public-loo-worth-every-penny-of-2-charge](https://www.theguardian.com/world/2023/feb/18/restored-paris-art-deco-public-loo-worth-every-penny-of-2-charge)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 05:00:29+00:00
+
+<p>Lavatory de la Madeleine, opened in 1905, has been closed for 12 years but has been renovated to full belle époque glory</p><p>Paris authorities promise it will be worth every penny spent renovating France’s first ever public convenience.</p><p>The Lavatory de la Madeleine, a belle époque jewel that opened in 1905, will cost €2 (£1.80) to use when it reopens on Monday.</p> <a href="https://www.theguardian.com/world/2023/feb/18/restored-paris-art-deco-public-loo-worth-every-penny-of-2-charge">Continue reading...</a>
+
+## India v Australia: second Test, day two – live
+ - [https://www.theguardian.com/sport/live/2023/feb/18/india-vs-australia-live-updates-cricket-score-second-test-day-two-ind-v-aus-scorecard-international-latest-scores-delhi-arun-jaitley-stadium](https://www.theguardian.com/sport/live/2023/feb/18/india-vs-australia-live-updates-cricket-score-second-test-day-two-ind-v-aus-scorecard-international-latest-scores-delhi-arun-jaitley-stadium)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 04:15:31+00:00
+
+<ul><li>Updates from the second day of play at Arun Jaitley Stadium</li><li>David Warner ruled with concussion, replaced by Matt Renshaw</li><li>Any thoughts? <a href="mailto:jonathan.howcroft.casual@theguardian.com">Email</a> or tweet <a href="https://twitter.com/JPHowcroft">@JPHowcroft</a></li></ul><p>Speaking of the run rate in NZ, Ben Stokes has just hit consecutive sixes to become the most prolific six-hitter in Test history. Second on the list behind the England captain is England coach, Brendon McCullum.</p><p>Mark Waugh and Sanjay Manjrekar have taken a close look at the pitch and they reckon it already looks like a day three or four pitch; dry with plenty of scarring. The best time to bat was yesterday, so don’t expect the kind of run rate we’ve seen over in NZ.</p> <a href="https://www.theguardian.com/sport/live/2023/feb/18/india-vs-australia-live-updates-cricket-score-second-test-day-two-ind-v-aus-scorecard-international-latest-scores-delhi-arun-jaitley-stadium">Continue reading...</a>
+
+## Russia-Ukraine war at a glance: what we know on day 360 of the invasion
+ - [https://www.theguardian.com/world/2023/feb/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-360-of-the-invasion](https://www.theguardian.com/world/2023/feb/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-360-of-the-invasion)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-18 02:06:05+00:00
+
+<p>Volodymyr Zelenskiy urges west to speed up its support as world leaders gather at Munich security conference</p><ul><li><a href="https://www.theguardian.com/world/russia+ukraine">See all our Russia-Ukraine war coverage</a></li></ul> <a href="https://www.theguardian.com/world/2023/feb/18/russia-ukraine-war-at-a-glance-what-we-know-on-day-360-of-the-invasion">Continue reading...</a>
+
