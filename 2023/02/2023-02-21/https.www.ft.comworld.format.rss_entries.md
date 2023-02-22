@@ -1,0 +1,338 @@
+# Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
+
+## Anti-ESG fund manager Vivek Ramaswamy files for US presidential run
+ - [https://www.ft.com/content/7ae86320-67c2-4edf-a6f0-ff33070e0f3d](https://www.ft.com/content/7ae86320-67c2-4edf-a6f0-ff33070e0f3d)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 22:12:13+00:00
+
+Self-styled warrior against ‘woke’ corporations has become latest Republican to challenge Donald Trump
+
+## FirstFT: Russia will ‘never’ prevail, says Joe Biden
+ - [https://www.ft.com/content/c6e17a23-a9b4-458a-8f1f-fd8caaff3920](https://www.ft.com/content/c6e17a23-a9b4-458a-8f1f-fd8caaff3920)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 21:33:06+00:00
+
+Also in today’s newsletter, HSBC boosts dividend and Hong Kong to let retail investors trade crypto
+
+## Mexico’s former security chief convicted in US of helping cartel smuggle drugs
+ - [https://www.ft.com/content/b18e77cc-5bfb-49a6-997c-d04c88accd3c](https://www.ft.com/content/b18e77cc-5bfb-49a6-997c-d04c88accd3c)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 21:18:10+00:00
+
+Genaro García Luna helped El Chapo’s Sinaloa cartel become the ‘FedEx of cocaine’, prosecutors had alleged at trial
+
+## Judge allows Les Wexner subpoena by mail in Jeffrey Epstein lawsuit
+ - [https://www.ft.com/content/16f2cf37-711e-4eec-9afb-b16d0ee96cb1](https://www.ft.com/content/16f2cf37-711e-4eec-9afb-b16d0ee96cb1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 20:15:13+00:00
+
+US Virgin Islands says it has struggled to serve former Victoria’s Secret boss in case against JPMorgan
+
+## Sunak weighs 5% public sector pay offer to end waves of strikes
+ - [https://www.ft.com/content/b779fdd6-89b5-4005-a482-7cbb11db5af1](https://www.ft.com/content/b779fdd6-89b5-4005-a482-7cbb11db5af1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 20:07:22+00:00
+
+Treasury receives unexpected £30bn boost to public finances and foresees ‘low risk’ of settlement setting benchmark
+
+## Why are UK public finances in much better shape than expected?
+ - [https://www.ft.com/content/22e1f703-802b-44f9-a1ce-cc3ca3a51de9](https://www.ft.com/content/22e1f703-802b-44f9-a1ce-cc3ca3a51de9)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 19:47:01+00:00
+
+Jeremy Hunt has a £30bn windfall after higher tax revenues and lower subsidies for household energy bills
+
+## Official review of UK anti-strike law ‘not fit for purpose’, say experts
+ - [https://www.ft.com/content/02bcbb02-faa4-49b3-aabc-8e45b95613b1](https://www.ft.com/content/02bcbb02-faa4-49b3-aabc-8e45b95613b1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 19:04:08+00:00
+
+Independent body condemns government ‘impact assessment’ of new bill aimed at curbing public sector walkouts
+
+## Sunak wins backing of key Brexiters for Northern Ireland trade deal
+ - [https://www.ft.com/content/85d04e2d-edfa-4d3c-a39e-e34dd1bbc945](https://www.ft.com/content/85d04e2d-edfa-4d3c-a39e-e34dd1bbc945)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 18:39:37+00:00
+
+Heaton-Harris and Braverman behind outline agreement taking shape with Brussels
+
+## Carbon price: efficient market does its bit for the planet
+ - [https://www.ft.com/content/a19b8d5d-e554-4ad8-be0d-49944193e2c1](https://www.ft.com/content/a19b8d5d-e554-4ad8-be0d-49944193e2c1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 18:12:45+00:00
+
+Permit costs still need to rise over the next 20 years to force more CO₂ out of the system
+
+## Biden vows Russia will ‘never’ prevail in Ukraine
+ - [https://www.ft.com/content/af34c872-1bf0-43b8-92b7-513f9844d99a](https://www.ft.com/content/af34c872-1bf0-43b8-92b7-513f9844d99a)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 17:57:07+00:00
+
+US president blames Putin for war of choice in keynote address to mark first anniversary of Russia’s invasion
+
+## UK regulator says e-money groups need ‘significant shift in culture’
+ - [https://www.ft.com/content/08e36e55-11f1-4edf-abec-89f858a69db7](https://www.ft.com/content/08e36e55-11f1-4edf-abec-89f858a69db7)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 17:56:26+00:00
+
+FCA warns change is required to meet new duty of customer care that comes into force this year
+
+## Illiberal democracy comes to Israel
+ - [https://www.ft.com/content/3a882ba0-f53d-4c94-8a45-4cb2f37b7adc](https://www.ft.com/content/3a882ba0-f53d-4c94-8a45-4cb2f37b7adc)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 17:54:38+00:00
+
+The government’s proposed legal reforms look rather like a power grab
+
+## Nigeria presidential election 2023
+ - [https://www.ft.com/content/9c10c49d-3b15-40ba-998e-bc9037996892](https://www.ft.com/content/9c10c49d-3b15-40ba-998e-bc9037996892)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 17:41:33+00:00
+
+This collection features key stories on Nigeria’s upcoming election
+
+## Is an old sandwich shop the future of London’s art scene?
+ - [https://www.ft.com/content/6ef6d65b-e970-40f2-8354-8960c31b10b1](https://www.ft.com/content/6ef6d65b-e970-40f2-8354-8960c31b10b1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 17:00:58+00:00
+
+Freddie Powell’s tiny gallery is making shows for the next generation
+
+## Chancellor set to maintain personal tax rates despite windfall, experts predict
+ - [https://www.ft.com/content/2538184c-b704-45b6-8d46-a89c65c73832](https://www.ft.com/content/2538184c-b704-45b6-8d46-a89c65c73832)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 16:05:05+00:00
+
+Capital gains tax payments surge in the past year
+
+## Walmart issues cautious outlook with US consumers under pressure
+ - [https://www.ft.com/content/785dd1a2-099c-4299-9290-26bbce30ce57](https://www.ft.com/content/785dd1a2-099c-4299-9290-26bbce30ce57)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 15:14:49+00:00
+
+World’s biggest retailer reports solid fourth quarter but forecasts miss Wall Street estimates
+
+## UK salad shortages to last ‘for weeks’, retailers warn
+ - [https://www.ft.com/content/5787aac3-a2bd-4168-a37a-d9a9cb53872e](https://www.ft.com/content/5787aac3-a2bd-4168-a37a-d9a9cb53872e)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 15:08:55+00:00
+
+British Retail Consortium’s forecast comes as Asda begins rationing purchases of fruit and vegetables
+
+## Putin’s ultimate aim is to seal Russia off from the west
+ - [https://www.ft.com/content/c2e83ce6-5e47-4c31-8b48-0323274368c2](https://www.ft.com/content/c2e83ce6-5e47-4c31-8b48-0323274368c2)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 14:47:46+00:00
+
+The president’s state of the nation speech shows how domestic repression is closely tied to the Ukraine campaign
+
+## EU carbon price tops €100 a tonne for first time
+ - [https://www.ft.com/content/7a0dd553-fa5b-4a58-81d1-e500f8ce3d2a](https://www.ft.com/content/7a0dd553-fa5b-4a58-81d1-e500f8ce3d2a)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 13:51:09+00:00
+
+Record cost of polluting is landmark for one of EU’s key tools to cut emissions
+
+## British business enjoys surprise rebound after six-month decline
+ - [https://www.ft.com/content/72cd2b56-df35-41d3-84f1-db5ba5190caf](https://www.ft.com/content/72cd2b56-df35-41d3-84f1-db5ba5190caf)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 13:01:41+00:00
+
+Manufacturing and services activity recovers in closely watched purchasing managers’ survey
+
+## Israel finance minister fends off cabinet criticism over central bank
+ - [https://www.ft.com/content/a1663afc-8aaa-4d12-824c-7714a09207a3](https://www.ft.com/content/a1663afc-8aaa-4d12-824c-7714a09207a3)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 12:45:38+00:00
+
+Bezalel Smotrich says bank’s independence is ‘fundamental’ to economy’s development
+
+## Starmer should reject advice to be more daring
+ - [https://www.ft.com/content/e2a07b41-b6e1-4b3e-a146-491b9314741b](https://www.ft.com/content/e2a07b41-b6e1-4b3e-a146-491b9314741b)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 12:19:24+00:00
+
+The fall of Nicola Sturgeon shows the limits of political boldness
+
+## Forbes suffers setback in bid to become Scotland’s first minister
+ - [https://www.ft.com/content/d30bfc33-9fe7-4db2-8bbd-fd92e49ed3fd](https://www.ft.com/content/d30bfc33-9fe7-4db2-8bbd-fd92e49ed3fd)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 12:06:08+00:00
+
+Key backers of the finance secretary drop their support over her stance on same-sex marriage
+
+## Fortnum & Mason chief urges Sunak to agree Northern Ireland trade deal
+ - [https://www.ft.com/content/fece2576-e393-4512-b992-c03e4ffe2bbc](https://www.ft.com/content/fece2576-e393-4512-b992-c03e4ffe2bbc)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 11:52:13+00:00
+
+Tom Athron says UK food exports to EU ‘almost impossible’ without agreement
+
+## Eurozone business activity rebounds much faster than expected
+ - [https://www.ft.com/content/ef23bd51-e113-4ec7-ac01-8599902f8f66](https://www.ft.com/content/ef23bd51-e113-4ec7-ac01-8599902f8f66)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 10:42:56+00:00
+
+PMI score for services sector hits eight-month high, showing bloc’s resilience against energy crisis
+
+## Putin blames west for using Ukraine as ‘battering ram’ against Russia
+ - [https://www.ft.com/content/74a5d3f6-7e41-40e5-bc8e-ba22a93e2cf4](https://www.ft.com/content/74a5d3f6-7e41-40e5-bc8e-ba22a93e2cf4)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 10:32:05+00:00
+
+President’s address comes hours before Joe Biden is set to speak in Warsaw
+
+## There are more hedge funds than Burger Kings
+ - [https://www.ft.com/content/7ea73b61-d793-4569-9dc2-6132afe5af1c](https://www.ft.com/content/7ea73b61-d793-4569-9dc2-6132afe5af1c)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 10:11:31+00:00
+
+(A lot more)
+
+## Landmark internet cases go before the US Supreme Court
+ - [https://www.ft.com/content/248718f2-0f49-4339-9ed6-3eda0a2f536c](https://www.ft.com/content/248718f2-0f49-4339-9ed6-3eda0a2f536c)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 10:00:50+00:00
+
+Justices will weigh in for the first time on law that shields tech platforms from liability for content published on their sites
+
+## Kate Forbes’ stance on same-sex marriage hinders path to SNP victory
+ - [https://www.ft.com/content/83638a69-7840-4586-883d-da21a79280f4](https://www.ft.com/content/83638a69-7840-4586-883d-da21a79280f4)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 09:30:50+00:00
+
+Gender recognition reform bill has significantly affected internal culture of the SNP, exposing party divisions in public
+
+## China warns west against ‘adding fuel to fire’ in Ukraine war
+ - [https://www.ft.com/content/8316f280-aea1-486b-b547-89d4683a7307](https://www.ft.com/content/8316f280-aea1-486b-b547-89d4683a7307)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 09:08:48+00:00
+
+Beijing calls for peace talks ahead of Wang Yi visit to Moscow as it outlines its own rival security order
+
+## UK public sector posts unexpected surplus in January
+ - [https://www.ft.com/content/cfe31b5c-a3fb-43b1-8b61-87071855341b](https://www.ft.com/content/cfe31b5c-a3fb-43b1-8b61-87071855341b)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 07:50:38+00:00
+
+Borrowing reaches 98.9% of GDP, a level last seen in the early 1960s
+
+## Biden goes to Warsaw to reassure allies and warn Putin
+ - [https://www.ft.com/content/5733b53a-1296-412c-8f2d-444c5fee3892](https://www.ft.com/content/5733b53a-1296-412c-8f2d-444c5fee3892)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 06:00:51+00:00
+
+Also in today’s newsletter: should the EU have a centralised sanctions agency?
+
+## How long can Russia keep fighting the war in Ukraine?
+ - [https://ig.ft.com/russias-war-in-ukraine/](https://ig.ft.com/russias-war-in-ukraine/)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:16:09+00:00
+
+Putin’s war machine is under enormous pressure, but Russia has the resources to sustain its efforts in Ukraine for some time to come
+
+## A neglected tool of central banks shows its worth
+ - [https://www.ft.com/content/aa991a72-f91b-4eec-bad9-9571360d2a4e](https://www.ft.com/content/aa991a72-f91b-4eec-bad9-9571360d2a4e)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:00:07+00:00
+
+Money supply numbers have been sending important signals before and during the pandemic
+
+## British Business Bank aims to become ‘sovereign growth fund’
+ - [https://www.ft.com/content/e3827995-823c-49d4-82ca-87b8feb43371](https://www.ft.com/content/e3827995-823c-49d4-82ca-87b8feb43371)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:00:07+00:00
+
+New chief executive says state-owned investor’s remit should widen to keep more fast-growing start-ups in the UK
+
+## EU plans to finance weapons for Ukraine via its own budget
+ - [https://www.ft.com/content/430869d0-7281-44ff-90dd-9de8d1dd0edc](https://www.ft.com/content/430869d0-7281-44ff-90dd-9de8d1dd0edc)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:00:07+00:00
+
+Funding model would replicate commission’s Covid-19 vaccine purchase agreements
+
+## Pfizer pins hopes on record pipeline to recover from post-Covid hangover
+ - [https://www.ft.com/content/ba2cba41-0a13-4251-bbd7-2abeff90433f](https://www.ft.com/content/ba2cba41-0a13-4251-bbd7-2abeff90433f)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:00:07+00:00
+
+Pharma group is launching 19 drugs over the next 18 months to counteract a sharp fall in sales from pandemic highs
+
+## The World Bank prepares for a new, greener mission
+ - [https://www.ft.com/content/5945ac4d-a0a9-434f-8b79-68875849b7df](https://www.ft.com/content/5945ac4d-a0a9-434f-8b79-68875849b7df)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:00:07+00:00
+
+Shareholders say the resignation of David Malpass will push the multilateral development bank to put climate at its centre
+
+## Wagner leader generated $250mn from sanctioned empire
+ - [https://www.ft.com/content/98e478b5-c0d4-48a3-bcf7-e334a4ea0aca](https://www.ft.com/content/98e478b5-c0d4-48a3-bcf7-e334a4ea0aca)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 05:00:07+00:00
+
+Yevgeny Prigozhin’s natural resources interests outside Russia barely hit by years of western sanctions
+
+## UK power groups do not elicit sympathy but we do need to work out how to pay
+ - [https://www.ft.com/content/ff3f911e-8bc4-4a16-8031-b0e99aac28df](https://www.ft.com/content/ff3f911e-8bc4-4a16-8031-b0e99aac28df)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 04:00:06+00:00
+
+Prices are already high and the move to cleaner energy requires billions in investment
+
+## BHP takes $1bn hit from inflation but optimistic on China and India growth
+ - [https://www.ft.com/content/4e086aac-82ce-4052-bf7d-cb947ca3cfda](https://www.ft.com/content/4e086aac-82ce-4052-bf7d-cb947ca3cfda)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 02:52:20+00:00
+
+Mining group chief says Asian markets are ‘counterweights’ to slowdown in US and Europe
+
+## Live news: Crude oil prices rise as markets focus on China reopening
+ - [https://www.ft.com/content/926cd95c-0ca4-4e88-9638-eed20ac1ef24](https://www.ft.com/content/926cd95c-0ca4-4e88-9638-eed20ac1ef24)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 01:08:05+00:00
+
+
+
+## Singapore’s soaring rents undermine bid to oust Hong Kong as Asia’s finance hub
+ - [https://www.ft.com/content/ec0f0ddf-d6b0-40b4-80f9-8287df941db2](https://www.ft.com/content/ec0f0ddf-d6b0-40b4-80f9-8287df941db2)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 00:30:06+00:00
+
+Rising living costs damage city-state’s ambition to lure regional businesses
+
+## UK urged to curb pension freedoms to boost workforce
+ - [https://www.ft.com/content/684f88cd-a7ab-4325-a26f-88aead79d2f3](https://www.ft.com/content/684f88cd-a7ab-4325-a26f-88aead79d2f3)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 00:01:41+00:00
+
+Resolution Foundation seeks rethink on ‘regressive’ tax breaks helping top earners to retire early
+
+## Most companies in UK four-day week trial to continue with flexible working
+ - [https://www.ft.com/content/c8fba26c-326d-4053-9b3c-59e06f0b31fb](https://www.ft.com/content/c8fba26c-326d-4053-9b3c-59e06f0b31fb)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 00:01:38+00:00
+
+Organisers found that revenue rose and staff departures fell at participating businesses
+
+## China no longer viable as world’s factory, says Kyocera
+ - [https://www.ft.com/content/e21b6f97-3bbb-4223-9916-9f4ac5024953](https://www.ft.com/content/e21b6f97-3bbb-4223-9916-9f4ac5024953)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 00:01:07+00:00
+
+Japanese component maker is investing at home with first new plant in nearly two decades
+
+## Investment scam reports rise by 193% cent in five years
+ - [https://www.ft.com/content/c02a6d68-c58a-4b98-9294-bd2f382d5b40](https://www.ft.com/content/c02a6d68-c58a-4b98-9294-bd2f382d5b40)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 00:01:07+00:00
+
+Financial watchdog notes growth of crypto fraud
+
+## Five of Hong Kong’s best sustainable restaurants
+ - [https://www.ft.com/content/d9550d1e-e18c-4629-bd48-91a7c30dd6fd](https://www.ft.com/content/d9550d1e-e18c-4629-bd48-91a7c30dd6fd)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-21 00:00:07+00:00
+
+HK might not be at the forefront of environmental friendliness, but some of its leading chefs are seeking to redress that — to delicious effect
+

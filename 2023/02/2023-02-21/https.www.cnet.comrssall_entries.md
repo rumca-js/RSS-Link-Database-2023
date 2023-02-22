@@ -1,0 +1,506 @@
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## The Supreme Court Hears Case That Could Reshape Online Speech     - CNET
+ - [https://www.cnet.com/news/politics/the-supreme-court-hears-case-that-could-reshape-online-speech/#ftag=CADf328eec](https://www.cnet.com/news/politics/the-supreme-court-hears-case-that-could-reshape-online-speech/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 22:41:00+00:00
+
+The highest court in the US heard oral arguments on Tuesday about a case involving Google that could impact a decades-old law protecting free speech online.
+
+## One of the Best Games of 2022 Comes to PS Plus     - CNET
+ - [https://www.cnet.com/tech/gaming/one-of-the-best-games-of-2022-comes-to-ps-plus/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/one-of-the-best-games-of-2022-comes-to-ps-plus/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 22:02:00+00:00
+
+This month is full of great games for subscribers.
+
+## 7 Fool-Proof Ways to Make Friends as an Adult     - CNET
+ - [https://www.cnet.com/health/mental/7-fool-proof-ways-to-make-friends-as-an-adult/#ftag=CADf328eec](https://www.cnet.com/health/mental/7-fool-proof-ways-to-make-friends-as-an-adult/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 22:00:12+00:00
+
+It's not just you -- making friends as a grown-up is tough for everyone.
+
+## Stop Flossing After Brushing Your Teeth. Here's Why You Should Floss Before     - CNET
+ - [https://www.cnet.com/health/personal-care/floss-before-or-after-brushing-teeth/#ftag=CADf328eec](https://www.cnet.com/health/personal-care/floss-before-or-after-brushing-teeth/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 22:00:08+00:00
+
+Here's when you should floss your teeth and why it makes a difference.
+
+## More People Should Watch One of the Best Sci-Fi Movies of 2022     - CNET
+ - [https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-best-sci-fi-movies-of-2022/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-best-sci-fi-movies-of-2022/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 21:47:24+00:00
+
+Biopunk fairy tale Vesper took years to make, so we should probably give it a watch.
+
+## Watch Venus and Jupiter Close In on a Glorious Conjunction     - CNET
+ - [https://www.cnet.com/science/space/watch-venus-and-jupiter-close-in-on-a-glorious-conjunction/#ftag=CADf328eec](https://www.cnet.com/science/space/watch-venus-and-jupiter-close-in-on-a-glorious-conjunction/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 21:18:00+00:00
+
+The two planets will be closest on March 1, but you can follow along as they journey toward each other.
+
+## This Device Tells You When You Need to Stop Belting Taylor Swift Songs     - CNET
+ - [https://www.cnet.com/science/biology/this-device-tells-you-when-you-need-to-stop-belting-taylor-swift-songs/#ftag=CADf328eec](https://www.cnet.com/science/biology/this-device-tells-you-when-you-need-to-stop-belting-taylor-swift-songs/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 21:00:00+00:00
+
+A prototype wearable aims to help save your vocal cords from overuse.
+
+## Microsoft, Nvidia Ink Deal as EU Officials Examine Activision Purchase     - CNET
+ - [https://www.cnet.com/tech/gaming/microsoft-nvidia-ink-deal-as-eu-officials-examine-activision-purchase/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/microsoft-nvidia-ink-deal-as-eu-officials-examine-activision-purchase/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 20:51:00+00:00
+
+GeForce Now subscribers will get more games to play wherever they go.
+
+## More People Should Watch This Vibey Sci-Fi Gem Starring Pedro Pascal     - CNET
+ - [https://www.cnet.com/culture/entertainment/more-people-should-watch-this-vibey-sci-fi-gem-starring-pedro-pascal/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-vibey-sci-fi-gem-starring-pedro-pascal/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 20:46:00+00:00
+
+Watch 2018's Prospect for the story, of course, but also for the impeccable aesthetic.
+
+## Meta Quest's New Hand-Tracking Update Adds Button Tapping, Maybe Better Typing     - CNET
+ - [https://www.cnet.com/tech/computing/meta-quests-new-hand-tracking-update-adds-button-tapping-and-maybe-better-typing/#ftag=CADf328eec](https://www.cnet.com/tech/computing/meta-quests-new-hand-tracking-update-adds-button-tapping-and-maybe-better-typing/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 20:35:00+00:00
+
+Added multitasking and an experimental "Direct Touch" hand-tracking update look like improvements on the way to this fall's Quest 3.
+
+## The 6 Most Common Types of Eating Disorders and What to Do     - CNET
+ - [https://www.cnet.com/health/nutrition/the-6-most-common-types-of-eating-disorders-and-what-to-do/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/the-6-most-common-types-of-eating-disorders-and-what-to-do/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 20:00:12+00:00
+
+Disordered eating can look different from person to person, but here's what to look for and how to get help.
+
+## Own a Home? Here's All the Money You Can Get Back on Your Taxes     - CNET
+ - [https://www.cnet.com/personal-finance/taxes/own-a-home-heres-all-the-money-you-can-get-back-on-your-taxes/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/own-a-home-heres-all-the-money-you-can-get-back-on-your-taxes/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 19:52:02+00:00
+
+Homeowners face endless costs and maintenance. Learn how to get some of that money back in your tax refund.
+
+## Best Robo-Advisors for Investing     - CNET
+ - [https://www.cnet.com/personal-finance/investing/best-robo-advisor/#ftag=CADf328eec](https://www.cnet.com/personal-finance/investing/best-robo-advisor/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 19:28:45+00:00
+
+Free up your time and invest in the future by letting robo-advisors invest for you.
+
+## Got Benefits Questions? Here's How to Contact the Social Security Administration     - CNET
+ - [https://www.cnet.com/personal-finance/got-benefits-questions-heres-how-to-contact-the-social-security-administration/#ftag=CADf328eec](https://www.cnet.com/personal-finance/got-benefits-questions-heres-how-to-contact-the-social-security-administration/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 19:15:02+00:00
+
+Forgo the Google search and speak with a Social Security Administration representative when you have a difficult question.
+
+## Teen Mental Health Is Worse Than Ever. How to Help Your Child     - CNET
+ - [https://www.cnet.com/health/parenting/teen-mental-health-is-dropping-how-to-help-your-child/#ftag=CADf328eec](https://www.cnet.com/health/parenting/teen-mental-health-is-dropping-how-to-help-your-child/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 19:00:07+00:00
+
+More teen girls have poor mental health than ever before.
+
+## 7 Factors That Determine Your Heart Age     - CNET
+ - [https://www.cnet.com/health/medical/7-things-that-determine-your-heart-age/#ftag=CADf328eec](https://www.cnet.com/health/medical/7-things-that-determine-your-heart-age/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 19:00:02+00:00
+
+Your heart age may not correlate to your actual age. These things determine your heart's age.
+
+## Microsoft Will Brings Xbox PC Games to Nvidia's GeForce Now     - CNET
+ - [https://www.cnet.com/tech/gaming/microsoft-will-brings-xbox-pc-games-to-nvidias-geforce-now/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/microsoft-will-brings-xbox-pc-games-to-nvidias-geforce-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:45:59+00:00
+
+Subscribers to Nvidia's service will get more games to play wherever they go.
+
+## Microsoft to Bring Xbox PC Games to Nvidia's GeForce Now     - CNET
+ - [https://www.cnet.com/tech/gaming/microsoft-to-bring-xbox-pc-games-to-nvidias-geforce-now/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/microsoft-to-bring-xbox-pc-games-to-nvidias-geforce-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:45:00+00:00
+
+Subscribers to Nvidia's service will get more games to play wherever they go.
+
+## TikTok Opens Its Data To More Researchers As Part of Transparency Push     - CNET
+ - [https://www.cnet.com/tech/services-and-software/tiktok-opens-its-data-to-more-researchers-as-part-of-transparency-push/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/tiktok-opens-its-data-to-more-researchers-as-part-of-transparency-push/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:42:47+00:00
+
+The social media app will now share data with researchers at nonprofit academic institutions in the US.
+
+## NASA Images Confirm China's Mars Rover Hasn't Moved in Months     - CNET
+ - [https://www.cnet.com/science/space/nasa-images-confirm-chinas-mars-rover-hasnt-moved-in-months/#ftag=CADf328eec](https://www.cnet.com/science/space/nasa-images-confirm-chinas-mars-rover-hasnt-moved-in-months/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:38:00+00:00
+
+China's famously secretive space agency is quiet on the health of the rover.
+
+## Finished 'Wednesday'? Watch These Addams Family Movies and TV Shows     - CNET
+ - [https://www.cnet.com/culture/entertainment/finished-wednesday-watch-these-addams-family-movies-and-tv-shows/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/finished-wednesday-watch-these-addams-family-movies-and-tv-shows/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:24:00+00:00
+
+Season 2 of the Netflix hit is on its way. Take in more of the ghoulish clan while you wait.
+
+## Costco Hack: Buy Alcohol and Prescription Medications Without a Membership     - CNET
+ - [https://www.cnet.com/culture/costco-hack-buy-alcohol-and-prescription-medications-without-a-membership/#ftag=CADf328eec](https://www.cnet.com/culture/costco-hack-buy-alcohol-and-prescription-medications-without-a-membership/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:15:02+00:00
+
+Your guide to shopping at Costco without paying for a membership.
+
+## Liverpool vs. Real Madrid Livestream: How to Watch Champions League Soccer From Anywhere     - CNET
+ - [https://www.cnet.com/tech/services-and-software/liverpool-vs-real-madrid-livestream-how-to-watch-champions-league-soccer-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/liverpool-vs-real-madrid-livestream-how-to-watch-champions-league-soccer-from-anywhere/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 18:00:15+00:00
+
+The reigning European champions head to Anfield to face a Liverpool side that finally appears to be finding some form.
+
+## 'Star Wars: The Bad Batch' Season 2 Schedule: When Does Episode 10 Hit Disney Plus?     - CNET
+ - [https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-schedule-when-does-episode-10-hit-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-schedule-when-does-episode-10-hit-disney-plus/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:59:00+00:00
+
+The clone-centric Star Wars show is rolling out on Disney's streaming service each week through March. Episode 10 arrives this week.
+
+## PlayStation's State of Play Livestream Will Showcase Suicide Squad     - CNET
+ - [https://www.cnet.com/tech/gaming/playstations-state-of-play-livestream-will-showcase-suicide-squad/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/playstations-state-of-play-livestream-will-showcase-suicide-squad/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:52:10+00:00
+
+The DC antihero game will be among the 2023 third-party games shown. We'll also see some upcoming PlayStation VR2 games.
+
+## This Is the Only Way You Should Turn On Your iPhone Flashlight     - CNET
+ - [https://www.cnet.com/tech/mobile/this-is-the-only-way-you-should-turn-on-your-iphone-flashlight/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/this-is-the-only-way-you-should-turn-on-your-iphone-flashlight/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:15:02+00:00
+
+All it takes is a couple taps.
+
+## 'Get Out' Studio Is Getting Into Video Games     - CNET
+ - [https://www.cnet.com/tech/gaming/get-out-studio-is-getting-into-video-games/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/get-out-studio-is-getting-into-video-games/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:13:00+00:00
+
+Blumhouse will produce games with indie budgets.
+
+## How Netflix Can Cool the Fallout Over its Password-Sharing Policy     - CNET
+ - [https://www.cnet.com/tech/services-and-software/how-netflix-can-cool-fallout-over-password-sharing-policy/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/how-netflix-can-cool-fallout-over-password-sharing-policy/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:11:00+00:00
+
+Commentary: Netflix faces criticism for charging extra fees, but the streamer may be able to restore chill with this solution.
+
+## 'The Last of Us' Release Schedule: When Will Episode 7 Drop on HBO Max?     - CNET
+ - [https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-7-drop-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-will-episode-7-drop-on-hbo-max/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:00:07+00:00
+
+New episodes of The Last of Us hit the streaming service each weekend.
+
+## 10 Everyday Activities That Count as a Workout     - CNET
+ - [https://www.cnet.com/health/fitness/10-everyday-activities-that-count-as-a-workout/#ftag=CADf328eec](https://www.cnet.com/health/fitness/10-everyday-activities-that-count-as-a-workout/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:00:02+00:00
+
+Exercise doesn't always require gym clothes. Some regular tasks and errands count as exercise too.
+
+## Microsoft Limits Bing's AI Chatbot After Unsettling Interactions     - CNET
+ - [https://www.cnet.com/tech/computing/microsoft-limits-bings-ai-chatbot-after-unsettling-interactions/#ftag=CADf328eec](https://www.cnet.com/tech/computing/microsoft-limits-bings-ai-chatbot-after-unsettling-interactions/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:00:00+00:00
+
+After reports of the chatbot going off the rails, Microsoft has limited its approved topics and number of responses.
+
+## Ozempic, Wegovy and the Evolving Weight-Loss Drug Market     - CNET
+ - [https://www.cnet.com/health/medical/ozempic-wegovy-and-the-evolving-weight-loss-drug-market/#ftag=CADf328eec](https://www.cnet.com/health/medical/ozempic-wegovy-and-the-evolving-weight-loss-drug-market/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 17:00:00+00:00
+
+What started out as a diabetes drug has morphed into a new wave of weight-loss medications. Here's what we know.
+
+## Save Up to 30% on Dremel Rotary Tools and Accessories     - CNET
+ - [https://www.cnet.com/deals/save-up-to-30-on-dremel-rotary-tools-and-accessories/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-30-on-dremel-rotary-tools-and-accessories/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 16:51:00+00:00
+
+Stock up on everything you need to grind, buff, sand, engrave and more.
+
+## Beats Fit Pro Earbuds Get Three New Colors     - CNET
+ - [https://www.cnet.com/tech/mobile/beats-fit-pro-earbuds-get-three-new-color-options/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/beats-fit-pro-earbuds-get-three-new-color-options/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 16:42:00+00:00
+
+The popular Apple earbuds, a sportier version of the AirPods Pro, now come in volt yellow, coral pink and tidal blue.
+
+## Samsung's Jet 75 Stick Vacuum Is Down to $249 Right Now     - CNET
+ - [https://www.cnet.com/deals/samsungs-jet-75-stick-vacuum-is-down-to-249-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/samsungs-jet-75-stick-vacuum-is-down-to-249-right-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 15:50:36+00:00
+
+Save $150 and upgrade to this maneuverable, lightweight vacuum cleaner that tackles dust and dirt just about anywhere.
+
+## iPhone Tip: How to Fix Videos Recorded in the Wrong Orientation     - CNET
+ - [https://www.cnet.com/tech/mobile/iphone-tip-how-to-fix-videos-recorded-in-the-wrong-orientation/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/iphone-tip-how-to-fix-videos-recorded-in-the-wrong-orientation/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 15:49:00+00:00
+
+Any great video can lose impact if it's been shot in the wrong orientation. Thankfully there's an easy for that directly on your iPhone.
+
+## The Tab S8 Is One of Our Favorite Tablets of 2023 and It's $100 Off Right Now     - CNET
+ - [https://www.cnet.com/deals/the-tab-s8-is-one-of-our-favorite-tablets-of-2023-and-its-100-off-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/the-tab-s8-is-one-of-our-favorite-tablets-of-2023-and-its-100-off-right-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 15:43:00+00:00
+
+Snag one of these sleek Samsung Galaxy tablets for less, with prices starting at $599 at Amazon.
+
+## A Chef Reveals: 9 Cooking Hacks That Actually Work     - CNET
+ - [https://www.cnet.com/how-to/a-chef-reveals-9-cooking-hacks-that-actually-work/#ftag=CADf328eec](https://www.cnet.com/how-to/a-chef-reveals-9-cooking-hacks-that-actually-work/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 15:14:00+00:00
+
+Forget those fake viral tricks. Use these cooking tips to save time in the kitchen and make your life easier.
+
+## The Supreme Court Could Radically Reshape Online Speech     - CNET
+ - [https://www.cnet.com/news/politics/the-supreme-court-could-radically-reshape-online-speech/#ftag=CADf328eec](https://www.cnet.com/news/politics/the-supreme-court-could-radically-reshape-online-speech/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 15:01:24+00:00
+
+The highest court in the US is reviewing two pivotal cases against Google and Twitter that could impact a decades-old law protecting free speech online.
+
+## American Express: 2023 Banking Review     - CNET
+ - [https://www.cnet.com/personal-finance/banking/american-express-banking-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/american-express-banking-review/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 15:00:02+00:00
+
+American Express, known for credit cards, operates a bank with competitive deposit account yields.
+
+## Bacteria Risk Prompts Recall of 145,000 Cans of Baby Formula     - CNET
+ - [https://www.cnet.com/health/parenting/bacteria-risk-prompts-recall-of-145000-cans-of-baby-formula/#ftag=CADf328eec](https://www.cnet.com/health/parenting/bacteria-risk-prompts-recall-of-145000-cans-of-baby-formula/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:54:12+00:00
+
+The voluntary recall of an Enfamil ProSobee formula is over the same bacteria that played a role in the 2022 baby formula shortage.
+
+## Pokemon Presents Coming on Series' Anniversary     - CNET
+ - [https://www.cnet.com/tech/gaming/pokemon-presents-coming-on-series-anniversary/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/pokemon-presents-coming-on-series-anniversary/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:34:20+00:00
+
+We'll get 20 minutes of news as the game series turns 27.
+
+## Save $600 On Acer's Powerful Triton 300 SE Gaming Laptop Today Only     - CNET
+ - [https://www.cnet.com/deals/save-600-on-acers-powerful-triton-300-se-gaming-laptop-today-only/#ftag=CADf328eec](https://www.cnet.com/deals/save-600-on-acers-powerful-triton-300-se-gaming-laptop-today-only/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:14:00+00:00
+
+You can pick up this advanced 14-inch gaming laptop on sale for $1,000 with this one-day deal from Best Buy.
+
+## How to Calculate Taxes Owed on Side Hustles, Freelance Work and Gig Income     - CNET
+ - [https://www.cnet.com/personal-finance/taxes/self-employment-taxes/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/self-employment-taxes/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:00:06+00:00
+
+Knowing how much to put aside throughout the year can help you avoid an unexpected tax bill.
+
+## Mortgage Rates on Feb. 21, 2023: Rates Go Up     - CNET
+ - [https://www.cnet.com/personal-finance/mortgages/mortgage-rates-on-feb-21-2023-rates-go-up/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-on-feb-21-2023-rates-go-up/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:00:00+00:00
+
+This week, a few major mortgage rates inched up. As interest rates surge, it's getting more expensive to buy a house.
+
+## Refinance Rates for Feb. 21, 2023: Rates Advance     - CNET
+ - [https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-feb-21-2023-rates-advance/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-feb-21-2023-rates-advance/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:00:00+00:00
+
+Several important refinance rates moved higher this week. The Fed's interest rate hikes have affected the refinance market.
+
+## Samsung Neo QLED TVs Now Available for Preorder in 4K, 8K Resolution     - CNET
+ - [https://www.cnet.com/tech/home-entertainment/samsung-neo-qled-tvs-now-available-for-preorder-in-4k-8k-resolution/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/samsung-neo-qled-tvs-now-available-for-preorder-in-4k-8k-resolution/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 14:00:00+00:00
+
+Samsung's 2023 Neo QLED TVs come in five different series and seven different sizes, and start at $1,200.
+
+## Discounted Samsung Q60B Series QLED 4K TVs Start at Just $428     - CNET
+ - [https://www.cnet.com/deals/discounted-samsung-q60b-series-qled-4k-tvs-start-at-just-428/#ftag=CADf328eec](https://www.cnet.com/deals/discounted-samsung-q60b-series-qled-4k-tvs-start-at-just-428/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:59:00+00:00
+
+Right now you can save up to $200 when you revamp your entertainment space with a TV that offers 4K resolution, voice assistance and more.
+
+## 12 Everyday Foods You Likely Have at Home That Have Health Benefits     - CNET
+ - [https://www.cnet.com/health/nutrition/12-everyday-foods-that-have-health-benefits/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/12-everyday-foods-that-have-health-benefits/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:55:08+00:00
+
+Your pantry and fridge most likely already have a few of these staples.
+
+## This iPhone Feature Hides Advertisements in Safari     - CNET
+ - [https://www.cnet.com/tech/mobile/this-iphone-feature-hides-advertisements-in-safari/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/this-iphone-feature-hides-advertisements-in-safari/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:45:02+00:00
+
+This underused iOS setting can help get rid of distractions while you surf the web.
+
+## American Express EveryDay Card: An Introductory Travel Rewards Credit Card     - CNET
+ - [https://www.cnet.com/personal-finance/credit-cards/american-express-everyday-card-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/american-express-everyday-card-review/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:30:02+00:00
+
+This simple, no-annual-fee card can help you earn points toward flights on all purchases at US grocery stores.
+
+## Wild Hearts Seems All Too Familiar     - CNET
+ - [https://www.cnet.com/tech/gaming/wild-hearts-seems-all-too-familiar/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/wild-hearts-seems-all-too-familiar/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:00:19+00:00
+
+Commentary: Sure, it's fun to smash monsters with ridiculous weapons, but not when it feels like you've done it before.
+
+## Movement Snacks: Why Taking Breaks to Flail About Is Good for Your Health     - CNET
+ - [https://www.cnet.com/health/fitness/movement-snacks-why-taking-breaks-to-flail-about-is-good-for-your-health/#ftag=CADf328eec](https://www.cnet.com/health/fitness/movement-snacks-why-taking-breaks-to-flail-about-is-good-for-your-health/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:00:15+00:00
+
+Short exercise breaks are a research-backed way to improve your mood and boost your health with minimal effort.
+
+## Wilfa Uniform Grinder Review: Sleek and Capable     - CNET
+ - [https://www.cnet.com/news/wilfa-uniform-grinder-review-sleek-and-capable/#ftag=CADf328eec](https://www.cnet.com/news/wilfa-uniform-grinder-review-sleek-and-capable/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:00:11+00:00
+
+Its misses are near ones and it lives up to its name in giving a uniform grind.
+
+## Samsung's Galaxy Z Fold 5 Needs These 5 Improvements     - CNET
+ - [https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-5-needs-these-5-improvements/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-5-needs-these-5-improvements/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:00:03+00:00
+
+Commentary: More software features that make use of its foldable design, an embedded S Pen and a thinner build are at the top of my list.
+
+## Microsoft Downgrades Bing's AI After It Unsettles Users video     - CNET
+ - [https://www.cnet.com/videos/microsoft-downgrades-bings-ai-after-it-unsettles-users/#ftag=CADf328eec](https://www.cnet.com/videos/microsoft-downgrades-bings-ai-after-it-unsettles-users/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 13:00:01+00:00
+
+After reports of the chatbot going off the rails and leaving users unsettled, Microsoft has limited the approved topics and number of responses.
+
+## Instead of SMS 2FA, Use Your iPhone's Built-In Two-Factor Authentication     - CNET
+ - [https://www.cnet.com/tech/mobile/instead-of-sms-2fa-use-your-iphones-built-in-two-factor-authentication/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/instead-of-sms-2fa-use-your-iphones-built-in-two-factor-authentication/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 12:45:02+00:00
+
+Text message two-factor authentication isn't as secure as this alternative.
+
+## How to Store and Preserve Fresh Herbs     - CNET
+ - [https://www.cnet.com/how-to/how-to-store-and-preserve-fresh-herbs/#ftag=CADf328eec](https://www.cnet.com/how-to/how-to-store-and-preserve-fresh-herbs/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 12:35:02+00:00
+
+These methods for extending the life of herbs, both woody and tender, are simple and effective.
+
+## Chromebooks Have an Expiration Date. Here's How to Check Yours     - CNET
+ - [https://www.cnet.com/tech/computing/how-to-check-chromebook-auto-update-expiration-date-aue/#ftag=CADf328eec](https://www.cnet.com/tech/computing/how-to-check-chromebook-auto-update-expiration-date-aue/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 12:00:07+00:00
+
+The Auto Update Expiration date is when security and feature updates will end for a Chromebook. It's easy to find yours or check it even before you buy.
+
+## 10 Foods You Should Never Ever Cook in Your Instant Pot     - CNET
+ - [https://www.cnet.com/how-to/10-foods-you-should-never-ever-cook-in-your-instant-pot/#ftag=CADf328eec](https://www.cnet.com/how-to/10-foods-you-should-never-ever-cook-in-your-instant-pot/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 12:00:03+00:00
+
+Your Instant Pot can do a lot, but adding any of these foods could ruin your meal.
+
+## Apple's Latest iPad Air Is Close to $100 Off at Amazon Right Now     - CNET
+ - [https://www.cnet.com/deals/apples-latest-ipad-air-is-close-to-100-off-at-amazon-right-now/#ftag=CADf328eec](https://www.cnet.com/deals/apples-latest-ipad-air-is-close-to-100-off-at-amazon-right-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 11:22:00+00:00
+
+Looking for an iPad Pro alternative that won't break the bank? The iPad Air could be for you.
+
+## Wordle Today 612: Clues and Answer for February 21     - CNET
+ - [https://www.cnet.com/culture/wordle-612-clues-and-answer-for-february-21/#ftag=CADf328eec](https://www.cnet.com/culture/wordle-612-clues-and-answer-for-february-21/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 11:03:00+00:00
+
+Need help with Wordle? You've come to the right place.
+
+## The Convenient AeroPress Handheld Coffee Maker Is Back Down to Just $30     - CNET
+ - [https://www.cnet.com/deals/aeropress-coffee-maker-back-down-to-30/#ftag=CADf328eec](https://www.cnet.com/deals/aeropress-coffee-maker-back-down-to-30/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 10:47:25+00:00
+
+It can make a delicious cup of coffee in one minute, and right now you can pick it up with a $15 discount.
+
+## All-Time Low Peloton Bike Pricing Returns Today Only With This $395 Discount     - CNET
+ - [https://www.cnet.com/deals/all-time-low-peloton-bike-pricing-returns-395-off/#ftag=CADf328eec](https://www.cnet.com/deals/all-time-low-peloton-bike-pricing-returns-395-off/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 10:41:01+00:00
+
+Get the Peloton Bike delivered to your home for just $1,050 -- its best price ever.
+
+## National Margarita Day Is Tomorrow: Drink Up These Specials and Deals     - CNET
+ - [https://www.cnet.com/personal-finance/national-margarita-day-is-tomorrow-drink-up-these-special-and-deals/#ftag=CADf328eec](https://www.cnet.com/personal-finance/national-margarita-day-is-tomorrow-drink-up-these-special-and-deals/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 10:15:02+00:00
+
+Indulge in salt-rimmed, sour, sweet or spicy perfection on National Margarita Day.
+
+## How Duolingo Brought the Worst Out in Me     - CNET
+ - [https://www.cnet.com/culture/internet/how-duolingo-brought-the-worst-out-in-me/#ftag=CADf328eec](https://www.cnet.com/culture/internet/how-duolingo-brought-the-worst-out-in-me/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 03:38:00+00:00
+
+Commentary: I'm still not sure if it actually helped me learn Spanish or not...
+
+## Everything You Can Find at Super Nintendo World in Universal Studios     - CNET
+ - [https://www.cnet.com/culture/entertainment/everything-you-can-find-at-super-nintendo-world-in-universal-studios/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/everything-you-can-find-at-super-nintendo-world-in-universal-studios/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 01:10:30+00:00
+
+We went to Super Nintendo World looking to try everything and find all the Easer eggs. Here's how it went.
+
+## Newly Detected Auroras on Jupiter's Moons Put on Stunning Show     - CNET
+ - [https://www.cnet.com/science/space/newly-detected-auroras-on-jupiters-biggest-moons-put-on-stunning-show/#ftag=CADf328eec](https://www.cnet.com/science/space/newly-detected-auroras-on-jupiters-biggest-moons-put-on-stunning-show/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 00:26:00+00:00
+
+Four of the largest known satellites in our solar system appear to put on fantastic atmospheric displays.
+
+## This Might Be the Oldest Roman Sex Toy Ever Found     - CNET
+ - [https://www.cnet.com/science/this-might-be-the-oldest-roman-sex-toy-ever-found/#ftag=CADf328eec](https://www.cnet.com/science/this-might-be-the-oldest-roman-sex-toy-ever-found/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 00:14:00+00:00
+
+Researchers have some good guesses for how the 2,000-year-old wooden phallus was used.
+
+## Are We Ready for a World Without Google Search?     - CNET
+ - [https://www.cnet.com/science/features/are-we-ready-for-a-world-without-google-search/#ftag=CADf328eec](https://www.cnet.com/science/features/are-we-ready-for-a-world-without-google-search/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 00:09:00+00:00
+
+What will we lose in the process?
+
+## You Absolutely Need to Watch the Most Bingeable Show on Netflix     - CNET
+ - [https://www.cnet.com/culture/entertainment/you-absolutely-need-to-watch-the-most-bingeable-show-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/you-absolutely-need-to-watch-the-most-bingeable-show-on-netflix/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 00:03:00+00:00
+
+I rattled through the first season in one night.
+
+## 'The Last of Us' Episode 6 Recap: An Awkward Family Reunion     - CNET
+ - [https://www.cnet.com/culture/entertainment/the-last-of-us-episode-6-recap-an-awkward-family-reunion/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-last-of-us-episode-6-recap-an-awkward-family-reunion/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-02-21 00:00:02+00:00
+
+Joel and Tommy explore their traumatic past as they figure out who's gonna bring Ellie the rest of the way.
+
