@@ -1,0 +1,39 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## As four-day workweek trial ends, most companies stick with the change
+ - [https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#tk.rss_all](https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-22 21:51:00+00:00
+
+<article>
+	<section class="page">
+<p>The world’s largest trial of a four-day week ended this week — and 92% of the companies that participated plan to continue with the truncated work schedule because the benefits were so clear.</p><p>The study of 61 UK-based companies and about 3,000 employees <a href="https://www.4dayweek.com/uk-pilot-results" rel="nofollow noopener" target="_blank">delivered results</a> that are largely consistent with <a href="https://www.computerworld.com/article/3654208/four-day-workweeks-popularity-grew-during-the-pandemic-survey.html">existing evidence from other studies</a>, “further demonstrating the benefits of reduced-hour, output-focused working,” the study concluded.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688948/as-four-day-workweek-trial-ends-most-companies-stick-with-the-change.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Apple-in-business use accelerates, but device management still an issue
+ - [https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#tk.rss_all](https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-22 17:08:00+00:00
+
+<article>
+	<section class="page">
+<p>Although 65% of managed service providers (MSPs) expect their business customers to increase the use of Macs over the next 12 months, many companies may not be managing their devices well, according to<a href="https://addigy.com/event/webinar-february-22-12-pm-est/" rel="nofollow noopener" target="_blank"> new survey data from Addigy</a>.</p><p>Apple is the only vendor to see market share growth in both PC and mobile devices during the past year, which has translated into <a href="https://www.computerworld.com/article/3687228/apples-growth-story-is-consistent-and-sustained.html">growing Mac market share even as the overall PC market declines</a>.</p><h2><strong>Yet more proof of Apple’s growth in enterprise IT</strong></h2>
+<p>Moving out of the current slump, Apple’s advantage is that next-generation employees <a href="https://www.computerworld.com/article/3686060/ciscos-mac-choice-scheme-confirms-apples-future-in-enterprise-tech.html">already prefer the company</a>, certainly in the US. Those born after 1996 now represent around <a href="https://www.ft.com/content/8a2e8442-449e-4dbd-bd6d-2656b4503526" rel="nofollow noopener" target="_blank">34% of US iPhone owners</a>, which makes them <a href="https://www.applemust.com/apple-shines-pc-business-declines-and-gen-z-goes-iphone/" rel="nofollow noopener" target="_blank">far more likely to use a Mac</a>.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688364/apple-in-business-use-accelerates-but-device-management-still-an-issue.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## 5 smart secrets for a better Google Tasks experience
+ - [https://www.computerworld.com/article/3688514/google-tasks-secrets.html#tk.rss_all](https://www.computerworld.com/article/3688514/google-tasks-secrets.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-22 11:00:00+00:00
+
+<article>
+	<section class="page">
+<p>Quick: When's the last time you used Google Tasks?</p><p>If you're like a lot of folks I know, the answer to that question might be: "Wait a sec — what? Google has a <em>Tasks </em>app?!"</p><p>Tasks is one of those services that's all too easy to forget about — or maybe even overlook entirely. Sure, there's <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.tasks" rel="noopener nofollow" target="_blank">an Android app</a> for it (and even <a href="https://apps.apple.com/us/app/google-tasks-get-things-done/id1353634006" rel="noopener nofollow" target="_blank">an iOS app</a>, if you know anyone who swings that way). And Google's in the midst of reframing its cross-service reminders system so that it relies on Tasks <a href="https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html" rel="noopener nofollow" target="_blank">as a primary hub</a> for <a href="https://www.computerworld.com/article/3255009/google-assistant-efficiency-tips-android.html">all those things</a> you tell your Android phone or Smart Display to help you remember.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688514/google-tasks-secrets.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Job seekers are using ChatGPT to write resumes — and nabbing jobs
+ - [https://www.computerworld.com/article/3688336/job-seekers-are-using-chatgpt-to-write-resumes-and-nabbing-jobs.html#tk.rss_all](https://www.computerworld.com/article/3688336/job-seekers-are-using-chatgpt-to-write-resumes-and-nabbing-jobs.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-02-22 11:00:00+00:00
+
+<article>
+	<section class="page">
+<p>Generative artificial intelligence (AI) technology is increasingly being used to create resumes and cover letters, and according to <a href="https://www.resumebuilder.com/3-in-4-job-seekers-who-used-chatgpt-to-write-their-resume-got-an-interview/" rel="nofollow noopener" target="_blank">a new survey by Resume Builder</a>, using a chatbot improves your chances of getting the job.</p><p>The online job site said nealry half of 2,153 job seekers surveyed earlier this month used ChatGPT to help write their resumes, their cover letter, or both, and the majority said it helped them land the job they wanted.</p><p>Nearly three quarters (72%) of those who used ChatGPT did so to write their cover letter, and just over half (51%) used it to write their resume.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3688336/job-seekers-are-using-chatgpt-to-write-resumes-and-nabbing-jobs.html#jump">To read this article in full, please click here</a></p></section></article>
+

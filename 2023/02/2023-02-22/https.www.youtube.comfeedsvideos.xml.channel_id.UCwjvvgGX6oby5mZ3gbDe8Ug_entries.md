@@ -1,0 +1,21 @@
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
+
+## China: 5700 chip companies shut down in 2022/The fierce game of one lithography machine
+ - [https://www.youtube.com/watch?v=-qS1-yK67Mo](https://www.youtube.com/watch?v=-qS1-yK67Mo)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2023-02-22 18:45:11+00:00
+
+#chinainsights 
+According to the information released by Qichacha, in 2022, there has be 5,746 chip-related companies revoked or canceled in China, far exceeding previous years, and an increase of 68% from 3,420 in 2021. At present, there are more than 170,000 existing chip-related companies in China.
+At the end of January 2023, an official of the China Information Consumption Alliance said in an interview with "Global Times", China’s official media, that China was building chip manufacturing plants at a rate of 100 production lines per year.
+However, under the American sanctions, the construction of these chip factories may be delayed or forced to switch to mature processes. At present, the integrated circuits or IC industry generally regards 28nm as the watershed between the mature and advanced processes. 28nm and above are mature processes, and below 28nm are advanced processes. 
+
+Have questions? Do you have something to share with us about China? We want to hear from you! 
+Email: Cinsights.subscription@gmail.com
+Facebook www.facebook.com/EyesOnChina.
+
+Your support allows us to produce more high-quality videos. 
+Consider donating at https://www.paypal.com/paypalme/ChinaInsights
+
+Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+
