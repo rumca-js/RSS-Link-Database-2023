@@ -1,5 +1,12 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## Ernie, what is censorship? China’s chatbots face additional challenges.
+ - [https://www.washingtonpost.com/world/2023/02/24/china-baidu-ernie-chatbot-chatgpt/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/02/24/china-baidu-ernie-chatbot-chatgpt/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-02-24 23:26:39+00:00
+
+Chinese tech companies have been working on chatbots like ChatGPT for years, but they've been slow to release them. Strict political controls are partly why.
+
 ## Peru withdraws ambassador from Mexico amid dispute
  - [https://www.washingtonpost.com/world/peru-withdraws-ambassador-from-mexico-amid-dispute/2023/02/24/46847d30-b4bb-11ed-94a0-512954d75716_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/peru-withdraws-ambassador-from-mexico-amid-dispute/2023/02/24/46847d30-b4bb-11ed-94a0-512954d75716_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
