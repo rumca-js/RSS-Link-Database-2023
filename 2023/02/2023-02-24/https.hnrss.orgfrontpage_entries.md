@@ -10,6 +10,16 @@
 <p>Points: 20</p>
 <p># Comments: 8</p>
 
+## John Boyer, blind software engineer, dies
+ - [https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/](https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-24 22:57:33+00:00
+
+<p>Article URL: <a href="https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/">https://www.jsonline.com/story/news/education/2023/02/24/john-boyer-blind-software-engineer-in-madison-wisconsin-dies/69907224007/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34931387">https://news.ycombinator.com/item?id=34931387</a></p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
+
 ## FTC has proposed banning non-compete agreements. Please Comment
  - [https://www.regulations.gov/document/FTC-2023-0007-0001](https://www.regulations.gov/document/FTC-2023-0007-0001)
  - RSS feed: https://hnrss.org/frontpage

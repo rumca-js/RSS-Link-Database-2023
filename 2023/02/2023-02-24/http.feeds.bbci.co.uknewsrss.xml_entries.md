@@ -21,6 +21,20 @@ Substitute Manor Solomon scores for the third consecutive game as European hopef
 
 The money will go on operational costs like security and visas for the show, being held in Liverpool.
 
+## The pub bosses that closed their kitchens to stay afloat
+ - [https://www.bbc.co.uk/news/business-64557630?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64557630?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-02-24 22:33:41+00:00
+
+Soaring gas, food and staffing costs have made some pubs move away hot meals.
+
+## A million households can apply for £400 energy rebate
+ - [https://www.bbc.co.uk/news/business-64760411?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64760411?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-02-24 22:31:17+00:00
+
+Almost a million households can now apply for winter energy payments, but it could still take weeks.
+
 ## King had planned to meet EU chief
  - [https://www.bbc.co.uk/news/uk-politics-64765375?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-64765375?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml

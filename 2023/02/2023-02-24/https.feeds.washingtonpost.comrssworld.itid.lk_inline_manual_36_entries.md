@@ -1,5 +1,12 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## Database of videos exposes the horrors of war in Ukraine
+ - [https://www.washingtonpost.com/world/interactive/2022/ukraine-russia-war-videos-verified/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/interactive/2022/ukraine-russia-war-videos-verified/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-02-24 20:40:17+00:00
+
+The Washington Post has catalogued and verified more than 200 videos from the war in Ukraine into a searchable visual database.
+
 ## Married on the day of the invasion, one soldier marks two anniversaries
  - [https://www.washingtonpost.com/world/2023/02/24/ukraine-russia-war-anniversary-frontlines/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/02/24/ukraine-russia-war-anniversary-frontlines/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36

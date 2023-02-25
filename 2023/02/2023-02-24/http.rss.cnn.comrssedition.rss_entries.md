@@ -21,6 +21,13 @@ CNN's Dianne Gallagher reports on what the prosecution asked Alex Murdaugh, a So
 
 Latvian delegate Rihards Kols was met with applause when he called Russia's inclusion a "disgrace" at the Organization for Security and Co-operation in Europe (OSCE) meeting.
 
+## Body language expert points out 'smoking gun' from Murdaugh's testimony on the stand
+ - [https://www.cnn.com/videos/us/2023/02/24/alex-murdaugh-testimony-body-language-expert-sot-nr-vpx.cnn](https://www.cnn.com/videos/us/2023/02/24/alex-murdaugh-testimony-body-language-expert-sot-nr-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-24 21:10:57+00:00
+
+Body language expert Janine Driver says former South Carolina attorney Alex Murdaugh, who is on trial for murder in the deaths of his wife and son, indicates smugness and "leaks disgust" while taking the stand.
+
 ## Fulton County judge who oversaw special grand jury in Trump probe says jurors are free to discuss final report
  - [https://www.cnn.com/2023/02/24/politics/georgia-grand-jury-trump-final-report-jurors/index.html](https://www.cnn.com/2023/02/24/politics/georgia-grand-jury-trump-final-report-jurors/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -34,6 +41,13 @@ The judge who oversaw a special grand jury investigating efforts by former Presi
  - date published: 2023-02-24 19:39:21+00:00
 
 Pop star Pink joins CNN's Chris Wallace to talk about a rumored feud between her and Christina Aguilera after they first worked together on 2001's "Lady Marmalade."
+
+## Intelligence suggests China is considering sending drones and ammunition to Russia, sources familiar say
+ - [https://www.cnn.com/2023/02/24/politics/us-intelligence-china-drones-russia-ukraine/index.html](https://www.cnn.com/2023/02/24/politics/us-intelligence-china-drones-russia-ukraine/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-24 19:27:30+00:00
+
+The US has intelligence that the Chinese government is considering providing Russia with drones and ammunition for use in the war in Ukraine, three sources familiar with the intelligence told CNN.
 
 ## Roald Dahl classic editions will be released, following censorship concerns
  - [https://www.cnn.com/style/article/roald-dahl-classic-text-release-cec/index.html](https://www.cnn.com/style/article/roald-dahl-classic-text-release-cec/index.html)

@@ -42,6 +42,13 @@ In May last year, we stood in the grounds of what had been a mass grave of the r
 
 Buryatia feels like it is a world away from war in Europe.
 
+## The unthinkable: What would Russian success in Ukraine mean for Western security?
+ - [https://news.sky.com/story/ukraine-war-what-would-russian-success-mean-for-western-security-12818824](https://news.sky.com/story/ukraine-war-what-would-russian-success-mean-for-western-security-12818824)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-24 13:20:00+00:00
+
+President Vladimir Putin might have hoped for a swift and decisive invasion of Ukraine; instead, a year on, Russia has paid a huge price for his imperial ambition.
+
 ## Bird flu infections in humans 'still rare' despite Cambodian girl's death
  - [https://news.sky.com/story/bird-flu-infections-in-humans-still-rare-despite-cambodian-girls-death-12818731](https://news.sky.com/story/bird-flu-infections-in-humans-still-rare-despite-cambodian-girls-death-12818731)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml

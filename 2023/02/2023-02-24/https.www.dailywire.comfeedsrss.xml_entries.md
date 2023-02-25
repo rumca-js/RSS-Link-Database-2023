@@ -1,5 +1,19 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Chinese Fighter Jet Harasses U.S. Navy Plane With CNN Camera Crew Inside
+ - [https://www.dailywire.com/news/chinese-fighter-jet-harasses-u-s-navy-plane-with-cnn-camera-crew-inside](https://www.dailywire.com/news/chinese-fighter-jet-harasses-u-s-navy-plane-with-cnn-camera-crew-inside)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 20:48:21+00:00
+
+A CNN camera crew that was on a U.S. Navy plane over the South China Sea on Friday captured a fighter jet from communist China harassing the aircraft while it made a routine flight. The U.S. Navy P-8A reconnaissance plane was flying at 21,500 feet about 30 miles from the contested Paracel Islands where China ...
+
+## Senator Fetterman’s Wife Slammed For ‘Abandoning Her Husband In The Hospital And Fleeing The Country On Vacation’
+ - [https://www.dailywire.com/news/senator-fettermans-wife-slammed-for-abandoning-her-husband-in-the-hospital-and-fleeing-the-country-on-vacation](https://www.dailywire.com/news/senator-fettermans-wife-slammed-for-abandoning-her-husband-in-the-hospital-and-fleeing-the-country-on-vacation)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 20:13:14+00:00
+
+Sen. John Fetterman&#8217;s (D-PA) wife was slammed on social media Friday after she revealed that the first thing she did after her husband was hospitalized with severe depression was flee the country to go on a vacation. Fetterman checked himself into a hospital last week for a multi-week inpatient treatment regimen after the attending physician ...
+
 ## Publisher Walks Back Woke Rewrites Of Roald Dahl’s Classic Stories, Will Release Original Text As Well
  - [https://www.dailywire.com/news/publisher-walks-back-woke-rewrites-of-roald-dahls-classic-stories-will-release-original-text-as-well](https://www.dailywire.com/news/publisher-walks-back-woke-rewrites-of-roald-dahls-classic-stories-will-release-original-text-as-well)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
