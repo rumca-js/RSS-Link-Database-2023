@@ -91,6 +91,13 @@ A 28-year-old man has been arrested after a woman's body was discovered inside a
 
 Adm. John Kirby told reporters that Russia has offered 'unprecedented defense cooperation' to Iran, who has been supplying armed drones as Russia levies war on Ukraine.
 
+## The secret to making you richer? Put your cards away and pay for everything in CASH!
+ - [https://www.dailymail.co.uk/femail/article-11791045/The-secret-making-richer-cards-away-pay-CASH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11791045/The-secret-making-richer-cards-away-pay-CASH.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 23:08:48+00:00
+
+Budget is not a dirty word. So why is it that, when we think of budgeting, we immediately feel restricted and deprived?
+
 ## End the pothole plague: Motorists and MPs demand action as 1,400 drivers a DAY are hit by breakdowns
  - [https://www.dailymail.co.uk/news/article-11791029/End-pothole-plague-Motorists-MPs-demand-action-1-400-drivers-DAY-hit-breakdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11791029/End-pothole-plague-Motorists-MPs-demand-action-1-400-drivers-DAY-hit-breakdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -161,6 +168,13 @@ His betrayed first wife called him 'Roald the Rotten' and it is easy to see why 
 
 A mega-prison in El Salvador has opened its doors for its first 2,000 inmates of suspected gang members - who upon their arrival found out there are not enough beds and no mattresses at all.
 
+## A vaccine to end Covid for good? Early results show nasal spray reduced risk of severe covid by 86%
+ - [https://www.dailymail.co.uk/health/article-11790943/A-vaccine-end-Covid-good-Early-results-nasal-spray-reduced-risk-severe-covid-86.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11790943/A-vaccine-end-Covid-good-Early-results-nasal-spray-reduced-risk-severe-covid-86.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 22:22:11+00:00
+
+Inhalable nasal vaccines could be a gamechanger in defeating Covid for good. Georgia-based researchers are developing such a vaccine which was a highly effective booster dose.
+
 ## Women's rights protesters line streets outside police station as Kellie-Jay Keen is quizzed
  - [https://www.dailymail.co.uk/news/article-11790255/Womens-rights-protesters-line-streets-outside-police-station-Kellie-Jay-Keen-quizzed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790255/Womens-rights-protesters-line-streets-outside-police-station-Kellie-Jay-Keen-quizzed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -230,6 +244,13 @@ The House Committee on Oversight and Accountability has written to the embattle
  - date published: 2023-02-24 21:31:24+00:00
 
 Knoxville Police have released their body camera video of the harrowing incident which happened at Fort Sanders Regional Medical Center, on February 6.
+
+## Could bird flu cause a Covid-like pandemic? Everything you need to know about H5N1
+ - [https://www.dailymail.co.uk/health/article-11789315/Could-bird-flu-cause-Covid-like-pandemic-need-know-H5N1.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11789315/Could-bird-flu-cause-Covid-like-pandemic-need-know-H5N1.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 21:31:08+00:00
+
+The father of an 11-year-old girl who died from bird flu in Cambodia this week has also tested positive for the virus. Eleven more suspected cases are awaiting tests, bolstering concerns.
 
 ## 'Glory to the Heroes!' rang out as a trumpet sounded beneath golden dome, writes Ian Birrell in Kyiv
  - [https://www.dailymail.co.uk/news/article-11790775/Glory-Heroes-rang-trumpet-sounded-beneath-golden-dome-writes-Ian-Birrell-Kyiv.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790775/Glory-Heroes-rang-trumpet-sounded-beneath-golden-dome-writes-Ian-Birrell-Kyiv.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -399,6 +420,13 @@ Filmmaker Michel Shane, who produced Catch Me If You Can, created 21 Miles in Ma
 
 A top gymnastics coach has been barred from training without supervision amid accusations he abused girls as young as nine, splitting them into 'fat' groups.
 
+## Prince Harry and Meghan Markle would 'overshadow King Charles' at coronation, expert claims
+ - [https://www.dailymail.co.uk/femail/article-11790193/Prince-Harry-Meghan-Markle-overshadow-King-Charles-coronation-expert-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11790193/Prince-Harry-Meghan-Markle-overshadow-King-Charles-coronation-expert-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 19:09:35+00:00
+
+Appearing on GB News earlier this week, royal author Tom Bower discussed whether or not the Duke and Duchess will attend the upcoming royal occasion.
+
 ## Deliveroo customer slammed for having 'no humanity' after collecting order from collapsed driver
  - [https://www.dailymail.co.uk/news/article-11790057/Deliveroo-customer-slammed-having-no-humanity-collecting-order-collapsed-driver.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790057/Deliveroo-customer-slammed-having-no-humanity-collecting-order-collapsed-driver.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -427,12 +455,26 @@ Stephen McCullagh (pictured), 32, from Woodland Gardens, Lisburn, was previously
 
 George Alan Kelly, 73, was arrested on charges of first degree murder for shooting Gabriel Cuen-Butimea on January 30 at his home.
 
+## Finding Michael trailer: Spencer Matthews tries to recover brother's body
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11790147/Finding-Michael-trailer-Spencer-Matthews-tries-recover-brothers-body.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11790147/Finding-Michael-trailer-Spencer-Matthews-tries-recover-brothers-body.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 18:33:31+00:00
+
+Spencer Matthews, 34, tries to retrace the steps of his brother Michael with  survivalist Bear Grylls and mountaineer Nirmal Purja in the trailer for  Finding Michael.
+
 ## Experts are baffled as giant 30ft-wide and 9ft deep sinkhole crater opens just feet from busy road
  - [https://www.dailymail.co.uk/news/article-11790127/Experts-baffled-giant-30ft-wide-9ft-deep-sinkhole-crater-opens-just-feet-busy-road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790127/Experts-baffled-giant-30ft-wide-9ft-deep-sinkhole-crater-opens-just-feet-busy-road.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2023-02-24 18:32:01+00:00
 
 Experts are baffled by a giant 30ft-wide sinkhole crater in South Wales, with some fearing that it could be the result of old mining works or even a UFO landing.
+
+## Put word WOMAN back into health advice, NHS told
+ - [https://www.dailymail.co.uk/health/article-11790047/Put-word-WOMAN-health-advice-NHS-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11790047/Put-word-WOMAN-health-advice-NHS-told.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 18:30:08+00:00
+
+Gender-specific terms have been quietly scrubbed on official NHS England advice sites under a woke inclusivity drive.
 
 ## Conservative moms force Georgia school board to pay $100k legal fees after banning x-rated book
  - [https://www.dailymail.co.uk/news/article-11789623/Conservative-moms-force-Georgia-school-board-pay-100k-legal-fees-banning-x-rated-book.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11789623/Conservative-moms-force-Georgia-school-board-pay-100k-legal-fees-banning-x-rated-book.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -461,6 +503,13 @@ Jacob Lennon died of serious head injuries in August 2019 and had dozens of othe
  - date published: 2023-02-24 18:22:17+00:00
 
 The attorney had been carrying out her schemes to get more money up to the point the lawsuit was filed by LDR International in February.
+
+## 'Professor Lockdown' Neil Ferguson once warned 200MILLION people could die during bird flu crisis
+ - [https://www.dailymail.co.uk/health/article-11789787/Professor-Lockdown-Neil-Ferguson-warned-200MILLION-people-die-bird-flu-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11789787/Professor-Lockdown-Neil-Ferguson-warned-200MILLION-people-die-bird-flu-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 18:21:48+00:00
+
+Professor Neil Ferguson, tasked with forecasting Covid-style scenarios about bird flu in the UK, made the dire prediction in 2005 when fears of an avian influenza crisis were similarly high.
 
 ## Roald Dahl fans blast Puffin for 'Orwellian' censoring as it says it WILL print edited versions
  - [https://www.dailymail.co.uk/news/article-11790257/Roald-Dahl-fans-blast-Puffin-Orwellian-censoring-says-print-edited-versions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790257/Roald-Dahl-fans-blast-Puffin-Orwellian-censoring-says-print-edited-versions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -595,6 +644,13 @@ A mum-of-three has revealed her secret to beating the cost of living squeeze - p
 
 A 13 year-old boy appeared before a magistrates court today, after being accused of attempted murder on a schoolboy on Wednesday evening in West Howe, Bournemouth.
 
+## Motorists need to watch out for this blank red road sign - do you know what it means?
+ - [https://www.dailymail.co.uk/money/cars/article-11789373/Motorists-need-watch-blank-red-road-sign-know-means.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/money/cars/article-11789373/Motorists-need-watch-blank-red-road-sign-know-means.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 16:19:42+00:00
+
+Drivers may be confused by a blank circular sign with a red border and unless you're a motorist who recently passed their theory test you might need a reminder.
+
 ## Iceland boss warned they'd halt openings amid energy bills rise as stores set to close from tomorrow
  - [https://www.dailymail.co.uk/news/article-11789805/Iceland-boss-warned-theyd-halt-openings-amid-energy-bills-rise-stores-set-close-tomorrow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11789805/Iceland-boss-warned-theyd-halt-openings-amid-energy-bills-rise-stores-set-close-tomorrow.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -622,6 +678,13 @@ Naomi Biden helped Jill Biden hold down her dress upon their windy arrival in Ke
  - date published: 2023-02-24 15:39:43+00:00
 
 Franco Moroni who admitted killing Marco Cavola by blasting a shotgun at his head at point-blank range - wept and embraced a supporter after the jury ruled it was a catastrophic accident.
+
+## Billy Bragg reveals he has dropped singing 'boys' from Which Side Are You On?
+ - [https://www.dailymail.co.uk/tvshowbiz/article-11788873/Billy-Bragg-reveals-dropped-singing-boys-On.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-11788873/Billy-Bragg-reveals-dropped-singing-boys-On.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 15:36:21+00:00
+
+The singer, 65, has revealed he has dropped 'boys' from Which Side Are You On? to be more 'inclusive'.
 
 ## 'It made everything better': Alex Murdaugh claims he stole over $10m to fund opioid habit
  - [https://www.dailymail.co.uk/news/article-11781873/Murdaugh-claims-stole-10m-buy-opioids-120-years-consume-pills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11781873/Murdaugh-claims-stole-10m-buy-opioids-120-years-consume-pills.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

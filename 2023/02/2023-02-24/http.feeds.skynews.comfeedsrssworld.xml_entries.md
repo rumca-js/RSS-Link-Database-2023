@@ -7,6 +7,13 @@
 
 The former in-laws of a Hong Kong model have been arrested on suspicion of murder after her legs were found in a fridge days after she went missing.
 
+## Ukraine stands firm a year into the fight - but the war is likely to grind on
+ - [https://news.sky.com/story/ukraine-stands-firm-a-year-into-the-fight-but-the-war-is-likely-to-grind-on-12819205](https://news.sky.com/story/ukraine-stands-firm-a-year-into-the-fight-but-the-war-is-likely-to-grind-on-12819205)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-24 20:59:00+00:00
+
+Ukraine hopes to defeat Russia's invasion this year but, unless the West provides sufficient weapons to achieve a decisive victory or Vladimir Putin gives up, this war is set to grind on.
+
 ## Ukrainians recite 'You'll Never Walk Alone' lyrics in powerful film to mark anniversary
  - [https://news.sky.com/story/ukrainians-recite-youll-never-walk-alone-lyrics-in-powerful-film-to-mark-first-anniversary-of-war-12819001](https://news.sky.com/story/ukrainians-recite-youll-never-walk-alone-lyrics-in-powerful-film-to-mark-first-anniversary-of-war-12819001)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -48,6 +55,13 @@ Buryatia feels like it is a world away from war in Europe.
  - date published: 2023-02-24 13:20:00+00:00
 
 President Vladimir Putin might have hoped for a swift and decisive invasion of Ukraine; instead, a year on, Russia has paid a huge price for his imperial ambition.
+
+## One year of civilian life on the frontline of Ukraine's war
+ - [https://news.sky.com/story/ukraine-war-diaries-documenting-one-year-of-life-in-a-war-zone-12818818](https://news.sky.com/story/ukraine-war-diaries-documenting-one-year-of-life-in-a-war-zone-12818818)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-02-24 13:09:00+00:00
+
+When Russia invaded Ukraine on 24 February 2022, Sky News set out to find Ukrainians who could document their experiences as war twisted their lives out of shape.
 
 ## Bird flu infections in humans 'still rare' despite Cambodian girl's death
  - [https://news.sky.com/story/bird-flu-infections-in-humans-still-rare-despite-cambodian-girls-death-12818731](https://news.sky.com/story/bird-flu-infections-in-humans-still-rare-despite-cambodian-girls-death-12818731)

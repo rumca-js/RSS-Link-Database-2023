@@ -1,5 +1,12 @@
 # Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## Disabled actors patronised by TV industry, says artist
+ - [https://www.bbc.co.uk/news/uk-wales-64458735?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-64458735?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-02-24 22:53:53+00:00
+
+Actors with disabilities are often cast to make non-disabled people look inclusive, an artist says.
+
 ## Graham Potter: Chelsea boss says his family have received anonymous death threats
  - [https://www.bbc.co.uk/sport/football/64766580?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64766580?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml

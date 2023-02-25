@@ -1,5 +1,15 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Daily.place
+ - [https://www.daily.place/](https://www.daily.place/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-24 23:46:57+00:00
+
+<p>Article URL: <a href="https://www.daily.place/">https://www.daily.place/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34931920">https://news.ycombinator.com/item?id=34931920</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
 ## Bun v0.5.7
  - [https://bun.sh/blog/bun-v0.5.7](https://bun.sh/blog/bun-v0.5.7)
  - RSS feed: https://hnrss.org/frontpage

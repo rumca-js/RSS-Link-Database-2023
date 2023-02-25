@@ -1,5 +1,12 @@
 # Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
+## Blackstone’s Schwarzman receives over $1bn for second straight year
+ - [https://www.ft.com/content/c7e87406-b218-4bbf-a333-975b9af904cc](https://www.ft.com/content/c7e87406-b218-4bbf-a333-975b9af904cc)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-02-24 23:02:47+00:00
+
+Record income for private equity firm founder reflects dividend payments and asset sales
+
 ## UK tax authority launches crackdown on holiday let owners
  - [https://www.ft.com/content/8a120778-520f-49c2-b59b-923849c0c205](https://www.ft.com/content/8a120778-520f-49c2-b59b-923849c0c205)
  - RSS feed: https://www.ft.com/world?format=rss

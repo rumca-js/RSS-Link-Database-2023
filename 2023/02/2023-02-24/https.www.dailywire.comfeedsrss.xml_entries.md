@@ -1,5 +1,12 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Leftists Promise To Rewrite The Classic Works Of Roald Dahl As They Redesign Western Culture
+ - [https://www.dailywire.com/news/leftists-promise-to-rewrite-the-classic-works-of-roald-dahl-as-they-redesign-western-culture](https://www.dailywire.com/news/leftists-promise-to-rewrite-the-classic-works-of-roald-dahl-as-they-redesign-western-culture)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 21:03:52+00:00
+
+The following is the opening satirical monologue from “The Andrew Klavan Show.“ The bestselling children’s books by the late, great British novelist Roald Dahl are being rewritten by a concerned group of crap-faced cultural locusts with no sense of humor so they will no longer be offensive to crap-faced cultural locusts with no sense of ...
+
 ## Chinese Fighter Jet Harasses U.S. Navy Plane With CNN Camera Crew Inside
  - [https://www.dailywire.com/news/chinese-fighter-jet-harasses-u-s-navy-plane-with-cnn-camera-crew-inside](https://www.dailywire.com/news/chinese-fighter-jet-harasses-u-s-navy-plane-with-cnn-camera-crew-inside)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
