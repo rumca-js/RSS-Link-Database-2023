@@ -1,5 +1,12 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## Peru withdraws ambassador from Mexico amid dispute
+ - [https://www.washingtonpost.com/world/peru-withdraws-ambassador-from-mexico-amid-dispute/2023/02/24/46847d30-b4bb-11ed-94a0-512954d75716_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/peru-withdraws-ambassador-from-mexico-amid-dispute/2023/02/24/46847d30-b4bb-11ed-94a0-512954d75716_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-02-24 22:19:56+00:00
+
+Peruvian President Dina Boluarte has announced the withdrawal of her ambassador to Mexico in response to criticism from Mexican President Andrés Manuel Lopez Obrador, whom she reproached for hurting ties in order to “privilege ideological affinities.”
+
 ## Database of videos exposes the horrors of war in Ukraine
  - [https://www.washingtonpost.com/world/interactive/2022/ukraine-russia-war-videos-verified/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/interactive/2022/ukraine-russia-war-videos-verified/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36

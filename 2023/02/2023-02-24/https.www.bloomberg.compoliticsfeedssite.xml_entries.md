@@ -7,6 +7,13 @@
 
 Two major crypto exchanges still allow customers of sanctioned Russian banks to transact on their platforms, according to a report from digital asset data analytics firm Inca Digital.
 
+## Biden Says He Is Ruling Out Giving Ukraine F-16s ‘For Now’
+ - [https://www.bloomberg.com/news/articles/2023-02-24/biden-says-he-is-ruling-out-giving-ukraine-f-16s-for-now](https://www.bloomberg.com/news/articles/2023-02-24/biden-says-he-is-ruling-out-giving-ukraine-f-16s-for-now)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-02-24 23:29:47+00:00
+
+President Joe Biden said he is ruling out Ukraine’s request for F-16 fighter jets at this time, despite increased pressure from Ukrainian President Volodymyr Zelenskiy.
+
 ## Trump Adds His Voice to Republicans Condemning ESG Investing
  - [https://www.bloomberg.com/news/articles/2023-02-24/trump-adds-his-voice-to-republicans-condemning-esg-investing](https://www.bloomberg.com/news/articles/2023-02-24/trump-adds-his-voice-to-republicans-condemning-esg-investing)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml

@@ -1,5 +1,19 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Biden Admin Proposes New Rules That Would Make It Harder For Americans To Get Certain Medications
+ - [https://www.dailywire.com/news/biden-admin-proposes-new-rules-that-would-make-it-harder-for-americans-to-get-certain-medications](https://www.dailywire.com/news/biden-admin-proposes-new-rules-that-would-make-it-harder-for-americans-to-get-certain-medications)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 22:20:43+00:00
+
+President Joe Biden&#8217;s administration is proposing implementing greater restrictions that would make it harder for Americans to get certain medications. The proposal from the DEA would make it harder for Americans to get Adderall and opioid pain killers if the patient is trying to get on those medications through the use of telehealth services, which ...
+
+## Tim Pool Praises Matt Walsh For The Attention He’s Brought To The Transgender Issue
+ - [https://www.dailywire.com/news/tim-pool-praises-matt-walsh-for-the-attention-hes-brought-to-the-transgender-issue](https://www.dailywire.com/news/tim-pool-praises-matt-walsh-for-the-attention-hes-brought-to-the-transgender-issue)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 21:56:40+00:00
+
+YouTuber Tim Pool praised Daily Wire podcast host Matt Walsh on Friday for the good that has come from Walsh bringing attention to the subject of leftists trying to force transgenderism on America&#8217;s youth. &#8220;All these people are talking to Matt Walsh, saying, &#8216;You shouldn&#8217;t be mean to people and blah, blah,&#8217; and Matt&#8217;s like, ...
+
 ## Leftists Promise To Rewrite The Classic Works Of Roald Dahl As They Redesign Western Culture
  - [https://www.dailywire.com/news/leftists-promise-to-rewrite-the-classic-works-of-roald-dahl-as-they-redesign-western-culture](https://www.dailywire.com/news/leftists-promise-to-rewrite-the-classic-works-of-roald-dahl-as-they-redesign-western-culture)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
