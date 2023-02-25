@@ -42,6 +42,13 @@ Three Callisburg, Texas students saw Mr. James back at work and wanted to help m
 
 Swedish telecom equipment maker Ericsson has announced it&rsquo;s cutting 8% of its global workforce as it looks to reduce costs
 
+## Special counsel investigating Trump asks judge to compel Mike Pence to testify
+ - [https://abcnews.go.com/Politics/special-counsel-investigating-trump-asks-judge-compel-mike/story?id=97446986](https://abcnews.go.com/Politics/special-counsel-investigating-trump-asks-judge-compel-mike/story?id=97446986)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-02-24 18:05:04+00:00
+
+Donald Trump's legal team has challenged the subpoena issued to Pence.
+
 ## Measles outbreak that sickened 85 kids -- almost all unvaccinated -- is over in Ohio
  - [https://abcnews.go.com/Health/measles-outbreak-sickened-85-children-declared-ohio/story?id=97443408](https://abcnews.go.com/Health/measles-outbreak-sickened-85-children-declared-ohio/story?id=97443408)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories

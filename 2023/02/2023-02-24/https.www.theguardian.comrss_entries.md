@@ -1,5 +1,19 @@
 # Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
 
+## Tory MP reveals abuse over pregnancy as reselection bid fails
+ - [https://www.theguardian.com/politics/2023/feb/24/tory-mp-reveals-abuse-over-pregnancy-as-reselection-bid-fails](https://www.theguardian.com/politics/2023/feb/24/tory-mp-reveals-abuse-over-pregnancy-as-reselection-bid-fails)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-02-24 23:56:24+00:00
+
+<p>Theo Clarke, niece of Jacob Rees-Mogg and Stafford MP since 2019, says she will now approach party membership</p><p>A Conservative MP said she is “deeply disappointed” not to have been chosen as the party’s candidate to fight a revised version of her current seat.</p><p>Theo Clarke announced the outcome of Friday’s Stafford Conservative Association selection meeting on Twitter.</p> <a href="https://www.theguardian.com/politics/2023/feb/24/tory-mp-reveals-abuse-over-pregnancy-as-reselection-bid-fails">Continue reading...</a>
+
+## Rare winter freeze blankets California in ice and snow – in pictures
+ - [https://www.theguardian.com/us-news/gallery/2023/feb/24/california-winter-freeze-snow-pictures-los-angeles](https://www.theguardian.com/us-news/gallery/2023/feb/24/california-winter-freeze-snow-pictures-los-angeles)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-02-24 23:52:16+00:00
+
+<p>An unusually cold storm blew through the west coast this week, bringing dangerous conditions but also delight. Parts of the Los Angeles area were under their first blizzard warning since 1989, ice swirled around the iconic Hollywood sign, and further north, Bay Area residents saw flurries that frosted beaches and vineyards in white.</p><ul><li><a href="https://www.theguardian.com/weather/2023/feb/24/snow-california-los-angeles-west-coast-midwest">‘A historic event’: US storm triggers first blizzard warning for Los Angeles since 1989</a></li></ul> <a href="https://www.theguardian.com/us-news/gallery/2023/feb/24/california-winter-freeze-snow-pictures-los-angeles">Continue reading...</a>
+
 ## Photographer describes Florida ordeal that killed journalist: ‘He kept shooting’
  - [https://www.theguardian.com/us-news/2023/feb/24/florida-shooting-journalist-killed-photographer](https://www.theguardian.com/us-news/2023/feb/24/florida-shooting-journalist-killed-photographer)
  - RSS feed: https://www.theguardian.com/rss

@@ -1,5 +1,12 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## Crypto Exchanges Are Allowing Sanctioned Russian Banks Access, Report Says
+ - [https://www.bloomberg.com/news/articles/2023-02-24/huobi-kucoin-are-allowing-sanctioned-russian-banks-access-report-says](https://www.bloomberg.com/news/articles/2023-02-24/huobi-kucoin-are-allowing-sanctioned-russian-banks-access-report-says)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-02-24 23:48:31+00:00
+
+Two major crypto exchanges still allow customers of sanctioned Russian banks to transact on their platforms, according to a report from digital asset data analytics firm Inca Digital.
+
 ## Trump Adds His Voice to Republicans Condemning ESG Investing
  - [https://www.bloomberg.com/news/articles/2023-02-24/trump-adds-his-voice-to-republicans-condemning-esg-investing](https://www.bloomberg.com/news/articles/2023-02-24/trump-adds-his-voice-to-republicans-condemning-esg-investing)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml

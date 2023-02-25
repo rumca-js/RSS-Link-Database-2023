@@ -1,5 +1,19 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Publisher Walks Back Woke Rewrites Of Roald Dahl’s Classic Stories, Will Release Original Text As Well
+ - [https://www.dailywire.com/news/publisher-walks-back-woke-rewrites-of-roald-dahls-classic-stories-will-release-original-text-as-well](https://www.dailywire.com/news/publisher-walks-back-woke-rewrites-of-roald-dahls-classic-stories-will-release-original-text-as-well)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 19:23:24+00:00
+
+Book publisher Puffin has announced a walkback of its woke rewrites of Roald Dahl&#8217;s classic children&#8217;s books after backlash. Earlier this week, the Roald Dahl Story Company, which manages the works of the British author, announced changes to his classic children&#8217;s stories, including “Charlie and the Chocolate Factory,” “Matilda,” “James and the Giant Peach,” and ...
+
+## Kansas Senate Passes First Bill Defining ‘Woman’ As A Biological Female
+ - [https://www.dailywire.com/news/kansas-senate-passes-first-bill-defining-woman-as-a-biological-female](https://www.dailywire.com/news/kansas-senate-passes-first-bill-defining-woman-as-a-biological-female)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-24 19:23:05+00:00
+
+In a groundbreaking move, Kansas has become the first state to pass a bill that defines a &#8220;woman&#8221; as someone who is biologically born female, laying the groundwork for potential bans on males who identify as transgender women from using single-sex areas designated for females. The Women&#8217;s Bill of Rights was approved by legislators in ...
+
 ## Biden Will Not Visit East Palestine Following Train Catastrophe
  - [https://www.dailywire.com/news/biden-will-not-visit-east-palestine-following-train-catastrophe](https://www.dailywire.com/news/biden-will-not-visit-east-palestine-following-train-catastrophe)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

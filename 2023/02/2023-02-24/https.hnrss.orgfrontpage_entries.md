@@ -1,5 +1,15 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Bun v0.5.7
+ - [https://bun.sh/blog/bun-v0.5.7](https://bun.sh/blog/bun-v0.5.7)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-24 22:59:33+00:00
+
+<p>Article URL: <a href="https://bun.sh/blog/bun-v0.5.7">https://bun.sh/blog/bun-v0.5.7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=34931412">https://news.ycombinator.com/item?id=34931412</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
+
 ## FTC has proposed banning non-compete agreements. Please Comment
  - [https://www.regulations.gov/document/FTC-2023-0007-0001](https://www.regulations.gov/document/FTC-2023-0007-0001)
  - RSS feed: https://hnrss.org/frontpage

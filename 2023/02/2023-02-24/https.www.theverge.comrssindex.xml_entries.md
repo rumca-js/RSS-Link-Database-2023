@@ -1,5 +1,21 @@
 # Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
+## Cocaine Bear doesn’t have a problem — it just doesn’t know when to stop
+ - [https://www.theverge.com/23612160/cocaine-bear-review-elizabeth-banks](https://www.theverge.com/23612160/cocaine-bear-review-elizabeth-banks)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-02-24 22:47:46+00:00
+
+<figure>
+      <img alt="A bear roaring into a cloud of cocaine." src="https://cdn.vox-cdn.com/thumbor/FKHQ-kPPH4fo5-tkXdLa0asokJI=/207x0:1139x621/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72011046/ZootedBear.0.jpeg" />
+        <figcaption><em>A bear roaring into a cloud of cocaine.</em> | Image: Universal</figcaption>
+    </figure>
+
+
+  		 <p>Director Elizabeth Banks’ Cocaine Bear over-delivers on a very simple, silly premise that mostly works because it doesn’t take anything seriously except being ridiculous.</p>
+  <p>
+    <a href="https://www.theverge.com/23612160/cocaine-bear-review-elizabeth-banks">Continue reading&hellip;</a>
+  </p>
+
 ## National Congress of American Indians calls for offshore wind moratorium
  - [https://www.theverge.com/2023/2/24/23613848/national-congress-american-indians-offshore-wind-moratorium-biden-administration](https://www.theverge.com/2023/2/24/23613848/national-congress-american-indians-offshore-wind-moratorium-biden-administration)
  - RSS feed: https://www.theverge.com/rss/index.xml

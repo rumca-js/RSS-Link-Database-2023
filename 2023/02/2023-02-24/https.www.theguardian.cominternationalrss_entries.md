@@ -1,5 +1,12 @@
 # Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
 
+## Crafty Brumbies edge Waratahs in Super Rugby opener despite Max Jorgensen double
+ - [https://www.theguardian.com/sport/2023/feb/25/crafty-brumbies-edge-waratahs-in-super-rugby-opener-despite-max-jorgensen-double](https://www.theguardian.com/sport/2023/feb/25/crafty-brumbies-edge-waratahs-in-super-rugby-opener-despite-max-jorgensen-double)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-24 23:56:52+00:00
+
+<p>The ACT side notched its 10th straight win over NSW, as a teenage son of a gun announced himself as a new star</p><p>The Brumbies have gatecrashed the NSW Waratahs’ homecoming to Allianz Stadium, edging their Super Rugby Pacific rivals in a 31-25 win. In their first game at the venue in five years, the Waratahs were caught napping at key moments and Stephen Larkham’s Brumbies will head back down the highway with a hard-earned victory.</p><p>There was some solace for the 25,076 fans present on Friday night, who got to witness the debut of highly-touted teenager Max Jorgensen. The 18-year-old, who became the youngest Waratahs debutant since Kurtley Beale, grabbed two tries in a promising maiden outing at the top level.</p> <a href="https://www.theguardian.com/sport/2023/feb/25/crafty-brumbies-edge-waratahs-in-super-rugby-opener-despite-max-jorgensen-double">Continue reading...</a>
+
 ## Ten years ago I won a trip to New York. If this happened today I’d delete the email | Maddie Thomas
  - [https://www.theguardian.com/commentisfree/2023/feb/25/ten-years-ago-i-won-a-trip-to-new-york-if-this-happened-today-id-delete-the-email](https://www.theguardian.com/commentisfree/2023/feb/25/ten-years-ago-i-won-a-trip-to-new-york-if-this-happened-today-id-delete-the-email)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -27,6 +34,20 @@
  - date published: 2023-02-24 22:30:34+00:00
 
 <ul><li>Forward has started three of past 10 Premier League games</li><li>‘If you’re saying I don’t trust Phil, forget about it,’ says Guardiola</li></ul><p>Phil Foden has the full backing of Pep Guardiola to play an important role in the run-in despite starting only three of the past 10 Premier League games for Manchester City.</p><p>The England international was in the side for the <a href="https://www.theguardian.com/football/2023/feb/18/nottingham-forest-manchester-city-premier-league-match-report">1-1 draw at Nottingham Forest</a> last weekend but was an unused substitute in Wednesday’s <a href="https://www.theguardian.com/football/2023/feb/22/rb-leipzig-manchester-city-champions-league-last-16-match-report">Champions League last-16 draw at RB Leipzig</a>. Foden will hope to start at Bournemouth on Saturday evening, the fourth of five straight away matches for City in a hectic period for the title challengers.</p> <a href="https://www.theguardian.com/football/2023/feb/24/our-diamond-guardiola-backs-foden-to-shine-in-manchester-citys-title-fight">Continue reading...</a>
+
+## Inside the world of Australia’s high-altitude balloonists and why they’re not afraid of a missile
+ - [https://www.theguardian.com/australia-news/2023/feb/25/inside-the-world-of-australias-high-altitude-balloonists-and-why-theyre-not-afraid-of-a-missile](https://www.theguardian.com/australia-news/2023/feb/25/inside-the-world-of-australias-high-altitude-balloonists-and-why-theyre-not-afraid-of-a-missile)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-24 22:00:34+00:00
+
+<p>When a US object was shot down the same day an amateur balloon went missing, hobbyists here took note. But they’re satisfied strict regulations will protect them</p><ul><li>Get our <a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://www.theguardian.com/technology/ng-interactive/2018/may/15/the-guardian-app?CMP=cvau_sfl">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></li></ul><p>Last Sunday, on a bright and cloudless morning, about 20 people gathered in a park in Ararat, in south-west Victoria, to release a balloon.</p><p>The hobbyists, members of the Eastern &amp; Mountain District Radio Club’s high-altitude balloon group, loaded their aircraft with 400 grams of equipment: a GPS; sensors measuring temperature, pressure and humidity; and a camera that relayed pictures from the air every 30 seconds.</p> <a href="https://www.theguardian.com/australia-news/2023/feb/25/inside-the-world-of-australias-high-altitude-balloonists-and-why-theyre-not-afraid-of-a-missile">Continue reading...</a>
+
+## Sydney WorldPride opening concert: Kylie and Dannii Minogue gloriously launch season of golden hot pants
+ - [https://www.theguardian.com/culture/2023/feb/25/sydney-worldpride-opening-concert-kylie-and-dannii-minogue-gloriously-launch-season-of-golden-hot-pants](https://www.theguardian.com/culture/2023/feb/25/sydney-worldpride-opening-concert-kylie-and-dannii-minogue-gloriously-launch-season-of-golden-hot-pants)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-02-24 21:31:26+00:00
+
+<p>Live and Proud was a drag spectacular, with Casey Donovan and Charli XCX among the many highlights</p><p>All of Sydney seemed filled with lovers on Friday night, as a 500-drone light display burst forth in the sky, morphing from a flower to a heart to a diversity shark to a progress pride flag, officially heralding the beginning of Sydney WorldPride.</p><p>The most rhetorical question overheard in Sydney’s Domain for the Live and Proud opening concert marking 17 days of some 350 events: are we allowed to stand and dance? For dance we did <em>en masse </em>as an essential queer communal act, almost 45 years after the city’s first Gay Mardi Gras ended in 53 arrests and some brutal police bashings.</p> <a href="https://www.theguardian.com/culture/2023/feb/25/sydney-worldpride-opening-concert-kylie-and-dannii-minogue-gloriously-launch-season-of-golden-hot-pants">Continue reading...</a>
 
 ## 'I don't see them often': Zelenskiy fights back tears when asked about his family – video
  - [https://www.theguardian.com/world/video/2023/feb/24/i-dont-see-them-often-zelenskiy-fights-back-tears-when-asked-about-his-family-video](https://www.theguardian.com/world/video/2023/feb/24/i-dont-see-them-often-zelenskiy-fights-back-tears-when-asked-about-his-family-video)

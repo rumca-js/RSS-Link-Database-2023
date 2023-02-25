@@ -1,5 +1,40 @@
 # Source:The Hill, URL:https://thehill.com/news/feed/, language:en-US
 
+## Dear President Biden: a New York convention will unlock pro-choice enthusiasm in 2024
+ - [https://thehill.com/opinion/congress-blog/3873511-dear-president-biden-a-new-york-convention-will-unlock-pro-choice-enthusiasm-in-2024/](https://thehill.com/opinion/congress-blog/3873511-dear-president-biden-a-new-york-convention-will-unlock-pro-choice-enthusiasm-in-2024/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-02-25 00:00:00+00:00
+
+According to recent reports, President Biden’s decision on the 2024 Democratic National Convention host city is imminent, with three finalists remaining in the running: Atlanta, Chicago, and my home, New York City. While there are arguments for each of these cities, only one of them is adequately prepared to send the Democratic base a strong...
+
+## Pence breaks with DeSantis over Ukraine position: Putin will not stop at Ukraine
+ - [https://thehill.com/homenews/campaign/3873472-pence-breaks-with-desantis-over-ukraine-position-putin-will-not-stop-at-ukraine/](https://thehill.com/homenews/campaign/3873472-pence-breaks-with-desantis-over-ukraine-position-putin-will-not-stop-at-ukraine/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-02-24 23:55:27+00:00
+
+Former Vice President Mike Pence on Friday warned that it would be “wrong” to think Russian President Vladimir Putin would stop at trying to take control of Ukraine, a direct break with comments made by Florida Gov. Ron DeSantis (R). Pence delivered an address at the University of Texas at Austin in which he argued...
+
+## Hot economy poses tough call for Fed
+ - [https://thehill.com/newsletters/business-economy/3873475-hot-economy-poses-tough-call-for-fed/](https://thehill.com/newsletters/business-economy/3873475-hot-economy-poses-tough-call-for-fed/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-02-24 23:49:35+00:00
+
+Welcome to The Hill's Business &#38; Economy newsletter {beacon} Business &#38; Economy Business &#38; Economy  The Big Story  Hot economy poses tough call for Fed Friday was a crucial heat check for the U.S. economy — and it turns out it's much hotter than many believed it could get. © AP Inflation staged an unexpected...
+
+## Biden rules out sending Ukraine F-16s 'for now'
+ - [https://thehill.com/homenews/administration/3873445-biden-rules-out-sending-ukraine-f-16s-for-now/](https://thehill.com/homenews/administration/3873445-biden-rules-out-sending-ukraine-f-16s-for-now/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-02-24 23:43:43+00:00
+
+President Biden in a new interview said he is ruling out providing F-16 fighter jets to Ukraine “for now,” despite pleas from Ukrainian leadership for the planes in their war against Russia. “He doesn't need F-16s now,” Biden told ABC News’s David Muir when asked about the requests from Ukrainian President Volodymyr Zelensky. “I am...
+
+## Ozy Media head Carlos Watson: 'I am not now and never have been a "con man"'
+ - [https://thehill.com/homenews/media/3873431-ozy-media-head-carlos-watson-i-am-not-now-and-never-have-been-a-con-man/](https://thehill.com/homenews/media/3873431-ozy-media-head-carlos-watson-i-am-not-now-and-never-have-been-a-con-man/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-02-24 23:37:36+00:00
+
+Carlos Watson, the head of the digital media company Ozy Media, denied wrongdoing on Friday as he faces fraud charges, saying “I am not now and never have been a ‘con man.’”  Watson said on Twitter that he has been a “hard-working entrepreneur” who helped build the company from scratch and he plans to “fight...
+
 ## Ohio town grapples with toxic spill fallout
  - [https://thehill.com/newsletters/energy-environment/3873432-ohio-town-grapples-with-toxic-spill-fallout/](https://thehill.com/newsletters/energy-environment/3873432-ohio-town-grapples-with-toxic-spill-fallout/)
  - RSS feed: https://thehill.com/news/feed/

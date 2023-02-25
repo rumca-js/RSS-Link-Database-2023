@@ -1,5 +1,26 @@
 # Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
+## JK Rowling supporter steps down from £55m company he founded, Spitfire Audio, amid trans row
+ - [https://www.dailymail.co.uk/news/article-11790813/JK-Rowling-supporter-steps-55m-company-founded-Spitfire-Audio-amid-trans-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790813/JK-Rowling-supporter-steps-55m-company-founded-Spitfire-Audio-amid-trans-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 23:58:22+00:00
+
+Christian Henson, 50, who created music for television hits including Top Gear, backed the Harry Potter author in a since-deleted Tweet. Today, he announced he'd be stepping down.
+
+## Man at centre of Shrove Tuesday 'medieval football' game brawl is 23-year-old labourer
+ - [https://www.dailymail.co.uk/news/article-11790461/Man-centre-Shrove-Tuesday-medieval-football-game-brawl-23-year-old-labourer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11790461/Man-centre-Shrove-Tuesday-medieval-football-game-brawl-23-year-old-labourer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 23:54:26+00:00
+
+Today one man at the centre of that violence can be identified as Reece Johnston, a 23-year-old labourer from the town of Atherstone where the annual game is held.
+
+## DAILY MAIL COMMENT: True justice means putting victims first
+ - [https://www.dailymail.co.uk/news/article-11791275/DAILY-MAIL-COMMENT-True-justice-means-putting-victims-first.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11791275/DAILY-MAIL-COMMENT-True-justice-means-putting-victims-first.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-02-24 23:49:25+00:00
+
+DAILY MAIL COMMENT: There are some crimes so callous that it is an affront to justice that the perpetrator should serve as little as half their sentence before being freed on parole.
+
 ## Attorney for family of LSU student Madison Brooks slam release of 'hurtful and shameful' video
  - [https://www.dailymail.co.uk/news/article-11791031/Attorney-family-LSU-student-Madison-Brooks-slam-release-hurtful-shameful-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11791031/Attorney-family-LSU-student-Madison-Brooks-slam-release-hurtful-shameful-video.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss

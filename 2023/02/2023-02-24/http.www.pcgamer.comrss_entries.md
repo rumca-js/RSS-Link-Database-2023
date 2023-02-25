@@ -1,5 +1,12 @@
 # Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
+## The Street Fighter 6 trailers are getting me hyped to once again pretend I'm finally going to get good at Street Fighter
+ - [https://www.pcgamer.com/street-fighter-6-cammy-zangief-lily](https://www.pcgamer.com/street-fighter-6-cammy-zangief-lily)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-02-24 23:51:03+00:00
+
+The final character reveal shows us Cammy, Zangief, and newcomer Lily, all of whom I will be bad with.
+
 ## How to befriend Virginia in Sons of the Forest
  - [https://www.pcgamer.com/sons-of-the-forest-virginia](https://www.pcgamer.com/sons-of-the-forest-virginia)
  - RSS feed: http://www.pcgamer.com/rss

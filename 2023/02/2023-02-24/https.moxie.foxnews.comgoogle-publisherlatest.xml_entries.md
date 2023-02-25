@@ -1,5 +1,54 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Teen who shot 3 people in Texas mall charged with murder
+ - [https://www.foxnews.com/us/teen-shot-3-people-texas-mall-charged-murder](https://www.foxnews.com/us/teen-shot-3-people-texas-mall-charged-murder)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:59:56+00:00
+
+The 16-year-old El Paso, Texas, boy who shot and killed 17-year-old Angeles Zaragoza and wounded two others has been charged with murder and three aggravated assault counts
+
+## Mississippi pastor accused of sexual battery held without bond
+ - [https://www.foxnews.com/us/mississippi-pastor-accused-sexual-battery-held-bond](https://www.foxnews.com/us/mississippi-pastor-accused-sexual-battery-held-bond)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:58:52+00:00
+
+A Mississippi youth pastor accused of sexual battery is being held without bond. The pastor was accused of having sex with a 16-year-old church member on two occasions.
+
+## Florida teacher's aide violently attacked after taking student's Nintendo Switch
+ - [https://www.foxnews.com/us/florida-teachers-aide-violently-attacked-taking-students-nintendo-switch](https://www.foxnews.com/us/florida-teachers-aide-violently-attacked-taking-students-nintendo-switch)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:52:58+00:00
+
+Florida deputies released surveillance video of a student attacking a high school teacher's aide who took away his Nintendo Switch during class time.
+
+## Commissioner joins Reno mayor in lawsuit accusing PI of vehicle tracking
+ - [https://www.foxnews.com/us/commissioner-joins-reno-mayor-lawsuit-accusing-pi-vehicle-tracking](https://www.foxnews.com/us/commissioner-joins-reno-mayor-lawsuit-accusing-pi-vehicle-tracking)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:52:26+00:00
+
+A Nevada commissioner joined the Reno mayor in a lawsuit alleging a private investigator put tracking devices on their vehicles. The mayor said the tracking caused severe distress.
+
+## Padres' Manny Machado becomes first victim of MLB's new pitch clock
+ - [https://www.foxnews.com/sports/padres-manny-machado-becomes-first-victim-mlbs-new-pitch-clock](https://www.foxnews.com/sports/padres-manny-machado-becomes-first-victim-mlbs-new-pitch-clock)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:51:17+00:00
+
+Major League Baseball spring training is underway, and so are the new rules in the sport, including a pitch clock. Well, it's going to take the San Diego Padres' Manny Machado some getting used to.
+
+## Rhode Island man caught with 665,000 meth-laced fake Adderall pills gets 10 years
+ - [https://www.foxnews.com/us/rhode-island-man-caught-665000-meth-laced-fake-adderall-pills-10-years](https://www.foxnews.com/us/rhode-island-man-caught-665000-meth-laced-fake-adderall-pills-10-years)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:49:36+00:00
+
+Dylan Rodas of Cumberland, Rhode Island, was sentenced to ten years in prison after pleading guilty to possession of nearly 700,000 fake Adderall pills laced with methamphetamine.
+
+## Paris Hilton says she had her baby via surrogate because of teenage abuse, other 'trauma': 'I want a family'
+ - [https://www.foxnews.com/entertainment/paris-hilton-says-had-baby-surrogate-teenage-abuse-trauma](https://www.foxnews.com/entertainment/paris-hilton-says-had-baby-surrogate-teenage-abuse-trauma)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-02-24 23:47:10+00:00
+
+Paris Hilton said after suffering sexual abuse, including late-night gynecological exams at a boarding school as a teen, she decided to have her first baby via surrogate.
+
 ## Yemeni rebels frustrated by leader's calls to delay seccession
  - [https://www.foxnews.com/world/yemeni-rebels-frustrated-leaders-calls-delay-seccession](https://www.foxnews.com/world/yemeni-rebels-frustrated-leaders-calls-delay-seccession)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
