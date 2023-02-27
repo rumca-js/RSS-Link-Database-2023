@@ -1,0 +1,16 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## How to Clean Unsealed Concrete Floors in Your Basement or Garage
+ - [https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-26 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---MgYWhF8--/c_fit,fl_progressive,q_80,w_636/6e1023097e37b88046495a104be4a70b.jpg" /><p>Out of all the usual household tasks, washing the floors is one of the easiest to put off (repeatedly). It’s a lot of hassle to go through only to have people walk on the clean floors as soon as they dry.</p><p><a href="https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224">Read more...</a></p>
+
+## The Best American Cities for Remote Workers Right Now
+ - [https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-02-26 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--BZWSYXFN--/c_fit,fl_progressive,q_80,w_636/6393ef8c8ff747c10693948ab828ae26.jpg" /><p>Within the span of only a few years, remote office work went from being considered a perk—or something that wasn’t feasible for most people—to a necessity during the early days of the COVID-19 pandemic, and then back to being largely thought of as some type of benefit or luxury. </p><p><a href="https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243">Read more...</a></p>
+
