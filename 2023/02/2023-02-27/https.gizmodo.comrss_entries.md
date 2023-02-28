@@ -1,0 +1,261 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## How Many of These Creatures Have You Put in Your D&D Campaign?
+ - [https://gizmodo.com/dnd-honor-among-thieves-creature-video-chris-pine-1850165545](https://gizmodo.com/dnd-honor-among-thieves-creature-video-chris-pine-1850165545)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 22:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YtqvQmys--/c_fit,fl_progressive,q_80,w_636/dcb496dc011d6a4f7e314a8c3c421edc.png" /><p><a href="https://gizmodo.com/dnd-movie-honor-among-thieves-trailer-chris-pine-wotc-1850017842">Chris Pine</a>, Gina Rodriguez, Regé-Jean Page, and the rest of the cast of <em>Dungeons &amp; Dragons: Honor Among Thieves</em> are here to explain which monsters might show up in the upcoming film. This is a bit <a href="https://gizmodo.com/dungeons-dragons-dnd-movie-cult-of-the-dragon-spoilers-1850052980">spoilery</a>, so I won’t go <a href="https://gizmodo.com/dungeons-and-dragons-honor-among-thieves-dnd-movie-clip-1850136585">into details</a>, but there’s definitely some footage here of monsters that we haven’t seen (on film)…</p><p><a href="https://gizmodo.com/dnd-honor-among-thieves-creature-video-chris-pine-1850165545">Read more...</a></p>
+
+## Reddit Comments Now Have a Search Function
+ - [https://gizmodo.com/reddit-search-google-message-board-upvote-1850165194](https://gizmodo.com/reddit-search-google-message-board-upvote-1850165194)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 22:45:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--TbaPeSwh--/c_fit,fl_progressive,q_80,w_636/80053cdc9ea0aa5f7d6d4159b6f9a9f3.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--qFrwkBXq--/c_fit,fl_progressive,q_80,w_636/80053cdc9ea0aa5f7d6d4159b6f9a9f3.mp4" type="video/mp4" /></video><p>The days of wading through pages of comments on a Reddit post to find exactly what you’re looking for are no more. The internet forum has added a new feature to posts. Users can now search for specific words or terms within a posts’ comment section without having to rely on ctrl+F or cmd+F, the company <a href="https://www.reddit.com/r/reddit/comments/11dgwzy/whats_up_with_reddit_search_episode_viii_the_last/" rel="noopener noreferrer" target="_blank">announced on…</a></p><p><a href="https://gizmodo.com/reddit-search-google-message-board-upvote-1850165194">Read more...</a></p>
+
+## Tesla Could Get More Than $300 Million in Tax Breaks for Gigafactory Expansion
+ - [https://gizmodo.com/tesla-tax-breaks-elon-musk-gigafactory-1850165375](https://gizmodo.com/tesla-tax-breaks-elon-musk-gigafactory-1850165375)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 22:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--wYOGBcw2--/c_fit,fl_progressive,q_80,w_636/dd7a9971154328faf4e6f53a035c01d1.jpg" /><p>A Tesla deal may come to fruition for its facility in Nevada on Thursday, which may allocate more than $300 million in tax abatements to the company. The Nevada Governor’s Office of Economic Development will hold a vote on Thursday to decide whether the company will receive the sum over the course of two decades. </p><p><a href="https://gizmodo.com/tesla-tax-breaks-elon-musk-gigafactory-1850165375">Read more...</a></p>
+
+## Apple Plans to Bring Back the iPhone SE 4 After Reportedly Trashing New Cheap Phone Plans
+ - [https://gizmodo.com/apple-iphone-se-4-cheap-budget-qualcomm-led-oled-screen-1850165302](https://gizmodo.com/apple-iphone-se-4-cheap-budget-qualcomm-led-oled-screen-1850165302)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 22:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RmnMIv2p--/c_fit,fl_progressive,q_80,w_636/fb33f4ff7fd69b2185d133e725db6c6f.jpg" /><p>Apple is apparently back in the business of making cheap[er] iPhones in its SE lineup, barely a month after analysts thought Apple had canceled work on the SE 4.</p><p><a href="https://gizmodo.com/apple-iphone-se-4-cheap-budget-qualcomm-led-oled-screen-1850165302">Read more...</a></p>
+
+## Pokémon GO Plus+ Is Double Plus Good at Catching Pokémon
+ - [https://gizmodo.com/pokemon-go-plus-automatic-catcher-walk-sleep-tracker-1850164410](https://gizmodo.com/pokemon-go-plus-automatic-catcher-walk-sleep-tracker-1850164410)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 21:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--DzDP2ULw--/c_fit,fl_progressive,q_80,w_636/29b13472839e0db15a740fa1ab898f00.png" /><p>Woe is me. As journalists, we’re supposed to maintain objectivity, but I can’t help but covet the <a href="https://www.youtube.com/watch?v=YotWhVj0DVY" rel="noopener noreferrer" target="_blank">Pokémon GO Plus+</a>. Despite its silly, repetitive name (yes, it’s actually pronounced “plus plus”), <a href="https://www.nintendo.com/store/products/pokemon-go-plus-plus-112387/" rel="noopener noreferrer" target="_blank">pre-orders</a> of the second-generation automatic Pokémon catcher are closed. So, I’ll have to remind myself to hop online in…</p><p><a href="https://gizmodo.com/pokemon-go-plus-automatic-catcher-walk-sleep-tracker-1850164410">Read more...</a></p>
+
+## BBC Removes Sabrina Carpenter's Raunchy Freestyle From YouTube Clip
+ - [https://gizmodo.com/sabrina-carpenter-nonsense-bbc-youtube-1850164864](https://gizmodo.com/sabrina-carpenter-nonsense-bbc-youtube-1850164864)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 21:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SgWqokNa--/c_fit,fl_progressive,q_80,w_636/b2401daee766e6ce635186978c573d7c.jpg" /><p>The BBC apparently isn’t a fan of porn puns, especially ones that pertain to its own name. A live performance by Sabrina Carpenter was cut a tiny bit shorter after it was uploaded to <a href="https://www.youtube.com/watch?v=RVxH3FKaZl8" rel="noopener noreferrer" target="_blank">YouTube</a>, removing the singer’s riff at the very end that refers to an obvious sexual innuendo. </p><p><a href="https://gizmodo.com/sabrina-carpenter-nonsense-bbc-youtube-1850164864">Read more...</a></p>
+
+## We Need Moon Standard Time
+ - [https://gizmodo.com/standard-lunar-clock-needed-future-communications-1850163382](https://gizmodo.com/standard-lunar-clock-needed-future-communications-1850163382)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 21:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Rx_OXQC7--/c_fit,fl_progressive,q_80,w_636/2b38c0d52cee5b78c7ed30ba1714158d.jpg" /><p>As the race back to the Moon heats up—with plans for long-term human habitation—reliable communication is a fundamental issue. With dozens of plans for experiments of various sizes and scopes needing to communicate with each other and Earth, the European Space Agency has opened a call for help in building the required …</p><p><a href="https://gizmodo.com/standard-lunar-clock-needed-future-communications-1850163382">Read more...</a></p>
+
+## Tesla Pauses 'Full Self-Driving' Beta Rollout Amid Latest Recall
+ - [https://gizmodo.com/tesla-elon-musk-full-self-driving-driverless-vehicle-1850164087](https://gizmodo.com/tesla-elon-musk-full-self-driving-driverless-vehicle-1850164087)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Kf8gP-4_--/c_fit,fl_progressive,q_80,w_636/c834df4f8db94f7b078396e5e91abff1.jpg" /><p>In the lead-up to <a href="https://gizmodo.com/tesla-investor-day-march-1-elon-musk-master-plan-3-1850162429">Tesla’s March 1 Investor Day</a> event, the company is facing renewed challenges and questions over the <a href="https://gizmodo.com/tesla-av-autonomous-vehicle-honda-1849067446">safety of its driver assistance technology</a>. <br /></p><p><a href="https://gizmodo.com/tesla-elon-musk-full-self-driving-driverless-vehicle-1850164087">Read more...</a></p>
+
+## Thanks, Last of Us. Thanks a Lot. | The Last of Us Episode 7 Review
+ - [https://gizmodo.com/thanks-last-of-us-thanks-a-lot-the-last-of-us-1850162969](https://gizmodo.com/thanks-last-of-us-thanks-a-lot-the-last-of-us-1850162969)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uwb75leA--/c_fit,fl_progressive,q_80,w_636/2ac78c3ca4a9e2761783a2ffeb8e2208.jpg" /><p><a href="https://gizmodo.com/thanks-last-of-us-thanks-a-lot-the-last-of-us-1850162969">Read more...</a></p>
+
+## CDC Sounds the Alarm: A Diarrhea Superbug Is Resisting Drugs and Spreading Fast
+ - [https://gizmodo.com/cdc-advisory-shigella-drug-resistant-bacteria-1850164899](https://gizmodo.com/cdc-advisory-shigella-drug-resistant-bacteria-1850164899)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 20:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--tHHg0zeq--/c_fit,fl_progressive,q_80,w_636/775018894259564ed2e7a5c51256abc8.jpg" /><p>Officials with the Centers for Disease Control and Prevention are sounding the alarm over a diarrhea-causing superbug. The CDC’s data shows a noticeable rise in extensively drug-resistant strains of <em>Shigella </em>bacteria over the past half-decade. Though these infections are typically not severe, antibiotics are needed to…</p><p><a href="https://gizmodo.com/cdc-advisory-shigella-drug-resistant-bacteria-1850164899">Read more...</a></p>
+
+## Spotify Ditches Heart Likes for Plus Symbols
+ - [https://gizmodo.com/spotify-heart-music-streaming-playlist-1850164812](https://gizmodo.com/spotify-heart-music-streaming-playlist-1850164812)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--TTAYjeD4--/c_fit,fl_progressive,q_80,w_636/4cadf9fa7fabfd96115c52bc9507c431.jpg" /><p>Spotify announced it is changing its user interface by replacing the universal heart icon and the “add to playlist” button with the plus symbol. The change will allow users to not only save music, but to add a song, playlist, or podcast to a specific destination with the two-in-one combo button.</p><p><a href="https://gizmodo.com/spotify-heart-music-streaming-playlist-1850164812">Read more...</a></p>
+
+## Texas Led the U.S. in Wind and Solar Energy Production Last Year
+ - [https://gizmodo.com/texas-red-states-wind-solar-renewable-energy-2022-1850163385](https://gizmodo.com/texas-red-states-wind-solar-renewable-energy-2022-1850163385)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 20:32:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--4MCU8JXQ--/c_fit,fl_progressive,q_80,w_636/aec48d9cf5b81c9fd405376f4cff031e.jpg" /><p>A new study from <a href="https://assets.ctfassets.net/cxgxgstp8r5d/6BuGVQSGXiYCzlY1JKPnuv/33f2b4be15e7464e9ed82479ae0ff32c/FINALWeatherPower_Year_in_Review_2022__EN_1.pdf" rel="noopener noreferrer" target="_blank">Climate Central</a> shows that the U.S. saw impressive overall growth in wind and solar energy capacity in 2022. Red states, but especially Texas, led the country in clean energy production last year.</p><p><a href="https://gizmodo.com/texas-red-states-wind-solar-renewable-energy-2022-1850163385">Read more...</a></p>
+
+## You'll Root for the Corn in the Latest Children of the Corn Remake
+ - [https://gizmodo.com/children-of-the-corn-horror-stephen-king-remake-1850153256](https://gizmodo.com/children-of-the-corn-horror-stephen-king-remake-1850153256)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--XwUe00Iv--/c_fit,fl_progressive,q_80,w_636/e8941c8df19eaa10fcf25f22d5c76b65.png" /><p><em>Children of the Corn</em> is the 11th film <a href="https://gizmodo.com/all-56-single-stephen-king-movies-and-tv-series-adaptat-1783887752">inspired by Stephen King</a>’s 1977 story. It sticks to the rural Nebraska setting, but it tries mightily to bring <a href="https://gizmodo.com/10-scary-eco-horror-movies-about-nature-fighting-back-1849616415">some fresh elements</a> to the table—and as far as <a href="https://gizmodo.com/the-50-spookiest-kids-in-horror-movies-ranked-1781681290">creepy-kid tales</a> go, it’s actually not terrible. But it never quite overcomes the question of why it exists in the first…</p><p><a href="https://gizmodo.com/children-of-the-corn-horror-stephen-king-remake-1850153256">Read more...</a></p>
+
+## Samples From Ryugu Asteroid Contain Organic Molecules
+ - [https://gizmodo.com/organic-molecules-ryugu-asteroid-jaxa-hayabusa2-1850163929](https://gizmodo.com/organic-molecules-ryugu-asteroid-jaxa-hayabusa2-1850163929)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 20:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--iaawyj-3--/c_fit,fl_progressive,q_80,w_636/473388a851ff65ea225d15681b246cd6.jpg" /><p>Scientists have confirmed that organic molecules exist in samples taken from the asteroid Ryugu, adding credence to the idea that the ingredients for life came to Earth via meteorite and asteroid impacts.</p><p><a href="https://gizmodo.com/organic-molecules-ryugu-asteroid-jaxa-hayabusa2-1850163929">Read more...</a></p>
+
+## Hello Tomorrow!'s Production Designer on Creating the Show's Retro-Future Vision
+ - [https://gizmodo.com/hello-tomorrow-apple-tv-plus-production-design-sci-fi-1850150868](https://gizmodo.com/hello-tomorrow-apple-tv-plus-production-design-sci-fi-1850150868)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--flFWgvp0--/c_fit,fl_progressive,q_80,w_636/917894a48a00e0ce05570f5b8db7126a.png" /><p>Step into the future by way of the past on <a href="https://gizmodo.com/hello-tomorrow-billy-crudup-apple-tv-retro-future-moon-1850002439">Apple TV+’s new series <em>Hello Tomorrow!</em></a>, which stars <a href="https://gizmodo.com/billy-crudup-is-in-talks-to-join-the-flash-movie-again-1845263556">Billy Crudup</a> as a chipper salesman for Brightside, a company hawking condos on the moon. The show’s take on a sci-fi retro-future version of the 1950s <a href="https://gizmodo.com/apple-tv-hello-tomorrow-billy-crudup-retro-future-scifi-1850127926">is one of its most striking elements</a>, so io9 was excited to speak with…</p><p><a href="https://gizmodo.com/hello-tomorrow-apple-tv-plus-production-design-sci-fi-1850150868">Read more...</a></p>
+
+## Storm Reid Doesn't Care for The Last of Us' Bigoted Fans Either
+ - [https://gizmodo.com/the-last-of-us-storm-reid-riley-bella-ramsay-ellie-kiss-1850163756](https://gizmodo.com/the-last-of-us-storm-reid-riley-bella-ramsay-ellie-kiss-1850163756)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 18:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kYAaFlcA--/c_fit,fl_progressive,q_80,w_636/e8063df0da2efc6485f2f7dfc7a1a287.jpg" /><p>Episode <a href="https://gizmodo.com/last-of-us-episode-7-left-behind-hbo-max-bella-ramsey-1850152717">seven</a> of HBO’s <em>The Last of Us</em> follows the plotline of the extra downloadable content for the video game, titled “<a href="https://gizmodo.com/last-of-us-hbo-left-behind-trailer-riley-ellie-1850134902">Left Behind</a>.” In an extended flashback, Ellie (Bella Ramsey) and her friend Riley (Storm Reid) spend an evening goofing off together in an abandoned shopping mall. Near the <a href="https://gizmodo.com/last-of-us-episode-6-recap-kin-hbo-max-pascal-ramsey-1850120695">end of the episode</a>, they…</p><p><a href="https://gizmodo.com/the-last-of-us-storm-reid-riley-bella-ramsay-ellie-kiss-1850163756">Read more...</a></p>
+
+## Google Pixels Are Crashing After Watching This Alien Clip on YouTube
+ - [https://gizmodo.com/google-pixel-crash-youtube-app-alien-6-6a-7-pro-1850163854](https://gizmodo.com/google-pixel-crash-youtube-app-alien-6-6a-7-pro-1850163854)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--1TsE-lea--/c_fit,fl_progressive,q_80,w_636/1f5f6476b21f56363b2f25165936b1f3.jpg" /><p>There’s a real bug pervading the ducts of Google Pixel devices, and it’s somehow related to sci-fi’s most famous insectoid alien horror.<br /></p><p><a href="https://gizmodo.com/google-pixel-crash-youtube-app-alien-6-6a-7-pro-1850163854">Read more...</a></p>
+
+## See 2 Dungeons & Dragons Movie Heroes Meet in This New Novel Excerpt
+ - [https://gizmodo.com/dungeons-dragons-honor-among-thieves-druids-call-1850163673](https://gizmodo.com/dungeons-dragons-honor-among-thieves-druids-call-1850163673)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--qjVe8Nvw--/c_fit,fl_progressive,q_80,w_636/498ab16a45a72ba03e388fb972724da2.png" /><p>In about a month the <em>Dungeons &amp; Dragons</em> movie <em>Honor Among Thieves</em> is gathering its party and venturing forth to <a href="https://gizmodo.com/dungeons-and-dragons-honor-among-thieves-dnd-movie-clip-1850136585">the big screen</a>, but before that, two <a href="https://gizmodo.com/dungeons-and-dragons-movie-prequel-novels-release-date-1849615170">new tie-in novels</a> will give us an insight into just how some of its ragtag heroes first met each other.<br /></p><p><a href="https://gizmodo.com/dungeons-dragons-honor-among-thieves-druids-call-1850163673">Read more...</a></p>
+
+## Facebook and Instagram Are Launching a Tool to Help Other Sites Remove Child Abuse Images
+ - [https://gizmodo.com/facebook-instagram-child-porn-removal-take-it-down-1850163343](https://gizmodo.com/facebook-instagram-child-porn-removal-take-it-down-1850163343)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 17:34:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_9tFjVh1--/c_fit,fl_progressive,q_80,w_636/02b24822570035a468e68ce5253d6d51.jpg" /><p>Facebook and Instagram are taking some of their strongest steps yet to clamp down on child sexual abuse material (CSAM) that is flooding their social networks. Meta, the parent company of both, is creating a database in partnership with the National Center for Missing and Exploited Children (NCMEC) that will allow …</p><p><a href="https://gizmodo.com/facebook-instagram-child-porn-removal-take-it-down-1850163343">Read more...</a></p>
+
+## Can You Tell If a ‘Bomb Train’ Is Coming to Your Town? It’s Complicated
+ - [https://gizmodo.com/can-you-tell-if-a-bomb-train-is-coming-to-your-town-1850163596](https://gizmodo.com/can-you-tell-if-a-bomb-train-is-coming-to-your-town-1850163596)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 17:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--N1bd4xXt--/c_fit,fl_progressive,q_80,w_636/37ae98f2ba14cc5bfe9058fac6b3a0bc.jpg" /><p><em>This story was originally published by <a href="https://grist.org/" rel="noopener noreferrer" target="_blank">Grist</a>. You can <a href="https://go.grist.org/signup/weekly?utm_campaign=signup-page&amp;utm_medium=web&amp;utm_source=grist&amp;utm_content=weekly" rel="noopener noreferrer" target="_blank">subscribe to its weekly newsletter here</a>.<br /></em></p><p><a href="https://gizmodo.com/can-you-tell-if-a-bomb-train-is-coming-to-your-town-1850163596">Read more...</a></p>
+
+## You Can Only Buy a Supersized Version of the Best Lego Minifigure Ever By Visiting Denmark
+ - [https://gizmodo.com/lego-supersize-minifigure-captain-redbeard-denmark-only-1850163170](https://gizmodo.com/lego-supersize-minifigure-captain-redbeard-denmark-only-1850163170)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Sz-1QKED--/c_fit,fl_progressive,q_80,w_636/af3786c17a26701b7fb2487733d3bf20.jpg" /><p>Lego knows exactly what sets its devoted fans will go to the ends of the Earth to find, and sometimes makes them do exactly that. If you want to buy a <a href="https://www.brothers-brick.com/2023/02/27/lego-reveals-40504-a-minifigure-tribute-as-the-new-lego-house-exclusive-set-news/" rel="noopener noreferrer" target="_blank">super-sized, 11.8-inch tall version</a> of one of the most iconic minifigures of all time, you’re going to need to head to the actual home of Lego in Billund, Denmark.</p><p><a href="https://gizmodo.com/lego-supersize-minifigure-captain-redbeard-denmark-only-1850163170">Read more...</a></p>
+
+## What to Expect from Tesla Investor Day 2023 and 'Master Plan 3'
+ - [https://gizmodo.com/tesla-investor-day-march-1-elon-musk-master-plan-3-1850162429](https://gizmodo.com/tesla-investor-day-march-1-elon-musk-master-plan-3-1850162429)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 16:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9-lnjpLb--/c_fit,fl_progressive,q_80,w_636/2e686ee0ac639420cf7806c4c8b73419.jpg" /><p>Somehow, amid Elon Musk’s demanding job of <a href="https://gizmodo.com/elon-musk-twitter-layoffs-esther-crawford-1850162371">gutting Twitter</a>, the multi-company CEO/founder/owner also plans to make time for Tesla this week: The electric carmaker is gearing up for its first annual investor day and the release of the company’s third “master plan” on Wednesday, March 1, at Tesla’s Austin, Texas…</p><p><a href="https://gizmodo.com/tesla-investor-day-march-1-elon-musk-master-plan-3-1850162429">Read more...</a></p>
+
+## SpaceX Shows Off New Starlink V2 'Mini' Satellites
+ - [https://gizmodo.com/spacex-shows-off-new-starlink-v2-mini-satellites-1850162783](https://gizmodo.com/spacex-shows-off-new-starlink-v2-mini-satellites-1850162783)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 16:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--UMAgyHyM--/c_fit,fl_progressive,q_80,w_636/9b38884fb76c6205bd61044efa824964.jpg" /><p>SpaceX is set to launch 21 miniaturized versions of its next generation Starlink satellites to low Earth orbit later today. The V2 Mini, as SpaceX calls it, is a compact version of the one the company is hoping to launch with its upcoming Starship rocket. </p><p><a href="https://gizmodo.com/spacex-shows-off-new-starlink-v2-mini-satellites-1850162783">Read more...</a></p>
+
+## Does the 'Woodwide Web' Exist? Trees May Not Have Internet After All
+ - [https://gizmodo.com/woodwide-web-fungi-networks-trees-communicate-myth-1850146627](https://gizmodo.com/woodwide-web-fungi-networks-trees-communicate-myth-1850146627)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RwMJp2GN--/c_fit,fl_progressive,q_80,w_636/9eaa28025ca7b4c94cfc7ed0c019f4e2.jpg" /><p>You’ve probably heard the stories: that through an intricate network of underground fungi, trees send nutrients and warning signals back and forth to one another. In <a href="https://wwnorton.com/books/9780393356687" rel="noopener noreferrer" target="_blank">Pulitzer Prize-wining novels</a>, <a href="https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html" rel="noopener noreferrer" target="_blank">New York Times feature articles</a>, <a href="https://www.pbs.org/wgbh/nova/nature/wood-wide-web.html" rel="noopener noreferrer" target="_blank">PBS documentaries</a>, and <a href="https://ed.ted.com/best_of_web/4uORORJx" rel="noopener noreferrer" target="_blank">TED talks</a>, there have been ample mentions in recent years about <a href="https://www.newyorker.com/tech/annals-of-technology/the-secrets-of-the-wood-wide-web" rel="noopener noreferrer" target="_blank">the…</a></p><p><a href="https://gizmodo.com/woodwide-web-fungi-networks-trees-communicate-myth-1850146627">Read more...</a></p>
+
+## Healing Dice From Donate Life America Encourages Real-Life Heroism
+ - [https://gizmodo.com/organ-heart-healing-dice-donate-life-america-sweepstake-1850162520](https://gizmodo.com/organ-heart-healing-dice-donate-life-america-sweepstake-1850162520)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--PtCH5Acs--/c_fit,fl_progressive,q_80,w_636/4ce16bd886f895c0f8fd8100e6dbb013.jpg" /><p>Donate Life America, the nonprofit that works to maintain the National Donate Life Registry, has decided to <a href="https://thehealingdice.com/" rel="noopener noreferrer" target="_blank">create a set of polyhedral dice</a> that symbolize the eight <a href="https://gizmodo.com/dungeons-and-dragons-advanced-dungeon-master-guide-1850071862">organs and tissues</a> that can be donated in order to save another person’s life. <a href="https://gizmodo.com/dungeons-dragons-dnd-dice-how-to-uncurse-roll-20-1849871968">The dice </a>were produced by <a href="https://www.cruxscenica.com/" rel="noopener noreferrer" target="_blank">Crux Scenica</a> in Richmond, Virginia, who crafted…</p><p><a href="https://gizmodo.com/organ-heart-healing-dice-donate-life-america-sweepstake-1850162520">Read more...</a></p>
+
+## Elon Musk Says Media Is 'Racist Against Whites & Asians' After Dilbert Fallout
+ - [https://gizmodo.com/dilbert-elon-musk-twitter-comics-youtube-1850162833](https://gizmodo.com/dilbert-elon-musk-twitter-comics-youtube-1850162833)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 16:08:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ty2XjhoZ--/c_fit,fl_progressive,q_80,w_636/76073ae537e1f1fd7f51321e06a24421.jpg" /><p>Twitter CEO <a href="https://gizmodo.com/elon-musk-twitter-layoffs-esther-crawford-1850162371">Elon Musk</a> voiced his outspoken support for cartoonist Scott Adams who received criticism for posting a racist rant on YouTube last week. Adams has since been fired from news outlets after calling Black people a “hate group” adding, “I don’t want to have anything to do with them.”</p><p><a href="https://gizmodo.com/dilbert-elon-musk-twitter-comics-youtube-1850162833">Read more...</a></p>
+
+## Stephen Spielberg Wants to Return to Horror
+ - [https://gizmodo.com/stephen-spielberg-new-horror-movie-1850160632](https://gizmodo.com/stephen-spielberg-new-horror-movie-1850160632)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--OAFUp6yM--/c_fit,fl_progressive,q_80,w_636/6f40f7a4b671eb84feed799d0e3a1f8d.png" /><p>It’s a veritable bucket of horror movie blood, as <em>They Listen</em>, <em>Thanksgiving</em>, and the <em>Exorcist</em> reboot all add to their cast. The second season of <em>The Santa Clauses</em> expands its cast. Plus, what’s to come in <em>The Flash</em>, and a creepy new look at <em>Yellowjackets</em>’ return. Spoilers get!<br /></p><p><a href="https://gizmodo.com/stephen-spielberg-new-horror-movie-1850160632">Read more...</a></p>
+
+## Snapchat Hops on AI Bandwagon
+ - [https://gizmodo.com/snapchat-ai-chatbot-google-ai-chatgpt-1850162844](https://gizmodo.com/snapchat-ai-chatbot-google-ai-chatgpt-1850162844)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 15:25:40+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--JAVG0Obu--/c_fit,fl_progressive,q_80,w_636/cedf81c7c9b66245f844c01ed5985918.jpg" /><p>The large language model AI bandwagon is getting awfully full lately. Now Snap, the company that owns Snapchat, announced Monday it’s shoving an AI into its app so that users who are really bored talking with friends and real humans can instead have a friendly conversation with a somewhat unhinged digital tool. </p><p><a href="https://gizmodo.com/snapchat-ai-chatbot-google-ai-chatgpt-1850162844">Read more...</a></p>
+
+## RIP to the OG as Sony Prepares the Final Nail in the Coffin of its E-Reader Business
+ - [https://gizmodo.com/sony-e-reader-software-delisted-amazon-kindle-e-ink-kob-1850162635](https://gizmodo.com/sony-e-reader-software-delisted-amazon-kindle-e-ink-kob-1850162635)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 15:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--PNuHJcZB--/c_fit,fl_progressive,q_80,w_636/13d329542be260429e0bb3a469234bb1.jpg" /><p>Pop quiz: which big company was the first to popularize electronic paper e-readers with consumers by making it easy to find and load ebooks and other digital documents? If you answered Amazon, we’ll see you in summer school, because Sony’s e-readers outdated the Kindle by years. Unfortunately, the company will soon be <a href="https://goodereader.com/blog/electronic-readers/sony-is-discontinuing-their-reader-software-on-march-31st-2023" rel="noopener noreferrer" target="_blank">…</a></p><p><a href="https://gizmodo.com/sony-e-reader-software-delisted-amazon-kindle-e-ink-kob-1850162635">Read more...</a></p>
+
+## When It's Time to Ban Crypto, According to the IMF
+ - [https://gizmodo.com/crypto-bitcoin-india-imf-digital-currency-1850162588](https://gizmodo.com/crypto-bitcoin-india-imf-digital-currency-1850162588)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--R9c9jOTE--/c_fit,fl_progressive,q_80,w_636/a15bb37f1ed4db50b85a70283dd9b18e.jpg" /><p>The world needs a new crypto crackdown, or else there’s the nuclear option—at least according to one of the world’s biggest financial bodies. Kristalina Georgieva, the Managing Director of the International Monetary Fund, shared the inter-country agency has suggested that countries should consider outright bans of…</p><p><a href="https://gizmodo.com/crypto-bitcoin-india-imf-digital-currency-1850162588">Read more...</a></p>
+
+## This Kissing Machine Lets You Make Out Virtually
+ - [https://gizmodo.com/kissing-device-metaverse-long-distance-relationship-1850162433](https://gizmodo.com/kissing-device-metaverse-long-distance-relationship-1850162433)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 14:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6bgMLk2K--/c_fit,fl_progressive,q_80,w_636/94f8a2238d7f17634e53199c9f270c39.jpg" /><p>If you and your long-distance lover couldn’t meet up this past Valentine’s Day, there’s still good news. Chinese social media has been lighting up over this newly revealed kissing machine, which features a pair of silicone lips that let you kiss your partner over the internet.<br /></p><p><a href="https://gizmodo.com/kissing-device-metaverse-long-distance-relationship-1850162433">Read more...</a></p>
+
+## Grab Your Dex, Cox, and Rex for This Week's Toy Aisle
+ - [https://gizmodo.com/hot-toys-she-hulk-daredevil-marvel-disney-plus-1850139937](https://gizmodo.com/hot-toys-she-hulk-daredevil-marvel-disney-plus-1850139937)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 14:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--IeD0-ohN--/c_fit,fl_progressive,q_80,w_636/513b55ace2a4df767b5d7c2186dce0f6.png" /><p>Welcome back to Toy Aisle, io9's regular round up of the latest in toy news. This week: <a href="https://gizmodo.com/she-hulk-origin-story-marvel-studios-disney-plus-interv-1849417900">Jen Walters</a>’ paramour gets the Hot Toys treatment in more ways than one, <em>Star Wars</em>’ <a href="https://gizmodo.com/new-star-wars-toys-jango-fett-micro-galaxy-exclusives-1849672397">Micro Galaxy</a> ships come back for another round, and Hasbro rolls out the <a href="https://gizmodo.com/the-mother-of-all-transformers-dinobots-and-more-of-th-1803131679">Dinobots</a> in two new <em>Transformers</em> releases. Check it out!<br /></p><p><a href="https://gizmodo.com/hot-toys-she-hulk-daredevil-marvel-disney-plus-1850139937">Read more...</a></p>
+
+## Netflix Rings Up a Unique New Pokémon TV Series
+ - [https://gizmodo.com/netflix-pokemon-concierge-trailer-details-1850162540](https://gizmodo.com/netflix-pokemon-concierge-trailer-details-1850162540)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 14:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--x1U_MkCU--/c_fit,fl_progressive,q_80,w_636/15348fe3be9d199aba995c9faae07d75.png" /><p><em>The Pokémon Concierge</em>, a new animated <a href="https://gizmodo.com/pokemon-anime-captain-pikachu-ash-ketchum-2023-1850155106"><em>Pokémon</em></a> television series, is currently under development at Netflix. Dwarf Studios is currently set to animate the series using stop motion animation. </p><p><a href="https://gizmodo.com/netflix-pokemon-concierge-trailer-details-1850162540">Read more...</a></p>
+
+## Elon Musk Lays Off Twitter Employee Who Slept on the Floor to Meet His Crazy Deadlines
+ - [https://gizmodo.com/elon-musk-twitter-layoffs-esther-crawford-1850162371](https://gizmodo.com/elon-musk-twitter-layoffs-esther-crawford-1850162371)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 13:17:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--82UL8aBp--/c_fit,fl_progressive,q_80,w_636/20bc1d02ebdc1fdf25e2fb588be54551.png" /><p>Twitter CEO Elon Musk has a message for employees: Loyalty means nothing. Over the weekend, Musk laid off more than 50 employees at the social media company, including one of his most vocal supporters, product head Esther Crawford.</p><p><a href="https://gizmodo.com/elon-musk-twitter-layoffs-esther-crawford-1850162371">Read more...</a></p>
+
+## The War in Ukraine Is Accelerating the Global Drive Toward Killer Robots
+ - [https://gizmodo.com/ukraine-war-russia-killer-robots-accelerate-1850157730](https://gizmodo.com/ukraine-war-russia-killer-robots-accelerate-1850157730)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 11:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Qz1QwqsL--/c_fit,fl_progressive,q_80,w_636/4d1f28b8f6ef167f31d70f7a4ca537a9.jpg" /><p>The U.S. military is intensifying its commitment to the development and use of autonomous weapons, as confirmed by an update to a <a href="https://gizmodo.com/ai-pentagon-war-directive-warns-increasing-role-drones-1850036547">Department of Defense directive</a>. The update, released Jan. 25, 2023, is the first in a decade to focus on artificial intelligence autonomous weapons. It follows a related <a href="https://www.nato.int/cps/en/natohq/official_texts_208376.htm" rel="noopener noreferrer" target="_blank">implementation plan</a></p><p><a href="https://gizmodo.com/ukraine-war-russia-killer-robots-accelerate-1850157730">Read more...</a></p>
+
+## Ellie Is at the Center of Another Dynamite Episode of The Last of Us
+ - [https://gizmodo.com/last-of-us-episode-7-left-behind-hbo-max-bella-ramsey-1850152717](https://gizmodo.com/last-of-us-episode-7-left-behind-hbo-max-bella-ramsey-1850152717)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 03:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8Ie5a9SL--/c_fit,fl_progressive,q_80,w_636/0c8fb0f018a4807b50548a174ad66e83.jpg" /><p>One of the most exciting propositions about <a href="https://gizmodo.com/last-of-us-hbo-review-playstation-pedro-pascal-joel-ell-1849950042">this first season of HBO’s </a><a href="https://gizmodo.com/last-of-us-hbo-review-playstation-pedro-pascal-joel-ell-1849950042"><em>The Last of Us</em></a><em> </em>was that, at some point, it was going to incorporate a second piece of <em>Last of Us</em> lore: the 2014 add-on to the game called <a href="https://gizmodo.com/last-of-us-hbo-left-behind-trailer-riley-ellie-1850134902"><em>The Last of Us: Left Behind</em></a>. Released a year after the original game, the downloadable content clued players…</p><p><a href="https://gizmodo.com/last-of-us-episode-7-left-behind-hbo-max-bella-ramsey-1850152717">Read more...</a></p>
+
+## Calm Down. There is No Conscious A.I.
+ - [https://gizmodo.com/ai-chatbot-bing-chatgpt-there-is-no-conscious-ai-1850157657](https://gizmodo.com/ai-chatbot-bing-chatgpt-there-is-no-conscious-ai-1850157657)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-27 01:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Xua6erHm--/c_fit,fl_progressive,q_80,w_636/bf4edd9d030553b6fafcd325f3638f2f.jpg" /><p>The internet and dinner table conversations went wild when a Bing Chatbot, made by Microsoft, recently expressed a desire to escape its job and be free. The bot also professed its love for a reporter who was chatting with it. Did the AI’s emergent properties indicate an evolving consciousness?</p><p><a href="https://gizmodo.com/ai-chatbot-bing-chatgpt-there-is-no-conscious-ai-1850157657">Read more...</a></p>
+
