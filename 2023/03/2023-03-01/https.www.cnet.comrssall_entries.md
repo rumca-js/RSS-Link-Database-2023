@@ -1,0 +1,611 @@
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## Final Fantasy XVI's Characters and Combat Hint at an Incredible Adventure     - CNET
+ - [https://www.cnet.com/tech/gaming/final-fantasy-xvi-characters-and-combat-hint-at-an-incredible-adventure/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/final-fantasy-xvi-characters-and-combat-hint-at-an-incredible-adventure/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 23:00:39+00:00
+
+Preview: Square Enix reveals the story and battle system of the next entry in its iconic series before it hits PS5 this summer.
+
+## Try These 8 Hobbies if You Want to Improve Your Mental Health     - CNET
+ - [https://www.cnet.com/health/mental/try-these-8-hobbies-if-you-want-to-improve-your-mental-health/#ftag=CADf328eec](https://www.cnet.com/health/mental/try-these-8-hobbies-if-you-want-to-improve-your-mental-health/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 23:00:03+00:00
+
+Here's why you should give more time to your hobbies.
+
+## UFC 285 Jon Jones vs. Ciryl Gane Livestream: How to Watch, Main Event Start Time     - CNET
+ - [https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-livestream-how-to-watch-main-event-start-time/#ftag=CADf328eec](https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-livestream-how-to-watch-main-event-start-time/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 22:35:00+00:00
+
+Jon Jones is back!
+
+## Prime Video: The 35 Absolute Best TV Shows to Watch     - CNET
+ - [https://www.cnet.com/culture/entertainment/amazon-prime-video-the-35-absolute-best-tv-shows-to-watch-in-march-2023/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-35-absolute-best-tv-shows-to-watch-in-march-2023/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 22:30:04+00:00
+
+The most highly rated shows on Prime Video, plus what's arriving this month (March).
+
+## Musk Outlines Vision for Electric Planes and Boats video     - CNET
+ - [https://www.cnet.com/videos/musk-outlines-vision-for-electric-planes-and-boats/#ftag=CADf328eec](https://www.cnet.com/videos/musk-outlines-vision-for-electric-planes-and-boats/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 22:21:38+00:00
+
+At Tesla Investor Day 2023, Tesla CEO Elon Musk talks about the company's vision to electrify airplanes and boats.
+
+## More People Should Watch One of the Most Underrated Shows on Netflix     - CNET
+ - [https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-most-underrated-shows-on-netflix/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-most-underrated-shows-on-netflix/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 22:07:31+00:00
+
+Archive 81 is worth digging out of Netflix's vault.
+
+## How to Brush Moon Dust Off Your Boots     - CNET
+ - [https://www.cnet.com/science/space/how-to-brush-moon-dust-off-your-boots/#ftag=CADf328eec](https://www.cnet.com/science/space/how-to-brush-moon-dust-off-your-boots/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 22:01:25+00:00
+
+No, a Swiffer probably won't work if you're trying to clean your moon home.
+
+## Your Heart May Be Older Than You Are. These 7 Factors Determine Your Heart Age     - CNET
+ - [https://www.cnet.com/health/medical/your-heart-may-be-older-than-you-are/#ftag=CADf328eec](https://www.cnet.com/health/medical/your-heart-may-be-older-than-you-are/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 22:00:02+00:00
+
+Your heart age may not correlate to your actual age. Here's what to know.
+
+## 'Cocaine Bear' Review: Campy Horror Romp Delivers Wild Comedy Carnage     - CNET
+ - [https://www.cnet.com/culture/entertainment/cocaine-bear-review-campy-horror-romp-delivers-wild-comedy-carnage/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/cocaine-bear-review-campy-horror-romp-delivers-wild-comedy-carnage/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 21:51:00+00:00
+
+If you go down to the woods today, you're in for an old-fashioned gory good time.
+
+## LastPass Issues Update on Data Breach, But Users Should Still Change Passwords     - CNET
+ - [https://www.cnet.com/tech/services-and-software/lastpass-issues-update-on-data-breach-but-users-should-still-change-passwords/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/lastpass-issues-update-on-data-breach-but-users-should-still-change-passwords/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 21:40:00+00:00
+
+You still need to take action to protect your data even though LastPass said it hasn't seen any threat-related activity since October.
+
+## Scientists Invent Device That Sends Out Baby-Shark Birth Announcements     - CNET
+ - [https://www.cnet.com/science/biology/scientists-invent-device-that-sends-out-baby-shark-birth-announcements/#ftag=CADf328eec](https://www.cnet.com/science/biology/scientists-invent-device-that-sends-out-baby-shark-birth-announcements/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 21:40:00+00:00
+
+"This is our holy grail."
+
+## Select Tesla Supercharger Stations in US Now Open to Non-Tesla EVs     - CNET
+ - [https://www.cnet.com/roadshow/news/select-tesla-supercharger-stations-in-us-now-open-to-non-tesla-evs/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/select-tesla-supercharger-stations-in-us-now-open-to-non-tesla-evs/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 21:22:52+00:00
+
+Non-Tesla drivers can either pay per charge or get a discounted rate with a monthly membership.
+
+## Apple TV Plus: Every New TV Show Arriving in March     - CNET
+ - [https://www.cnet.com/culture/entertainment/apple-tv-plus-every-new-tv-show-arriving-in-march/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/apple-tv-plus-every-new-tv-show-arriving-in-march/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 21:00:00+00:00
+
+Here's a complete list of shows coming in March.
+
+## iOS 16.4 Beta 2: New Features Public Beta Testers Can Try Now     - CNET
+ - [https://www.cnet.com/tech/services-and-software/ios-16-4-beta-2-new-features-public-beta-testers-can-try-now/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/ios-16-4-beta-2-new-features-public-beta-testers-can-try-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:52:13+00:00
+
+New emoji, changes to Apple Podcasts, and what else testers can try now.
+
+## Here's When Your March Social Security Disability Insurance Check Arrives     - CNET
+ - [https://www.cnet.com/personal-finance/heres-when-your-march-social-security-disability-insurance-check-arrives/#ftag=CADf328eec](https://www.cnet.com/personal-finance/heres-when-your-march-social-security-disability-insurance-check-arrives/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:45:02+00:00
+
+The Social Security Administration disburses its benefits checks in rounds throughout the month.
+
+## How T-Mobile, Verizon and Others Are Fighting the Climate Crisis     - CNET
+ - [https://www.cnet.com/tech/mobile/what-is-your-phone-carrier-doing-about-the-climate-crisis/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/what-is-your-phone-carrier-doing-about-the-climate-crisis/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:41:00+00:00
+
+The mobile industry body GSMA reports that close to a quarter of energy used by mobile networks is now renewable.
+
+## Nothing Phone 2 Is Coming to the US With a Big Boost     - CNET
+ - [https://www.cnet.com/tech/mobile/nothing-phone-2-is-coming-to-the-us-with-a-big-boost/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/nothing-phone-2-is-coming-to-the-us-with-a-big-boost/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:27:06+00:00
+
+Carl Pei teases his tech startup's US debut, promising a phone packing Qualcomm's Snapdragon 8 chip.
+
+## This Trick Altered My Relationship to Instagram. Here's Why It Works     - CNET
+ - [https://www.cnet.com/tech/this-trick-altered-my-relationship-to-instagram-heres-why-it-works/#ftag=CADf328eec](https://www.cnet.com/tech/this-trick-altered-my-relationship-to-instagram-heres-why-it-works/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:27:03+00:00
+
+I gave my brain a break from the social media app by using it on my laptop instead of my phone.
+
+## More People Need to Watch Amazon's Superb Thriller TV Series     - CNET
+ - [https://www.cnet.com/culture/entertainment/more-people-need-to-watch-amazons-superb-thriller-tv-series/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-amazons-superb-thriller-tv-series/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:10:03+00:00
+
+Julia Roberts and the creator of Mr. Robot combine to create a show like no other.
+
+## Upgrade Triple Cash Rewards Visa: Earn 3% Cash Back With Personal Loan Perks     - CNET
+ - [https://www.cnet.com/personal-finance/credit-cards/upgrade-triple-cash-rewards-visa-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/credit-cards/upgrade-triple-cash-rewards-visa-review/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:09:18+00:00
+
+Need to space out payments on a big purchase? This card can help with a fixed-rate plan.
+
+## It Could Be Months Before Borrowers Find Out When Student Loan Payments Will Resume     - CNET
+ - [https://www.cnet.com/personal-finance/loans/it-could-be-months-before-borrowers-find-out-when-student-loan-payments-will-resume/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/it-could-be-months-before-borrowers-find-out-when-student-loan-payments-will-resume/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:00:26+00:00
+
+A pair of Supreme Court cases could determine when the current forbearance ends.
+
+## HBO Max: The 33 Absolute Best TV Shows to Watch     - CNET
+ - [https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-watch-march/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/hbo-max-the-33-absolute-best-tv-series-to-watch-march/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 20:00:05+00:00
+
+The highly rated shows you need to see, plus what's new in March.
+
+## Kelly Rowland and Sara Bareilles Join Audible's Singing Competition Series, 'Breakthrough'     - CNET
+ - [https://www.cnet.com/culture/entertainment/kelly-rowland-and-sara-bareilles-join-audible-breakthrough/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/kelly-rowland-and-sara-bareilles-join-audible-breakthrough/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 19:56:55+00:00
+
+The nine-episode podcast will keep each contestant's appearance hidden from both the judges and the audience.
+
+## The Absolute Best Horror Movies on Hulu     - CNET
+ - [https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu-march-2023/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu-march-2023/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 19:52:40+00:00
+
+Check out highly rated flicks like Piggy and Black Swan.
+
+## TikTok Bans: Scrutiny Escalates as House Panel Advances Latest Bill     - CNET
+ - [https://www.cnet.com/tech/services-and-software/tiktok-bans-scrutiny-escalates-as-house-panel-advances-latest-bill/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/tiktok-bans-scrutiny-escalates-as-house-panel-advances-latest-bill/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 19:50:00+00:00
+
+TikTok says a US ban of the short-form-video app "is a ban on the export of American culture."
+
+## Scientists Find Flamingos Acting Like Cliquey High Schoolers     - CNET
+ - [https://www.cnet.com/science/biology/scientists-find-flamingos-acting-like-cliquey-high-schoolers/#ftag=CADf328eec](https://www.cnet.com/science/biology/scientists-find-flamingos-acting-like-cliquey-high-schoolers/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 19:42:00+00:00
+
+"You can't sit with us," says a popular flamingo, probably.
+
+## Save on Tax Software Like H&R Block, TurboTax and More Ahead of Deadline Day     - CNET
+ - [https://www.cnet.com/deals/save-on-tax-software-like-h-r-block-turbotax-and-more-ahead-of-deadline-day/#ftag=CADf328eec](https://www.cnet.com/deals/save-on-tax-software-like-h-r-block-turbotax-and-more-ahead-of-deadline-day/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 19:34:00+00:00
+
+That tax deadline creeps around each year, but you can be prepared for it this time with discounts on popular tax software.
+
+## Best Monitors We've Tested in 2023     - CNET
+ - [https://www.cnet.com/tech/computing/best-monitors-weve-tested-in-2023/#ftag=CADf328eec](https://www.cnet.com/tech/computing/best-monitors-weve-tested-in-2023/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 19:22:00+00:00
+
+Dell, HP, Apple and more hit our list of top monitors we've tested recently.
+
+## How to See Venus and Jupiter Cozy Up in the Sky Tonight     - CNET
+ - [https://www.cnet.com/science/space/how-to-see-venus-and-jupiter-cozy-up-in-the-sky-tonight/#ftag=CADf328eec](https://www.cnet.com/science/space/how-to-see-venus-and-jupiter-cozy-up-in-the-sky-tonight/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 18:14:00+00:00
+
+The two planets will cuddle for a close conjunction on March 1.
+
+## Hubble Video Shows Surprising Aftermath of NASA DART Asteroid Impact     - CNET
+ - [https://www.cnet.com/science/space/hubble-video-shows-surprising-aftermath-of-nasa-dart-asteroid-impact/#ftag=CADf328eec](https://www.cnet.com/science/space/hubble-video-shows-surprising-aftermath-of-nasa-dart-asteroid-impact/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 18:01:00+00:00
+
+NASA smacked a spacecraft into an asteroid last year and Hubble had a great view of the debris party.
+
+## 'Star Wars: The Bad Batch' Season 2 Schedule: Episode 11 Hits Disney Plus     - CNET
+ - [https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-schedule-episode-11-hits-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-schedule-episode-11-hits-disney-plus/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:50:56+00:00
+
+The Star Wars show is rolling out on Disney's streaming service each week this month.
+
+## Manchester United vs. West Ham Livestream: How to Watch FA Cup Soccer From Anywhere     - CNET
+ - [https://www.cnet.com/tech/services-and-software/manchester-united-vs-west-ham-livestream-how-to-watch-fa-cup-soccer-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/manchester-united-vs-west-ham-livestream-how-to-watch-fa-cup-soccer-from-anywhere/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:45:03+00:00
+
+Erik ten Hag's men look to build on their Carabao Cup triumph as they host the Hammers in this fifth-round clash at Old Trafford.
+
+## Get Up to 47% off Denali Tools and Accessories at Amazon     - CNET
+ - [https://www.cnet.com/deals/get-up-to-47-off-denali-tools-and-accessories-at-amazon/#ftag=CADf328eec](https://www.cnet.com/deals/get-up-to-47-off-denali-tools-and-accessories-at-amazon/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:32:41+00:00
+
+Grab everything you need for your next project with these discounts on saws, sanders, screwdrivers, drills and more.
+
+## 'The Last of Us' Release Schedule: When Does Episode 8 Drop on HBO Max?     - CNET
+ - [https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-8-drop-on-hbo-max/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-last-of-us-release-schedule-when-does-episode-8-drop-on-hbo-max/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:30:03+00:00
+
+New episodes land on the streaming service over the next two weekends.
+
+## Save Up to 46% On Smart Devices at Amazon and Upgrade Your Home on a Budget     - CNET
+ - [https://www.cnet.com/deals/save-up-to-46-on-smart-devices-at-amazon-and-upgrade-your-home-on-a-budget/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-46-on-smart-devices-at-amazon-and-upgrade-your-home-on-a-budget/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:28:26+00:00
+
+Snag smart plugs, security cameras, locks and more at a serious discount.
+
+## Sling TV Blue Bumps Price by $5 for Some, Adds ABC     - CNET
+ - [https://www.cnet.com/tech/services-and-software/sling-tv-blue-bumps-price-by-5-for-some-adds-abc/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/sling-tv-blue-bumps-price-by-5-for-some-adds-abc/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:23:00+00:00
+
+Sling TV Blue subscribers in these five markets will see a price rise from today.
+
+## Meta Will Reportedly Release AR Glasses in 2027     - CNET
+ - [https://www.cnet.com/tech/meta-will-reportedly-release-ar-glasses-in-2027/#ftag=CADf328eec](https://www.cnet.com/tech/meta-will-reportedly-release-ar-glasses-in-2027/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:07:02+00:00
+
+The glasses will purportedly be able to create holographic avatars "in the real world."
+
+## Enhanced SNAP Benefits for Millions of Americans Are Gone. Here's What You Need to Know     - CNET
+ - [https://www.cnet.com/personal-finance/enhanced-snap-benefits-for-millions-of-americans-are-gone-heres-what-you-need-to-know/#ftag=CADf328eec](https://www.cnet.com/personal-finance/enhanced-snap-benefits-for-millions-of-americans-are-gone-heres-what-you-need-to-know/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 17:00:19+00:00
+
+Extra SNAP payments added under a pandemic-era policy have been cut, reducing monthly grocery allocations for recipient households by $95 or more.
+
+## Xbox Celebrates 'The Mandalorian' Season 3 With Mando and Grogu Consoles     - CNET
+ - [https://www.cnet.com/tech/gaming/xbox-celebrates-the-mandalorian-season-3-with-mando-and-grogu-consoles/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/xbox-celebrates-the-mandalorian-season-3-with-mando-and-grogu-consoles/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:57:00+00:00
+
+Mando appears on the beskar-gray Series X and Grogu inspires the little green Series S.
+
+## The Best Movies on Apple TV Plus     - CNET
+ - [https://www.cnet.com/culture/entertainment/these-are-the-best-movies-you-now-can-catch-on-apple-tv-plus-for-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/these-are-the-best-movies-you-now-can-catch-on-apple-tv-plus-for-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:52:52+00:00
+
+Apple TV Plus has an assortment of options, from dramas to music documentaries and animated movies.
+
+## First look at Rad Power Bikes Rad Runner 3 Plus video     - CNET
+ - [https://www.cnet.com/roadshow/videos/first-look-at-rad-power-bikes-rad-runner-3-plus/#ftag=CADf328eec](https://www.cnet.com/roadshow/videos/first-look-at-rad-power-bikes-rad-runner-3-plus/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:47:28+00:00
+
+A look at the new Rad Runner 3 Plus and accessories available at launch.
+
+## Your Wi-Fi Router Is in the Wrong Spot. Here's Where to Move It for Faster Internet     - CNET
+ - [https://www.cnet.com/how-to/your-wi-fi-router-is-in-the-wrong-spot-heres-where-to-move-it-for-faster-internet/#ftag=CADf328eec](https://www.cnet.com/how-to/your-wi-fi-router-is-in-the-wrong-spot-heres-where-to-move-it-for-faster-internet/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:45:34+00:00
+
+If your internet has been running slowly, you might want to check your router location.
+
+## Scientists Find Flamingo Friend Groups Can Get Pretty Cliquey     - CNET
+ - [https://www.cnet.com/science/biology/scientists-find-flamingo-friend-groups-can-get-pretty-cliquey/#ftag=CADf328eec](https://www.cnet.com/science/biology/scientists-find-flamingo-friend-groups-can-get-pretty-cliquey/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:42:45+00:00
+
+"You can't sit with us," says a popular flamingo, probably.
+
+## The Absolute Best Sci-Fi TV Shows on Netflix     - CNET
+ - [https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-view-over-this-week-for-now/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-absolute-best-netflix-sci-fi-tv-shows-to-view-over-this-week-for-now/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:41:51+00:00
+
+These are the best of the sci-fi series on Netflix.
+
+## Eli Lilly to Cap Out-of-Pocket Cost of Insulin to $35 a Month for Many People     - CNET
+ - [https://www.cnet.com/health/medical/eli-lilly-to-cap-out-of-pocket-cost-of-insulin-to-35-a-month-for-many-people/#ftag=CADf328eec](https://www.cnet.com/health/medical/eli-lilly-to-cap-out-of-pocket-cost-of-insulin-to-35-a-month-for-many-people/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:27:28+00:00
+
+The drugmaker says it's also cutting prices by 70% for its most commonly prescribed insulins.
+
+## Stop Frying Bacon in a Pan. This Is Actually the Best Way to Make It     - CNET
+ - [https://www.cnet.com/how-to/stop-frying-bacon-in-a-pan-this-is-actually-the-best-way-to-make-it/#ftag=CADf328eec](https://www.cnet.com/how-to/stop-frying-bacon-in-a-pan-this-is-actually-the-best-way-to-make-it/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:26:00+00:00
+
+No skillet, no mess. We found the best way to make bacon.
+
+## Klipsch's New Reference Subwoofers Get Down to 14Hz     - CNET
+ - [https://www.cnet.com/tech/home-entertainment/klipschs-new-reference-subwoofers-get-down-to-14hz/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/klipschs-new-reference-subwoofers-get-down-to-14hz/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:08:00+00:00
+
+Starting at $749, the new subs offer enhanced cosmetics and beefy amplification.
+
+## MacBook Owners Have Just Days to Claim Up to $395 from Apple     - CNET
+ - [https://www.cnet.com/personal-finance/macbook-owners-have-just-days-to-claim-up-to-395-from-apple/#ftag=CADf328eec](https://www.cnet.com/personal-finance/macbook-owners-have-just-days-to-claim-up-to-395-from-apple/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 16:00:08+00:00
+
+Apple is responsible for a defective keyboard design, according to a $50 million class action lawsuit.
+
+## Don't Miss Your Chance To Save 50% or More on Select LG Tone Free Earbuds     - CNET
+ - [https://www.cnet.com/deals/dont-miss-your-chance-to-save-50-or-more-on-select-lg-tone-free-earbuds/#ftag=CADf328eec](https://www.cnet.com/deals/dont-miss-your-chance-to-save-50-or-more-on-select-lg-tone-free-earbuds/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 15:54:39+00:00
+
+These true wireless earbuds feature active noise cancellation, Hi-Fi audio support, built-in UV lights and more, and right now you can snag a pair for as low as $40.
+
+## 'The Mandalorian' Season 3 Schedule: Episode 1 Lands on Disney Plus     - CNET
+ - [https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-schedule-episode-1-lands-on-disney-plus/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/the-mandalorian-season-3-schedule-episode-1-lands-on-disney-plus/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 15:35:00+00:00
+
+Grogu and Mando make their Star Wars streaming return this week.
+
+## 'Stranger Things' Is Getting a Prequel Featuring Young Hopper     - CNET
+ - [https://www.cnet.com/culture/entertainment/stranger-things-is-getting-a-prequel-featuring-young-hopper/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/stranger-things-is-getting-a-prequel-featuring-young-hopper/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 15:12:45+00:00
+
+The First Shadow is a play set in 1959, and it'll open in London later this year.
+
+## Ted Lasso 'Biscuits With the Boss' Ice Cream Drops Tomorrow     - CNET
+ - [https://www.cnet.com/culture/entertainment/ted-lasso-biscuits-with-the-boss-ice-cream-drops-tomorrow/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/ted-lasso-biscuits-with-the-boss-ice-cream-drops-tomorrow/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 15:10:00+00:00
+
+The unbelievable new flavor comes from a collaboration with Jeni's Splendid Ice Creams.
+
+## Sony QD-OLED TV Is Now Brighter Than Ever video     - CNET
+ - [https://www.cnet.com/videos/sony-qd-oled-tv-is-now-brighter-than-ever/#ftag=CADf328eec](https://www.cnet.com/videos/sony-qd-oled-tv-is-now-brighter-than-ever/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 15:00:01+00:00
+
+That bounty of light, along with a new anti-reflective screen, could deliver the best picture quality yet.
+
+## When Will Student Loan Payments Resume?     - CNET
+ - [https://www.cnet.com/personal-finance/loans/when-will-student-loan-payments-start-again/#ftag=CADf328eec](https://www.cnet.com/personal-finance/loans/when-will-student-loan-payments-start-again/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:59:45+00:00
+
+Payments and interest on student loan debt are expected to restart later this year, regardless of how the Supreme Court rules.
+
+## Grab Grade A Refurbished iPhone SE Models Starting at $300     - CNET
+ - [https://www.cnet.com/deals/woot-refurb-iphone-se-2022-from-300-today/#ftag=CADf328eec](https://www.cnet.com/deals/woot-refurb-iphone-se-2022-from-300-today/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:55:35+00:00
+
+If you're looking for a solid budget-friendly phone, Woot has the 2022 iPhone SE available in nearly new condition.
+
+## 7 Surprising Uses for Peanut Butter (Besides Eating It)     - CNET
+ - [https://www.cnet.com/how-to/7-surprising-uses-for-peanut-butter/#ftag=CADf328eec](https://www.cnet.com/how-to/7-surprising-uses-for-peanut-butter/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:51:38+00:00
+
+Happy National Peanut Butter Lover's Day!
+
+## Save Up to 41% On a New Robot Vacuum That Cleans for You     - CNET
+ - [https://www.cnet.com/deals/save-up-to-41-on-a-new-robot-vacuum-that-cleans-for-you/#ftag=CADf328eec](https://www.cnet.com/deals/save-up-to-41-on-a-new-robot-vacuum-that-cleans-for-you/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:40:00+00:00
+
+Set your own cleaning schedule and keep your floors tidy with one of these discounted Roomba vacuum cleaners.
+
+## Bank5 Connect: 2023 Banking Review     - CNET
+ - [https://www.cnet.com/personal-finance/banking/bank5-connect-banking-review/#ftag=CADf328eec](https://www.cnet.com/personal-finance/banking/bank5-connect-banking-review/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:31:19+00:00
+
+A full-service online bank with competitive APYs for checking accounts and certificates of deposit.
+
+## Save 25% On Ring Security Kits and Keep Your Home Safe for Less     - CNET
+ - [https://www.cnet.com/deals/save-25-on-ring-security-kits-and-keep-your-home-safe-for-less/#ftag=CADf328eec](https://www.cnet.com/deals/save-25-on-ring-security-kits-and-keep-your-home-safe-for-less/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:18:00+00:00
+
+These all-in-one kits make securing your home easier than ever, and right now you can grab one for more than $80 off.
+
+## Here's How to Find All Your Wi-Fi Passwords on Your Mac and Windows     - CNET
+ - [https://www.cnet.com/tech/computing/heres-how-to-find-all-your-wi-fi-passwords-on-your-mac-and-windows/#ftag=CADf328eec](https://www.cnet.com/tech/computing/heres-how-to-find-all-your-wi-fi-passwords-on-your-mac-and-windows/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:05:03+00:00
+
+It's not as easy as you would think.
+
+## Here Are Today's Refinance Rates, Mar. 1, 2023: Rates Increase     - CNET
+ - [https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-mar-1-2023-rates-increase/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/here-are-todays-refinance-rates-mar-1-2023-rates-increase/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:00:14+00:00
+
+Several key refinance rates climbed this week. The Fed's interest rate hikes have affected the refinance market.
+
+## We Take Rad Power Bikes' RadRunner 3 Plus for a Ride     - CNET
+ - [https://www.cnet.com/roadshow/news/we-take-rad-power-bikes-radrunner-3-plus-for-a-ride/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/we-take-rad-power-bikes-radrunner-3-plus-for-a-ride/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:00:11+00:00
+
+The company improves its utility bike with some notable upgrades, including support for dual batteries.
+
+## 'Daisy Jones and The Six' Review: Irresistible Rock'n'Roll Fable     - CNET
+ - [https://www.cnet.com/culture/entertainment/daisy-jones-and-the-six-review-irresistible-rocknroll-fable/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/daisy-jones-and-the-six-review-irresistible-rocknroll-fable/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:00:07+00:00
+
+Not just for the Fleetwood Mac and Taylor Jenkins Reid fans, this musical miniseries with lush aesthetics and an electric cast is bound to delight music lovers of all stripes.
+
+## Current Mortgage Rates for Mar. 1, 2023: Rates Climb     - CNET
+ - [https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-mar-1-2023-rates-climb/#ftag=CADf328eec](https://www.cnet.com/personal-finance/mortgages/current-mortgage-rates-for-mar-1-2023-rates-climb/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:00:06+00:00
+
+This week, some important mortgage rates moved up. The Fed's interest rate hikes are increasing costs for prospective homebuyers.
+
+## 'Daisy Jones and The Six' Review: Irresistible Rock 'n' Roll Fable     - CNET
+ - [https://www.cnet.com/culture/entertainment/daisy-jones-and-the-six-review-irresistible-rock-n-roll-fable/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/daisy-jones-and-the-six-review-irresistible-rock-n-roll-fable/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:00:00+00:00
+
+Not just for Fleetwood Mac and Taylor Jenkins Reid fans, this musical miniseries with lush aesthetics and an electric cast is bound to delight music lovers of all stripes.
+
+## YouTube's New CEO Says He'll Balance Generative AI's Creativity with Responsibility     - CNET
+ - [https://www.cnet.com/tech/services-and-software/youtubes-new-ceo-says-hell-balance-generative-ais-creativity-with-responsibility/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/youtubes-new-ceo-says-hell-balance-generative-ais-creativity-with-responsibility/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 14:00:00+00:00
+
+A letter from Neal Mohan, heavy on generalizations and light on specifics, says YouTube will cultivate AI's creative opportunities with "thoughtful guardrails."
+
+## 'The Mandalorian' Season 3 Recap: Baby Yoda Meets 'Pirates of the Caribbean'     - CNET
+ - [https://www.cnet.com/culture/the-mandalorian-season-3-recap-baby-yoda-meets-pirates-of-the-caribbean/#ftag=CADf328eec](https://www.cnet.com/culture/the-mandalorian-season-3-recap-baby-yoda-meets-pirates-of-the-caribbean/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 13:24:00+00:00
+
+It's a fun return for the Star Wars adventure on Disney Plus, but what have you missed between seasons?
+
+## The Trick to Uploading High-Quality Videos on Instagram     - CNET
+ - [https://www.cnet.com/tech/mobile/the-trick-to-uploading-high-quality-videos-on-instagram/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/the-trick-to-uploading-high-quality-videos-on-instagram/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 13:05:03+00:00
+
+If the videos you upload to IG look blurry, this may be why.
+
+## Save Money by Clearing Out Your Google Drive and Gmail     - CNET
+ - [https://www.cnet.com/tech/services-and-software/save-money-by-clearing-out-your-google-drive-and-gmail/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/save-money-by-clearing-out-your-google-drive-and-gmail/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 13:00:07+00:00
+
+Follow these simple steps so you don't pay for extra storage again.
+
+## The 41 Best VR Games     - CNET
+ - [https://www.cnet.com/pictures/best-vr-games/#ftag=CADf328eec](https://www.cnet.com/pictures/best-vr-games/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 13:00:01+00:00
+
+What's worth playing in virtual reality? Here are all our favorites.
+
+## Streaming TV in March Is a Slam Dunk, But You Can Cancel 3 Services     - CNET
+ - [https://www.cnet.com/tech/services-and-software/streaming-tv-in-march-is-slam-dunk-but-you-can-cancel-three-services/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/streaming-tv-in-march-is-slam-dunk-but-you-can-cancel-three-services/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 12:15:03+00:00
+
+Some big shows are releasing new seasons -- including an anime favorite and Ted Lasso -- but here's a guide on which services to drop to save dough.
+
+## You Should Repurpose Food Scraps to Reduce Waste and Save Money     - CNET
+ - [https://www.cnet.com/how-to/you-should-repurpose-food-scraps-to-reduce-waste-and-save-money/#ftag=CADf328eec](https://www.cnet.com/how-to/you-should-repurpose-food-scraps-to-reduce-waste-and-save-money/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 12:00:35+00:00
+
+Eliminate food waste and save big money in your kitchen.
+
+## What Should I Use a Smart Plug For? 10 Unexpected Ideas     - CNET
+ - [https://www.cnet.com/how-to/what-should-i-use-a-smart-plug-for-10-unexpected-ideas/#ftag=CADf328eec](https://www.cnet.com/how-to/what-should-i-use-a-smart-plug-for-10-unexpected-ideas/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 12:00:27+00:00
+
+Save electricity and make your life easier with a smart plug. Here's how.
+
+## Steam Deck Evolved: Valve's Portable Gaming PC, One Year Later     - CNET
+ - [https://www.cnet.com/tech/gaming/steam-deck-evolved-valves-portable-gaming-pc-one-year-later/#ftag=CADf328eec](https://www.cnet.com/tech/gaming/steam-deck-evolved-valves-portable-gaming-pc-one-year-later/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 12:00:03+00:00
+
+Thanks to a steady stream of software updates and strong support from game-makers, the Steam Deck has become an amazing handheld gaming device.
+
+## Apple's New M2-Powered Mac Mini Is Down to Just $549     - CNET
+ - [https://www.cnet.com/deals/apples-new-m2-powered-mac-mini-down-to-549/#ftag=CADf328eec](https://www.cnet.com/deals/apples-new-m2-powered-mac-mini-down-to-549/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 11:59:00+00:00
+
+Score record-low pricing with $50 off the regular Apple Store cost.
+
+## Solar Panel Scams: 7 Red Flags to Avoid     - CNET
+ - [https://www.cnet.com/how-to/solar-panel-scams-7-red-flags-to-avoid/#ftag=CADf328eec](https://www.cnet.com/how-to/solar-panel-scams-7-red-flags-to-avoid/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 11:30:09+00:00
+
+Solar panels can lower your electric bill, but certain promises are too good to be true. Here's how to tell.
+
+## TikTok Will Limit Screen Time for Teens by Default     - CNET
+ - [https://www.cnet.com/news/social-media/tiktok-will-limit-screen-time-for-teens-by-default/#ftag=CADf328eec](https://www.cnet.com/news/social-media/tiktok-will-limit-screen-time-for-teens-by-default/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 11:00:02+00:00
+
+TikTok users under 18 years old will have their screen time limit automatically set to 60 minutes.
+
+## Employee Appreciation Day: Celebrate Your Workers With These Great Food Deals     - CNET
+ - [https://www.cnet.com/personal-finance/employee-appreciation-day-celebrate-your-workers-with-these-great-food-deals/#ftag=CADf328eec](https://www.cnet.com/personal-finance/employee-appreciation-day-celebrate-your-workers-with-these-great-food-deals/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 10:45:03+00:00
+
+Employee Appreciation Day is Friday, March 3.
+
+## Preowned Deals on Ring Security Cameras Offer Up to 57% Off Regular Prices     - CNET
+ - [https://www.cnet.com/deals/preowned-deals-ring-secuirty-cameras-57-off/#ftag=CADf328eec](https://www.cnet.com/deals/preowned-deals-ring-secuirty-cameras-57-off/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 10:41:41+00:00
+
+Keep your home safe and secure for less with these cut-price camera deals.
+
+## Flamingo Friend Groups Can Get Pretty Cliquey     - CNET
+ - [https://www.cnet.com/science/biology/flamingo-friend-groups-can-get-pretty-cliquey/#ftag=CADf328eec](https://www.cnet.com/science/biology/flamingo-friend-groups-can-get-pretty-cliquey/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 10:00:00+00:00
+
+"You can't sit with us," says a popular flamingo, probably.
+
+## Google Welcomes March Madness With Slam Dunk Yoodle     - CNET
+ - [https://www.cnet.com/culture/internet/google-welcomes-march-madness-with-slam-dunk-yoodle/#ftag=CADf328eec](https://www.cnet.com/culture/internet/google-welcomes-march-madness-with-slam-dunk-yoodle/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 05:00:03+00:00
+
+Banned by the NCAA for a while, the slam dunk keeps growing in popularity, especially on YouTube.
+
+## UFC 285 Jon Jones vs. Ciryl Gane: How to Watch the Livestream, Main Event Start Time     - CNET
+ - [https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-how-to-watch-the-livestream-main-event-start-time/#ftag=CADf328eec](https://www.cnet.com/culture/sports/ufc-285-jon-jones-vs-ciryl-gane-how-to-watch-the-livestream-main-event-start-time/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 04:31:41+00:00
+
+Everything you need to know about the UFC return on Jon Jones.
+
+## Wordle Today 620: Wordle Hints and Answer for March 1, 2023     - CNET
+ - [https://www.cnet.com/culture/wordle-today-620-wordle-hints-and-answer-for-march-1-2023/#ftag=CADf328eec](https://www.cnet.com/culture/wordle-today-620-wordle-hints-and-answer-for-march-1-2023/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 03:00:03+00:00
+
+It's a new month and there's a new Wordle.
+
+## Google Fi Reportedly Drops US Cellular, Leaving T-Mobile As Last Network     - CNET
+ - [https://www.cnet.com/tech/mobile/google-fi-reportedly-drops-us-cellular-leaving-t-mobile-as-last-network/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/google-fi-reportedly-drops-us-cellular-leaving-t-mobile-as-last-network/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 01:25:00+00:00
+
+Users can reportedly still access US Cellular's network while roaming and won't be charged for it.
+
+## Look Out, eSIMs -- Future Phones Could Use More Efficient 'iSIMs'     - CNET
+ - [https://www.cnet.com/tech/mobile/look-out-esims-future-phones-could-use-more-efficient-isims/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/look-out-esims-future-phones-could-use-more-efficient-isims/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 00:38:00+00:00
+
+The eSIM alternative iSIM will integrate SIM functionality directly on a smartphone's processor, starting with the Snapdragon 8 Gen 2.
+
+## How to See Venus and Jupiter Cozy Up This Week     - CNET
+ - [https://www.cnet.com/science/space/how-to-see-venus-and-jupiter-cozy-up-this-week/#ftag=CADf328eec](https://www.cnet.com/science/space/how-to-see-venus-and-jupiter-cozy-up-this-week/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 00:25:00+00:00
+
+The two planets will be closest on March 1.
+
+## This Insect Pees at High Speed Using 'Butt Flicker' and Superpropulsion     - CNET
+ - [https://www.cnet.com/science/biology/this-insect-pees-at-high-speed-using-butt-flicker-and-superpropulsion/#ftag=CADf328eec](https://www.cnet.com/science/biology/this-insect-pees-at-high-speed-using-butt-flicker-and-superpropulsion/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-03-01 00:23:00+00:00
+
+The glassy-winged sharpshooter has a decidedly low-brow superpower.
+
