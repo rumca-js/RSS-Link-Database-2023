@@ -1,0 +1,121 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## Use This Map to Find BOGO Subway Footlongs Near You
+ - [https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--FTRYvhw5--/c_fit,fl_progressive,q_80,w_636/57bf3bf42a4e063fe3295bef6b301e9c.jpg" /><p>February gave us <a href="https://lifehacker.com/you-have-nine-days-of-free-subway-footlongs-ahead-of-yo-1850065117">nine days of BOGO free Subway</a> footlongs. March started off with <a href="https://www.subway.com/en-us/promotions" rel="noopener noreferrer" target="_blank">BOGO 50% off footlong</a> deal that runs through April 30. But there is currently a better deal out there if you truly want to pay as little as possible for a sandwich that puts in as little effort as possible.<br /></p><p><a href="https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204">Read more...</a></p>
+
+## Venus and Jupiter Are Kissing Again
+ - [https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kP92KxYj--/c_fit,fl_progressive,q_80,w_636/1548250c3525632455d1a39bd379b376.jpg" /><p>You may not always notice them, but Venus, Jupiter (and a few other planets) often appear as extra-bright stars in the evening sky. Right now, those two have just come in for a kiss, and are approximately the closest they’ll appear in the sky <a href="https://bigthink.com/starts-with-a-bang/venus-jupiter-conjunction/" rel="noopener noreferrer" target="_blank">until 2039</a>. </p><p><a href="https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779">Read more...</a></p>
+
+## 10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing
+ - [https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--q-iN-rD5--/c_fit,fl_progressive,q_80,w_636/29aa93a2b650b5edfd47a90638378596.jpg" /><p>There are certain things in this world that are just mind-bogglingly useful. Bobby pins? <a href="https://lifehacker.com/12-unexpected-household-uses-for-bobby-pins-1846651776">Extremely useful</a>. Cooking spray? You’re definitely not <a href="https://lifehacker.com/6-unexpected-uses-for-cooking-spray-1847377770">getting the most out of it</a>. <a href="https://lifehacker.com/12-unexpected-household-uses-for-cling-wrap-1850088219">Cling wrap</a>? How <em>can’t </em>you use it? Pool noodles? You could be <a href="https://lifehacker.com/14-unexpected-household-uses-for-the-humble-pool-noodle-1850019454">solving so, so many problems</a> using them.<br /></p><p><a href="https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150">Read more...</a></p>
+
+## 11 New Windows 11 Features You Need to Know About
+ - [https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--u18dOIyk--/c_fit,fl_progressive,q_80,w_636/ea19545e4d3b15a76fc5d4fc770c933c.jpg" /><p>Microsoft announced 11 new features to Windows 11 <a href="https://blogs.windows.com/windowsexperience/2023/02/28/introducing-a-big-update-to-windows-11-making-the-everyday-easier-including-bringing-the-new-ai-powered-bing-to-the-taskbar/" rel="noopener noreferrer" target="_blank">in a blog post on Tuesday</a>. It won’t come as a surprise to anyone watching Microsoft’s latest moves to learn the announcement focused on AI—specifically, the company’s move to implement the new Bing directly into the taskbar. However, there are plenty of other new…</p><p><a href="https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464">Read more...</a></p>
+
+## Why 11 Minutes a Day Is Your New Exercise Target
+ - [https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Tm4yptJu--/c_fit,fl_progressive,q_80,w_636/84a0392a90981addf1e24466116e667b.jpg" /><p>Guidelines tell us we should all be getting <a href="https://lifehacker.com/how-much-exercise-do-i-really-need-1823708126">150 minutes of exercise every week</a>, and more if we can. But if that sounds daunting, a new study suggests a number for the amount of exercise that is better than nothing—and it works out to 11 minutes of moderate exercise, like walking, per day. </p><p><a href="https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554">Read more...</a></p>
+
+## 17 Surprising Household Uses for Tennis Balls
+ - [https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--BskFB0e9--/c_fit,fl_progressive,q_80,w_636/f4148f49f0d6cc79e33df5b399a7938f.jpg" /><p>When you think of uses for tennis balls beyond, uh, playing tennis, you probably imagine throwing one for your dog in a game of fetch. Unfortunately, <a href="https://lifehacker.com/dont-let-your-dog-play-with-tennis-balls-1846367687">as we’ve noted before</a>, that’s not actually a great idea for the health of your furry friend. So what else is to be done with all those tennis balls you have lying around…</p><p><a href="https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713">Read more...</a></p>
+
+## This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer
+ - [https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nunmIBtP--/c_fit,fl_progressive,q_80,w_636/d48787e5e821b5860b7edf218f2997b7.png" /><p>Many of us have played the part of the guide when it comes to helping others with technology. There are the professional scenarios, such as walking an intern through company software, and personal situations, like explaining Google Docs to your tech-challenged friends and family. Sure, if it’s a one-off, you can…</p><p><a href="https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460">Read more...</a></p>
+
+## Don’t Fall for This Fake Authenticator App Scam
+ - [https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--MX8cGl1J--/c_fit,fl_progressive,q_80,w_636/87f3e16b8c82f2dbff25c3e8646bc82d.jpg" /><p>Scammers have found a new category of apps to target on mobile app stores: authenticator apps. As several websites <a href="https://lifehacker.com/you-shouldn-t-use-your-phone-number-for-two-factor-auth-1850139776">caution against using SMS to receive login authentication codes</a>, scammers have started creating spurious authenticator apps to target users (and their money). While it’s frustrating to see bad actors…</p><p><a href="https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439">Read more...</a></p>
+
+## Why You Should Pour Drinks Upside Down
+ - [https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--QG9Q0Ik8--/c_fit,fl_progressive,q_80,w_636/dc21dec01d9c263176b318af28749a8b.jpg" /><p>Some completely expected, ordinary messes really piss me off. I think it’s because I’m fully aware that the mess is about to begin. Specifically, every time I open a new carton of almond milk and pour from the carton, it glugs. It glugs and it plops, and the milk splashes onto the counter for me to clean up. Luckily,…</p><p><a href="https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027">Read more...</a></p>
+
+## Things You Should Never Vacuum With a Regular Vacuum Cleaner
+ - [https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3WAU1yXo--/c_fit,fl_progressive,q_80,w_636/00d225625f280f8a4c83002246869842.jpg" /><p>You can clean some <a href="https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823">unexpected things</a> with a vacuum, and some people use them to clean up virtually anything. But there are things you should avoid vacuuming—especially if you have a basic vacuum cleaner. Here are the ones to watch out for.<br /></p><p><a href="https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466">Read more...</a></p>
+
+## Why You Shouldn't Warm Up Your Car For Longer Than a Minute
+ - [https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--X35AOrGO--/c_fit,fl_progressive,q_80,w_636/666e62c9ffbd10aeeb9b2cc7d7fe6e52.jpg" /><p>Many of us have memories of early mornings in a cold car, waiting for the engine to “warm up” before beginning to drive. And back then, it made some sense. But if you’re warming up your car for more than a minute today, you’re probably just wasting gas, money, and time.<br /></p><p><a href="https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671">Read more...</a></p>
+
+## Plan to Wait a Long Time for Your Passport
+ - [https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--iRvIyHFa--/c_fit,fl_progressive,q_80,w_636/56cd4d440ea3eb5a638005b7e4d25682.jpg" /><p>If your summer plans include a trip abroad, now is the time to apply for your passport, as wait times are on the rise.<br /></p><p><a href="https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798">Read more...</a></p>
+
+## You Must Make These Air-Fried Caramel Pasta Crisps
+ - [https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--qZ4hLSHj--/c_fit,fl_progressive,q_80,w_636/bb3864a45652a54937213c8729fa1d83.jpg" /><p>Pasta can, and should, be dessert. There are a number of <a href="https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506">ways to transform this popular carb</a> into a show-stopping sweet, but you can also turn a pot of rigatoni into a quick, snackable, four-ingredient nosh. It’s a lovely  afternoon graze, and completely appropriate for watching TV (turn the captions on to combat …</p><p><a href="https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639">Read more...</a></p>
+
+## 11 Compound Butters That Will Get You Out of a Butter Rut
+ - [https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_3LqOUQS--/c_fit,fl_progressive,q_80,w_636/cb241c2ae0d21903f9f7222ffdbe3b8b.jpg" /><p>I cannot function without butter. I keep at least <a href="https://lifehacker.com/you-need-two-types-of-butter-in-your-kitchen-1837837122">two types</a> on hand at all times—one for cooking and one for snacking. But I also like to keep a few compound butters around  for easy entertaining, even if I’m only entertaining myself in my living room.</p><p><a href="https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627">Read more...</a></p>
+
+## In Defense of the Landline Telephone
+ - [https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--DAVHCkYr--/c_fit,fl_progressive,q_80,w_636/f6ab1c9685a23ee2e679065e6ff9d0b3.jpg" /><p>Once among the most ubiquitous pieces of technology on Earth, old school, wired-and-jacked telephones are disappearing. In 2019, only about<a href="https://www.newspressnow.com/news/local_news/landlines-still-hanging-on-with-some-populations/article_495da41e-846f-11ec-b2aa-87854891d5b8.html#:~:text=In%202019,%20just%20over%2031,households%20still%20had%20a%20landline." rel="noopener noreferrer" target="_blank"> 31% of American households</a> still had a landline, where <a href="https://www.pewresearch.org/internet/fact-sheet/mobile/#who-is-smartphone-dependent" rel="noopener noreferrer" target="_blank">97% of U.S. adults own a cell phone</a>. But are we being a little hasty here?<br /></p><p><a href="https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268">Read more...</a></p>
+
+## This AI Will Create a ‘SparkNotes’ Summary of Any Article
+ - [https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--VtbIMvDk--/c_fit,fl_progressive,q_80,w_636/dd4eb296e71aa0ba5d704631eee95657.png" /><p>The internet is full of interesting and important information just waiting for you to read it. The internet is also full of meaningless junk that’s <em>a lot</em> more fun to look at, leaving us little time to actually do the reading we know we should do. Well, thanks to technology, you don’t need to read entire articles or…</p><p><a href="https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701">Read more...</a></p>
+
+## Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive
+ - [https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-02 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--rUXWXLvl--/c_fit,fl_progressive,q_80,w_636/70ece76c2f1c358001dd14b4f8d44723.jpg" /><p>Nissan North America is <a href="https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V093-2108.PDF" rel="noopener noreferrer" target="_blank">recalling</a> more than 800,000 SUVs for a key-fob defect that could cause the vehicles to shut off mid-drive: The affected SUVs are equipped with a jackknife-style key (<a href="https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_490/60c28c044ca6baef1a86bc78f8aa8b60.jpg" rel="noopener noreferrer" target="_blank">pictured here</a>). </p><p><a href="https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795">Read more...</a></p>
+
