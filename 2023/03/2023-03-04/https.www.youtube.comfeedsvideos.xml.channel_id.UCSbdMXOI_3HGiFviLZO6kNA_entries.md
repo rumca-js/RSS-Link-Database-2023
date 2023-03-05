@@ -1,0 +1,13 @@
+# Source:Thrillseeker, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA, language:en-US
+
+## The BEST VR Headset for Gaming.. WITH SOME CAVEATS!
+ - [https://www.youtube.com/watch?v=eoUiYT1KvAE](https://www.youtube.com/watch?v=eoUiYT1KvAE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+ - date published: 2023-03-04 20:44:24+00:00
+
+Hello! Here is my review of the Playstation VR 2.. probably one of the most interesting mainstream VR headset that's released in YEARS... and it's good.. but it is very very far from perfect. I do find it interesting that the PSVR2 is literally the exact opposite of the direction the VR industry seems to be going.. wired, expensive, and high quality. Does it beat or compete with a Quest 2? Eh.. not really.. does it really compete with PCVR and an index or Quest? I'm not sure.. but..IF you can get past the flaws.. The PSVR2 has provided a pretty amazing experience that I'm more than happy with. 
+
+I feel like my money was spent well. 
+
+Hopefuly you enjoyed. Let me know what you think about the PSVR2 down below.
+
