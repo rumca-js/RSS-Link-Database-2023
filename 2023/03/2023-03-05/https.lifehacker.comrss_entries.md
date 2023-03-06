@@ -1,0 +1,16 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## These Household Products Can Sub for WD-40
+ - [https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-05 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6aEuSOwc--/c_fit,fl_progressive,q_80,w_636/31919e88ee9de401940eea68bf2962df.jpg" /><p>WD-40 has been a staple in many American households for decades, thanks to its versatility. In addition to being an effective lubricant, it can also protect metal from rust and corrosion, cut through grease and grime, and displace moisture (the WD stands for “water displacement”).</p><p><a href="https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503">Read more...</a></p>
+
+## The Happiest U.S. Cities Right Now
+ - [https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-05 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--qFJzjq_8--/c_fit,fl_progressive,q_80,w_636/9710bd0df7e0a1641862340123260639.jpg" /><p>Over the last decade, the <a href="https://worldhappiness.report/ed/2022/happiness-benevolence-and-trust-during-covid-19-and-beyond/#ranking-of-happiness-2019-2021" rel="noopener noreferrer" target="_blank">World Happiness Report</a> has ranked countries  based on factors like perceptions of corruption, GDP per capita, social support, life expectancy, and freedom to make life choices. Finland has come out on top for the past five years. Meanwhile, the United States achieved its highest…</p><p><a href="https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534">Read more...</a></p>
+

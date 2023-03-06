@@ -1,0 +1,114 @@
+# Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
+
+## Woman in Mexico dies in fall from 'Voladores' ritual pole
+ - [https://www.washingtonpost.com/world/mexico-voladores-puebla-pole-ritual/2023/03/05/4dad5682-bba9-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/mexico-voladores-puebla-pole-ritual/2023/03/05/4dad5682-bba9-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 17:58:55+00:00
+
+A woman performing in the picturesque “Voladores” ritual has died after falling from the 30-yard (meter) high pole in central Mexico state of Puebla
+
+## Valentino holds black tie Paris show, Lanvin goes simple
+ - [https://www.washingtonpost.com/world/paris-fashion-week-lanvin/2023/03/05/20b2b2f2-bba0-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/paris-fashion-week-lanvin/2023/03/05/20b2b2f2-bba0-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 17:08:16+00:00
+
+Stars such as Avril Lavigne sat beneath the gothic style arches of Lanvin’s ornate Paris venue to view the old couture house’s latest designs, which riffed subtly on history
+
+## A generation of Venezuelan children know only struggles
+ - [https://www.washingtonpost.com/world/venezuela-maduro-children-inflation-malnutrition-education/2023/03/05/00f83690-bb77-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/venezuela-maduro-children-inflation-malnutrition-education/2023/03/05/00f83690-bb77-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 11:58:51+00:00
+
+A generation of children in Venezuela have only known a country in crisis, plagued over the last decade or more by shortages, inflation and desperation
+
+## Funeral of Thai 'cave boy' who died in UK ends with prayers
+ - [https://www.washingtonpost.com/world/thailand-cave-boy-soccer-funeral/2023/03/05/d91d2efe-bb6d-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/thailand-cave-boy-soccer-funeral/2023/03/05/d91d2efe-bb6d-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 11:15:44+00:00
+
+Mourners have filled a temple chamber for a final prayer session in northern Thailand for one of the 12 boys rescued from a flooded cave in 2018 who died at school in England last month
+
+## Egypt's leader, visiting Iraqi premier seek to deepen ties
+ - [https://www.washingtonpost.com/world/egypt-iraq-jordan-talks-middle-east/2023/03/05/5009e7b0-bb54-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/egypt-iraq-jordan-talks-middle-east/2023/03/05/5009e7b0-bb54-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 07:50:31+00:00
+
+Egypt’s President Abdel Fattah el-Sissi has met with Iraq’s prime minister in Cairo as the two countries seek to deepen their ties and reinforce a regional alliance with Jordan
+
+## Ukrainian forces cling to Bakhmut as Russia attacks from three sides
+ - [https://www.washingtonpost.com/world/2023/03/05/bakhmut-ukraine-russia-war-donetsk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/05/bakhmut-ukraine-russia-war-donetsk/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 07:44:39+00:00
+
+With the city in the eastern Donetsk region nearly destroyed, Ukrainian troops were fighting back against a continuing onslaught led by Rusriessia's Wagner mercenaries.
+
+## Fire hits crowded Rohingya refugee camp in Bangladesh
+ - [https://www.washingtonpost.com/world/bangladesh-rohingya-refugees-fire-myanmar/2023/03/05/b0d61d7a-bb4a-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/bangladesh-rohingya-refugees-fire-myanmar/2023/03/05/b0d61d7a-bb4a-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 06:41:39+00:00
+
+A massive fire has raced through a crammed refugee camp for Rohingya Muslims in southern Bangladesh, leaving thousands homeless
+
+## Prince Harry stays silent on coronation plans amid new bombshell interview
+ - [https://www.washingtonpost.com/world/2023/03/05/prince-harry-gabor-mate-interview-coronation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/05/prince-harry-gabor-mate-interview-coronation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 06:23:29+00:00
+
+Reports that Harry and Meghan were invited to King Charles' coronation come as he told psychologist Gabor Mate that he always "felt different" from his family.
+
+## Netanyahu calls comments to erase village 'inappropriate'
+ - [https://www.washingtonpost.com/world/israel-palestinians-smotrich-hawara/2023/03/05/40b34f1e-bb3f-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/israel-palestinians-smotrich-hawara/2023/03/05/40b34f1e-bb3f-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 05:19:46+00:00
+
+Israeli Prime Minister Benjamin Netanyahu says the remarks by a key Cabinet ally calling for a Palestinian village to be erased were inappropriate
+
+## 4 children die in fire in southwestern Serbia
+ - [https://www.washingtonpost.com/world/serbia-fire-children-killed/2023/03/05/10a0519c-bb39-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/serbia-fire-children-killed/2023/03/05/10a0519c-bb39-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 04:35:29+00:00
+
+Serbian police say a fire in a southwestern town has killed four children and injured their parents
+
+## Recycling lake litter, Ugandan makes innovative tourist boat
+ - [https://www.washingtonpost.com/world/plastic-pollution-recycling-uganda-lake-victoria/2023/03/05/d4781d2e-bb30-11ed-b0df-8ca14de679ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/plastic-pollution-recycling-uganda-lake-victoria/2023/03/05/d4781d2e-bb30-11ed-b0df-8ca14de679ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 03:36:32+00:00
+
+Africa’s Lake Victoria is plagued by pollution and a decline in water levels partly due to climate change
+
+## Crisis over suspected Iran schoolgirl poisonings escalates
+ - [https://www.washingtonpost.com/world/iran-schoolgirl-poisonings-investigation/2023/03/05/ee760494-bb2f-11ed-b0df-8ca14de679ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/iran-schoolgirl-poisonings-investigation/2023/03/05/ee760494-bb2f-11ed-b0df-8ca14de679ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 03:30:06+00:00
+
+A crisis over suspected poisonings targeting Iranian schoolgirls is escalating as authorities now acknowledge over 50 schools had been struck in a wave of possible cases
+
+## Deadly shipwreck: How it happened, and unanswered questions
+ - [https://www.washingtonpost.com/world/migration-shipwreck-italy-crotone-migrants/2023/03/05/69184038-bb29-11ed-b0df-8ca14de679ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/migration-shipwreck-italy-crotone-migrants/2023/03/05/69184038-bb29-11ed-b0df-8ca14de679ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 02:43:25+00:00
+
+At least 70 people died in last week’s shipwreck on Italy’s Calabrian coast
+
+## China pledges modest economic growth of about 5% in 2023
+ - [https://www.washingtonpost.com/world/2023/03/05/china-congress-economy-xi-jinping/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/05/china-congress-economy-xi-jinping/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 02:02:48+00:00
+
+The National People’s Congress opened in Beijing. China’s rubber-stamp parliament is expected to approve a government overhaul that extends Xi Jinping’s control.
+
+## Ukraine live briefing: Ukrainian troops hold on, with Bakhmut not encircled yet
+ - [https://www.washingtonpost.com/world/2023/03/05/russia-ukraine-war-news-bakhmut/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/05/russia-ukraine-war-news-bakhmut/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 01:03:38+00:00
+
+The battle for the city is coming down to street-by-street fighting and skirmishes on its outskirts, where Ukrainian forces are fortifying their positions.
+
+## Talking to children who left Russia about the war in Ukraine
+ - [https://www.washingtonpost.com/world/2023/03/05/russian-children-war-ukraine-schools/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/05/russian-children-war-ukraine-schools/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-05 01:00:41+00:00
+
+In Russia, academic freedom was one of the first casualties of the war against Ukraine. Schools serving Russian families abroad now face the challenge of talking to children about the war.
+
