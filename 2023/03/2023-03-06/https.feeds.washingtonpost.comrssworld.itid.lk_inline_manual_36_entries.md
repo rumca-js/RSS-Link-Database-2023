@@ -1,5 +1,19 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## What we know about Matamoros and the kidnapped Americans
+ - [https://www.washingtonpost.com/world/2023/03/06/americans-medicine-kidnapped-mexico/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/americans-medicine-kidnapped-mexico/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 22:55:40+00:00
+
+Four U.S. citizens crossed the border in search of cheaper medicines, said the Mexican President. when they got caught in a case of mistaken identity.
+
+## Indonesia landslides kill 10, rescuers search for 42 missing
+ - [https://www.washingtonpost.com/world/2023/03/06/indonesia-landslide-rain-natuna/8dfb60b0-bc9b-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/indonesia-landslide-rain-natuna/8dfb60b0-bc9b-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 22:53:00+00:00
+
+Rescuers are searching for 42 people still missing after two landslides hit villages on an island in Indonesia’s remote Natuna regency
+
 ## Trudeau orders probe of alleged Chinese interference in Canada election
  - [https://www.washingtonpost.com/world/2023/03/06/canada-china-election-interference/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/canada-china-election-interference/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36

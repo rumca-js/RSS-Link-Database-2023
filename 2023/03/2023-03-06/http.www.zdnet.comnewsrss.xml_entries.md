@@ -21,6 +21,13 @@ Overall, Private Internet Access is impressive -- as long as you're not trying t
 
 Amazon has discounted its Fire HD 8, Fire HD 8 Plus, Fire HD 8 Kids and Kids Pro, Fire 7 Kids, and Fire HD 10 tablets. Here's what they all cost now.
 
+## Fire sale: Snag Amazon's Fire HD 8 tablet for just $60
+ - [https://www.zdnet.com/article/fire-sale-snag-amazon-fire-hd-8-tablet-for-just-60/#ftag=RSSbaffb68](https://www.zdnet.com/article/fire-sale-snag-amazon-fire-hd-8-tablet-for-just-60/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-03-06 20:57:00+00:00
+
+Amazon has discounted its Fire HD 8, Fire HD 8 Plus, Fire HD 8 Kids and Kids Pro, Fire 7 Kids, and Fire HD 10 tablets. Here's what they all cost now.
+
 ## How to use your Galaxy S Pen like a magic wand (and 2 other tricks you need to know)
  - [https://www.zdnet.com/article/how-to-use-your-galaxy-s-pen-like-a-magic-wand-and-2-other-tricks-you-need-to-know/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-your-galaxy-s-pen-like-a-magic-wand-and-2-other-tricks-you-need-to-know/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml

@@ -28,6 +28,13 @@ There’s a new Dota 2 patch, but it isn’t the one that everyone was waiting f
 
 While summer is usually attributed to a season of life, the locals have seen a record-breaking seventeen shark carcasses wash up in a single day, according to researchers at Marine Dynamics.
 
+## WeightWatchers Buying Telehealth Service Known For Ozempic Weight Loss Prescriptions
+ - [https://www.forbes.com/sites/nicholasreimann/2023/03/06/weightwatchers-buying-telehealth-service-known-for-ozempic-weight-loss-prescriptions-report-says/](https://www.forbes.com/sites/nicholasreimann/2023/03/06/weightwatchers-buying-telehealth-service-known-for-ozempic-weight-loss-prescriptions-report-says/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2023-03-06 23:31:02+00:00
+
+WW’s stock jumped more than 13% in after-hours trading following news of the deal Monday.
+
 ## Kids Raised By Same-Sex Parents Fare Same As—Or Better Than—Kids Of Straight Couples, Research Finds
  - [https://www.forbes.com/sites/roberthart/2023/03/06/kids-raised-by-same-sex-parents-fare-same-as-or-better-than-kids-of-straight-couples-research-finds/](https://www.forbes.com/sites/roberthart/2023/03/06/kids-raised-by-same-sex-parents-fare-same-as-or-better-than-kids-of-straight-couples-research-finds/)
  - RSS feed: https://www.forbes.com/innovation/feed2
