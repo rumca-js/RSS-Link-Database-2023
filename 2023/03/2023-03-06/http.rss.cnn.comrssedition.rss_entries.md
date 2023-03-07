@@ -210,6 +210,13 @@ Spanish hurdler Enrique Llopis had to be carried off on a stretcher after suffer
 
 Anxiety is the most common psychological disorder affecting adults in the United States. In older people, it's associated with considerable distress as well as ill health, diminished quality of life and elevated rates of disability.
 
+## Watch how scientists created a new form of ice
+ - [https://www.cnn.com/videos/business/2023/03/03/cambridge-researchers-new-ice-space-curiosity-daily-mc-contd-orig.cnn-business](https://www.cnn.com/videos/business/2023/03/03/cambridge-researchers-new-ice-space-curiosity-daily-mc-contd-orig.cnn-business)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-03-06 11:10:03+00:00
+
+Researchers at the University of Cambridge were able to create a new form of ice -- medium density amorphous ice -- that is thought to only exist on distant moons, and could change everything we thought we knew about ice and water. Discovery's Curiosity Daily podcast helps you get smarter about the world around you. Find Curiosity Daily today on Apple Podcasts, Spotify, or wherever you get podcasts. Listen now.
+
 ## What's your dream Dubai? Find your perfect travel itinerary
  - [https://edition.cnn.com/interactive/2022/10/travel/your-dream-dubai-spc-intl/](https://edition.cnn.com/interactive/2022/10/travel/your-dream-dubai-spc-intl/)
  - RSS feed: http://rss.cnn.com/rss/edition.rss

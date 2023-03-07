@@ -1,5 +1,19 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Główny akcjonariusz Kernel Holding nie widzi zalet dalszego notowania spółki na GPW
+ - [https://www.bankier.pl/wiadomosc/Glowny-akcjonariusz-Kernel-Holding-nie-widzi-zalet-dalszego-notowania-spolki-na-GPW-8500686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Glowny-akcjonariusz-Kernel-Holding-nie-widzi-zalet-dalszego-notowania-spolki-na-GPW-8500686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-03-06 23:24:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/0/33a4c5330ba5c6-948-568-60-105-1350-810.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Główny akcjonariusz ukraińskiego producenta zbóż i oleju słonecznikowego Kernel Holding, który ogłosił zamiar wezwania na 100 proc. akcji spółki, nie widzi zalet dalszego notowania Kernela na GPW. W przypadku objęcia minimum 95 proc. akcji możliwy jest przymusowy wykup spółki.</p>
+
+## AP: Na Twitterze stworzono kilkaset tysięcy botów, które chwalą Trumpa i atakują jego przeciwników
+ - [https://www.bankier.pl/wiadomosc/AP-Na-Twitterze-stworzono-kilkaset-tysiecy-botow-ktore-chwala-Trumpa-i-atakuja-jego-przeciwnikow-8500675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/AP-Na-Twitterze-stworzono-kilkaset-tysiecy-botow-ktore-chwala-Trumpa-i-atakuja-jego-przeciwnikow-8500675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-03-06 22:07:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/d/71099a5cb26cde-948-568-2-62-997-598.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />W ciągu ostatnich 11 miesięcy na Twitterze stworzono kilkaset tysięcy fałszywych, automatycznych kont, czyli botów, które chwalą byłego prezydenta Donalda Trumpa i atakują jego przeciwników bądź potencjalnych rywali w wyborach prezydenckich - poinformowała w poniedziałek Associated Press.</p>
+
 ## Amerykanie nie dali rady kontynuować odbicia
  - [https://www.bankier.pl/wiadomosc/Amerykanie-nie-dali-rady-kontynuowac-odbicia-8500655.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Amerykanie-nie-dali-rady-kontynuowac-odbicia-8500655.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml

@@ -1,5 +1,19 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## Putin retreats deeper into his labyrinth
+ - [https://www.washingtonpost.com/world/2023/03/07/putin-ukraine-war-talks-delusions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/07/putin-ukraine-war-talks-delusions/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-07 00:00:00+00:00
+
+For Russian President Vladimir Putin, conditions for any kind of victory remain elusive, but there’s no indication he is ready for real talks.
+
+## 5th body found in Malaysia floods; over 40,000 displaced
+ - [https://www.washingtonpost.com/world/2023/03/06/malaysia-floods-dead-displaced/bdc26d94-bca4-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/malaysia-floods-dead-displaced/bdc26d94-bca4-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 23:58:46+00:00
+
+Malaysian police have found the body of a young woman trapped in a car that was swept away by rushing waters, the fifth death of seasonal floods that have also forced more than 43,000 people to flee their homes
+
 ## What we know about Matamoros and the kidnapped Americans
  - [https://www.washingtonpost.com/world/2023/03/06/americans-medicine-kidnapped-mexico/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/americans-medicine-kidnapped-mexico/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
