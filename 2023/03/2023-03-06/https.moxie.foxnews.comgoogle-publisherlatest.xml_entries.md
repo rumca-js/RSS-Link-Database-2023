@@ -1,5 +1,12 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Sunday funeral planned for fallen Indiana state trooper
+ - [https://www.foxnews.com/us/sunday-funeral-planned-fallen-indiana-state-trooper](https://www.foxnews.com/us/sunday-funeral-planned-fallen-indiana-state-trooper)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-03-06 23:57:53+00:00
+
+The funeral of Indiana State Police Master Trooper James Bailey, who was struck by a fleeing suspect's vehicle, has been planned for Sunday.
+
 ## Seahawks, Geno Smith agree to 3-year extension after career-changing season in 2022: reports
  - [https://www.foxnews.com/sports/seahawks-geno-smith-agree-three-year-extension-career-changing-season-2022](https://www.foxnews.com/sports/seahawks-geno-smith-agree-three-year-extension-career-changing-season-2022)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

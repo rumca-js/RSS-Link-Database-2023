@@ -1,5 +1,25 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Five ways to soothe a mind overstimulated by anxiety, stress and information
+ - [https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html](https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-06 23:31:06+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html">https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35049371">https://news.ycombinator.com/item?id=35049371</a></p>
+<p>Points: 16</p>
+<p># Comments: 15</p>
+
+## Cross-Domain Thinking Drives Insights and Innovation
+ - [https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-06 22:18:05+00:00
+
+<p>Article URL: <a href="https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights">https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35048535">https://news.ycombinator.com/item?id=35048535</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
 ## What's that smell? Detecting air quality with Python, Raspberry Pi, and Redis
  - [https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis](https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis)
  - RSS feed: https://hnrss.org/frontpage

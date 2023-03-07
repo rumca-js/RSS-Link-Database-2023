@@ -1,5 +1,12 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## Taiwan’s Tsai Convinces House Speaker McCarthy to Meet in US, FT Reports
+ - [https://www.bloomberg.com/news/articles/2023-03-06/taiwan-s-leader-convinces-mccarthy-to-meet-in-us-ft-reports](https://www.bloomberg.com/news/articles/2023-03-06/taiwan-s-leader-convinces-mccarthy-to-meet-in-us-ft-reports)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-03-06 23:52:51+00:00
+
+Taiwanese President Tsai Ing-wen persuaded House Speaker Kevin McCarthy to meet in the US due to security worries, the Financial Times said, a move that appeared aimed at avoiding another crisis with China.
+
 ## Trudeau Orders Review of Alleged Chinese Election Interference
  - [https://www.bloomberg.com/news/articles/2023-03-06/justin-trudeau-orders-review-of-alleged-chinese-election-interference-in-canada](https://www.bloomberg.com/news/articles/2023-03-06/justin-trudeau-orders-review-of-alleged-chinese-election-interference-in-canada)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
@@ -62,6 +69,13 @@ The Federal Trade Commission is expected to sue Intercontinental Exchange Inc. o
  - date published: 2023-03-06 20:40:04+00:00
 
 House Judiciary Chairman Jim Jordan has subpoenaed the former head of a defunct Biden administration advisory board on disinformation, which was disbanded just months after being formed amid public backlash.
+
+## Brazil Hurries Fiscal Plan to Push for Lower Borrowing Costs
+ - [https://www.bloomberg.com/news/articles/2023-03-06/brazil-hurries-fiscal-anchor-plan-as-lula-pushes-for-lower-interest-rates](https://www.bloomberg.com/news/articles/2023-03-06/brazil-hurries-fiscal-anchor-plan-as-lula-pushes-for-lower-interest-rates)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-03-06 20:37:58+00:00
+
+Brazil’s economic team intends to unveil a plan to shore up the country’s fiscal credibility before the central bank’s upcoming interest rate decision in a bid to pressure the monetary authority into lowering borrowing costs, according to two people with knowledge of the matter.
 
 ## NYC Wants Shoppers to Take Off Masks in Crime-Fighting Measure
  - [https://www.bloomberg.com/news/articles/2023-03-06/nyc-s-adams-wants-shoppers-to-remove-their-masks-to-reduce-crime](https://www.bloomberg.com/news/articles/2023-03-06/nyc-s-adams-wants-shoppers-to-remove-their-masks-to-reduce-crime)
@@ -237,6 +251,13 @@ Iran’s Supreme Leader Ayatollah Ali Khamenei urged officials to “seriously p
  - date published: 2023-03-06 11:56:23+00:00
 
 French unions say they’ll bring the country to a halt on Tuesday with large-scale strikes and marches against President Emmanuel Macron’s plan to raise the retirement age.
+
+## Xi Rallies China to Overcome ‘Containment’ in Direct Shot at US
+ - [https://www.bloomberg.com/news/articles/2023-03-06/china-s-xi-pledges-to-boost-confidence-in-private-sector](https://www.bloomberg.com/news/articles/2023-03-06/china-s-xi-pledges-to-boost-confidence-in-private-sector)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-03-06 11:55:32+00:00
+
+Xi Jinping, China's president, during the unveiling of the Communist Party of China's new Politburo Standing Committee at the Great Hall of the People in Beijing, China, on Sunday, Oct. 23, 2022. President Xi Jinping stacked China's most powerful body with his allies, giving him unfettered control over the world's second-largest economy. Bloomberg
 
 ## Israel President Says Pact on Judicial Overhaul Closer Than Ever
  - [https://www.bloomberg.com/news/articles/2023-03-06/israel-president-says-pact-on-judicial-overhaul-closer-than-ever](https://www.bloomberg.com/news/articles/2023-03-06/israel-president-says-pact-on-judicial-overhaul-closer-than-ever)

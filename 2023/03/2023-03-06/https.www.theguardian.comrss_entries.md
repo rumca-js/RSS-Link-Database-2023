@@ -378,6 +378,13 @@
 
 <p>As their Edinburgh fringe hit Sap heads on a UK tour, playwright Rafaella Marcus and producer Ellie Keel discuss the future of new writing, the rise of ‘safe’ programming and the need for better funding</p><p><strong>Arifa Akbar</strong>: Rafaella, how would you describe <a href="https://www.theguardian.com/stage/2022/aug/08/sap-review-ovids-transformation-myth-gloriously-retold-roundabout-summerhall-edinburgh">Sap</a> and what led you to write it?</p><p><strong>Rafaella Marcus</strong>: It’s very loosely based on the Greek myth of Daphne and Apollo. It is essentially about a person with power who pursues a person with little to no power and she finds escape through transformation. I was coming at it as someone who has been a director of new writing and a dramaturg for much longer than they’ve been a writer. I started it a long time ago but convinced myself that I couldn’t write it because it’s much easier to exist in one box than multiple boxes in this industry. Then I thought “I won’t see if it has any legs unless I see it in front of people.” So before I could chicken out I put it in for <a href="https://vaultfestival.com/">Vault festival</a>. I didn’t expect them to take it but when they did I thought: “Now I really have to finish writing it.”</p> <a href="https://www.theguardian.com/stage/2023/mar/06/sap-rafaella-marcus-ellie-keel-theatre">Continue reading...</a>
 
+## Meat, dairy and rice production will bust 1.5C climate target, shows study
+ - [https://www.theguardian.com/environment/2023/mar/06/meat-dairy-rice-high-methane-food-production-bust-climate-target-study](https://www.theguardian.com/environment/2023/mar/06/meat-dairy-rice-high-methane-food-production-bust-climate-target-study)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-03-06 16:00:08+00:00
+
+<p>Emissions from food system alone will drive the world past target, unless high-methane foods are tackled</p><p>Emissions from the food system alone will drive the world past 1.5C of global heating, unless high-methane foods are tackled.</p><p>Climate-heating emissions from food production, dominated by meat, dairy and rice, will by themselves break the key international target of 1.5C if left unchecked, a detailed study has shown.</p> <a href="https://www.theguardian.com/environment/2023/mar/06/meat-dairy-rice-high-methane-food-production-bust-climate-target-study">Continue reading...</a>
+
 ## Spain renews call for US to remove soil from nuclear accident site
  - [https://www.theguardian.com/world/2023/mar/06/spain-renews-call-us-remove-soil-nuclear-accident-site](https://www.theguardian.com/world/2023/mar/06/spain-renews-call-us-remove-soil-nuclear-accident-site)
  - RSS feed: https://www.theguardian.com/rss

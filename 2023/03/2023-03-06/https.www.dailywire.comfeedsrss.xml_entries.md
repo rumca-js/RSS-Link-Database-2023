@@ -1,5 +1,12 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Elon Musk Hints He Could Slap CNN With Special Warning Label Over Network’s Pandemic Coverage
+ - [https://www.dailywire.com/news/elon-musk-hints-he-could-slap-cnn-with-special-warning-label-over-networks-pandemic-coverage](https://www.dailywire.com/news/elon-musk-hints-he-could-slap-cnn-with-special-warning-label-over-networks-pandemic-coverage)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 19:45:21+00:00
+
+Twitter CEO Elon Musk suggested on Monday that he could slap CNN with a warning label after a new report this week alleged that the company stopped reporters from looking into whether the pandemic originated in a Chinese lab in Wuhan. The news comes after Wall Street Journal report from last week said that the ...
+
 ## NYC Mayor Says Shoppers In Masks Are Hiding From Cops, Not COVID — And Should Be Barred From Stores
  - [https://www.dailywire.com/news/nyc-mayor-says-shoppers-in-masks-are-hiding-from-cops-not-covid-and-should-be-barred-from-stores](https://www.dailywire.com/news/nyc-mayor-says-shoppers-in-masks-are-hiding-from-cops-not-covid-and-should-be-barred-from-stores)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

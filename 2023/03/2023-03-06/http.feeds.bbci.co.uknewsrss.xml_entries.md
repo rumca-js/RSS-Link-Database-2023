@@ -7,12 +7,26 @@
 
 Plans to end migrant Channel crossings and claims the ex-PM wants his father to be knighted lead the papers.
 
+## Egypt archaeology: Dig unearths smiling mini-sphinx which may represent Claudius
+ - [https://www.bbc.co.uk/news/world-africa-64870562?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-64870562?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-06 23:50:36+00:00
+
+The artefact found in the Hathor Temple is thought to represent the Roman Emperor Claudius.
+
 ## Brentford 3-2 Fulham: Bees' European dream gathers pace under inspirational boss Thomas Frank
  - [https://www.bbc.co.uk/sport/football/64870652?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64870652?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2023-03-06 23:44:44+00:00
 
 A superbly run club, an inspirational manager and a talismanic forward, BBC Sport's chief football writer Phil McNulty assesses Brentford's European aspirations
+
+## Exposed for abuse but still revered – Japan’s J-pop predator
+ - [https://www.bbc.co.uk/news/world-asia-64837855?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64837855?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-06 23:08:05+00:00
+
+How did the high priest of Japanese pop, Johnny Kitagawa, exploit teenage boys with impunity for so long?
 
 ## Chris Mason: Chance for progress on small boats - but can PM deliver?
  - [https://www.bbc.co.uk/news/uk-politics-64870504?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-64870504?at_medium=RSS&at_campaign=KARANGA)
