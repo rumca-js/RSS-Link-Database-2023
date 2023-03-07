@@ -1,5 +1,40 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Prosecutor Claimed L.A.’s Soft-On-Crime DA Exiled Her For Speaking Out — She Just Won $1.5 Mil
+ - [https://www.dailywire.com/news/prosecutor-claimed-l-a-s-soft-on-crime-da-exiled-her-for-speaking-out-she-just-won-1-5-mil](https://www.dailywire.com/news/prosecutor-claimed-l-a-s-soft-on-crime-da-exiled-her-for-speaking-out-she-just-won-1-5-mil)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 20:54:48+00:00
+
+A Los Angeles jury has awarded $1.5 million to prosecutor Shawn Randolph after she claimed that District Attorney George Gascon retaliated against her for questioning his policies. According to the suit Randolph filed in October of 2021, she was given a transfer that she claimed was punitive after she raised questions about Gascon&#8217;s criminal justice ...
+
+## Texas Lawmaker Files ‘TEXIT’ Bill To Prompt Citizen Vote On Exploring Secession From U.S.
+ - [https://www.dailywire.com/news/texas-lawmaker-files-texit-bill-to-prompt-citizen-vote-on-exploring-secession-from-u-s](https://www.dailywire.com/news/texas-lawmaker-files-texit-bill-to-prompt-citizen-vote-on-exploring-secession-from-u-s)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 20:39:58+00:00
+
+Texas Rep. Bryan Slaton filed a bill Monday at the state legislature that, if passed, would allow Texans to vote in the next general election if the Lone Star State should reassert its status as an independent nation. Slaton officially filed the Texas Independence Referendum Act in the Texas House of Representatives, which would place ...
+
+## Tucker Carlson Releases January 6 Footage That Raises New Questions
+ - [https://www.dailywire.com/news/tucker-carlson-releases-january-6-footage-that-raises-new-questions](https://www.dailywire.com/news/tucker-carlson-releases-january-6-footage-that-raises-new-questions)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 20:38:04+00:00
+
+Fox News host Tucker Carlson released new surveillance footage from the January 6 riot that appears to show two Capitol police officers escorting Jacob Chansley, known as the “QAnon Shaman,” throughout the building. Carlson released the footage after being given exclusive access by House Speaker Kevin McCarthy (R-CA) to 40,000 hours of video from that ...
+
+## Biden Stumbles Again While Trying To Climb Stairs Of Air Force One
+ - [https://www.dailywire.com/news/biden-stumbles-again-while-trying-to-climb-stairs-of-air-force-one](https://www.dailywire.com/news/biden-stumbles-again-while-trying-to-climb-stairs-of-air-force-one)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 20:22:09+00:00
+
+President Joe Biden stumbled again while climbing the stairs of Air Force One this week following a trip he made to Alabama to commemorate the 58th anniversary of the “Bloody Sunday” march during the civil rights era. The incident happened on Sunday after Biden got off Marine One, walked across the tarmac, and began climbing ...
+
+## ‘This One Blew My Mind’: NFL Network Anchor Spills Rumor Tom Brady Might ‘Un-Retire’ Again
+ - [https://www.dailywire.com/news/this-one-blew-my-mind-nfl-network-anchor-spills-rumor-tom-brady-might-un-retire-again](https://www.dailywire.com/news/this-one-blew-my-mind-nfl-network-anchor-spills-rumor-tom-brady-might-un-retire-again)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 20:08:05+00:00
+
+NFL Network anchor Rich Eisen was on hand in Indianapolis for the 2023 NFL Scouting Combine, and the weirdest takeaway for him was the rumor swirling about twice-retired quarterback Tom Brady. Eisen shared several of the rumors he&#8217;d heard while in Indianapolis, but the one that topped his list was that Brady — who has ...
+
 ## Elon Musk Hints He Could Slap CNN With Special Warning Label Over Network’s Pandemic Coverage
  - [https://www.dailywire.com/news/elon-musk-hints-he-could-slap-cnn-with-special-warning-label-over-networks-pandemic-coverage](https://www.dailywire.com/news/elon-musk-hints-he-could-slap-cnn-with-special-warning-label-over-networks-pandemic-coverage)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

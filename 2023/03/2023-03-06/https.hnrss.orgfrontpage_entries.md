@@ -50,6 +50,16 @@
 <p>Points: 66</p>
 <p># Comments: 42</p>
 
+## GPT-3 will ignore tools when it disagrees with them
+ - [https://vgel.me/posts/tools-not-needed/](https://vgel.me/posts/tools-not-needed/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-06 21:21:17+00:00
+
+<p>Article URL: <a href="https://vgel.me/posts/tools-not-needed/">https://vgel.me/posts/tools-not-needed/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35047776">https://news.ycombinator.com/item?id=35047776</a></p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
+
 ## Roku devices don't support IPv6 in 2023 and its costing ISPs
  - [https://community.roku.com/t5/Features-settings-updates/It-s-2022-and-still-no-IPv6/m-p/854673/highlight/true#M35732](https://community.roku.com/t5/Features-settings-updates/It-s-2022-and-still-no-IPv6/m-p/854673/highlight/true#M35732)
  - RSS feed: https://hnrss.org/frontpage

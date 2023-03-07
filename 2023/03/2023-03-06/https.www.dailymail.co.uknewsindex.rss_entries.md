@@ -21,6 +21,13 @@ Software company Atlassian will cut hundreds of jobs just months after co-founde
 
 Emergency services were called to Epping's Boronia Avenue, in Sydney's north-west, at around 7:45pm on Monday after a resident heard a loud noise and found an unconscious 78-year-old man on the street.
 
+## ALEX BRUMMER: In next week's Budget, Jeremy Hunt is still set to hit the self-destruct button
+ - [https://www.dailymail.co.uk/debate/article-11828333/ALEX-BRUMMER-weeks-Budget-Jeremy-Hunt-set-hit-self-destruct-button.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11828333/ALEX-BRUMMER-weeks-Budget-Jeremy-Hunt-set-hit-self-destruct-button.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 23:44:01+00:00
+
+ALEX BRUMMER: All those Tory pledges to embrace the freedoms given to us by Brexit and transform Britain into the next Silicon Valley appear to be crashing to Earth with a deafening thud.
+
 ## Evan Davis in BBC impartiality row over Radio 4 cannabis debate - amid Prince Harry's drugs comments
  - [https://www.dailymail.co.uk/news/article-11828207/Evan-Davis-BBC-impartiality-row-Radio-4-cannabis-debate-amid-Prince-Harrys-drugs-comments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11828207/Evan-Davis-BBC-impartiality-row-Radio-4-cannabis-debate-amid-Prince-Harrys-drugs-comments.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -77,6 +84,13 @@ Gavin Newson announced the decision on Monday in a tweet that read, 'We're done,
 
 Police were facing questions last night about how five young people lay undiscovered for two days  with search parties claiming they discovered the grim accident in  Cardiff 'before authorities.'
 
+## Plastic surgeon to the rich reveals four procedures in highest demand
+ - [https://www.dailymail.co.uk/health/article-11818229/Plastic-surgeon-rich-reveals-four-procedures-highest-demand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11818229/Plastic-surgeon-rich-reveals-four-procedures-highest-demand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 23:20:45+00:00
+
+Dr Barry Weintraub, who owns a practice in Manhattan, said one of the breakout stars of this year so far has been buccal fat removal surgery.
+
 ## Senior journalists at The New York Times harassed and threatened by alliance of woke celebrities
  - [https://www.dailymail.co.uk/news/article-11828203/Senior-journalists-New-York-Times-harassed-threatened-alliance-woke-celebrities.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11828203/Senior-journalists-New-York-Times-harassed-threatened-alliance-woke-celebrities.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -90,6 +104,34 @@ The imposing headquarters of The New York Times was built of glass, supposedly t
  - date published: 2023-03-06 23:00:39+00:00
 
 China's foreign ministry on Monday blasted the U.S. for being 'overly paranoid' after Pentagon officials expressed that Chinese-made shipping cranes could be used as a 'Trojan horse' for spying.
+
+## Miscarriages are a warning sign you're at risk of heart disease
+ - [https://www.dailymail.co.uk/health/article-11827319/Miscarriages-warning-sign-youre-risk-heart-disease.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11827319/Miscarriages-warning-sign-youre-risk-heart-disease.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 23:00:16+00:00
+
+JENNIE AGG: I have had four miscarriages and - joyfully - one healthy son, though my husband Dan and I never found a reason for our previous losses.
+
+## The 20 jobs most at risk as the AI boom continues: Is YOUR occupation on the list?
+ - [https://www.dailymail.co.uk/sciencetech/article-11828001/The-20-jobs-risk-AI-boom-continues-occupation-list.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11828001/The-20-jobs-risk-AI-boom-continues-occupation-list.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 22:58:31+00:00
+
+A new study reveals the top 20 jobs at risk of being taken over by artificial intelligent. The list was created using an AI occupational exposure methodology created in 2021.
+
+## Ex-foreign minister of Australia ALEXANDER DOWNER gives his verdict on a looming migrant crackdown
+ - [https://www.dailymail.co.uk/debate/article-11828073/Ex-foreign-minister-Australia-ALEXANDER-DOWNER-gives-verdict-looming-migrant-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11828073/Ex-foreign-minister-Australia-ALEXANDER-DOWNER-gives-verdict-looming-migrant-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 22:57:12+00:00
+
+ALEXANDER DOWNER: At last, Rishi Sunak's Government is ready to put a stop to dangerous illegal immigration, with a zero-tolerance policy.
+
+## Jamie's £1 Wonders: Viewers question cost of energy
+ - [https://www.dailymail.co.uk/femail/article-11827681/Jamies-1-Wonders-Viewers-question-cost-energy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-11827681/Jamies-1-Wonders-Viewers-question-cost-energy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 22:54:52+00:00
+
+Jamie Oliver, 47, cooked up roast chicken and pancakes on his £1 Wonders. The TV chef however, was slammed on Twitter by viewers for not including energy costs in his recipes.
 
 ## No ifs, no buts: Let's end the Channel crisis
  - [https://www.dailymail.co.uk/news/article-11828179/No-ifs-no-buts-Lets-end-Channel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11828179/No-ifs-no-buts-Lets-end-Channel-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -223,6 +265,13 @@ The sovereign citizen driver had been travelling down a road in regional Victori
  - date published: 2023-03-06 21:55:37+00:00
 
 Crews are out in southern California hustling to clear snow-covered roads in the San Bernardino Mountains, where at least dozens of residents remained stranded on Monday.
+
+## How teams of number crunchers and maths whizz kids kicked off a revolution in sport
+ - [https://www.dailymail.co.uk/money/markets/article-11827545/How-teams-number-crunchers-maths-whizz-kids-kicked-revolution-sport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/money/markets/article-11827545/How-teams-number-crunchers-maths-whizz-kids-kicked-revolution-sport.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 21:53:23+00:00
+
+Brighton and Hove Albion owner Tony Bloom (pictured) is ahead of most of his Premier League rivals when it comes to using analytics.
 
 ## Pauline Hanson slams Anthony Albanese as migration is set to soar past 300,000 amidst housing crisis
  - [https://www.dailymail.co.uk/news/article-11824633/Pauline-Hanson-slams-Anthony-Albanese-migration-set-soar-past-300-000-amidst-housing-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11824633/Pauline-Hanson-slams-Anthony-Albanese-migration-set-soar-past-300-000-amidst-housing-crisis.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -441,12 +490,47 @@ He has never had a strong desire to live at Windsor Castle, largely because of t
 
 What should have been a 75 minute flight turned into a nine-hour nightmare for passengers on a Southwest flight from Baltimore to Raleigh that was diverted to Myrtle Beach due to turbulence.
 
+## Why leading scientists want the food colourant in BACON to be banned
+ - [https://www.dailymail.co.uk/health/article-11827249/Why-leading-scientists-want-food-colourant-BACON-banned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11827249/Why-leading-scientists-want-food-colourant-BACON-banned.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 19:22:14+00:00
+
+JOHN NAISH: Leading scientists have called for chemical additives to be banned because of the mounting research linking them to type two diabetes and bowl cancer.
+
+## Patients must now get a GP slot or be referred elsewhere on the FIRST time they call
+ - [https://www.dailymail.co.uk/health/article-11827209/Patients-GP-slot-referred-time-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11827209/Patients-GP-slot-referred-time-call.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 19:11:51+00:00
+
+GPs have however threatened to strike over the 'insulting' new contract, which they say has been forced on them by NHS England and does not offer enough funding.
+
+## Prince Harry sparks warning over his 'irresponsible' ayahuasca promotion
+ - [https://www.dailymail.co.uk/health/article-11825395/Prince-Harry-sparks-warning-irresponsible-ayahuasca-promotion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11825395/Prince-Harry-sparks-warning-irresponsible-ayahuasca-promotion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 18:53:42+00:00
+
+Amazonian tribes have used the psychedelic brew for thousands of years to bring 'spiritual enlightenment'.
+
+## NHS whistleblower sacrifices his career to secretly capture brutal reality of dire 999 service
+ - [https://www.dailymail.co.uk/health/article-11826315/NHS-whistleblower-sacrifices-career-secretly-capture-brutal-reality-dire-999-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11826315/NHS-whistleblower-sacrifices-career-secretly-capture-brutal-reality-dire-999-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 18:40:03+00:00
+
+Raw footage, captured by Daniel Waterhouse, who was working for East of England Ambulance Service shows corridors jampacked of patients who have spent 20-plus hours waiting to be seen.
+
 ## Furious Radio 2 listeners dub new quiz a 'Poundland Popmaster' after Ken Bruce left
  - [https://www.dailymail.co.uk/news/article-11827313/Furious-Radio-2-listeners-dub-new-quiz-Poundland-Popmaster-Ken-Bruce-left.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11827313/Furious-Radio-2-listeners-dub-new-quiz-Poundland-Popmaster-Ken-Bruce-left.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2023-03-06 18:39:03+00:00
 
 Radio 2 has been accused of launching a replica of Ken Bruce's Popmaster quiz in the morning slot he formerly hosted.
+
+## The simple diet tweaks that can help boost your mood: DR MEGAN ROSSI
+ - [https://www.dailymail.co.uk/health/article-11827115/The-simple-diet-tweaks-help-boost-mood-DR-MEGAN-ROSSI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11827115/The-simple-diet-tweaks-help-boost-mood-DR-MEGAN-ROSSI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 18:35:49+00:00
+
+DR MEGAN ROSSI: This is not about feeling cheered up by a chocolate bar - which has a more immediate effect on reward centres in your brain.
 
 ## Portland real estate developer says he's ditching the city after his office was struck with gunfire
  - [https://www.dailymail.co.uk/news/article-11826905/Portland-real-estate-developer-says-hes-ditching-city-office-struck-gunfire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11826905/Portland-real-estate-developer-says-hes-ditching-city-office-struck-gunfire.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -580,6 +664,13 @@ Martha Nussbaum, 75, argues that it shouldn't just be our pets that are protecte
  - date published: 2023-03-06 16:57:03+00:00
 
 Wiltshire Police say that a girl suffered a cardiac arrest at an address in Southwick, Trowbride, and sadly passed away at the scene on February 25.
+
+## Chris Whitty 'warned against enforcing hated sex ban during Covid pandemic'
+ - [https://www.dailymail.co.uk/health/article-11826269/Chris-Whitty-warned-against-enforcing-hated-sex-ban-Covid-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-11826269/Chris-Whitty-warned-against-enforcing-hated-sex-ban-Covid-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 16:54:18+00:00
+
+Under the original Covid lockdown imposed in the UK on March 23 2020, Boris Johnson told Brits to stay at home and avoid contact with people living in other households.
 
 ## Woman accused of helping launder millions 'joined WhatsApp group called Sunshine and Lollypops'
  - [https://www.dailymail.co.uk/news/article-11826719/dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11826719/dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -769,6 +860,13 @@ Anna Certowicz has revealed that her daughter Sophie Russon, 20, was 'conscious 
  - date published: 2023-03-06 15:06:13+00:00
 
 Police were able to later identify his killer by a £1,350 puffer coat that one of the attackers was photographed wearing in a KFC just two days prior. The jacket was one of just 69 sold in the UK.
+
+## Britons could soon save £150/YEAR on their energy bills by using computer servers to heat water
+ - [https://www.dailymail.co.uk/sciencetech/article-11825949/Britons-soon-save-150-YEAR-energy-bills-using-computer-servers-heat-water.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11825949/Britons-soon-save-150-YEAR-energy-bills-using-computer-servers-heat-water.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-03-06 15:03:28+00:00
+
+The system works because as the computer gets hot, a tank takes waste heat away from it and uses this to warm water for showers, baths and washing up, British start-up Heata says.
 
 ## Black nurse told to 'bleach her skin white so patients would be nice to her' wins £25,000 suing NHS
  - [https://www.dailymail.co.uk/news/article-11826007/Black-nurse-told-bleach-skin-white-patients-nice-wins-25-000-suing-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11826007/Black-nurse-told-bleach-skin-white-patients-nice-wins-25-000-suing-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

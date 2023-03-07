@@ -1,5 +1,40 @@
 # Source:The Washington Post - World, URL:https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36, language:en-US
 
+## Trudeau orders probe of alleged Chinese interference in Canada election
+ - [https://www.washingtonpost.com/world/2023/03/06/canada-china-election-interference/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/canada-china-election-interference/?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 20:50:55+00:00
+
+The move fell short of the full public inquiry that opposition lawmakers have demanded.
+
+## UN envoy says 2023 is a `make or break' year for South Sudan
+ - [https://www.washingtonpost.com/world/2023/03/06/south-sudan-elections-political-will/d1dcd0b6-bc87-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/south-sudan-elections-political-will/d1dcd0b6-bc87-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 20:31:44+00:00
+
+The U.N. special envoy for South Sudan is calling 2023 a “make or break” year for the world’s newest nation that has been beset by civil war
+
+## Peru: 6 soldiers drown in river while responding to protests
+ - [https://www.washingtonpost.com/world/2023/03/06/peru-soldiers-drown-boluarte-protests/1e2837ce-bc85-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/peru-soldiers-drown-boluarte-protests/1e2837ce-bc85-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 20:12:24+00:00
+
+Military officials in Peru say six soldiers drowned while trying to swim across a river in the Andes to reach a town where violent protesters are demanding the resignation of Peru’s president
+
+## Syrian state media: Israeli strike damaged Aleppo airport
+ - [https://www.washingtonpost.com/world/2023/03/06/syria-israel-strikes-aleppo-airport/27360ed2-bc84-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/syria-israel-strikes-aleppo-airport/27360ed2-bc84-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 20:05:30+00:00
+
+Syrian state media say an Israeli airstrike has hit the Aleppo airport and put it out of service
+
+## Argentina: Police arrest suspect in killing of 12-year-old
+ - [https://www.washingtonpost.com/world/2023/03/06/rosario-violence-maximo-shooting-messi/457ccec2-bc83-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/rosario-violence-maximo-shooting-messi/457ccec2-bc83-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
+ - date published: 2023-03-06 19:59:12+00:00
+
+Police in Argentina have detained a man on suspicion of killing a 12-year-old boy and neighbors wrecked his house amid anger over escalating drug-related violence in the city of Rosario
+
 ## Canadian official to examine Chinese election interference
  - [https://www.washingtonpost.com/world/2023/03/06/canada-china-election-interference/8b2ec992-bc7a-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/03/06/canada-china-election-interference/8b2ec992-bc7a-11ed-9350-7c5fccd598ad_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
  - RSS feed: https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36
