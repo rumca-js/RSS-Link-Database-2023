@@ -1,5 +1,12 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## "Rzucimy gospodarkę na kolana". Ważą się losy reformy emerytalnej we Francji
+ - [https://www.bankier.pl/wiadomosc/Reforma-emerytalna-we-Francji-Rozpoczyna-sie-kolejna-fala-strajkow-8500687.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Reforma-emerytalna-we-Francji-Rozpoczyna-sie-kolejna-fala-strajkow-8500687.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-03-06 23:33:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/6/7/bfcb7dd9b7095f-948-568-0-202-3000-1799.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />We wtorek rozpoczyna się kolejna fala trwających od stycznia protestów i strajków przeciwko rządowemu projektowi reformy emerytalnej. Prasa francuska określa nadchodzące dni jako decydujące dla reformy, zarówno w parlamencie, jak i na ulicach.</p>
+
 ## Główny akcjonariusz Kernel Holding nie widzi zalet dalszego notowania spółki na GPW
  - [https://www.bankier.pl/wiadomosc/Glowny-akcjonariusz-Kernel-Holding-nie-widzi-zalet-dalszego-notowania-spolki-na-GPW-8500686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Glowny-akcjonariusz-Kernel-Holding-nie-widzi-zalet-dalszego-notowania-spolki-na-GPW-8500686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
