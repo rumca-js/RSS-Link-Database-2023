@@ -328,6 +328,14 @@
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-b88aa3-lex-pilot-media-telewizja-6627431/alternates/LANDSCAPE_1280" />
     Wysłuchanie publiczne w sprawie lex pilot w Sejmie.
 
+## Miała nie brać udziału w przemocy, ale "ułatwiła popełnienie przestępstwa". Decyzja sądu w sprawie 16-latki
+ - [https://tvn24.pl/bialystok/zamosc-zabojstwo-16-letniego-eryka-w-zamosciu-zarzuty-dla-nastolatki-trafila-do-osrodka-wychowawczego-6798799?source=rss](https://tvn24.pl/bialystok/zamosc-zabojstwo-16-letniego-eryka-w-zamosciu-zarzuty-dla-nastolatki-trafila-do-osrodka-wychowawczego-6798799?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-03-06 12:52:49+00:00
+
+<img alt="Miała nie brać udziału w przemocy, ale " src="https://tvn24.pl/najnowsze/cdn-zdjecie-51a3rb-uczestnicy-marszu-przeciwko-przemocy-w-zamosciu-6793642/alternates/LANDSCAPE_1280" />
+    Po śmiertelnym pobiciu 16-letniego Eryka w Zamościu.
+
 ## Zarzuty dla kolejnej osoby po śmierci 16-letniego Eryka
  - [https://tvn24.pl/bialystok/zamosc-zabojstwo-16-letniego-eryka-w-zamosciu-zarzuty-dla-nastolatki-6798799?source=rss](https://tvn24.pl/bialystok/zamosc-zabojstwo-16-letniego-eryka-w-zamosciu-zarzuty-dla-nastolatki-6798799?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
