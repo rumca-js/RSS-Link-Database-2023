@@ -161,6 +161,13 @@
 
 <p><a href="https://wydarzenia.interia.pl/malopolskie/news-jedna-wielka-samotnosc-pilem-do-utarty-swiadomosci-wyznania-,nId,6638034"><img align="left" alt="&quot;Jedna wielka samotność. Piłem do utarty świadomości&quot;. Wyznania księży " src="https://i.iplsc.com/jedna-wielka-samotnosc-pilem-do-utarty-swiadomosci-wyznania/000GUPL038Y70IKB-C321.jpg" /></a>- Ludzie zapominają, że ksiądz jest tylko człowiekiem. Ma swoje emocje, uczucia, słabości, namiętności, problemy, wady. Kiedy zatrzaskują się drzwi plebanii, często zostaje się z nimi sam. Jedna wielka samotność - mówi ksiądz Adam. - Zdarzało mi się sięgnąć po alkohol i pić tak, aby stracić świadomość. To były pojedyncze przypadki - dodaje ksiądz Stanisław. Kilku księży opowiada nam, jak wygląda ich codzienne życie.</p><br clear="all" />
 
+## "Jedna wielka samotność. Piłem do utraty świadomości". Wyznania księży
+ - [https://wydarzenia.interia.pl/malopolskie/news-jedna-wielka-samotnosc-pilem-do-utraty-swiadomosci-wyznania-,nId,6638034](https://wydarzenia.interia.pl/malopolskie/news-jedna-wielka-samotnosc-pilem-do-utraty-swiadomosci-wyznania-,nId,6638034)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2023-03-06 15:43:01+00:00
+
+<p><a href="https://wydarzenia.interia.pl/malopolskie/news-jedna-wielka-samotnosc-pilem-do-utraty-swiadomosci-wyznania-,nId,6638034"><img align="left" alt="&quot;Jedna wielka samotność. Piłem do utraty świadomości&quot;. Wyznania księży " src="https://i.iplsc.com/jedna-wielka-samotnosc-pilem-do-utraty-swiadomosci-wyznania/000GUPL038Y70IKB-C321.jpg" /></a>- Ludzie zapominają, że ksiądz jest tylko człowiekiem. Ma swoje emocje, uczucia, słabości, namiętności, problemy, wady. Kiedy zatrzaskują się drzwi plebanii, często zostaje się z nimi samemu. Jedna wielka samotność - mówi ksiądz Adam. - Zdarzało mi się sięgnąć po alkohol i pić tak, aby stracić świadomość. To były pojedyncze przypadki - dodaje ksiądz Stanisław. Kilku księży opowiada nam, jak wygląda ich codzienne życie.</p><br clear="all" />
+
 ## Ramzan Kadyrow z "tajemniczym" urządzeniem na palcu. Fala spekulacji
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ramzan-kadyrow-z-tajemniczym-urzadzeniem-na-palcu-fala-speku,nId,6638044](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-ramzan-kadyrow-z-tajemniczym-urzadzeniem-na-palcu-fala-speku,nId,6638044)
  - RSS feed: https://wydarzenia.interia.pl/feed

@@ -84,6 +84,13 @@ A 33-year-old woman is dead and nine others are injured "as a result of a large 
 
 The devastating earthquake that hit Turkey on February 6 killed at least 45,000 people, rendered millions homeless across almost a dozen cities and caused immediate damage estimated at $34 billion -- or roughly 4% of the country's annual economic output, according to the World Bank.
 
+## CNN anchor gives birth in surprise way
+ - [https://www.cnn.com/videos/media/2023/03/06/kasie-hunt-delivers-baby-bathroom-cnntm-cprog-vpx.cnn](https://www.cnn.com/videos/media/2023/03/06/kasie-hunt-delivers-baby-bathroom-cnntm-cprog-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-03-06 15:53:39+00:00
+
+CNN Anchor Kasie Hunt and husband Matthew Mario Rivera welcomed their second child to the world last week in an unforgettable way.
+
 ## Tom Sandoval speaks out in wake of 'Vanderpump Rules' cheating scandal
  - [https://www.cnn.com/2023/03/06/entertainment/tom-sandoval-ariana-madix/index.html](https://www.cnn.com/2023/03/06/entertainment/tom-sandoval-ariana-madix/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -97,6 +104,13 @@ Tom Sandoval has issued an apology, but not to the person expected.
  - date published: 2023-03-06 14:42:34+00:00
 
 When fashion week takes over a city, celebrities are never far from the action — often in carefully curated outfits that live on our moodboards for the rest of the year.  The famous faces we see dashing into shows, or seated front row, are an essential part of a brand's marketing strategy — sometimes generating more buzz than the new collection itself.
+
+## What's at stake for the battle in Bakhmut
+ - [https://www.cnn.com/videos/world/2023/03/06/ukraine-bakhmut-city-russia-military-strategy-cnntm-lyons-vpx.cnn](https://www.cnn.com/videos/world/2023/03/06/ukraine-bakhmut-city-russia-military-strategy-cnntm-lyons-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-03-06 14:42:13+00:00
+
+For the first time in eight months, the Russians are on the cusp of taking a Ukrainian city, albeit a small one already abandoned by more than 90% of its prewar population. Ret. US Army Major Mike Lyons explains what's at stake for both sides.
 
 ## Why the West hasn't gone after Russian nuclear energy
  - [https://www.cnn.com/2023/03/06/energy/russia-nuclear-industry-no-sanctions/index.html](https://www.cnn.com/2023/03/06/energy/russia-nuclear-industry-no-sanctions/index.html)

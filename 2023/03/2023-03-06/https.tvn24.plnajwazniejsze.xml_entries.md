@@ -280,6 +280,14 @@
 <img alt="Zła pogoda zamieniła lot w mękę. Pasażerowie wymiotowali i mdleli" src="https://tvn24.pl/najnowsze/cdn-zdjecie-x0ykte-southwest-airlines-boeing-737-700-6798785/alternates/LANDSCAPE_1280" />
     O "przerażającym" locie opowiedzieli jego pasażerowie.
 
+## Dostają 1217 złotych miesięcznie, proszą o najniższą krajową. "Ciężka noc" protestujących w Sejmie
+ - [https://tvn24.pl/polska/sejm-protest-renta-socjalna-osoby-z-niepelnosprawnosciami-i-ich-opiekunowie-protestuja-w-sejmie-6798993?source=rss](https://tvn24.pl/polska/sejm-protest-renta-socjalna-osoby-z-niepelnosprawnosciami-i-ich-opiekunowie-protestuja-w-sejmie-6798993?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-03-06 14:29:57+00:00
+
+<img alt="Dostają 1217 złotych miesięcznie, proszą o najniższą krajową. " src="https://tvn24.pl/najnowsze/cdn-zdjecie-plhjxa-podpisy-pod-obywatelskim-projektem-ustawy-o-podwyzszeniu-wysokosci-renty-socjalnej-dla-osob-z-niepelnosprawnosciami-6799255/alternates/LANDSCAPE_1280" />
+    Osoby z niepełnosprawnościami i ich opiekunowie we wtorek po godzinie 9 złożyli w sejmowej kancelarii podpisy pod projektem ustawy o rencie socjalnej.
+
 ## Tak, są duże szanse, że obronimy Ziemię przed kolizją z asteroidą
  - [https://tvn24.pl/tvnmeteo/nauka/ziemie-da-sie-uratowac-przed-asteroida-lekcje-z-misji-dart-nasa-przedstawila-analizy-6798494?source=rss](https://tvn24.pl/tvnmeteo/nauka/ziemie-da-sie-uratowac-przed-asteroida-lekcje-z-misji-dart-nasa-przedstawila-analizy-6798494?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
