@@ -7,6 +7,13 @@
 
 Democratic Sen. Mark Warner and Republican John Thune will unveil a highly anticipated bill to give the president broad power to address threats from TikTok.
 
+## CNBC Daily Open: All eyes are on Jerome Powell
+ - [https://www.cnbc.com/2023/03/07/cnbc-daily-open-all-eyes-are-on-powell.html](https://www.cnbc.com/2023/03/07/cnbc-daily-open-all-eyes-are-on-powell.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-03-06 23:44:27+00:00
+
+U.S. Federal Reserve Chair Jerome Powell will testify before Congress as a week packed with economic data releases lies ahead.
+
 ## Google tells employees that fewer of them will get promotions to senior roles
  - [https://www.cnbc.com/2023/03/06/google-tells-employees-that-fewer-of-them-will-get-promotions-to-senior-roles.html](https://www.cnbc.com/2023/03/06/google-tells-employees-that-fewer-of-them-will-get-promotions-to-senior-roles.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html

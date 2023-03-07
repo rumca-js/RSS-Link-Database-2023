@@ -1,5 +1,12 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## ‘Extreme Even For The Fake News’: Michael Knowles Said Accusations Of Genocide Surprised Him
+ - [https://www.dailywire.com/news/extreme-even-for-the-fake-news-michael-knowles-said-accusations-of-genocide-surprised-him](https://www.dailywire.com/news/extreme-even-for-the-fake-news-michael-knowles-said-accusations-of-genocide-surprised-him)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-03-06 21:47:19+00:00
+
+The Daily Wire podcast host Michael Knowles said that he expected the media to come after him for his comments about transgender ideology, but accusations of genocide took him by surprise. Knowles joined Fox News host Tucker Carlson for his Monday evening broadcast to discuss the comments he made at last weekend&#8217;s Conservative Political Action ...
+
 ## Prosecutor Claimed L.A.’s Soft-On-Crime DA Exiled Her For Speaking Out — She Just Won $1.5 Mil
  - [https://www.dailywire.com/news/prosecutor-claimed-l-a-s-soft-on-crime-da-exiled-her-for-speaking-out-she-just-won-1-5-mil](https://www.dailywire.com/news/prosecutor-claimed-l-a-s-soft-on-crime-da-exiled-her-for-speaking-out-she-just-won-1-5-mil)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
