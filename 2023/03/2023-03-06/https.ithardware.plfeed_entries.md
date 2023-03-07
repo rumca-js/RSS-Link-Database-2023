@@ -156,6 +156,14 @@ Kiedy ostatni raz testowaliśmy dysk Lexara, ten okazał się najbardziej opłac
 <img src="https://ithardware.pl/artykuly/min/26149_1.jpg" />            Jeśli nie możecie skorzystać z nowej technologii skalowania wideo NVIDII, ponieważ nie macie najnowszych kart graficznych RTX, możecie wypr&oacute;bować rozwiązanie, nad kt&oacute;rym pracuje Intel. Co prawda Niebiescy jeszcze oficjalnie nie...
             <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/intel_takze_ma_technologie_upscalowania_wideo_w_przegladarce_juz_mozecie_go_sprawdzic-26149.html">https://ithardware.pl/aktualnosci/intel_takze_ma_technologie_upscalowania_wideo_w_przegladarce_juz_mozecie_go_sprawdzic-26149.html</a></p>
 
+## Jak zrobić zrzut ekranu w Windows 11?
+ - [https://ithardware.pl/poradniki/jak_zrobic_zrzut_ekranu_windows_11-26177.html](https://ithardware.pl/poradniki/jak_zrobic_zrzut_ekranu_windows_11-26177.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2023-03-06 08:00:00+00:00
+
+<img src="https://ithardware.pl/artykuly/min/26177_1.jpg" />            Windows 11 to niestety downgrade względem Windows 10, jeśli chodzi o dostępność narzędzia do wykonywania zrzut&oacute;w ekranu. Wcześniej takowe było wbudowane w ikonę zasobnika na pasku zadań (specyficzna chmurka po prawej na dole), z...
+            <p>Pełna wersja strony <a href="https://ithardware.pl/poradniki/jak_zrobic_zrzut_ekranu_windows_11-26177.html">https://ithardware.pl/poradniki/jak_zrobic_zrzut_ekranu_windows_11-26177.html</a></p>
+
 ## Partnerzy NVIDII szykować mają kolejne obniżki cen kart z serii GeForce GTX 16 i RTX 30
  - [https://ithardware.pl/aktualnosci/partnerzy_nvidii_szykowac_maja_kolejne_obnizki_cen_kart_z_serii_geforce_gtx_16_i_rtx_30-26148.html](https://ithardware.pl/aktualnosci/partnerzy_nvidii_szykowac_maja_kolejne_obnizki_cen_kart_z_serii_geforce_gtx_16_i_rtx_30-26148.html)
  - RSS feed: https://ithardware.pl/feed
