@@ -91,6 +91,13 @@ The devastating earthquake that hit Turkey on February 6 killed at least 45,000 
 
 CNN Anchor Kasie Hunt and husband Matthew Mario Rivera welcomed their second child to the world last week in an unforgettable way.
 
+## 'It literally explodes': E-bike's battery blamed for fire that destroyed building
+ - [https://www.cnn.com/videos/us/2023/03/06/bronx-fire-lithium-battery-ebike-cprog-lon-orig-mrg.cnn](https://www.cnn.com/videos/us/2023/03/06/bronx-fire-lithium-battery-ebike-cprog-lon-orig-mrg.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-03-06 15:16:32+00:00
+
+At least seven people have been injured in a fire in New York that local officials believe was caused by a lithium-ion battery. FDNY Commissioner Laura Kavanagh says over 400 fires were caused by these types of batteries in the city in the past four years.
+
 ## Tom Sandoval speaks out in wake of 'Vanderpump Rules' cheating scandal
  - [https://www.cnn.com/2023/03/06/entertainment/tom-sandoval-ariana-madix/index.html](https://www.cnn.com/2023/03/06/entertainment/tom-sandoval-ariana-madix/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -146,6 +153,13 @@ When Lindz McLeod stepped off the airplane at John F. Kennedy Airport, she felt 
  - date published: 2023-03-06 13:05:25+00:00
 
 A portrait of the British actor David Harewood has been commissioned to hang in a stately home belonging to the aristocratic family that once enslaved his ancestors.
+
+## The workers the mass Twitter layoffs left behind
+ - [https://www.cnn.com/videos/business/2023/03/03/elon-musk-twitter-employees-year-of-uncertainty-contd-gr-orig.cnn](https://www.cnn.com/videos/business/2023/03/03/elon-musk-twitter-employees-year-of-uncertainty-contd-gr-orig.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-03-06 12:39:57+00:00
+
+Three former Twitter employees and their lawyer to talk to CNN about their final days at the company after Elon Musk took control, and what the company's mass layoffs have meant for their lives.
 
 ## Tesla cuts prices on its most expensive models
  - [https://www.cnn.com/2023/03/06/business/tesla-cuts-prices/index.html](https://www.cnn.com/2023/03/06/business/tesla-cuts-prices/index.html)
