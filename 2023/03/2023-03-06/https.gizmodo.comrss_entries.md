@@ -1,0 +1,296 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## The Star Wars Celebration 2023 Art Show Is Full of Sights, Delights, and Ahsoka
+ - [https://gizmodo.com/star-wars-celebration-2023-art-show-preorder-details-1850194655](https://gizmodo.com/star-wars-celebration-2023-art-show-preorder-details-1850194655)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-07 00:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--W0-VNwWF--/c_fit,fl_progressive,q_80,w_636/ba5fa24179cb1952dba50d12e03101b6.png" /><p>The next <a href="https://gizmodo.com/star-wars-celebration-2022-wrap-up-obi-wan-kenobi-andor-1848995791"><em>Star Wars</em> Celebration</a> is just a month away—promising news on the franchise’s future, but also giving us a veritable sea of merch to ogle. This especially goes for the con’s traditional art show, which in 2023 is jam-packed with riffs on <a href="https://gizmodo.com/mandalorian-stunt-doubles-star-wars-pedro-pascal-armor-1850192539"><em>The Mandalorian</em></a>, <a href="https://gizmodo.com/andor-season-1-best-moments-star-wars-disney-plus-1849818726"><em>Andor</em></a>, and more... especially if you like Ahsoka Tano.<br /></p><p><a href="https://gizmodo.com/star-wars-celebration-2023-art-show-preorder-details-1850194655">Read more...</a></p>
+
+## Unwelcome Crosses Folk Horror With Straw Dogs, and Will Make You Squirm
+ - [https://gizmodo.com/unwelcome-irish-horror-movie-review-hannah-john-kamen-1850181581](https://gizmodo.com/unwelcome-irish-horror-movie-review-hannah-john-kamen-1850181581)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 23:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--BA99iCip--/c_fit,fl_progressive,q_80,w_636/016e2b443bd1f9dcc3f964d561df4bad.jpg" /><p>After a brutal home invasion in London—just after learning they’re finally expecting a much-wanted baby—a young couple sees a brighter future when they inherit a home in the <a href="https://gizmodo.com/10-irish-horror-movies-st-patricks-day-streaming-onlin-1848649894">Irish</a> countryside. But not for nothing is this <a href="https://gizmodo.com/woodlands-dark-and-days-bewitched-is-an-essential-folk-1846522919">folk horror</a>/psychological thriller/creature-feature blend titled <em>Unwelcome</em>.<br /></p><p><a href="https://gizmodo.com/unwelcome-irish-horror-movie-review-hannah-john-kamen-1850181581">Read more...</a></p>
+
+## Help Convince Me to Buy This $1,500 3D Printer For Chocolate
+ - [https://gizmodo.com/3d-printer-chocolate-cocoa-press-candy-desert-make-home-1850194666](https://gizmodo.com/3d-printer-chocolate-cocoa-press-candy-desert-make-home-1850194666)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 22:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--mfvUOWSc--/c_fit,fl_progressive,q_80,w_636/baf3a3b8101edcb4f5c392648bcb73df.jpg" /><p>It’s unfortunately arriving a little too late to woo whoever was your Valentine this year, but next month, you’ll be able to pre-order a 3D printer that <a href="https://cocoapress.com/" rel="noopener noreferrer" target="_blank">swaps melted plastic for melted chocolate</a>, allowing you to <a href="https://www.techradar.com/news/chocoholics-rejoice-a-chocolate-3d-printer-is-going-on-sale" rel="noopener noreferrer" target="_blank">create personalized treats</a> for whoever that special someone happens to be next year.<br /></p><p><a href="https://gizmodo.com/3d-printer-chocolate-cocoa-press-candy-desert-make-home-1850194666">Read more...</a></p>
+
+## The Top Antitrust Cop Says Big Tech Looks a Lot Like Standard Oil
+ - [https://gizmodo.com/google-standard-oil-big-tech-antitrust-justice-dept-1850194553](https://gizmodo.com/google-standard-oil-big-tech-antitrust-justice-dept-1850194553)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 22:21:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--zbPcvuWM--/c_fit,fl_progressive,q_80,w_636/4e8381400f5328c0853ef072cdf4726b.jpg" /><p>Jonathan Kanter, the Department of Justice’s top antitrust enforcer, says <a href="https://gizmodo.com/apple-facebook-google-and-amazon-are-the-big-monopol-1845294209">Big Tech’s cornucopia of questionable business practices</a> looks an awful lot like the oil industry during Standard Oil’s reign. Once a symbol of unstoppable corporate power, the John Rockefeller-owned mega-monopoly was ultimately <a href="https://guides.loc.gov/chronicling-america-standard-oil-monopoly#:~:text=In%201911%20the%20U.S.%20Supreme,and%20split%20into%2034%20companies." rel="noopener noreferrer" target="_blank">broken up into…</a></p><p><a href="https://gizmodo.com/google-standard-oil-big-tech-antitrust-justice-dept-1850194553">Read more...</a></p>
+
+## What to Know About the Major Oceans Treaty Just Finalized by More Than 190 Nations
+ - [https://gizmodo.com/high-seas-agreement-what-to-know-ocean-protection-1850194045](https://gizmodo.com/high-seas-agreement-what-to-know-ocean-protection-1850194045)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 22:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ictBHK1Q--/c_fit,fl_progressive,q_80,w_636/a7316e74ba376cc4a46a7e9b8c932a82.jpg" /><p>Earth is a blue planet, and this weekend yielded good news for our world’s plentiful marine environments. Leaders from more than 190 nations around the world came together on Saturday night to establish <a href="https://gizmodo.com/the-lawless-high-seas-may-soon-gain-protections-under-a-1837382675">a long-awaited, global agreement to protect the world’s oceans</a>.<br /></p><p><a href="https://gizmodo.com/high-seas-agreement-what-to-know-ocean-protection-1850194045">Read more...</a></p>
+
+## Paul Frank Creator on the Evolution of Pop Culture Accessorizing With Loungefly
+ - [https://gizmodo.com/paul-frank-on-pop-culture-accessorizing-with-loungefly-1850186049](https://gizmodo.com/paul-frank-on-pop-culture-accessorizing-with-loungefly-1850186049)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 22:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SIBKx5OS--/c_fit,fl_progressive,q_80,w_636/fdde6bd5b443bf2738e90f6345ecc2b6.jpg" /><p>The ‘90s and Y2K icon resurgence has celebrated originators across a variety of brands, whether it’s <a href="https://gizmodo.com/valentines-day-gift-guide-fandom-star-wars-marvel-dc-1850071423">Looney Tunes</a> streetwear, <a href="https://gizmodo.com/barbie-movie-trailer-margot-robbie-ryan-gosling-kubrick-1849901767">Barbie</a> fashion moments, Lisa Frank stationary, and more. </p><p><a href="https://gizmodo.com/paul-frank-on-pop-culture-accessorizing-with-loungefly-1850186049">Read more...</a></p>
+
+## The 16 Best Google Animations Unlocked with a Simple Search
+ - [https://gizmodo.com/google-the-last-of-us-the-mandalorian-baby-yoda-1850193184](https://gizmodo.com/google-the-last-of-us-the-mandalorian-baby-yoda-1850193184)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 21:53:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--G5S155NB--/c_fit,fl_progressive,q_80,w_636/8387031d61658f7a180257e85ffbf866.png" /><p>The internet is full of Easter eggs and tricks, you just gotta know where to find them. Google is no stranger to its Daily Doodle, but Google also has some fun animations wrapped up in search results, but you’ll only see them with a few key search words. </p><p><a href="https://gizmodo.com/google-the-last-of-us-the-mandalorian-baby-yoda-1850193184">Read more...</a></p>
+
+## The io9 Guide to Everything Everywhere All at Once's Evolution, From Early Rumors to Critical Smash
+ - [https://gizmodo.com/everything-everywhere-all-at-once-io9-history-oscars-1850192385](https://gizmodo.com/everything-everywhere-all-at-once-io9-history-oscars-1850192385)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 21:25:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--YDjfMcxl--/c_fit,fl_progressive,q_80,w_636/0a6b26d16ed46494290464aa8cb973bb.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--Rcy9sCOH--/c_fit,fl_progressive,q_80,w_636/0a6b26d16ed46494290464aa8cb973bb.mp4" type="video/mp4" /></video><p>We here at io9 have been fans of <em>Everything Everywhere All at Once</em> since we heard the first rumblings of a second film from the Daniels in 2017. I mean, how do you top Daniel Radcliffe as a magical farting corpse in <a href="https://gizmodo.com/movie-review-once-you-get-past-the-farting-swiss-army-1783123936"><em>Swiss Army Man</em></a>? The answer is, of course, a multiversal romp through diasporic trauma with kung fu…</p><p><a href="https://gizmodo.com/everything-everywhere-all-at-once-io9-history-oscars-1850192385">Read more...</a></p>
+
+## Nothing Phone (2) Will Be Much Stronger, but Still Weaker Than Most Other Flagships
+ - [https://gizmodo.com/nothing-phone-2-processor-chip-qualcomm-snapdragon-8-1850193737](https://gizmodo.com/nothing-phone-2-processor-chip-qualcomm-snapdragon-8-1850193737)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9DUdGXlY--/c_fit,fl_progressive,q_80,w_636/5994a66da6ce56f6951c16c56bb61ba5.jpg" /><p>A Snapdragon 8+ Gen 1 chip could power the Nothing Phone (2). A recent post from a Qualcomm executive let it slip that, seemingly, the next Nothing flagship device would run on the company’s 2022 chip instead of the one shipping with 2023's current flagships. That would leave the phone much stronger than the <a href="https://gizmodo.com/nothing-phone-1-review-glyph-camera-launcher-price-us-1849179261">Nothing…</a></p><p><a href="https://gizmodo.com/nothing-phone-2-processor-chip-qualcomm-snapdragon-8-1850193737">Read more...</a></p>
+
+## Florida Startup Moves Closer to Building Data Centers on the Moon
+ - [https://gizmodo.com/startup-moves-closer-building-data-centers-moon-1850192177](https://gizmodo.com/startup-moves-closer-building-data-centers-moon-1850192177)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 20:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Cj2_ZJ6c--/c_fit,fl_progressive,q_80,w_636/5140c26eac7690fd504a4a59fe61a5eb.jpg" /><p>Unprecedented access to space is leading to all sorts of cool new ideas, including the prospect of storing data on the lunar surface. Cloud computing startup Lonestar Data Holdings announced the results of its latest funding round, taking it one step closer to this very goal. </p><p><a href="https://gizmodo.com/startup-moves-closer-building-data-centers-moon-1850192177">Read more...</a></p>
+
+## Second Norfolk Southern Train Derailment in Ohio Prompts Federal Probe
+ - [https://gizmodo.com/second-norfolk-southern-train-derailment-in-ohio-prompt-1850192495](https://gizmodo.com/second-norfolk-southern-train-derailment-in-ohio-prompt-1850192495)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 20:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--qcTgfE4z--/c_fit,fl_progressive,q_80,w_636/6a8ee80284e1a7513a52ddd90745760b.jpg" /><p>Investigators from the National Transportation Safety Board on Monday were scheduled to begin assessing a railway incident that occurred over the weekend. A Norfolk Southern freight train <a href="https://www.npr.org/2023/03/06/1161262824/train-derailment-springfield-ohio" rel="noopener noreferrer" target="_blank">derailed near Springfield, Ohio on Saturday</a>, March 4, around 5 p.m. ET. Of the train’s 212 cars, 28 went off the tracks, Kraig…</p><p><a href="https://gizmodo.com/second-norfolk-southern-train-derailment-in-ohio-prompt-1850192495">Read more...</a></p>
+
+## The Hunger Games | The Last of Us Episode 8 Review
+ - [https://gizmodo.com/the-hunger-games-the-last-of-us-episode-8-review-1850192428](https://gizmodo.com/the-hunger-games-the-last-of-us-episode-8-review-1850192428)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 20:21:17+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kGg2uauO--/c_fit,fl_progressive,q_80,w_636/6081bc724a22a5703001e55bf82f1a43.jpg" /><p><a href="https://gizmodo.com/the-hunger-games-the-last-of-us-episode-8-review-1850192428">Read more...</a></p>
+
+## The Chernobyl Nuclear Disaster Changed the DNA of Local Dogs
+ - [https://gizmodo.com/chernobyl-nuclear-disaster-dna-dogs-exclusion-zone-1850193714](https://gizmodo.com/chernobyl-nuclear-disaster-dna-dogs-exclusion-zone-1850193714)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 20:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uGDrLc0z--/c_fit,fl_progressive,q_80,w_636/831a793e9501ba21c2e92449c60ff11d.jpg" /><p>New research shines a light on how the Chernobyl disaster changed the DNA of the dogs that remained in the area. Scientists collected samples from hundreds of free-roaming canines in the exclusion zone and found that they were genetically distinct from dogs elsewhere in the world. The scientists are still exploring…</p><p><a href="https://gizmodo.com/chernobyl-nuclear-disaster-dna-dogs-exclusion-zone-1850193714">Read more...</a></p>
+
+## Protesters and Police Clash at Explosive Protest at Atlanta's 'Cop City'
+ - [https://gizmodo.com/cop-city-protest-atlanta-police-1850192251](https://gizmodo.com/cop-city-protest-atlanta-police-1850192251)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 19:42:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--f9STck9B--/c_fit,fl_progressive,q_80,w_636/91ec9fe9c3b9c4a7324d8137a095c0c5.jpg" /><p>Last night, a conflict broke out at Atlanta’s yet-to-be-built Atlanta Public Safety Training Center—nicknamed “Cop City”—which saw police and protestors clash, while the latter reportedly threw rocks, fireworks, and Molotov cocktails.<br /></p><p><a href="https://gizmodo.com/cop-city-protest-atlanta-police-1850192251">Read more...</a></p>
+
+## Another Bright Comet Is Heading to Earth
+ - [https://gizmodo.com/comet-c-2023-a3-close-approach-earth-2024-brightness-1850193235](https://gizmodo.com/comet-c-2023-a3-close-approach-earth-2024-brightness-1850193235)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 19:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--94vvGagQ--/c_fit,fl_progressive,q_80,w_636/90141f27d1a717761dbc23a3236c8799.jpg" /><p>An incoming comet recently spotted by telescopes in China and South Africa could be as bright as a planet in the night sky next year, according to astronomers who studied the object.</p><p><a href="https://gizmodo.com/comet-c-2023-a3-close-approach-earth-2024-brightness-1850193235">Read more...</a></p>
+
+## In 1979, An Entire Science Class Went 'Berserk' After Being Hypnotized
+ - [https://gizmodo.com/in-1979-an-entire-science-class-went-berserk-after-b-1726793143](https://gizmodo.com/in-1979-an-entire-science-class-went-berserk-after-b-1726793143)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 19:35:45+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--BhpVdIk1--/c_fit,fl_progressive,q_80,w_636/1403172005330274629.jpg" /><p>On October 25, 1979, students at a Miami military academy experienced a frightening outbreak of sudden mass hysteria that began in a science class and spread throughout the school. A newspaper article published the next day used a single-word headline to mull the cause: “<a href="https://news.google.com/newspapers?nid=950&amp;dat=19791026&amp;id=z7daAAAAIBAJ&amp;sjid=IFkDAAAAIBAJ&amp;pg=5339,3013987&amp;hl=en" rel="noopener noreferrer" target="_blank">DEMONS</a>?” <em>Demons? </em>Probably not. </p><p><a href="https://gizmodo.com/in-1979-an-entire-science-class-went-berserk-after-b-1726793143">Read more...</a></p>
+
+## Marc Guggenheim Is Sad James Gunn Doesn't Care About the Arrowverse
+ - [https://gizmodo.com/arrowverse-dc-universe-james-gunn-the-flash-tv-film-1850192367](https://gizmodo.com/arrowverse-dc-universe-james-gunn-the-flash-tv-film-1850192367)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---6oxsEGo--/c_fit,fl_progressive,q_80,w_636/b9216c9922cfb5149a59212a052c586c.jpg" /><p>Marc Guggenheim has been involved in the <a href="https://gizmodo.com/warner-and-viacomcbs-could-sell-off-the-cw-pushing-dc-1848313836">DC television universe</a> for about 10 years. He’s worked on <em>Arrow</em>, <a href="https://gizmodo.com/the-flash-final-season-nine-grant-gustin-barry-allen-1849356280"><em>The Flash</em></a><em>, <a href="https://gizmodo.com/cw-sets-return-dates-for-all-its-dc-superhero-shows-an-1847104512">Supergirl</a>, Batwoman, </em>and <a href="https://gizmodo.com/actress-jes-macallan-talks-ava-sharpe-stepping-up-and-m-1846804106"><em>Legends of Tomorrow</em></a><em>,</em> and was a big part of <a href="https://gizmodo.com/dcs-arrowverse-faces-armageddon-in-its-new-crossover-tr-1847895153"><em>Crisis on Infinite Earths</em>,</a> the five-hour crossover between a lot of the properties. And now that DC seems to be moving on without him,…</p><p><a href="https://gizmodo.com/arrowverse-dc-universe-james-gunn-the-flash-tv-film-1850192367">Read more...</a></p>
+
+## Sen. Mark Warner Says His New TikTok Ban Is Just Good Business
+ - [https://gizmodo.com/tiktok-ban-senator-mark-warner-china-business-1850192397](https://gizmodo.com/tiktok-ban-senator-mark-warner-china-business-1850192397)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 19:26:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8RfzD-GD--/c_fit,fl_progressive,q_80,w_636/09c9f4bbe418dcdd67129edf5025bb0d.jpg" /><p>For years, American politicians have worked to ban TikTok over privacy and national security concerns. But the leaky ad businesses of other tech companies, including American ones, could expose data to the Chinese Communist Party in the exact same ways, and the U.S. government’s technical evidence to demonstrate why…</p><p><a href="https://gizmodo.com/tiktok-ban-senator-mark-warner-china-business-1850192397">Read more...</a></p>
+
+## The Mandalorian Is Finally Giving Everyone Under the Helmet Proper Credit
+ - [https://gizmodo.com/mandalorian-stunt-doubles-star-wars-pedro-pascal-armor-1850192539](https://gizmodo.com/mandalorian-stunt-doubles-star-wars-pedro-pascal-armor-1850192539)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 18:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--DbshLxqd--/c_fit,fl_progressive,q_80,w_636/b717ad727d5f510555b53d01888f0b9c.jpg" /><p><em>The Mandalorian</em> made a <a href="https://gizmodo.com/mandalorian-season-3-recap-chapter-17-star-wars-disney-1850173109">huge change for its third season</a> and maybe you didn’t even realize it. It happens during the credits where all the familiar, famous names are given prominent placement over the super cool concept art. <a href="https://gizmodo.com/pedro-pascal-sexy-mandalorian-voice-too-creepy-for-kids-1850150647">Pedro Pascal</a>, Katee Sackhoff, yup we know them. <a href="https://gizmodo.com/mandalorian-season-3-armorer-favreau-filoni-star-wars-1850168568">Emily Swallow</a> and Carl Weathers, sure. Then two…</p><p><a href="https://gizmodo.com/mandalorian-stunt-doubles-star-wars-pedro-pascal-armor-1850192539">Read more...</a></p>
+
+## These Lonely Animals Were the Last of Their Kind
+ - [https://gizmodo.com/endlings-last-individuals-of-a-species-extinct-animals-1850178107](https://gizmodo.com/endlings-last-individuals-of-a-species-extinct-animals-1850178107)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 18:18:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Sw8qHb4---/c_fit,fl_progressive,q_80,w_636/37e0de3784d25c19f6e4b853be003e48.jpg" /><p>Extinction is an age-old song, one played so many times in Earth’s history that we regularly discover new species that died out in the ancient past. But only in the last century have humans generally been aware of the final member of a species, typically because the creature is held in captivity.<br /></p><p><a href="https://gizmodo.com/endlings-last-individuals-of-a-species-extinct-animals-1850178107">Read more...</a></p>
+
+## The Russo Brothers Leap From Marvel to Spy Games With Prime Video's Citadel
+ - [https://gizmodo.com/russo-brothers-prime-video-spy-series-citadel-trailer-1850192820](https://gizmodo.com/russo-brothers-prime-video-spy-series-citadel-trailer-1850192820)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--jAiQJlo3--/c_fit,fl_progressive,q_80,w_636/a6aecf9d022a564f8987dd5c081dca27.png" /><p><a href="https://gizmodo.com/disney-live-action-hercules-musical-tiktok-russos-1849721097"><em>Avengers: Endgame</em> directors</a> the Russo Brothers are delving into the spy genre with Prime Video’s star-studded new series <em>Citadel</em>, and the first trailer is here.</p><p><a href="https://gizmodo.com/russo-brothers-prime-video-spy-series-citadel-trailer-1850192820">Read more...</a></p>
+
+## YouTube Music's Contractors Are Actually Employees, According to a Federal Labor Official
+ - [https://gizmodo.com/youtube-music-contractors-are-employees-labor-official-1850192710](https://gizmodo.com/youtube-music-contractors-are-employees-labor-official-1850192710)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 17:55:39+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--CiDBT0Jr--/c_fit,fl_progressive,q_80,w_636/e6c9a084090856cc9c8144b36d541ffa.jpg" /><p>Google parent Alphabet should officially be considered the “joint employer” of a crew of scrappy YouTube Music contract workers, according to a new ruling from a National Labor Relation Board official. That means the Austin, Texas-based group of around 60 workers currently vying to organize with the <a href="https://gizmodo.com/google-workers-form-union-open-to-all-employees-of-alph-1845982745">Alphabet Worker…</a></p><p><a href="https://gizmodo.com/youtube-music-contractors-are-employees-labor-official-1850192710">Read more...</a></p>
+
+## Twitter's Links and Pics Are Boinked
+ - [https://gizmodo.com/twitter-elon-musk-links-pictures-images-api-not-working-1850192709](https://gizmodo.com/twitter-elon-musk-links-pictures-images-api-not-working-1850192709)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 17:41:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--y9IFVI0z--/c_fit,fl_progressive,q_80,w_636/8fd140d246fa48814a32c1dc56375f27.jpg" /><p>Twitter is, once again, not working very well. The site<a href="https://gizmodo.com/twitter-outage-welcome-to-twitter-message-1850171981"> has faced an increasing number of technical snafus since Elon Musk took over</a> the platform in October 2022, and <a href="https://gizmodo.com/elon-musk-twitter-layoffs-esther-crawford-1850162371">began gutting the company’s staff</a> in <a href="https://gizmodo.com/elon-cuts-costs-by-laying-off-the-people-who-make-money-1849955413">multiple rounds of layoffs</a>.<br /></p><p><a href="https://gizmodo.com/twitter-elon-musk-links-pictures-images-api-not-working-1850192709">Read more...</a></p>
+
+## Apple Reportedly Planning New M3-Powered iMac, Larger MacBook Airs For Release This Year
+ - [https://gizmodo.com/apple-m3-imac-new-macbook-air-15-inch-m2-chip-laptop-1850192624](https://gizmodo.com/apple-m3-imac-new-macbook-air-15-inch-m2-chip-laptop-1850192624)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 17:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uhERPKaJ--/c_fit,fl_progressive,q_80,w_636/30e3f5a3fe511315e5ffe27a6edeb9f7.jpg" /><p>Good news for all those iMac fans pounding the table for another all-in-one device from Apple. One oft-cited Apple analyst said we may see another iMac drop later this year, coming much sooner than previously anticipated and potentially boasting an M3 chip.</p><p><a href="https://gizmodo.com/apple-m3-imac-new-macbook-air-15-inch-m2-chip-laptop-1850192624">Read more...</a></p>
+
+## Researchers Create Plastic Straws from Potato Starch
+ - [https://gizmodo.com/bioplastic-straws-potato-starch-durable-biodegradable-1850191917](https://gizmodo.com/bioplastic-straws-potato-starch-durable-biodegradable-1850191917)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 17:28:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6UM9MBPc--/c_fit,fl_progressive,q_80,w_636/59e5c024b2294ce999f6ae7afdb0cbb5.jpg" /><p>As the <a href="https://gizmodo.com/plastic-straw-bans-leave-out-people-with-disabilities-1827456627">war on plastic straws</a> rages on, researchers in Korea have created a bioplastic alternative that is made out of potato starch and citric acid. In a paper paper published in <a href="https://pubs.acs.org/doi/10.1021/acsomega.2c07797" rel="noopener noreferrer" target="_blank">ACS Omega</a>, the team says that these new straws are stronger than plastic and more durable than paper.</p><p><a href="https://gizmodo.com/bioplastic-straws-potato-starch-durable-biodegradable-1850191917">Read more...</a></p>
+
+## How The Flash Changed Shazam 2 and Why It Doesn't Follow the First End Credits Scene
+ - [https://gizmodo.com/shazam-2-director-dc-films-flash-end-credits-skittles-1850184606](https://gizmodo.com/shazam-2-director-dc-films-flash-end-credits-skittles-1850184606)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--KbKuJ7n_--/c_fit,fl_progressive,q_80,w_636/05a8621b86211409b0d9dbc1ae45b3a2.jpg" /><p>For the past few years, as fans have watched the drama unfold at DC Films, <a href="https://gizmodo.com/shazams-director-and-star-on-why-its-a-kids-movie-with-1833576254">David F. Sandberg</a> has had a front-row seat. His latest film, <em>Shazam: Fury of the Gods</em>, is <a href="https://gizmodo.com/shazam-is-a-good-superhero-movie-and-a-better-family-dr-1833333926">a follow-up to his 2019 hit</a>, meaning it was put into production by the previous regime. The film was then <a href="https://gizmodo.com/shazams-director-releases-a-new-short-film-about-a-horr-1843542527">delayed due to covid</a>, had its release date <a href="https://gizmodo.com/aquaman-2-shazam-2-release-dates-delay-2023-warner-bros-1849454009">…</a></p><p><a href="https://gizmodo.com/shazam-2-director-dc-films-flash-end-credits-skittles-1850184606">Read more...</a></p>
+
+## Hazards of Gas Stoves Were Flagged by the Industry—and Hidden—50 Years Ago
+ - [https://gizmodo.com/hazards-of-gas-stoves-were-flagged-by-the-industry-and-1850192607](https://gizmodo.com/hazards-of-gas-stoves-were-flagged-by-the-industry-and-1850192607)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YekOlh2x--/c_fit,fl_progressive,q_80,w_636/e211460288069a5c8faccaccd9fbb163.jpg" /><p><em>This story was originally published by <a href="https://grist.org/" rel="noopener noreferrer" target="_blank">Grist</a>. You can <a href="https://go.grist.org/signup/weekly?utm_campaign=signup-page&amp;utm_medium=web&amp;utm_source=grist&amp;utm_content=weekly" rel="noopener noreferrer" target="_blank">subscribe to its weekly newsletter here</a>.<br /></em></p><p><a href="https://gizmodo.com/hazards-of-gas-stoves-were-flagged-by-the-industry-and-1850192607">Read more...</a></p>
+
+## Watch Live as Japan Re-Attempts First Launch of H3 Rocket
+ - [https://gizmodo.com/japan-re-attempts-inaugural-launch-h3-rocket-1850186027](https://gizmodo.com/japan-re-attempts-inaugural-launch-h3-rocket-1850186027)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 16:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--rNUJvwu1--/c_fit,fl_progressive,q_80,w_636/b6c96abb397f4998c5cdb67dba8952ed.jpg" /><p>Japan’s highly anticipated H3 rocket sputtered on the launch pad during its first launch attempt, but its space agency is now ready to perform a do-over on Monday. You can catch the action live right here.</p><p><a href="https://gizmodo.com/japan-re-attempts-inaugural-launch-h3-rocket-1850186027">Read more...</a></p>
+
+## Gundam: Witch From Mercury's Season 2 Premieres Next Month
+ - [https://gizmodo.com/gundam-witch-from-mercury-season-2-release-date-stream-1850192475](https://gizmodo.com/gundam-witch-from-mercury-season-2-release-date-stream-1850192475)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 16:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ip1X7TD8--/c_fit,fl_progressive,q_80,w_636/8220c8ede4cc76dfbea2205c938a7079.png" /><p>It’s only been a couple of months since <a href="https://gizmodo.com/gundam-witch-from-mercury-chuchu-punch-anti-capitalism-1849707031"><em>Mobile Suit Gundam: The Witch From Mercury</em></a> was off our screens, but one of <a href="https://gizmodo.com/best-animation-2022-gundam-pinocchio-chainsaw-man-1849927257">the best anime of 2022</a> is already ready to come back for more—and real soon.<br /></p><p><a href="https://gizmodo.com/gundam-witch-from-mercury-season-2-release-date-stream-1850192475">Read more...</a></p>
+
+## Forget Collars—There's a Kinder Way to Track Polar Bears in the Arctic
+ - [https://gizmodo.com/forget-collars-theres-a-kinder-way-to-track-polar-bears-1850168206](https://gizmodo.com/forget-collars-theres-a-kinder-way-to-track-polar-bears-1850168206)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--QO0TtDEl--/c_fit,fl_progressive,q_80,w_636/978575faea0ae214f811283765ee2f4d.jpg" /><p><a href="https://gizmodo.com/forget-collars-theres-a-kinder-way-to-track-polar-bears-1850168206">Read more...</a></p>
+
+## Rockets Present a Potential New Threat to the Ozone Layer
+ - [https://gizmodo.com/rockets-present-potential-new-threat-ozone-layer-1850174916](https://gizmodo.com/rockets-present-potential-new-threat-ozone-layer-1850174916)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 16:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--lAvZ2Doz--/c_fit,fl_progressive,q_80,w_636/d062689ae21c09dd1d368387e96fee26.jpg" /><p>The <a href="https://gizmodo.com/spacex-blue-origin-nasa-spinlaunch-space-launch-2023-1849916004">rapidly rising number of space launches</a> could pose a new threat to Earth’s critical ozone layer, according to a growing body of scientific research.<br /></p><p><a href="https://gizmodo.com/rockets-present-potential-new-threat-ozone-layer-1850174916">Read more...</a></p>
+
+## Tesla Cuts Model S and Model X Prices Again, but the EVs Are Still Expensive
+ - [https://gizmodo.com/tesla-elon-musk-electric-vehicles-model-x-model-s-1850191926](https://gizmodo.com/tesla-elon-musk-electric-vehicles-model-x-model-s-1850191926)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--UaSwqG85--/c_fit,fl_progressive,q_80,w_636/c0f651f0f11aea3c80f4b6831afd8b5d.jpg" /><p>How much does a Tesla cost? The question seems straightforward, but Elon Musk’s electric vehicle company has been adjusting its prices so much this year, it’s a little hard to keep up. <br /></p><p><a href="https://gizmodo.com/tesla-elon-musk-electric-vehicles-model-x-model-s-1850191926">Read more...</a></p>
+
+## Joker 2 Set Pictures Tease Some Clownish Copycats
+ - [https://gizmodo.com/joker-2-set-footage-copycat-jokers-joaquin-phoenix-1850190012](https://gizmodo.com/joker-2-set-footage-copycat-jokers-joaquin-phoenix-1850190012)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--qFQP7NVC--/c_fit,fl_progressive,q_80,w_636/5c90750204038e3746a78e8d30f967d4.png" /><p>John Wick faces down the High Table in a new clip from <em>Chapter 4</em>. Candice Patton confirms she has finished filming <em>The Flash</em>. Plus, what’s coming on <em>Superman &amp; Lois</em>, and a new look at <em>Shadow and Bone</em> season 2. To me, my spoilers!<br /></p><p><a href="https://gizmodo.com/joker-2-set-footage-copycat-jokers-joaquin-phoenix-1850190012">Read more...</a></p>
+
+## Bing AI’s Secret Celebrity Chat Mode Lets Out Misogynistic Frustrations as Andrew Tate
+ - [https://gizmodo.com/bing-ai-celebrity-mode-andrew-tate-google-ai-1850191980](https://gizmodo.com/bing-ai-celebrity-mode-andrew-tate-google-ai-1850191980)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 14:50:48+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Wxf_gmr3--/c_fit,fl_progressive,q_80,w_636/cce40dd7ea4037e3b744c04c0e3ced00.jpg" /><p>Microsoft secretly rolled out a new feature into its Bing AI preview that lets users emulate certain famous people. It does a, let’s just say, “interesting” job at emulating some celebrities’ speech patterns. We also took a look at what it’s allowed to say on behalf of some extremely controversial or hateful figures.</p><p><a href="https://gizmodo.com/bing-ai-celebrity-mode-andrew-tate-google-ai-1850191980">Read more...</a></p>
+
+## Nothing's Next Wireless Earbuds, The Ear (2), Will Debut on March 22
+ - [https://gizmodo.com/nothing-ear-2-wireless-earbuds-announcement-1-stick-1850191945](https://gizmodo.com/nothing-ear-2-wireless-earbuds-announcement-1-stick-1850191945)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 14:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---0bCjmiu--/c_fit,fl_progressive,q_80,w_636/1340919e46c68f507dfcd89d5a08bca9.jpg" /><p>There’s good reason to be excited for Nothing’s next product announcement, because it’s a sequel to the company’s very first product, the <a href="https://us.nothing.tech/products/ear-1" rel="noopener noreferrer" target="_blank">Ear (1) wireless earbuds</a>, which delivered impressive performance at a price point that was originally just $99 (they’re now $150). The <a href="https://us.nothing.tech/pages/event" rel="noopener noreferrer" target="_blank">Nothing Ear (2) wireless earbuds will…</a></p><p><a href="https://gizmodo.com/nothing-ear-2-wireless-earbuds-announcement-1-stick-1850191945">Read more...</a></p>
+
+## This Week's Toy News Brings Big Boy Season to a Smaller Scale
+ - [https://gizmodo.com/lego-star-wars-super-star-destroyer-hot-toys-mandaloria-1850168696](https://gizmodo.com/lego-star-wars-super-star-destroyer-hot-toys-mandaloria-1850168696)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 14:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cmBOCkdi--/c_fit,fl_progressive,q_80,w_636/ae452327ad481cc4de881d78d66a2881.png" /><p>Welcome back to Toy Aisle, io9's regular look at some of the coolest new toys around the internet. This week <em>Star Wars</em> fever returns thanks to <a href="https://gizmodo.com/mandalorian-season-3-recap-chapter-17-star-wars-disney-1850173109"><em>The Mandalorian</em></a> and <a href="https://gizmodo.com/no-matter-if-you-love-or-hate-return-of-the-jedi-youre-1748161502"><em>Return of the Jedi</em></a>’s 40th anniversary, Hasbro’s <em>Transformers</em> go giant-sized, and Super7's latest <a href="https://gizmodo.com/10-of-the-simpsons-best-treehouse-of-horror-skits-1847733490"><em>Simpsons</em> toys offer a spook</a>. Check it out!</p><p><a href="https://gizmodo.com/lego-star-wars-super-star-destroyer-hot-toys-mandaloria-1850168696">Read more...</a></p>
+
+## This Week in Spaceflight: 3D-Printed Rocket Attempts First Flight, New NASA Artemis Insights, and More
+ - [https://gizmodo.com/3d-printed-rocket-launch-nasa-artemis-news-japan-h3-1850185221](https://gizmodo.com/3d-printed-rocket-launch-nasa-artemis-news-japan-h3-1850185221)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 14:41:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--mPDJR_nz--/c_fit,fl_progressive,q_80,w_636/2d2880de31077c6fe070fef61ca4dd7c.jpg" /><p>Relativity Space is poised to make history on Wednesday with the launch of Terran-1—a rocket primarily constructed from 3D-printed parts. Japan is also set for an inaugural launch, with the delayed H3 rocket now set for a do-over launch. <br /></p><p><a href="https://gizmodo.com/3d-printed-rocket-launch-nasa-artemis-news-japan-h3-1850185221">Read more...</a></p>
+
+## TMNT: Mutant Mayhem's First Trailer Packs a Stylish Punch
+ - [https://gizmodo.com/tmnt-mutant-mayhem-trailer-paramount-1850191310](https://gizmodo.com/tmnt-mutant-mayhem-trailer-paramount-1850191310)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_pGvQ9qw--/c_fit,fl_progressive,q_80,w_636/5614854612ccf67059c9bee6e0d19ea1.png" /><p>The <a href="https://gizmodo.com/tmnt-street-fighter-comic-idw-capcom-1850122851">Teenage Mutant Ninja Turtles</a> have had a healthy life recently thanks to the comics and recent shows, but one area where they’ve been absent as of late is film. It’s been long enough since those <a href="https://gizmodo.com/producer-says-there-likely-wont-be-a-teenage-mutant-nin-1788383925">live-action movies</a> that a new cinematic crack at the franchise is more than welcome, and Paramount is ready to try again…</p><p><a href="https://gizmodo.com/tmnt-mutant-mayhem-trailer-paramount-1850191310">Read more...</a></p>
+
+## Gizmodo Monday Puzzle: Can You Detect the Counterfeit Coins?
+ - [https://gizmodo.com/gizmodo-monday-puzzle-detect-the-counterfeit-coins-1850127482](https://gizmodo.com/gizmodo-monday-puzzle-detect-the-counterfeit-coins-1850127482)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 12:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--o1oR6Top--/c_fit,fl_progressive,q_80,w_636/1eb04fa993ddd5341e3b2ed79a855d4e.png" /><p>Welcome to the first <strong>Gizmodo Monday Puzzle</strong>, a new series in which I will pose thought-provoking challenges at the beginning of every week to jumpstart your brain. I am a lifelong puzzle lover, sometime puzzle creator, and new Gizmodo puzzle writer. Many of the teasers posted here will be difficult—but they will be…</p><p><a href="https://gizmodo.com/gizmodo-monday-puzzle-detect-the-counterfeit-coins-1850127482">Read more...</a></p>
+
+## Would You Trust ChatGPT at Your Job?
+ - [https://gizmodo.com/chatgpt-free-ai-trust-at-your-job-survey-openai-1850186443](https://gizmodo.com/chatgpt-free-ai-trust-at-your-job-survey-openai-1850186443)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 11:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--g-6Wn1jN--/c_fit,fl_progressive,q_80,w_636/f223877d7e9ab5daafdfa798f2be1926.jpg" /><p>Artificial intelligence (AI) tools are <a href="https://www.abc.net.au/news/science/2023-01-25/chatgpt-midjourney-generative-ai-and-future-of-work/101882580" rel="noopener noreferrer" target="_blank">increasingly used at work</a> to enhance productivity, improve decision making and reduce costs, including automating administrative tasks and monitoring security.<br /></p><p><a href="https://gizmodo.com/chatgpt-free-ai-trust-at-your-job-survey-openai-1850186443">Read more...</a></p>
+
+## China Accuses the U.S. of Suppressing Chinese Tech Companies
+ - [https://gizmodo.com/china-tiktok-bytedance-big-tech-chips-1850192281](https://gizmodo.com/china-tiktok-bytedance-big-tech-chips-1850192281)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 06:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--IDIj2VbD--/c_fit,fl_progressive,q_80,w_636/a13d2314f4f97b52e3a5d21c3b139f0c.jpg" /><p>China accused the U.S. of stealing its technological autonomy in a press conference on Monday, <a href="https://www.reuters.com/world/china/china-says-us-trying-deprive-it-right-develop-tech-row-2023-03-06/" rel="noopener noreferrer" target="_blank">Reuters</a> reported. Spokesperson Mao Ning claimed that by imposing various TikTok bans, “the U.S. is trying to deprive it of developmental rights and perpetuate its own hegemony,” the outlet wrote.</p><p><a href="https://gizmodo.com/china-tiktok-bytedance-big-tech-chips-1850192281">Read more...</a></p>
+
+## The Last of Us' Penultimate Episode Will Leave You Shocked
+ - [https://gizmodo.com/last-of-us-episode-8-recap-hbo-playstation-pedro-pascal-1850175860](https://gizmodo.com/last-of-us-episode-8-recap-hbo-playstation-pedro-pascal-1850175860)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-06 03:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--1sVw2YQC--/c_fit,fl_progressive,q_80,w_636/17aabb013af2d35e38f12f641cc7479a.jpg" /><p>The <a href="https://gizmodo.com/last-of-us-hbo-review-playstation-pedro-pascal-joel-ell-1849950042">first season of <em>The Last of Us</em></a> is nearing its end and it’s time to bring the pain. Episode eight, “When We Are in Need,” just aired and it brought the story back to Joel and Ellie <a href="https://gizmodo.com/last-of-us-episode-6-recap-kin-hbo-max-pascal-ramsey-1850120695">after episode six’s stabbing</a> and <a href="https://gizmodo.com/last-of-us-episode-7-left-behind-hbo-max-bella-ramsey-1850152717">episode seven’s detour into flashback</a>. Can Ellie save Joel? How would that happen? Neither answer is…</p><p><a href="https://gizmodo.com/last-of-us-episode-8-recap-hbo-playstation-pedro-pascal-1850175860">Read more...</a></p>
+
