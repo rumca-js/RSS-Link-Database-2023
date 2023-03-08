@@ -1,0 +1,86 @@
+# Source:The Guardian - International, URL:https://www.theguardian.com/international/rss, language:en-US
+
+## Lamar Jackson’s long-term future unresolved as Ravens apply non-exclusive tag
+ - [https://www.theguardian.com/sport/2023/mar/07/lamar-jacksons-long-term-future-unresolved-as-ravens-apply-non-exclusive-tag](https://www.theguardian.com/sport/2023/mar/07/lamar-jacksons-long-term-future-unresolved-as-ravens-apply-non-exclusive-tag)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 20:53:25+00:00
+
+<ul><li>Quarterback unable to reach agreement with Baltimore</li><li>Former MVP could leave if he reaches deal with other team</li></ul><p>The Baltimore Ravens announced on Tuesday that they have used their franchise tag on star quarterback Lamar Jackson, although his long-term future remains uncertain.</p><p>A source told the Associated Press that the Ravens’ <a href="https://www.nbcsports.com/philadelphia/eagles/nfl-franchise-tag-what-you-need-know">tag is non-exclusive</a>. That means Jackson can still talk to other teams. But the Ravens would have a chance to match any agreement between Jackson and another team, and if they choose not to match, they’d receive two first-round draft picks in return for the player. If Jackson plays this season on the franchise tag, he would make $32.4m.</p> <a href="https://www.theguardian.com/sport/2023/mar/07/lamar-jacksons-long-term-future-unresolved-as-ravens-apply-non-exclusive-tag">Continue reading...</a>
+
+## Alex Murdaugh’s brother gives first interview since trial: ‘He knows more’
+ - [https://www.theguardian.com/us-news/2023/mar/07/alex-murdaugh-brother-randy-interview](https://www.theguardian.com/us-news/2023/mar/07/alex-murdaugh-brother-randy-interview)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 17:24:54+00:00
+
+<p>In New York Times interview, Randy Murdaugh says he remains unsure if his brother murdered his son and wife</p><p><a href="https://www.theguardian.com/us-news/alex-murdaugh">Alex Murdaugh</a>, the disgraced South Carolina lawyer recently found guilty of murdering his family, has long been a thief and liar – but now his being a convicted killer is still a shock, his brother has said in the first interview a member of their family has given since the trial.</p><p>In an interview with the <a href="https://www.nytimes.com/2023/03/06/us/alex-murdaugh-brother-randy.html">New York Times </a>published on Monday, Randy Murdaugh said that he remained unsure if Alex murdered his son and wife in June 2021. Randy Murdaugh added that while he respects the jury’s verdict, he has only known Alex for decades as a protective father and husband.</p> <a href="https://www.theguardian.com/us-news/2023/mar/07/alex-murdaugh-brother-randy-interview">Continue reading...</a>
+
+## What does the UK’s small boats plan mean for relations with France?
+ - [https://www.theguardian.com/uk-news/2023/mar/07/what-does-the-uks-small-boats-plan-mean-for-relations-with-france](https://www.theguardian.com/uk-news/2023/mar/07/what-does-the-uks-small-boats-plan-mean-for-relations-with-france)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 17:18:45+00:00
+
+<p>Emmanuel Macron and Rishi Sunak meet on Friday with the UK’s new bill high on the agenda </p><p>Emmanuel Macron and Rishi Sunak meet in Paris on Friday for the first bilateral summit between France and Britain since 2018. High on the agenda will be the longstanding row over small boats crossing the Channel, given new impetus by the <a href="https://www.theguardian.com/uk-news/2023/mar/07/suella-braverman-asylum-migration-bill-law-change-small-boats">plan to tackle the issue announced by the UK on Tuesday</a>.</p><p><strong>What’s the state of Anglo-French relations?</strong></p> <a href="https://www.theguardian.com/uk-news/2023/mar/07/what-does-the-uks-small-boats-plan-mean-for-relations-with-france">Continue reading...</a>
+
+## Jets reportedly in talks with Packers and Aaron Rodgers about possible trade
+ - [https://www.theguardian.com/sport/2023/mar/07/aaron-rodgers-green-bay-packers-new-york-jets-talks-nfl-football](https://www.theguardian.com/sport/2023/mar/07/aaron-rodgers-green-bay-packers-new-york-jets-talks-nfl-football)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 17:12:49+00:00
+
+<ul><li>Four-time MVP’s future in the NFL remains unclear</li><li>Jets would need to give up significant stock for QB</li></ul><p>The New York Jets have been in talks with the Green Bay Packers and their four-time MVP quarterback Aaron Rodgers about a potential trade, <a href="https://www.espn.com/nfl/story/_/id/35804636/jets-talks-packers-aaron-rodgers-sources-say">according to ESPN</a>.</p><p>The 39-year-old’s <a href="https://www.theguardian.com/sport/2023/jan/12/aaron-rodgers-future-green-bay-packers-nfl-contract">future in the NFL is unclear</a>, and he has not said whether he intends to stay with the Packers, look for a new team or retire in the coming months. Rodgers is still under contract with the Packers, who must give him permission before he can talk to other teams.</p> <a href="https://www.theguardian.com/sport/2023/mar/07/aaron-rodgers-green-bay-packers-new-york-jets-talks-nfl-football">Continue reading...</a>
+
+## Poland’s ruling party under fire after suicide of opposition MP’s son
+ - [https://www.theguardian.com/world/2023/mar/07/poland-ruling-party-under-fire-after-suicide-of-opposition-mps-son](https://www.theguardian.com/world/2023/mar/07/poland-ruling-party-under-fire-after-suicide-of-opposition-mps-son)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 15:11:03+00:00
+
+<p>Mikolaj Filiks, 15, took his own life after state-run radio station helped identify him as victim of paedophile</p><p>Poland’s ruling Law &amp; Justice party has come under fire over the death of an opposition MP’s 15-year-old son, who took his own life after a report by a state-run radio station led to his identification as the victim of a paedophile.</p><p>The Polish parliament, the Sejm, <a href="https://www.thefirstnews.com/article/parliament-pays-respect-to-mps-deceased-son-36998">stood for a minute’s silence</a> on Tuesday during the funeral of Mikolaj Filiks. His mother, Magdalena Filiks, an MP from Poland’s main opposition party, Civic Platform, <a href="https://twitter.com/FiliksMagdalena/status/1631743754917822465">said last week</a> that he had died in February.</p> <a href="https://www.theguardian.com/world/2023/mar/07/poland-ruling-party-under-fire-after-suicide-of-opposition-mps-son">Continue reading...</a>
+
+## Four Americans kidnapped in Mexico were there for tummy tuck, relative says
+ - [https://www.theguardian.com/world/2023/mar/07/us-citizens-kidnapped-mexico-matamoros-tummy-tuck](https://www.theguardian.com/world/2023/mar/07/us-citizens-kidnapped-mexico-matamoros-tummy-tuck)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 15:01:13+00:00
+
+<p>Group were accompanying friend traveling for the cosmetic procedure when they were caught in shootout in Matamoros</p><p>The four Americans who were recently kidnapped in Mexico had gone there because one of them was getting a cosmetic surgery procedure known as a tummy tuck, a victim’s relative has said.</p><p>Zalandria Brown of Florence, South Carolina, told <a href="https://apnews.com/article/mexico-americans-kidnapped-gulf-drug-cartel-2700637729e8f3a5065005231aa8d4d3">the Associated Press</a> that her younger brother, Zindell Brown, was one of the four kidnapped victims. She explained that her brother had gone with two friends to accompany their third friend who was the one undergoing the tummy tuck.</p> <a href="https://www.theguardian.com/world/2023/mar/07/us-citizens-kidnapped-mexico-matamoros-tummy-tuck">Continue reading...</a>
+
+## Car wrecks, pay cheques and puppy palaces: the fringes of the share economy
+ - [https://www.theguardian.com/lifeandstyle/2023/mar/08/car-wrecks-pay-cheques-and-puppy-palaces-the-fringes-of-the-share-economy](https://www.theguardian.com/lifeandstyle/2023/mar/08/car-wrecks-pay-cheques-and-puppy-palaces-the-fringes-of-the-share-economy)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 14:00:02+00:00
+
+<p>From boats to backyards, peer-to-peer lending services have gone well beyond spare rooms. While renting your assets to strangers can be lucrative, there are risks</p><ul><li><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=cvau_sfl">Get our weekend culture and lifestyle email</a></li></ul><p>Trianda Jubian is getting ready to host a one-year-old’s birthday party. The event will take place in her back yard, in the Sydney suburb of Sylvania Waters, but it’s not for Jubian’s own child. Rather, the party is being held by a group of 22 strangers who are paying $80 an hour for the use of her home pool. She’ll greet them when they arrive, take them through some rules (no bombing, diving or peeing in the pool, please), then go inside and draw the blinds until the booking is over. So does Jubian feel a bit odd about that?</p><p>“No, not at all,” she says. “In actual fact, I’m proud because I’ve got this beautiful place … I’ve worked hard for all of this, so why not share it?”</p><p><strong><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=copyembed">Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning</a></strong></p> <a href="https://www.theguardian.com/lifeandstyle/2023/mar/08/car-wrecks-pay-cheques-and-puppy-palaces-the-fringes-of-the-share-economy">Continue reading...</a>
+
+## Liverpool owner John W Henry says commitment to club ‘stronger than ever’
+ - [https://www.theguardian.com/football/2023/mar/07/liverpool-owner-john-w-henry-commitment-club-stronger-than-ever](https://www.theguardian.com/football/2023/mar/07/liverpool-owner-john-w-henry-commitment-club-stronger-than-ever)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 13:41:11+00:00
+
+<ul><li>American reiterates club was not put up for sale in November</li><li>Fenway Sports Group will continue to ‘invest wisely’ in squad</li></ul><p>Liverpool’s principal owner, John W Henry, insists his commitment is stronger than ever and that the club will continue to “invest wisely” in the transfer market.</p><p>The 73-year-old American, as head of the Fenway Sports Group, reaffirmed an assertion he made last month that Liverpool <a href="https://www.theguardian.com/football/2023/feb/20/liverpool-not-for-sale-confirm-owners-fenway-sports-group">were never put up for sale</a> in November and the process was designed to seek outside investment.</p> <a href="https://www.theguardian.com/football/2023/mar/07/liverpool-owner-john-w-henry-commitment-club-stronger-than-ever">Continue reading...</a>
+
+## Return of the wolf warriors? China’s fiery foreign minister Qin Gang
+ - [https://www.theguardian.com/world/2023/mar/07/china-foreign-minister-qin-gang](https://www.theguardian.com/world/2023/mar/07/china-foreign-minister-qin-gang)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 13:29:38+00:00
+
+<p>Profile: A career diplomat, the trusted ally of President Xi says China has to face the west’s ‘jackals and wolves’ head on</p><p>US-China relations are a “zero-sum game where you die and I live”. That was the summation of Qin Gang, China’s fiery new foreign minister, in his <a href="https://www.theguardian.com/world/2023/mar/07/china-foreign-minister-warns-of-potential-for-conflict-with-us-and-hails-russia-ties">first media appearance</a> since starting the role in December.</p><p>Qin was speaking at the sidelines of the “<a href="https://www.theguardian.com/world/2023/mar/02/china-two-sessions-explainer-what-is-it">two sessions</a>” political meetings in Beijing. But while the parliamentary gathering is primarily concerned with domestic affairs, Qin took the opportunity to lay out China’s strident position on the world stage.</p> <a href="https://www.theguardian.com/world/2023/mar/07/china-foreign-minister-qin-gang">Continue reading...</a>
+
+## MCG record under threat as PMs join 100,000 for Test cricket’s biggest day
+ - [https://www.theguardian.com/sport/2023/mar/07/mcg-record-under-threat-as-pms-join-100000-for-test-crickets-biggest-day](https://www.theguardian.com/sport/2023/mar/07/mcg-record-under-threat-as-pms-join-100000-for-test-crickets-biggest-day)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 00:52:09+00:00
+
+<ul><li>Record crowd expected at Narendra Modi Stadium on Thursday</li><li>Prime Minister Albanese flying to Ahmedabad for fourth Test </li></ul><p>The MCG’s record for largest crowd to attend a single day of Test cricket is under threat from the Indian stadium named after the country’s current prime minister, and Australia’s prime minister Anthony Albanese will be there to see it if the record falls.</p><p>An estimated 100,000 people could pack into Narendra Modi Stadium in Ahmedabad on Thursday for the first day of the fourth Test between India and Australia.</p> <a href="https://www.theguardian.com/sport/2023/mar/07/mcg-record-under-threat-as-pms-join-100000-for-test-crickets-biggest-day">Continue reading...</a>
+
+## Justin Trudeau to appoint special rapporteur to probe foreign interference in elections
+ - [https://www.theguardian.com/world/2023/mar/07/canada-pm-justin-trudeau-special-rapporteur-probe-foreign-interference](https://www.theguardian.com/world/2023/mar/07/canada-pm-justin-trudeau-special-rapporteur-probe-foreign-interference)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 00:18:42+00:00
+
+<p>Move comes after allegations of Chinese interference in recent Canadian elections and amid mounting political pressure to push back against Beijing</p><p>Canada’s prime minister, Justin Trudeau, has said he will appoint a special rapporteur to probe allegations of Chinese interference in recent elections amid <a href="https://www.theguardian.com/world/2023/mar/02/calls-grow-in-canada-for-inquiry-into-alleged-election-interference-by-china">mounting political pressure</a> to push back against Beijing and to maintain public confidence in democratic institutions.</p><p>“We believe deeply in the values of freedom, openness, and dialogue. These values are not universally shared by every government around the world,” Trudeau said at a press conference on Monday evening. “Indeed, I don’t know if in our lifetime, we’ve seen democracy in a more precarious place. Many state actors and non state actors want to foster instability here and elsewhere, to advance their own interests.</p> <a href="https://www.theguardian.com/world/2023/mar/07/canada-pm-justin-trudeau-special-rapporteur-probe-foreign-interference">Continue reading...</a>
+
+## FBI searches for two Capitol attack defendants who have gone missing
+ - [https://www.theguardian.com/us-news/2023/mar/06/defendants-january-6-capital-attack-missing](https://www.theguardian.com/us-news/2023/mar/06/defendants-january-6-capital-attack-missing)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-03-07 00:12:54+00:00
+
+<p>Joseph Hutchinson and Olivia Pollock, whose brother is also a January 6 defendant, had ankle monitors that were removed or altered</p><p>The FBI is searching for a Florida woman who was supposed to stand trial on Monday on charges stemming from the January 6 Capitol attack as well as another riot defendant who has also gone missing, officials said.</p><p>A federal judge in Washington issued bench warrants for the arrest of Olivia Pollock and Joseph Hutchinson III last week after the court was notified that they had tampered with or removed the ankle monitors that track their location, said Joe Boland, a supervisory special agent with the FBI’s Lakeland, Florida, office.</p> <a href="https://www.theguardian.com/us-news/2023/mar/06/defendants-january-6-capital-attack-missing">Continue reading...</a>
+
