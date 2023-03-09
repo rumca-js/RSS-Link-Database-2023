@@ -1,0 +1,47 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## DuckDuckGo debuts AI-based search using OpenAI and Anthropic language models
+ - [https://www.computerworld.com/article/3690308/duckduckgo-debuts-ai-based-search-using-openai-and-anthropic-language-models.html#tk.rss_all](https://www.computerworld.com/article/3690308/duckduckgo-debuts-ai-based-search-using-openai-and-anthropic-language-models.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-03-08 19:31:00+00:00
+
+<article>
+	<section class="page">
+<p>DuckDuckGo, the search engine focused on user privacy, announced today that it is rolling out an AI-powered instant answer service, which it calls DuckAssist, as part of a larger plan to integrate AI across its product lineup.</p><p>DuckAssist, in broad strokes, is a generative AI system that uses technology from <a href="https://www.computerworld.com/article/3689918/slack-boosts-ai-capabilities-with-new-chatgpt-app.html">ChatGPT</a> makers OpenAI as well as another generative AI company, Anthropic, to generate its own answers to certain types of question.</p><p>It does this without tracking user queries and sticks to a specific set of data sources — namely, Wikipedia and other mostly reputable online encyclopedias. This is done to minimize “hallucination,” which is the phenomenon where generative AI simply makes up an answer to a question out of whole cloth when it has incomplete or incorrect information to go on.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3690308/duckduckgo-debuts-ai-based-search-using-openai-and-anthropic-language-models.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Slack boosts AI capabilities with new ChatGPT app
+ - [https://www.computerworld.com/article/3689918/slack-boosts-ai-capabilities-with-new-chatgpt-app.html#tk.rss_all](https://www.computerworld.com/article/3689918/slack-boosts-ai-capabilities-with-new-chatgpt-app.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-03-08 18:53:00+00:00
+
+<article>
+	<section class="page">
+<p>Slack is set to launch a <a href="https://www.computerworld.com/article/3682143/chatgpt-finally-an-ai-chatbot-worth-talking-to.html">ChatGPT</a> app for Slack, allowing customers to use the generative AI technology to create conversation summaries, act as a research tool, and provide writing assistance.</p><p>ChatGPT is a large language model from San Francisco-based OpenAI that uses <a href="https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html">natural language processing (NLP)</a> to converse with a person via text and generate a wide range of content upon request. Last week, the company made <a href="https://www.computerworld.com/article/3689868/openai-launches-apis-for-chatgpt-and-whisper.html">the first APIs for ChatGPT available</a>, enabling businesses to integrate the technology into their communications platforms.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3689918/slack-boosts-ai-capabilities-with-new-chatgpt-app.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Why you should use Apple’s Rapid Security Response
+ - [https://www.computerworld.com/article/3689916/why-you-should-use-apples-rapid-security-response.html#tk.rss_all](https://www.computerworld.com/article/3689916/why-you-should-use-apples-rapid-security-response.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-03-08 16:39:00+00:00
+
+<article>
+	<section class="page">
+<p>Mac, iPad, and iPhone users can choose to automatically install system security patches as they are released with a new Apple feature called Rapid Security Response.</p><p>Rapid Security Response aims to secure Apple’s platforms with automated security updates. The idea is that if every user automatically installs such patches, the entire ecosystem becomes inherently more secure.</p><p>Announced last year at WWDC 2022, Apple began testing the feature in October. During beta testing, it shared four content-free downloads to test its distribution system, including one <a href="https://appleinsider.com/articles/23/03/06/apple-releases-second-rapid-security-response-in-ios-164-beta" rel="noopener nofollow" target="_blank">recent test in March</a>. While the feature can be enabled on devices running the latest operating system, as of this month Apple had not yet begun to ship genuine security patches.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3689916/why-you-should-use-apples-rapid-security-response.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## How to turn any website into a custom Android widget
+ - [https://www.computerworld.com/article/3689698/custom-android-widget.html#tk.rss_all](https://www.computerworld.com/article/3689698/custom-android-widget.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-03-08 11:00:00+00:00
+
+<article>
+	<section class="page">
+<p>Android widgets are awesome. That much is obvious, right?</p><p>But as is the case with many tech-scented treasures, sometimes, it takes a teensy bit of digging to unearth the most wonderful widget options of all.</p><p>This week, I stumbled onto an especially clever and practical Android widget possibility I'd never before considered. It's a super-simple setup that empowers you to create your very own <a href="https://www.computerworld.com/article/3298516/best-android-widgets-for-busy-professionals.html">Android widgets</a> from almost any website on this wide, wild internerp of ours. And it'll take you all of two minutes to get it all up and running in any way you want.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3689698/custom-android-widget.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Q&A: Allstate HR exec on the rise of remote work: 'The world is changing….'
+ - [https://www.computerworld.com/article/3689815/qa-allstate-hr-exec-on-rise-of-remote-work-the-world-is-changing.html#tk.rss_all](https://www.computerworld.com/article/3689815/qa-allstate-hr-exec-on-rise-of-remote-work-the-world-is-changing.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-03-08 11:00:00+00:00
+
+<article>
+	<section class="page">
+<p>As so many companies did at the start of the COVID-19 pandemic, insurance firm <a href="https://www.allstate.com/" rel="nofollow">Allstate</a> sent tens of thousands of workers home over one weekend. Unlike many other companies, it told the employees to stay home – permanently.</p><p>The company’s approach to remote and hybrid work: ask employees what they wanted, and give it to them.</p><p>The company either didn’t renew leases or sold off office space, including its 232-acre, two-million-square-foot Chicago headquarters in November 2021. It donated the office furniture to charities, then invested in technology — especially virtual meeting spaces to help employees operate efficiently and inclusively.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3689815/qa-allstate-hr-exec-on-rise-of-remote-work-the-world-is-changing.html#jump">To read this article in full, please click here</a></p></section></article>
+
