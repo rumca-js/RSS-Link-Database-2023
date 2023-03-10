@@ -1,0 +1,114 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## No, Celebrities Don't Need to Eat 8,000 Calories to Get Swole
+ - [https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--CwDcn7rO--/c_fit,fl_progressive,q_80,w_636/ffc1a6534a5479c5afa19a209d6fd65c.jpg" /><p>Hugh Jackman recently <a href="https://twitter.com/RealHughJackman/status/1632714820859428866" rel="noopener noreferrer" target="_blank">posted a photo</a> of over 8,000 calories’ worth of boxed meals with the caption “Bulking. A day in the life.” Gossip headlines ran with the number, <a href="https://robbreport.com/lifestyle/news/hugh-jackman-wolverine-diet-1234816362/" rel="noopener noreferrer" target="_blank">reporting</a> Jackman, “is eating a bonkers 8,300 calories” to prepare for his role as Wolverine. But is he really? Does anybody <em>do</em> that?</p><p><a href="https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846">Read more...</a></p>
+
+## Get CityPASS Tickets for up to 60% Off in These Cities Right Now
+ - [https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8blo8-dL--/c_fit,fl_progressive,q_80,w_636/bf3745b5f61a4194b7b247f968717589.jpg" /><p><a href="https://www.citypass.com/" rel="noopener noreferrer" target="_blank">CityPASS</a> is a pay-one-price bundle of tickets pass for select cities that gives you access to some of their main attractions for discounted prices: And right now, their tickets are up to 60% off.<br /></p><p><a href="https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748">Read more...</a></p>
+
+## Braised Scallions Are the Perfect Cheap Weeknight Side Dish
+ - [https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--T2_GF4_t--/c_fit,fl_progressive,q_80,w_636/39d389da1e4027560f775e528f874450.jpg" /><p>I have been trying to eat more vegetables, green things, and plant parts that aren’t potatoes. It’s going about how you would expect (good, not great). I did incorporate some pan-fried delicata squash into my breakfast a few days ago, but I need something green. Luckily, I happened to stumble on <a href="https://food52.com/recipes/16264-molly-stevens-sweet-braised-whole-scallions" rel="noopener noreferrer" target="_blank">Molly Stevens’…</a></p><p><a href="https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034">Read more...</a></p>
+
+## Stop Eating Cold, Rubbery Pancakes
+ - [https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_HeLG1-n--/c_fit,fl_progressive,q_80,w_636/55607b1bd9c3e4591b7eaac590cb467b.jpg" /><p>Weekend pancakes are more than a fluffy breakfast treat. They’re a symbol. A declaration of relaxation. No one plans for pancakes when they have 20 minutes to throw on clothes and run out the door to catch the bus. Pancakes take time to make because in most 8-10 inch frying pans, you can only cook one or two at a…</p><p><a href="https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799">Read more...</a></p>
+
+## 10 Psychoactive Drugs You Can Grow at Home
+ - [https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ARq2iCeC--/c_fit,fl_progressive,q_80,w_636/82c9de89852ca77d68218a54040c23f0.jpg" /><p>These ten plant (well, nine plants and one fungus, to be technical) can be grown in your home, backyard, or greenhouse, and all of them can get you high. Some are so hardy they’ll grow on your lawn whether you like it or not, and some require real horticultural skills and years of commitment. In terms of legality,…</p><p><a href="https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296">Read more...</a></p>
+
+## ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now
+ - [https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--E4OvbSvK--/c_fit,fl_progressive,q_80,w_636/1eb5a526f09d90e8a033953e2117a360.jpg" /><p><a href="https://lifehacker.com/chatgpt-is-the-coolest-and-most-terrifying-new-tech-o-1849874899">ChatGPT can do just about anything</a>. It can write you a horror story about a killer clove of garlic, identify issues with your computer code, and teach you how to pronounce words in another language. It can also create new games out of thin air, and you can try one of them out right now.<br /></p><p><a href="https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733">Read more...</a></p>
+
+## 9 Things Your Local Bakery Is Probably Freezing
+ - [https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--5RWtUH8---/c_fit,fl_progressive,q_80,w_636/df9bff9cf62d127bed33fcfdc7954bba.jpg" /><p>It can be hard to find the time to bake a cake or pie at home. Besides, who needs to do that when you’ve got a great local bakery to turn to? They’re churning out an impossible amount of freshly baked cakes, pies, cookies every single day. Or are they? </p><p><a href="https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246">Read more...</a></p>
+
+## How to Recover From a Browser Hijacking Attack
+ - [https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--IkM691hl--/c_fit,fl_progressive,q_80,w_636/590cc9f26bdf2d05f9d60c4f2635f170.jpg" /><p>One day, you boot up your computer to find things are not how you left them. Your search results don’t go to Google, and your homepage is a site you’ve never heard of. Perhaps it’s Privatesearches.org, or a myriad of other scam search websites trying to get you to click on ad links (or much worse). If this is…</p><p><a href="https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361">Read more...</a></p>
+
+## You Can Get a Free Mini Wok With Your Panda Express Order Right Now
+ - [https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 17:36:36+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_cli55i4--/c_fit,fl_progressive,q_80,w_636/45eba9094e5e27e746a21c9455c37bde.jpg" /><p>Why order takeout when you can cook at home? Today and tomorrow (March 9-10), select Panda Express locations are giving away <a href="https://www.pandaexpress.com/promo/miniwok" rel="noopener noreferrer" target="_blank">limited-edition Lodge cast iron mini woks</a> for you to take home with your order of Sizzling Shrimp.</p><p><a href="https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507">Read more...</a></p>
+
+## This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful
+ - [https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--prILjGUD--/c_fit,fl_progressive,q_80,w_636/319824bd80d062d92a3303270bcd4ede.jpg" /><p>From the garage to the kitchen to your kids’ bedrooms, smelly trash cans abound in your home. But you might already have the perfect solution—in your bathroom. While there’s no substitute for thoroughly <a href="https://lifehacker.com/how-to-destink-your-diaper-pail-and-keep-it-destunk-1849975562">cleaning out garbage cans or diaper pails</a> regularly, you can—and should—still stay on the smell offensive: with some…</p><p><a href="https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453">Read more...</a></p>
+
+## You're Probably Eligible to File Your Taxes for Free
+ - [https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ADFgqU_4--/c_fit,fl_progressive,q_80,w_636/92ed3a1c6a61f4d22e98088db3954c79.jpg" /><p>As if paying your taxes wasn’t painful enough, paying <em>to file</em> your taxes adds insult to injury. How much you pay for tax preparation depends on several factors, like how complex your taxes are and what type of service you use. <br /><br />But you might be in luck: Most people qualify to do their taxes for free through the <a href="https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free" rel="noopener noreferrer" target="_blank">IRS’…</a></p><p><a href="https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431">Read more...</a></p>
+
+## This Scam Is Making Payday Loans Even Worse
+ - [https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RlhI1Sn6--/c_fit,fl_progressive,q_80,w_636/20b7d11896cd01463799c5cd59ff3ae2.jpg" /><p>Payday loan companies have been available for many years, providing mostly low-income people or families who are in financial need fast money—but with extremely high interest rates. The practice is so questionable that 16 states banned the <a href="https://www.usatoday.com/in-depth/money/2022/11/03/what-payday-loan-and-predatory-lending/10591691002/" rel="noopener noreferrer" target="_blank">predatory</a> practice, <a href="https://paydayloaninfo.org/state-information/#:~:text=Sixteen%20States%20and%20the%20District,rate%20caps%20or%20usury%20limits." rel="noopener noreferrer" target="_blank">according to Consumer Federation of America</a>. However,…</p><p><a href="https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618">Read more...</a></p>
+
+## How to Choose Between Stocks and Index Funds
+ - [https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kJBOuaf2--/c_fit,fl_progressive,q_80,w_636/a269d10188ff7209502cdcb2b9e88857.jpg" /><p>For anyone looking to <a href="https://lifehacker.com/how-to-start-investing-1849315591">start investing</a> in the stock market, you’ll be faced with the pros and cons of individual stocks versus index funds. Stocks are shares of a company, whereas index funds are a portfolio of stocks and bonds that tracks the stock market. </p><p><a href="https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507">Read more...</a></p>
+
+## How to Respond When Your Kid Shuts You Out
+ - [https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--FYD81Vqw--/c_fit,fl_progressive,q_80,w_636/89f2a9f620e63093e0a45066fb1a8fd1.jpg" /><p>Parenting experts tell us <a href="https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478">connecting</a> with our children is the key to forming successful relationships with them, but kids and teens have a special talent for pushing the “disconnect” button when interactions get challenging. In these moments, your child may reject your efforts to communicate with them in one of…</p><p><a href="https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747">Read more...</a></p>
+
+## 18 Times Someone Won an Oscar for the Wrong Movie
+ - [https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213](https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--OLpLb_Yw--/c_fit,fl_progressive,q_80,w_636/872459eb3e0337c9efae9e0884efbc62.png" /><p>It’s a truth universally accepted that the Oscars doesn’t always (or even often) get it right. While there are some truly head-scratching victors among the ranks of Academy Award winners, it’s also true that Oscar often likes to play catch-up, rewarding filmmakers and actors for late-career work when they probably…</p><p><a href="https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213">Read more...</a></p>
+
+## Caramelize a Lemon Immediately
+ - [https://lifehacker.com/caramelize-a-lemon-immediately-1850204476](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-09 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--PyEYXl2A--/c_fit,fl_progressive,q_80,w_636/9e5c62b735513cd916d46f36ba4b7e4c.jpg" /><p>We here at Skillet love to <a href="https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092">brown our food</a>. We brown it deeply and thoroughly. We also love to caramelize. And while onions and other alliums get most of the attention when it comes to browning and caramelizing, I’d like to bring your attention to another food that is transformed by the power of non-enzymatic browning…</p><p><a href="https://lifehacker.com/caramelize-a-lemon-immediately-1850204476">Read more...</a></p>
+

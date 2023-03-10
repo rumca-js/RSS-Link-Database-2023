@@ -1,0 +1,457 @@
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## Boots loyalty points value reduced
+ - [https://www.bbc.co.uk/news/business-64899536?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64899536?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 23:10:10+00:00
+
+Customers will receive 3 pence worth of loyalty points for every £1 spent, down from 4 pence.
+
+## Indian Wells: Emma Raducanu beats Danka Kovinic as Jack Draper sets up Dan Evans clash
+ - [https://www.bbc.co.uk/sport/tennis/64909690?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/64909690?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 23:03:34+00:00
+
+British pair Emma Raducanu and Jack Draper put injury-disrupted build-ups behind them to earn first-round wins at the prestigious Indian Wells event.
+
+## Rishi Sunak to push Emmanuel Macron on efforts to stop small boat crossings
+ - [https://www.bbc.co.uk/news/uk-politics-64909510?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-64909510?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 22:41:33+00:00
+
+However, the two men are not expected to reach a deal on returning migrants to France.
+
+## Manchester United 4-1 Real Betis: Erik ten Hag's side take command in Europa League last-16 first-leg tie
+ - [https://www.bbc.co.uk/sport/football/64893700?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64893700?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 22:12:30+00:00
+
+Manchester United respond to their 7-0 humiliation at Liverpool by overwhelming Real Betis in the first leg of their last-16 Europa League tie
+
+## Several killed in shooting in Germany church in Hamburg
+ - [https://www.bbc.co.uk/news/world-europe-64910415?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64910415?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 22:10:39+00:00
+
+Police say the shooting occurred in a church and they are searching for the attackers.
+
+## Super League: Wigan Warriors 10-18 Catalans Dragons - Les Dracs maintain unbeaten run
+ - [https://www.bbc.co.uk/sport/rugby-league/64907127?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-league/64907127?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 22:10:22+00:00
+
+Catalans earn their first win at Wigan since April 2011 to extend their 100% start in Super League to four games.
+
+## Heavy snow and high winds to create treacherous conditions
+ - [https://www.bbc.co.uk/news/uk-64904704?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64904704?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 21:14:16+00:00
+
+Motorists are being warned to avoid travel unless absolutely necessary in the affected areas.
+
+## Six Nations 2023: Marcus Smith's chance to shine as England look to future
+ - [https://www.bbc.co.uk/sport/rugby-union/64909428?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64909428?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 20:40:10+00:00
+
+Marcus Smith has finally been given the chance to take charge of England's attack - but will it help them beat France?
+
+## Champions League final: Real Madrid say Uefa compensation scheme is 'insufficient'
+ - [https://www.bbc.co.uk/sport/football/64897552?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64897552?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 20:23:05+00:00
+
+Real Madrid say Uefa's proposal to reimburse some fans who attended last year's chaotic Champions League final is "insufficient".
+
+## AEK Larnaca 0-2 West Ham: Visitors close in on Europa Conference League quarter-finals
+ - [https://www.bbc.co.uk/sport/football/64894093?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64894093?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 20:18:06+00:00
+
+West Ham take a big step towards the quarter-finals of the Europa Conference League with a comfortable first-leg victory at AEK Larnaca.
+
+## Sporting Lisbon 2-2 Arsenal: Gunners secure hard-earned draw in Portugal
+ - [https://www.bbc.co.uk/sport/football/64897082?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64897082?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 20:16:04+00:00
+
+Arsenal secure a hard-earned draw against Sporting Lisbon in an entertaining Europa League last-16 first leg.
+
+## Asda and Morrisons lift limits on some fresh produce
+ - [https://www.bbc.co.uk/news/business-64908081?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64908081?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 20:07:31+00:00
+
+The supermarkets lift restrictions on some fresh produce as shortages ease.
+
+## UN buys huge ship to avert catastrophic oil spill off Yemen
+ - [https://www.bbc.co.uk/news/world-middle-east-64904985?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-64904985?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 20:05:33+00:00
+
+The vessel will head to Yemen and remove 1.1m barrels of oil from a stricken tanker in the Red Sea.
+
+## Ukraine war: Russia fires hypersonic missiles in new barrage
+ - [https://www.bbc.co.uk/news/world-europe-64903202?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64903202?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 17:12:37+00:00
+
+At least nine people die as Russia fires powerful weapons, including hypersonic missiles.
+
+## Man, 82, guilty of murdering ex-wife in 1978
+ - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-64879514?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-64879514?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 16:54:08+00:00
+
+Genetics expert Brenda Page was beaten to death in 1978 a year after divorcing Christopher Harrisson.
+
+## Food fraud probe into beef falsely labelled as British
+ - [https://www.bbc.co.uk/news/business-64904334?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64904334?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 16:17:38+00:00
+
+A supplier is under investigation after pre-packed meat was found to be from South America and Europe.
+
+## Georgia drops 'foreign agents' law after protests
+ - [https://www.bbc.co.uk/news/world-europe-64899041?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64899041?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 16:07:30+00:00
+
+The ruling party says it will pull a controversial Russian-style bill amid widespread criticism.
+
+## WhatsApp would take block over UK bill encryption plans
+ - [https://www.bbc.co.uk/news/technology-64863448?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-64863448?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 15:52:31+00:00
+
+The encrypted app will refuse to comply with the Online Safety Bill if required to scan messages.
+
+## Tucker Carlson, Donald Trump and the in-fighting at Fox News
+ - [https://www.bbc.co.uk/news/world-us-canada-64895964?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64895964?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 14:53:03+00:00
+
+A defamation lawsuit has pulled back the curtain on the inner workings of Fox News.
+
+## T-level delays: Colleges face disruption after courses are pushed back
+ - [https://www.bbc.co.uk/news/education-64904427?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/education-64904427?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 14:05:16+00:00
+
+The rollout of four technical courses in England is being pushed back because of quality concerns.
+
+## Olivia Pratt-Korbel: Intended target shouted 'please don't' - court
+ - [https://www.bbc.co.uk/news/uk-england-merseyside-64901584?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-merseyside-64901584?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 13:47:31+00:00
+
+Thomas Cashman is accused of shooting dead nine-year-old Olivia Pratt-Korbel in her Liverpool home.
+
+## Six Nations 2023: England's Owen Farrell dropped as Marcus Smith comes in to face France
+ - [https://www.bbc.co.uk/sport/rugby-union/64900170?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64900170?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 13:35:37+00:00
+
+England captain Owen Farrell is replaced by Marcus Smith in the starting line-up for Saturday's Six Nations match against France at Twickenham.
+
+## Ukraine war: Latvia sends cars seized from drunk drivers to help Kyiv
+ - [https://www.bbc.co.uk/news/world-europe-64903201?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64903201?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 13:33:48+00:00
+
+The confiscated vehicles are being delivered under a Latvian scheme to help the Ukrainian military.
+
+## Watch: UK's Eurovision song entry and fan reaction
+ - [https://www.bbc.co.uk/news/entertainment-arts-64902446?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64902446?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 13:33:02+00:00
+
+Mae Muller has been revealed as the UK's entrant for the Eurovision Song Contest.
+
+## Ukraine war: Why Russia’s infrastructure strikes strategy isn’t working
+ - [https://www.bbc.co.uk/news/world-europe-64900098?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64900098?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 13:01:29+00:00
+
+Russia’s destructive but sporadic strike tactics could indicate a shortage of certain weapons.
+
+## Wimbledon 2023: Clare Balding to lead BBC coverage of this year's Championships
+ - [https://www.bbc.co.uk/sport/tennis/64902037?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/64902037?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 13:00:05+00:00
+
+Clare Balding will be the lead presenter for coverage of this year's Wimbledon in July, the BBC announces.
+
+## Bangladesh v England: Tigers secure comfortable six-wicket win in first T20
+ - [https://www.bbc.co.uk/sport/cricket/64901859?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/64901859?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 12:58:08+00:00
+
+England slump to a six-wicket defeat by Bangladesh in the opening T20 in Chattogram.
+
+## Six Nations 2023: Rhys Webb back against Italy for first Wales start in three years
+ - [https://www.bbc.co.uk/sport/rugby-union/64901852?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64901852?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 12:27:53+00:00
+
+Rhys Webb makes his first Wales Six Nations start since 2017 when they face Italy in Rome on Saturday.
+
+## How #OscarsSoWhite changed the Academy Awards
+ - [https://www.bbc.co.uk/news/world-us-canada-64883399?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64883399?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 12:13:50+00:00
+
+#OscarsSoWhite changed Hollywood, new data shows, but there is still a long way to go.
+
+## Adidas Kanye West's Yeezy shoes 'collectors' items'
+ - [https://www.bbc.co.uk/news/business-64892898?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64892898?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 11:39:33+00:00
+
+A US shoe chain says sales are up 30% since the sportswear giant dropped Mr West over anti-Semitic comments.
+
+## Six Nations 2023: Dropping Owen Farrell for Marcus Smith a 'great call' - Sir Clive Woodward
+ - [https://www.bbc.co.uk/sport/rugby-union/64901529?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64901529?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 11:16:40+00:00
+
+Marcus Smith is set to start at fly-half ahead of captain Owen Farrell in England's Six Nations game against France on Saturday.
+
+## NHS backlog progress at risk from junior doctors' strike in England
+ - [https://www.bbc.co.uk/news/health-64827249?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-64827249?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 11:06:50+00:00
+
+Health leaders say it is inevitable next week's 72-hour walkout in England will have an impact.
+
+## Gary Lineker's tweets were inappropriate, culture secretary says
+ - [https://www.bbc.co.uk/news/uk-64899472?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64899472?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 10:37:34+00:00
+
+The Match of the Day host has been criticised for tweets about the government's new asylum plan.
+
+## HS2 construction to be delayed to save money
+ - [https://www.bbc.co.uk/news/business-64901985?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64901985?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 10:29:57+00:00
+
+The BBC understands the government will delay building certain sections of the high speed rail line.
+
+## Harry and Meghan's children get official royal titles
+ - [https://www.bbc.co.uk/news/uk-64901227?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64901227?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 10:26:05+00:00
+
+Archie and Lilibet are named as prince and princess of Sussex on the Royal Family's website.
+
+## One man, two cups: Is President Xi’s double tea a power move?
+ - [https://www.bbc.co.uk/news/world-asia-china-64897273?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-64897273?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 10:23:54+00:00
+
+The BBC's Celia Hatton breaks down Xi Jinping's caffeine habits, and why they might be a subtle power play.
+
+## Mystic Meg: Astrologer dies aged 80
+ - [https://www.bbc.co.uk/news/entertainment-arts-64900348?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64900348?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 10:18:28+00:00
+
+The TV star, whose real name was Margaret Lake, was a well-known TV figure in the 1990s.
+
+## Afghanistan blast: Taliban governor killed at his office
+ - [https://www.bbc.co.uk/news/world-asia-64899335?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64899335?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 09:45:28+00:00
+
+A provincial governor is the most senior official to be killed in attacks since the Taliban retook power.
+
+## TKorStretch: Family of rapper stabbed at Notting Hill Carnival release music
+ - [https://www.bbc.co.uk/news/newsbeat-64887856?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-64887856?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 09:06:46+00:00
+
+O'shian Edwards was pregnant when her rapper boyfriend was stabbed to death at Notting Hill Carnival.
+
+## Rare 'snow tornado' spotted by Shetland crofter
+ - [https://www.bbc.co.uk/news/uk-scotland-64900417?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-64900417?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 08:58:43+00:00
+
+Michael Peterson witnessed the phenomenon while feeding his sheep in snowy conditions.
+
+## Former Shell boss Ben van Beurden's pay package jumps to £9.7m
+ - [https://www.bbc.co.uk/news/business-64899421?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64899421?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 08:58:02+00:00
+
+Ben van Beurden's pay package rose by a third in 2022 after the firm made record profits.
+
+## Eurovision 2023: Mae Muller announced as UK act for song contest
+ - [https://www.bbc.co.uk/news/entertainment-arts-64888312?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64888312?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 08:50:51+00:00
+
+The 25-year-old will perform I Wrote A Song at May's competition as the UK hosts on Ukraine's behalf.
+
+## Topol: Fiddler on the Roof star dies aged 87
+ - [https://www.bbc.co.uk/news/entertainment-arts-64898895?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64898895?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 08:50:03+00:00
+
+The acclaimed actor and singer also appeared in Flash Gordon and the Bond film For Your Eyes Only.
+
+## King Charles to visit Surrey avian influenza scientists
+ - [https://www.bbc.co.uk/news/uk-england-surrey-64893806?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-surrey-64893806?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 08:08:36+00:00
+
+The King will be given a tour of the Animal and Plant Health Agency's headquarters in Surrey.
+
+## Increase in mental health callouts received by police over past five years
+ - [https://www.bbc.co.uk/news/uk-64891572?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64891572?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 07:49:01+00:00
+
+Some forces told the BBC they saw incidents multiply by four or five times between 2017 and 2022.
+
+## Emma Raducanu 'hopefully' playing at Indian Wells despite wrist injury return
+ - [https://www.bbc.co.uk/sport/tennis/64895664?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/64895664?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 06:54:47+00:00
+
+Emma Raducanu will "hopefully" be able to play at Indian Wells but says last year's wrist problem has returned.
+
+## Sports bras: England netballer Eleanor Cardwell on finding the right fit
+ - [https://www.bbc.co.uk/sport/netball/64786152?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/netball/64786152?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 06:30:37+00:00
+
+Eleanor Cardwell's sports bra left her blistered at school. At the age of 28, she started the journey to find the right fit.
+
+## Hannah Rankin v Logan Holler: A very Scottish ring walk and facing a Kardashian
+ - [https://www.bbc.co.uk/sport/av/boxing/64895933?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/boxing/64895933?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 06:10:37+00:00
+
+BBC Sport goes 12 rounds with Scotland's Hannah Rankin before her fight against Logan Holler on Friday.
+
+## 'Sushi terror' pranks outrage Japan as police make arrests
+ - [https://www.bbc.co.uk/news/world-asia-64898111?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64898111?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 05:21:11+00:00
+
+Some sushi trains are no longer running conveyor belts amid fears of customers tampering with food.
+
+## Phone-hacking: Prince Harry key figure in May trial
+ - [https://www.bbc.co.uk/news/entertainment-arts-64895912?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64895912?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 04:56:15+00:00
+
+The Duke of Sussex is among high-profile figures bringing damages claims against a newspaper publisher.
+
+## Tiger Woods' ex-girlfriend sues to challenge NDA
+ - [https://www.bbc.co.uk/news/world-us-canada-64897829?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64897829?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 04:02:35+00:00
+
+Erica Herman, who dated the golfer for six years, wants a court to overturn the privacy agreement.
+
+## Ukraine war: Widespread Russian airstrikes hit cities
+ - [https://www.bbc.co.uk/news/world-europe-64897888?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64897888?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 03:14:44+00:00
+
+Residential buildings and infrastructure are among those hit causing power cuts, officials say.
+
+## Weeping US Marine describes Afghan 'catastrophe' before Congress
+ - [https://www.bbc.co.uk/news/world-us-canada-64897424?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64897424?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 02:04:00+00:00
+
+A Congressional inquiry into the 2021 withdrawal hears emotional testimony from a bomb victim.
+
+## Mental-health crisis from pandemic was minimal - study
+ - [https://www.bbc.co.uk/news/health-64890952?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-64890952?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 01:26:14+00:00
+
+Most people remained resilient, BMJ research suggests, but others say some groups were badly affected.
+
+## The horses and carts racing on Ireland's motorways
+ - [https://www.bbc.co.uk/news/world-europe-64732700?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64732700?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 01:13:33+00:00
+
+Deprived communities take immense pride in racing - but there are fears for the horses' welfare.
+
+## The mothers supporting each other through child separation
+ - [https://www.bbc.co.uk/news/uk-england-suffolk-64720218?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-suffolk-64720218?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 01:13:10+00:00
+
+A group of mothers are helping each other to cope with enforced separation from their children.
+
+## Childcare: Full-time nursery for under-twos nearly £15k a year, says report
+ - [https://www.bbc.co.uk/news/education-64865602?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/education-64865602?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 01:11:13+00:00
+
+Costs rise by 5.9% in a year in Great Britain while availability drops, a report finds.
+
+## Oscars 2023: Two decades on the Vanity Fair party red carpet
+ - [https://www.bbc.co.uk/news/entertainment-arts-64821816?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64821816?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 01:10:52+00:00
+
+The BBC entertainment correspondent on his greatest moments covering the Vanity Fair Oscars Party.
+
+## Climate change: New idea for sucking up CO2 from air shows promise
+ - [https://www.bbc.co.uk/news/science-environment-64886116?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-64886116?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:58:07+00:00
+
+A new way of sucking carbon from the air is up to three times more effective than current technology.
+
+## Debt avoided by cutbacks on dining out and clothes, Barclays data shows
+ - [https://www.bbc.co.uk/news/business-64876681?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64876681?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:11:19+00:00
+
+Careful spending is saving some people from debt while others are too frightened to open letters.
+
+## Paris St-Germain out of Champions League: Time to rip up project?
+ - [https://www.bbc.co.uk/sport/football/64894275?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64894275?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:11:19+00:00
+
+Paris St-Germain's latest Champions League failure means it could be time to rip up the project and try something new.
+
+## Ukraine war: Why Bakhmut matters for Russia and Ukraine
+ - [https://www.bbc.co.uk/news/world-europe-64877991?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64877991?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:03:32+00:00
+
+Tens of thousands have died fighting for a city with little strategic value. Why?
+
+## 'End of Conte's loveless Spurs reign surely a formality'
+ - [https://www.bbc.co.uk/sport/football/64897469?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64897469?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:02:22+00:00
+
+Antonio Conte's Tottenham crash out of the Champions League against AC Milan, and with another trophyless season on the cards it appears his tenure is coming to an end.
+
+## UK microchip firms ask government for hundreds of millions
+ - [https://www.bbc.co.uk/news/business-64872465?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64872465?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:02:20+00:00
+
+The boss of a leading microchip maker warns without huge investment companies will go abroad.
+
+## WSL highlights: Chelsea 3-1 Brighton - dominant Blues move second
+ - [https://www.bbc.co.uk/sport/av/football/64897301?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/64897301?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-09 00:01:01+00:00
+
+Watch Women's Super League highlights as Chelsea dominate Brighton to win 3-1 and move one point behind leaders Manchester United.
+
