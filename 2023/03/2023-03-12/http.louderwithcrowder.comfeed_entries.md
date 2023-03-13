@@ -1,0 +1,115 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: Trolling dad identifies as "Female Julius Caesar" at a school board meeting and hilarity ensues
+ - [https://www.louderwithcrowder.com/father-julius-caesar-school-board](https://www.louderwithcrowder.com/father-julius-caesar-school-board)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-12 13:25:58+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33260585&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>A New Hampshire dad took a unique approach to protest at a local school board meeting: dressing like Julius Caesar. </p><p>The father, Michael Guglielmo, was recently prohibited from visiting one of the school district's elementary schools for an interaction with one of the school's teachers,  Silas Allard. Allard identifies as a member of the LGBTQ community and wears women's clothes to school. Guglielmo believes this facilitates gender confusion and also criticized some of Allard's social media posts as inappropriate for children. </p><p><a href="https://www.foxnews.com/media/dad-dresses-julius-caesar-school-board-meeting-protest-teachers-gender-fluid-attire" target="_blank">According to a letter </a>written by the school district and sent to Guglielmo, he asked Allard to take a photograph, and Allard agreed. He then asked Allard to pose, and Allard declined. The school deemed this harassment, resulting in Guglielmo's prohibition from the school. </p><p>Guglielmo's criticisms of Allard led to Allard being placed on leave, but ultimately, the school allowed them to return. Which prompted Guglielmo to speak at the school board meeting. As Julius Caesar. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/CITClassroom/status/1633546151315099649"></a>
+</blockquote>
+
+<p><em>"I am Caesar. Julius Caesar of Rome, the Emperor. I am also a female. Does anyone here believe that? That I am Julius Caesar? Anybody believe that?"</em></p><p><em>"No, of course not," </em>he said, tossing his helmet on the table.<em> "It's ridiculous. I'm not Caesar. I'm not a woman either. I'm here as a father."</em></p><p>He reportedly went on to say, <em>"Your duty is to act in the best interest of children. It is to teach truth, not lies. Facts, not fiction. Biology, not a social agenda. </em><em>As taxpayers, we deserve to have our children taught what we pay for, and it's not a social agenda, whether it be right or left." </em></p><p>The woman in the front row's reaction is priceless. She's clearly <em>not</em> having this bit. But really, what is the father doing wrong? If anyone is allowed to identify as anything they want just by speaking it, why not Julius Caesar? Following their logic, this should be perfectly fine. But it's not. And I think we all know why. </p>
+
+## Watch: Based dude asks girl to compare fat man vs fat women, and only one is labeled beautiful
+ - [https://www.louderwithcrowder.com/fat-man-compared-women](https://www.louderwithcrowder.com/fat-man-compared-women)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-12 13:18:46+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33260478&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>Call this a sociological experiment. Or call it trolling. Either way, the results are fascinating. A curious dude interviewed a female subject and showed her pictures. It was a fat dude, two obese women, and two dudes with shredded abs. </p><p>Let's see what happens.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet"><a href="https://t.co/RoRhGhYHvz">pic.twitter.com/RoRhGhYHvz</a><br />— Clown World ™ 🤡 (@ClownWorld_) <a href="https://twitter.com/ClownWorld_/status/1634887642100936705?ref_src=twsrc%5Etfw">March 12, 2023</a></blockquote> </div><p>First, we compared a dumpy, shirtless, Ron Jeremy-looking bloke to a woman who makes <a href="https://www.louderwithcrowder.com/lizzo-body-shamer-instagram" target="_blank">Lizzo look like she has a normal BMI</a>. Thankfully, she was wearing a shirt. Ron Jeremy scored a -1,000,000 out of ten. Fat Lizzo got a 10/10.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="9c6a7" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33260523&amp;width=980" />
+</p>
+<p>Next, we compared Fat Lizzo to two other shirtless dudes. But these bros hit the gym and were both shredded and jacked. They got a 3/10 and 5/10 respectively while maintaining Fat Lizzo's 10/10 because "OMG, she's majestic."</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="165a8" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33260549&amp;width=980" />
+</p><p>When the person conducting the experiment pointed out that Fat Lizzo was obese -- <a href="https://www.cdc.gov/obesity/basics/adult-defining.html" target="_blank">The Science says obesity is a BMI of over 30.0</a> -- the girl being interviewed <a href="https://www.louderwithcrowder.com/woman-issues-warning-positivity" target="_blank">accused the researcher of fat shaming</a>.</p><p>Then came the conclusion that, at this point, I'm sure we all see coming. The researcher asked why it was fat-shaming to point out Fat Lizzo was obese, yet not fat shaming for Ron Jeremy to be given a negative million out of ten.</p><p>"Because...oh my God, shut the f*ck up you little white Ed Sheeran...."</p><p>And then she disconnected the call.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="65be7" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33260560&amp;width=980" />
+</p>
+<p>I feel like we've all learned a lot today. Thank you based dude for this thought-provoking experiment.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## LOL: Watch as this feminist chick gets left speechless over a single question on "gender equality"
+ - [https://www.louderwithcrowder.com/whatever-podcast-feminism-equality](https://www.louderwithcrowder.com/whatever-podcast-feminism-equality)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-12 12:54:55+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33260495&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>I don't know about you, but this <a href="https://www.louderwithcrowder.com/whatever-podcast-quits" target="_blank">podcast</a> is now becoming one of my faves. Due to all the <a href="https://www.louderwithcrowder.com/whatever-podcast-men-women" target="_blank">extreme based-ness</a>, of course. The host recently completely dismantled feminism and completely caught one of his poor, unsuspecting guests off guard. And it was glorious.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/whatever/status/1634569876391231490"></a>
+</blockquote>
+
+<p>He asked her if she's a feminist and believes in gender equality, and she said yes. He followed it up with, <em>"Ok, so, how do you reconcile belieiving in gender equality, but also holding men to their traditional gender roles of paying for the first date?"</em></p><p>Oof. She wasn't ready for that one. And it was evident in her response:<em> "Feminism is just doing whatever you want to do, and not being bashed by society for that" </em>. Which, if you've observed modern feminists at any of the abortion protests over the past year, honestly sounds about right.<br /></p><p>She added, <em>"And obviously like, standing up for like, women's rights and stuff."</em> Oh yeah, that too. The women part. </p><p>The host pressed again, asking, <em>"If you believe in gender equality, don't you think you aught to split the bill on the first date?" </em></p><p>She replied<em> "No because, my main concern with gender equality </em><em>is through, like yes in society, like fixing that and through like the system, but yeah, I don't - Oh my god..."</em></p><p>So yeah, she was pretty stumped. Because of course, this argument doesn't make any sense. It seems that modern feminists still want all the perks of traditionalism and chivalry, but also want to be able to "do whatever they want to do." I don't know what exactly this chick means by that, and I don't want to put words in her mouth. But broadly speaking, doing whatever you want as a third wave feminist likely involves some combination of hook-ups, multiple sexual partners, and, unfortunately, some abortions. </p><p>And it just don't work like that, ladies. We can have gender roles, or we can get rid of <em>all</em> of them. I personally support the former. </p>
+
+## Greta Thunberg busted deleting 2018 tweet because it's five years later and humanity has yet to be destroyed
+ - [https://www.louderwithcrowder.com/greta-thunberg-2018-tweet](https://www.louderwithcrowder.com/greta-thunberg-2018-tweet)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-12 12:33:05+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33260441&amp;width=1200&amp;height=800&amp;coordinates=132%2C0%2C68%2C0" /><br /><br /><p>Greta Thunberg, when she isn't cussing up a storm and faking getting arrested, likes to make bold predictions about the sky falling. One prediction she made in 2018 is getting a second look. Greta thought she could be all slick and delete her tweet, but the internet much like the ozone layer and Wu-Tang Clan is forever.</p><p>Because it's five years after she tweeted the world was going to end in five years. Look out your window.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Hi <a href="https://twitter.com/GretaThunberg?ref_src=twsrc%5Etfw">@GretaThunberg</a>! Why did you delete this? <a href="https://t.co/YRyrCje0L1">pic.twitter.com/YRyrCje0L1</a><br />— No Bailouts Poso 🚫💰 (@JackPosobiec) <a href="https://twitter.com/JackPosobiec/status/1634644472553168896?ref_src=twsrc%5Etfw">March 11, 2023</a></blockquote> </div><p>According to an expert in The Science in 2018 -- remember, we must trust both the experts AND The Science -- schlimate change will wipe out, quote, "all" of humanity unless we stop using fossil fuels over the next five years.</p><p>It's five years later. We have not stopped using fossil fuels. And for better or worse, humanity is still here.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="512ac" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33260448&amp;width=980" />
+</p><p>If anything, <a href="https://www.louderwithcrowder.com/tesla-fireball-gallons-water" target="_blank">EV fail</a> after <a href="https://www.louderwithcrowder.com/ford-electric-truck-total-disaster" target="_blank">EV fail</a> after <a href="https://www.louderwithcrowder.com/california-electric-vehicles" target="_blank">EV fail</a> has caused people to realize that fossil fuels are the dopeness. So is eating meat, because that's what Greta's cult is coming after now.</p><p>I'm not about to question The Science, because if I do Facebook won't let you see this post. But I don't think schlimate alarmists realize how much their chicken little, the sky is falling, doom and destruction, cats and dogs playing together failed predictions have damaged their cause. You can only be wrong so many times before your rantings start to get tuned out. Unless, of course, you are a political analyst and work for MSNBC.</p><p>At least another social media influencer, Rep. AOC, hedged her bets. In 2018 <a href="https://www.louderwithcrowder.com/aoc-climate-change-world-ending" target="_blank">she said the world was going to end in TWELVE years</a>. She still has seven years to go before she looks like an idiot.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## 'You got me good': Woke bro gets deprogrammed about his "white privilege" by a brown girl in real-time
+ - [https://www.louderwithcrowder.com/white-privilege-woke-bro](https://www.louderwithcrowder.com/white-privilege-woke-bro)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-12 11:50:41+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33260365&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C2" /><br /><br /><p>It's rare to see someone get red-pilled in real-time. But as you watch this video ask yourself, did the woke bro mean what he was saying? Or did he see a cute brown girl talking to him and was spouting woke nonsense as his way of spitting game? Citizen journalist <a href="https://www.louderwithcrowder.com/lia-thomas-ncaa-speaks-out" target="_blank">Savanagh Hernandez</a>, not being white herself, took to the streets to learn more about this alleged privilege we whites have.</p><p>There hasn't been such a brilliant example of wokenessity since <a href="https://www.louderwithcrowder.com/beavis-butthead-white-privilege" target="_blank">Beavis and Butthead went to a liberal arts college</a>.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">A college student began explaining his “white privilege” to me, so I decided to take the opportunity to deprogram him in live time: <a href="https://t.co/CZGHtZancj">pic.twitter.com/CZGHtZancj</a><br />— Savanah Hernandez (@sav_says_) <a href="https://twitter.com/sav_says_/status/1634290136979501060?ref_src=twsrc%5Etfw">March 10, 2023</a></blockquote> </div><p>"I grew up as a white man and you're the exact opposite, you know? And so it's like, my experiences are gonna be different from yours."</p><p>It's just that woke simp life has got him in its sway. Also, ten bucks say he doesn't get that reference even though he's wearing a shirt full of Rolling Stones album covers.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="a99ab" src="https://www.louderwithcrowder.com/media-library/image.png?id=33260371&amp;width=980" />
+</p><p>As the questioning continues, this PFT Commenter wannabe started to realize that while he may be white, he may not be as privileged as he thought. "Personally, it's like, not that I think I'm more privileged than anyone else because I had to work to get where I was."</p><p>Then Hernandez hit him with the deal: "Why do you have that mentality immediately where you, you know, kind of apologize to me, like, let's talk about privilege, let's talk about 'I'm a white man in America so we could have grown up differently,' Why is that your first initial reaction to me as a brown woman?"</p><p>This guy knows what's up. And he's sick of his friend trying to send him the latest hip-hop song asking "have you heard this one yet?" My man grew up on Taking Back Sunday and the Get Up Kids and doesn't even like rap. But, you know.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="e92db" src="https://www.louderwithcrowder.com/media-library/image.png?id=33260372&amp;width=980" />
+</p><p>Cheers to you, Woke Bro. And on behalf of those of us who hustle content for a living, please accept my apology for what's about to happen when you log onto the internet for the first time today.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
