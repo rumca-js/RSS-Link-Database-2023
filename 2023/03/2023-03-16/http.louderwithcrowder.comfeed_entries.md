@@ -1,0 +1,259 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## REVEALED: School Board Member Wanted To Push Palestinian Agenda In Schools And Refrain From Calling 9/11 Terrorism
+ - [https://www.louderwithcrowder.com/abrar-omeish-palestinian-agenda](https://www.louderwithcrowder.com/abrar-omeish-palestinian-agenda)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 21:13:08+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33297178&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80" /><br /><br /><p>Virginia school board member Abrar Omeish is back in the news cycle. You may recall how she <a href="https://www.louderwithcrowder.com/school-board-iwo-jima" target="_blank">inexplicably claimed </a>the Battle of Iwo Jima was evil and refused to elaborate. Or how she <a href="https://www.the-sun.com/news/3078234/kids-jihad-world-white-supremacy-school-board-graduation/" rel="noopener noreferrer" target="_blank">told</a> the class of 2021 to remember "jihad" as they entered a world full of "white supremacy." A totally normal thing to say to a bunch of 18-year-olds. </p><p>This same school board member previously said she wants to use some of the $3 billion available in the district's budget for a Palestinian agenda and channel "Muslim Power". The video was taken before she was elected, and was unearthed by investigative journalist <a href="https://asrainvestigates.substack.com/p/full-transcript-muslim-power" target="_blank">Asra Q. Nomani. </a></p><p>Omeish made the comments at a September 2019 American Muslims for Palestine (AMP) fundraising event. She said,<em> "I'm running for Fairfax County School Board at large. And I want to make the connection tonight between local politics…[and] the Palestinian issue… These are conversations that start in the classrooms."</em></p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">EXCLUSIVE  Abrar Omeish speaking at fundraiser in 2019 for American Muslims for Palestine</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=O1qD3TXniGg&amp;embeds_euri=https%3A%2F%2Fasrainvestigates.substack.com%2F&amp;feature=emb_imp_woyt" target="_blank">www.youtube.com</a>
+</small>
+</p><p><em>"We love talking politics at the dinner table… And I implore you… we need the Muslim community to turn out, because when we turn out… we are money, we're votes, and that means power. And wallahi [swear to Allah], I cannot tell you how many times people talk… about the Muslim power."</em><br /></p><p><em><em>"So, the Fairfax County School Board manages who knows how much money?… The Fairfax County School Board manages three billion dollars. That's just one school board in Northern Virginia. That is over half of the Fairfax County budget, OK? We're talking big money, and this gets funneled, the school board entirely makes the decisions on this. These are just examples of, again, power of us needing to be involved." </em></em></p><p><em><em>"We can mobilize our community to start talking about the textbooks, and talking about the teachers, and what, you know, what they're talking about in the classrooms. And when a child is bullied, or harassed for, or called a terrorist, 'cause that happened to my own brothers in public school, those are, that's when we can actually make a change, because they know the power that stands behind our electeds."</em></em></p><p>I'm honestly not really concerned with Omeish's personal political beliefs. The problem comes when she, or anyone really, tries to push a certain agenda onto kids in public schools. Fox News <a href="https://www.foxnews.com/media/controversial-school-board-member-endorsed-curriculum-removes-islamic-terror-9-11-history-lessons" target="_blank">recently found</a> that Omeish recommended teachers use a "culturally responsive" curriculum guide for lesson plans about 9/11 history. The plan opposed using terms like "radical Islamic terror," "Islamic terrorists" and "jihadists." </p><p>The curriculum read, in part, "Do not frame the lessons as a chance to explore the definition of terrorism or a clash of two different societies/cultures. There is much disagreement about what terrorism means, and it’s often used in a biased manner."</p><p>Obviously, random Muslim kids shouldn't be bullied or called "terrorists" for their religion. But that doesn't mean 9/11 wasn't a terrorist attack. Unless of course you're <a href="https://www.louderwithcrowder.com/watch-illhan-omar-wont-call-9-11-a-terrorist-attack" target="_blank">Ilhan Omar.</a></p>
+
+## WATCH: Training Video Teaches Med Students To Bypass Parents And 'Affirm' Children's Gender Identity
+ - [https://www.louderwithcrowder.com/transgender-medical-training-video](https://www.louderwithcrowder.com/transgender-medical-training-video)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 20:21:19+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33296957&amp;width=1200&amp;height=600&amp;coordinates=0%2C80%2C0%2C0" /><br /><br /><p>Imagine you take your child to the doctor and, as the child's parent, ask the doctor to respect certain medical decisions regarding said child. Instead, the doctor (whom you are literally paying for a service) completely disregards your wishes and gangs up on you. That's exactly what med school students are being taught in South Carolina. </p><p>The Twitter account @ExposeDarkDeeds recently shared a thread of videos produced by the Medical University of South Carolina. In one, a father arrives at the doctor with his ten-year-old, gender-confused male child. While filling out a registration form, the father selects "male" as his child's gender identity. </p><p>The doctor asks the child, "Can you tell me, do you feel like a boy, like a girl, like both, or neither?” The father then explains to the doctor that his child is a male, but has recently insisted they are actually a girl. The father and his wife allowed their child to go by the gender-neutral name "Sam," but haven't "affirmed" him any further. Sam responds, "Dad, I told you, I'm a girl." </p><p>Seems like any reasonable doctor would accept the father's wishes. But it's 2023,<a href="https://www.louderwithcrowder.com/gender-affirming-seven-year-olds" target="_blank"> so of course not.</a> </p><p>The doctor instead asks Sam to clarify. Sam says, "I'm a girl." The doctor then asks the 10-year-old child how long they've known they're a girl. Sam says "a long time". </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/ExposeDarkDeeds/status/1610858148268544001"></a>
+</blockquote>
+
+<p>The training video concludes with a voiceover that explains, "In this scenario, the registration form provided an opportunity for the parent to share his child's name, pronouns, and gender identity [...] The provider was able to update the EHR after talking to Sam, to make sure that the information about Sam's pronouns and<a href="https://www.louderwithcrowder.com/jazz-jennings-themselves" target="_blank"> gender identity</a> was correct."</p><p>So in other words, doctors are being trained to bypass parent's wishes and listen only to the children, even about dramatically life-altering decisions. When I was a child, I literally hoped I was secretly a wizard who would get a letter from Hogwarts until my 11th birthday came and went, and I was left letterless. So you see the problem here. </p>
+
+## WATCH: Reporter Confronts Lori Lightfoot For Removing His Media Credentials And He Lets Her Have It
+ - [https://www.louderwithcrowder.com/lori-lightfoot-william-kelly](https://www.louderwithcrowder.com/lori-lightfoot-william-kelly)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 19:53:33+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33295512&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p> A few weeks ago, <a href="https://www.louderwithcrowder.com/lori-lightfoot-chicago-reelection" target="_blank">Lori Lightfoot lost her bid</a> for reelection as Mayor of Chicago. Most likely due to the abhorrent condition of the City of Chicago. Residents tend to dislike things like violent robbery and rampant murder. </p><p>One such resident is local reporter William J. Kelly, who actually had his press credentials stripped by Lori Lightfoot. Kelly attended a public council meeting and let the Mayor have it. </p><p><em>"On a weekly basis, I was going viral, asking you obvious questions. And instead of answering them, you told me that crime was down. My videos went viral, millions of views, comments, likes, and shares. And it was hurting your reelection campaign. So you revoked my media credentials. That should never happen in a free country." </em></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/mrctv/status/1636427263162961921"></a>
+</blockquote>
+
+<p>But he didn't stop there. He went on to excoriate Lightfoot's mayorship:<em> "I feel like this is more of a victim impact statement than an actual public comment. What you've done to me, is nothing compared to what you've done to my city, the City of Chicago." </em></p><p><em>"You shut down our schools, you shut down the churches, you shut down the businesses [...] Future historians are going to have a hard time understanding how you ever even became Mayor of the City of Chicago. I intend to write that book [...] </em><em>I hope you will pack your suitcase and get the hell out of my city.”</em></p><p>Daaaang. That was harsh. But not unfounded. Worries over <a href="https://www.louderwithcrowder.com/chicago-mayor-dont-carry-cash" target="_blank">crime and public safety</a> were the <a href="https://nypost.com/2023/02/28/chicago-mayor-lori-lightfoots-fate-in-doubt-as-polls-close/" target="_blank">biggest concern of voters</a> last month, and ultimately, what led to Lightfoot's loss. Chicago had 695 murders at the end of 2022, and 804 in 2021- numbers not seen in the city in 25 years. </p><p>Lightfoot, however, claimed a different reason for her downfall - her race and sex. When asked if she felt she had been treated unfairly, she <a href="https://www.nationalreview.com/news/im-a-black-woman-in-america-chicago-mayor-lori-lightfoot-blames-election-loss-on-racism-sexism/" target="_blank">replied</a>, <em>"I’m a black woman in America. Of course.”</em><em></em></p><p>I don't know about that one. I really think it's just all the murder. </p>
+
+## Watch: Conor McGregor shocks Hannity with f-bomb live on air, but makes up for it with million-dollar donation
+ - [https://www.louderwithcrowder.com/conor-mcgregor-curses-fox-news](https://www.louderwithcrowder.com/conor-mcgregor-curses-fox-news)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 18:10:03+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33289974&amp;width=1245&amp;height=700&amp;coordinates=1%2C0%2C0%2C0" /><br /><br /><p>It's been a minute since we heard from UFC star Conor McGregor (who identifies using the pronoun "himself"). He's back and cursing up a storm on Fox News.</p><p>McGregor broke his leg during a fight in the summer of 2021. Now in 2023, he returns to the UFC to coach on their reality show <em>The Ultimate Fighter</em> and will be co-starring in the *sigh* remake of the 80's classic <em>Roadhouse</em>. McGregor was on with Sean Hannity last night, joined by Frank Siller, who runs the Tunnel to Towers Foundation. T2T is a charity that supports military families and first responders, started after Frank's brother Stephen lost his life on 9/11.</p><p>Conor was very excited. Maybe a little too excited.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Conor McGregor dropped an F-Bomb on Hannity 🤣 <a href="https://t.co/BcssALX9jS">pic.twitter.com/BcssALX9jS</a><br />— ALX 🇺🇸 (@alx) <a href="https://twitter.com/alx/status/1636184730742685697?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote> </div><p>“Frank, I’m honored to support you. I’m honored to say your brother Stephen is a f*cking...excuse me…is a hero.”</p><p>As Frank said, Conor was right the first time. And in Conor's defense, he didn't say "f*cking." He said, "fookin'." It's Irish.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="8ca5f" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33290289&amp;width=980" />
+</p><p>He also whipped out a million-dollar donation to the Tunnel to Towers Foundation on behalf of Proper Twelve, Conor's Irish whiskey.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="a6af1" src="https://www.louderwithcrowder.com/media-library/image.png?id=33290379&amp;width=980" />
+</p><p>There hasn't been this much excitement on Fox News since ... honestly, I can't even say. Facebook will throttle both topics I was thinking of. The first was the Schmanuary Schmix tapes. The other was when they called Schmarizona in the 2020 schmlection.</p><p>It's gonna be fun to have Conor back in the UFC and on television. A Happy St. Patrick's Day to everybody!</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Liberal media runs out of reasons to attack Ron DeSantis, are now attempting to shame him for how he eats...pudding
+ - [https://www.louderwithcrowder.com/ron-desantis-pudding](https://www.louderwithcrowder.com/ron-desantis-pudding)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 17:29:02+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=33289732&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Ron DeSantis hasn't even announced he's running for president yet, and the media has run out of things to talk about. They are resorting to how he eats pudding. Yes, pudding. Ron DeSantis eats pudding weird. Something, something. He is now no longer qualified to run for president.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="f38f5" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33289775&amp;width=980" />
+</p><p>Left-wing gossip rag The Daily Beast has the scoop. According to ex-DeSantis staffers, the governor doesn't have the best social skills. Please keep in mind, the current president likes to sniff little children. But DeSanits, according to ex-staffers, is the one without social skills. The story to illustrate this claim is an incident on an airplane from years ago where Ron DeSantis ate pudding with his fingers.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">The pudding incident, which former DeSantis staffers describe as a common instance of him not reading the room (in this case, a very intimate flight cabin): <a href="https://t.co/KEwA7F9Pgr">https://t.co/KEwA7F9Pgr</a> <a href="https://t.co/s29MjZB4Ml">pic.twitter.com/s29MjZB4Ml</a><br />— Jake Lahut (@JakeLahut) <a href="https://twitter.com/JakeLahut/status/1636337913230139394?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote> </div><p>And I quote: "Enshrined in DeSantis lore is an episode from four years ago: During a private plane trip from Tallahassee to Washington, D.C., in March of 2019, DeSantis enjoyed a chocolate pudding dessert — by eating it with three of his fingers, according to two sources familiar with the incident."</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="b4966" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33289795&amp;width=980" />
+</p><p>Besides the pudding incident, DeSantis also (allegedly) is a messy eater and devours food in meetings. Not unlike how he <a href="https://www.louderwithcrowder.com/desantis-hotel-liquor-license" target="_blank">devours leftists</a> and <a href="https://www.louderwithcrowder.com/andrea-mitchell-apologizes-team-desantis" target="_blank">the media</a> when they go on the attack. </p><p>Of course, you can count on other jorunalsimers to amplify this stunning display of journalisming.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">“Enshrined in DeSantis lore is an episode from four years ago: During a private plane trip from Tallahassee to Washington, D.C., in March of 2019, DeSantis enjoyed a chocolate pudding dessert—by eating it with three of his fingers” <a href="https://t.co/13GqsGRsLD">https://t.co/13GqsGRsLD</a><br />— Jonathan Lemire (@JonLemire) <a href="https://twitter.com/JonLemire/status/1636354805986742272?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote> </div><p>At best, this is trolling. The Daily Beast knows how <a href="https://www.louderwithcrowder.com/donald-trump-charlie-crist" target="_blank">predictable and easily manipulated DeSantis' main rival for the presidential nomination is</a>. He'll repeat this leftist attack on DeSantis knowing his fanbois will run with it.</p><p>At worst, there is someone working in media who thinks this is an attack that is going to stick to DeSantis. They haven't caught on that it's 2023. "Binders full of women" and "what about your gaffes" doesn't fly anymore.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p><br /></p>
+
+## A biological male, who competed for boys until this year, leads girl's track team to state championship
+ - [https://www.louderwithcrowder.com/chloe-barnes-track-state-championship](https://www.louderwithcrowder.com/chloe-barnes-track-state-championship)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 14:16:46+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33288780&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p><em></em>Last month, Brookline High School in Massachusetts <a href="https://www.dailymail.co.uk/news/article-11864437/Transgender-girl-helped-high-schools-track-field-team-secure-state-victory.html?ito=social-twitter_mailonline" target="_blank">won the state track and field championship</a> for the girl's team. One of the students who played a role in winning the title was Chloe Barnes, who finished fourth in the girl's 55M hurdles. This fourth-place finish helped the school secure the points needed to clinch the victory. </p><p>Oh, and until this year, Chloe competed on the boy's team. Because Chloe is a biological male. </p><p>Understandably, this has caused quite an uproar. The female-athlete advocacy group ICONS Women said that Chloe kept another girl from participating in the finals, pointing out that boys' hurdles are taller than girls' hurdles, making it easier for Barnes to compete against the girls. Plus, earlier in the season, Chloe helped the girl's 4x200-meter relay team win a race. Video of that race shows Chloe sprinting ahead of her female competitors, at about 5:57:40 in the video below. Chloe also appears to purposely slow down two times.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/icons_women/status/1635526371471691776"></a>
+</blockquote>
+
+<p>However, Chloe is simply following state policy by competing against the girls:  <em>"Students who are transgender may participate in accordance with the gender identity they consistently assert at school. Interscholastic athletic activities are addressed through the Massachusetts Interscholastic Athletic Association Gender Identity Policy (MIAA) clarification." </em></p><p>Last year, Chloe preemptively addressed would-be critics of their decision to compete against girls by telling a school newspaper, "deal with it. Just deal with it." As a former track athlete myself, I know just how demoralizing it is to miss a final or award by a single spot. I can only imagine how much worse it would be to lose that spot to someone with an inherent biological advantage over you. </p><p>Unfortunately these types of <a href="https://www.louderwithcrowder.com/usa-powerlifting-court" target="_blank">stories</a> are popping up across the country more and more frequently. On the bright side, it does seem like the tide is slowly turning on this issue, likely due to athletes like <a href="https://www.louderwithcrowder.com/ncaa-swimmer-choked-up" target="_blank">Riley Gaines</a> who have <a href="https://www.louderwithcrowder.com/marcellus-wiley-trans-sports" target="_blank">spoken out against it</a>. So perhaps one day women's sports will once again exclusively belong to women. A (biological) girl can dream. </p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">2023 MSTCA Northeast Invitational Day 2</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?time_continue=21504&amp;v=FqY-27ji0hM&amp;embeds_euri=https%3A%2F%2Fwww.outkick.com%2F&amp;feature=emb_logo" target="_blank">www.youtube.com</a>
+</small>
+</p>
+<p><br /></p><p><br /></p>
+
+## Student's shocking testimony: Teacher assigned mandatory 'equity' survey she couldn't tell her parents about
+ - [https://www.louderwithcrowder.com/student-minnesota-survey-parents](https://www.louderwithcrowder.com/student-minnesota-survey-parents)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 14:09:39+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=32853960&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C2" /><br /><br /><p>It's sad for our children to be on the front lines exposing the radical leftist garbage their teachers are trying to indoctrinate our children with. It's sad when it's a <a href="https://www.louderwithcrowder.com/school-board-minnesota" target="_blank">high school student speaking out</a> and <a href="https://www.louderwithcrowder.com/teacher-student-tiktok-classroom" target="_blank">taking hidden videos</a>. When it's a fourth-grader, this is where you start throwing chairs and wind up being dragged out of a meeting by the sergeant-at-arms.</p><p>This girl is a fourth-grader from Minnesota. She went to the school board because of the teacher giving something we'll call a CRT-adjacent assignment that was a) confusing, b) questionable, and c) the students were told not to tell their parents about. Please try to contain your emotions until I say when.</p><p>This video is from 2022. But with Lt. Gov. Peggy Flanagan's comments yesterday that p<a href="https://www.louderwithcrowder.com/minnesota-lt-governor-grown-ups" target="_blank">arents should shut up and do whatever their kids tell them to do</a>, this video is a reminder of how much the left HATES parents having ANY say in their kids' upbringing.</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">Student says she was told not to discuss CRT survey with parents</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/fq1hHzSFdHk" target="_blank">youtu.be</a>
+</small>
+</p><blockquote>My teacher said that I could not skip any questions even when I didn't understand them. One question asked us what gender we identify with. I was very confused along with a lot of other classmates.<br /><br />A boy in my class asked my teacher if his mom could explain the question to him because even after the teacher explained it he still didn't understand. My teacher told him that he was not allowed to ask his mom and that we cannot repeat any of the questions to our parents.</blockquote><p>Don't get angry yet. There's more.</p><blockquote>I want the school board to know how uncomfortable and nervous this made me. My mom always tells me I can tell her anything, but she also tells me I can trust my teachers too. Being asked to hide this from my mom made me feel very uncomfortable ... like I was doing something wrong.</blockquote><p>Hold off on the anger. You need to know that the public school district, funded by your extortionate school taxes, <a href="https://www.bizpacreview.com/2021/07/23/minnesota-student-testifies-she-was-told-to-keep-schools-equity-survey-secret-from-her-parents-1107583/" target="_blank">paid and commissioned a radical left-wing activist group to conduct the survey</a>.</p><p>Okay, now.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img class="rm-shortcode" id="165b0" src="https://www.louderwithcrowder.com/media-library/image.gif?id=27046983&amp;width=980" />
+</p><p>"Equity" being one of the left's new market-tested buzzwords because the actual word, MARXISM, doesn't poll well.</p><p>I don't want to say all teachers are horrible and looking to play our kids against their parents and against their others. I'm sure many of them just wanna teach. But the bad ones like this fourth-grade teacher need to be called out and shamed. And the good ones need to start speaking out because, according to the nation's largest teachers' union, <a href="https://www.louderwithcrowder.com/feeds/Student%20Offers%20Shocking%20Testimony:%20Teacher%20Assigned%20Mandatory%20'Equity'%20Survey%20She%20Couldn't%20Tell%20Parents%20About" target="_blank">all of you agree with this bulllshit</a>.</p><p>Fourth-graders should be playing softball and soccer. Not going to school board meeting because their teacher is a horrible human being.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Watch as Joe Rogan dismantles all the woke arguments for plant-based 'meat' in an epic rant
+ - [https://www.louderwithcrowder.com/joe-rogan-meat-plant-base](https://www.louderwithcrowder.com/joe-rogan-meat-plant-base)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 13:31:48+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33288596&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p><a href="https://www.louderwithcrowder.com/joe-rogan-trump-biden-2024" target="_blank">Joe Rogan</a> recently went off of plant-based "meat" and promptly destroyed every pro-climate argument for consuming soy and <a href="https://www.louderwithcrowder.com/fake-meat-executive-bites-nose" target="_blank">seed-oil-packed "burgers"</a>. Rogan was speaking with journalist <a href="https://www.louderwithcrowder.com/matt-taibbi-congressional-hearing" target="_blank">Matt Taibbi</a>, one of the journalists who worked with Elon Musk on the Twitter Files. </p><p><em>"When all those people with saying plant-based meat is the future, like the f*ck it is. It’s really bad for you. It’s really bad for you. <em>This idea if one life equals one life, you’re way better off buying cows and eating cows than you are buying corn. Because in order to grow a stalk of corn, a lot of sh*t has to die." </em></em></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/itsNTBmedia/status/1636326832147423232"></a>
+</blockquote>
+<p>He went on to explain how mono-crop agriculture and industrial farming methods are totally unnatural and kill off everything besides the one plant being grown. <em>"You have to kill all the animals, you have to strip the topsoil, you have to use industrialized fertilizer. You can't grow things that way normally." </em></p><p>He then pointed out how farmers use cows grazing and manure to help maintain the natural balance of the ecosystem, which is completely eliminated with plant-based "meat". </p><p><em>"You’re suppo</em><em>rting mono-crop agriculture, industrialized farming and you are supporting very unhealthy food.”</em></p><p>And it is so true. I used to be a veggie burger kind of gal until I grew up and started eating real meat, and I've never felt healthier. If you're still on the fence, I sympathize. But here's a simple comparison for you. A single <a href="https://impossiblefoods.com/products/burger/patty-2-pack" target="_blank">Impossible Burger</a> contains: "Water, Soy Protein Concentrate, Sunflower Oil, Coconut Oil, Natural Flavors, Methylcellulose, Cultured Dextrose, Food Starch Modified, Yeast Extract, Soy Leghemoglobin, Salt, Mixed Tocopherols (Antioxidant), L-tryptophan, Soy Protein Isolate, Zinc Gluconate, Niacin, Thiamine Hydrochloride(Vitamin B1), Pyridoxine Hydrochloride (Vitamin B6), Riboflavin (Vitamin B2), Vitamin B12." </p><p>A single burger contains: beef. Maybe salt. And it doesn't require entire swaths of land to be cleared away for corn and soy production. So perhaps it's time for everyone to take the red (meat) pill. </p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p>
+
+## New ETF does the exact opposite of what Jim Cramer recommends and it's already beating the market
+ - [https://www.louderwithcrowder.com/jim-cramer-inverse](https://www.louderwithcrowder.com/jim-cramer-inverse)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 13:18:44+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=33288432&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>The "for entertainment purposes only" of this joint needs to be stressed. It involves stocks. I'm an idiot. If you take any investment tips from any random thing you see on the internet, you probably own as many shares of PENN as I do. Okay? Okay.</p><p>All that said, <a href="https://www.louderwithcrowder.com/jim-cramer-trump-fired" target="_blank">Jim Cramer</a> is an easy target and this is damn funny. A new ETF (exchange-traded fund) decided to say BOOYAH and do the exact opposite of what Jim Cramer recommends on CNBC's Mad Money. They are now BEATING the market.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">ITS BEEN A WEEK SINCE THE INVERSE JIM CRAMER ETF WENT LIVE ITS ALREADY OUT PERFORMING THE MARKET BY 5%<br /><br />INVERSE CRAMER NEVER FAILS <a href="https://t.co/FSpynZoHi3">pic.twitter.com/FSpynZoHi3</a><br />— GURGAVIN (@gurgavin) <a href="https://twitter.com/gurgavin/status/1635481834497753090?ref_src=twsrc%5Etfw">March 14, 2023</a></blockquote> </div><p>It's the Inverse Cramer Tracker ETF, filed by Tuttle Capital Management (I'm about to say a bunch of words I don't understand). CEO <a href="https://www.marketwatch.com/story/love-him-or-hate-him-new-etfs-let-investors-bet-on-or-against-jim-cramer-and-his-stock-picks-3b939713?mod=mw_quote_news" target="_blank">issued a statement on the polarizing Cramer</a>: "We want to give investors on both sides of the debate a way to express their views, and create products that can provide diversification to traditional portfolios."</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="afcdb" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33288494&amp;width=980" />
+</p>
+<p>Cramer has a reputation for not having the best stock tips, even though he has a television show on a financial news channel to give stock tips. <a href="https://www.louderwithcrowder.com/jon-stewart-climate-justice-rebuttal" target="_blank">Jon Stewart</a> slapping him around and calling him Susan about it back in 2009 <a href="https://en.wikipedia.org/wiki/Jon_Stewart%E2%80%93Jim_Cramer_conflict" target="_blank">is so notorious it has its own WikiPedia page</a>. </p><p>The timing of the launch of the ICT ETF is what's most ironic. Two of Cramer's recent BUYS have been called into question: Silicon Valley Bank and Signature Bank. If you caught any of the financial news this week and/or need to pour yourself a drink before checking your 401K, you know that neither bank exists anymore.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Jim Cramer said Silicon Valley Bank was a buy last month at $320<br /><br />Today it is being closed by California regulators <a href="https://t.co/x1xMBTrQTS">pic.twitter.com/x1xMBTrQTS</a><br />— Inverse Cramer (Not Jim Cramer) (@CramerTracker) <a href="https://twitter.com/CramerTracker/status/1634237672997699602?ref_src=twsrc%5Etfw">March 10, 2023</a></blockquote> </div><p><br /></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">2022: Jim Cramer recommends Signature Bank.<br /><br />2023: Signature Bank shuts down.<br /><br />How does he do it? <a href="https://t.co/2QskFTUPe6">pic.twitter.com/2QskFTUPe6</a><br />— kanekoa.substack.com (@KanekoaTheGreat) <a href="https://twitter.com/KanekoaTheGreat/status/1635063605245931522?ref_src=twsrc%5Etfw">March 12, 2023</a></blockquote> </div><p>As stated at the beginning, this post is for entertainment purposes only. However, if I were someone who makes stock tips for a living and people were making more money doing the opposite of what I tell them to do, I'd be inclined to stop giving stock tips.</p><p>Thankfully for Cramer, he works in corporate media. Failing up is the only tip you can count on.</p><p><p>
+<em><strong>Editor’s Note</strong>
+</em>
+</p>
+<p>
+<em><strong><a href="https://lwcnewswire.substack.com/" target="_blank">LwC is on Substack now</a></strong>! Each day we overwhelm your brains with the content you've come to love from the Louder with Crowder Dot Com website.. but algorithms hide our ranting and raving as best they can. The best way to stick it to Big Tech? </em><strong><a href="https://lwcnewswire.substack.com/" target="_blank"><em>Subscribe to For the Content!</em></a></strong>
+</p></p>
+
+## Watch: Stephen Colbert asks Kamala Harris to simply explain her job and you can see her brain short circuit
+ - [https://www.louderwithcrowder.com/kamala-harris-stephen-colbert-job](https://www.louderwithcrowder.com/kamala-harris-stephen-colbert-job)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 13:10:09+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33288492&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p><a href="https://www.louderwithcrowder.com/late-night-biden-document-scandal" target="_blank">Stephen Colbert</a> hit Vice President<a href="https://www.louderwithcrowder.com/andrea-mitchell-kamala-harris-desantis" target="_blank"> Kamala Harris </a>with a zinger of a question last night: "what exactly <em>do</em> you do here?"</p><p>Ok, he didn't phrase it quite like that, but he might as well have. He began the conversation by referencing the HBO comedy show Veep: <em>"One of the themes of the show is that her character, Selina Meyer, is frustrated by the sometimes vague duties of the role. It’s a high constitutional office but does not describe what you’re supposed to be doing. Does that ring true? Like, what’s the actual role on a daily basis as you have found it?"</em></p><p>Kamala, of course, promptly rambled, cackled, and 100% avoided answering the question. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/tomselliott/status/1636328652890681344"></a>
+</blockquote>
+
+<p><em>"Well, I have the great privilege of serving with Joe Biden, who is the President of the United States… and was Vice President [...] He really is a true partner and he understands that job."  </em>She then rambled on about how she came in during the "height of the pandemic" and what an extraordinary leader Joe Biden is. When he's sentient.</p><p>Colbert didn't let her get away with such an obvious dodge of the question: <em>"That's an excellent answer and, uh, the question was what's the job of the Vice President. And your answer is part of the job, I'm guessing."</em></p><p>She then gave an example of one of her recent "duties": accusing Russia of crimes against humanity. Oh. How's that <a href="https://www.louderwithcrowder.com/kiessling-fentanyl-testimony" target="_blank">southern border</a> looking, Ms. Border Czar?</p><p>Good for Stephen Colbert for not letting her off easy. Her answer just seems to confirm that she either has absolutely no idea what her job is, or simply doesn't do anything. Plus, combined with Joe Biden's dementia, this paints a concerning picture of what's going on inside the Oval Office. Who the heck is <em>actually</em> running the country? Obama? Zelenskyy? Marianne Williamson? The world may never know. </p>
+
+## Jimmy Kimmel's close ties to a Jeffrey Epstein associate get called into question
+ - [https://www.louderwithcrowder.com/jimmy-kimmel-chef-instagram](https://www.louderwithcrowder.com/jimmy-kimmel-chef-instagram)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 12:22:23+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33287754&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Let's be clear right away. Glorified DNC spokesman Jimmy Kimmel palling around with Jeffrey Epstein's personal chef does NOT mean Kimmel's name would be found on Epstein's client list. But the streets are talking. I'm only listening to the streets and relaying the information here. You are free to choose who to believe just like Melinda Gates is free to believe <a href="https://www.louderwithcrowder.com/melinda-gates-bill-epstein" target="_blank">if she thinks Bill Gates and Epstein "only had dinner once."</a></p><p>The associate in question is Epstein's former personal chef Adam Perry Lang. Former, because as we all know, <a href="https://www.louderwithcrowder.com/ghislaine-maxwell-interview-epstein" target="_blank">Epstein "killed" himself."</a></p><p><a href="https://thepostmillennial.com/revealed-jimmy-kimmel-is-close-friends-with-jeffrey-epsteins-associate-former-private-chef" target="_blank">The Post Millennial reports</a> Lang "is seen in a number of posts on Kimmel’s Instagram, including most recently the pair being seen at the Oscars behind the scenes, as well as another post of the two gathering for Super Bowl Sunday last month."</p><p>A <a href="https://www.eater.com/2019/9/13/20857580/adam-perry-lang-jeffrey-epstein-private-chef" target="_blank">2019 article from Eater CONFIRMS</a> Lang worked as Epstein's private chef from 2000-2021. Lang swears, "My role was limited to meal preparation. I was unaware of the depraved behavior and have great sympathy and admiration for the brave women who have come forward." </p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="0b00e" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33287998&amp;width=980" />
+</p><p>While Lang was unaware of Epstein's depraved behavior, he also flew on Epstein's private jet and stayed in Epstein's home. There must not have been any of that depraved behavior going on when he did.</p><p>Why the streets are talking about this now is because of Kimmel's odd attack on <a href="https://www.louderwithcrowder.com/aaron-rodgers-new-york-jets" target="_blank">future New York Jets quarterback Aaron Rodgers</a>. Kimmel claims Rodgers was a conspiracy theorist for wanting to see Jeffrey Epstein's client list. Rodgers finds it odd that for a powerful convicted pedophile, the media would not have uncovered a list of who his associates were. <a href="https://www.louderwithcrowder.com/jeffrey-epstein-videos" target="_blank">Or any videos that are said to exist</a>. Kimmel thinks that's tinfoil hat sh*t.</p><p>It's not the first time alleged ties between Kimmel and convicted pedophile and prominent democrat Jeffrey Epstein have been implied. In 2022, MMA fighter Joel Bauman used his post-match victory to make unverified claims: “Secondly, Jimmy Kimmel, viral this. I fight to eradicate childhood malnutrition from the planet. And until they release the flight logs, you, the mainstream media, Hollywood, you’re all pedophiles to me. Eat d*ck!”</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">UFC fighter Joel Bauman put Hollywood and the mainstream media on notice during a post-fight interview, saying he’s going to assume they’re all pedophiles until the flight logs of deceased billionaire Jeffrey Epstein (Didn't Kill Himself) are released. <a href="https://t.co/kLzpPNNTTZ">pic.twitter.com/kLzpPNNTTZ</a><br />— No1Waffler (@No1Waffler) <a href="https://twitter.com/No1Waffler/status/1561775031344156675?ref_src=twsrc%5Etfw">August 22, 2022</a></blockquote> </div><p>Again, I can't stress this enough, no one at the Louder with Crowder Dot Com website is claiming Jimmy Kimmel has any ties to Jeffrey Epstein. Or may be on Epstein's client list, hence why Kimmel would think the client list is a conspiracy theory. </p><p>We're just saying...the streets are talking. Take the streets for what they are.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Watch: Woke democrat gets savaged for claim "good parenting" means grown-ups believing whatever their kids tell them to
+ - [https://www.louderwithcrowder.com/minnesota-lt-governor-grown-ups](https://www.louderwithcrowder.com/minnesota-lt-governor-grown-ups)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-16 11:49:12+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33287483&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Minnesota just declared itself a sanctuary state for minors looking to have their genitals chopped off. Supporters call this "gender reassignment" surgery. <a href="https://www.louderwithcrowder.com/biden-sinful-team-desantis" target="_blank">Critics call it genital mutilation</a>. It's important to present both sides of an argument. Lt. Governor Flanagan is on the side of children getting their gender reassigned. She says that's what a good parent does.</p><p>Seriously. Peggy claims being a grown-up means believing whatever your children tell you to believe.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">MN Lt. Gov. Peggy Flanagan on sex changes for minors: "When our children tell us who they are, it is our job as grown-ups to listen and to believe them. That's what it means to be a good parent." <a href="https://t.co/WNXjGRgjsm">pic.twitter.com/WNXjGRgjsm</a><br />— Alpha News (@AlphaNewsMN) <a href="https://twitter.com/AlphaNewsMN/status/1636146393130627079?ref_src=twsrc%5Etfw">March 15, 2023</a></blockquote> </div><p>New York and California are in the mix, but Minnesota remains the wokest state in the country. It's the one state that DIDN'T vote for Ronald Reagan. Small businesses are <a href="https://www.louderwithcrowder.com/minnesota-ag-lawsuit" target="_blank">sued for the violent crimes committed AGAINST them</a>. Grown-ups <a href="https://www.louderwithcrowder.com/toddler-police-officers" target="_blank">listen to their toddlers when their toddlers tell cops to go f*ck themselves</a>. And <a href="https://www.louderwithcrowder.com/student-minnesota-survey" target="_blank">"don't tell your parents" starts as young as the fourth grade</a>.<br /></p><p>There are flaws to Peggy's guide to parenting, though. Least of all is that if Peggy's kid told her they were someone who wanted to learn how to fire a gun or thought Tucker Carlson has some good ideas, Peggy would not be grown-up enough to listen. Only if her son told her she wanted to chop his balls off and try out for the girls track team.</p><p>Peggy says it's a grown-up's job to be a "good parent" and believe whatever their kids tell them as long as what they tell them is what progressives believe that week. But what if it's something else? What if your kid, <a href="https://twitter.com/redsteeze/status/1636201871626113024" target="_blank">as commentator Stephen Miller wonders</a>, believes they're Frankenstein? Should you superglue bolts to their neck and them hook up the jumper cables?</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="6353f" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33287698&amp;width=980" />
+</p>
+<p><a href="https://twitter.com/jtLOL/status/1636319054104260609" target="_blank">Comedy writer Jim Treacher remembers</a> when he was convinced he was Batman as a kid. He just couldn't convince his parents to "walk down that dark ally."</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="37e8c" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33287709&amp;width=980" />
+</p>
+<p><a href="https://twitter.com/justin_hart/status/1633960919863803905" target="_blank">Author Justin Hart's four-year-old daughter</a> says she is The Hulk. According to Peggy, is it time to shoot her up with gamma radiation?<br /></p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="874df" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33287710&amp;width=980" />
+</p>
+<p>Or as <a href="https://twitter.com/ShuForCongress/status/1636216910592323584" target="_blank">congressional candidate Shukri Abdiraham asks</a>, what if your kid tells you they are Jesus Christ? "Would you (the grown-up & good parent) address your child as Messiah before crucifying xhem?"</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="70087" src="https://www.louderwithcrowder.com/media-library/image.gif?id=33287717&amp;width=980" />
+</p>
+<p>I don't think Peggy has thought this through. But then again, I don't think radical leftists and the people who control Joe Biden have thought this through either.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+

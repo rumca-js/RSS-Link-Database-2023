@@ -1,0 +1,241 @@
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
+
+## Hyper Light Breaker trailer shows off first gameplay in 'infinite open worlds'
+ - [https://www.pcgamer.com/hyper-light-breaker-trailer-shows-off-first-gameplay-in-infinite-open-worlds](https://www.pcgamer.com/hyper-light-breaker-trailer-shows-off-first-gameplay-in-infinite-open-worlds)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 22:57:02+00:00
+
+It's a vast departure from the first game, but the worlds on display here are stunning.
+
+## Quest for Glory's creators are about to release their first visual novel
+ - [https://www.pcgamer.com/quest-for-glorys-creators-are-about-to-release-their-first-visual-novel](https://www.pcgamer.com/quest-for-glorys-creators-are-about-to-release-their-first-visual-novel)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 22:29:02+00:00
+
+Summer Daze: Tilly's Tale will be their first game focused almost entirely on story.
+
+## Strapping a rearview mirror to an FPS should not work this well
+ - [https://www.pcgamer.com/strapping-a-rearview-mirror-to-an-fps-should-not-work-this-well](https://www.pcgamer.com/strapping-a-rearview-mirror-to-an-fps-should-not-work-this-well)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 22:24:41+00:00
+
+Shooting backward to propel the FPS forward in Hellscreen's first episode.
+
+## Streamer who got busted with deepfake porn of other streamers is now crusading against deepfake porn
+ - [https://www.pcgamer.com/streamer-who-got-busted-with-deepfake-porn-of-other-streamers-is-now-crusading-against-deepfake-porn](https://www.pcgamer.com/streamer-who-got-busted-with-deepfake-porn-of-other-streamers-is-now-crusading-against-deepfake-porn)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 21:53:52+00:00
+
+Six weeks after a tearful apology, Brandon “Atrioc” Ewing says he now wants to help streamers get deepfake videos taken offline.
+
+## Razer would very much like you to not set fires or bash anyone over the head with its 'first-ever glass gaming mouse mat'
+ - [https://www.pcgamer.com/razer-would-very-much-like-you-to-not-set-fires-or-bash-anyone-over-the-head-with-its-first-ever-glass-gaming-mouse-mat](https://www.pcgamer.com/razer-would-very-much-like-you-to-not-set-fires-or-bash-anyone-over-the-head-with-its-first-ever-glass-gaming-mouse-mat)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 21:50:09+00:00
+
+The new Razer Atlas mousepad comes with some very specific instructions.
+
+## You can get the most underrated hidden gem of 2022 for just 6 bucks on Steam right now
+ - [https://www.pcgamer.com/you-can-get-the-most-underrated-hidden-gem-of-2022-for-just-6-bucks-and-change-on-steam-right-now](https://www.pcgamer.com/you-can-get-the-most-underrated-hidden-gem-of-2022-for-just-6-bucks-and-change-on-steam-right-now)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 21:39:56+00:00
+
+DreamWild is a captivating little game, and more people need to play it.
+
+## The best deals in the 2023 Steam Spring Sale
+ - [https://www.pcgamer.com/the-best-deals-in-the-2023-steam-spring-sale](https://www.pcgamer.com/the-best-deals-in-the-2023-steam-spring-sale)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 21:07:47+00:00
+
+Spring cleaning? Not for our Steam accounts! There are deals to be had.
+
+## Steam Decks are on sale for 10% off right now
+ - [https://www.pcgamer.com/steam-decks-are-on-sale-for-10-off-right-now](https://www.pcgamer.com/steam-decks-are-on-sale-for-10-off-right-now)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 20:42:49+00:00
+
+Valve celebrates the Steam Deck's first birthday by putting it on sale for the first time.
+
+## The Future Games Show Spring Showcase airs next week with over 45 games
+ - [https://www.pcgamer.com/the-future-games-show-spring-showcase-airs-next-week-with-over-45-games](https://www.pcgamer.com/the-future-games-show-spring-showcase-airs-next-week-with-over-45-games)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 20:25:16+00:00
+
+Several games will have Steam demos go live immediately after too.
+
+## Shroud and Sacriel are making a new survival game with Splash Damage
+ - [https://www.pcgamer.com/shroud-and-sacriel-are-making-a-new-survival-game-with-splash-damage](https://www.pcgamer.com/shroud-and-sacriel-are-making-a-new-survival-game-with-splash-damage)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 19:36:59+00:00
+
+The studio says that partnering with the Twitch streamers  marks the start of "an exciting new era."
+
+## Stranger of Paradise: Final Fantasy Origin comes to Steam with a discount next month
+ - [https://www.pcgamer.com/stranger-of-paradise-final-fantasy-origin-comes-to-steam-with-a-discount-next-month](https://www.pcgamer.com/stranger-of-paradise-final-fantasy-origin-comes-to-steam-with-a-discount-next-month)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 17:48:37+00:00
+
+If I had to guess, I'd say it's going there to kill Chaos.
+
+## Disco Elysium gets a supercharged photo mode, free for everyone
+ - [https://www.pcgamer.com/disco-elysium-gets-a-supercharged-photo-mode-free-for-everyone](https://www.pcgamer.com/disco-elysium-gets-a-supercharged-photo-mode-free-for-everyone)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 17:44:06+00:00
+
+The new mode lets you set the scene, snap some shots, and maybe even discover some secrets.
+
+## PC Gamer Chat Log Episode 3: What makes a good crafting game?
+ - [https://www.pcgamer.com/pc-gamer-chat-log-episode-3-what-makes-a-good-crafting-game](https://www.pcgamer.com/pc-gamer-chat-log-episode-3-what-makes-a-good-crafting-game)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 17:25:05+00:00
+
+Crafting and survival expert Chris Livingston joins Mollie and Lauren this week.
+
+## Just when you thought PC HDR gaming couldn't possibly get more awkward this happens
+ - [https://www.pcgamer.com/just-when-you-thought-pc-hdr-gaming-couldnt-possibly-get-more-awkward-this-happens](https://www.pcgamer.com/just-when-you-thought-pc-hdr-gaming-couldnt-possibly-get-more-awkward-this-happens)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 17:21:44+00:00
+
+Turns out HDR monitor performance can vary depending on your choice of AMD or Nvidia GPU.
+
+## Blizzard bans 120K WoW Classic botters and makes it harder to roll Death Knights
+ - [https://www.pcgamer.com/blizzard-bans-120k-wow-classic-botters-and-makes-it-harder-to-roll-death-knights](https://www.pcgamer.com/blizzard-bans-120k-wow-classic-botters-and-makes-it-harder-to-roll-death-knights)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 17:14:21+00:00
+
+But players want the studio to do more.
+
+## The 2023 Steam Spring Sale is live
+ - [https://www.pcgamer.com/steam-spring-sale-2023](https://www.pcgamer.com/steam-spring-sale-2023)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 17:05:38+00:00
+
+Spring isn't quite here yet, but Valve's big seasonal bargain blowout is.
+
+## Logitech G FITS
+ - [https://www.pcgamer.com/logitech-g-fits-gaming-earbuds-review](https://www.pcgamer.com/logitech-g-fits-gaming-earbuds-review)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 16:55:10+00:00
+
+<article>
+                                <p>There&apos;s a lot to be said about real-world functionality. When a product just fits into your life so easily as to push out something else that might empirically be &apos;better&apos; you know it&apos;s got something tangible to offer. That&apos;s where I am with the Logitech G FITS earbuds. They&apos;re now the buds I use on a day-to-day basis, and have replaced the gaming headset I use in the office, too.</p><p>That&apos;s because of their dual-mode wireless design and how easy it is to switch back and forth. I can wear the FITS on my walk into the office listening to stuff on my phone, switch on my PC, then one quick triple-tap and I&apos;m hooked into my desktop rig. Then, when I shut down at the end of the day, I can just walk away and it&apos;ll automatically reconnect to my phone for the bus-ride home. Yeah, I&apos;m a one-way walker. It&apos;s a big hill to get back home.</p><p>The Logitech buds are comfortable enough that wearing them for such an extended period of time isn&apos;t really an issue either. That&apos;s largely because they actually mould to your ears when you first use them. It&apos;s a slightly odd feature, and a slightly odd sensation when they&apos;re forming to your ear-holes, too, because they do get warm.</p><p>Logitech calls it Lightform and it uses UV LEDs in the buds to harden a material in the earbud tips (a photopolymer) that is designed to form to your ears&apos; individual shape. This has the combined effect of giving you a secure fit so they don&apos;t fall out, and delivers a natural sound isolation that means Logitech doesn&apos;t <em>need </em>to add any battery-draining ANC features to its buds.</p>
+<div class="fancy-box"><div class="fancy_box-title">FITS specs</div><div class="fancy_box_body"><figure class="van-image-figure "><div class="image-full-width-wrapper"><div class="image-widthsetter"><p class="vanilla-image-block" style="padding-top: 56.25%;"><img align="" alt="Logitech G FITS gaming earbuds" class="pinterest-pin-exclude" height="" id="5BPTNVPzLvYi9z2bZgADiV" name="logitec-g-fits-04.jpg" src="https://cdn.mos.cms.futurecdn.net/5BPTNVPzLvYi9z2bZgADiV.jpg" width="" /></p></div></div><figcaption class=""><span class="credit">(Image credit: Future)</span></figcaption></figure><p><strong>Drivers:</strong> 10mm<br />
+<strong>Frequency response: </strong>20Hz - 20,000Hz<br />
+<strong>Connection: </strong>Bluetooth 5.2, Lightspeed 2.4GHz USB Type-A<br />
+<strong>Weight:</strong> 7.2g (0.25 Oz)<br />
+<strong>Battery life: </strong>Lightspeed - 7hrs + 8hrs (case) | Bluetooth - 10hrs + 12hrs (case)<br />
+<strong>Warranty:</strong> 2 years<br />
+<strong>Price:</strong> <a href="https://www.logitechg.com/en-us/products/gaming-audio/fits-true-wireless-gaming-earbuds.985-001177.html" target="_blank">$230</a> | <a href="https://www.logitechg.com/en-gb/products/gaming-audio/fits-true-wireless-gaming-earbuds.985-001183.html" target="_blank">£229</a></p></div></div>
+<p>It&apos;s not as effective as dedicated active noise cancelling, and does mean in very loud environments you will get the outside world leaking in, but it&apos;s still pretty effective.</p><p>This fitting process also means you don&apos;t have to <em>jam</em> the buds into your ears in order for them to stay put, either. That&apos;s something that can become uncomfortable after a while, no matter what kinds of alternative tips other earbuds ship with.</p><p>And what of the sound? Therein lies some of the compromise. Despite the high price, you are still getting a relatively standard 10mm driver. And, while they deliver a good audio experience, I&apos;d maybe say they&apos;re a little top heavy. That&apos;s not to say you&apos;re losing out at the lower end of the scale, because there&apos;s a decent level of tonal clarity across the range, but out of the box they tend towards the high tones.</p><p>That&apos;s me picking some nits, switching from some high-end, over-ear headphones to these for a direct comparison. But in general use I&apos;ve been really pleased with the sound quality, whether I&apos;m listening to audiobooks, music, or gaming in the office when I should be working. I&apos;m testing product, that&apos;s what I tell people.</p>
+<div class="inlinegallery  inline-layout"><div class="inlinegallery-wrap" style="display: flex;"><div class="inlinegallery-item"><span class="slidecount">Image 1 of 2</span><figure class="van-image-figure "><div class="image-full-width-wrapper"><div class="image-widthsetter"><p class="vanilla-image-block" style="padding-top: 56.25%;"><img align="" alt="Logitech G FITS gaming earbuds" class="" height="1080" id="HWS249xKrfE3i2Yot4bEUV" name="logitec-g-fits-02.jpg" src="https://cdn.mos.cms.futurecdn.net/HWS249xKrfE3i2Yot4bEUV.jpg" width="1920" /></p></div></div><figcaption class=""><span class="credit">(Image credit: Future)</span></figcaption></figure></div><div class="inlinegallery-item"><span class="slidecount">Image 2 of 2</span><figure class="van-image-figure "><div class="image-full-width-wrapper"><div class="image-widthsetter"><p class="vanilla-image-block" style="padding-top: 56.25%;"><img align="" alt="Logitech G FITS gaming earbuds" class="" height="1080" id="7skibMzUMU86ApiSzZvGYV" name="logitec-g-fits-03.jpg" src="https://cdn.mos.cms.futurecdn.net/7skibMzUMU86ApiSzZvGYV.jpg" width="1920" /></p></div></div><figcaption class=""><span class="credit">(Image credit: Future)</span></figcaption></figure></div></div></div>
+<figure><blockquote><p>You don't have to jam the buds into your ears in order for them to stay put.</p></blockquote></figure>
+<p>The Logitech G FITS do have the same issue that crops up with so many different wireless earbuds, however, namely occasional connection hiccups. It&apos;s admittedly pretty infrequent, but sometimes you&apos;ll find one bud or the other not turning on when you pull them from their carry case. It then just needs quickly dropping back into the case and pulling out again, so it&apos;s only a minor annoyance. And it&apos;s something I&apos;ve experienced with pretty much every set of wireless earbuds I&apos;ve ever tested, too.</p><p>That case is kinda pleasing, though. It&apos;s a flattened egg shape, with a matte finish that makes it feel good in the hand. It also fits pretty easily into a pocket, too. Though my issue with the relatively small scale of the case is that it means you can&apos;t keep the USB dongle inside it. </p><p>The USB Type-A Lightspeed dongle (using Logitech&apos;s own 2.4GHz wireless connectivity feature) is rather chonky. Realistically you&apos;re meant to be leaving that plumbed into your desktop rig rather than taking it out and about, but it does almost preclude using it effectively with your laptop or <a href="https://www.pcgamer.com/steam-deck-review/" target="_blank">Steam Deck</a> when you&apos;re on the move. </p><p>That&apos;s where the <a href="https://www.pcgamer.com/jbl-quantum-tws-wireless-earbuds-review/" target="_blank">JBL Quantum&apos;s</a> still have an edge; the Type-C dongle is small enough to stick in their thicker case and means you always have it to hand. Still, the G FITS buds do have a secondary game-mode option, which reduces the latency when you&apos;re connected via Bluetooth 5.2.</p>
+<div class="inlinegallery  inline-layout"><div class="inlinegallery-wrap" style="display: flex;"><div class="inlinegallery-item"><span class="slidecount">Image 1 of 2</span><figure class="van-image-figure "><div class="image-full-width-wrapper"><div class="image-widthsetter"><p class="vanilla-image-block" style="padding-top: 56.25%;"><img align="" alt="Logitech G FITS gaming earbuds" class="" height="1080" id="BzuAANkMnGJvdRxCV9D3eV" name="logitec-g-fits-lightform.jpg" src="https://cdn.mos.cms.futurecdn.net/BzuAANkMnGJvdRxCV9D3eV.jpg" width="1920" /></p></div></div><figcaption class=""><span class="credit">(Image credit: Future)</span></figcaption></figure></div><div class="inlinegallery-item"><span class="slidecount">Image 2 of 2</span><figure class="van-image-figure "><div class="image-full-width-wrapper"><div class="image-widthsetter"><p class="vanilla-image-block" style="padding-top: 56.25%;"><img align="" alt="Logitech G FITS gaming earbuds" class="" height="1080" id="ZxFTcQVR8ZeYhhbCu6voPV" name="logitec-g-fits-01.jpg" src="https://cdn.mos.cms.futurecdn.net/ZxFTcQVR8ZeYhhbCu6voPV.jpg" width="1920" /></p></div></div><figcaption class=""><span class="credit">(Image credit: Future)</span></figcaption></figure></div></div></div>
+<p>Logitech has priced its G FITS buds rather high, however. And, while they do have a bit of a premium flair to them, the audio isn&apos;t quite good enough to completely sway me that they&apos;re worth their $200+ price tag. Yet if you consider they can replace the gaming headset you have plumbed into your desktop at home as well as being your out-and-about earbuds, there&apos;s maybe some value play in that dual-mode usage model. </p><p>Certainly, that&apos;s how I&apos;ve been using them in the office, and they&apos;ve easily replaced the better-sounding wired over-ear headset I traditionally use. Which, again, is testament to the power of their real-world functionality. I&apos;m a boring sort, one who will happily eschew form for function, and when something just works for me then I&apos;ll keep coming back to it. Like I&apos;ll keep coming back to the FITS now they&apos;re moulded to me own ear-holes.</p>
+                                                            </article>
+
+## Indie soulslike Bleak Faith: Forsaken is a cautionary tale written in jank
+ - [https://www.pcgamer.com/bleak-faith-forsaken-is-a-cautionary-tale-written-in-jank](https://www.pcgamer.com/bleak-faith-forsaken-is-a-cautionary-tale-written-in-jank)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 16:41:55+00:00
+
+Proof, in Soulslike form, that game development is hard.
+
+## Making like a tree is expensive with this all-wood wireless keyboard from Japan
+ - [https://www.pcgamer.com/making-like-a-tree-is-expensive-with-this-all-wood-wireless-keyboard-from-japan](https://www.pcgamer.com/making-like-a-tree-is-expensive-with-this-all-wood-wireless-keyboard-from-japan)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 15:25:15+00:00
+
+Wooda, cooda, shooda.
+
+## Someone dropped over $150K on a CS:GO gun skin and I think it's time for the revolution
+ - [https://www.pcgamer.com/someone-dropped-over-dollar150k-on-a-csgo-gun-skin-and-i-think-its-time-for-the-revolution](https://www.pcgamer.com/someone-dropped-over-dollar150k-on-a-csgo-gun-skin-and-i-think-its-time-for-the-revolution)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 14:16:07+00:00
+
+Arise, ye prisoners of VAC-ation.
+
+## Heinz brings baffling tomato and soil corporate synergy to Fortnite
+ - [https://www.pcgamer.com/heinz-brings-baffling-tomato-and-soil-corporate-synergy-to-fortnite](https://www.pcgamer.com/heinz-brings-baffling-tomato-and-soil-corporate-synergy-to-fortnite)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 13:57:47+00:00
+
+57 varieties of corporate nonsense.
+
+## Transferring game files between PCs or a Steam Deck just got a whole lot simpler
+ - [https://www.pcgamer.com/steam-game-transfer-over-local-network](https://www.pcgamer.com/steam-game-transfer-over-local-network)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 13:28:24+00:00
+
+Steam now lets you harness your local network to transfer games easily without redownloading, even on Steam Deck.
+
+## How to build stairs in Sons of the Forest
+ - [https://www.pcgamer.com/sons-of-the-forest-stairs](https://www.pcgamer.com/sons-of-the-forest-stairs)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 13:03:50+00:00
+
+Don't let your base be confined to one floor.
+
+## Get a freebie copy of Redfall with your Nvidia RTX 40-series GPU or laptop buy
+ - [https://www.pcgamer.com/redfall-free-copy-nvidia-rtx-40-series-gpu](https://www.pcgamer.com/redfall-free-copy-nvidia-rtx-40-series-gpu)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 13:02:18+00:00
+
+All current RTX 40-series desktop graphics cards qualify, plus select laptops.
+
+## Diablo 4 supports DLSS 3 at launch, devs 'excited by the high frame rate'
+ - [https://www.pcgamer.com/diablo-4-dlss-3-support](https://www.pcgamer.com/diablo-4-dlss-3-support)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 13:02:11+00:00
+
+I don't want to jinx it but Diablo 4 sounds like it might run well on all manner of PC.
+
+## Yippee, a motherboard that'll fit Corsair's ridiculous 192GB DDR5 RAM kit
+ - [https://www.pcgamer.com/yippee-a-motherboard-thatll-fit-corsairs-ridiculous-192gb-ddr5-ram-kit](https://www.pcgamer.com/yippee-a-motherboard-thatll-fit-corsairs-ridiculous-192gb-ddr5-ram-kit)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 12:40:34+00:00
+
+The Asus ROG Strix X670-E goes hard with four 48GB DDR5 memory slots.
+
+## Dwarf Fortress just announced its 'cutest update ever' and baby, it's babies
+ - [https://www.pcgamer.com/dwarf-fortress-just-announced-its-cutest-update-ever-and-baby-its-babies](https://www.pcgamer.com/dwarf-fortress-just-announced-its-cutest-update-ever-and-baby-its-babies)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 11:58:34+00:00
+
+"Everything will be baby".
+
+## Starfield subreddit surfaces Pedro Pascal movie that is like The Last of Us but with a “very Starfield-y vibe”
+ - [https://www.pcgamer.com/starfield-subreddit-surfaces-pedro-pascal-movie-that-is-like-the-last-of-us-but-with-a-very-starfield-y-vibe](https://www.pcgamer.com/starfield-subreddit-surfaces-pedro-pascal-movie-that-is-like-the-last-of-us-but-with-a-very-starfield-y-vibe)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 11:54:46+00:00
+
+It’s rated 89% on Rotten Tomatoes, too
+
+## Wordle hint and answer #635: Thursday, March 16
+ - [https://www.pcgamer.com/wordle-hint-answer-today-635-march-16](https://www.pcgamer.com/wordle-hint-answer-today-635-march-16)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 05:04:07+00:00
+
+Help with the #635 puzzle if you need it.
+
+## Asus's new motherboard hides ports on the back for cable management
+ - [https://www.pcgamer.com/asuss-new-motherboard-hides-ports-on-the-back-for-cable-management](https://www.pcgamer.com/asuss-new-motherboard-hides-ports-on-the-back-for-cable-management)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 04:31:02+00:00
+
+Now all we need are cases to support it.
+
+## 32 years later, Toxic Crusaders is getting a new beat 'em up
+ - [https://www.pcgamer.com/32-years-later-toxic-crusaders-is-getting-a-new-beat-em-up](https://www.pcgamer.com/32-years-later-toxic-crusaders-is-getting-a-new-beat-em-up)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 02:26:28+00:00
+
+The retro sidescroller will pay homage to the wider Troma filmography, too.
+
+## Halo Infinite's new update is good (now do it again)
+ - [https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again](https://www.pcgamer.com/halo-infinites-new-update-is-good-now-do-it-again)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-03-16 00:02:41+00:00
+
+Season 3 added three good maps and the best Halo gun since Reach.
+

@@ -1,0 +1,16 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## 'SpaceEngine' Is Your Ticket to Exploring the Universe
+ - [https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-16 13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uGVHacOi--/c_fit,fl_progressive,q_80,w_636/876960c3a21f9d40cc8ab9d0f65f9041.png" /><p>Real space exploration takes a <em>long</em> time. <a href="https://www.nasa.gov/press-release/nasas-three-billion-mile-journey-to-pluto-reaches-historic-encounter" rel="noopener noreferrer" target="_blank">Pluto is roughly 10 years away from Earth</a>, given you’re traveling on a <a href="https://www.nasa.gov/feature/nasa-s-new-horizons-reaches-a-rare-space-milestone" rel="noopener noreferrer" target="_blank">speedy ship like New Horizons</a>. The nearest planet outside our solar system, however, <a href="https://www.npr.org/2012/10/17/163109381/scientist-find-nearest-planet-outside-solar-system" rel="noopener noreferrer" target="_blank">is about four lightyears away</a>, which means it would take about 81,000 years to reach by New Horizons speeds. You’d need…</p><p><a href="https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567">Read more...</a></p>
+
+## 30 Movies That Are Somehow Turning 30 This Year
+ - [https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-03-16 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kQCIr10x--/c_fit,fl_progressive,q_80,w_636/38b567a4f1c183ef9dba378680349c00.png" /><p>Nineties pop culture nostalgia is powerful, and <a href="https://www.nbcnews.com/pop-culture/pop-culture-news/90s-are-seeing-resurgence-hollywood-s-people-love-nostalgia-rcna9517" rel="noopener noreferrer" target="_blank">never more so than in these troubled times</a>. And when looking back across the decades at the films released 30 years ago, its interesting to note how many have endured—and how many never got sequels or spinoffs.</p><p><a href="https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605">Read more...</a></p>
+

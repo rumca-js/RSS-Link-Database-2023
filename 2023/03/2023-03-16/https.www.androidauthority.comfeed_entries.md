@@ -1,0 +1,79 @@
+# Source:Android Authority, URL:https://www.androidauthority.com/feed/, language:en-US
+
+## What is GPT-4 and how does it work? ChatGPT’s new model explained
+ - [https://www.androidauthority.com/what-is-gpt-4-chatgpt-3299254/](https://www.androidauthority.com/what-is-gpt-4-chatgpt-3299254/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 22:18:25+00:00
+
+ChatGPT gets its biggest upgrade to date, but what's new with GPT-4?
+
+## Google might give the Pixel 8 a Video Unblur tool
+ - [https://www.androidauthority.com/pixel-video-unblur-3299191/](https://www.androidauthority.com/pixel-video-unblur-3299191/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 20:37:04+00:00
+
+Unfortunately, the features don't appear to be functional.
+
+## The next Motorola Razr might have a laughably small battery
+ - [https://www.androidauthority.com/motorola-razr-plus-3299200/](https://www.androidauthority.com/motorola-razr-plus-3299200/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 20:19:31+00:00
+
+Interestingly, it could land with a "Plus" in its name (which can't possibly be a reference to its battery capacity).
+
+## TikTok claims US is threatening a ban if it doesn’t divest from ByteDance
+ - [https://www.androidauthority.com/tiktok-us-ban-2-3299082/](https://www.androidauthority.com/tiktok-us-ban-2-3299082/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 17:37:50+00:00
+
+This isn't the first time the app has been threaten with a ban.
+
+## You can own a Google Pixel 7a prototype for just $2,550 (as of now, anyway)
+ - [https://www.androidauthority.com/google-pixel-7a-prototype-3299092/](https://www.androidauthority.com/google-pixel-7a-prototype-3299092/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 16:23:04+00:00
+
+The asking price of a retail model will probably be $450, so this is the opposite of a steal.
+
+## TECNO Phantom V Fold review: A cheaper foldable, but at what cost?
+ - [https://www.androidauthority.com/tecno-phantom-v-fold-review-3293041/](https://www.androidauthority.com/tecno-phantom-v-fold-review-3293041/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 15:00:59+00:00
+
+TECNO delivers solid hardware and a very aggressive price tag, but its software and cameras are in dire need of an exorcism.
+
+## ASUS ROG Phone 7: Everything we know so far and what we want to see
+ - [https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/](https://www.androidauthority.com/asus-rog-phone-7-release-date-specs-price-rumors-3298310/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 14:31:45+00:00
+
+The ASUS ROG Phone 7 will likely be 2023's best gaming phone. Here's what to expect!
+
+## Daily Authority: 🌕 Samsung’s response to moon shenanigans
+ - [https://www.androidauthority.com/daily-authority-march-16-2023-3294661/](https://www.androidauthority.com/daily-authority-march-16-2023-3294661/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 08:10:52+00:00
+
+We've also got a light aircraft landing on a skyscraper's helipad.
+
+## Oppo gives Find X6 series an official launch date
+ - [https://www.androidauthority.com/oppo-find-x6-launch-3298888/](https://www.androidauthority.com/oppo-find-x6-launch-3298888/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 05:59:02+00:00
+
+Oppo is banking big on that big camera setup.
+
+## Huawei’s Galaxy Z Fold rival with satellite connectivity is coming this month
+ - [https://www.androidauthority.com/huawei-mate-x3-3298874/](https://www.androidauthority.com/huawei-mate-x3-3298874/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 05:07:18+00:00
+
+Huawei could make history by launching the first foldable phone with satellite connectivity.
+
+## Samsung Galaxy A14 5G vs Galaxy A12: Which is the better buy?
+ - [https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a12-3297840/](https://www.androidauthority.com/samsung-galaxy-a14-5g-vs-galaxy-a12-3297840/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2023-03-16 00:49:02+00:00
+
+Let's measure the gap between the A12 and A14 5G.
+
