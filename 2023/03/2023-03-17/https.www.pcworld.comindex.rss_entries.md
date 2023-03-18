@@ -1,0 +1,829 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Windows 11 may be slowing down your SSD again
+ - [https://www.pcworld.com/article/1663285/windows-11-may-be-slowing-down-your-ssds-again.html](https://www.pcworld.com/article/1663285/windows-11-may-be-slowing-down-your-ssds-again.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 17:30:50+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Does your PC feel slow today? Microsoft is reporting that the latest update to Windows 11 may be slowing down copying files on your PC&rsquo;s SSD, yet again.</p>
+
+
+
+<p>In the support notes attached to the Windows 11 2022 Update (in this case, build 22621.1413), Microsoft says that big, multi-gigabyte file transfers may be slower than usual because of a bug that Microsoft is working to fix. Microsoft says that you&rsquo;ll likely experience this issue when downloading files from a network server, &ldquo;but local file copy might also be affected.&rdquo;</p>
+
+
+
+<p>Microsoft is working on a permanent fix, but it isn&rsquo;t here yet.</p>
+
+
+
+<p>In December, users complained to Microsoft that they were seeing <a href="https://www.pcworld.com/article/558176/windows-11-might-seriously-slow-down-your-ssd.html">drastically reduced performance on some NVMe SSD drives</a>, with write speeds dropping by half in some cases. Microsoft later <a href="https://www.pcworld.com/article/559932/windows-11-slow-ssd-performance-fix-update.html">issued a patch</a> to fix the SSD slowdowns, but by then consumers had been frustrated by their slow performance. That patch took about 10 days to issue, and Microsoft published its initial warning of the storage slowdown problem on March 14.</p>
+
+
+
+<p>Microsoft insists that Windows devices used by consumers in their home or small offices are not likely to be affected by this issue, though <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://hothardware.com/news/workaround-microsoft-windows-bug-gimps-ssd-speeds&amp;xcust=2-3-1663285-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Hot Hardware</a> unearthed a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.reddit.com/r/Windows11/comments/11rbz3a/comment/jc89m08/&amp;xcust=2-3-1663285-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Reddit thread</a> that shows that yes, some consumers seem to be suffering from the storage slowdown bug, too. (Microsoft hasn&rsquo;t acknowledged that the problem is specific to SSDs, though SSD users seem to be most affected.)</p>
+
+
+
+<p>&ldquo;Tanked my SSD NVMe reading and writing speeds, like A LOT,&rdquo; one user wrote. &ldquo;Went from 7,000 to 3,000, sometimes 1,000, using the balance energy profile in my Legion 5 2021. Just uninstalled the cumulative update and my SSD is reaching the 7,000 read speed again and Windows is snappy again.&rdquo;</p>
+
+
+
+<p>Microsoft says there is a workaround: You can use file-copy tools that do not use cache management techniques. To do so, enter the command-line commands <strong>robocopy&nbsp;\\someserver\someshare&nbsp;c:\somefolder somefile.img /J</strong> or <strong>xcopy&nbsp;\\someserver\someshare&nbsp;c:\somefolder /J</strong>. Otherwise, you&rsquo;ll just have to wait until Microsoft issues a fix for the problem, or try uninstalling the patch yourself. Doing so, though, will also undo any security patches Microsoft has issued in conjunction with the update.</p>
+
+Storage, Windows</div>
+
+## Attention printer freeloaders: Your mooching days are over
+ - [https://www.pcworld.com/article/1661872/attention-printer-freeloaders-your-mooching-days-are-over.html](https://www.pcworld.com/article/1661872/attention-printer-freeloaders-your-mooching-days-are-over.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Printers are dead. No one buys them anymore and no one even needs them. At least, that&rsquo;s what you people say. By &ldquo;you people,&rdquo; I mean, you people who don&rsquo;t buy or &ldquo;use&rdquo; printers anymore.</p>
+
+
+
+<p>Well I got news for you: We all got together last night and decided that your days of freeloading are finally over.</p>
+
+
+
+<p>By &ldquo;we,&rdquo; I mean those of us who still keep a serviceable printer up and running. In my case, I&rsquo;m down to just one active printer from a high of five&mdash;a Canon all-in-one inkjet&mdash;while my only other printer, a Brother color laser printer sits offline as quiet as Chernobyl reactor 4 due to an unfortunate off-brand toner accident.&nbsp;</p>
+
+
+
+<p>I still carefully track the ink on the Canon to make sure each of the individual six&mdash;yeah, six, count &lsquo;em&mdash;color slots is sufficiently full and there&rsquo;s a spare on hand for when the ink gets low. Sure, it&rsquo;s annoying and expensive, but I like having a printer available to me at any time.&nbsp;</p>
+
+
+
+<p>And the thing, is so do you people&mdash;it&rsquo;s just that you don&rsquo;t want to pay for it. Sure, you dismiss the need for a printer with a wave of the hand and make snarky comments about printers and the people who buy them. But every few months I get that ding on my phone and a message that reads: &ldquo;Hey, are you home? Can I print something?&rdquo;</p>
+
+
+
+<p>Like a pass to a concert, a contract you need to sign, or a government form, and then another government form.</p>
+
+
+
+<p>&ldquo;How come you don&rsquo;t have a printer anymore?&rdquo; I ask. The response: &ldquo;I don&rsquo;t need one.&rdquo;</p>
+
+
+
+<p>And that&rsquo;s where last night&rsquo;s group meeting comes in. I talked to them&mdash;everyone who still has a printer&mdash;and we have collectively decided to stop enabling your freeloading ways.</p>
+
+
+
+<p>No more Phish concert tickets, no more Braniff boarding passes, and no more passport applications will be printed for you at 10 p.m. on a Sunday.</p>
+
+
+
+<p>Even worse for you people, freeloading off your office is coming to an end, too. You see, you think work doesn&rsquo;t care or know that you&rsquo;re firing off 100-page PDFs on the company printer, but those sharp-eyed facilities managers do. They know that those Ikea furniture instructions aren&rsquo;t work-related and they&rsquo;ve known it for years because every print job is tracked and monitored. It didn&rsquo;t matter before, but with belts being tightened and fewer people coming into the office at all, your abuse of the work printer stands out like a sore thumb now&mdash;so yeah, you can only print work-related documents at work now. The memo&mdash;printed out&mdash;is on your hot desk.</p>
+
+
+
+<p>So now you&rsquo;ll have to fend for yourself and maybe truck your butt down to that 24-hour FedEx Center in the next town over at 1 a.m. and pay them 49 cents to $15 a page to get your hard copies.</p>
+
+
+
+<p>It didn&rsquo;t have to end this way, of course. Even though you&rsquo;ve never so much as given me a buck for the printer use, I didn&rsquo;t mind it, as helping others is built into the DNA of every upstanding printer owner.</p>
+
+
+
+<p>But all the printer dismissal, all the shrugs and &ldquo;who needs &lsquo;em?&rdquo; has finally come to a head, and told the rest of us what you think: That we&rsquo;re either suckers for making our printers available to you, or ancient fossils for even maintaining a printer at home.</p>
+
+
+
+<p>Maybe after you&rsquo;ve racked up enough printing costs at FedEx, you&rsquo;ll realize that, yes, you need a printer too. Until then, your printer-freeloading privileges are cut off.</p>
+
+Printers</div>
+
+## The hilarious ‘Tiny Tina’s Assault on Dragon Keep’ is free on Steam right now
+ - [https://www.pcworld.com/article/1663094/tiny-tinas-assault-on-dragon-keep-is-free-on-steam-right-now.html](https://www.pcworld.com/article/1663094/tiny-tinas-assault-on-dragon-keep-is-free-on-steam-right-now.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 15:56:57+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;ve never played <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://playwonderlands.2k.com/&amp;xcust=2-1-1663094-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"><em>Tiny Tina&rsquo;s Wonderlands</em></a>, the D&amp;D-style adventure game from the folks that brought you <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/sale/borderlands/&amp;xcust=2-1-1663094-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"><em>Borderlands</em></a>, you&rsquo;re seriously missing out. The writing is beyond hilarious and, let&rsquo;s be honest, there&rsquo;s nothing more fun than slapping your enemies silly with a big honking salmon (aka the Slammin&rsquo; Salmon). Yes, the salmon is in fact a legendary melee weapon in this particular game. If you love Tiny Tina like I do and want to experience more of her bizarre adventures, you&rsquo;re in luck, as <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/app/1712840/Tiny_Tinas_Assault_on_Dragon_Keep_A_Wonderlands_Oneshot_Adventure/&amp;xcust=2-1-1663094-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"><em>Tiny Tina&rsquo;s Assault on Dragon Keep: A Wonderlands One-Shot Adventure</em></a> is free on Steam until March 24th.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p><em>Assault on Dragon Keep</em> is the precursor to <em>Wonderlands</em> and was <em>Borderlands 2</em>&lsquo;s fourth piece of downloadable content. It&rsquo;s basically Dungeons and Dragons in the Borderlands universe. <em>Borderlands</em>, if you&rsquo;re not aware, takes place in a space Western setting. So, you&rsquo;ll fight giant golems and other fantasy creatures with guns that shoot swords and such. I mean, would you expect anything less from a D&amp;D campaign that&rsquo;s led by Tiny Tina? </p>
+
+
+
+<p>You&rsquo;re tasked with restoring peace and stability by saving your Queen. However, things can change at the drop of a hat with Tiny Tina as your chaotic dungeon master. Expect many twists and turns along the way. You can play as six different Vault Hunters, each with their own unique stories. You can also play online with friends if you so chose. </p>
+
+
+
+<p>This is a great game for people who like first-person-shooters and dumb comedy. The gameplay looks zippy and fun, and the weapons are absolutely ridiculous. If this standalone DLC is anything like <em>Tiny Tina&rsquo;s Wonderlands</em>, then you can expect hilarious commentary and colorful characters. Enjoy!</p>
+
+Gaming</div>
+
+## Microsoft is sending free USB drives to Windows 11’s biggest fans
+ - [https://www.pcworld.com/article/1663034/microsoft-is-sending-free-usb-drives-to-windows-11s-biggest-fans.html](https://www.pcworld.com/article/1663034/microsoft-is-sending-free-usb-drives-to-windows-11s-biggest-fans.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 15:22:53+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re the kind of power user that simply must live on the bleeding edge of software, then Microsoft would like to reward you. Well, sort of: It wants to send you a free USB drive for trying out <a href="https://www.pcworld.com/article/1532952/windows-11s-new-canary-channel-could-be-a-test-bed-for-windows-12.html" rel="noreferrer noopener" target="_blank">the latest &ldquo;Canary&rdquo; build of Windows 11</a>, anyway. It&rsquo;s allotted some 8GB USB drives to members of the Windows Insider program who don&rsquo;t currently have one, so they can install the operating system fresh as a bootable drive. </p>
+
+
+
+<p>If you&rsquo;re absolutely desperate for $5 worth of PC accessory, you might just want to dig around in your couch cushions instead. Microsoft says that its supplies are limited &mdash; and sure to run out quickly, as these things often do &mdash; and that shipping might take six to eight weeks. And there&rsquo;s no way to simply ask for one: You&rsquo;ll need an email invitation and a verification code, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://betanews.com/2023/03/16/microsoft-is-giving-free-usb-drives-to-windows-11-users/&amp;xcust=2-1-1663034-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">as noted by Beta News</a>.</p>
+
+
+
+<p>Perhaps more interesting than the allure of some free hardware is what it indicates for the new Canary channel. &ldquo;Canary&rdquo; is developer speak for &ldquo;the newest features that are likely to break everything,&rdquo; as in &ldquo;canary in the coal mine.&rdquo; If Microsoft is willing to send out a bunch of freebies to users just to get them to try out the latest builds of Windows 11, it might be evidence that there are some very big features in the works. Big enough that Microsoft is willing to spend considerable money to expand its pool of testers. </p>
+
+
+
+<p>It&rsquo;s possible, though certainly not confirmed, that the features and changes in the Canary channel might show up in the next major release of Windows. Windows 12 &mdash; or whatever it might be called &mdash; <a href="https://www.pcworld.com/article/811274/windows-12-2024-microsoft-windows-11-features.html" rel="noreferrer noopener" target="_blank">could show up as soon as next year</a>, if rumors are to be believed. </p>
+
+Windows</div>
+
+## This lightning-fast 1440p Acer gaming monitor for $220 is an absolute steal
+ - [https://www.pcworld.com/article/1662972/1662972.html](https://www.pcworld.com/article/1662972/1662972.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 14:59:24+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Talk about a week of killer deals. First, it was the featherlight <a href="https://www.pcworld.com/article/1661307/microsofts-lightweight-surface-pro-x-tablet-is-62-off.html">Microsoft Surface Pro X tablet</a> on sale for $549. Now, it&rsquo;s the Acer Predator XB3 gaming monitor, which is <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/265045647896&amp;xcust=2-1-1662972-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">selling for just $219.99 on eBay</a>. That&rsquo;s a savings of $170, which is nothing to sneeze at. The specs on this 1440p monitor are really phenomenal for the price, so let&rsquo;s dive right in.</p>
+
+
+
+<p>The 27-inch Predator XB3 has a resolution of 2560&times;1440, a refresh rate of 165Hz, an aspect ratio of 16.9, and a response time of 1ms. That means you&rsquo;re in for sharp, responsive visuals. It&rsquo;s designed with faster paced games in mind, where the tiniest fraction of a second means winning or losing a match. This monitor also has a 4.5 average user rating at Best Buy across a total of 216 reviews. Folks love it.</p>
+
+
+
+<p>The one thing you should be aware of: This is such an absolute steal because it&rsquo;s a certified refurbished unit. But don&rsquo;t let that bit of info deter you, as the monitor comes direct from Acer on Ebay. According to Ebay&rsquo;s refurbished policy, &ldquo;all items are tested by qualified refurbishers and function as intended,&rdquo; and this display works like an all-new one would. Ebay also includes a two-year warranty, which covers repairs and replacements. In other words, you&rsquo;re getting a like-new Predator XB3 monitor with a multi-year warranty for 44 percent off the usual price.</p>
+
+
+
+<p>Yup, this is a fantastic deal. You better swoop in now though. As of this writing, 1,329 units have already been sold and only a limited number are available.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/265045647896&amp;xcust=2-1-1662972-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Acer Predator XB3 monitor for $219.99 on eBay</a></p>
+Monitors</div>
+
+## Razer will sell you a $100 piece of glass and call it a mousepad
+ - [https://www.pcworld.com/article/1662931/razer-will-sell-you-a-100-piece-of-glass-and-call-it-a-mousepad.html](https://www.pcworld.com/article/1662931/razer-will-sell-you-a-100-piece-of-glass-and-call-it-a-mousepad.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 14:44:29+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Razer, the company that invented the RGB-infused &ldquo;gaming&rdquo; drink coaster, is no stranger to flamboyant designs. And it&rsquo;s no stranger to charging a lot more for those designs than pretty much anyone else can get away with. So here we are: While <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BLS34CK6/&amp;xcust=2-1-1662931-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">glass mousepads</a> have been a thing for a few years for those PC users who require aesthetics over functionality, Razer&rsquo;s making one now. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.razer.com/gaming-mouse-mats/razer-atlas&amp;xcust=2-1-1662931-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">It&rsquo;s called the Atlas</a>, and it&rsquo;s a hundred freakin&rsquo; dollars. </p>
+
+
+
+<p>Compared to some of the other bombastic products in Razer&rsquo;s catalog, like <a href="https://www.pcworld.com/article/1446722/razers-newest-soundbar-tracks-your-head-for-3d-audio.html" rel="noreferrer noopener" target="_blank">a soundbar that will scan for your head position</a> or <a href="https://www.pcworld.com/article/1354247/razers-kitty-ear-headset-now-comes-with-bear-and-bunny-ears-too.html" rel="noreferrer noopener" target="_blank">a headset with interchangeable animal ears</a>, it&rsquo;s surprisingly tame. The Atlas is a 450-by-400 millimeter (17.72 x 15.75 inches) pane of tempered glass, set onto a rubber base that gives it a gunmetal look. It&rsquo;s super-smooth and hard &mdash; duh, it&rsquo;s glass! &mdash; but a slightly frosted etching pattern means it works great for optical mice. As opposed to regular transparent glass, which, you know, doesn&rsquo;t. </p>
+
+
+
+<p><a href="https://www.pcworld.com/article/423010/razer-firefly-review-what-cardboard-can-teach-us-about-a-60-mousepads-pure-luxury.html" rel="noreferrer noopener" target="_blank">No Chroma lighting</a>, no wireless mouse charging. It&rsquo;s just a sheet of glass and some rubber with a Razer logo etched into it. The company kindly requests that you don&rsquo;t use the Atlas to start fires like a magnifying glass, or use it as a gigantic sunshade, or smash someone&rsquo;s skull with it. (No really, all three of those things are contra-indicated on Razer&rsquo;s spec page for the Atlas!) The fact that the company specifically tells you not to use the mousepad as a blunt weapon indicates that they&rsquo;re confident the tempered glass will last a while. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Razer Atlas warning labels" class="wp-image-1662979" height="533" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/razer-atlas-warnings.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Razer</p></div>
+
+
+
+<p>Even so, a hundred bucks is pretty ridiculous. Similar unbranded designs will run you about twenty dollars on Amazon, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B09V2NFMB7/&amp;xcust=2-1-1662931-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">as will a glass cutting board</a> of approximately the same size. I recommend buying the latter and gluing a regular mousepad cloth to the bottom &mdash; at least then you can also use it to chop up veggies. </p>
+
+Computer Accessories</div>
+
+## Sony DualSense controller review: A gamepad from the future
+ - [https://www.pcworld.com/article/1533048/sony-dualsense-controller-review-a-gamepad-from-the-future.html](https://www.pcworld.com/article/1533048/sony-dualsense-controller-review-a-gamepad-from-the-future.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Very comfortable in the hand</li><li>Haptics and adaptive triggers are amazing</li><li>Built-in speaker</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>More expensive than an Xbox controller</li><li>Short battery life</li><li>Limited support on PC</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The DualSense controller feels great, and features like adaptive triggers are a real game-changer. However, PC support is lacking.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-sony-dualsense-controller">
+			Best Prices Today: Sony DualSense controller		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Amazon" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/amazon-logo.svg" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$69.00</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B08FC6C75Y?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-1-1533048-2-1533059-10057&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+															<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Best Buy" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/best-buy-logo.png" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$69.99</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6430163&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6430163%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-1533048-2-1533059-10057" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+		
+
+
+<p>The providence of Sony&rsquo;s DualSense controller is clear the instant you see it&mdash;this controller looks like an evolution of the older DualShock controllers Sony has used for the last 20 years. The grips extend downward from the main body of the controller, tapering more so than on the DualShock 4 and earlier iterations. On the right side, you have the standard Sony buttons: square, circle, x, and triangle. Opposite that is the d-pad. The directional arrows are all separated, which makes them very tactile and easy to press, but this design isn&rsquo;t as good for fighting games or anything else where diagonal d-pad input is used.</p>
+
+
+
+<p>Sony&rsquo;s controller uses symmetrical thumbsticks as opposed to the offset sticks you see on all Xbox-style controllers. In the middle, you have a large clickable trackpad, which is sadly almost useless on PC. You also get a share button and menu/pause button on the face. Plus, there&rsquo;s a tiny speaker dead center on the DualSense, which can add atmospheric sounds to your gameplay experience.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					mentioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="xbox-wireless-controller-2020">Xbox Wireless Controller (2020)</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Xbox Wireless Controller (2020)" class="product-widget__image" height="1333" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/xbox-wireless-controller-2.jpg?quality=50&amp;strip=all" width="2000" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/831843/xbox-wireless-controller-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B08DF248LD?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-1-1533048-5-831856-10994&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$54.83 at  Amazon</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller&amp;xcust=2-1-1533048-5-831856-10994&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$59.99 at  Microsoft</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>On the top edge, the DualSense looks more like your traditional game controller. Looks can be deceiving, though. There&rsquo;s a single USB-C port, which will link your controller to a computer as well as recharge the integrated battery. You still have to pay extra to get rechargeable battery packs for the Xbox controller, but neither comes with a USB-C cable.</p>
+
+
+
+<p>The shoulder buttons work as you&rsquo;d expect, but the triggers are something special. Developers can change the amount of resistance for the triggers, making them feel different when performing different activities in the game. While you can&rsquo;t tell just by looking at the exterior, the DualSense has enormous vibration motors in the grips. This allows the controller to create advanced haptic experiences, again, depending on developer support.</p>
+
+
+
+<p>The matte plastic exterior is smoother than the Xbox controller, but it&rsquo;s still sufficiently stable with the longer grips. Aesthetically, it&rsquo;s an attractive piece of technology if you like the PlayStation 5&rsquo;s look. There are no exposed screws, and many of the plastic seams are integrated with the design language to form PS5-style negative space and lighting bars. It&rsquo;s a gamepad from the future.</p>
+
+
+
+<h3>Sony DualSense: Features and hands-on experience</h3>
+
+
+
+<p>Many gamers are entrenched in their controller layout preferences. If you&rsquo;ve been using Xbox-style controllers for years, there might be a learning curve with the DualSense. Xbox fans shouldn&rsquo;t discount this one, though. The DualSense weighs in at 281 grams, about the same as the current-gen Xbox controller. However, we found the DualSense to be more comfortable in the hand during long gaming sessions. The Xbox controller feels a bit chunky by comparison.</p>
+
+
+
+<p>The buttons on the face are all tactile and easy to press, although the pause button is very flat and can be hard to find by feel. The thumbsticks have a grippy rubberized texture and just the right amount of resistance. It takes less force to click the sticks on Sony&rsquo;s controller compared to Microsoft&rsquo;s, but it&rsquo;s not so little that you&rsquo;ll do it by accident.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Sony DualSense Wireless Controller and Xbox Wireless Controller" class="wp-image-1533093" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DualSense-6.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>Side by side: The Sony  DualSense   controller and the Xbox Wireless Controller.</figcaption></figure><p class="imageCredit">Ryan Whitwam / Foundry</p></div>
+
+
+
+<p>The controller&rsquo;s unique hardware works wirelessly with the PS5, but on PC, you&rsquo;ll have to use a USB-C cable to get proper support in DualSense-optimized games. When a game supports the DualSense, it really elevates the experience. For example, <em>Returnal</em> uses the DualSense&rsquo;s haptics to relay information about your character&rsquo;s status and the environment. If you try to use your alt-fire before it&rsquo;s recharged, the controller gives you an angry-feeling vibration in the trigger region. In places where it&rsquo;s raining, the advanced haptics can even simulate the feeling of raindrops hitting the controller. Combined with the speaker, the DualSense makes for a much more immersive experience.</p>
+
+
+
+<p>The adaptive triggers are even more impressive than the haptics. Without adjustment, the triggers are smooth and easy to press, with about the same travel as the Xbox controller. Games can ramp up the resistance to make in-game activities feel more real, but the trigger adjustment can also be functional. Going back to <em>Returnal</em>, the developers created a two-stop button out of the left trigger. Depress it to the first stop, and your character aims for increased precision. Push past the tactile bump, and you activate alt-fire mode. It&rsquo;s extremely cool and useful in a fast-paced title like <em>Returnal</em>.</p>
+
+
+
+<p>In wireless mode, we&rsquo;re averaging around eight hours of gameplay per charge, which is far short of the 25 to 30 hours you get with the Xbox controller. Granted, the DualSense does a lot more, but the enhanced haptics and triggers only work in select games and over a wired connection. That makes wireless mode on PC underwhelming.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>As a piece of hardware, the DualSense is far superior to the current Xbox offerings. It&rsquo;s more comfortable, the buttons feel better, and features like adaptive triggers are revolutionary.</p></blockquote></figure>
+
+
+
+<h3><a></a>Sony DualSense: Compatibility</h3>
+
+
+
+<p>Naturally, the DualSense works best with the PS5. The trackpad, adaptive triggers, and haptics are utilized in almost all games, and you can play wirelessly. Connecting the DualSense to a PC over Bluetooth is quick and easy, but it will only be detected as a generic game controller. Steam lets you map Xbox controls onto to DualSense, so all controller-optimized games will at least understand it as an input device.</p>
+
+
+
+<p>There are about 30 total games on PC that support DualSense haptics and/or adaptive triggers. Most of them are PlayStation ports like Marvel&rsquo;s <em>Spider-Man Remastered</em> and the aforementioned <em>Returnal</em>. In all other PC games, the DualSense works like a regular controller with no special features. Although, it&rsquo;s a pretty comfortable one.</p>
+
+
+
+<p>If you&rsquo;re playing a game without DualSense support, you can play wirelessly and not lose anything. However, you should stick to wired input for DualSense-supporting games. We would love to see Sony unlock the DualSense experience over Bluetooth for PCs. In the meantime, the third-party <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://dualsensex.com/&amp;xcust=2-1-1533048-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">DualSenseX</a> software can make the controller more useful on Windows, but it takes a lot of tinkering to get it working correctly.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Sony DualSense controller" class="wp-image-1533110" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DualSense-8.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>The DualSense is limited on PC, but still very comfortable  in the hand.</figcaption></figure><p class="imageCredit">Ryan Whitwam / Foundry</p></div>
+
+
+
+<h3 id="should-you-buy-a-sony-dualsense">Should you buy a Sony DualSense?</h3>
+
+
+
+<p>The DualSense is a very impressive gamepad, marrying hardware and software to enable more immersive gameplay. As a piece of hardware, the DualSense is far superior to the current Xbox offerings. It&rsquo;s more comfortable, the buttons feel better, and features like adaptive triggers are revolutionary. Sony&rsquo;s precise, immersive haptics are on a different level compared to other controllers, which just rumble at varying intensities. It&rsquo;s like comparing iPhone haptics to any other phone&mdash;there is no comparison.</p>
+
+
+
+<p>We like that Sony&rsquo;s controller comes with a built-in rechargeable battery, but the battery life could be better. At about eight hours per charge, you&rsquo;d do well to pick up a charging dock so you don&rsquo;t forget to juice up the gamepad when you&rsquo;re not playing. You&rsquo;ll also need to provide your own USB-C cable, as the controller doesn&rsquo;t come with one.</p>
+
+
+
+<p>However, you&rsquo;ll only get the best experience on the PlayStation 5. Only a handful of PC games support the controller&rsquo;s advanced features, and they all require a wired connection. Over Bluetooth, the DualSense is just a generic controller. The Sony DualSense is the premium controller that PC gamers deserve. But sadly, the support isn&rsquo;t there yet.</p>
+
+Computer Accessories, Gaming, Video Games</div>
+
+## Forget Bing. Microsoft’s radical new Office features could be AI’s killer app
+ - [https://www.pcworld.com/article/1661649/forget-bing-microsoft-365-copilot-looks-like-ais-killer-app.html](https://www.pcworld.com/article/1661649/forget-bing-microsoft-365-copilot-looks-like-ais-killer-app.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Microsoft 365 Copilot&rsquo;s AI tools don&rsquo;t seem particularly <em>surprising</em> for the company who originated Clippy&rsquo;s helper bot. But applying AI and natural language to Microsoft Office feels like a profound, fundamental change that could absolutely transform the way you work.</p>
+
+
+
+<p><a href="https://www.pcworld.com/article/1661514/microsoft-365-copilot-is-microsofts-ai-powers-applied-to-work.html">Microsoft 365 Copilot</a> essentially injects AI into the various Office apps. You&rsquo;ll still interact with them the way you normally would, but Copilot will also live in the toolbar atop those apps, and you&rsquo;ll interact with it in a sidebar. If you&rsquo;ve ever hauled a coworker over and told them, &ldquo;Show me how to do this,&rdquo; you&rsquo;ll understand what Microsoft 365 Copilot can do. Except it will actually, you know, <em>do</em> it.</p>
+
+
+
+<p>It&rsquo;s really the next generation of AI chatbots: Not bots that talk to you like <a href="https://www.pcworld.com/article/1506016/hands-on-with-bings-ai-chat-and-search.html">Bing Chat</a>, but assistants that take orders.</p>
+
+
+
+<p>Jared Spataro, corporate vice president of Modern Work &amp; Business Applications at Microsoft, probably best explained the potential in a blog post Microsoft published Thursday. &ldquo;Copilot makes you better at what you&rsquo;re good at and lets you quickly master what you&rsquo;ve yet to learn,&rdquo; he <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/&amp;xcust=2-1-1661649-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">wrote</a>. &ldquo;The average person uses only a handful of commands &mdash; such as &ldquo;animate a slide&rdquo; or &ldquo;insert a table&rdquo; &mdash; from the thousands available across Microsoft 365. Now, all that rich functionality is unlocked using just natural language. And this is only the beginning.&rdquo;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Microsoft 365 Copilot for Excel" class="wp-image-1661555" height="540" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/copilot-excel_print.gif" width="960" /><figcaption>Microsoft 365 Copilot for Excel.</figcaption></figure><p class="imageCredit">Microsoft</p></div>
+
+
+
+<p>Microsoft 365 Copilot will roll out over the coming months to all of Microsoft&rsquo;s Office apps, including Word, Excel, PowerPoint, Outlook, Teams, Viva, Power Platform, and others. It&rsquo;s currently being tested with 20 customers, including eight Fortune 500 companies. You&rsquo;ll need to subscribe to Microsoft 365 to gain access. </p>
+
+
+
+<h2 id="what-microsoft-365-copilot-can-do-for-you">What Microsoft 365 Copilot can do for you</h2>
+
+
+
+<p>Let&rsquo;s put this into context. It&rsquo;s still hard to believe that <a href="https://www.pcworld.com/article/1504771/microsoft-unveils-ai-powered-bing-search-edge.html">Bing Chat debuted in February</a>, navigated through a series of &ldquo;weird&rdquo; interactions,&rdquo; and has now arrived as a business tool to assist workers and executives at major corporations. But Copilot isn&rsquo;t designed to tell stories and jokes. Its power is to unlock some of the deeper capabilities of Microsoft&rsquo;s apps &mdash; maybe even behind the scenes &mdash; and free you up from the drudgery of day-to-day business life. Presumably, <a href="https://www.pcworld.com/article/1658174/gpt-4-unleashed.html">it uses OpenAI&rsquo;s GPT-4 technology</a>, though Microsoft hasn&rsquo;t confirmed this.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Microsoft 365 Copilot is designed to assist you in different ways in different apps. In general, though, expect to see a &ldquo;Copilot&rdquo; button that will allow you to enter natural-language prompts. Microsoft suggested some prompts than you could use in Copilot, below:</p>
+
+
+
+<ul><li>In Word, for example, one example could be: &ldquo;<em>Draft a two-page project proposal based on the data from [a document] and [a spreadsheet]</em>,&rdquo; then &ldquo;<em>Make the third paragraph more concise. Change the tone of the document to be more casual.</em>&ldquo;</li><li>In Excel: &ldquo;<em>Give a breakdown of the sales by type and channel. Insert a table.</em>&ldquo;</li><li>In PowerPoint: &ldquo;<em>Create a five-slide presentation based on a Word document and include relevant stock photos.</em>&ldquo;</li><li>In Outlook: &ldquo;<em>Draft a response thanking them, and asking for more details about their second and third points; shorten this draft and make the tone professional.</em>&ldquo;</li><li>In Teams: &ldquo;<em>Summarize what I missed in the meeting. What points have been made so far? Where do we disagree on this topic?</em>&ldquo;</li></ul>
+
+
+
+<p>Take Excel, for example. Excel is, almost by design, esoteric. To some, it&rsquo;s almost impenetrable! It very much caters to a certain type of mentality that enjoys interacting with columns of numbers, applying rules and logic, and transforming them into useful information via charts and graphs. </p>
+
+
+
+<p>What Copilot could do, potentially, is simply make Excel a tool for non-Excel people. That&rsquo;s an enormous shift in the way people work. Being able to ask Excel to identify key trends in sales data and report them in natural language &mdash; that could be sent up the chain of command to an executive, say &mdash; would be an enormous time-saver to a lot of people, and allow you to look smarter, too. Asking Copilot to actually <em>create</em> that email in a few seconds&hellip; well, you should get the idea. We&rsquo;ve already covered how Excel Formulator and ExcelFormulaBot can use natural language to <a href="https://www.pcworld.com/article/1469050/clueless-about-how-to-write-excel-formulas-use-ai.html">transform your ideas into Excel formulas via AI</a>, but this could go far beyond what those tools offer.</p>
+
+
+
+<p>As a writer, though, Copilot seems less useful. I&rsquo;ve asked <a href="https://www.pcworld.com/article/1656353/microsoft-edge-copilot-adds-ai-content-creation-to-your-browser.html">Edge Copilot&rsquo;s content-creation tool</a> to summarize a press release and write an article in PCWorld&rsquo;s voice. There&rsquo;s simply no comparison to what I or my colleagues write. Right now, I&rsquo;d spend so much time rewriting the copy that it would almost save time simply starting from scratch. But to an accountant who lacks writing skills? Copilot in Word could be the tool that helps him reach customers he otherwise wouldn&rsquo;t connect with.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Microsoft 365 Copilot for Word" class="wp-image-1661556" height="540" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/copilot_word_gifs_print.gif" width="960" /><figcaption>Microsoft 365 Copilot for Word.</figcaption></figure><p class="imageCredit">Microsoft</p></div>
+
+
+
+<p>Copilot&rsquo;s utility, then, could be in the way that it allows workers who aren&rsquo;t as fluent in Excel, say, to up their game to a more fundamental level of competence, <em>and</em> know enough about what you&rsquo;re working on <em>across</em> the Microsoft 365 apps to facilitate followup steps across the various apps. That&rsquo;s profoundly useful right there. </p>
+
+
+
+<p>Of course, there&rsquo;s a more serious concern. What Microsoft is promising &mdash; and, granted, what the workforce will have to collectively test &mdash; is whether or not the company&rsquo;s AI can actually understand what data is relative, <em>and</em> accurately collate, contexualize, and analyze that data into a coherent format. That&rsquo;s going to be a big deal for an enormous number of highly paid people. </p>
+
+
+
+<p>Microsoft&rsquo;s Spataro claimed that sometimes Copilot could be &ldquo;usefully wrong,&rdquo; giving you an idea that&rsquo;s not perfect but that could spark something more useful. Sure, that sounds nice. But that&rsquo;s not going to cut it for someone who is literally banking on their data being right. </p>
+
+
+
+<h2 id="copilots-business-chat-feels-a-little-more-iffy">Copilot&rsquo;s Business Chat feels a little more iffy</h2>
+
+
+
+<p>Business Chat feels somewhat less defined. In concept, it sounds something like what <a href="https://www.pcworld.com/article/1534320/several-bots-will-be-typing-on-chatgpt-for-slack.html">Slack is doing with its own AI chatbot</a>: a conversational tool that you can interact with in the privacy of a Teams channel. Ask the Copilot bot what you need to prepare for your next meeting, and hopefully it will summarize your previous interactions with the client, correlate related news, summarize relevant email, and so on. You&rsquo;ll also be able to address Copilot within Outlook, much in the same way you&rsquo;d add a coworker.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Microsoft Business Chat" class="wp-image-1661894" height="540" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/copilot-chat_print.gif" width="960" /><figcaption>Microsoft Business Chat is another twist on the Copilot tool.</figcaption></figure><p class="imageCredit">Microsoft</p></div>
+
+
+
+<p>Microsoft listed some example prompts, including <em>What is the next milestone on [project]. Were there any risks identified? Help me brainstorm a list of some potential mitigations.</em> That all sounds very promising, but I&rsquo;m still doubtful that Microsoft can collate and correlate all this data, in a meaningful way, in the near future.  Still, pulling those documents together could at least get you off on the right foot.</p>
+
+
+
+<p>Incidentally, Copilot also feels very much like the tool that may actually get people dictating again. Remember how everyone felt uncomfortable talking to their PC? But for those working at home, in a private office, interacting with their computer via natural language&hellip; It certainly feels like the simplest way to direct Copilot may be by voice, rather than typing out &ldquo;make the text bigger and color it purple&rdquo; or something like that.</p>
+
+
+
+<h2 id="the-future-got-here-in-a-hurry">The future got here in a hurry</h2>
+
+
+
+<p>It&rsquo;s certainly important to realize that we&rsquo;re in the &ldquo;the future is here!!!1&rdquo; mode of AI tools. As Microsoft 365 Copilot rolls out to the workforce, workers, managers and society at large will begin factoring what Copilot can do, can&rsquo;t do, and whether or not that will change our day-to-day working lives. It&rsquo;s certainly possible that it won&rsquo;t prove to be that useful, initially. (<a href="https://www.pcworld.com/article/549168/microsoft-has-a-metaverse-too-and-its-built-on-teams.html">Microsoft&rsquo;s metaverse ambitions</a> weren&rsquo;t that long ago, after all.) </p>
+
+
+
+<p>Still, Microsoft today painted a profound, ambitious AI-enhanced future. Copilot could be just the beginning.</p>
+
+Professional Software</div>
+
+## Sapphire Pulse Radeon RX 7900 XT review: No-fuss performance
+ - [https://www.pcworld.com/article/1658218/sapphire-pulse-radeon-rx-7900-xt-review.html](https://www.pcworld.com/article/1658218/sapphire-pulse-radeon-rx-7900-xt-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Quieter than reference model</li><li>Excellent 1440p and 4K gaming performance</li><li>Dual HDMI outputs to go with dual DisplayPorts</li><li>Simple, appealing design</li><li>20GB of GDDR6 memory</li><li>Better value than rival RTX 4070 Ti</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>7900 XT isn&rsquo;t a great value compared to last-gen offerings still available</li><li>Larger than reference 7900 XT</li><li>Ray tracing performance is fine but lags far behind Nvidia GPUs</li><li>No extras like RGB, dual-BIOS switches, etc.</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Sapphire Pulse costs the same or less than reference Radeon RX 7900 XT models while delivering superior acoustic results and a more desirable configuration of ports. It&rsquo;s larger than the reference card, but more pleasant to have in your system.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-sapphire-pulse-radeon-rx-7900-xt">
+			Best Prices Today: Sapphire Pulse Radeon RX 7900 XT		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Amazon" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/amazon-logo.svg" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$921.60</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BR6L7TKR?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-1-1658218-2-1658268-10816&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+		
+
+
+<p>While enthusiasts drool over the ultra-premium, no-compromises experience offered by <a href="https://www.pcworld.com/article/1471803/sapphire-nitro-radeon-rx-7900-xtx-vapor-x-review.html">Sapphire&rsquo;s luxurious Nitro+ graphics cards</a>, the company delivers the goods for PC gamers on a budget, too. Rather than loading up on nifty but cost-adding features like RGB and dual-BIOS switches, Sapphire&rsquo;s Pulse series of GPUs instead focuses on giving a great, straightforward gaming experience without breaking the bank.</p>
+
+
+
+<p>Case in point: The Sapphire Pulse Radeon RX 7900 XT we&rsquo;re reviewing today. Ostensibly priced at the same $899 as AMD&rsquo;s reference 7900 XT, we&rsquo;ve seen it going for as low as $849 on the streets. In exchange for that <em>lower</em> price, the Pulse offers a mild factory overclock, quieter fan noise, and a more compelling display output configuration than the stock model&mdash;plus, through April 28, you can get a free copy of Sony&rsquo;s <em>The Last Of Us Part I</em> for PC if you buy the card from an authorized seller.</p>
+
+
+
+<p>That&rsquo;s pretty rad. Let&rsquo;s dig in.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Note: See our roundup of the <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">best GPUs for gaming</a> to learn about competing products, what to look for in a GPU, and buying recommendations.</em></p></blockquote>
+
+
+
+<h2 class="toc" id="sapphire-pulse-radeon-rx-7900-xt-features-specs-and-design">Sapphire Pulse Radeon RX 7900 XT features, specs, and design</h2>
+
+
+
+<p>The Sapphire Pulse is built using the same basic configuration as the reference GPU. You can wade deeper into that in our original <a href="https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html">Radeon RX 7900 XTX and 7900 XT review</a>, but in a nutshell, this is a great graphics card for 1440p and 4K/60 gaming alike, loaded with 20GB of GDDR6 VRAM, AMD&rsquo;s awesome Infinity Cache technology, AV1 encoding, DisplayPort 2.1 (unlike Nvidia), and support for game-enhancing Radeon features like <a href="https://www.pcworld.com/article/394720/faster-gaming-frame-rates-for-free-resizable-bar-explained.html">Smart Access Memory</a>, <a href="https://www.pcworld.com/article/623910/amd-adrenalin-radeon-super-resolution-is-here-to-speed-up-your-games.html">Radeon Super Resolution</a>, and <a href="https://www.pcworld.com/article/919457/amd-fsr-1-0-vs-fsr-2-0.html">FSR 2</a>. And the new RDNA 3 graphics architecture finally <a href="https://www.pcworld.com/article/1434166/amd-rdna-3-radeon-rx-7900-xtx-content-creation-review.html">made Radeon useful for content creators</a>!</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt specs" class="wp-image-1658237" height="835" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/sapphire-pulse-7900-xt-specs.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Sapphire</p></div>
+
+
+
+<p>Sapphire didn&rsquo;t change much under the hood. The Pulse 7900 XT offers a mild overclock, hitting 2,075MHz rather than 2,025MHz, but that doesn&rsquo;t practically change performance aside from sipping a bit more power (though the Pulse still only requires a pair of standard 8-pin power connectors to run).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt ports" class="wp-image-1658233" height="501" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DSC02094.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>The most exciting technical tweak may be its port configuration. While the reference model includes dual DisplayPort 2.1 connections, an HDMI 2.1a port, and USB-C, the Sapphire Pulse 7900 XT instead ditches the USB-C port for a second HDMI offering. That&rsquo;s handy for monitor flexibility and VR headset users alike. It&rsquo;s also a rare find these days.</p>
+
+
+
+<p>But Sapphire revamped things <em>over </em>the hood completely, to welcome effect.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt" class="wp-image-1658238" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DSC02081.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>A black card in the blinding snow.</p></figcaption></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>The Sapphire Pulse Radeon RX 7900 XT&rsquo;s custom cooling design works in several components and features designed to improve reliability and thermals. Those include a metal backplate loaded with thermal pads to help dissipate heat, a trio of &ldquo;angular velocity fan blades&rdquo; with two-ball bearings that Sapphire claims &ldquo;results in 44% more downward air pressure and up to 19% more airflow&rdquo; compared to previous generations, and intelligent fan control paired with ultra-accurate rotation speed for those blades. Add it all up and the Pulse delivers a pleasantly quiet gaming experience.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The Sapphire Pulse delivers a fast, pixel-packed gaming experience at noticeably lower noise levels than the reference RX 7900 XT.</p></blockquote></figure>
+
+
+
+<p>Sapphire also graced the Pulse 7900 XT with beefed-up circuitry and internal parts, such as &ldquo;ultra-high performance conductive polymer aluminum capacitors&rdquo; to enable a 20-phase power delivery, a high-density PCB with copper mixed in, and fuse protection to safeguard your precious GPU if a component gives up the ghost. Sapphire even tosses a support bracket into the box to combat potential GPU sag while this beast lurks in your PC case.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt" class="wp-image-1658236" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DSC02091.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The full-length metal backplate doubles as a heatsink.</p></figcaption></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>You might need it. While the Sapphire Pulse&rsquo;s 2.7-slot width looks downright reasonable next to the 3- and 4-slot behemoths so common today, it&rsquo;s notably thicker than the svelte 2-slot AMD reference Radeon RX 7900 XT. The extra heft and ample cooling hardware make the Pulse run noticeably quieter than the reference card, however.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="nitro-radeon-rx-7900-xtx-vapor-x">Nitro+ Radeon RX 7900 XTX Vapor-X</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Nitro+ Radeon RX 7900 XTX Vapor-X" class="product-widget__image" height="1667" src="https://b2c-contenthub.com/wp-content/uploads/2023/01/sapphire-nitro-radeon-rx-7900-xtx-vapor-x-1.jpg?quality=50&amp;strip=all" width="2500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1471803/sapphire-nitro-radeon-rx-7900-xtx-vapor-x-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BR6JWP1Q?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-1-1658218-5-1471831-10816&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Not Available at Amazon</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>What you <em>won&rsquo;t</em> find with the Sapphire Pulse Radeon RX 7900 XT: extras. Look elsewhere if you&rsquo;re an enthusiast that desires fancy features like RGB, GPU fan headers, and dual-BIOS switches. While certainly welcome, features like those add significant extra cost, and the Pulse line is laser-focused on solid, straightforward performance that beats what you normally get in budget-priced versions of a GPU. If you want enthusiast-focused extras, <a href="https://www.pcworld.com/article/1471803/sapphire-nitro-radeon-rx-7900-xtx-vapor-x-review.html">strongly consider Sapphire&rsquo;s premium Nitro+ line</a> instead. It&rsquo;s always fantastic but especially impressive this generation.</p>
+
+
+
+<p>Enough talk. Let&rsquo;s dig into performance.</p>
+
+
+
+<h2 class="toc" id="our-test-system">Our test system</h2>
+
+
+
+<p>We test graphics cards on an AMD Ryzen 5900X PC used exclusively for benchmarking GPUs. We now test with PCIe Resizable BAR (also known as Smart Access Memory on Ryzen systems) active, as most modern gaming PCs released in the last four years support the performance-boosting feature, either natively or via a motherboard firmware update. Nvidia also recommends turning on the optional &ldquo;Hardware-accelerated GPU scheduling&rdquo; option in Windows to let the RTX 40-series stretch its legs to the fullest, so we&rsquo;ve made that tweak as well. Most of the hardware was provided by the manufacturers, but we purchased the storage ourselves.</p>
+
+
+
+<ul><li>AMD Ryzen 5900X, stock settings</li><li>AMD Wraith Max cooler</li><li>MSI Godlike X570 motherboard</li><li>32GB G.Skill Trident Z Neo DDR4 3800 memory, XMP active</li><li>Corsair <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Corsair-HX1500i-Platinum-Ultra-Low-Connectors/dp/B0B3S8GMCK&amp;xcust=2-1-1658218-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HX1500i power supply</a> (and optional <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.corsair.com/us/en/Categories/Products/Accessories-%7C-Parts/PC-Components/Power-Supplies/600W-PCIe-5-0-12VHPWR-Type-4-PSU-Power-Cable/p/CP-8920284&amp;xcust=2-1-1658218-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">$20 12VHPWR 600 cable</a> for Nvidia GPUs)</li><li><a href="https://www.pcworld.com/article/3440740/sk-hynix-gold-s31-review-a-great-sata-ssd-from-the-largest-vendor-youve-likely-never-heard-of.html">1TB SK Hynix Gold S31 SSD</a> x2</li></ul>
+
+
+
+<p>We <em>usually</em> test a variety of games spanning various engines, genres, vendor sponsorships (Nvidia, AMD, and Intel), and graphics APIs (DirectX 9, 11, DX12, and Vulkan), to try to represent a full range of performance potential. Since the 7900 XT&rsquo;s performance is already well established and the Sapphire Pulse doesn&rsquo;t come with a fierce overclock, we spot-checked a smaller handful of titles spanning those various APIs to show the performance differences between the Pulse and the reference card.</p>
+
+
+
+<p>Spoiler alert: They&rsquo;re negligible. Check out our original <a href="https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html">Radeon RX 7900 XTX and 7900 XT review</a> for a deeper set of benchmarks and general AMD RDNA 3 analysis if you&rsquo;re interested. We&rsquo;ll be presenting these results without much commentary.&nbsp;</p>
+
+
+
+<p>Each game is tested using its in-game benchmark, sanity checked by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.nvidia.com/en-us/geforce/technologies/frameview/&amp;xcust=2-1-1658218-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Nvidia&rsquo;s FrameView tool</a>, at the highest possible graphics presets unless otherwise noted, with VSync, frame rate caps, real-time ray tracing or DLSS effects, and FreeSync/G-Sync disabled, along with any other vendor-specific technologies like FidelityFX tools or Nvidia Reflex. We&rsquo;ve also enabled temporal anti-aliasing (TAA) when available.</p>
+
+
+
+<p>We run each benchmark at least three times and list the average result for each test. Outside of esports, we&rsquo;ve limited our benchmarks to 4K and 1440p resolutions, as those are the natural fits for these juggernaut GPUs.</p>
+
+
+
+<h2 class="toc" id="sapphire-pulse-radeon-rx-7900-xt-gaming-performance">Sapphire Pulse Radeon RX 7900 XT gaming performance</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt cyberpunk 2077 benchmarks" class="wp-image-1658232" height="1199" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/cyberpunk-2077-1.jpg?quality=50&amp;strip=all&amp;w=1183" width="1183" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt red dead redemption 2 benchmarks" class="wp-image-1658231" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/rdr2.jpg?quality=50&amp;strip=all&amp;w=1184" width="1184" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt csgo benchmarks" class="wp-image-1658230" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/CSGO.jpg?quality=50&amp;strip=all&amp;w=1184" width="1184" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt total way troy benchmarks" class="wp-image-1658228" height="1199" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/total-war-troy.jpg?quality=50&amp;strip=all&amp;w=1183" width="1183" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<h2 class="toc" id="sapphire-pulse-radeon-rx-7900-xt-power-and-thermals">Sapphire Pulse Radeon RX 7900 XT power and thermals</h2>
+
+
+
+<p>Here&rsquo;s where the key differences between the AMD reference design and the Sapphire Pulse will truly shine. AMD designed the reference Radeon RX 7900 XT to fit into a tiny two-slot design; Sapphire engineered the Pulse for better acoustic performance.</p>
+
+
+
+<p>We test power draw by looping the&nbsp;<em>F1 22</em>&nbsp;benchmark at 4K for about 20 minutes after we&rsquo;ve benchmarked everything else (to warm up the GPU) and noting the highest reading on our Watts Up Pro meter, which measures the power consumption of our entire test system. The initial part of the race, where all competing cars are onscreen simultaneously, tends to be the most demanding portion.&nbsp;</p>
+
+
+
+<p>This isn&rsquo;t a worst-case test; this is a GPU-bound game running at a GPU-bound resolution to gauge performance when the graphics card is sweating hard. If you&rsquo;re playing a game that also hammers the CPU, you could see higher overall system power draws. Consider yourself warned.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt power benchmarks" class="wp-image-1658229" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/power-2.jpg?quality=50&amp;strip=all&amp;w=1184" width="1184" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>The Sapphire Pulse offers largely the same performance as the reference 7900 XT, so it&rsquo;s no surprise to see it draw roughly similar levels of power as well. All of these high-end GPUs are relatively voracious, however. Power requires power.</p>
+
+
+
+<p>We test thermals by leaving GPU-Z open during the&nbsp;<em>F1 22</em>&nbsp;power-draw test, noting the highest maximum temperature at the end.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt temperature benchmarks" class="wp-image-1658227" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/temps.jpg?quality=50&amp;strip=all&amp;w=1184" width="1184" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>The Sapphire Pulse delivers slightly higher thermals than the reference 7900 XT, but temperatures remain excellent, and the reason those thermals are higher is because the Pulse&rsquo;s extra heatsink bulk and slower-spinning angular velocity fans run <em>much </em>quieter than the reference card.</p>
+
+
+
+<h2 class="toc" id="should-you-buy-the-sapphire-pulse-radeon-rx-7900-xt">Should you buy the Sapphire Pulse Radeon RX 7900 XT?</h2>
+
+
+
+<p>When AMD launched its new RNDA 3-powered Radeon 7000-series, the $899 Radeon RX 7900 XT didn&rsquo;t provide compelling enough value to recommend. You&rsquo;d be better off spending another $100 and grabbing the superior Radeon RX 7900 XTX instead.</p>
+
+
+
+<p>Now that we&rsquo;re starting to see discounts (and an awesome <em>Last of Us</em> PC game bundle) trickle in, the Radeon RX 7900 XT shines a bit brighter. We&rsquo;ve seen the Sapphire Pulse available as low as $849, and other models for even less. That pits the 7900 XT directly against <a href="https://www.pcworld.com/article/1444726/nvidia-geforce-rtx-4070-ti-review.html">custom GeForce RTX 4070 Ti models</a>, and the Radeon card wins that battle every time with its faster 1440p/4K performance and ample 20GB of memory. Nvidia wins on ray tracing and content creation, but for pure gaming, the Radeon RX 7900 XT delivers much more bang for your buck.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="sapphire pulse radeon rx 7900 xt" class="wp-image-1658238" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DSC02081.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>And if you&rsquo;re looking for a solid, straightforward Radeon RX 7900 XT that won&rsquo;t break the bank, strongly consider the Sapphire Pulse. The Sapphire Pulse Radeon RX 7900 XT delivers a fast, pixel-packed gaming experience at noticeably lower noise levels than the reference 7900 XT&mdash;exactly what Sapphire set out to do. Investing in Sapphire&rsquo;s rock-solid custom cooling for the same or <em>less</em> than a reference model makes it a no-brainer. It&rsquo;s a bit thicker in your case, sure, and you won&rsquo;t get extra features like RGB or dual-BIOS switches, but the Sapphire Pulse is powerful, pleasantly quiet, and comes with a welcome dual-HDMI port configuration that you won&rsquo;t find on most other graphics cards.</p>
+
+
+
+<p>With modern graphics cards costing so much, however, you should be able to get a solid high refresh-rate 1440p and 4K/60 gaming for even less with a last-gen GPU like the Radeon RX 6800 XT, which can be found for as little as $579 these days. It&rsquo;s definitely slower than AMD&rsquo;s latest and greatest offerings but <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">shop around if you can</a>&mdash;while the Sapphire Pulse Radeon RX 7900 XT offers compelling value versus its direct modern competitors, in today&rsquo;s GPU market, last-gen is where you&rsquo;ll find the best deals.</p>
+
+Gaming, Graphics Cards</div>
+
+## This pocket-sized tool is a spring cleaning asset
+ - [https://www.pcworld.com/article/1658252/this-pocket-sized-tool-is-a-spring-cleaning-asset.html](https://www.pcworld.com/article/1658252/this-pocket-sized-tool-is-a-spring-cleaning-asset.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-03-17 08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It might not feel like it, but spring is just around the corner. Right now is the perfect time to start prepping all of those big spring refresh and DIY projects you have. Whether you&rsquo;re changing your linens, painting a room, or something else where color matters, the&nbsp;<a href="https://shop.pcworld.com/sales/nix-mini-color-sensor-v2?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=nix-mini-color-sensor-v2&amp;utm_term=scsf-566953&amp;utm_content=a0x1P0000058W9lQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Nix Mini Color Sensor V2</a>&nbsp;will be an essential asset.</p>
+
+
+
+<p>This&nbsp;<a href="https://shop.pcworld.com/sales/nix-mini-color-sensor-v2?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=nix-mini-color-sensor-v2&amp;utm_term=scsf-566953&amp;utm_content=a0x1P0000058W9lQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">pocket-sized device</a>&nbsp;is engineered for those who find inspiration everywhere. The ingenious little scanner works on any surface, from painted walls to fabric, and instantly matches the color to more than 100,000 brand name paint colors or sRGB HEX, CMYK, and LAB colors via the Nix Digital app. Wherever you see an interesting color that you like, just place the Nix Mini on it. The sensor blocks out all ambient light and provides its own calibrated light source for an accurate reading, sending the information via<a href="https://www.pcworld.com/article/550822/how-to-turn-on-and-use-bluetooth-in-windows-10.html" rel="noreferrer noopener" target="_blank">&nbsp;Bluetooth</a>&nbsp;to your phone. You can save and organize all of your favorite color palettes, share scans with friends, and more.</p>
+
+
+
+<p>Mashable writes, &ldquo;The Nix Mini Color Sensor could be an awesome tool to feed your innate perfectionism.&rdquo;</p>
+
+
+
+<p>Get a head start on your big spring projects. Right now, you can get the&nbsp;<a href="https://shop.pcworld.com/sales/nix-mini-color-sensor-v2?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=nix-mini-color-sensor-v2&amp;utm_term=scsf-566953&amp;utm_content=a0x1P0000058W9lQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Nix Mini Color Sensor V2</a>&nbsp;for the special, limited-time price of just $59 &mdash; 40% off the $99 list price.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/nix-mini-color-sensor-v2?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=nix-mini-color-sensor-v2&amp;utm_term=scsf-566953&amp;utm_content=a0x1P0000058W9lQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp1.stackassets.com/3bc1851e5c7e954d51b76318cad8df4dd94190e3/store/fb77ef4215113c8bf056b3bfc23e4c05eef80eea504b9b91efd312599983/sale_24250_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Nix Mini Color Sensor V2 &ndash; $59</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/nix-mini-color-sensor-v2?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=nix-mini-color-sensor-v2&amp;utm_term=scsf-566953&amp;utm_content=a0x1P0000058W9lQAE&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices subject to change.</p>
+
+Mobile Phone Accessories</div>
+
