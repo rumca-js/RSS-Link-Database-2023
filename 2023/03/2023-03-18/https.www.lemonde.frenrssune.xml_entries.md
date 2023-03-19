@@ -1,0 +1,219 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## UBS in talks to save Credit Suisse
+ - [https://www.lemonde.fr/en/international/article/2023/03/19/ubs-in-talks-to-save-credit-suisse_6019881_4.html](https://www.lemonde.fr/en/international/article/2023/03/19/ubs-in-talks-to-save-credit-suisse_6019881_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 23:13:53+00:00
+
+According to the 'Financial Times', Switzerland's largest bank UBS was negotiating Saturday to buy all or part of Credit Suisse, with the blessing of the Swiss regulators.
+
+## Ecuador quake kills at least 12 people
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/ecuador-quake-kills-at-least-12-people_6019879_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/ecuador-quake-kills-at-least-12-people_6019879_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 21:51:54+00:00
+
+A strong earthquake shook southern Ecuador and northern Peru on Saturday killing at least a dozen people, trapping others under rubble, and sending rescue teams out into streets littered with debris and fallen power lines.
+
+## Israelis protest for eleventh week against judicial reforms
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/israelis-protest-for-eleventh-week-against-judicial-reforms_6019875_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/israelis-protest-for-eleventh-week-against-judicial-reforms_6019875_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 19:19:13+00:00
+
+Protesters marched in more than 100 towns and cities against proposed reforms that would increase the power of politicians over the courts.
+
+## Six Nations: Ireland completes Grand Slam and looks ahead to World Cup
+ - [https://www.lemonde.fr/en/sports/article/2023/03/18/six-nations-ireland-completes-grand-slam-and-looks-ahead-to-world-cup_6019867_9.html](https://www.lemonde.fr/en/sports/article/2023/03/18/six-nations-ireland-completes-grand-slam-and-looks-ahead-to-world-cup_6019867_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 19:02:51+00:00
+
+By beating England on Saturday, March 18, the Irish won the Six Nations tournament. Things are looking good for them six months ahead of the World Cup.
+
+## Energy, sanitation, transport: French strikes against pension reform to continue into next week
+ - [https://www.lemonde.fr/en/politics/article/2023/03/18/energy-sanitation-transport-french-strikes-against-pension-reform-to-continue-into-next-week_6019865_5.html](https://www.lemonde.fr/en/politics/article/2023/03/18/energy-sanitation-transport-french-strikes-against-pension-reform-to-continue-into-next-week_6019865_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 19:00:20+00:00
+
+Many sectors are keeping the pressure on ahead of the no-confidence votes in Parliament on Monday and the national strike on Thursday.
+
+## French pension protests mostly calm in Saturday gatherings
+ - [https://www.lemonde.fr/en/france/article/2023/03/18/french-pension-protests-mostly-calm-in-saturday-gatherings_6019863_7.html](https://www.lemonde.fr/en/france/article/2023/03/18/french-pension-protests-mostly-calm-in-saturday-gatherings_6019863_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 18:38:03+00:00
+
+Protesters met in cities across the country, seeking to keep pressure on the government two days after it bypassed a parliament vote on its controversial reform, and two days ahead of a vote of no confidence.
+
+## 'In Greece, the anger now goes beyond the railway accident'
+ - [https://www.lemonde.fr/en/europe/article/2023/03/18/in-greece-the-anger-now-goes-beyond-the-railway-accident_6019858_143.html](https://www.lemonde.fr/en/europe/article/2023/03/18/in-greece-the-anger-now-goes-beyond-the-railway-accident_6019858_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 17:58:35+00:00
+
+Yiorgos Vassalos, a lecturer with Sciences Po Lille university, analyzes the reasons for the Greek population's frustration after a train accident that killed 57 on February 28.
+
+## Japan and South Korea aim to forge closer ties in US shadow
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/japan-and-south-korea-aim-to-forge-closer-ties-in-us-shadow_6019856_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/japan-and-south-korea-aim-to-forge-closer-ties-in-us-shadow_6019856_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 17:04:11+00:00
+
+South Korean President Yoon Suk-yeol and Japanese Prime Minister Fumio Kishida are working to overcome long-standing tensions between the two countries.
+
+## Six Nations: France beats Wales 41-28 to keep title hopes alive
+ - [https://www.lemonde.fr/en/sports/article/2023/03/18/six-nations-france-beats-wales-41-28-to-keep-title-hopes-alive_6019854_9.html](https://www.lemonde.fr/en/sports/article/2023/03/18/six-nations-france-beats-wales-41-28-to-keep-title-hopes-alive_6019854_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 16:40:30+00:00
+
+Les Bleus will be hoping England beats Ireland on Saturday evening.
+
+## On board the Ocean Viking, rescuers face 'new Italian strategy' to tackle migration
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/on-board-the-ocean-viking-rescuers-face-new-italian-strategy-to-tackle-migration_6019851_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/on-board-the-ocean-viking-rescuers-face-new-italian-strategy-to-tackle-migration_6019851_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 16:30:37+00:00
+
+A controversial law decree requires humanitarian vessels to proceed 'without delay' to an assigned port with no possibility of rescuing other migrants in distress.
+
+## French biathlon star disappointed by coaches blaming bad season on depression
+ - [https://www.lemonde.fr/en/sports/article/2023/03/18/french-biathlon-star-disappointed-by-coaches-blaming-bad-season-on-depression_6019849_9.html](https://www.lemonde.fr/en/sports/article/2023/03/18/french-biathlon-star-disappointed-by-coaches-blaming-bad-season-on-depression_6019849_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 16:10:10+00:00
+
+Emilien Jacquelin hit out at two national team coaches who spoke publicly of his depression without his permission.
+
+## Pakistani police storm home of former prime minister Khan, arrest 61
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/pakistani-police-storm-home-of-former-prime-minister-khan-arrest-61_6019848_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/pakistani-police-storm-home-of-former-prime-minister-khan-arrest-61_6019848_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 15:58:27+00:00
+
+Imran Khan, meanwhile, had traveled to Islamabad to appear before a judge on charges he sold state gifts and hid assets.
+
+## Protests in Italy as government limits rights of same-sex parents
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/protests-in-italy-as-government-limits-rights-of-same-sex-parents_6019846_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/protests-in-italy-as-government-limits-rights-of-same-sex-parents_6019846_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 15:47:32+00:00
+
+People gathered in Milan after the city stopped registering children of same-sex couples under new instructions from Prime Minister Giorgia Meloni's far-right government.
+
+## Russia and Ukraine extend grain deal to feed world's hungry
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/russia-and-ukraine-extend-grain-deal-to-feed-world-s-hungry_6019842_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/russia-and-ukraine-extend-grain-deal-to-feed-world-s-hungry_6019842_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 15:04:33+00:00
+
+The deal brokered with Turkey and the United Nations allows for safe export of Ukrainian grain to countries around the world suffering from hunger and high food prices.
+
+## Husband of Scotland leader resigns from party leadership
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/husband-of-scotland-leader-resigns-from-party-leadership_6019839_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/husband-of-scotland-leader-resigns-from-party-leadership_6019839_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 14:24:14+00:00
+
+Peter Murrell, the head of the Scottish National Party and husband of First Minister Nicola Sturgeon, resigned after trying to cover up the fact that the party has lost 30,000 members.
+
+## French pension reform: Police prohibit protests opposite Assemblée Nationale in Paris
+ - [https://www.lemonde.fr/en/france/article/2023/03/18/france-prohibits-pension-protests-opposite-lower-house-in-paris_6019838_7.html](https://www.lemonde.fr/en/france/article/2023/03/18/france-prohibits-pension-protests-opposite-lower-house-in-paris_6019838_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 14:02:08+00:00
+
+The ban follows two nights of unrest in the French capital after the government said it would bypass lawmakers to secure the adoption of a controversial pension reform.
+
+## Trump says he expects to be arrested next Tuesday, calls for protests
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/trump-says-expecting-arrest-next-tuesday-calls-for-protests_6019836_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/trump-says-expecting-arrest-next-tuesday-calls-for-protests_6019836_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 13:40:00+00:00
+
+Prosecutors are contemplating charging the former United States president over hush money allegedly paid to a porn star before the 2016 election.
+
+## Georgia protester holding European flag hailed as heroine
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/georgia-protester-holding-european-flag-hailed-as-heroine_6019830_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/georgia-protester-holding-european-flag-hailed-as-heroine_6019830_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 12:11:15+00:00
+
+Through this gesture, Nana Malachkhia, a 47-year-old civil servant, has become a symbol. She told 'Le Monde' of her anger at a draft law on so-called 'foreign agents' and of her fear of seeing Georgia turn away from the European Union.
+
+## Market stress remains high in Europe following Credit Suisse's woes
+ - [https://www.lemonde.fr/en/europe/article/2023/03/18/market-stress-remains-high-in-europe-following-credit-suisse-s-woes_6019824_143.html](https://www.lemonde.fr/en/europe/article/2023/03/18/market-stress-remains-high-in-europe-following-credit-suisse-s-woes_6019824_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 11:13:40+00:00
+
+The emergency aid provided to the bank by Swiss authorities was not enough to reassure investors either about the future of the group or the risk of contagion.
+
+## Pension reform: Macron's second term faces uncertain outlook
+ - [https://www.lemonde.fr/en/politics/article/2023/03/18/pension-reform-macron-s-second-term-faces-uncertain-outlook_6019822_5.html](https://www.lemonde.fr/en/politics/article/2023/03/18/pension-reform-macron-s-second-term-faces-uncertain-outlook_6019822_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 11:00:08+00:00
+
+The French president is considering his next steps after the decision to bypass a vote in Parliament stoked political tensions.
+
+## US markets remain in crisis mode as banks are rescued
+ - [https://www.lemonde.fr/en/united-states/article/2023/03/18/us-markets-remain-in-crisis-mode-banking-bailouts-increase_6019820_133.html](https://www.lemonde.fr/en/united-states/article/2023/03/18/us-markets-remain-in-crisis-mode-banking-bailouts-increase_6019820_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 10:09:29+00:00
+
+Support from the Fed, the Treasury, and other financial institutions in the United States is preventing a meltdown. But it is also keeping suspicion alive over the extent of the trouble facing banks.
+
+## United States: Wyoming Governor prohibits abortion pill
+ - [https://www.lemonde.fr/en/united-states/article/2023/03/18/united-states-wyoming-governor-prohibits-abortion-pill_6019815_133.html](https://www.lemonde.fr/en/united-states/article/2023/03/18/united-states-wyoming-governor-prohibits-abortion-pill_6019815_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 04:46:14+00:00
+
+Since the US Supreme Court in June overturned Roe v. Wade, the ruling that protected the right to abortion for nearly five decades, abortion restrictions have been up to states and the landscape has shifted quickly.
+
+## 'The pension reform provides the opportunity for a collective discussion about the place leisure takes in our lives'
+ - [https://www.lemonde.fr/en/opinion/article/2023/03/18/the-pension-reform-provides-the-opportunity-for-a-collective-discussion-about-the-place-leisure-takes-in-our-lives_6019811_23.html](https://www.lemonde.fr/en/opinion/article/2023/03/18/the-pension-reform-provides-the-opportunity-for-a-collective-discussion-about-the-place-leisure-takes-in-our-lives_6019811_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 04:33:25+00:00
+
+A number of studies have shown a link between the feeling of well-being and free time, says economist Philippe Moati in an opinion piece.
+
+## European real estate caught in the variable interest rates trap
+ - [https://www.lemonde.fr/en/economy/article/2023/03/18/european-real-estate-caught-in-the-variable-interest-rates-trap_6019810_19.html](https://www.lemonde.fr/en/economy/article/2023/03/18/european-real-estate-caught-in-the-variable-interest-rates-trap_6019810_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 04:30:44+00:00
+
+From Sweden to Spain, via the United Kingdom and Greece, people that borrow mostly at variable rates to buy their homes are being hit hard by the meteoric rise in interest rates.
+
+## War in Ukraine: Love across borders
+ - [https://www.lemonde.fr/en/m-le-mag/article/2023/03/18/war-in-ukraine-love-across-borders_6019809_117.html](https://www.lemonde.fr/en/m-le-mag/article/2023/03/18/war-in-ukraine-love-across-borders_6019809_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 04:30:13+00:00
+
+In 2014, the year of the annexation of Crimea and the beginning of the war in Donbas, photographer Oksana Yushko began her 'Familia' series with a photo of her Ukrainian father and Russian mother. Her project took on another dimension when, in February 2022, Russia invaded Ukraine.
+
+## Turkey ratifies Finland's membership to NATO
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/turkey-ratifies-finland-s-membership-to-nato_6019806_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/turkey-ratifies-finland-s-membership-to-nato_6019806_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 04:08:09+00:00
+
+Turkish president Recep Tayyip Erdogan made the announcement on Friday followed an hour later by Hungary. However, neither Ankara nor Budapest, however, is moving to approve Sweden's membership.
+
+## Unions worry Macron's pension reform could reignite Yellow Vest protests
+ - [https://www.lemonde.fr/en/politics/article/2023/03/18/macron-s-pension-reform-could-reignite-yellow-vest-protests_6019804_5.html](https://www.lemonde.fr/en/politics/article/2023/03/18/macron-s-pension-reform-could-reignite-yellow-vest-protests_6019804_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 03:52:28+00:00
+
+Protests against the government's use of article 49.3, to sweep aside parliamentary opposition to the reform, have made commentators wonder whether the hardening of fronts could herald the return of the Yellow Vests.
+
+## In Myanmar, the armed insurrection is getting organized
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/in-myanmar-the-armed-insurrection-is-getting-organized_6019801_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/in-myanmar-the-armed-insurrection-is-getting-organized_6019801_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 03:30:56+00:00
+
+In the border areas with Thailand, groups of Burmese students and dissidents who came for combat training following the 2021 coup now form feared commandos working closely with ethnic guerrillas.
+
+## 'The future of European defense depends on the Franco-Polish duo'
+ - [https://www.lemonde.fr/en/opinion/article/2023/03/18/the-future-of-european-defense-depends-on-the-franco-polish-duo_6019798_23.html](https://www.lemonde.fr/en/opinion/article/2023/03/18/the-future-of-european-defense-depends-on-the-franco-polish-duo_6019798_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 02:07:54+00:00
+
+Faced with the upheavals caused by the war in Ukraine, French leaders must overcome their prejudices toward Poland, said researcher Pierre Haroche in an article in 'Le Monde.'
+
+## New genetic data supports zoonotic origin of Covid-19 pandemic
+ - [https://www.lemonde.fr/en/science/article/2023/03/18/new-genetic-data-supports-zoonotic-origin-of-covid-19-pandemic_6019795_10.html](https://www.lemonde.fr/en/science/article/2023/03/18/new-genetic-data-supports-zoonotic-origin-of-covid-19-pandemic_6019795_10.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 01:12:38+00:00
+
+Unpublished data suggests raccoon dogs, civets, and other mammals may have served as intermediate hosts for the transfer of SARS-CoV-2 from bats to humans.
+
+## Italy: Giorgia Meloni's party struggles with fascist legacy and political inexperience
+ - [https://www.lemonde.fr/en/international/article/2023/03/18/italy-giorgia-meloni-s-party-struggles-with-fascist-legacy-and-political-inexperience_6019792_4.html](https://www.lemonde.fr/en/international/article/2023/03/18/italy-giorgia-meloni-s-party-struggles-with-fascist-legacy-and-political-inexperience_6019792_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-18 00:20:07+00:00
+
+Meloni appointee Claudio Anastasio, president of state-owned company 3-I, sent an e-mail to his board of directors in which he copied and pasted a speech from Musolini, replacing only the word 'fascism' with '3-I.'
+

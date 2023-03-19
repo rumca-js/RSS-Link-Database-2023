@@ -1,0 +1,352 @@
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## French pension reforms: Is Macron's government doomed by crisis?
+ - [https://www.bbc.co.uk/news/world-europe-64986741?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64986741?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 23:43:31+00:00
+
+No-confidence motions face the Macron government as it tries to force its unpopular changes into law.
+
+## Southern Ecuador earthquake kills at least 12
+ - [https://www.bbc.co.uk/news/world-latin-america-65004163?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-65004163?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 22:51:58+00:00
+
+A strong earthquake off Ecuador's southern coast left people trapped in collapsed houses.
+
+## William Hill: Gambling addict says bookmaker didn't help him stop
+ - [https://www.bbc.co.uk/news/uk-wales-64975068?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-64975068?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 21:56:10+00:00
+
+A teacher says William Hill should have done more to stop him betting when he was staking thousands.
+
+## 'Antonio Conte blames Tottenham players but is part of club's problems'
+ - [https://www.bbc.co.uk/sport/football/65003937?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/65003937?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 21:54:15+00:00
+
+Antonio Conte is going down swinging at Tottenham but must accept some of the blame, writes Phil McNulty.
+
+## Six Nations: Ireland beat England 29-16 to win Grand Slam - highlights
+ - [https://www.bbc.co.uk/sport/av/rugby-union/65003017?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-union/65003017?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 20:59:43+00:00
+
+Watch highlights as Ireland beat an England team reduced to 14 men 29-16 to win the Six Nations Grand Slam.
+
+## Chelsea 2-2 Everton: Ellis Simms secures last-minute draw at Stamford Bridge
+ - [https://www.bbc.co.uk/sport/football/64923723?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64923723?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 20:42:35+00:00
+
+Ellis Simms scores his first Everton goal to earn Sean Dyche's side a precious point as they come from behind twice to draw at Chelsea.
+
+## Six Nations 2023: Ireland captain Johnny Sexton says Grand Slam win 'like living in a dream'
+ - [https://www.bbc.co.uk/sport/rugby-union/64997237?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64997237?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 20:14:25+00:00
+
+Emotional Ireland captain Johnny Sexton describes winning the Grand Slam and Six Nations title as "like living in a dream".
+
+## Antonio Conte criticises Tottenham Hotspur ownership and 'selfish' players
+ - [https://www.bbc.co.uk/sport/football/65002960?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/65002960?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 20:09:54+00:00
+
+A furious Antonio Conte says his Tottenham players are "selfish" and the club "can change the manager but the situation cannot change".
+
+## Manchester City 6-0 Burnley: Erling Haaland scores hat-trick in thumping win over Vincent Kompany's side
+ - [https://www.bbc.co.uk/sport/football/64984170?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64984170?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 20:01:02+00:00
+
+Erling Haaland scores his sixth hat-trick of the season and passes the 40-goal mark as Manchester City thrash Vincent Kompany's Burnley to reach the FA Cup semi-finals.
+
+## Six Nations 2023: Ireland 29-16 England - Irish seal Grand Slam in Dublin
+ - [https://www.bbc.co.uk/sport/rugby-union/64992479?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64992479?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 19:50:46+00:00
+
+Ireland win their fourth Grand Slam as they wear down 14-man England in a tense Six Nations finale in Dublin.
+
+## Six Nations 2023: Freddie Steward's red card against Ireland called 'an utter farce'
+ - [https://www.bbc.co.uk/sport/rugby-union/65002154?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/65002154?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 19:35:32+00:00
+
+A red card given to England full-back Freddie Steward in Saturday's defeat by Grand Slam winners Ireland has been called "an utter farce" and "absolutely ridiculous" by former players.
+
+## Russia and Ukraine extend grain deal despite disagreement
+ - [https://www.bbc.co.uk/news/world-europe-65000324?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-65000324?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 19:31:15+00:00
+
+The renewed accord means exports can continue via Ukraine's Black Sea ports, but it is unclear how long for.
+
+## Match of the Day: 'Great to be here', says Lineker as he makes TV return
+ - [https://www.bbc.co.uk/news/uk-65003113?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-65003113?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 19:01:16+00:00
+
+Lineker hosts BBC sports coverage for first time after being taken off air in an impartiality row.
+
+## FA Cup: Erling Haaland scores sensational double in under 179 seconds for Man City
+ - [https://www.bbc.co.uk/sport/av/football/65003467?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/65003467?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 18:50:17+00:00
+
+Watch Erling Haaland score two goals in under 179 seconds to put Man City 2-0 up against Burnley in the FA Cup quarter-final at the Etihad Stadium.
+
+## Saudi Arabian Grand Prix qualifying: Sergio Perez on pole as Max Verstappen 15th after issue
+ - [https://www.bbc.co.uk/sport/formula1/65001200?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/formula1/65001200?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 18:09:57+00:00
+
+Red Bull's Sergio Perez takes pole position for the Saudi Arabian Grand Prix after team-mate Max Verstappen suffers a power problem.
+
+## RAF Scampton: Historians pen letter against WW2 airfield migrant plan
+ - [https://www.bbc.co.uk/news/uk-england-lincolnshire-65000047?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-lincolnshire-65000047?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 18:06:25+00:00
+
+A group of historians pen a letter saying RAF Scampton shoud not be used to house asylum seekers.
+
+## Gary Lineker says 'it's great to be here' on BBC football return
+ - [https://www.bbc.co.uk/news/uk-65002219?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-65002219?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 17:57:01+00:00
+
+Gary Lineker returns to presenting BBC football coverage after being suspended over an impartiality row.
+
+## Southampton 3-3 Tottenham: Saints come from behind to earn point
+ - [https://www.bbc.co.uk/sport/football/64923719?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/64923719?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 17:35:46+00:00
+
+A late James Ward-Prowse penalty earns Southampton a deserved point as they come from behind against Tottenham at St Mary's.
+
+## Six Nations 2023: France 41-28 Wales - Les Bleus win keeps title hopes alive
+ - [https://www.bbc.co.uk/sport/rugby-union/64963382?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64963382?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 16:34:41+00:00
+
+France keep alive their hopes of retaining the Six Nations with a bonus-point win against Wales in Paris.
+
+## Boris Johnson: Tory MPs will get free vote on any Partygate sanctions
+ - [https://www.bbc.co.uk/news/uk-politics-65001385?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-65001385?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 16:30:21+00:00
+
+Boris Johnson faces a marathon televised hearing this week to convince MPs he did not mislead Parliament.
+
+## Man sent bailiffs to Luton Airport for Wizz Air refund
+ - [https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64999557?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64999557?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 15:48:27+00:00
+
+An out-of-pocket dad sends in reinforcements to claim money from an airline over a cancelled flight.
+
+## Kuenssberg: Sunak is now hostage to his promises on childcare and small boats
+ - [https://www.bbc.co.uk/news/uk-politics-65001267?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-65001267?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 15:10:08+00:00
+
+Failure to deliver on childcare and small boats pledges could set back the progress of his first months.
+
+## Six Nations: Highlights as Scotland beat Italy 26-14
+ - [https://www.bbc.co.uk/sport/av/rugby-union/65000949?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-union/65000949?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 15:08:45+00:00
+
+Watch highlights as Scotland beat Italy 26-14 in a thrilling Six Nations finale with a spectacular Duhan van der Merwe try and a Blair Longhorn hat-trick.
+
+## Trump says he expects to be arrested on Tuesday
+ - [https://www.bbc.co.uk/news/world-us-canada-65000325?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-65000325?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 14:42:05+00:00
+
+Prosecutors in New York are considering charges over alleged hush money payments to an ex-porn star.
+
+## Six Nations 2023: Scotland 26-14 Italy - Gregor Townsend's side survive late onslaught
+ - [https://www.bbc.co.uk/sport/rugby-union/65000395?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/65000395?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 14:22:55+00:00
+
+Scotland conclude their Six Nations campaign with a dramatic bonus-point win over Italy at Murrayfield to all but guarantee a third-place finish in the Championship.
+
+## John Caldwell: Man, 23, held over Omagh shooting claim
+ - [https://www.bbc.co.uk/news/uk-northern-ireland-65000786?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-65000786?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 14:10:54+00:00
+
+The 23 year old is in custody over a claim of responsibility for shooting Det Ch Insp John Caldwell.
+
+## Who is Peter Murrell? SNP chief and Scotland's 'First Husband'
+ - [https://www.bbc.co.uk/news/uk-scotland-scotland-politics-64972863?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-scotland-politics-64972863?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 14:02:39+00:00
+
+The chief executive of the SNP for the past 24 years has resigned, What do we know about him?
+
+## Duhan van der Merwe scores incredible first try for Scotland against Italy in Six Nations
+ - [https://www.bbc.co.uk/sport/av/rugby-union/65000943?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/rugby-union/65000943?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 13:10:27+00:00
+
+Watch as Duhan van der Merwe scores a sensational opening try for Scotland as they host Italy in the Six Nations.
+
+## SNP chief executive Peter Murrell resigns over membership row
+ - [https://www.bbc.co.uk/news/uk-scotland-65000606?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-65000606?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 13:04:13+00:00
+
+Peter Murrell, the husband of Nicola Sturgeon, confirms he has resigned from the role with immediate effect.
+
+## Imran Khan supporters clash with police outside court
+ - [https://www.bbc.co.uk/news/world-asia-64998922?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64998922?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 12:56:57+00:00
+
+Meanwhile police have entered the ground of the former PM's home in Lahore.
+
+## Patrick Vieira: Crystal Palace panicked in sacking boss says Martin Keown
+ - [https://www.bbc.co.uk/sport/av/football/65000635?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/65000635?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 12:34:26+00:00
+
+Football Focus pundit Martin Keown says Crystal Palace made a 'panicked' decision in sacing Patrick Vieira as manager ahead of the weekend's Premier League fixture against leaders Arsenal.
+
+## NBA: Dallas Mavericks beat LA Lakers with dramatic Maxi Kleber buzzer-beater
+ - [https://www.bbc.co.uk/sport/av/basketball/65000346?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/basketball/65000346?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 11:59:45+00:00
+
+Watch the dramatic finale as the Dallas Mavericks beat the LA Lakers 111-110 with a Maxi Kleber buzzer-beater after Anthony Davis misses a crucial late free throw.
+
+## Taylor Swift launches Eras tour with three-hour, 44-song set
+ - [https://www.bbc.co.uk/news/entertainment-arts-64999388?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64999388?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 10:09:59+00:00
+
+The star plays for three hours as she launches her long-awaited Eras stadium tour in Arizona.
+
+## Imran Khan mobbed by supporters as he leaves for court
+ - [https://www.bbc.co.uk/news/world-asia-64999864?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64999864?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 10:06:45+00:00
+
+The former prime minister is travelling with a convoy of armed security as he travels to Islamabad.
+
+## Abortion pills banned in Wyoming as Texas judge considers nationwide decision
+ - [https://www.bbc.co.uk/news/world-us-canada-64998920?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64998920?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 09:09:17+00:00
+
+The ban comes as a Texas judge considers revoking nationwide approval of a common abortion pill.
+
+## Cambridge University college to examine its slavery legacy
+ - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-64995973?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-64995973?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 08:19:05+00:00
+
+Trinity College says a new role will consider ways the college may have gained from slavery.
+
+## Indian Wells: Elena Rybakina through to final after defeating Iga Swiatek
+ - [https://www.bbc.co.uk/sport/tennis/64998843?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/64998843?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 07:25:08+00:00
+
+Wimbledon champion Elena Rybakina beats world number one Iga Swiatek in straight sets to reach the Indian Wells final.
+
+## Leon Edwards v Kamaru Usman 3: UFC 286 predictions for welterweight world-title fight
+ - [https://www.bbc.co.uk/sport/mixed-martial-arts/64966003?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/mixed-martial-arts/64966003?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 06:55:15+00:00
+
+Leon Edwards defends his UFC welterweight title against Kamaru Usman in a trilogy fight on Saturday - here are some predictions from the MMA world.
+
+## Match of the Day Top 10: Lineker, Shearer and Richards talk Keane and Vieira rivalry
+ - [https://www.bbc.co.uk/sport/av/football/64976973?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/64976973?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 06:30:52+00:00
+
+Gary Lineker, Alan Shearer and Micah Richards look back on rivalry between Roy Keane and Patrick Vieira as they decide who was best.
+
+## Six Nations 2023: Ireland face wounded England for historic Grand Slam
+ - [https://www.bbc.co.uk/sport/rugby-union/64988703?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/64988703?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 06:16:52+00:00
+
+Ireland aim to end their Six Nations by celebrating a Grand Slam in Dublin, but a wounded England side are determined to spoil the party.
+
+## Putin arrest warrant: Biden welcomes ICC's war crimes charges
+ - [https://www.bbc.co.uk/news/world-europe-64998165?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64998165?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 04:39:24+00:00
+
+The International Criminal Court accuses the Russian leader of unlawfully deporting Ukrainian children.
+
+## Harry Styles made check-up calls after his Grammys performance went wrong
+ - [https://www.bbc.co.uk/news/entertainment-arts-64991570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-64991570?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 03:08:09+00:00
+
+The star made sure the technicians responsible for his performance were OK following a stage mishap.
+
+## Disruption for train passengers as rail strikes continue
+ - [https://www.bbc.co.uk/news/uk-64998204?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64998204?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 02:38:47+00:00
+
+RMT members at 14 train operators are walking out, leaving some areas of the UK with no services.
+
+## Italy leaves children of same-sex parents in limbo
+ - [https://www.bbc.co.uk/news/world-europe-64967517?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64967517?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 02:12:01+00:00
+
+Italy's right-wing government prompts an outcry by halting registration of children of same-sex parents.
+
+## France pension protests: Crowd clashes with police as government pushes through reform
+ - [https://www.bbc.co.uk/news/world-europe-64997414?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-64997414?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 01:08:42+00:00
+
+A second night of unrest grips France after the government pushed through pension changes without a vote.
+
+## Week in pictures: 11-17 March
+ - [https://www.bbc.co.uk/news/in-pictures-64988150?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-64988150?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 00:45:27+00:00
+
+A selection of striking images from all over the globe, taken in the past seven days.
+
+## Free childcare: Is Jeremy Hunt's Budget promise feasible?
+ - [https://www.bbc.co.uk/news/education-64985069?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/education-64985069?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 00:32:08+00:00
+
+The government announced an expansion of free childcare in the Budget - but will it actually work?
+
+## Fraud victim gets surprise £153,000 refund despite rules
+ - [https://www.bbc.co.uk/news/business-64981507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-64981507?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 00:06:07+00:00
+
+A victim who was targeted and groomed by criminals, was helped by Radio 4's Money Box programme.
+
+## Thousands may have lost out to crypto trading app
+ - [https://www.bbc.co.uk/news/technology-64939146?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-64939146?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 00:00:36+00:00
+
+Experts who investigated iEarn Bot say it could be part of one of the biggest-ever crypto scandals.
+
+## How Australia wrote the 'stop the boats' playbook
+ - [https://www.bbc.co.uk/news/world-australia-64898507?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-64898507?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-03-18 00:00:23+00:00
+
+The policy slogan used by Rishi Sunak is the same as that used 10 years ago in Australia.
+
