@@ -1,0 +1,151 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: Gwyneth Paltrow responds to criticism over her extreme diet and it's as cringetastic as you would hope
+ - [https://www.louderwithcrowder.com/gwyneth-paltrow-diet-criticism-video](https://www.louderwithcrowder.com/gwyneth-paltrow-diet-criticism-video)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-19 13:25:39+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33317755&amp;width=1200&amp;height=800&amp;coordinates=22%2C0%2C178%2C0" /><br /><br /><p>Last week, <a href="https://www.louderwithcrowder.com/gwyneth-paltrow-rectal-ozone-therapy" target="_blank">Gwyneth Paltrow</a> gave us waaayyyy too much information on her health routine. Specifically, rectal ozone therapy. Which no one wanted or needed to know about. Ever. </p><p>But viewers of that interview were also concerned with Paltrow's self-described diet. She explained she does intermittent fasting, breaking her fast around noon. She has coffee in the morning, bone broth for lunch,  and lots of vegetables for dinner. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/urbanmodernism/status/1635706462902075393"></a>
+</blockquote>
+<p>I don't know about you, but this diet would leave me seriously hangry. I actually also do intermittent fasting, but I eat waaayyy more than bone broth and vegetables. That just sounds sad. </p><p>After facing widespread criticism, Gwyneth made a video defending her dietary choices. She said she's trying to treat her "long Covid". With bone broth. Now, I'm no doctor, but that seems like it <em>may</em> not work. </p><p><em>"So I’ve been working with Dr. Cole to really focus on foods that aren’t inflammatory ... so lots of vegetables, cooked vegetables, all kinds of protein, healthy carbs to really lower inflammation and it’s been working really well. This is, you know, based on my medical results and extensive testing that I’ve done over time." </em></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/PopCrave/status/1636843001040326657"></a>
+</blockquote>
+<p>She also clarified that she doesn't eat this way everyday, and that her diet shouldn't be an example for anyone else to follow: <em>"I eat full meals. I also have days where I eat whatever I want, <a href="https://www.louderwithcrowder.com/mcdonalds-employee-murdered-french-fries" target="_blank">French fries</a> or whatever. My baseline has been to try to eat healthy and try to eat foods that really calm the system down."</em></p><p>I hope she's telling the truth. A diet of broth and veggies is enough to make anyone feel constantly ill. And sad. But she could just be trying to quell the criticism by claiming she eats french fries. </p><p>What would be <em>more</em> interesting is an explainer on the ozone rectal therapy. I know I said that was TMI, but once you put something like that out there, you gotta expect some questions from the public. </p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Video of an addict nonchalantly cooking up fentanyl in front of a child tells you all you need to know about Portland
+ - [https://www.louderwithcrowder.com/video-of-an-addict-nonchalantly-cooking-up-fentanyl-in-front-of-a-child-tells-you-all-you-need-to-know-about-portland](https://www.louderwithcrowder.com/video-of-an-addict-nonchalantly-cooking-up-fentanyl-in-front-of-a-child-tells-you-all-you-need-to-know-about-portland)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-19 13:07:16+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33317671&amp;width=1200&amp;height=800&amp;coordinates=259%2C0%2C257%2C0" /><br /><br /><p>If you ever wondered what kind of nincompoops would keep reelecting the same progressive politicians to enact the same progressive policies that have turned out cities into crime-riddle, drug-infested, suckhole, look no further than Portland. It's the same voters who sit there and do nothing as a homeless guy cooks drugs in front of children.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">*Today In <a href="https://twitter.com/hashtag/Portland?src=hash&amp;ref_src=twsrc%5Etfw">#Portland</a>*<br /><br />Man Smokes Fentanyl in front of Children and Blows it in Elderly People's Faces.<br /><br />This is exactly why you should never consider visiting this city or bringing your families Downtown.<br />-<a href="https://twitter.com/hashtag/Measure110?src=hash&amp;ref_src=twsrc%5Etfw">#Measure110</a> <a href="https://twitter.com/tedwheeler?ref_src=twsrc%5Etfw">@TedWheeler</a> <a href="https://twitter.com/TinaKotek?ref_src=twsrc%5Etfw">@TinaKotek</a> <a href="https://t.co/77ppQgHdRz">pic.twitter.com/77ppQgHdRz</a><br />— Brandon Farley (Portland Journalist) (@TheRealFarley) <a href="https://twitter.com/TheRealFarley/status/1637248329506488325?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote> </div><p>I get that Portland prides itself on its wokeness. A lesbian bar <a href="https://www.louderwithcrowder.com/portland-bar-forced-close" target="_blank">was shut down for not showing enough equity</a>. White liberals <a href="https://www.louderwithcrowder.com/portland-fired-security" target="_blank">got a black security guard fired claiming he was a white supremacist</a>. And the homeless <a href="https://www.louderwithcrowder.com/residents-complain-about-homeless" target="_blank">take precedence over the people who keep electing the same politicians who give the homeless precedence</a>.</p><p>But sitting there while a man cooks drugs in front of your son? The boy is "walking the balance beam" like kids do, and STARING right at a guy doing fentanyl while his father does nothing.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="95ac4" src="https://www.louderwithcrowder.com/media-library/image.png?id=33317704&amp;width=980" />
+</p>
+<p>Later in the video, the guy blows smoke in women's faces. They walk by as if it's just another day in their progressive paradise.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="50e2c" src="https://www.louderwithcrowder.com/media-library/image.png?id=33317705&amp;width=980" />
+</p>
+<p>Having grown-ass men cook up and do drugs in front of your children is better than the unthinkable alternative. Electing conservatives who might do something about crime like enforce laws or, heaven forbid, punish criminals. If the choice is between voting for a Republican or exposing Little Timmy to drug addicts, little Timmy needs to fend for himself.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Video of an addict nonchalantly cooking up fentanyl in front of a child tells you all you need to know about Portland
+ - [https://www.louderwithcrowder.com/video-addict-portland](https://www.louderwithcrowder.com/video-addict-portland)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-19 13:07:16+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33317671&amp;width=1200&amp;height=800&amp;coordinates=259%2C0%2C257%2C0" /><br /><br /><p>If you ever wondered what kind of nincompoops would keep reelecting the same progressive politicians to enact the same progressive policies that have turned our cities into crime-ridden, drug-infested, suckholes, look no further than Portland. It's the same voters who sit there and do nothing as a homeless guy cooks drugs in front of children.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">*Today In <a href="https://twitter.com/hashtag/Portland?src=hash&amp;ref_src=twsrc%5Etfw">#Portland</a>*<br /><br />Man Smokes Fentanyl in front of Children and Blows it in Elderly People's Faces.<br /><br />This is exactly why you should never consider visiting this city or bringing your families Downtown.<br />-<a href="https://twitter.com/hashtag/Measure110?src=hash&amp;ref_src=twsrc%5Etfw">#Measure110</a> <a href="https://twitter.com/tedwheeler?ref_src=twsrc%5Etfw">@TedWheeler</a> <a href="https://twitter.com/TinaKotek?ref_src=twsrc%5Etfw">@TinaKotek</a> <a href="https://t.co/77ppQgHdRz">pic.twitter.com/77ppQgHdRz</a><br />— Brandon Farley (Portland Journalist) (@TheRealFarley) <a href="https://twitter.com/TheRealFarley/status/1637248329506488325?ref_src=twsrc%5Etfw">March 19, 2023</a></blockquote> </div><p>I get that Portland prides itself on its wokeness. A lesbian bar <a href="https://www.louderwithcrowder.com/portland-bar-forced-close" target="_blank">was shut down for not showing enough equity</a>. White liberals <a href="https://www.louderwithcrowder.com/portland-fired-security" target="_blank">got a black security guard fired claiming he was a white supremacist</a>. And the homeless <a href="https://www.louderwithcrowder.com/residents-complain-about-homeless" target="_blank">take precedence over the people who keep electing the same politicians who give the homeless precedence</a>.</p><p>But sitting there while a man cooks drugs in front of your son? The boy is "walking the balance beam" as kids do, and STARING right at a guy doing fentanyl while his father does nothing.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="95ac4" src="https://www.louderwithcrowder.com/media-library/image.png?id=33317704&amp;width=980" />
+</p><p>Later in the video, the guy blows smoke in women's faces. They walk by as if it's just another day in their progressive paradise.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="50e2c" src="https://www.louderwithcrowder.com/media-library/image.png?id=33317705&amp;width=980" />
+</p><p>Having grown-ass men cook up and do drugs in front of your children is better than the unthinkable alternative to Portlandians. Worse would be to elect conservatives who might do something about crime like enforce laws or, heaven forbid, punish criminals. If the choice is between voting for a Republican or exposing Little Timmy to drug addicts, little Timmy needs to fend for himself.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Another NHL player stands up to the woke mob, refuses to wear the rainbow due to his personal beliefs
+ - [https://www.louderwithcrowder.com/james-reimer-rainbow-jersey](https://www.louderwithcrowder.com/james-reimer-rainbow-jersey)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-19 13:04:07+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33317714&amp;width=1200&amp;height=800&amp;coordinates=90%2C0%2C110%2C0" /><br /><br /><p>A second NHL player has decided to stand up to the woke mob by refusing to wear an LGBTQ+ Pride jersey. I'm sure the media will <em>completely</em> understand this decision and <a href="https://www.louderwithcrowder.com/nhl-network-analyst-lashes-out" target="_blank">definitely not lose their minds</a> over an athlete's personal decision that contradicts the state-mandated narrative. Just like they did with <a href="https://www.louderwithcrowder.com/nhl-pride-jersey-ivan-provorov" target="_blank">Ivan Provorov</a>. When that happened, they just<em> *checks notes*.</em>..cried on air. Oh.</p><p>James Reimer, goalie for the San Jose Sharks, announced his decision in a statement yesterday: <em>"Under the umbrella of the NHL's Hockey is for Everyone initiative, the San Jose Sharks have chosen to wear jerseys in support of the LGBTQIA+ community tonight."</em></p><p><em>"For all 13 years of my NHL career, I have been a Christian - not just in title, but in how I choose to live my life daily. I have a personal faith in Jesus Christ who died on the cross for my sins and, in response, asks me to love everyone and follow Him. I have no hate in my heart for anyone, and I have always strived to treat everyone that I encounter with respect and kindness."</em></p><p><em>"In this specific instance, I am choosing not to endorse something that is counter to my personal convictions which are based on the Bible, the highest authority in my life."</em></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">None</div> —  (@)
+        <a href="https://twitter.com/SanJoseSharks/status/1637185613442215937"></a>
+</blockquote>
+<p><em>"I strongly believe that every person has value and worth, and the LGBTQIA+ community, like all others, should be welcomed in all aspects of the game of hockey."</em></p><p>In Christianity, pride is not a virtue. It's actually one of the worst sins that plagues mankind. Lucifer 's pride led to him being cast into Hell for all of eternity. On top of that, the whole movement is centered around one of the acts that got Sodom and Gomorrah served up extra crispy. </p><p>In other words, the reason for Reimer's protest is not because he's a meanie head who hates gay people. The problem is the public endorsement and celebration of sinful acts. Which I'm <em>sure</em> the woke mob will understand...</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+
+## Joe Biden's jive about paying "your fair share" gets fact-checked into oblivion when Elon Musk calls down the thunder
+ - [https://www.louderwithcrowder.com/joe-biden-fair-share-elon](https://www.louderwithcrowder.com/joe-biden-fair-share-elon)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-03-19 12:15:29+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=33317582&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>Joe Biden has been showing his jealousy of rich folk again. He is on another of his "they aren't paying their fair share" kicks. Remember, this is the same Joe Biden whose IRS is <a href="https://www.louderwithcrowder.com/irs-600-side-job" target="_blank">coming after your side hustles if you make more than $600</a>. But also, billionaires aren't paying their fair share. Or so Biden wants you to believe. Community Notes (with an Elon Musk assist) is here to save the day and has <a href="https://www.louderwithcrowder.com/joe-biden-twitterjob-growth" target="_blank">fact-checked another misleading Biden tweet</a> into oblivion.</p><p>Let's start with the Biden meme claiming billionaires only pay 3%.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Look, I think you should be able to be a billionaire if you can earn it, but just pay your fair share.<br /> <br />I think you ought to pay a minimum tax of 25%.<br /> <br />It’s about basic fairness. <a href="https://t.co/oHgreYCdUz">pic.twitter.com/oHgreYCdUz</a><br />— President Biden (@POTUS) <a href="https://twitter.com/POTUS/status/1637136790208356354?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote> </div><p>This was news to Elon Musk, who is not only a billionaire but the billionairest of ALL the billionaires. Musk paid 53% (that's a lot more than 3%) on stock options while also paying more in income tax than everyone ever in the history of taxing income.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Look, I think you should be able to be a billionaire if you can earn it, but just pay your fair share.<br /> <br />I think you ought to pay a minimum tax of 25%.<br /> <br />It’s about basic fairness. <a href="https://t.co/oHgreYCdUz">pic.twitter.com/oHgreYCdUz</a><br />— President Biden (@POTUS) <a href="https://twitter.com/POTUS/status/1637136790208356354?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote> </div><p>Elon called down Community Notes for some fact-checking. They took a break from clarifying tweets on <a href="https://www.louderwithcrowder.com/david-hogg-fact-check" target="_blank">gun ownership</a> and <a href="https://www.louderwithcrowder.com/butt-plug-porn-nikki-fried" target="_blank">butt-plug porn</a> to say Biden is repeating some of them invalid truths again. "This claim has been repeatedly assessed as inaccurate. It relies on a theoretical calculation that treats unrealized capital gains (increase in the value of unsold stocks) as income even though current tax law does not. (Taxes occur once stocks are sold for profit.)"</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="ef180" src="https://www.louderwithcrowder.com/media-library/image.png?id=33317614&amp;width=980" />
+</p><p>So what have we learned today?</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Game. Blouses <a href="https://t.co/R8WglrEokr">pic.twitter.com/R8WglrEokr</a><br />— Colt Yohman (@CStyles45) <a href="https://twitter.com/CStyles45/status/1637194642885148681?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote> </div><p>Community Notes once again comes in clutch. If the White House wants to lie to the American people, they're going to have to rely on MSNBC instead.</p><p><p>
+<i>
+<strong>Editor's Note:</strong>
+</i>
+</p>
+<p>
+<i></i>
+</p>
+<p>
+<i>It’s official. MugClub. Is. Back.
+	</i>
+</p>
+<p>
+<i>Everyone here at the team is thrilled to inform you that <a href="http://louderwithcrowder.com/MugClub" rel="noopener noreferrer" target="_blank">MugClub relaunches on March 20, 2023</a>. It is bigger, it is better, it is more affordable, it will include MORE content than ever AND it’s powered by Rumble! 
+	</i>
+</p>
+<p>
+<i>Did I mention that the annual price <a href="http://louderwithcrowder.com/MugClub" target="_blank">has been lowered from $99 to $89</a>?</i>
+</p></p>
+

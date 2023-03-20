@@ -1,0 +1,142 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Biden calls Netanyahu to 'express concern' over judicial system overhaul
+ - [https://www.lemonde.fr/en/united-states/article/2023/03/19/biden-calls-netanyahu-to-express-concern-over-judicial-system-overhaul_6019954_133.html](https://www.lemonde.fr/en/united-states/article/2023/03/19/biden-calls-netanyahu-to-express-concern-over-judicial-system-overhaul_6019954_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 22:37:04+00:00
+
+There was no immediate indication that Netanyahu was shying away from the action, after rejecting a compromise last week offered by the country’s figurehead president.
+
+## Putin praises China's willingness to play 'constructive role' in ending War in Ukraine
+ - [https://www.lemonde.fr/en/asia-and-pacific/article/2023/03/19/putin-praises-china-s-willingness-to-play-constructive-role-in-ending-war-in-ukraine_6019952_153.html](https://www.lemonde.fr/en/asia-and-pacific/article/2023/03/19/putin-praises-china-s-willingness-to-play-constructive-role-in-ending-war-in-ukraine_6019952_153.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 21:24:35+00:00
+
+Xi Jinping heads to Russia on Monday hoping to deliver a breakthrough on Ukraine as Beijing seeks to position itself as a peacemaker.
+
+## Visible mending: An act of resistance to fast fashion
+ - [https://www.lemonde.fr/en/our-times/article/2023/03/19/visible-mending-an-act-of-resistance-to-fast-fashion_6019951_39.html](https://www.lemonde.fr/en/our-times/article/2023/03/19/visible-mending-an-act-of-resistance-to-fast-fashion_6019951_39.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 20:00:08+00:00
+
+The time for discreet repairs is over. Now, when it comes to patching a hole in the elbow, it has to be seen. The 'visible mending' trend is as much an act of resistance to fast fashion as a source of creative pride.
+
+## Credit Suisse: UBS finds deal to acquire troubled rival
+ - [https://www.lemonde.fr/en/economy/article/2023/03/19/credit-suisse-ubs-finds-deal-to-acquire-troubled-rival_6019945_19.html](https://www.lemonde.fr/en/economy/article/2023/03/19/credit-suisse-ubs-finds-deal-to-acquire-troubled-rival_6019945_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 19:00:39+00:00
+
+An agreement shephered by Swiss authorities was found on Sunday for banking giant UBS to buy Credit Suisse, whose share price plummeted this week.
+
+## Inside the ECB, where the euro is defended at all costs
+ - [https://www.lemonde.fr/en/m-le-mag/article/2023/03/19/inside-the-ecb-where-the-euro-is-defended-at-all-costs_6019941_117.html](https://www.lemonde.fr/en/m-le-mag/article/2023/03/19/inside-the-ecb-where-the-euro-is-defended-at-all-costs_6019941_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 18:30:23+00:00
+
+The European Central Bank has been the guardian of the European single currency for almost 25 years. During the pandemic, its massive cash injections saved the eurozone. But with the war in Ukraine and soaring prices, it is going back to its severe stances.
+
+## China struggles to meet climate targets
+ - [https://www.lemonde.fr/en/international/article/2023/03/19/china-struggles-to-meet-climate-targets_6019938_4.html](https://www.lemonde.fr/en/international/article/2023/03/19/china-struggles-to-meet-climate-targets_6019938_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 16:00:25+00:00
+
+Chinese President Xi Jinping wants to boost China's green development. However, his desire to cut CO2 emissions comes up against the challenges of economic growth.
+
+## China: Xi Jinping's global ambitions
+ - [https://www.lemonde.fr/en/international/article/2023/03/19/china-xi-jinping-s-global-ambitions_6019937_4.html](https://www.lemonde.fr/en/international/article/2023/03/19/china-xi-jinping-s-global-ambitions_6019937_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 15:00:06+00:00
+
+The Chinese leader, who has just been unanimously re-elected president, is to visit Moscow on March 20, with the ambition of strengthening 'the most important bilateral relations in the world.'
+
+## When students turn on Godard, Koltès and Chekhov
+ - [https://www.lemonde.fr/en/culture/article/2023/03/19/when-students-turn-on-godard-koltes-and-chekhov_6019932_30.html](https://www.lemonde.fr/en/culture/article/2023/03/19/when-students-turn-on-godard-koltes-and-chekhov_6019932_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 13:00:13+00:00
+
+Accused of being sexist or post-colonial, yesterday's icons are now being deconstructed in art, film and theater schools, and teachers' words are being questioned.
+
+## Meet Bernd Mayländer, Formula 1's safety car driver
+ - [https://www.lemonde.fr/en/sports/article/2023/03/19/formula-1-bernd-maylander-safety-car-driver-and-single-seater-tamer_6019929_9.html](https://www.lemonde.fr/en/sports/article/2023/03/19/formula-1-bernd-maylander-safety-car-driver-and-single-seater-tamer_6019929_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 12:00:05+00:00
+
+For 24 years, the German has been driving the safety car at Formula 1 Grand Prix races, observing developments in motor racing up close.
+
+## New pension protests in France ahead of crucial votes
+ - [https://www.lemonde.fr/en/politics/article/2023/03/19/new-pension-protests-in-france-ahead-of-crucial-votes_6019925_5.html](https://www.lemonde.fr/en/politics/article/2023/03/19/new-pension-protests-in-france-ahead-of-crucial-votes_6019925_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 11:35:50+00:00
+
+The head of the conservative party Les Républicains found his constituency office had been pelted with rocks overnight, ahead of two votes of no-confidence on Monday.
+
+## 'What employees want is to engage in meaningful work'
+ - [https://www.lemonde.fr/en/opinion/article/2023/03/19/what-employees-want-is-to-engage-in-meaningful-work_6019922_23.html](https://www.lemonde.fr/en/opinion/article/2023/03/19/what-employees-want-is-to-engage-in-meaningful-work_6019922_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 11:00:29+00:00
+
+The priority given to procedures and the individualization of performance in companies diminishes the satisfaction of a 'job well done,' writes consultant Guy Le Boterf.
+
+## 'Lowering labor costs has become the cornerstone of French economic and social policies'
+ - [https://www.lemonde.fr/en/france/article/2023/03/19/lowering-labor-costs-has-become-the-cornerstone-of-french-economic-and-social-policies_6019920_7.html](https://www.lemonde.fr/en/france/article/2023/03/19/lowering-labor-costs-has-become-the-cornerstone-of-french-economic-and-social-policies_6019920_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 10:40:28+00:00
+
+By dint of being considered exclusively as a cost, work has been greatly depreciated and damaged over time, writes political scientist Bruno Palier.
+
+## Pension reform: Parliament override did not go down well with some Macron allies
+ - [https://www.lemonde.fr/en/politics/article/2023/03/19/pension-reform-parliament-override-did-not-go-down-well-with-some-macron-allies_6019915_5.html](https://www.lemonde.fr/en/politics/article/2023/03/19/pension-reform-parliament-override-did-not-go-down-well-with-some-macron-allies_6019915_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 09:40:08+00:00
+
+Several members of French President Emmanuel Macron's party and its allies were unhappy with the government's decision to force the bill through the Assemblée Nationale without a vote.
+
+## Russia's Vladimir Putin visited Mariupol after Crimea
+ - [https://www.lemonde.fr/en/international/article/2023/03/19/russia-s-vladimir-putin-visited-mariupol-after-crimea_6019908_4.html](https://www.lemonde.fr/en/international/article/2023/03/19/russia-s-vladimir-putin-visited-mariupol-after-crimea_6019908_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 05:24:55+00:00
+
+This is the Russian leader's first trip to the port city in southern Ukraine, which Moscow captured after a long siege. Putin was in Crimea on Saturday to mark the ninth anniversary of the peninsula's annexation.
+
+## Solar energy is being harnessed everywhere (except France)
+ - [https://www.lemonde.fr/en/economy/article/2023/03/19/solar-energy-is-being-harnessed-everywhere-except-france_6019901_19.html](https://www.lemonde.fr/en/economy/article/2023/03/19/solar-energy-is-being-harnessed-everywhere-except-france_6019901_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 04:42:35+00:00
+
+Thanks to falling costs, easy construction, and flexibility, solar power installations are being built everywhere from China to the United States.
+
+## Kosovo and Serbia fail to sign agreement after marathon talks
+ - [https://www.lemonde.fr/en/international/article/2023/03/19/kosovo-and-serbia-fail-to-sign-agreement-after-marathon-talks_6019896_4.html](https://www.lemonde.fr/en/international/article/2023/03/19/kosovo-and-serbia-fail-to-sign-agreement-after-marathon-talks_6019896_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 04:37:38+00:00
+
+Kosovo's Prime Minister Albin Kurti and Serbian President Aleksandar Vucic engaged in negotiations for nearly 12 hours Saturday during a summit in North Macedonia, picking over a plan unveiled by the EU last month. But in the end, they failed to iron out a final agreement that could be signed by both.
+
+## 'With the IRA, free trade is over: now, the key challenge is supply chain security'
+ - [https://www.lemonde.fr/en/opinion/article/2023/03/19/with-the-ira-free-trade-is-over-now-the-key-challenge-is-supply-chain-security_6019892_23.html](https://www.lemonde.fr/en/opinion/article/2023/03/19/with-the-ira-free-trade-is-over-now-the-key-challenge-is-supply-chain-security_6019892_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 03:54:41+00:00
+
+The global American economic strategy, now embodied by the Inflation Reduction Act (IRA), aims to 'adjust globalization' as a way to counter the rise of China, explains analyst Olivier Sueur in an op-ed.
+
+## China sees a boom in apps encouraging individuals to reduce their carbon footprint
+ - [https://www.lemonde.fr/en/pixels/article/2023/03/19/china-sees-a-boom-in-apps-encouraging-individuals-to-reduce-their-carbon-footprint_6019889_13.html](https://www.lemonde.fr/en/pixels/article/2023/03/19/china-sees-a-boom-in-apps-encouraging-individuals-to-reduce-their-carbon-footprint_6019889_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 03:12:33+00:00
+
+Various digital apps developed in partnership with the public sector have emerged in recent months in China, with the aim of reducing individuals' carbon footprints. They already have several million users.
+
+## In Rio de Janeiro, rooftop tanning salons are all the rage
+ - [https://www.lemonde.fr/en/international/article/2023/03/19/in-rio-rooftop-tanning-salons-are-all-the-rage_6019886_4.html](https://www.lemonde.fr/en/international/article/2023/03/19/in-rio-rooftop-tanning-salons-are-all-the-rage_6019886_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 01:48:26+00:00
+
+Mostly reserved for women, and especially popular in suburban outskirts, far from the beach, tanning salons are criticized by dermatologists, who consider them harmful to the skin.
+
+## In Lyon, striking Euronews journalists alert European leaders to 'the dismantling of the channel'
+ - [https://www.lemonde.fr/en/economy/article/2023/03/19/in-lyon-striking-euronews-journalists-alert-european-leaders-to-the-dismantling-of-the-channel_6019884_19.html](https://www.lemonde.fr/en/economy/article/2023/03/19/in-lyon-striking-euronews-journalists-alert-european-leaders-to-the-dismantling-of-the-channel_6019884_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-03-19 01:25:57+00:00
+
+The European channel based in Lyon is planning to lay off 197 workers. For the unions, this redundancy plan is a step towards the 'abandonment of public service' in favor of lobbying.
+
