@@ -1,0 +1,781 @@
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Hyundai Promises to Keep Buttons in Cars
+ - [https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous](https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 22:43:25+00:00
+
+<p>Article URL: <a href="https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous">https://www.thedrive.com/news/hyundai-promises-to-keep-buttons-in-cars-because-touchscreen-controls-are-dangerous</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35253753">https://news.ycombinator.com/item?id=35253753</a></p>
+<p>Points: 40</p>
+<p># Comments: 10</p>
+
+## The collapse of companies like SVB is triggering demand for corporate merch
+ - [https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/](https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 21:52:01+00:00
+
+<p>Article URL: <a href="https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/">https://www.modernretail.co/marketing/the-collapse-of-companies-like-svb-is-triggering-demand-for-limited-edition-corporate-merch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35253098">https://news.ycombinator.com/item?id=35253098</a></p>
+<p>Points: 29</p>
+<p># Comments: 14</p>
+
+## Can AI-Generated Text Be Reliably Detected?
+ - [https://arxiv.org/abs/2303.11156](https://arxiv.org/abs/2303.11156)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 21:51:31+00:00
+
+<p>Article URL: <a href="https://arxiv.org/abs/2303.11156">https://arxiv.org/abs/2303.11156</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35253088">https://news.ycombinator.com/item?id=35253088</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
+
+## Understanding the .NET ecosystem: The evolution of .NET into .NET 7
+ - [https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/](https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 21:29:17+00:00
+
+<p>Article URL: <a href="https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/">https://andrewlock.net/understanding-the-dotnet-ecosystem-the-evolution-of-dotnet-into-dotnet-7/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252837">https://news.ycombinator.com/item?id=35252837</a></p>
+<p>Points: 79</p>
+<p># Comments: 45</p>
+
+## Reasons Not to Use Google
+ - [https://stallman.org/google.html](https://stallman.org/google.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 21:22:48+00:00
+
+<p>Article URL: <a href="https://stallman.org/google.html">https://stallman.org/google.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252755">https://news.ycombinator.com/item?id=35252755</a></p>
+<p>Points: 30</p>
+<p># Comments: 18</p>
+
+## Polio cases in Africa linked to new oral vaccine
+ - [https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa](https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 21:11:59+00:00
+
+<p>Article URL: <a href="https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa">https://www.science.org/content/article/first-polio-cases-linked-new-oral-vaccine-detected-africa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252637">https://news.ycombinator.com/item?id=35252637</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+## Grace Hopper on Late Night with David Letterman (1986)
+ - [https://www.youtube.com/watch?v=oE2uls6iIEU](https://www.youtube.com/watch?v=oE2uls6iIEU)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 21:10:47+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=oE2uls6iIEU">https://www.youtube.com/watch?v=oE2uls6iIEU</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252618">https://news.ycombinator.com/item?id=35252618</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+## Oliver Stone Releases Trailer for His Pro-Nuclear Energy Movie
+ - [https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/](https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 20:57:07+00:00
+
+<p>Article URL: <a href="https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/">https://www.hollywoodreporter.com/movies/movie-news/oliver-stone-nuclear-now-trailer-1235357522/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252440">https://news.ycombinator.com/item?id=35252440</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+## Mostly adequate guide to FP (in JavaScript)
+ - [https://mostly-adequate.gitbook.io/mostly-adequate-guide/](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 20:55:37+00:00
+
+<p>Article URL: <a href="https://mostly-adequate.gitbook.io/mostly-adequate-guide/">https://mostly-adequate.gitbook.io/mostly-adequate-guide/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252416">https://news.ycombinator.com/item?id=35252416</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
+
+## Your website's content -> Q&A bot / chatbot
+ - [https://github.com/mpaepper/content-chatbot](https://github.com/mpaepper/content-chatbot)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 20:42:12+00:00
+
+<p>Article URL: <a href="https://github.com/mpaepper/content-chatbot">https://github.com/mpaepper/content-chatbot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252223">https://news.ycombinator.com/item?id=35252223</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+## Create an IAM group and ass a user
+ - [https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html](https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 20:40:58+00:00
+
+<p>Article URL: <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html">https://docs.aws.amazon.com/IAM/latest/UserGuide/example_iam_Scenario_GroupBasics_section.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252206">https://news.ycombinator.com/item?id=35252206</a></p>
+<p>Points: 44</p>
+<p># Comments: 7</p>
+
+## Intel graphics chief Raja Koduri leaves after five years battling Nvidia and AMD
+ - [https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup](https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 20:28:48+00:00
+
+<p>Article URL: <a href="https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup">https://www.theverge.com/2023/3/21/23650611/intel-raja-koduri-gpus-amd-nvidia-apple-leave-ai-startup</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35252056">https://news.ycombinator.com/item?id=35252056</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+## Grover's Algorithm Offers No Quantum Advantage
+ - [https://arxiv.org/abs/2303.11317](https://arxiv.org/abs/2303.11317)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 19:58:31+00:00
+
+<p>Article URL: <a href="https://arxiv.org/abs/2303.11317">https://arxiv.org/abs/2303.11317</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35251677">https://news.ycombinator.com/item?id=35251677</a></p>
+<p>Points: 30</p>
+<p># Comments: 7</p>
+
+## Top highest-earning Substack newsletters generate over $22M a year
+ - [https://pressgazette.co.uk/newsletters/highest-earning-substacks/](https://pressgazette.co.uk/newsletters/highest-earning-substacks/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 19:45:28+00:00
+
+<p>Article URL: <a href="https://pressgazette.co.uk/newsletters/highest-earning-substacks/">https://pressgazette.co.uk/newsletters/highest-earning-substacks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35251505">https://news.ycombinator.com/item?id=35251505</a></p>
+<p>Points: 22</p>
+<p># Comments: 11</p>
+
+## PDF/A-3, PDF for Long-Term Preservation, Use of ISO 32000-1... (2020)
+ - [https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml](https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 19:00:20+00:00
+
+<p>Article URL: <a href="https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml">https://www.loc.gov/preservation/digital/formats/fdd/fdd000360.shtml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35250873">https://news.ycombinator.com/item?id=35250873</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
+
+## The Age of AI has begun
+ - [https://www.gatesnotes.com/The-Age-of-AI-Has-Begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 18:40:39+00:00
+
+<p>Article URL: <a href="https://www.gatesnotes.com/The-Age-of-AI-Has-Begun">https://www.gatesnotes.com/The-Age-of-AI-Has-Begun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35250564">https://news.ycombinator.com/item?id=35250564</a></p>
+<p>Points: 67</p>
+<p># Comments: 25</p>
+
+## Typst, a modern alternative to LaTeX, is now open source
+ - [https://github.com/typst/typst](https://github.com/typst/typst)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 18:18:00+00:00
+
+<p>Article URL: <a href="https://github.com/typst/typst">https://github.com/typst/typst</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35250210">https://news.ycombinator.com/item?id=35250210</a></p>
+<p>Points: 59</p>
+<p># Comments: 15</p>
+
+## Switzerland bans deferred bonuses for Credit Suisse staff
+ - [https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287](https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 18:07:01+00:00
+
+<p>Article URL: <a href="https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287">https://www.ft.com/content/cb213446-332d-4689-8911-e0371c2eb287</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35250045">https://news.ycombinator.com/item?id=35250045</a></p>
+<p>Points: 33</p>
+<p># Comments: 15</p>
+
+## Windows Snipping Tool is vulnerable to Acropalypse too
+ - [https://twitter.com/David3141593/status/1638222624084951040](https://twitter.com/David3141593/status/1638222624084951040)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 18:03:09+00:00
+
+<p>Article URL: <a href="https://twitter.com/David3141593/status/1638222624084951040">https://twitter.com/David3141593/status/1638222624084951040</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35249971">https://news.ycombinator.com/item?id=35249971</a></p>
+<p>Points: 30</p>
+<p># Comments: 10</p>
+
+## How TikTok Broke the Ad Business
+ - [https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business](https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 17:26:52+00:00
+
+<p>Article URL: <a href="https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business">https://www.economist.com/business/2023/03/21/how-tiktok-broke-the-ad-business</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35249438">https://news.ycombinator.com/item?id=35249438</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+## PeerTube 5.1 Is Out
+ - [https://joinpeertube.org/news/release-5.1](https://joinpeertube.org/news/release-5.1)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 17:17:55+00:00
+
+<p>Article URL: <a href="https://joinpeertube.org/news/release-5.1">https://joinpeertube.org/news/release-5.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35249317">https://news.ycombinator.com/item?id=35249317</a></p>
+<p>Points: 43</p>
+<p># Comments: 9</p>
+
+## Nvidia Announces H100 NVL – Max Memory Server Card for Large Language Models
+ - [https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models](https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:55:25+00:00
+
+<p>Article URL: <a href="https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models">https://www.anandtech.com/show/18780/nvidia-announces-h100-nvl-max-memory-server-card-for-large-language-models</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248975">https://news.ycombinator.com/item?id=35248975</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
+
+## Show HN: Public transportation signage based on bloom filters (rough mockup)
+ - [https://github.com/jsvan/BusStopBloomfilter](https://github.com/jsvan/BusStopBloomfilter)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:50:58+00:00
+
+<p>Hello, 
+I was running around Germany, hectically navigating public transportation, and getting lost all the time. I noticed that every station had i platforms, each used lists of n buses (trains, whatever) arriving, each has their list of m destinations. That means I would be scanning i x n x m items just to see if I was at the correct stop. As I was nervous, for every bus that arrived, I would rescan the list of stops to double check. I began thinking how I could make a better system.<p>Linked is a very shoddy mockup of how bloom filters could be used to allow passengers O(1) lookup time for which platform+bus is the correct one. I believe it's likely for public transportation to grow increasingly more complex in the future, as population grows, and under the current list-based system, this will make the signage ever more complex. I think some bloom filter mechanism could reduce that complexity.<p>So, here is my fantasy, my day dream. What do you think?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248912">https://news.ycombinator.com/item?id=35248912</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+## Show HN: Watermelon – GPT-powered code contextualizer
+ - [https://www.watermelontools.com/](https://www.watermelontools.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:39:26+00:00
+
+<p>Hey there HN! We're Esteban and Esteban and we are looking to get feedback for the new version of our GPT-powered, open-source code contextualizer.<p>We're starting with a VS Code extension that indexes information from git (GitHub, GitLab, or Bitbucket integrations available), Slack and Jira to explain the context around a file or block of code. Finally, we summarize such aggregated context using the power of GPT.<p>As devs we know that it's very annoying to look at a new codebase and start understanding all the nuances, particularly when the person who wrote the code already left the company. With this problem in mind, we decided to build this solution. You'll be able to get into "the ghost" of the person who left the company.<p>Soon, we will also be building a GitHub Action that does the same thing as the VS Code extension but at the time of creating a PR: Index the most relevant information related to this new PR, and add it as a comment. This way we will provide context at one more moment, and also, we will be making the IDE extension better.<p>Here's our open source repo if you also want to check it out: <a href="https://github.com/watermelontools/watermelon-extension">https://github.com/watermelontools/watermelon-extension</a><p>Please give us your feedback! Thanks.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248704">https://news.ycombinator.com/item?id=35248704</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+## uBlock 1.48.0 Adds Readiness Status, Code Viewer, and Other Fixes
+ - [https://github.com/gorhill/uBlock/releases/tag/1.48.0](https://github.com/gorhill/uBlock/releases/tag/1.48.0)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:28:01+00:00
+
+<p>Article URL: <a href="https://github.com/gorhill/uBlock/releases/tag/1.48.0">https://github.com/gorhill/uBlock/releases/tag/1.48.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248517">https://news.ycombinator.com/item?id=35248517</a></p>
+<p>Points: 33</p>
+<p># Comments: 2</p>
+
+## Dpreview.com is coming to an end
+ - [https://www.dpreview.com/news/5901145460/dpreview-com-to-close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:14:58+00:00
+
+<p>Article URL: <a href="https://www.dpreview.com/news/5901145460/dpreview-com-to-close">https://www.dpreview.com/news/5901145460/dpreview-com-to-close</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248296">https://news.ycombinator.com/item?id=35248296</a></p>
+<p>Points: 82</p>
+<p># Comments: 42</p>
+
+## Consider Phlebas Published by the Folio Society
+ - [https://www.foliosociety.com/row/consider-phlebas.html](https://www.foliosociety.com/row/consider-phlebas.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:08:53+00:00
+
+<p>Article URL: <a href="https://www.foliosociety.com/row/consider-phlebas.html">https://www.foliosociety.com/row/consider-phlebas.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248213">https://news.ycombinator.com/item?id=35248213</a></p>
+<p>Points: 35</p>
+<p># Comments: 12</p>
+
+## “Off Switch” Makes Explosives Safer
+ - [https://physics.aps.org/articles/v16/44](https://physics.aps.org/articles/v16/44)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:07:00+00:00
+
+<p>Article URL: <a href="https://physics.aps.org/articles/v16/44">https://physics.aps.org/articles/v16/44</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248188">https://news.ycombinator.com/item?id=35248188</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
+
+## So you've installed `fzf`. Now what?
+ - [https://andrew-quinn.me/fzf/](https://andrew-quinn.me/fzf/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 16:01:34+00:00
+
+<p>Article URL: <a href="https://andrew-quinn.me/fzf/">https://andrew-quinn.me/fzf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35248098">https://news.ycombinator.com/item?id=35248098</a></p>
+<p>Points: 69</p>
+<p># Comments: 12</p>
+
+## Java Was Strongly Influenced by Objective-C
+ - [https://cs.gmu.edu/~sean/stuff/java-objc.html](https://cs.gmu.edu/~sean/stuff/java-objc.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 15:39:19+00:00
+
+<p>Article URL: <a href="https://cs.gmu.edu/~sean/stuff/java-objc.html">https://cs.gmu.edu/~sean/stuff/java-objc.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35247759">https://news.ycombinator.com/item?id=35247759</a></p>
+<p>Points: 27</p>
+<p># Comments: 11</p>
+
+## Why Construction Projects Always Go over Budget
+ - [https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget](https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 15:24:51+00:00
+
+<p>Article URL: <a href="https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget">https://practical.engineering/blog/2023/3/21/why-construction-projects-always-go-over-budget</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35247557">https://news.ycombinator.com/item?id=35247557</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+## Avoiding Errors in Demo Day Fundraising
+ - [https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising](https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 15:08:22+00:00
+
+<p>Article URL: <a href="https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising">https://blog.aaronkharris.com/avoiding-errors-in-demo-day-fundraising</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35247299">https://news.ycombinator.com/item?id=35247299</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+## MySQL for Developers
+ - [https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 15:05:11+00:00
+
+<p>Article URL: <a href="https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction">https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35247242">https://news.ycombinator.com/item?id=35247242</a></p>
+<p>Points: 54</p>
+<p># Comments: 17</p>
+
+## Image Creator in Bing
+ - [https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 15:00:08+00:00
+
+<p>Article URL: <a href="https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/">https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35247174">https://news.ycombinator.com/item?id=35247174</a></p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
+
+## Dragonfly Is Production Ready (and we raised $21M)
+ - [https://dragonflydb.io/blog/dragonfly-production-ready](https://dragonflydb.io/blog/dragonfly-production-ready)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:55:02+00:00
+
+<p>Article URL: <a href="https://dragonflydb.io/blog/dragonfly-production-ready">https://dragonflydb.io/blog/dragonfly-production-ready</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35247083">https://news.ycombinator.com/item?id=35247083</a></p>
+<p>Points: 54</p>
+<p># Comments: 26</p>
+
+## Java 20 Is Out!
+ - [https://openjdk.org/projects/jdk/20/](https://openjdk.org/projects/jdk/20/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:48:42+00:00
+
+<p>Article URL: <a href="https://openjdk.org/projects/jdk/20/">https://openjdk.org/projects/jdk/20/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246985">https://news.ycombinator.com/item?id=35246985</a></p>
+<p>Points: 87</p>
+<p># Comments: 33</p>
+
+## Should HN Ban “I Asked AI to Create ” Type Submissions?
+ - [https://news.ycombinator.com/item?id=35246751](https://news.ycombinator.com/item?id=35246751)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:32:47+00:00
+
+<p>Look, I'm as interested in the huge leaps forward in AI as all the rest of you techy nerds. And I read most of the stories about the technology itself. But please, for the love of $deity, can we outlaw the completely pointless <i>"I asked AI to create..."</i> type submissions?<p>Every day there are dozens of them; <i>"I asked AI to write me a haiku...", "I asked AI to paint me a picture...", "I asked AI to help me learn coding...", "I asked AI to write me a blog post...", "I asked AI to tell me a joke...", "I asked AI to write a poem...", "I asked AI to write a short story...", "I asked AI to design a new trouser press..."</i> etc etc et-<i>bloody</i>-cetera.<p>And, almost without exception, these submissions are of no interest whatsoever to anyone outside of the person who typed some crap into ChatGPT [or other AI] and was so proud of the outcome they decided to share it with the wider world... whether or not the wider world could give a shit or not.<p>Yes, we all know you can type almost any kind of prompt into an AI chatbot and get some "interesting" text or imagery in response. But after the 1000th such submission it's about as interesting as hearing that someone sent an email or installed a new app on their phone. It really is the adult equivalent of running excitedly home from primary school, clutching the crappy drawing you did in class and insisitng it get stuck to the fridge door.<p>Please. If you want to play with your AI chatbot, just do it quietly in the corner. The rest of us DON'T BLOODY CARE!<p>Examples:<p>https://hn.algolia.com/?q=i+asked+AI<p>https://hn.algolia.com/?query=i asked GPT</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246751">https://news.ycombinator.com/item?id=35246751</a></p>
+<p>Points: 14</p>
+<p># Comments: 10</p>
+
+## Java 20 / JDK 20: General Availability
+ - [https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html](https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:30:58+00:00
+
+<p>Article URL: <a href="https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html">https://mail.openjdk.org/pipermail/jdk-dev/2023-March/007517.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246710">https://news.ycombinator.com/item?id=35246710</a></p>
+<p>Points: 38</p>
+<p># Comments: 9</p>
+
+## Surprise Computer Science Proof Stuns Mathematicians
+ - [https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/](https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:23:54+00:00
+
+<p>Article URL: <a href="https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/">https://www.quantamagazine.org/surprise-computer-science-proof-stuns-mathematicians-20230321/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246573">https://news.ycombinator.com/item?id=35246573</a></p>
+<p>Points: 49</p>
+<p># Comments: 7</p>
+
+## Hundreds of Thousands of Iraqis Were Killed in the War. One Was My Brother
+ - [https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were](https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:10:29+00:00
+
+<p>Article URL: <a href="https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were">https://www.thefp.com/p/hundreds-of-thousands-of-iraqis-were</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246337">https://news.ycombinator.com/item?id=35246337</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+## Google Launches Bard AI Chatbot to Counter ChatGPT
+ - [https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357](https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:08:50+00:00
+
+<p>Article URL: <a href="https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357">https://www.wsj.com/articles/google-launches-bard-ai-chatbot-to-counter-chatgpt-2200c357</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246310">https://news.ycombinator.com/item?id=35246310</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+## Try Google's Bard
+ - [https://blog.google/technology/ai/try-bard/](https://blog.google/technology/ai/try-bard/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:08:03+00:00
+
+<p>Article URL: <a href="https://blog.google/technology/ai/try-bard/">https://blog.google/technology/ai/try-bard/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246303">https://news.ycombinator.com/item?id=35246303</a></p>
+<p>Points: 61</p>
+<p># Comments: 51</p>
+
+## Launch HN: Frigade (YC W23) – Faster, better product onboarding
+ - [https://news.ycombinator.com/item?id=35246292](https://news.ycombinator.com/item?id=35246292)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:06:58+00:00
+
+<p>Hey HN, we’re Eric and Christian, cofounders of Frigade (<a href="https://www.frigade.com">https://www.frigade.com</a>), a developer tool for building high-quality product onboarding. Here’s a demo video: <a href="https://frigade.com/video/demo.mp4">https://frigade.com/video/demo.mp4</a>. Also, the “Frigade demo checklist” on our home page (<a href="https://frigade.com/#demo">https://frigade.com/#demo</a>) was built using Frigade itself, if you want to give it a spin.<p>Onboarding is a critical first experience for software products. It makes a big difference for customer activation and retention. However, onboarding experiences often do not get the attention they deserve because, without good tooling, they’re a pain to build. At a previous startup, Christian and I were surprised at how hard it was to get right. It took a ton of time that would otherwise have gone to our core product. We also knew that much better tooling was possible because we had experienced it in the internal tooling at LinkedIn, where we worked at a previous job.<p>Established software companies such as LinkedIn, Uber, Vanta, and many others invest in internal developer platforms to give their team unfair advantages, like the ability to quickly build great onboarding experiences. But these platforms only get built at scale. With Frigade, our goal is to develop the platform that every growth engineering team would love to have, but can’t afford to build themselves.<p>There are no-code tools for onboarding (e.g. Pendo, Appcues, Intercom), but they’re rigid and clumsy. They’re built for marketers and managers rather than developers, so they sit on top of your product instead of feeling native. They’re not defined in your codebase, frequently break without teams noticing, and there are limits to what you can build with them. Unlike these tools, Frigade uses native SDKs and provides an API for developers to build new onboardings in code.<p>How to use Frigade in your product: first install our SDK (React for now); choose a production-ready Frigade UI component or go headless; create a “Frigade Flow” in our admin panel and hook it up to the SDK (Flows are where you set the logic, targeting, content, and more); publish your flow to go live.<p>Frigade automatically tracks users’ progress through your Flows. Your team can sign in to our admin panel to see which customers have completed what steps or input data, and you can use our API to sync tracking events to your analytics platform, send drip campaign (emails that guide users through setup), or show product reminders (e.g. “Finish connecting your data” banners). Frigade leverages server-driven UI, so once a Flow is live, you can easily update content (e.g. change copy, add another step) and logic (e.g. who should see it and when) in real-time without new code deploys.<p>We’ve spent most of our time building out the platform with early customers so far, but our self-serve flow is (ironically) coming soon. In the meantime, our demo video gives you the basic picture: <a href="https://frigade.com/video/demo.mp4">https://frigade.com/video/demo.mp4</a>. Please let us know if you’re interested in trying Frigade, we’d love to get your feedback on what we’ve built so far! We work mostly with web-based B2B companies today, and our pricing is competitive with other tools on the market.<p>What has been your experience with product onboarding? We’d love to hear more about examples of what’s worked well and what’s been a pain in the ass—as well as anything else you’d like to share.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246292">https://news.ycombinator.com/item?id=35246292</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+## Google Bard enters open beta
+ - [https://bard.google.com/](https://bard.google.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:04:40+00:00
+
+<p>Article URL: <a href="https://bard.google.com/">https://bard.google.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246260">https://news.ycombinator.com/item?id=35246260</a></p>
+<p>Points: 33</p>
+<p># Comments: 15</p>
+
+## Google Releases Bard, Its Competitor in the Race to Create A.I. Chatbots
+ - [https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html](https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:04:17+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html">https://www.nytimes.com/2023/03/21/technology/google-bard-chatbot.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246253">https://news.ycombinator.com/item?id=35246253</a></p>
+<p>Points: 30</p>
+<p># Comments: 11</p>
+
+## Strong Consistency with Raft and SQLite
+ - [https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite](https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 14:02:34+00:00
+
+<p>Article URL: <a href="https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite">https://blog.sqlitecloud.io/strong-consistency-with-raft-and-sqlite</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246228">https://news.ycombinator.com/item?id=35246228</a></p>
+<p>Points: 17</p>
+<p># Comments: 8</p>
+
+## Adobe Firefly: AI Art Generator
+ - [https://www.adobe.com/sensei/generative-ai/firefly.html](https://www.adobe.com/sensei/generative-ai/firefly.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 13:55:58+00:00
+
+<p>Article URL: <a href="https://www.adobe.com/sensei/generative-ai/firefly.html">https://www.adobe.com/sensei/generative-ai/firefly.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35246139">https://news.ycombinator.com/item?id=35246139</a></p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
+
+## Exploding Whale 50th Anniversary, Remastered [video]
+ - [https://www.youtube.com/watch?v=V6CLumsir34](https://www.youtube.com/watch?v=V6CLumsir34)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 13:26:24+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=V6CLumsir34">https://www.youtube.com/watch?v=V6CLumsir34</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245784">https://news.ycombinator.com/item?id=35245784</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+## Spermaceti
+ - [https://en.wikipedia.org/wiki/Spermaceti](https://en.wikipedia.org/wiki/Spermaceti)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 13:22:38+00:00
+
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Spermaceti">https://en.wikipedia.org/wiki/Spermaceti</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245748">https://news.ycombinator.com/item?id=35245748</a></p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
+
+## Anxiety Strikes $8T Mortgage-Debt Market After SVB Collapse
+ - [https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207](https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 13:18:02+00:00
+
+<p>Article URL: <a href="https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207">https://www.wsj.com/articles/anxiety-strikes-8-trillion-mortgage-debt-market-after-svb-collapse-15ef0207</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245692">https://news.ycombinator.com/item?id=35245692</a></p>
+<p>Points: 43</p>
+<p># Comments: 25</p>
+
+## GPT-4 and professional benchmarks: the wrong answer to the wrong question
+ - [https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks](https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 13:12:08+00:00
+
+<p>Article URL: <a href="https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks">https://aisnakeoil.substack.com/p/gpt-4-and-professional-benchmarks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245626">https://news.ycombinator.com/item?id=35245626</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+## OpenAI Research Says 80% of U.S. Workers' Jobs Will Be Impacted by GPT
+ - [https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt](https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 12:05:22+00:00
+
+<p>Article URL: <a href="https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt">https://www.vice.com/en/article/g5ypy4/openai-research-says-80-of-us-workers-will-have-jobs-impacted-by-gpt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245072">https://news.ycombinator.com/item?id=35245072</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+## Reclaim Protocol Is Hiring a Cryptography/Security Researcher
+ - [https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher](https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 12:00:10+00:00
+
+<p>Article URL: <a href="https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher">https://www.ycombinator.com/companies/questbook/jobs/2cAGsSp-cryptography-security-researcher</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245035">https://news.ycombinator.com/item?id=35245035</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+
+## Portable Game Notation Specification and Implementation Guide
+ - [http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm](http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 11:56:19+00:00
+
+<p>Article URL: <a href="http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm">http://www.saremba.de/chessgml/standards/pgn/pgn-complete.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35245008">https://news.ycombinator.com/item?id=35245008</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
+
+## Louis Rossmann could sue John Deere for GPL violation
+ - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 08:31:05+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=XP7Qx1FF1hA">https://www.youtube.com/watch?v=XP7Qx1FF1hA</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35243752">https://news.ycombinator.com/item?id=35243752</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+## Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT
+ - [https://github.com/nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 07:35:23+00:00
+
+<p>Article URL: <a href="https://github.com/nichtdax/awesome-totally-open-chatgpt">https://github.com/nichtdax/awesome-totally-open-chatgpt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35243435">https://news.ycombinator.com/item?id=35243435</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+## Web fingerprinting is worse than I thought
+ - [https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 07:18:28+00:00
+
+<p>Article URL: <a href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html">https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35243355">https://news.ycombinator.com/item?id=35243355</a></p>
+<p>Points: 90</p>
+<p># Comments: 59</p>
+
+## Ask HN: Tips for a new team lead who is hiring
+ - [https://news.ycombinator.com/item?id=35243342](https://news.ycombinator.com/item?id=35243342)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 07:16:53+00:00
+
+<p>Hi all,<p>I'm moving into a Team Lead position after ~9 years of technical work (mostly R&amp;D). The team deals with cryptography for a hardware startup, so we have a very diverse set of subjects we need to understand (abstract math, a few open source libraries we are integrating with, hardware requirements, to name a few).
+At the moment there's only one team member I'll be in charge of, so I'll be focused on hiring.<p>My main question is what should I put emphasis on in the recruitment process? Is hiring a junior a valid risk? Are there gotchas I should be aware of?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35243342">https://news.ycombinator.com/item?id=35243342</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+## Curl 8.0.1 because I jinxed it
+ - [https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/](https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 06:16:08+00:00
+
+<p>Article URL: <a href="https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/">https://daniel.haxx.se/blog/2023/03/20/curl-8-0-1-because-i-jinxed-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35243037">https://news.ycombinator.com/item?id=35243037</a></p>
+<p>Points: 30</p>
+<p># Comments: 1</p>
+
+## The Yamaha NS10 Story (2008)
+ - [https://www.soundonsound.com/reviews/yamaha-ns10-story](https://www.soundonsound.com/reviews/yamaha-ns10-story)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 05:51:43+00:00
+
+<p>Article URL: <a href="https://www.soundonsound.com/reviews/yamaha-ns10-story">https://www.soundonsound.com/reviews/yamaha-ns10-story</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242931">https://news.ycombinator.com/item?id=35242931</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+## Amazon layoffs: Another 9k employees being let go
+ - [https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go](https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 05:36:13+00:00
+
+<p>Article URL: <a href="https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go">https://www.semafor.com/article/03/20/2023/amazon-layoffs-another-9000-employees-being-let-go</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242868">https://news.ycombinator.com/item?id=35242868</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
+
+## An Introduction to Computer Networks
+ - [https://intronetworks.cs.luc.edu/](https://intronetworks.cs.luc.edu/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 04:44:28+00:00
+
+<p>Article URL: <a href="https://intronetworks.cs.luc.edu/">https://intronetworks.cs.luc.edu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242662">https://news.ycombinator.com/item?id=35242662</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+## An Aperiodic Monotile
+ - [https://arxiv.org/abs/2303.10798](https://arxiv.org/abs/2303.10798)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 04:11:05+00:00
+
+<p>Article URL: <a href="https://arxiv.org/abs/2303.10798">https://arxiv.org/abs/2303.10798</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242458">https://news.ycombinator.com/item?id=35242458</a></p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
+
+## Laying Out a Print Book with CSS
+ - [https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/](https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 03:40:51+00:00
+
+<p>Article URL: <a href="https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/">https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242299">https://news.ycombinator.com/item?id=35242299</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
+
+## Zero-1-to-3: Zero-shot One Image to 3D Object
+ - [https://zero123.cs.columbia.edu/](https://zero123.cs.columbia.edu/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 03:24:12+00:00
+
+<p>Article URL: <a href="https://zero123.cs.columbia.edu/">https://zero123.cs.columbia.edu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242193">https://news.ycombinator.com/item?id=35242193</a></p>
+<p>Points: 61</p>
+<p># Comments: 12</p>
+
+## Show HN: Professional headshots for remote team with AI
+ - [https://www.headshotpro.com/](https://www.headshotpro.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 03:21:01+00:00
+
+<p>Article URL: <a href="https://www.headshotpro.com/">https://www.headshotpro.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242174">https://news.ycombinator.com/item?id=35242174</a></p>
+<p>Points: 31</p>
+<p># Comments: 7</p>
+
+## Richard Stallman's Ted talk in Steve Jobs' style/voice (elevenlabs.io/ChatGPT)
+ - [https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/](https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 03:18:37+00:00
+
+<p>Article URL: <a href="https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/">https://old.reddit.com/r/linuxmemes/comments/11w56v1/richard_stallmans_ted_talk_in_the_style_and_voice/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242160">https://news.ycombinator.com/item?id=35242160</a></p>
+<p>Points: 34</p>
+<p># Comments: 6</p>
+
+## OpenAI to discontinue support for the Codex API
+ - [https://news.ycombinator.com/item?id=35242069](https://news.ycombinator.com/item?id=35242069)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 03:03:13+00:00
+
+<p>Just received this email, can't find a blog post yet?<p>On March 23rd, we will discontinue support for the Codex API. All customers will have to transition to a different model. Codex was initially introduced as a free limited beta in 2021, and has maintained that status to date. Given the advancements of our newest GPT-3.5 models for coding tasks, we will no longer be supporting Codex and encourage all customers to transition to GPT-3.5-Turbo.
+About GPT-3.5-Turbo
+GPT-3.5-Turbo is the most cost effective and performant model in the GPT-3.5 family. It can both do coding tasks while also being complemented with flexible natural language capabilities.<p>You can learn more through:
+GPT-3.5 model overview
+Chat completions guide<p>Models affected
+The following models will be discontinued:
+code-cushman:001
+code-cushman:002
+code-davinci:001
+code-davinci:002<p>We understand this transition may be temporarily inconvenient, but we are confident it will allow us to increase our investment in our latest and most capable models.<p>—The OpenAI team</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35242069">https://news.ycombinator.com/item?id=35242069</a></p>
+<p>Points: 24</p>
+<p># Comments: 13</p>
+
+## Stanford’s Alpaca shows that OpenAI may have a problem
+ - [https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 02:21:56+00:00
+
+<p>Article URL: <a href="https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/">https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35241787">https://news.ycombinator.com/item?id=35241787</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
+
+## Download, copy and paste free AWS icons in SVG and PNG format for your projects
+ - [https://aws-icons.com](https://aws-icons.com)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 02:09:22+00:00
+
+<p>Article URL: <a href="https://aws-icons.com">https://aws-icons.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35241695">https://news.ycombinator.com/item?id=35241695</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+## Google urges Android phone users to switch off Wi-Fi calling
+ - [https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/](https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 01:08:37+00:00
+
+<p>Article URL: <a href="https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/">https://scrippsnews.com/stories/how-to-turn-off-wi-fi-calling-on-android-to-combat-hackers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35241253">https://news.ycombinator.com/item?id=35241253</a></p>
+<p>Points: 61</p>
+<p># Comments: 36</p>
+
+## Show HN: Get a Professional Headshot in Minutes with AI
+ - [https://virtualface.app](https://virtualface.app)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 01:03:49+00:00
+
+<p>After playing with AI Avatars (like many of us I guess around here), I started to wonder if we could instead bring real value to people by producing affordable professional head-shots using a combination of Dreambooth and ControlNet.<p>Obviously it's only the beginning and there are still many imperfections, but the foundational tech behind this (Dreambooth and ControlNet) are only respectively 6 months and 1.5 month old, and already delivers pretty amazing results.<p>I came up with this little service "Virtual Face" and I'm looking for feedback if some of you are willing to try it (you can use the HUNTER50 coupon to get 50% off, can't make it free to try yet since the running costs are still non-negligible).<p>Cheers,
+Pierre</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35241212">https://news.ycombinator.com/item?id=35241212</a></p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
+
+## Can GPT-4 and GPT-3.5 play Wordle?
+ - [https://twitter.com/biz84/status/1637793452879405064](https://twitter.com/biz84/status/1637793452879405064)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 00:41:40+00:00
+
+<p>Article URL: <a href="https://twitter.com/biz84/status/1637793452879405064">https://twitter.com/biz84/status/1637793452879405064</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35240999">https://news.ycombinator.com/item?id=35240999</a></p>
+<p>Points: 23</p>
+<p># Comments: 0</p>
+
+## How a Berkeley Eccentric Beat the Russians – Then Made Useless, Wondrous Objects
+ - [https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/](https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 00:37:08+00:00
+
+<p>Article URL: <a href="https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/">https://alumni.berkeley.edu/california-magazine/spring-2016-war-stories/how-berkeley-eccentric-beat-russians-and-then-made/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35240962">https://news.ycombinator.com/item?id=35240962</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
+
+## Bank Failures Come in Waves
+ - [https://yarn.pranshum.com/banks2](https://yarn.pranshum.com/banks2)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 00:36:02+00:00
+
+<p>Article URL: <a href="https://yarn.pranshum.com/banks2">https://yarn.pranshum.com/banks2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35240951">https://news.ycombinator.com/item?id=35240951</a></p>
+<p>Points: 24</p>
+<p># Comments: 4</p>
+
+## Six Recent Studies Show an Unexpected Increase in Classical Music Listening
+ - [https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected](https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-03-21 00:03:15+00:00
+
+<p>Article URL: <a href="https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected">https://tedgioia.substack.com/p/six-recent-studies-show-an-unexpected</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=35240695">https://news.ycombinator.com/item?id=35240695</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
