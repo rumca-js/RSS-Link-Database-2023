@@ -1,0 +1,30 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Fear the Walking Dead's Final Season Trailer Links Back to the Original Show
+ - [https://gizmodo.com/fear-the-walking-dead-season-8-trailer-morgan-rick-zomb-1850266922](https://gizmodo.com/fear-the-walking-dead-season-8-trailer-morgan-rick-zomb-1850266922)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-26 20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--tTM58JjP--/c_fit,fl_progressive,q_80,w_636/59fd2af7830a7fb8119685bf806a6769.jpg" /><p>Your eyes aren’t playing tricks on you. <a href="https://gizmodo.com/dont-expect-fear-the-walking-dead-to-be-just-like-the-w-1722180105"><em>Fear the Walking Dead</em></a> is still on the air and a trailer for its eighth and final season is here. In it, the show makes direct reference to a major character <a href="https://gizmodo.com/walking-dead-recap-io9-rob-bricken-10-years-1849802025">in the original series</a>, providing a link that fans have been curious about since day one.</p><p><a href="https://gizmodo.com/fear-the-walking-dead-season-8-trailer-morgan-rick-zomb-1850266922">Read more...</a></p>
+
+## The Saga of Victoria Alonso's Firing From Marvel Studios Heats Up
+ - [https://gizmodo.com/victoria-alonso-fired-marvel-studios-disney-argentina-8-1850266879](https://gizmodo.com/victoria-alonso-fired-marvel-studios-disney-argentina-8-1850266879)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-26 18:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--UCdDHm9J--/c_fit,fl_progressive,q_80,w_636/c47839f798d6fcc3835ebcc7ee393e02.jpg" /><p>When one of the key figures behind the <a href="https://gizmodo.com/ant-man-3-phase-5-kevin-feige-kang-mcu-marvel-studios-1850089279">Marvel Cinematic Universe</a> was <a href="https://gizmodo.com/victoria-alonso-marvel-studios-iron-man-avengers-disney-1850244773">fired seemingly out of the blue</a>, you had a sense it was going to get much more complex. And now, it has. </p><p><a href="https://gizmodo.com/victoria-alonso-fired-marvel-studios-disney-argentina-8-1850266879">Read more...</a></p>
+
+## Did You Catch the John Wick: Chapter 4 End Credits Scene?
+ - [https://gizmodo.com/john-wick-4-end-credits-scene-keanu-reeves-donnie-yen-1850266756](https://gizmodo.com/john-wick-4-end-credits-scene-keanu-reeves-donnie-yen-1850266756)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-26 17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--N8FNdjTQ--/c_fit,fl_progressive,q_80,w_636/a12db1783f41654421961699abb73544.jpg" /><p><em>John Wick: Chapter 4 </em><a href="https://gizmodo.com/hallmarks-of-action-scene-john-wick-chad-stahelski-1850202975">just had a killer weekend</a> at the box office, grossing $73.5 million, the biggest opening weekend yet for the franchise and the second biggest opening of <a href="https://gizmodo.com/keanu-reeves-john-wick-4-superman-lois-morning-spoilers-1850075623">Keanu Reeves’ career</a>, behind <a href="https://gizmodo.com/the-matrix-reloaded-has-always-been-divisive-and-it-abs-1848111492"><em>The Matrix Reloaded.</em></a><em> </em></p><p><a href="https://gizmodo.com/john-wick-4-end-credits-scene-keanu-reeves-donnie-yen-1850266756">Read more...</a></p>
+
+## Marvel Actor Jonathan Majors Arrested On Assault Charge
+ - [https://gizmodo.com/jonathan-majors-arrested-assault-avengers-kang-creed-3-1850266736](https://gizmodo.com/jonathan-majors-arrested-assault-avengers-kang-creed-3-1850266736)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-03-26 15:47:03+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--LRrKf26n--/c_fit,fl_progressive,q_80,w_636/5c320afbeeec09333158eec43325cfd3.jpg" /><p>Jonathan Majors, the actor who portrays <a href="https://gizmodo.com/ant-man-quantumania-villain-kang-jonathan-majors-mcu-1850085210">the villainous Kang</a> in the <a href="https://gizmodo.com/kang-quantumania-marvel-comics-jonathan-majors-immortus-1850127828">Marvel Cinematic Universe</a>, was arrested and charged in New York City this weekend after an alleged domestic dispute. <a href="https://www.tmz.com/2023/03/25/jonathan-majors-arrested-assault-woman-nyc-new-york/" rel="noopener noreferrer" target="_blank">TMZ</a> first reported the news. </p><p><a href="https://gizmodo.com/jonathan-majors-arrested-assault-avengers-kang-creed-3-1850266736">Read more...</a></p>
+
