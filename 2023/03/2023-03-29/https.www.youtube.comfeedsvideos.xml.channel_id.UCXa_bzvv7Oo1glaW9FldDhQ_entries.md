@@ -1,0 +1,36 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## Forza Horizon 5: Rally Adventure DLC Expansion Review - The Final Verdict
+ - [https://www.youtube.com/watch?v=6Uk_lx4QRAg](https://www.youtube.com/watch?v=6Uk_lx4QRAg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-03-29 18:00:05+00:00
+
+Forza Horizon 5 Rally Adventure is a meaty, varied, and enjoyable package. If you're sticking only to the critical path, you can blast through it in anywhere between four to six hours, but if you take it upon yourself to engage in all of its side activities, discover all of its roads and areas, get behind the wheel in all ten of its new cars, and win every single one of its events, that can easily to climb to 10 hours or more. 
+
+And given how fundamentally fun the mechanics of Forza Horizon 5 are, you know that the vast majority of that is going to be an enjoyable experience.
+
+## The Full Story of Merrin - Before You Play Star Wars Jedi: Survivor
+ - [https://www.youtube.com/watch?v=Nznf1S7nZZw](https://www.youtube.com/watch?v=Nznf1S7nZZw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-03-29 15:30:06+00:00
+
+It's fair to say the Cal Kestis and Cere Junda are the two most central characters in Star Wars Jedi: Fallen Order's story, but there's another character that gets introduced pretty deep into the game who might not be as important, but is still pretty darn crucial. 
+
+That's Merrin, the Nightsister who starts off as an adversary of Cal's but eventually turns into an ally and joins the crew of the Stinger Mantis. By the time the game comes to an end, she becomes an integral part of the crew, which means she's obviously going to have a big role to play in the upcoming sequel, Star Wars Jedi: Survivor. And ahead of its launch, we're going to take a look at her character and everything that we know about her.
+
+## 9 NEW Things We've Learned About The Legend of Zelda: Tears of the Kingdom
+ - [https://www.youtube.com/watch?v=eqXcUqvLCZk](https://www.youtube.com/watch?v=eqXcUqvLCZk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-03-29 13:30:26+00:00
+
+Since the The Legend of Zelda: Tears of the Kingdom's announcement all the way back in 2019, only a couple of brief trailers have been shown off, and details beyond that have been few and far between. 
+
+Recently, however, over 10 minutes of new gameplay footage for the highly anticipated open world sequel were showcased, revealing a healthy chunk of new information. Here, we're going to go over those details.
+
+## Atelier Ryza 3: Alchemist of the End and the Secret Key Review - The Final Verdict
+ - [https://www.youtube.com/watch?v=Jh2gzvoaiJQ](https://www.youtube.com/watch?v=Jh2gzvoaiJQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-03-29 11:45:01+00:00
+
+As a send-off to a story that's developed at its own comfortable pace, Alchemist of the End and the Secret Key is a pretty good RPG. Far from reinventing the wheel, it expands on established systems, feeds into the sense of adventure with massive seamless maps, and delivers a compelling plot with a likeable cast.
+
