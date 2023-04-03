@@ -1,0 +1,37 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## These Looney Tunes Dubs Are 2023's Best April Fools Joke
+ - [https://gizmodo.com/looney-tunes-april-fools-2023-dub-warner-bros-1850292349](https://gizmodo.com/looney-tunes-april-fools-2023-dub-warner-bros-1850292349)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-02 20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--XlyA-sM1--/c_fit,fl_progressive,q_80,w_636/54612f988995750a50da109d487856d4.jpg" /><p>Yesterday was April Fools, and as always, that means the internet was full of <a href="https://gizmodo.com/10-horror-movie-parodies-april-fools-day-scream-killer-1850276077">jokes and goofs</a>. For brands, this means trying to pull off gags with varying levels of success, like Sega up and releasing a straight up visual novel for <a href="https://kotaku.com/sonic-death-dies-april-fools-sega-steam-pc-gaming-valve-1850289287">Sonic the Hedgehog</a> that’s apparently pretty good. But everything that transpired on…</p><p><a href="https://gizmodo.com/looney-tunes-april-fools-2023-dub-warner-bros-1850292349">Read more...</a></p>
+
+## Open Channel: Who'd Be the MCU's Silliest (or Dumbest) Skrull Reveal?
+ - [https://gizmodo.com/open-channel-mcu-skrull-reveal-1850292225](https://gizmodo.com/open-channel-mcu-skrull-reveal-1850292225)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-02 18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--wTrJuKqz--/c_fit,fl_progressive,q_80,w_636/4908418463247e0686db2276bf0b6275.jpg" /><p>Earlier in the week, Marvel finally pulled back the curtain on <a href="https://gizmodo.com/secret-invasion-marvel-emilia-clarke-skrull-disney-plus-1850287877"><em>Secret Invasion</em></a><em>, </em>one of the many Disney+ shows they’ve still got in the pipeline. Based on a 2008 comic book event from Brian Michael Bendis and Lenil Francis Yu, the series will see a returning <a href="https://gizmodo.com/marvel-d23-cast-reveals-announcements-kevin-feige-1849521034">Nick Fury</a> discover that <a href="https://gizmodo.com/marvels-secret-invasion-series-taps-thomas-bezucha-and-1846903235">the Skrulls</a> from <em>Captain Marvel </em>have…</p><p><a href="https://gizmodo.com/open-channel-mcu-skrull-reveal-1850292225">Read more...</a></p>
+
+## First Mario Bros. Movie Reactions Say It Brings Fan Service, But Not Much Else
+ - [https://gizmodo.com/mario-bros-movie-social-media-impressions-1850292276](https://gizmodo.com/mario-bros-movie-social-media-impressions-1850292276)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-02 16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ex7oTxED--/c_fit,fl_progressive,q_80,w_636/b4682879a2e85906d9b0fbd102396e3b.jpg" /><p>There was never going to be a world where Illumination’s <a href="https://gizmodo.com/chris-pratt-super-mario-movie-interview-charlie-day-lui-1850275991"><em>Super Mario Bros. </em>movie</a> wasn’t going to be a big deal. But after that initial reveal where <a href="https://gizmodo.com/mario-movie-clip-mushroom-kingdom-chris-pratt-nintendo-1849873019">Chris Pratt</a> got announced to play Mario alongside Charlie Day’s Luigi and Jack Black’s Bowser, the energy around the film has gradually shifted as more footage for it’s…</p><p><a href="https://gizmodo.com/mario-bros-movie-social-media-impressions-1850292276">Read more...</a></p>
+
+## Marvel Sets Up Spider-Boy and a Krumbling Krakoan Age for the Summer
+ - [https://gizmodo.com/marvel-2023-comics-fall-of-x-spider-boy-1850291714](https://gizmodo.com/marvel-2023-comics-fall-of-x-spider-boy-1850291714)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-02 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_XEOXlhy--/c_fit,fl_progressive,q_80,w_636/f0e2cc79dc4c146783f5b87618f4aa13.jpg" /><p>Things are always happening in Big Two comic books, particularly over in Marvel’s universe. (Well, <a href="https://gizmodo.com/ultimate-invasion-marvel-comics-jonathan-hickman-1850146663">universes</a>, plural.) With spring barely started and the rest of the year not too far off on the horizon, it’s about that time to start revealing <a href="https://gizmodo.com/marvel-comics-jonathan-hickman-valerio-schiti-gods-1850275721">what’s in store</a> for the heroes and villains of Marvel Comics for 2023 and at…</p><p><a href="https://gizmodo.com/marvel-2023-comics-fall-of-x-spider-boy-1850291714">Read more...</a></p>
+
+## ChatGPT and Dall-E Should Watermark Their Results
+ - [https://gizmodo.com/chatgpt-dall-e-free-ai-art-should-watermark-results-1850289435](https://gizmodo.com/chatgpt-dall-e-free-ai-art-should-watermark-results-1850289435)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-02 11:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--U9RiCbtm--/c_fit,fl_progressive,q_80,w_636/31d877e439a4c8c09f555f4ecdab393e.jpg" /><p>Shortly after rumors leaked of former President Donald Trump’s impending indictment, images purporting to show his arrest appeared online. These images looked like news photos, but they were fake. They were <a href="https://arstechnica.com/tech-policy/2023/03/fake-ai-generated-images-imagining-donald-trumps-arrest-circulate-on-twitter/" rel="noopener noreferrer" target="_blank">created by a generative artificial intelligence system</a>.<br /></p><p><a href="https://gizmodo.com/chatgpt-dall-e-free-ai-art-should-watermark-results-1850289435">Read more...</a></p>
+

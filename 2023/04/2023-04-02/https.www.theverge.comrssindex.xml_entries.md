@@ -1,0 +1,104 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Huawei’s latest watch is a jab at the Apple Watch Ultra
+ - [https://www.theverge.com/2023/4/2/23664629/huawei-watch-ultimate-price-apple-ultra-smartwatches](https://www.theverge.com/2023/4/2/23664629/huawei-watch-ultimate-price-apple-ultra-smartwatches)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-04-02 22:01:00+00:00
+
+<figure>
+      <img alt="Side-by-side renders of the Huawei Watch Ultimate in black and blue." src="https://cdn.vox-cdn.com/thumbor/tEozfa0hXsO5Rg5-UY6Pb7s9GEk=/0x0:3060x2040/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72140915/Untitled_1.0.jpg" />
+        <figcaption><em>The Huawei Watch Ultimate doesn’t look like an Apple Watch Ultra, but it’s got almost all the same features.</em> | Image: Huawei</figcaption>
+    </figure>
+
+  <p id="BPPmHn">You don’t need to be Sherlock Holmes to figure out where Huawei got the inspiration for its newly announced <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fconsumer.huawei.com%2Fen%2Fwearables%2Fwatch-ultimate%2F&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2023%2F4%2F2%2F23664629%2Fhuawei-watch-ultimate-price-apple-ultra-smartwatches" rel="sponsored nofollow noopener" target="_blank">Watch Ultimate</a>. It’s clearly Huawei’s not-so-subtle answer to the <a href="https://www.theverge.com/23363948/apple-watch-ultra-review-rugged-smartwatch-gps">Apple Watch Ultra</a>, and now, we know that similarity extends to the price tag, too. Starting tomorrow, the Ultimate will retail in the UK and Europe for €749 / £700 for the “expedition black” colorway and €899 / £800 for the voyage blue version. </p>
+<p id="RxG4E4">If you missed news of the Watch Ultimate, it’s likely because the company currently has no plans to launch the device in the US. (That <a href="https://www.theverge.com/2020/5/13/21257675/trump-extends-huawei-ban-may-2021-china-us-android-google-telecom">Huawei ban</a> is still kicking in 2023.) While the company once had a decent foothold in the wearable market, the ban has since limited its reach to US audiences for all but the most dedicated of...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/4/2/23664629/huawei-watch-ultimate-price-apple-ultra-smartwatches">Continue reading&hellip;</a>
+  </p>
+
+## Why can’t more music apps be like Apple Music Classical?
+ - [https://www.theverge.com/2023/4/2/23659934/apple-music-classical-metadata-is-good](https://www.theverge.com/2023/4/2/23659934/apple-music-classical-metadata-is-good)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-04-02 15:00:00+00:00
+
+<figure>
+      <img alt="And image of the Apple Music Classical app on a red and white background." src="https://cdn.vox-cdn.com/thumbor/kKCm1MDyL2xodtfkX57m_WpCZ-8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72139974/STK046_Apple_Music_Classical.0.jpg" />
+        <figcaption>Illustration by Will Joel / The Verge</figcaption>
+    </figure>
+
+  <p id="WlyTa7">In 2023, it’s hard to love classical music. Not because of the music itself — it’s just difficult to find it. Searching for George Gershwin is as likely to bring up his own performances as it is to bring up music he composed that’s performed by other artists. The problem is that, in the metadata, classical music doesn’t just rely on the typical stuff like artist, genre, song title, or album title. There are soloists to consider, and composers, and conductors, and pieces performed by an orchestra and a choir. <a href="https://www.theverge.com/2023/3/27/23659326/apple-music-classical-available-download-app-store-ios">Apple Music Classical</a>, based on the Primephonic app <a href="https://www.theverge.com/2021/8/30/22648604/apple-acquires-primephonic-classical-music-streaming-service">that Apple acquired in 2021</a>, addresses the problem with the metadata and has me wondering why more apps aren’t this rich in the stuff.</p>
+<p id="kwiXkl">I didn’t realize how little classical music...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/4/2/23659934/apple-music-classical-metadata-is-good">Continue reading&hellip;</a>
+  </p>
+
+## The Home Assistant SkyConnect is a great excuse to demolish your smart home and start from scratch
+ - [https://www.theverge.com/23641940/home-assistant-skyconnect-thread-matter-zigbee-smart-home](https://www.theverge.com/23641940/home-assistant-skyconnect-thread-matter-zigbee-smart-home)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-04-02 14:00:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/dTAoZz3JVDe7vn5N8EZzjAxeAGE=/0x86:2048x1451/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72139853/IMG_3627_2.0.jpg" />
+        <figcaption><em>Adding Zigbee and Thread to Home Assistant has never been easier.</em> | Image: Chris Person</figcaption>
+    </figure>
+
+
+  		 <p>For years, I have been waiting for an excuse to make the transition to Home Assistant. With the Home Assistant’s Zigbee and Thread dongle, I had that excuse.</p>
+  <p>
+    <a href="https://www.theverge.com/23641940/home-assistant-skyconnect-thread-matter-zigbee-smart-home">Continue reading&hellip;</a>
+  </p>
+
+## Cheaper Xbox expandable storage cards are on the way
+ - [https://www.theverge.com/2023/4/2/23666795/western-digital-xbox-storage-expansion-card](https://www.theverge.com/2023/4/2/23666795/western-digital-xbox-storage-expansion-card)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-04-02 13:05:55+00:00
+
+<figure>
+      <img alt="Image of Western Digital Xbox storage card" src="https://cdn.vox-cdn.com/thumbor/pYFUOiAPeSzqVtoqcCy_Py5PMOA=/0x0:1225x817/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72139767/xboxwesterndigital.0.jpg" />
+        <figcaption><em>Western Digital is about to launch a new Xbox storage expansion card.</em> | Image: Best Buy</figcaption>
+    </figure>
+
+  <p id="kBB03a">Microsoft appears to be readying new Xbox expandable storage options from other manufacturers. A new <a href="https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-wd_black-c50-1tb-expansion-card-for-xbox-black%2F6540752.p%3Fintl%3Dnosplash%26skuId%3D6540752&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank">Western Digital 1TB expansion card</a> for Xbox Series S / X consoles has been spotted early on Best Buy, priced at $179.99. It’s the first time we’ve seen Xbox expandable storage that’s not manufactured by Seagate.</p>
+<p id="p5tD9q">Microsoft originally launched Xbox expandable storage cards nearly three years ago with its Xbox Series S / X consoles. The 1TB cards were <a href="https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-1tb-storage-expansion-card-for-xbox-series-xs-internal-nvme-ssd-black%2F6425015.p%3FacampID%3D0%26irclickid%3DwECWXnV1gxyNTnEyn4RrBRWtUkAW-1SmRVZUUA0%26irgwc%3D1%26loc%3DVox%2BMedia%26mpid%3D482924%26ref%3D198%26skuId%3D6425015&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank">priced at $219.99</a> and manufactured exclusively by Seagate. While we’ve seen <a href="https://www.theverge.com/2021/10/21/22738266/microsoft-xbox-series-x-s-512gb-2tb-storage-expansion-cards-release-date-pricing">512GB and 2TB options</a> appear from Seagate, prices have stubbornly remained high, despite similar storage for PS5 consoles dropping significantly.</p>
+  <figure class="e-image">
+        
+      <cite>Image: Best Buy</cite>
+      <figcaption><em>Western Digital’s Xbox expandable...</em></figcaption></figure>
+  <p>
+    <a href="https://www.theverge.com/2023/4/2/23666795/western-digital-xbox-storage-expansion-card">Continue reading&hellip;</a>
+  </p>
+
+## Framework’s computers aren’t perfect, but they are exciting
+ - [https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia](https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-04-02 13:00:00+00:00
+
+<figure>
+      <img alt="Big black bar sticks out of the back of this silver laptop." src="https://cdn.vox-cdn.com/thumbor/3nU0B9UBQ5j_M4LOweoaGKrFF1I=/0x0:2138x1425/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72139719/Framework_Laptop_16_Graphics_Module.0.jpg" />
+        <figcaption><em>The new Framework Laptop 16.</em> | Image: Framework</figcaption>
+    </figure>
+
+  <p class="p--has-dropcap p-large-text" id="tDHrfe">It’s not often that I get too excited about new laptops these days. Modern laptops are extremely capable devices, with few glaring flaws. They are thin, light, and finely tuned to get the job done. Exciting, they are not.</p>
+<p id="9t9DOn">But Framework’s laptops <em>are</em> exciting. Under the banner of repairability and sustainability, Framework is making computers that seem to be exactly what enthusiasts have been asking for — for literal decades. Nearly every part of a Framework Laptop can be repaired, replaced, or upgraded by its owner. Want a faster CPU or more RAM? Just swap the board and click in some more RAM sticks, and you’re off to the races. The company is even coming out with a <a href="https://www.theverge.com/2023/3/23/23652967/framework-laptop-16-modular-upgradable-graphics">gaming-focused laptop</a> that promises the ability to upgrade its GPU down...</p>
+  <p>
+    <a href="https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia">Continue reading&hellip;</a>
+  </p>
+
+## Super73 launches Adventure Series and first e-bike for danger babies
+ - [https://www.theverge.com/2023/4/2/23662863/super73-adventure-e-bikes-k1d-kids-price-specs](https://www.theverge.com/2023/4/2/23662863/super73-adventure-e-bikes-k1d-kids-price-specs)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-04-02 06:38:36+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/FARHXJUuoBQzwUwxPkkRRQPKv7Q=/0x0:9504x6336/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72139355/DSC02242.0.jpg" />
+        <figcaption><em>All Adventure Series e-bikes (like this RX) have the battery on the down tube for lower center of gravity and improved handling.</em> | Image: Super73</figcaption>
+    </figure>
+
+  <p id="GQyEu0">California’s Super73 now offers more ruggedized models of its Super73 Z, S, and R series of e-bikes and a new K1D electric balance bike for kids — and parents stoked at the thought of putting their four- to eight-year-old on a vehicle that can go over 16mph. </p>
+<p id="4QlWgq">The so-called <a href="https://eu.super73.com/products/super73-s-adventure-series">Adventure Series</a> of e-bikes brings a refreshed design, suspension, gear box, seats, tires, and lights across Super73’s existing <a href="https://www.theverge.com/23311184/super73-zx-camper-van-scout-bike-review-unlock-unlimited-off-rad">Z (entry-level commuter)</a>, S (multipurpose cruiser), and <a href="https://www.theverge.com/22536908/super73-rx-e-bike-review-range-battery-life">R (flagship power)</a> e-bikes. All the electric bikes in the series feature front suspension, while some offer fully adjustable front and rear suspension. S and R models also had their battery moved to the down tube, which should improve handling thanks to a lower center of gravity.</p>
+  <figure class="e-image">
+     ...</figure>
+  <p>
+    <a href="https://www.theverge.com/2023/4/2/23662863/super73-adventure-e-bikes-k1d-kids-price-specs">Continue reading&hellip;</a>
+  </p>
+
