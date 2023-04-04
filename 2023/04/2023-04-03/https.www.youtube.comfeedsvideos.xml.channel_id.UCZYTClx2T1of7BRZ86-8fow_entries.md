@@ -1,0 +1,97 @@
+# Source:SciShow, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow, language:en-US
+
+## Do-It-Yourself Photosynthesis Is Here!
+ - [https://www.youtube.com/watch?v=pgIMVh9vL3w](https://www.youtube.com/watch?v=pgIMVh9vL3w)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2023-04-03 21:00:31+00:00
+
+Photosynthesis, the elegant process of making fuel from sunlight, might be the future of how we power, well, just about anything. Plants may have invented it, but humans are taking the model and really running with it, to make anything from hydrogen gas to methane!
+
+Hosted by: Stefan Chin (he/him)
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Matt Curls, Alisa Sherbow, Dr. Melvin Sanicas, Harrison Mills, Adam Brainard, Chris Peters, charles george, Piya Shedden, Alex Hackman, Christopher R, Boucher, Jeffrey Mckishen, Ash, Silas Emrys, Eric Jensen, Kevin Bealer, Jason A Saslow, Tom Mosner, Tomás Lagos González, Jacob, Christoph Schwanke, Sam Lutfi, Bryan Cloer
+----------
+Looking for SciShow elsewhere on the internet?
+SciShow Tangents Podcast: https://scishow-tangents.simplecast.com/
+TikTok: https://www.tiktok.com/@scishow 
+Twitter: http://www.twitter.com/scishow
+Instagram: http://instagram.com/thescishowFacebook: http://www.facebook.com/scishow
+
+#SciShow #science #education #learning #complexly
+----------
+Sources:
+https://www.nature.com/articles/510022a
+https://solarfuelshub.org/
+https://www.livescience.com/artificial-photosynthesis-fuels
+https://news.uchicago.edu/story/chemists-create-artificial-photosynthesis-system-10-times-more-efficient-existing-systems#:~:text=Day%20Tomorrow%20Began-,Chemists%20create%20an%20'artificial%20photosynthesis'%20system%20that%20is%2010%20times,by%20an%20order%20of%20magnitude.
+https://www.sunhydrogen.com/news-posts/sunhydrogen-unveils-larger-version-of-worlds-first-nanoparticle-based-green-hydrogen-generator
+https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.201602791
+https://www.caranddriver.com/features/a41103863/hydrogen-cars-fcev/
+https://royalsocietypublishing.org/doi/10.1098/rstb.2016.0496
+https://www.energy.gov/eere/solar/how-does-solar-work#:~:text=When%20the%20sun%20shines%20onto,cell%2C%20causing%20electricity%20to%20flow.
+https://www.nature.com/articles/d42473-022-00166-2
+https://www.researchgate.net/publication/51335854_A_Monolithic_Photovoltaic-Photoelectrochemical_Device_for_Hydrogen_Production_Via_Water_Splitting 
+https://www.sciencedaily.com/releases/2022/09/220908120516.htm 
+https://www.energy.gov/eere/fuelcells/hydrogen-fuel-basics 
+https://www.science.org/doi/10.1126/science.1251428 
+https://iopscience.iop.org/article/10.1149/2.0041905jes/pdf 
+https://pubmed.ncbi.nlm.nih.gov/8567486/
+https://www.nature.com/articles/s41929-022-00865-5
+https://news.uchicago.edu/story/chemists-create-artificial-photosynthesis-system-10-times-more-efficient-existing-systems#:~:text=Day%20Tomorrow%20Began-,Chemists%20create%20an%20%27artificial%20photosynthesis%27%20system%20that%20is%2010%20times,by%20an%20order%20of%20magnitude
+https://www.nature.com/articles/510022a#article-info
+https://spie.org/news/photonics-focus/julyaugust-2021/will-artificial-photosynthesis-ever-see-the--light-of-day?SSO=1
+
+Image Sources:
+https://www.gettyimages.com/detail/video/water-plant-leaf-microscopic-view-stock-footage/1140328502
+https://www.gettyimages.com/detail/video/tropical-leaves-monstera-exotic-plant-swaying-in-wind-stock-footage/1206450180
+https://www.gettyimages.com/detail/video/macro-view-of-fresh-green-lettuce-leaves-dolly-shot-stock-footage/1269295167
+https://www.gettyimages.com/detail/photo/solar-panel-installer-installing-solar-panels-on-royalty-free-image/1315903471?phrase=solar%20panel&amp;adppopup=true
+https://www.gettyimages.com/detail/video/4k-drone-footage-of-solar-panels-being-installed-on-the-stock-footage/1386181382
+https://www.gettyimages.com/detail/video/an-automobile-is-getting-refueled-by-a-petrol-pistol-stock-footage/1127307876
+https://www.gettyimages.com/detail/video/aerial-view-solar-panel-stock-footage/1317803000
+https://www.gettyimages.com/detail/video/hydrogen-molecule-we-move-to-the-molecular-level-and-fly-stock-footage/1392688888
+https://www.gettyimages.com/detail/video/methane-chemical-symbol-in-flight-stock-footage/1401897072
+https://www.gettyimages.com/detail/video/battery-supply-concept-stock-footage/1449274337
+https://www.gettyimages.com/detail/video/covalent-bond-within-methane-gas-molecules-flying-around-stock-footage/1363185179
+https://www.gettyimages.com/detail/video/aerial-close-up-fly-over-view-of-a-large-cattle-feedlot-stock-footage/1264993536
+https://www.gettyimages.com/detail/video/gas-torch-at-dusk-stock-footage/1047984934
+https://www.gettyimages.com/detail/video/close-up-of-a-cow-mooing-stock-footage/1349251043
+https://www.gettyimages.com/detail/video/ch4-methane-methanum-stock-footage/534463068
+https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11637_Scanning_electron_microscope_image_of_the_seed_inside_the_MOF_crystals.jpg
+https://www.gettyimages.com/detail/video/water-plant-leaf-cells-microscope-magnification-40x-stock-footage/1391168087
+https://tinyurl.com/2bytw292
+
+## Bamboo sequesters carbon, but not how you think. #shorts #science #SciShow
+ - [https://www.youtube.com/watch?v=bb_rxju4MnU](https://www.youtube.com/watch?v=bb_rxju4MnU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2023-04-03 19:00:14+00:00
+
+Bamboo is an invasive species in a lot of places. It could also be a key part of fighting climate change. Plus, the secret to its success may lie in the fact that bamboo is really a team player.
+
+Hosted by: Hank Green (he/him)
+
+Emma Dauster: Writer
+Heather Hess: Fact Checker
+Amy Peterson: Script Editor
+Madison Lynn: Videographer
+Savannah Geary: Script Supervisor, Editor, Associate Producer
+Daniel Comiskey: Editorial Director
+Sarah Suta: Producer
+Caitlin Hofmeister: Executive Producer
+Hank Green: Executive Producer
+
+Sources:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988483/ 
+https://www.sciencedirect.com/science/article/pii/S0048969720358629?via%3Dihub 
+
+Image Sources
+https://www.gettyimages.com/detail/photo/bamboo-royalty-free-image/477275968?phrase=bamboo&amp;adppopup=true
+https://www.gettyimages.com/detail/photo/physical-earth-globe-north-and-south-america-royalty-free-image/1405046688?phrase=globe&amp;adppopup=true
+https://www.gettyimages.com/detail/video/colorful-and-fresh-green-bamboo-grove-stock-footage/1320489766?adppopup=true
+https://www.gettyimages.com/detail/photo/bamboo-from-soil-with-visible-roots-royalty-free-image/927659792?phrase=bamboo%20root&amp;adppopup=true
+https://commons.wikimedia.org/wiki/File:Collimonas_humicola.jpg
+https://www.gettyimages.com/detail/video/bamboo-in-the-garden-stock-footage/1153873379?adppopup=true
+https://www.gettyimages.com/detail/video/the-morning-sunshine-through-bamboo-trees-in-bamboo-park-stock-footage/1444124774?adppopup=true
+
