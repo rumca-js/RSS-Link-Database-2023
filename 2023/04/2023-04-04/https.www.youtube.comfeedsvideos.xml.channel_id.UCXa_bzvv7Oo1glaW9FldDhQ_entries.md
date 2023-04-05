@@ -1,0 +1,29 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## Why The Legend of Zelda: Tears of the Kingdom Will be One of the BIGGEST Games of the Year
+ - [https://www.youtube.com/watch?v=FAfJT7j47Pg](https://www.youtube.com/watch?v=FAfJT7j47Pg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-04-04 15:30:04+00:00
+
+From Starfield to Marvel's Spider-Man 2, there's still a bevy of AAA heavy hitters that are set to release over the course of 2023. But even in a year that's as packed as 2023 is clearly going to be, many would argue that one game stands head and shoulders above all others in terms of its scale and the magnitude of its release. 
+
+That game, of course, is The Legend of Zelda: Tears of the Kingdom.
+
+## 15 New Unreal Engine 5 Games THAT LOOK LIKE REAL LIFE
+ - [https://www.youtube.com/watch?v=AyGQ53bGiGY](https://www.youtube.com/watch?v=AyGQ53bGiGY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-04-04 13:30:04+00:00
+
+The Unreal Engine has been at the forefront of rendering techniques for some time now, and Unreal Engine 5 continues the trend with a comprehensive suite of features that allow development teams of all sizes to broaden their horizons and deliver better games than before. 
+
+As you might already know, Unreal Engine 5 is gaining a ton of popularity within development circles - and we are already seeing plenty of great games utilizing this tech to create worlds that are almost indistinguishable from reality. On that note, we present 15 Unreal Engine 5 games that look just like real life.
+
+## EVERSPACE 2 Review - The Final Verdict
+ - [https://www.youtube.com/watch?v=ejpAvuaWQGo](https://www.youtube.com/watch?v=ejpAvuaWQGo)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-04-04 10:30:14+00:00
+
+Regardless of your taste in games, Everspace 2 will definitely have something to offer you, be it the loot-based progression of an action-RPG, a cool story to follow with interesting characters, fun plot twists, some great action that gives you a variety of different weapon types to play with, and even some peace and quiet as you live out your fantasies of being a space trucker ferrying goods between planets. 
+
+Everspace 2 is packed with content, and even once you’re done with its core story, there are several other ways to progress as well, such as end-game “dungeons”, and even a faction system to mess around with.
+
