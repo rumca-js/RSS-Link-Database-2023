@@ -1,0 +1,11 @@
+# Source:NPR Music, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A, language:en-US
+
+## It ain't trickin' if you got it: Trina, Trick Daddy and Latto | Louder Than A Riot, S2E4
+ - [https://www.youtube.com/watch?v=1EiWhQgtH98](https://www.youtube.com/watch?v=1EiWhQgtH98)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+ - date published: 2023-04-06 12:23:53+00:00
+
+got a phone call. Her friend Trick Daddy, rising Miami rap star and mainstay of her Liberty City neighborhood, was in the studio completing his album www.thug.com, and he'd had an idea. Duet tracks were taking over hip-hop: They were hard, yet sexy, and Southern rap didn't have an answer for them yet. He was going to make that answer, and he needed a counterpart. So he begged Katrina to come down to the studio, and played her a song he had already cut called "Nann N****."
+
+Katrina, known these days as the Southern rap legend Trina, laid down a verse that night that got her a record deal on the spot, and led a generation of women toward being liberated on mic — as she calls them, "a whole universe of bad bitches." But in a time when women were expected to be "ride or die chicks" hanging their whole careers on a man's cosign, Trina put the girls on her back and left Trick hanging in the balance.
+

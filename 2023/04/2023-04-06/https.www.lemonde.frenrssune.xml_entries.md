@@ -1,0 +1,184 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## US Supreme Court Justice Clarence Thomas accepted luxury travel trips from billionaire Republican
+ - [https://www.lemonde.fr/en/international/article/2023/04/07/us-supreme-court-justice-clarence-thomas-accepted-luxury-travel-trips-from-billionaire-republican_6021968_4.html](https://www.lemonde.fr/en/international/article/2023/04/07/us-supreme-court-justice-clarence-thomas-accepted-luxury-travel-trips-from-billionaire-republican_6021968_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 22:31:17+00:00
+
+The investigation from ProPublica revealed that the staunch conservative justice went on one trip to Indonesia that alone was likely worth $500,000 – paid for by real estate tycoon and major Republican donor Harlan Crow.
+
+## White House releases Afghanistan exit review blaming Trump and intel failures
+ - [https://www.lemonde.fr/en/afghanistan/article/2023/04/06/white-house-releases-afghanistan-exit-review-blaming-trump-and-intel-failures_6021964_218.html](https://www.lemonde.fr/en/afghanistan/article/2023/04/06/white-house-releases-afghanistan-exit-review-blaming-trump-and-intel-failures_6021964_218.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 21:46:30+00:00
+
+Presenting a declassified summary, National Security Council spokesman John Kirby said that Trump left the Biden administration with 'no plan' but acknowledged that 'we didn't get things right' on intelligence.
+
+## Netanyahu assures enemies will 'pay the price' after Lebanon fires rockets into Israel
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/netanyahu-assures-enemies-will-pay-the-price-after-lebanon-fires-rockets-into-israel_6021961_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/netanyahu-assures-enemies-will-pay-the-price-after-lebanon-fires-rockets-into-israel_6021961_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 21:18:02+00:00
+
+The incident occurs just over a day after Israeli riot police had stormed the prayer hall of Al-Aqsa mosque, Islam's third-holiest site, in a pre-dawn raid.
+
+## Ex-Daft Punk Thomas Bangalter: 'I like the idea of being a beginner'
+ - [https://www.lemonde.fr/en/culture/article/2023/04/06/ex-daft-punk-thomas-bangalter-i-like-the-idea-of-being-a-beginner_6021954_30.html](https://www.lemonde.fr/en/culture/article/2023/04/06/ex-daft-punk-thomas-bangalter-i-like-the-idea-of-being-a-beginner_6021954_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 18:00:11+00:00
+
+Two years after the French electro duo's separation, the musician is releasing 'Mythologies,' a symphonic score released on a classical music label.
+
+## Italy's Berlusconi diagnosed with leukemia
+ - [https://www.lemonde.fr/en/europe/article/2023/04/06/italy-s-berlusconi-diagnosed-with-leukemia_6021951_143.html](https://www.lemonde.fr/en/europe/article/2023/04/06/italy-s-berlusconi-diagnosed-with-leukemia_6021951_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 15:53:39+00:00
+
+Dubbed 'the immortal' for his political longevity, Silvio Berlusconi is currently a senator and leader of the right-wing Forza Italia party.
+
+## Tired of antiquated norms, some Japanese contemplate leaving home
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/tired-of-antiquated-norms-some-japanese-contemplate-leaving-home_6021946_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/tired-of-antiquated-norms-some-japanese-contemplate-leaving-home_6021946_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 15:46:58+00:00
+
+More and more Japanese people are considering moving abroad in search of a better life balance and better income.
+
+## Fresh pension protests hit France for 11th day
+ - [https://www.lemonde.fr/en/france/article/2023/04/06/fresh-pension-protests-hit-france-before-key-court-ruling_6021945_7.html](https://www.lemonde.fr/en/france/article/2023/04/06/fresh-pension-protests-hit-france-before-key-court-ruling_6021945_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 15:45:56+00:00
+
+Hundreds of thousands rallied on Thursday in the latest round of strikes and demonstrations against President Emmanuel Macron's contested pension reform.
+
+## Kylian Mbappé unhappy with PSG for promo video to fans
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/kylian-mbappe-unhappy-with-psg-for-promo-video-to-fans_6021941_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/kylian-mbappe-unhappy-with-psg-for-promo-video-to-fans_6021941_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 14:12:51+00:00
+
+PSG is 'not Kylian Saint-Germain' says Mbappé after the Paris football club used an interview he gave for a promotional video that excluded other teammates.
+
+## Macron defends French pension bill from China visit
+ - [https://www.lemonde.fr/en/france/article/2023/04/06/french-pension-reform-macron-keeps-defending-his-bill-from-china_6021938_7.html](https://www.lemonde.fr/en/france/article/2023/04/06/french-pension-reform-macron-keeps-defending-his-bill-from-china_6021938_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 13:24:07+00:00
+
+A meeting between Prime Minister Elisabeth Borne and the unions to resolve the pension reform crisis ended in failure on Wednesday. From China, the French President reaffirmed his inflexible position and targeted the leader of the moderate CFDT union.
+
+## Al-Aqsa Mosque incident: Le Monde's Jerusalem correspondent answers readers' questions
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/al-aqsa-mosque-incident-le-monde-s-jerusalem-correspondent-answers-readers-questions_6021934_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/al-aqsa-mosque-incident-le-monde-s-jerusalem-correspondent-answers-readers-questions_6021934_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 12:18:33+00:00
+
+At least 50 people were injured at the holy Islamic site on Wednesday in the latest show of violence amidst increasing tensions between Israelis and Palestinians.
+
+## Pension reform protests: Map of the April 6 demonstrations across France
+ - [https://www.lemonde.fr/en/les-decodeurs/article/2023/04/06/pension-reform-protests-map-of-the-april-6-demonstrations-across-france_6021929_8.html](https://www.lemonde.fr/en/les-decodeurs/article/2023/04/06/pension-reform-protests-map-of-the-april-6-demonstrations-across-france_6021929_8.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 12:00:14+00:00
+
+Based on reports from authorities, unions, and the regional press, Le Monde is tracking the number of demonstrators across France. The map is updated throughout the day.
+
+## Cindy McCain takes over the leadership of an overheated World Food Program
+ - [https://www.lemonde.fr/en/environment/article/2023/04/06/cindy-mccain-takes-over-the-leadership-of-an-overheated-world-food-program_6021921_114.html](https://www.lemonde.fr/en/environment/article/2023/04/06/cindy-mccain-takes-over-the-leadership-of-an-overheated-world-food-program_6021921_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 10:48:27+00:00
+
+The new WFP director will have the task, among others, of raising funds in the midst of a global food crisis.
+
+## The weapons French police use during protests
+ - [https://www.lemonde.fr/en/police-and-justice/article/2023/04/06/the-weapons-french-police-use-during-protests_6021920_105.html](https://www.lemonde.fr/en/police-and-justice/article/2023/04/06/the-weapons-french-police-use-during-protests_6021920_105.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 10:45:24+00:00
+
+The French police's arsenal of weapons is one of the most extensive and contested in Europe. It includes Flash-Balls, tear gas, stun grenades, batons and water cannons.
+
+## 'Keep calm and start a revolution': How internet culture is influencing French protesters
+ - [https://www.lemonde.fr/en/politics/article/2023/04/06/keep-calm-and-start-a-revolution-how-internet-culture-is-influencing-french-protesters_6021915_5.html](https://www.lemonde.fr/en/politics/article/2023/04/06/keep-calm-and-start-a-revolution-how-internet-culture-is-influencing-french-protesters_6021915_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 10:31:07+00:00
+
+For several weeks, memes and references to pop culture have multiplied in the demonstrations against France's pension reform.
+
+## Morocco: Outrage after 11-year-old girl's rapists sentenced to just two years in prison
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/04/06/morocco-outrage-after-11-year-old-girl-s-rapists-sentenced-to-just-two-years-in-prison_6021914_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/04/06/morocco-outrage-after-11-year-old-girl-s-rapists-sentenced-to-just-two-years-in-prison_6021914_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 09:44:18+00:00
+
+The leniency of the verdict is reigniting the debate on sexism and women's rights in the country. The prosecution has appealed the verdict.
+
+## Zelensky champions 'eternal friendship' between Ukraine and Poland
+ - [https://www.lemonde.fr/en/europe/article/2023/04/06/zelensky-champions-eternal-friendship-between-ukraine-and-poland_6021911_143.html](https://www.lemonde.fr/en/europe/article/2023/04/06/zelensky-champions-eternal-friendship-between-ukraine-and-poland_6021911_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 09:43:38+00:00
+
+During his first state visit, the Ukrainian president made numerous gestures of gratitude to his closest ally and reaffirmed his country's determination to join the EU and NATO.
+
+## Macron says 'counting' on Xi to 'bring Russia to its senses'
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/macron-says-counting-on-xi-to-bring-russia-to-its-senses_6021908_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/macron-says-counting-on-xi-to-bring-russia-to-its-senses_6021908_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 09:16:13+00:00
+
+French President Emmanuel Macron told his Chinese counterpart Xi Jinping that he was counting on him to 'bring Russia to its senses' over its war in Ukraine.
+
+## Russian defector describes Putin's lavish lifestyle and 'paranoid' security
+ - [https://www.lemonde.fr/en/russia/article/2023/04/06/russian-defector-describes-putin-s-lavish-lifestyle-and-paranoid-security_6021904_140.html](https://www.lemonde.fr/en/russia/article/2023/04/06/russian-defector-describes-putin-s-lavish-lifestyle-and-paranoid-security_6021904_140.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 09:00:20+00:00
+
+Former Russian security official Gleb Karakoulov fled from a mission in Kazakhstan in mid-October 2022. His testimony, collected by a dissident media, testifies to an information bubble and paranoia prevailing in the Kremlin.
+
+## Scottish National Party: Husband of former first minister Sturgeon arrested
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/scottish-national-party-husband-of-former-first-minister-sturgeon-arrested_6021901_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/scottish-national-party-husband-of-former-first-minister-sturgeon-arrested_6021901_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 07:06:43+00:00
+
+Peter Murrell was arrested as part of an investigation into the finances of the party. This police inquiry raises questions about the reasons for his wife's resignation.
+
+## In France, Green MPs want to ban private jet flights, to 'bring the rich back down to earth'
+ - [https://www.lemonde.fr/en/france/article/2023/04/06/in-france-green-mps-want-to-ban-private-jet-flights-to-bring-the-rich-back-down-to-earth_6021897_7.html](https://www.lemonde.fr/en/france/article/2023/04/06/in-france-green-mps-want-to-ban-private-jet-flights-to-bring-the-rich-back-down-to-earth_6021897_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 03:45:39+00:00
+
+France was the European country with the highest number of private jet flights in 2022. The bill proposed to ban private jets is to be debated on Thursday at the National Assembly.
+
+## France braces for an 11th day of protests against pension reform
+ - [https://www.lemonde.fr/en/france/article/2023/04/06/france-braces-for-an-11th-day-of-pension-protests_6021893_7.html](https://www.lemonde.fr/en/france/article/2023/04/06/france-braces-for-an-11th-day-of-pension-protests_6021893_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 03:29:38+00:00
+
+Union chiefs called for French people to take to the streets and strike en masse on Thursday while awaiting the verdict from France's Constitutional Council, which has the power to strike out some or even all of the legislation of the reform.
+
+## French pension reform: Why the protests in Marseille have been largely peaceful
+ - [https://www.lemonde.fr/en/france/article/2023/04/06/french-pension-reform-why-the-protests-in-marseille-have-been-largely-peaceful_6021892_7.html](https://www.lemonde.fr/en/france/article/2023/04/06/french-pension-reform-why-the-protests-in-marseille-have-been-largely-peaceful_6021892_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 03:00:13+00:00
+
+Since the first day of national protests on January 19, only six people have been arrested in the southern city, France's second-largest. The locations chosen and the police's discreet presence help explain the calm atmosphere.
+
+## Canada agrees to pay $17 billion to compensate Indigenous families
+ - [https://www.lemonde.fr/en/international/article/2023/04/06/canada-agrees-to-pay-17-billion-to-compensate-indigenous-families_6021886_4.html](https://www.lemonde.fr/en/international/article/2023/04/06/canada-agrees-to-pay-17-billion-to-compensate-indigenous-families_6021886_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 02:07:34+00:00
+
+The settlement announced Wednesday impacts some 300,000 people and would close a case brought before a human rights tribunal that found the government had underfunded Indigenous children's services.
+
+## Young people re-energize pension reform protests: 'We too have things to say'
+ - [https://www.lemonde.fr/en/france/article/2023/04/06/young-people-re-energize-pension-reform-protests-we-too-have-things-to-say_6021885_7.html](https://www.lemonde.fr/en/france/article/2023/04/06/young-people-re-energize-pension-reform-protests-we-too-have-things-to-say_6021885_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 02:00:14+00:00
+
+In Paris and beyond, the young protesters are diverse, some of them highly politicized and others rookies. For them, the issue of pensions aggregates other dissatisfaction relating to social claims or climate change.
+
+## Paris transport authority investigated for not properly informing riders of air pollution
+ - [https://www.lemonde.fr/en/transport/article/2023/04/06/paris-transport-authority-investigated-for-not-properly-informing-riders-of-air-pollution_6021881_216.html](https://www.lemonde.fr/en/transport/article/2023/04/06/paris-transport-authority-investigated-for-not-properly-informing-riders-of-air-pollution_6021881_216.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 00:46:08+00:00
+
+The Paris prosecutor's office has opened a preliminary investigation following the complaint for 'deception' and 'endangering others' filed by the advocacy group Respire.
+
+## 'The visit of Emmanuel Macron and Ursula von der Leyen to Beijing should be an opportunity to send a firm message to the Chinese authorities'
+ - [https://www.lemonde.fr/en/opinion/article/2023/04/06/the-visit-of-emmanuel-macron-and-ursula-von-der-leyen-to-beijing-should-be-an-opportunity-to-send-a-firm-message-to-the-chinese-authorities_6021877_23.html](https://www.lemonde.fr/en/opinion/article/2023/04/06/the-visit-of-emmanuel-macron-and-ursula-von-der-leyen-to-beijing-should-be-an-opportunity-to-send-a-firm-message-to-the-chinese-authorities_6021877_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-04-06 00:12:49+00:00
+
+A group of French senators reminds us in their article for 'Le Monde' that what happens now in Hong Kong could happen tomorrow in Taiwan if the international community does not take preventative measures.
+
