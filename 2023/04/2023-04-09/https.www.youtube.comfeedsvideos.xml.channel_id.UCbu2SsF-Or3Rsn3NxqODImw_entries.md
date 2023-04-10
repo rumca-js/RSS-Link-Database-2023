@@ -1,0 +1,13 @@
+# Source:GameSpot, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw, language:en-US
+
+## Star Wars Jedi: Survivor Official Final Gameplay Trailer
+ - [https://www.youtube.com/watch?v=rpzEo57ZqRY](https://www.youtube.com/watch?v=rpzEo57ZqRY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw
+ - date published: 2023-04-09 13:58:15+00:00
+
+The story of Cal Kestis continues in Star Wars Jedi: Survivor, an epic new adventure that will push Cal further than ever as he fights to protect the galaxy from descending into darkness.
+
+Picking up five years after the events of Star Wars Jedi: Fallen Order, the game is a third person, narrative-driven action-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games. Star Wars Jedi: Survivor will be available on PlayStation 5, Xbox Series X|S and Windows PC on April 28, 2023.
+
+#starwars #ea #gaming
+
