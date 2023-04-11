@@ -1,0 +1,58 @@
+# Source:Epoch Times Tech, URL:https://www.theepochtimes.com/c-tech/feed/, language:en-US
+
+## World’s Top Chipmaker Posts Drop in Revenue, Its First Decline in Four Years
+ - [https://www.theepochtimes.com/worlds-top-chipmaker-posts-drop-in-revenue-its-first-decline-in-four-years_5184292.html](https://www.theepochtimes.com/worlds-top-chipmaker-posts-drop-in-revenue-its-first-decline-in-four-years_5184292.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 20:23:08+00:00
+
+Taiwan Semiconductor Manufacturing Co. Ltd. headquarters in Hsinchu, Taiwan, on Oct. 20, 2021. (Chiang Ying-ying/AP Photo)
+
+## Louisville Suspect Was Livestreaming Shooting, Police Chief Says
+ - [https://www.theepochtimes.com/louisville-suspect-was-livestreaming-shooting-police-chief-says_5184592.html](https://www.theepochtimes.com/louisville-suspect-was-livestreaming-shooting-police-chief-says_5184592.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 19:59:31+00:00
+
+Law enforcement officers respond to an active shooter at the Old National Bank building in Louisville, Ky., on April 10, 2023. (Luke Sharrett/Getty Images)
+
+## FBI Warns Against Free Public Charging Stations for Phones, Citing Hacking Risks
+ - [https://www.theepochtimes.com/fbi-warns-against-free-public-charging-stations-for-phones-citing-hacking-risks_5184153.html](https://www.theepochtimes.com/fbi-warns-against-free-public-charging-stations-for-phones-citing-hacking-risks_5184153.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 19:11:18+00:00
+
+The FBI seal is pictured in Omaha, Neb., on Aug. 10, 2022. (Charlie Neibergall/AP Photo)
+
+## Apple Leads Global PC Shipment Plunge With 40 Percent Collapse
+ - [https://www.theepochtimes.com/apple-leads-global-pc-shipment-plunge-with-40-percent-collapse_5184018.html](https://www.theepochtimes.com/apple-leads-global-pc-shipment-plunge-with-40-percent-collapse_5184018.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 17:19:22+00:00
+
+Apple Inc. headquarters in Cupertino, California. (Jan Jekielek/The Epoch Times)
+
+## ChatGPT Defames Professor With Fake Sexual Assault Allegations
+ - [https://www.theepochtimes.com/chatgpt-defames-professor-with-fake-sexual-assault-allegations_5183248.html](https://www.theepochtimes.com/chatgpt-defames-professor-with-fake-sexual-assault-allegations_5183248.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 14:44:08+00:00
+
+Prof. Jonathan Turley listens during a House Judiciary Committee hearing on the impeachment inquiry against President Donald Trump in the Longworth House Office Building on Capitol Hill in Washington on Dec. 4, 2019. (Brendan Smialowski/AFP via Getty Images)
+
+## One of the World’s Fastest Growing Media Group’s Removes Itself From TikTok, Calls the App A ‘Spy Network’
+ - [https://www.theepochtimes.com/one-of-the-worlds-fastest-growing-media-groups-removes-itself-from-tiktok-calls-the-app-a-spy-network_5182867.html](https://www.theepochtimes.com/one-of-the-worlds-fastest-growing-media-groups-removes-itself-from-tiktok-calls-the-app-a-spy-network_5182867.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 03:35:02+00:00
+
+The U.S. head office of TikTok in Culver City, Calif., on Sept. 15, 2020. (Mike Blake/Reuters)
+
+## Society Entering New Dark Age for Ideas and Discovery Warns Human Rights Commissioner
+ - [https://www.theepochtimes.com/society-entering-new-dark-age-for-ideas-and-discovery-warns-human-rights-commissioner_5182743.html](https://www.theepochtimes.com/society-entering-new-dark-age-for-ideas-and-discovery-warns-human-rights-commissioner_5182743.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 03:01:22+00:00
+
+Transgender rights demonstrators are seen during a protest against an event by British activist Kellie-Jay Keen-Minshull at the Tasmanian Parliament House lawns in Hobart, Australia on March 21, 2023. (AAP Image/Ethan James)
+
+## Baidu Sues Apple, App Developers Over Fake Ernie Bot Apps
+ - [https://www.theepochtimes.com/baidu-sues-apple-app-developers-over-fake-ernie-bot-apps_5181085.html](https://www.theepochtimes.com/baidu-sues-apple-app-developers-over-fake-ernie-bot-apps_5181085.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2023-04-10 02:04:06+00:00
+
+Men interact with a Baidu AI robot near the company logo at its headquarters in Beijing on April 23, 2021. (Florence Lo/Reuters)
+
