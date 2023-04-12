@@ -1,0 +1,298 @@
+# Source:Ign - YouTube, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw, language:en-US
+
+## Fool's Paradise - Official Trailer (2023) Charlie Day, Ken Jeong, Jason Sudeikis
+ - [https://www.youtube.com/watch?v=nGEuyiDsKgo](https://www.youtube.com/watch?v=nGEuyiDsKgo)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 23:00:17+00:00
+
+A satirical comedy about a down-on-his-luck publicist, who gets his lucky break when he discovers a man recently released from a mental health facility looks just like a method actor who refuses to leave his trailer. With the help of a powerful producer, the publicist helps the man become a huge star, even marrying his beautiful leading lady. Their adventures lead them to cross paths with drunken costars, irreverent unhoused action heroes, unpredictable directors, super-agent, and power-mad moguls. Fame and fortune are not all they're cracked up to be, and the two men must fight their way back to the things that matter the most.
+
+#IGN #FoolsParadise #Movies
+
+## Your PC Can't Handle Cyberpunk 2077's Latest Update - IGN Daily Fix
+ - [https://www.youtube.com/watch?v=NyXqcPiHwjU](https://www.youtube.com/watch?v=NyXqcPiHwjU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 22:29:49+00:00
+
+CD Projekt Red (CDPR) has rolled out new high end ray-tracing features for the PC version of Cyberpunk 2077, courtesy of the newly released Ray Tracing: Overdrive mode introduced in Patch 1.62. A Persona 3 Remake could be on the way based on new reports as well as what may be leaked footage. Finally, Nintendo officially announces Nintendo Live 2023.
+
+#IGN #Gaming #Cyberpunk2077
+
+## Diablo 4 - Official Rogue Trailer
+ - [https://www.youtube.com/watch?v=6lD1HoAjEK8](https://www.youtube.com/watch?v=6lD1HoAjEK8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 22:00:03+00:00
+
+The latest Diablo IV trailer puts a spotlight on the Rogue class. Check it out to see the character class in action. Diablo IV will be available on June 6, 2023.
+
+#IGN #Gaming #Diablo4
+
+## Showgunners - Official Gameplay Trailer
+ - [https://www.youtube.com/watch?v=cTK1FIQ5jqQ](https://www.youtube.com/watch?v=cTK1FIQ5jqQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 21:00:13+00:00
+
+Showgunners is a turn-based strategy game that takes place in a deadly reality tv show in a dystopian future. Explore and survive arenas filled with environmental hazards, traps, and puzzles before facing off against psychopath mercenaries in dynamic tactical battles. Win over fans to win fame points that can unlock game-changing sponsorships. Earn experience and level your characters' skill trees in the way that best suits your playstyle. Showgunners launches on May 2 for PC.
+
+#IGN #Gaming
+
+## Overwatch 2: Season 4 Battle Pass - Official Trailer
+ - [https://www.youtube.com/watch?v=e-JjnbxabrY](https://www.youtube.com/watch?v=e-JjnbxabrY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 20:00:13+00:00
+
+Season 4 of Overwatch 2 is available now. Watch the latest trailer to see what to expect with the Season 4 battle pass. You can earn the latest Mythic Skin, Emperor Galactic Sigma, at Tier 80. The Ultimate Battle pass bundle unlocks Infinite Ace D.Va (Epic), Infinite Guard Soldier: 76 (Legendary), 2000 OW Coins, 20 tiers, and the Medallion Weapon Charm.
+
+#IGN #Gaming #Overwatch2
+
+## Minecraft Legends - Official Trailer
+ - [https://www.youtube.com/watch?v=NzhzfpAZrHw](https://www.youtube.com/watch?v=NzhzfpAZrHw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 20:00:10+00:00
+
+Take another look at Minecraft Legends in this latest trailer for the upcoming action strategy game ahead of its release on Nintendo Switch, PlayStation 5, PlayStation 4, Steam, Windows 11|10, PC Game Pass, Xbox Game Pass, Xbox Series X/S, Xbox One, and Xbox Cloud Gaming on April 18, 2023.
+
+In Minecraft Legends, the only way to stop the piglins’ rampage is to stand together. Make new friends, form alliances, and lead your army in intense battles. Do you have what it takes to outsmart the deceptively devious piglins?
+
+#IGN #MinecraftLegends #Gaming
+
+## Diablo 4: Best Druid Builds - Does It Need a Buff?
+ - [https://www.youtube.com/watch?v=pawIYOh2Gc4](https://www.youtube.com/watch?v=pawIYOh2Gc4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 19:30:04+00:00
+
+Players had the opportunity to go hands-on with the all-natural, were-beast-morphing Druid class with the recent Diablo 4 open beta. Despite the wildly OP Necromancer arguably hijacking the spotlight during the second beta weekend, plenty of aspiring demon slayers sunk their claws into the unique shapeshifting, casting, and companion archetype. However, due to the limited nature of progression, fans seem unimpressed by the power output of the Druid.  
+Now that the dust has settled and we’re all forced to wait months to play Diablo 4 again, we’ve spent some time analyzing the current state of the Druid class. According to our play sessions and the consensus from the passionate community, here are the best Druid builds, our thoughts on whether or not the Druid needs a buff, and what might change for the launch of Diablo IV. 
+
+00:00 - Intro
+00:54 - Druid Class Overview 
+02:16 - Best Basic Druid Builds
+05:07 - What's Changing at Launch?
+06:26 - Best Druid Build
+08:02 - Outro
+
+#IGN #Diablo4 #Gaming
+
+## The Newest Gaming Handheld: The Razer Edge 5G
+ - [https://www.youtube.com/watch?v=neev6tyqtCc](https://www.youtube.com/watch?v=neev6tyqtCc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 19:00:30+00:00
+
+The Razer Edge 5G is the latest iteration of mobile gaming and takes it one step further by allowing games to play outside of WiFi range with Verizon’s 5G Ultra Wideband Network, which seamlessly takes gaming out of the home.
+
+The Razer Edge 5G will bring AAA console gaming to wherever you are as “5G Ultra Wideband is fast enough and reliable enough you can’t tell the difference between something that’s downloaded on the device and something that’s being streamed.” The Edge 5G provides TV-quality performance in the palm of your hand, with 2-way speakers with Verizon Adaptive Sound for more immersive, 3D surround sound. The display also comes in at just under 7” while also rocking an HDR AMOLED™ FHD+ panel and up to a 144Hz refresh rate to ensure your games look better and run smoother.
+
+Presented by Verizon  
+
+#IGN #Gaming
+
+## Talk To Me - Official Trailer (2023) Sophia Wilde, Joe Bird,  Alexandra Jensen
+ - [https://www.youtube.com/watch?v=dyJGU_YmwA4](https://www.youtube.com/watch?v=dyJGU_YmwA4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 19:00:27+00:00
+
+Check out the creepy trailer for Talk To Me, an upcoming movie starring Sophia Wilde, Joe Bird, Alexandra Jensen, Otis Dhanji, Miranda Otto, Marcus Johnson, Alexandria Steffensen, Zoe Terakes, Chris Alosio
+
+When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.
+
+Talk To Me, directed by Danny and Michael Philippou, opens in theaters on July 28.
+
+## Hi-Fi Rush - Official Tango Remix Trailer
+ - [https://www.youtube.com/watch?v=3ZDjhw-Ih7g](https://www.youtube.com/watch?v=3ZDjhw-Ih7g)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 18:00:02+00:00
+
+Get another look at the stylish and colorful world, characters, gameplay, and more from Hi-Fi Rush in this latest HiFi Rush trailer for the rhythm action game from Tango Gameworks. Hi-Fi Rush is available on Xbox Game Pass, Xbox Series X/S, and PC.
+
+Tap into your musical robot powers and fight against the evil corporation trying to recall you for being a "defect" in Hi-Fi Rush.
+
+#IGN #Gaming #HiFiRush
+
+## Jack Black's Bowser suit is on point #nintendo #mario #mariomovie #jackblack #gaming #shorts
+ - [https://www.youtube.com/watch?v=jyU_irv4xMI](https://www.youtube.com/watch?v=jyU_irv4xMI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 17:24:06+00:00
+
+
+
+## Chris Pratt wants to see Magnificent Seven as a game #mario #chrispratt #mariomovie #shorts
+ - [https://www.youtube.com/watch?v=yna1OtVJWOg](https://www.youtube.com/watch?v=yna1OtVJWOg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 17:22:15+00:00
+
+
+
+## Seth Rogen liked being mean to Mario #mario #supermariobros #mariomovie #nintendo #shorts
+ - [https://www.youtube.com/watch?v=cuZFvHLv5SE](https://www.youtube.com/watch?v=cuZFvHLv5SE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 17:20:45+00:00
+
+
+
+## Call of Duty: Season 3 - Official BlackCell Battlepass Trailer (Modern Warfare 2 & Warzone 2.0)
+ - [https://www.youtube.com/watch?v=VjhLBLPljSc](https://www.youtube.com/watch?v=VjhLBLPljSc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 17:00:29+00:00
+
+Watch the latest Call of Duty: Modern Warfare II & Warzone 2.0 trailer to see what to expect with the premier battle pass upgrade, BlackCell, which includes all the benefits of the battle pass and more, like a new Operator, pro-tuned weapon blueprint, vehicle skin, finishing move, and 1,100 COD points, as well as the BlackCell Infil Sector, battle pass + 20 Tier skips, and 12 bonus variant skins.
+
+#IGN #Gaming #CallOfDuty
+
+## Mighty Doom Review
+ - [https://www.youtube.com/watch?v=d_lerLiYWl4](https://www.youtube.com/watch?v=d_lerLiYWl4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 16:47:21+00:00
+
+Mighty Doom reviewed by Chris Reed on iOS/iPhone, also available on Android.
+
+There is a devilishly fun roguelite hiding in Mighty Doom, but the way it’s been buried under all the most egregious money-making schemes in mobile gaming is hugely disappointing. The first few hours are fun, but it’s not long before a super-powered difficulty spike hits like a BFG blast to the chest. This invisible paywall and the free-to-play speed bumps that accompany it turn Mighty Doom into a teeth-grindingly frustrating experience.
+
+#IGN #Gaming #Doom
+
+## Cyberpunk 2077 - Official Ray Tracing: Overdrive Mode Preview
+ - [https://www.youtube.com/watch?v=5jHvmQn6ceg](https://www.youtube.com/watch?v=5jHvmQn6ceg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 16:00:06+00:00
+
+Cyberpunk 2077 has been updated to include Ray Tracing: Overdrive Mode into the game compatible with capable graphics cards. Ray Tracing: Overdrive Mode introduces full ray tracing by utilizing path tracing to provide a much more realistic and accurate light bouncing, reflections, shadows, ambient occlusion, and more. Check out the deep dive to get the full scope of Ray Tracing: Overdrive Mode available now on Cyberpunk 2077.
+
+#IGN #Gaming #Cyberpunk2077
+
+## Boundary - Official Launch Trailer
+ - [https://www.youtube.com/watch?v=pDBy6CADau8](https://www.youtube.com/watch?v=pDBy6CADau8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 15:00:38+00:00
+
+Enjoy the launch trailer for Boundary, the competitive, team-based first-person shooter set in zero-gravity planetary orbit. It's out for PC (via Steam) on Thursday, April 13.
+
+#IGN #Gaming
+
+## Warhammer 40,000: Boltgun - Official Release Date Reveal Trailer
+ - [https://www.youtube.com/watch?v=GyN1NvKt8Wc](https://www.youtube.com/watch?v=GyN1NvKt8Wc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 14:44:49+00:00
+
+Watch the Warhammer 40K Boltgun release date trailer. Warhammer 40,000: Boltgun will be available on PS5, PS4, Xbox Series X/S, Xbox One, Nintendo Switch, and PC on May 23, 2023. Watch the latest bloody, action-packed trailer as grotesque enemies get annihilated in this upcoming FPS game that's an homage to retro shooters.
+
+#IGN #Gaming #Warhammer
+
+## Fortnite - Official Eren Jaeger Trailer
+ - [https://www.youtube.com/watch?v=WtCZDk7ybHg](https://www.youtube.com/watch?v=WtCZDk7ybHg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 14:30:11+00:00
+
+Attack on Titan's Eren Jaeger arrives in Fortnite, along with ODM Gear and Thunder Spears. Additionally, Captain Levi and Mikasa Ackerman outfits are available now in Fortnite's Item Shop. Watch this new Fortnite trailer for a look at Fortnite Eren Jaeger.
+
+Omni-Directional Mobility (ODM) Gear and Thunder Spears can be found from the ground, chests, or Scout Regiment Footlockers. ODM Gear allows you to grapple in the air and strike opponents, while Thunder Spears are arm-launched rockets.
+
+#IGN #Gaming #Fortnite
+
+## Tamarak Trail: Official Gameplay Explainer
+ - [https://www.youtube.com/watch?v=UzEVqmmbcio](https://www.youtube.com/watch?v=UzEVqmmbcio)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 14:00:21+00:00
+
+The developers of Tamarak Trail walk you through five minutes of gameplay from the upcoming dice-rolling roguelike, due out later this year.
+
+#IGN #Gaming
+
+## Dislyte: Dusk & Dawn - Official Cinematic Launch Trailer
+ - [https://www.youtube.com/watch?v=_J0BBdMMlOM](https://www.youtube.com/watch?v=_J0BBdMMlOM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 13:00:22+00:00
+
+Watch the cinematic launch trailer for Dislyte's Dusk & Dawn update for a peek at the story of the new Espers: Athena and Nyx. In addition to the new Espers, Dislyte's Dusk & Dawn update brings an April Carnival event, a new dungeon, and more to the RPG.
+
+#IGN #Dislyte #Gaming
+
+## The Marvels - Official Teaser Trailer (2023) Brie Larson, Samuel L. Jackson
+ - [https://www.youtube.com/watch?v=9mw_xv85lAI](https://www.youtube.com/watch?v=9mw_xv85lAI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 12:59:25+00:00
+
+Check out The Marvels trailer for the upcoming MCU movie starring Brie Larson, Teyonah Parris, Iman Vellani, Samuel L. Jackson, Zawe Ashton, and Park Seo-joon.
+
+In The Marvels, Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. The unlikely trio must work together to save the universe.
+
+Nia DaCosta directs, and Kevin Feige is the producer. Louis D’Esposito, Victoria Alonso, Mary Livanos and Matthew Jenkins serve as executive producers. The screenplay is by Megan McDonnell, Nia DaCosta, Elissa Karasik and Zeb Wells.
+
+Marvel Studios’ The Marvels arrives in theaters on November 10, 2023.
+
+#IGN #Movies #Marvel
+
+## Super Bomberman R 2 - Official Release Date Trailer
+ - [https://www.youtube.com/watch?v=i60eY4h5wHs](https://www.youtube.com/watch?v=i60eY4h5wHs)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 12:00:25+00:00
+
+Watch the latest Super Bomberman R 2 trailer, announcing that the game will be released on PS5, Xbox Series X/S, PS4, Xbox One, Nintendo Switch, and PC physically on September 12 and digitally on September 13, 2023.
+
+The Bomberman Brothers return to celebrate the 40th anniversary of the Bomberman series with four battle modes, including Standard, Grand Prix, Battle 64, and the brand new Castle mode. Super Bomberman R 2 will also launch with a new story mode adventure.
+
+#IGN #Gaming #SuperBomberman
+
+## Nicolas Cage and Nicholas Hoult Respond to IGN Comments
+ - [https://www.youtube.com/watch?v=1lOpmN3EJBI](https://www.youtube.com/watch?v=1lOpmN3EJBI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 11:00:00+00:00
+
+Watch Nicholas Hoult and Nicolas Cage react to IGN comments! We showed Renfield stars Nick Cage and Nicholas Hoult some of our favourite comments that you posted about the upcoming Dracula movie... Here's what they had to say.
+
+Renfield opens in theaters on April 14, 2023.
+
+#IGN #Movies #Renfield
+
+## Star Wars: Young Jedi Adventures - Official Trailer | Star Wars Celebration 2023
+ - [https://www.youtube.com/watch?v=o-O9Lwr-Yp4](https://www.youtube.com/watch?v=o-O9Lwr-Yp4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 00:30:17+00:00
+
+Set 200 years before “The Phantom Menace,” during the High Republic era, the animated series follows Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need and learn valuable skills needed to become Jedi along the way.
+
+#IGN #StarWars
+
+## Join IGN's Pop-Up Party in Atlanta
+ - [https://www.youtube.com/watch?v=x2eJO6f5Zoc](https://www.youtube.com/watch?v=x2eJO6f5Zoc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-04-11 00:10:36+00:00
+
+Join other sports gaming fans to celebrate the winner of IGN's Best Sports Video Games Showdown, and Be All You Can Be in Atlanta, GA April 15th! Presented by U.S. Army.
+You will also have the chance to play the Best Sports Video Games of All-Time, compete against a special celebrity guest, and win fabulous prizes like T-shirts, IGN water bottles, Xbox Controllers, Consoles, Speakers, IGN Gift Cards and more!
+
+Attendees can also enter three different raffles for even bigger prizes:
+  Grand Raffle Prize. Attendees who are at the event from start-to-finish will be eligible for the Grand Prize: a brand-new Xbox Series X and PS5! Make sure to register when you enter the premises.
+  Scavenger Hunt Raffle. Attendees who complete the scavenger hunt will enter a raffle for the chance to win awesome prizes. Upon arrival you’ll be given a map. Explore the show floor and collect all the stamps, then redeem your entry into the raffle for a chance to win a set of SteelSeries Arena 7 Speakers, a Meta Quest 2, an Xbox Series S, or a brand-new Steam Deck!
+  Stage Competition 1 v 1’s. Each hour, select attendees will be invited on stage to  “Be All They Can Be” and compete against our special guest for their chance to win an Xbox Wireless Controller or IGN Store Gift Cards!
+
+Lastly, for those of you just looking to have some laid-back fun and want to try out the games we’ve mentioned on our bracket, have no fear! With dozens of gaming stations spread out across the pop-up, you’ll be able to play to your heart’s content. Just like the bracket, they’ll be split up into four regions so you can follow whatever category you like the most (with a special emphasis on the games featured on-stage for those who want to warm up). There will even be some Oculus stations available for anyone curious about virtual reality! Regardless of whether you want to shred, dribble, or tackle your way through our featured library, there’s options for everyone!
+
+Register Here:  https://www.eventbrite.com/e/igns-best-sports-video-games-showdown-tickets-607464240897
+
+Date: Saturday, April 15th
+
+Time: 2pm- 7pm ET
+
+Where: Skillshot Arena in Atlanta, Georgia
+
+Parking Directions: City Center Parking
+
+1 Magnolia LN NE, Atlanta, GA 30324
+
+Please follow the signs to guide you to the main entrance.
+
+Competition / Raffle Prizes:
+“Best Sports Game Video Games Showdown” Bucket Hat
+“Best Sports Video Games Showdown” T-Shirt
+“Best Sports Video Games Showdown” Water Bottle
+“Best Sports Video Games Showdown” Drawstring Bag
+PlayStation 5 Console
+Xbox Wireless Controller(s)
+Xbox Series S Console
+Xbox Series X Console
+9. SteelSeries Arena 7 Speakers
+Meta Quest 2
+Steam Deck (64 GB)
+IGN Store Gift Cards
+
+NO PURCHASE NECESSARY TO ENTER OR WIN. The IGN Ultimate Sports Gaming Showdown Contest registration period begins on 3/24/23 at 10:00 am PT and ends on 3/28/23 at 11:59 pm PT. Open to legal residents of the 50 United States & D.C., who are at least 18 years of age or the age of legal majority in their state of primary residence at time of entry. Void where restricted or prohibited by law. See Official Rules at  bestsportsgame.ign.com for eligibility/restrictions/prize descriptions and complete details. THIS CONTEST IS DEVISED AS A NON-GAMBLING PROMOTION and is intended solely for entertainment purposes. Void where prohibited. Sponsor: IGN Entertainment, Inc.
+
