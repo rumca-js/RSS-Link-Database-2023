@@ -1,0 +1,14 @@
+# Source:Nerdstalgic, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ, language:en-US
+
+## How The Worlds End Was The Perfect Ending To The Cornetto Trilogy
+ - [https://www.youtube.com/watch?v=z0pjCGl9lZY](https://www.youtube.com/watch?v=z0pjCGl9lZY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ
+ - date published: 2023-04-12 17:00:36+00:00
+
+Within Edgar Wrights Cornetto Trilogy, most fans gravitate towards Shaun of the Dead or Hot Fuzz as their favorite installment.  Though the Worlds End is the absolute perfect way to wrap up a trilogy steeped in homages and references.  Edgar Wright approached The Worlds End from a different angle than Hot Fuzz or Shaun of the Dead.  Exploring the ideas of youth, nostalgia, and of course pub crawling. 
+
+#edgarwright #theworldsend #nerdstalgic 
+
+Written by Adam Smith
+Edited by Dan Smiley
+

@@ -1,0 +1,39 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## Down in Q1, US IT job market rebounded slightly in March: Report
+ - [https://www.computerworld.com/article/3693249/down-in-q1-us-it-job-market-rebounded-slightly-in-march-report.html#tk.rss_all](https://www.computerworld.com/article/3693249/down-in-q1-us-it-job-market-rebounded-slightly-in-march-report.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-12 21:09:00+00:00
+
+<article>
+	<section class="page">
+<p>Economic uncertainty coupled with <a href="https://www.computerworld.com/article/3685936/tech-layoffs-in-2023-a-timeline.html">widespread tech industry layoffs</a> drove CIOs and CFOs to slow IT hiring last quarter. March was the first month this year that saw an uptick in the number of IT jobs added, according to <a href="https://e-janco.com/press/2023/2023-04-07-it-job-market-shrinks.html" rel="nofollow noopener" target="_blank">a new report</a>.</p><p>In the first quarter of 2023, the US IT job market lost 13,700 jobs, according to management consulting firm Janco Associates. That contrasts with 51,000 jobs created in Q1 of 2022. Currently, there are now just over 4.18 million jobs for IT professionals in the US.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3693249/down-in-q1-us-it-job-market-rebounded-slightly-in-march-report.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Yet more digital spies targeting iPhones exposed by security researchers
+ - [https://www.computerworld.com/article/3692922/yet-more-digital-spies-targeting-iphones-exposed-by-security-researchers.html#tk.rss_all](https://www.computerworld.com/article/3692922/yet-more-digital-spies-targeting-iphones-exposed-by-security-researchers.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-12 17:34:00+00:00
+
+<article>
+	<section class="page">
+<p>Just weeks after President Biden signed an executive order designed to prevent the US government from purchasing commercial spyware used to <a href="https://www.csoonline.com/article/3691711/biden-administration-seeks-to-tamp-down-the-spyware-market-with-a-new-ban.html" rel="noopener" target="_blank">subvert democracies</a>, researchers have identified yet another shameful zero-click, zero-day exploit that targeted iPhone users. This spy-for-hire ‘solution’ was sold by an Israeli firm called QuaDream.</p><h3 class="body">Making everyone less safe</h3>
+<p>QuaDream’s attacks have been exposed by security researchers at <a href="https://www.microsoft.com/en-us/security/blog/2023/04/11/dev-0196-quadreams-kingspawn-malware-used-to-target-civil-society-in-europe-north-america-the-middle-east-and-southeast-asia/" rel="noopener nofollow" target="_blank">Microsoft</a> and <a href="https://citizenlab.ca/2023/04/spyware-vendor-quadream-exploits-victims-customers/" rel="noopener nofollow" target="_blank">Citizen Lab</a>. QuaDream is a more <a href="https://www.computerworld.com/article/3666688/apple-slaps-hard-against-mercenary-surveillance-as-a-service-industry.html">secretive entity than NSO Group</a> but shares much of the same pedigree, including being founded by ex-NSO Group employees and having connections to Israeli intelligence. Its <a href="https://www.computerworld.com/article/3649208/second-israeli-firm-accused-of-undermining-iphones-like-nso-group.html">attacks were first exposed</a> last year, but the researchers have since found more about how these <a href="https://www.computerworld.com/article/3641261/apple-pulls-no-punches-in-lawsuit-against-amoral-nso-group.html">digital mercenaries</a> worked.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3692922/yet-more-digital-spies-targeting-iphones-exposed-by-security-researchers.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Android, ChromeOS, and Google's cloudy vision for a connected future
+ - [https://www.computerworld.com/article/3692894/android-chromeos-google.html#tk.rss_all](https://www.computerworld.com/article/3692894/android-chromeos-google.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-12 10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>Riddle me this, my fellow tech-contemplating primate: What exactly <em>is</em> ChromeOS?</p><p>It's a simple-seeming question that's deceptively difficult to answer. If there's been one near-constant with Google's <a href="https://www.computerworld.com/article/2893364/is-chrome-os-right-for-you.html">ChromeOS</a> operating system since its launch nearly 12 years ago, it's the platform's perpetual state of foundational change.</p><p>In its earliest days, ChromeOS represented an ahead-of-its-time vision for an exceptionally focused kind of cloud-centric computing — one in which you quite literally just had a full-screen browser window and nothing else around it. The philosophy was admirable, but the concept was arguably a touch <em>too</em> ambitious and something that went overboard in its drive to strip back our digital domains.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3692894/android-chromeos-google.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## It’s déjà vu all over again as governments put Microsoft in their crosshairs
+ - [https://www.computerworld.com/article/3693114/it-s-deja-vu-all-over-again-as-governments-put-microsoft-in-their-crosshairs.html#tk.rss_all](https://www.computerworld.com/article/3693114/it-s-deja-vu-all-over-again-as-governments-put-microsoft-in-their-crosshairs.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-12 10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>When <a href="https://www.computerworld.com/article/2487281/microsoft-stays-in-house-taps-nadella-as-new-ceo.html">Satya Nadella took over as Microsoft CEO</a> nearly 20 years ago, he turned Microsoft into tech’s choirboy. Under his leadership, the onetime corporate shark that the US government prosecuted for violating antitrust laws became meek and mild, played nice with competitors rather than squashed them, and even worked hand-in-hand with the open-source movement.</p><p>It paid off. Freed from government’s harsh spotlight, Microsoft’s market value soared, and <a href="https://companiesmarketcap.com/" rel="nofollow noopener" target="_blank">at $2.15 trillion</a> today, it’s the second most valuable company in the world by market cap, second only to Apple’s $2.56 trillion.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3693114/it-s-deja-vu-all-over-again-as-governments-put-microsoft-in-their-crosshairs.html#jump">To read this article in full, please click here</a></p></section></article>
+
