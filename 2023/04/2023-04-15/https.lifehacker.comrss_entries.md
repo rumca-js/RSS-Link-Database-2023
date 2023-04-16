@@ -1,0 +1,23 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## How to Choose Between Laundry Detergent Liquid, Powder, or Sheets
+ - [https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-15 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YxeLPgRB--/c_fit,fl_progressive,q_80,w_636/cc82cd79699f72b79e956eb98801a8b8.jpg" /><p>Some of the first mass-produced  laundry detergents were bars of soap that were used with a washboard and washtub. Powders and liquids became the <a href="https://www.cleaninginstitute.org/understanding-products/why-clean/soaps-detergents-history" rel="noopener noreferrer" target="_blank">detergents of choice</a> for modern washing machines, which became increasingly popular in the 1950s. </p><p><a href="https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381">Read more...</a></p>
+
+## You Shouldn't Keep These Things In Your Bathroom
+ - [https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-15 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Qq7sgKp1--/c_fit,fl_progressive,q_80,w_636/ae4b9940cd7204d1c9369d5259b15ba2.jpg" /><p>Unless you have a perfectly functioning exhaust fan and ventilation system, your bathroom is probably a bit on the humid side. It’s obvious after someone showers, but even things like flushing the toilet and using the sink add moisture to the air.</p><p><a href="https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383">Read more...</a></p>
+
+## The Most (and Least) Pet-Friendly Cities in the U.S.
+ - [https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-15 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--DoN36OcH--/c_fit,fl_progressive,q_80,w_636/85d08a760fa3a8deef5fd5a9be361846.jpg" /><p>Given that many people with pets consider their furry (or scaly, feathery, etc.) friends part of their family, it makes sense that they’d include their pet when making future plans—like if they’re moving to a new city. But not all urban areas are equally accommodating. Here are the most and least pet-friendly cities…</p><p><a href="https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385">Read more...</a></p>
+
