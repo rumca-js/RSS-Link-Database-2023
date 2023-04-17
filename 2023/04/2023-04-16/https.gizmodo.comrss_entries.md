@@ -1,0 +1,44 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## DC's Injustice Picked the Right Fight at the Right Time
+ - [https://gizmodo.com/injustice-dc-comics-10-year-retrospective-1850342254](https://gizmodo.com/injustice-dc-comics-10-year-retrospective-1850342254)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-16 19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--C-Rh581K--/c_fit,fl_progressive,q_80,w_636/2d46df4a9bcbabb8009ddb26b6f309f9.jpg" /><p>Superheroes have been <a href="https://gizmodo.com/a-guide-to-marvels-original-civil-war-saga-which-was-n-1773834750">punching each other</a> in their face for decades, and doing that in video games almost as long. Every once in a while, the superhero genre crosses over into the <a href="https://gizmodo.com/street-fighter-6-capcom-art-style-1849017778">fighting game space</a>, resulting in the likes of the <em>Marvel vs. Capcom </em>series and appreciated jams like <em>Teen Titans: Battle Blitz </em>and <em>X-Men:</em>…</p><p><a href="https://gizmodo.com/injustice-dc-comics-10-year-retrospective-1850342254">Read more...</a></p>
+
+## The Acolyte's Leslye Headland Explains Her Show's Influences
+ - [https://gizmodo.com/star-wars-acolyte-influences-leslye-headland-1850342154](https://gizmodo.com/star-wars-acolyte-influences-leslye-headland-1850342154)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-16 19:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--KQspyPXo--/c_fit,fl_progressive,q_80,w_636/41799b3d47c73cb5080566833efd26cc.jpg" /><p>During last week’s <em>Star Wars Celebration, </em>Lucasfilm provided a brief look at its upcoming series <a href="https://gizmodo.com/star-wars-acolyte-tv-series-cast-amandla-stenberg-1849751415"><em>The Acolyte</em></a>. The new show bucks the trend of other recent shows in the franchise by focusing on the Sith during the time of <a href="https://gizmodo.com/star-wars-the-acolyte-high-republic-vernestra-rwoh-1850315625">the High Republic</a>. And one of the big quotes going around at the time came from showrunner <a href="https://gizmodo.com/star-wars-the-acolyte-disney-plus-series-interview-1848970447">Leslye…</a></p><p><a href="https://gizmodo.com/star-wars-acolyte-influences-leslye-headland-1850342154">Read more...</a></p>
+
+## Sam Haysom's Reddit Short Story Purgatory Games to Be Adapted for Film
+ - [https://gizmodo.com/purgatory-games-film-reddit-sam-haysom-horror-1850339724](https://gizmodo.com/purgatory-games-film-reddit-sam-haysom-horror-1850339724)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-16 17:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--aX3J8RSy--/c_fit,fl_progressive,q_80,w_636/76dd500f48cbda761141eed63e83575c.jpg" /><p>Reddit’s popular short story <em>Purgatory Games </em>is on the docket to receive its own film, reports <a href="https://deadline.com/2023/04/bryan-edward-hill-lyrical-media-purgatory-games-movie-1235325978/" rel="noopener noreferrer" target="_blank">Deadline</a>.<br /></p><p><a href="https://gizmodo.com/purgatory-games-film-reddit-sam-haysom-horror-1850339724">Read more...</a></p>
+
+## How Star Trek: Picard's Crew Brought Back Its Final Legacy Character
+ - [https://gizmodo.com/star-trek-picard-enterprise-d-recreation-production-1850341313](https://gizmodo.com/star-trek-picard-enterprise-d-recreation-production-1850341313)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-16 16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Mn2hS2Z_--/c_fit,fl_progressive,q_80,w_636/f13f5d5ec706929b7c87261ad5004d9d.jpg" /><p><a href="https://gizmodo.com/star-trek-picard-shaw-death-legacy-todd-stashwick-1850337657"><em>Star Trek: Picard</em></a><em> </em>is in its literal endgame now, with just one episode left in its final season. This whole season has been a full blown reunion by bringing back the now older actors from <a href="https://gizmodo.com/star-trek-picard-season-3-the-next-generation-cast-retu-1848751857"><em>Star Trek: The Next Generation</em></a><em>. </em>And with that show’s crew now back in action for one last ride—at least, <a href="https://gizmodo.com/star-trek-picard-spinoff-legacy-paramount-terry-matalas-1850263269">for now</a>—all they need now…</p><p><a href="https://gizmodo.com/star-trek-picard-enterprise-d-recreation-production-1850341313">Read more...</a></p>
+
+## Open Channel: What's Your Favorite Version of Dracula?
+ - [https://gizmodo.com/open-channel-favorite-dracula-1850341278](https://gizmodo.com/open-channel-favorite-dracula-1850341278)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-16 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--G4fOXHnh--/c_fit,fl_progressive,q_80,w_636/42813693d0e492bfd18badbbef27c99a.jpg" /><p>One of the big movies of the week is Universal’s <a href="https://gizmodo.com/renfield-nic-cage-dracula-nick-hoult-review-chris-mckay-1850285508"><em>Renfield</em></a>, a modern take of sorts on Bram Stoker’s Dracula. Seeing Nicholas Cage ham it up as the legendary vampire in question is meant to be one of the film’s main draws, and as it turns out, it’s not the only the film Universal’s cooked up for Dracula. Come August,…</p><p><a href="https://gizmodo.com/open-channel-favorite-dracula-1850341278">Read more...</a></p>
+
+## Why Banning TikTok Would Be a Cybersecurity Disaster
+ - [https://gizmodo.com/tiktok-ban-tik-tok-ceo-cybersecurity-security-disaster-1850334082](https://gizmodo.com/tiktok-ban-tik-tok-ceo-cybersecurity-security-disaster-1850334082)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-16 11:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--sUmAB1zO--/c_fit,fl_progressive,q_80,w_636/ca99713dcaaee1f047c0964879c4106a.jpg" /><p>TikTok is not be the first app to be scrutinized over the <a href="https://www.theverge.com/2020/3/6/21168079/grindr-sold-chinese-owner-us-cfius-security-concerns-kunlun-lgbtq" rel="noopener noreferrer" target="_blank">potential exposure of U.S. user data</a>, but it is the first widely used app that the U.S. government has proposed banning over privacy and security concerns.<br /></p><p><a href="https://gizmodo.com/tiktok-ban-tik-tok-ceo-cybersecurity-security-disaster-1850334082">Read more...</a></p>
+
