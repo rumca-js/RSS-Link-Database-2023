@@ -1,0 +1,37 @@
+# Source:The Wall Street - Tech, URL:https://feeds.a.dj.com/rss/RSSWSJD.xml, language:en-US
+
+## Canada Public Broadcaster Joins NPR In Quitting Twitter Over Label Uproar
+ - [https://www.wsj.com/articles/canada-public-broadcaster-joins-npr-in-quitting-twitter-over-label-uproar-db812525?mod=rss_Technology](https://www.wsj.com/articles/canada-public-broadcaster-joins-npr-in-quitting-twitter-over-label-uproar-db812525?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-04-17 21:36:00+00:00
+
+CBC says ‘government-funded media’ in which officials determine editorial content is ‘untrue and deceptive’
+
+## Apple Launches High-Yield Savings Account
+ - [https://www.wsj.com/articles/apple-launches-high-yield-savings-account-4880ecc2?mod=rss_Technology](https://www.wsj.com/articles/apple-launches-high-yield-savings-account-4880ecc2?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-04-17 16:05:00+00:00
+
+Apple Card credit-card holders can open accounts with a 4.15% annual percentage yield.
+
+## ChatGPT and Advanced AI Face New Regulatory Push in Europe
+ - [https://www.wsj.com/articles/chatgpt-and-advanced-ai-face-new-regulatory-push-in-europe-16e3282c?mod=rss_Technology](https://www.wsj.com/articles/chatgpt-and-advanced-ai-face-new-regulatory-push-in-europe-16e3282c?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-04-17 09:48:00+00:00
+
+European Union lawmakers want to give regulators new powers to govern the development of technologies like those behind ChatGPT, the biggest push so far in the West to curb one of the hottest areas in artificial intelligence.
+
+## How AI Is Building the Next Blockbuster Videogames
+ - [https://www.wsj.com/articles/how-ai-is-building-the-next-blockbuster-videogames-6fefdd1c?mod=rss_Technology](https://www.wsj.com/articles/how-ai-is-building-the-next-blockbuster-videogames-6fefdd1c?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-04-17 09:30:00+00:00
+
+ChatGPT-like technology is being used to develop games faster and make them more interactive.
+
+## 'Angry Birds' Maker to Be Bought by Sega
+ - [https://www.wsj.com/articles/angry-birds-maker-to-be-bought-by-sega-cd5157b6?mod=rss_Technology](https://www.wsj.com/articles/angry-birds-maker-to-be-bought-by-sega-cd5157b6?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-04-17 09:06:00+00:00
+
+Sega Sammy agreed to pay almost $800 million for Rovio, a deal that would end the independence of one of the pioneers of the mobile-gaming industry.
+

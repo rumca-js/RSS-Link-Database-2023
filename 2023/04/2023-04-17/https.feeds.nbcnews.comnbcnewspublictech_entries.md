@@ -1,0 +1,177 @@
+# Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
+
+## 'He didn't deserve to get shot': Good Samaritan who helped Ralph Yarl found him bloody and motionless
+ - [https://www.nbcnews.com/news/us-news/good-samaritan-helped-ralph-yarl-found-bloody-motionless-didnt-deserve-rcna80116](https://www.nbcnews.com/news/us-news/good-samaritan-helped-ralph-yarl-found-bloody-motionless-didnt-deserve-rcna80116)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 22:54:49+00:00
+
+Ralph Paul Yarl, the Black teenager who was shot by a homeowner after ringing the wrong doorbell, was motionless and covered in blood when James Lynch found him unconscious.
+
+## Republicans reject Feinstein committee swap, putting Democrats in a bind
+ - [https://www.nbcnews.com/politics/congress/republicans-reject-feinstein-committee-swap-putting-democrats-bind-rcna80117](https://www.nbcnews.com/politics/congress/republicans-reject-feinstein-committee-swap-putting-democrats-bind-rcna80117)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 21:46:55+00:00
+
+Senate Republicans say they will not help Democrats replace Sen. Dianne Feinstein on the Judiciary Committee, where several Biden-picked judges await confirmation.
+
+## Final suspect arrested in string of NYC gay bar robberies that left two dead
+ - [https://www.nbcnews.com/nbc-out/out-news/final-suspect-arrested-string-nyc-gay-bar-robberies-left-two-dead-rcna80084](https://www.nbcnews.com/nbc-out/out-news/final-suspect-arrested-string-nyc-gay-bar-robberies-left-two-dead-rcna80084)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 20:08:47+00:00
+
+A third and final suspect was arrested in connection with the homicides of two men who were drugged, robbed and killed in separate incidents following visits to New York City gay bars last year, two senior law enforcement officials told NBC News on Monday.
+
+## Kansas City shooter exchanged few words with Ralph Yarl before opening fire, teen's attorney says
+ - [https://www.nbcnews.com/news/us-news/kansas-city-shooter-exchanged-words-ralph-yarl-opening-fire-teens-atto-rcna80033](https://www.nbcnews.com/news/us-news/kansas-city-shooter-exchanged-words-ralph-yarl-opening-fire-teens-atto-rcna80033)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 20:07:08+00:00
+
+The Missouri man who shot Ralph Yarl exchanged few words and waited little time before opening fire on the 16-year-old boy who had mistakenly rang the wrong doorbell while trying to pick up his siblings, the boy’s attorney said Monday.
+
+## Rep. George Santos announces re-election bid
+ - [https://www.nbcnews.com/politics/2024-election/rep-george-santos-announces-re-election-bid-rcna80100](https://www.nbcnews.com/politics/2024-election/rep-george-santos-announces-re-election-bid-rcna80100)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 19:52:01+00:00
+
+Rep. George Santos, R-N.Y., announced he is running for re-election, despite calls for him to resign and investigations at the federal, state and local levels.
+
+## Ohio grand jury declines to charge 8 officers who fatally shot Black motorist Jayland Walker
+ - [https://www.nbcnews.com/news/us-news/ohio-attorney-general-give-update-jayland-walker-case-rcna80007](https://www.nbcnews.com/news/us-news/ohio-attorney-general-give-update-jayland-walker-case-rcna80007)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 19:41:20+00:00
+
+An Ohio grand jury declined to bring charges against eight Akron police officers — seven of them white — in connection with last year’s fatal shooting of Jayland Walker, a 25-year-old Black motorist, officials said Monday.
+
+## Tax Day 2023: What to know ahead of the April 18 deadline
+ - [https://www.nbcnews.com/business/consumer/tax-day-2023-know-ahead-april-18-deadline-rcna80062](https://www.nbcnews.com/business/consumer/tax-day-2023-know-ahead-april-18-deadline-rcna80062)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 19:27:15+00:00
+
+The deadline to file taxes is upon us.
+
+## DeSantis to axe Disney development deal that aimed to undermine state oversight
+ - [https://www.nbcnews.com/politics/politics-news/desantis-plans-axe-disney-development-deal-aimed-undermine-state-overs-rcna80052](https://www.nbcnews.com/politics/politics-news/desantis-plans-axe-disney-development-deal-aimed-undermine-state-overs-rcna80052)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 19:18:05+00:00
+
+Ron DeSantis outlined the next moves in his political war with Walt Disney World, vowing to nullify the company's effort to circumvent a DeSantis-appointed board.
+
+## Black teen shot after ringing wrong doorbell is a gifted chemistry student and a ‘gentle soul’, former teacher says
+ - [https://www.nbcnews.com/news/us-news/ralph-yarl-shooting-victim-highly-intelligent-gentle-soul-former-teach-rcna80024](https://www.nbcnews.com/news/us-news/ralph-yarl-shooting-victim-highly-intelligent-gentle-soul-former-teach-rcna80024)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 17:58:59+00:00
+
+What to know about Ralph Yarl, the Black teen who was shot in Kansas City
+
+## Gun-toting Jan. 6 defendant says 'instinct took over' when he charged police line with wooden pallet
+ - [https://www.nbcnews.com/politics/justice-department/gun-toting-jan-6-defendant-says-instinct-took-charged-police-line-wood-rcna79755](https://www.nbcnews.com/politics/justice-department/gun-toting-jan-6-defendant-says-instinct-took-charged-police-line-wood-rcna79755)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 17:44:42+00:00
+
+Christoper Alberts admitted on the stand Monday that he was armed with a gun when he charged toward a police line at the Capitol on Jan. 6.
+
+## Judge denies Trump's bid to delay civil rape trial
+ - [https://www.nbcnews.com/politics/donald-trump/judge-denies-trumps-bid-delay-civil-rape-trial-rcna80014](https://www.nbcnews.com/politics/donald-trump/judge-denies-trumps-bid-delay-civil-rape-trial-rcna80014)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 16:20:58+00:00
+
+A federal judge denied former President Donald Trump’s bid for a four-week delay in the civil rape and defamation trial involving allegations by E. Jean Carroll.
+
+## U.S. ambassador visits Evan Gershkovich in Russian prison
+ - [https://www.nbcnews.com/politics/politics-news/us-ambassador-visits-evan-gershkovich-russian-jail-rcna80027](https://www.nbcnews.com/politics/politics-news/us-ambassador-visits-evan-gershkovich-russian-jail-rcna80027)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 15:47:21+00:00
+
+U.S. Ambassador to Russia Lynne Tracy made her first visit to Wall Street Journal reporter Evan Gershkovich, whom Russia detained for alleged espionage.
+
+## Fox says Dominion knocked millions off damages claim
+ - [https://www.nbcnews.com/media/fox-says-dominion-knocked-millions-damages-claim-rcna79976](https://www.nbcnews.com/media/fox-says-dominion-knocked-millions-damages-claim-rcna79976)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 15:36:33+00:00
+
+The sudden and unexpected announcement of a delay to the jury trial that will decide whether Fox News defamed Dominion Voting Systems.
+
+## Speaker McCarthy says House Republicans will pass a debt limit bill into 2024
+ - [https://www.nbcnews.com/politics/congress/speaker-mccarthy-says-house-republicans-will-pass-debt-limit-bill-2024-rcna80015](https://www.nbcnews.com/politics/congress/speaker-mccarthy-says-house-republicans-will-pass-debt-limit-bill-2024-rcna80015)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 14:55:26+00:00
+
+Speaker Kevin McCarthy said Monday that House Republicans will pass their own debt ceiling bill with spending cuts, criticizing President Joe Biden for not negotiating.
+
+## Fox could likely survive a nine-figure loss to Dominion, media analysts say
+ - [https://www.nbcnews.com/business/business-news/fox-likely-survive-nine-figure-loss-dominion-analysts-say-rcna79364](https://www.nbcnews.com/business/business-news/fox-likely-survive-nine-figure-loss-dominion-analysts-say-rcna79364)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 14:52:23+00:00
+
+Fox Corporation can likely weather even the harshest financial penalty that could come from Dominion Voting Systems’ lawsuit, analysts say.
+
+## Apple launches its savings account with 4.15% interest rate
+ - [https://www.nbcnews.com/tech/apple/apple-launches-savings-account-415-interest-rate-rcna80016](https://www.nbcnews.com/tech/apple/apple-launches-savings-account-415-interest-rate-rcna80016)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 14:44:29+00:00
+
+Apple on Monday launched its Apple Card savings account with a 4.15% annual percentage yield.
+
+## A common virus spread through sex can cause cancer. Many people aren't aware of it, survey shows.
+ - [https://www.nbcnews.com/health/cancer/hpv-can-cause-cancer-many-people-dont-realize-rcna79597](https://www.nbcnews.com/health/cancer/hpv-can-cause-cancer-many-people-dont-realize-rcna79597)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 12:40:49+00:00
+
+HPV, the most common sexually transmitted infection in the U.S., can cause a number of major cancers, a new study found. Researchers were surprised over a a decline in awareness that HPV is linked to cervical cancer.
+
+## Delaware judge delays Dominion lawsuit against Fox News
+ - [https://www.nbcnews.com/now/video/delaware-judge-delays-dominion-lawsuit-against-fox-news-170458693602](https://www.nbcnews.com/now/video/delaware-judge-delays-dominion-lawsuit-against-fox-news-170458693602)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 11:35:51+00:00
+
+A Delaware superior court judge has delayed proceedings in Dominion’s defamation lawsuit against Fox News while Fox reportedly pursues settlement talks in the case. NBC News’ Emilie Ikeda and Danny Cevallos explain what to expect from the trial and whether a settlement could be reached before a verdict in announced.
+
+## Trump or DeSantis? Democrats aren't sure who they'd rather see Biden face in 2024
+ - [https://www.nbcnews.com/politics/2024-election/trump-desantis-democrats-are-unsure-want-biden-face-rcna79348](https://www.nbcnews.com/politics/2024-election/trump-desantis-democrats-are-unsure-want-biden-face-rcna79348)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 11:30:00+00:00
+
+Democrats are torn over whether they want Joe Biden to face Donald Trump or Ron DeSantis in the 2024 presidential election.
+
+## McConnell and Fetterman to return as Senate gears up for Biden nominations
+ - [https://www.nbcnews.com/politics/congress/mcconnell-fetterman-return-senate-readies-biden-nominations-rcna79800](https://www.nbcnews.com/politics/congress/mcconnell-fetterman-return-senate-readies-biden-nominations-rcna79800)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 11:00:41+00:00
+
+Two familiar faces will be back in the Senate when Congress returns after a recess with plans to vote on executive branch nominations and a fire safety bill.
+
+## Rival armed forces intensify battle for control of Sudan as civilian death toll rises
+ - [https://www.nbcnews.com/news/world/sudan-conflict-armed-forces-rsf-battle-khartoum-rcna79965](https://www.nbcnews.com/news/world/sudan-conflict-armed-forces-rsf-battle-khartoum-rcna79965)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 10:48:08+00:00
+
+Sudan's military and the rival RSF paramilitary force were locked in a deadly battle for control on Monday, with nearly 100 civilians killed and Khartoum rocked by heavy fighting.
+
+## Trump allies take fight to Bragg's backyard with hearing on NYC crime
+ - [https://www.nbcnews.com/politics/congress/trump-allies-take-fight-braggs-backyard-hearing-nyc-crime-rcna79330](https://www.nbcnews.com/politics/congress/trump-allies-take-fight-braggs-backyard-hearing-nyc-crime-rcna79330)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 10:00:00+00:00
+
+Republican Rep. Jim Jordan will lead a House Judiciary hearing in on New York crime to attack Manhattan District Attorney Alvin Bragg, who indicted Donald Trump.
+
+## VP Harris is top White House messenger on abortion fight
+ - [https://www.nbcnews.com/politics/white-house/vp-harris-top-white-house-messenger-abortion-fight-rcna79008](https://www.nbcnews.com/politics/white-house/vp-harris-top-white-house-messenger-abortion-fight-rcna79008)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 08:00:00+00:00
+
+Vice President Kamala Harris's central role in warning about threats to abortion rights is being tested anew amid a fresh fight over access.
+
+## Family of Black teen shot after ringing wrong doorbell retains civil rights lawyers
+ - [https://www.nbcnews.com/news/us-news/family-black-teen-shot-ringing-wrong-doorbell-retains-civil-rights-law-rcna79963](https://www.nbcnews.com/news/us-news/family-black-teen-shot-ringing-wrong-doorbell-retains-civil-rights-law-rcna79963)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 05:31:32+00:00
+
+The family of a Black teenager shot after he rang the wrong doorbell last week, apparently mistaking the residence for one a block over, has hired a pair of nationally prominent civil rights lawyers.
+
+## Start of trial in Dominion lawsuit against Fox News is delayed
+ - [https://www.nbcnews.com/politics/politics-news/start-trial-dominion-lawsuit-fox-news-delayed-rcna79954](https://www.nbcnews.com/politics/politics-news/start-trial-dominion-lawsuit-fox-news-delayed-rcna79954)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-04-17 00:25:30+00:00
+
+WILMINGTON, Del. — The Dominion Voting Systems defamation trial against Fox News was delayed by the court late Sunday and is now scheduled to begin Tuesday.
+
