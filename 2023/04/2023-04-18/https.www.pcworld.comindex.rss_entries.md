@@ -1,0 +1,1110 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Lightroom adds AI denoise to make old photos look like new
+ - [https://www.pcworld.com/article/1790001/lightroom-adds-ai-denoise-to-make-old-photos-look-like-new.html](https://www.pcworld.com/article/1790001/lightroom-adds-ai-denoise-to-make-old-photos-look-like-new.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 16:42:08+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Modern smartphone cameras have become better and better at dealing with low light, and their multi-megapixel image sensors routinely take sharp shots in full sun. But it&rsquo;s likely that you have hundreds of grainy older photos from older cameras&mdash;and that&rsquo;s where a new AI feature from Adobe Lightroom may prove useful.</p>
+
+
+
+<p>Adobe Lightroom Classic, as well as the modern versions for Windows and Mac and Adobe Camera Raw, are adding a Denoise feature. Professional photographers may benefit from how Adobe sees it&mdash;taking high ISO shots in low light. Doing so introduces the &ldquo;speckles&rdquo; where an image sensor struggles to present the image clearly, due to issues like pixel density, the size of the sensor, and shutter speed.</p>
+
+
+
+<p>Lightroom&rsquo;s new feature applies AI to clean up those images. Unfortunately, Adobe is targeting professional photographers first, with support for the RAW format and only the RAW format, for now. Additional file types will be supported in the future, Adobe said.</p>
+
+
+
+<p>We&rsquo;re hoping to see more common file types supported soon, in part because AI could be perfectly put towards cleaning up older photos&mdash;like the one at the top of the page, which wasn&rsquo;t shot in RAW. Adobe already offers AI capabilities in Photoshop and its other apps, including its Magic Lasso and Spot Healing tools, which &ldquo;look&rdquo; at the image and distinguish the parts you care about. Tools like those debuted in 2020, with the <a href="https://www.pcworld.com/article/399301/adobe-creative-cloud-updates-add-more-ai-and-learning-tools.html">introduction of Smart Subject</a>, which used the AI-powered Adobe Sensei to make those distinctions. </p>
+
+
+
+<p>Apps like Topaz DeNoise AI, which we&rsquo;ve <a href="https://www.pcworld.com/article/394051/intel-benchmarks-say-apples-m1-isnt-faster.html">used as a benchmark tool</a>, meanwhile, are specifically designed to eliminate digital noise. They&rsquo;re useful for taking older photos, shot by older, poorer cameras, and helping &ldquo;clean them up&rdquo; for publication or just to show off the friends and family. Lightroom, though, has lacked these capabilities.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Adobe Lightroom Darken Beard" class="wp-image-1790072" height="668" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Adobe-Ligtroom-darken-beard.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>Adobe&rsquo;s Darken Beard tool for Lightroom in action.</figcaption></figure><p class="imageCredit">Adobe</p></div>
+
+
+
+<p>Lightroom is also adding tools like AI Mask categories for what Adobe calls Select People: generating a mask for individuals or groups, and focusing on select elements. Adobe is also adding to its Adaptive Presets, with specific tools like Darken Beard or Enhance Clothing to perform those functions. While the former feature will appear on Lightroom for Mac and Windows, and Classic, the additional Adaptive Presets will feature on Lightroom for iOS, Android, and the web. AI masking for Select Subject, Sky, and Background will also let you tweak the sky, for example.</p>
+
+
+
+<p>Adobe is also adding various presets, like travel presets, to help make numerous adjustments to specific categories of photos, all using AI. All of these features are now available for the various versions of Lightroom.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="best AI art generators Adobe Firefly treehouse" class="wp-image-1678069" height="695" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/Adobe-Firefly.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>Adobe&rsquo;s AI tools like Firefly will eventually make their way into other Adobe products, too.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>Eventually, Adobe will likely bring its Firefly technology to Lightroom and Photoshop, as well as its other tools. Firefly, a slick AI art generator that figures in our list of <a href="https://www.pcworld.com/article/1672975/the-best-ai-art-generators-for-you-midjourney-bing-and-more.html">the best AI art generators</a> of 2023, constructs AI-generated images from its base of Adobe stock images and other sources.</p>
+
+
+
+<p>All those tools, however, still seem aimed at professional illustrators. Placing more AI capabilities in the hands of photographers&mdash;or their grandchildren&mdash;to clean up photos of weddings, birthday parties, and graduations from decades ago sounds just as revolutionary.</p>
+
+Professional Software</div>
+
+## Score a 1TB Crucial P3, one of our favorite SSDs, for a measly $46
+ - [https://www.pcworld.com/article/1789933/score-a-1tb-crucial-p3-one-of-our-favorite-ssds-for-a-measly-46.html](https://www.pcworld.com/article/1789933/score-a-1tb-crucial-p3-one-of-our-favorite-ssds-for-a-measly-46.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 15:25:37+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Best Buy&rsquo;s on fire today. Not only is it selling one of <a href="https://www.pcworld.com/article/1789664/save-650-on-this-lightweight-asus-gaming-laptop.html">our favorite gaming laptops for a massive 40 percent off</a>, but we also spotted an absolutely killer deal on our top-rated PCIe 3.0 SSD. Today, Best Buy is selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fcrucial-p3-1tb-internal-ssd-pcie-gen-3-x4-nvme%2F6509712.p%3FskuId%3D6509712&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">1TB Crucial P3 SSD for a measly $46 bucks</a>.</p>
+
+
+
+<p>Yes, a 1TB NVMe SSD&mdash;our <em>favorite</em> 1TB PCIe 3.0 SSD&mdash;for just $46. Whoa.</p>
+
+
+
+<p>That alone should sell you on this amazing deal, but in case it doesn&rsquo;t, here&rsquo;s how we describe the Crucial P3 in our roundup of <a href="https://www.pcworld.com/article/407542/best-ssds.html">the best SSDs</a>:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&ldquo;Sure, PCIe 4.0 SSDs scream during big file transfers, but if you&rsquo;re still using an older system with PCIe 3.0, upgrading to an NVMe SSD still provides substantial benefits to your PC&rsquo;s speed and overall responsiveness. Better yet, you don&rsquo;t need to break the bank to take advantage&hellip;The P3 [has] excellent real-world write times and unless you really stress the drive you shouldn&rsquo;t notice much of a difference anyhow.</p><p>All told, this drive is an outstanding choice for anyone looking to snag a solid everyday SSD at a great price.&rdquo; &nbsp;</p></blockquote>
+
+
+
+<p>Got it? Good. Now, go get it for just $45. I&rsquo;m sure going to, because games and backup files aren&rsquo;t getting any smaller these days.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fcrucial-p3-1tb-internal-ssd-pcie-gen-3-x4-nvme%2F6509712.p%3FskuId%3D6509712&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">1TB Crucial P3 for $46 at Best Buy</a></p>
+Storage</div>
+
+## Save 40% on the Asus ROG Zephyrus G14, an absurdly potent, portable laptop
+ - [https://www.pcworld.com/article/1789664/save-650-on-this-lightweight-asus-gaming-laptop.html](https://www.pcworld.com/article/1789664/save-650-on-this-lightweight-asus-gaming-laptop.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 14:36:13+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Asus ROG Zephyrus G14 &ldquo;challenges your notion of just how much performance you can jam into a tiny gaming laptop,&rdquo; we said in our <a href="https://www.pcworld.com/article/617171/asus-rog-zephyrus-g14-2022-review.html">4.5-star review</a> of the notebook, en route to awarding it a rare Editors&rsquo; Choice award. This machine weighs just 3.64 lbs&mdash;absurdly light for a gaming rig&mdash;yet still manages to pack in some ultra-powerful hardware. And today, Best Buy is challenging notions about just how much you&rsquo;d need to pay for such a potent, yet portable package. The retailer is currently <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-zephyrus-14-wqxga-120hz-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-amd-radeon-rx-6700s-1tb-pcie-4-0-ssd%2F6494638.p%3FskuId%3D6494638&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">selling this laptop for $999.99</a>. That&rsquo;s a massive $650 off its usual price and an absolutely screaming value for under $1,000.</p>
+
+
+
+<p>This version of the Asus ROG Zephyrus G14 comes rocking an AMD Ryzen 9 6900HS CPU, an AMD Radeon RX 6700S, 16GB of RAM, and 1TB of PCIe SSD storage. Our review unit included a more powerful Radeon 6800S, but the energy-sipping Radeon 6700S is comparable to the Nvidia GeForce RTX 3060. The 14-inch display is nothing to sneeze at either. It has a resolution of 2560&times;1600, a refresh rate of 120Hz, and a brightness level of 500 nits&mdash;a truly compelling combination of features that should make games look great. Speaking of looking great, the AniMe Matrix lights adorning the lid of the laptop are customizable, letting you put a personal touch on your portable gaming PC.</p>
+
+
+
+<p>&ldquo;The Asus ROG Zephyrus G14 punches far above its weight class,&rdquo; we said in our review. That&rsquo;s still true&mdash;and now that it&rsquo;s on sale for just $999, it punches far above its price class, too. Don&rsquo;t miss out. You don&rsquo;t see laptops like <em>this</em> going for under a grand very often.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-zephyrus-14-wqxga-120hz-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-amd-radeon-rx-6700s-1tb-pcie-4-0-ssd%2F6494638.p%3FskuId%3D6494638&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">Get the Asus ROG Zephyrus G14 for $999.99 at Best Buy</a></p>
+Laptops</div>
+
+## How to take a screenshot on your Windows 11 laptop
+ - [https://www.pcworld.com/article/1784164/how-to-take-a-screenshot-on-your-laptop.html](https://www.pcworld.com/article/1784164/how-to-take-a-screenshot-on-your-laptop.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When it comes to sorting out a problem at work, sometimes text just doesn&rsquo;t cut it. That&rsquo;s where screenshots come in. They capture exactly what you&rsquo;re seeing on screen, which is useful for sharing purposes. If you&rsquo;re looking to take a screenshot on your Windows 11 laptop, you&rsquo;ve come to the right place. This step-by-step guide will get you started on the right path.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Are you on the hunt for a brand new laptop? If so, check out our roundup of the <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">best laptops</a> available today.</p></blockquote>
+
+
+
+<h2 id="how-to-capture-a-screenshot-on-a-laptop">How to capture a screenshot on a laptop</h2>
+
+
+
+<p>The easiest way to capture a screenshot on your Windows 11 laptop is to use your keyboard. Press the &ldquo;Fn&rdquo; key followed by the &ldquo;PrtSc&rdquo; key to open the Snipping Tool.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Press the &quot;Fn&quot; ley followed by the &quot;PrtSc&quot; key to open the Snipping tool." class="wp-image-1784178" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/how-to-take-a-screenshot-on-laptop-prtsc-button.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Alex Huebner</p></div>
+
+
+
+<p>Your screen will dim and then a small menu will pop up at the top. From left to right, the options are rectangular, freeform, window, and full screen.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="A small menu will pop up with four options." class="wp-image-1784181" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/how-to-take-a-screenshot-on-laptop-screenshot-menu.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Alex Huebner</p></div>
+
+
+
+<p>In Rectangular Mode, you can select any part of your screen and place a rectangle outline around whatever you&rsquo;d like. All you have to do is hold down the left mouse button, drag the mouse to the desired size, and release.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="How to take a screenshot on your laptop." class="wp-image-1784166" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/how-to-take-a-screenshot-on-laptop-rectangular.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Alex Huebner</p></div>
+
+
+
+<p>Freeform Mode is similar in the sense that you hold down the left mouse button and drag. However, you can make any shape you want. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Freeform mode allows you to make any shape you want." class="wp-image-1784183" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/how-to-take-a-screenshot-on-laptop-freeform.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Alex Huebner</p></div>
+
+
+
+<p>Window Mode allows you to take a screenshot of a specific application or window. The area around the selected window will have a dark outline, which allows you to identify which one is currently selected.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Fullscreen mode will take a picture of the entire window." class="wp-image-1784189" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/how-to-take-a-screenshot-on-laptop-window.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Alex Huebner</p></div>
+
+
+
+<p>Fullscreen Mode will take a screenshot of your entire desktop, including secondary monitors.</p>
+
+
+
+<p>Once you&rsquo;ve taken the screenshot, a notification will pop up on the bottom right side of your screen, allowing you to edit and/or save your image. If you dismiss notification, you can paste the image into a document or a photo application. </p>
+
+
+
+<h2 id="how-to-manually-find-the-shipping-tool">How to manually find the shipping tool</h2>
+
+
+
+<p>Click on the Windows button on the task bar and enter the Snipping Tool into the search bar that pops up. This will open the Snipping Tool application, where you can change your settings. When you&rsquo;re ready to take a screenshot, select the &ldquo;+ New&rdquo; button on the top left, hold down the left mouse button, drag your cursor over the area you&rsquo;d like to capture, and release.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="You can find the Snipping tool in the search bar of the Windows button." class="wp-image-1784198" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/how-to-take-a-screenshot-on-laptop-snipping-tool.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Alex Huebner</p></div>
+
+Laptops</div>
+
+## 5 reasons to switch to a bleeding-edge PCIe 5.0 SSD (and 5 reasons not to)
+ - [https://www.pcworld.com/article/1676119/pcie-5-ssd-5-reasons-upgrade.html](https://www.pcworld.com/article/1676119/pcie-5-ssd-5-reasons-upgrade.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 13:49:02+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>After months of waiting, the first PCIe 5.0 SSDs have finally arrived bringing blazing speeds&ndash;but is it worth making the switch? After testing <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/gigabyte-2tb-aorus-gen5-10000/p/N82E16820009042&amp;xcust=2-1-1676119-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Gigabyte&rsquo;s Aorus 10000 PCIe 5.0 SSD</a>, one of the first-ever PCIe 5.0 drives, against a stack of PCIe Gen 3.0 and 4.0 SSDs and even an ultra-expensive (and <a href="https://www.pcworld.com/article/393961/intel-quietly-kills-its-face-melting-optane-desktop-ssds.html">now-defunct</a>) Intel Optane drive, I can say the short answer is: it depends.</p>
+
+
+
+<p>Here are five reasons to consider switching to a PCIe 5.0 SSD&mdash;and five reasons why you might want to wait. For much more detailed analysis, be sure to check out our video below.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/407542/best-ssds.html">The best SSDs: Reviews and buying advice</a></p></blockquote>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<h2 id="5-reasons-to-switch-to-a-pcie-5-0-ssd">5 reasons to switch to a PCIe 5.0 SSD</h2>
+
+
+
+<ul><li><strong>It&rsquo;s wickedly fast</strong>. Gigabyte&rsquo;s beast delivers blazing-fast sequential read and write speeds. PCIe 5.0 SSDs essentially double the theoretical bandwidth of PCIe 4.0 drives, which have largely topped out at about 7,000MBps read and 5,000MBps writes. We tested the Aorus 10000 hitting a hefty 10,000MBps read and a huge 10,000MBps write speeds across multiple benchmarks.</li></ul>
+
+
+
+<ul><li><strong>Video editors rejoice!</strong> Video editors looking to lay down high-resolution exports at high bitrates will benefit greatly from the increase in both read and write speeds. Using AJA System Test to measure writing a 16GB 4K UHD file using an AVID DNxHR 12-bit 4:2:2 CODEC, for example, saw the Aorus 10000 PCIe Gen 5 SSD skipping along at 2,746 fps versus the 1,662 FPS of the fastest PCIe 4.0 SSD that we tested.&nbsp;Obviously your workflow would need this kind of write speed, but if it does, older PCIe 4.0 drives can sit down.</li></ul>
+
+
+
+<div class="wp-block-jetpack-slideshow aligncenter"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676209" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/2_CDM_Default_Write.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676203" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/1_CDM_Default_Read.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676207" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/4_CDM_Real_World_Write.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676204" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/3_CDM_Real_World_Read.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676205" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/6_EZ_Iometer_Mean_MBps.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676206" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/5_EZ_Iometer_Mean_IOPS.png?w=1200" /><figcaption class="wp-block-jetpack-slideshow_caption gallery-caption"><p></p>
+</figcaption></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676208" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/7_EZ_Iometer_Mean_Latency.png?w=1200" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white"></a><a class="wp-block-jetpack-slideshow_button-pause"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+
+
+
+<ul><li><strong>Latency is improved too</strong>. Latency (or responsiveness) also generally gets a nice 20 percent or more improvement over other drives using real-world tests in UL&rsquo;s PCMark 10 and 3DMark benchmark. That means generally snappier performance on the drive access tasks most people do every day.</li></ul>
+
+
+
+<ul><li><strong>Temps aren&rsquo;t as scary as we anticipated</strong>. Temperatures don&rsquo;t seem out of control as initially expected. Pictures of <a href="https://www.pcworld.com/article/1677185/galax-pcie-5-0-ssd-hits-retail-shelves-with-massive-heatsink-in-tow.html">exotic and huge coolers mounted on PCIe Gen 5 SSDs</a> had us scared these bleeding-edge drives were going to have a heat issue. While they do indeed get warm, our experience with the first-gen Aorus 10000 shows it can be kept reasonably cool using the motherboard&rsquo;s intended PCIe Gen 5.0 cooler. We still recommend <a href="https://www.pcworld.com/article/394965/how-to-set-up-your-pcs-fans-for-maximum-system-cooling.html">plenty of good airflow</a> but most loads being put on the drive hint most motherboard vendors have already anticipated the higher temps of the drive in their board designs.</li></ul>
+
+
+
+<ul><li><strong>You don&rsquo;t want to miss a thing</strong>. If you bought a <a href="https://www.pcworld.com/article/1520957/best-gaming-motherboards-picks-for-intel-and-amd.html">motherboard</a> and <a href="https://www.pcworld.com/article/401980/best-cpus-for-gaming.html">CPU</a> covered in stickers proclaiming &ldquo;Ready for PCIe 5.0 SSDs!&rdquo; to only mournfully wait months and months for just to fill that gaping hole in your motherboard, your time has finally come.</li></ul>
+
+
+
+<h2 id="5-reasons-not-to-upgrade-to-a-pcie-5-0-ssd">5 reasons not to upgrade to a PCIe 5.0 SSD</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="the-best-pcie-4-0-ssd-remains-a-barnburner">
+					The best pcie 4.0 ssd remains a barnburner				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="wd-black-sn850x">WD Black SN850X</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="WD Black SN850X" class="product-widget__image" height="696" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/WD_BLACK-SN850X-NVMe-SSD-flat.jpg?quality=50&amp;strip=all" width="2000" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/828399/wd-black-sn850x-ssd-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<ul><li><strong>You ain&rsquo;t got no Gen 5 slot. </strong>PCIe 5.0 brings an incredible performance benefit over PCIe 4.0 in pure bandwidth but to run it, you need the <a href="https://www.pcworld.com/article/401980/best-cpus-for-gaming.html">latest CPUs</a> and the <a href="https://www.pcworld.com/article/1520957/best-gaming-motherboards-picks-for-intel-and-amd.html">latest motherboards</a>. If your motherboard features PCIe 4.0 only, is it worth upgrading a CPU and motherboard for PCIe 5.0 SSDs? The harsh answer is no, not today&mdash;at least for most people. (Video editors and select others may disagree.)</li></ul>
+
+
+
+<ul><li><strong>Is it <em>really </em>faster? </strong>&ldquo;Faster&rdquo; and drive storage is a really difficult area to quantify and measure sometimes. Sure, Gigabyte&rsquo;s PCIe 5.0 SSD offers legit double the sequential write speed of a Gen 4.0 drive and double-digit improvements in latency. In reality, the average person is likely to have a hard time actually feeling the difference between a good Gen 4 drive and a good Gen 5 drive most of the time outside of copying, say an entire folder of large video files or game files. The question for you is whether that scenario is worth the extra money or not.</li></ul>
+
+
+
+<div class="wp-block-jetpack-slideshow aligncenter"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676202" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/8_PCM_10_Full_System_Drive.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676218" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/10_3DMark_Storage_Performance__Sub_Scores.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676221" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/9_3DMark_Storage_Performance_Scores.png?w=1200" /></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="PCIe Gen 5.0 SSD Performance" class="wp-block-jetpack-slideshow_image wp-image-1676220" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/14_Avocado_Mark.png?w=1200" /></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white"></a><a class="wp-block-jetpack-slideshow_button-pause"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+
+
+
+<ul><li><strong>They&rsquo;re expensive. </strong>Buying a bleeding edge SSD means you will bleed. The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/gigabyte-2tb-aorus-gen5-10000/p/N82E16820009042&amp;xcust=2-1-1676119-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Gigabyte Aorus 1000</a> we looked at, for example, weighs in at $400 for a 2TB TLC NAND drive with its optional cooler. With SSD prices cratering, you can pick up a high performance 2TB TLC PCIe Gen 4.0 SSD for $160 and we recently pocketed a 2TB TLC PCIe Gen 3.0 drive for $120. While we love the speed of the PCIe Gen 5.0 SSDs, a Gen 4.0 drive that&rsquo;s double the capacity for about the same amount of cash would probably push us to the larger drive.</li></ul>
+
+
+
+<ul><li><strong>The heat (and heatsinks) might still scare you off. </strong>We actually think the thermals of the drive under most normal workloads will be fine when using a motherboard&rsquo;s primary PCIe 5.0. The best cooling, however, will likely come with the SSD&rsquo;s optional or included cooler rather than the cruder chunk of aluminum that came with your motherboard. But while those likely perform better, they may not match the look of the your motherboard. That may sound petty, if you&rsquo;ve paid $800 for a motherboard, you probably want it to look like perfection, which you aren&rsquo;t going to get from the mostly fugly Gen 5.0 coolers.</li></ul>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Optional cooler for Aorus 1000 PCIe Gen 5 SSD." class="wp-image-1676316" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/cooler-2_2.17.2.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The Aorus 1000 PCIe 5.0 SSD optional cooler is beefy, but actually somewhat better than some stock motherboard coolers.</p>
+</figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<ul><li><strong>Waiting will get you a faster drive.&nbsp;</strong> The Gigabyte Aorus 10000 is a first-gen drive based on a first-gen PCIe 5.0 Phison controller. There&rsquo;s more speed to come in the future. We wouldn&rsquo;t be surprised if within six to twelve months, you&rsquo;ll be able to buy an Aorus 12000 or even Aorus 14000 drive. Waiting (although who really knows how long that will really be) is almost guaranteed to mean a much faster drive from drive makers.</li></ul>
+
+
+
+<p>So is a PCIe 5.0 drive worth it? You have the info and data to make an informed decision now. Here&rsquo;s a link to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/gigabyte-2tb-aorus-gen5-10000/p/N82E16820009042&amp;xcust=2-1-1676119-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Gigabyte&rsquo;s Aorus 10000 PCIe 5.0 SSD at Newegg</a> if you&rsquo;re ready to hop onboard the bleeding-edge bandwagon, while our roundup of <a href="https://www.pcworld.com/article/407542/best-ssds.html">the best SSDs</a> can help point you towards plenty of other fantastic options if you&rsquo;re not.</p>
+
+
+
+<p><em>Editor&rsquo;s note: This article originally published on April 11, 2023, but was updated April 18 to include our testing video.</em></p>
+
+Storage</div>
+
+## Goal Zero Yeti 1500X review: A capacious and quiet power station
+ - [https://www.pcworld.com/article/1784445/goal-zero-yeti-1500x-review.html](https://www.pcworld.com/article/1784445/goal-zero-yeti-1500x-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Rugged metal body</li><li>Quiet performance</li><li>Can be left plugged in</li><li>Modular expansion</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Very slow charge rates over AC with included charger</li><li>App is a little barebones</li><li>Not enough AC ports</li><li>USB-C limited to 60-watt output</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Goal Zero&rsquo;s Yeti 1500X offers solid fundamentals from the oldest name in portable power stations.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-yeti-1500x">
+			Best Prices Today: Yeti 1500X		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<span>Goal Zero</span>
+															</div>
+							<div class="price-comparison__price">
+								<span>$1799.95</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.goalzero.com/products/goal-zero-yeti-1500x-portable-power-station&amp;xcust=2-1-1784445-2-1784477-15712&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+		
+
+
+<p>Goal Zero is the company that largely created the portable power station category almost 15 years ago, including making the first lithium-ion based unit that kicked off the current solar-generator war.</p>
+
+
+
+<p>Category leaders, however, often find themselves trailing hungrier competitors in features, and that fact was evident in Yeti&rsquo;s 1500X portable power station. </p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading:</strong> See our roundup of the <a href="https://www.pcworld.com/article/610961/best-portable-power-stations.html">best portable power stations</a> to learn about competing products.</p></blockquote>
+
+
+
+<h2 id="goal-zero-yeti-1500x-design-and-specs">Goal Zero Yeti 1500X design and specs</h2>
+
+
+
+<p>This beefy, well-built unit boasts a hefty 1,500 watt-hour capacity in an aluminum-bodied shell. For those who need just a little more oomph to carry you through a power outage or camping trip, 1,500 watt-hours is perhaps the ideal capacity, if you ask us.</p>
+
+
+
+<p>You get up to 50 percent more capacity than with typical 1,000 watt-hour power stations, but still keep the bulk to a luggable weight of 45 pounds. Once you get to the much-higher 2,000 watt-hour or 3,000 watt-hour models, you start looking for a cart with wheels and a second person to move that &ldquo;portable&rdquo; power station around.</p>
+
+
+
+<p>In ports, the Yeti 1500X features what you&rsquo;d expect in a mix of DC and AC ports. For DC output you get a 12 volt &ldquo;cigarette&rdquo; power plug, a pair of 6mm DC outputs, as well as a set of Powerpole connectors supporting up to 300 watts of output.</p>
+
+
+
+<p>To charge your small devices, the Yeti 1500X features a pair of USB-A ports and a pair of USB-C ports. One of the USB-C ports supports QuickCharge 3+ for up to 20 watts while the second supports USB Power Delivery for up to 60 watts. That&rsquo;s fine for most thin-and-light laptops such as a Dell XPS 13 or MacBook Pro 13, but more power-hungry laptops such as an XPS 15 or MacBook Pro 16 will charge at a slower rate since the Yeti 1500X doesn&rsquo;t support the USB-PD 100-watt charge rates. The good news is you can just plug the laptop&rsquo;s AC adapter into the AC inverter, but 60 watts is low for the category.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Goal Zero Yeti 1500X Power Station" class="wp-image-1784455" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/20230123_115203.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The highest charge rate you can get out of one of the Yeti 1500X&rsquo;s USB-C ports is 60 watts, which is plenty for smaller laptops.</p> </figcaption></figure><p class="imageCredit">Gordon Mah Ung</p></div>
+
+
+
+<p>For AC, you get a pair of familiar standard Type A wallplugs running off the pure sine-wave inverter. That&rsquo;s also a bit on the sparse side for plug count as comparable competitors typically feature more. Yeti slightly makes up for the lower port count by at least supporting a higher standard output of 2,000 watts with a surge rating of 3,500 watts. Competing models from EcoFlow, Jackery, and Bluetti offer a mix of three to six AC wall plugs, but typically at 1,800 watts.</p>
+
+
+
+<p>Some of those competing models also offer advanced higher-wattage limits too. For example, the <a href="https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html">EcoFlow Delta 2</a> and Bluetti&rsquo;s new AC180 have modes that enable continuous operation at 2,700 watts by lowering the voltage output. Those modes, however, are best suited for items that aren&rsquo;t sensitive to running on lower voltage, such as a space heater, or electric kettle.</p>
+
+
+
+<p>For charging ports, the Yeti 1500X features two DC in ports as well as Anderson Powerpole. All ports actually support multiple inputs for charging from a variety of solar or AC.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The Yeti 1500X brings solid performance, a rugged build-quality, some impressive modular features, and the rock-solid reliability of literally the oldest name in portable power stations.</p></blockquote></figure>
+
+
+
+<h2 id="how-does-the-goal-zero-yeti-1500x-perform">How does the Goal Zero Yeti 1500X perform?</h2>
+
+
+
+<p>In our tests, we recorded a decent 83 percent efficiency, or 1,267 watt-hours, out of the Yeti 1500X under a 200-watt constant load. Efficiency, however, drops under a heavier 800-watt load, to 1,093 watt-hours, or 72 percent. That&rsquo;s roughly in line with EcoFlow&rsquo;s Delta 2&mdash;not great, but not terrible. Both units are bested by Jackery&rsquo;s new Explorer Pro 1500, which we recorded at 81 percent under the 200-watt load, and an even better 83 percent under the 800-watt load. All told, it&rsquo;s about average for efficiency.</p>
+
+
+
+<p>The Yeti 1500X supports both Bluetooth and Wi-Fi connectivity, and the app experience is decent but not quite as feature-packed as competitors. You can&rsquo;t, for example, change when the unit automatically shuts off ports when not in use. You can update firmware using the app, though, which is critical for future updates.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Goal Zero Yeti 1500X Power Station" class="wp-image-1784450" height="480" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Yeti1500X.bmp" width="800" /><figcaption><p>The Yeti 1500X inverter offers a perfect  sine wave according to our scope.&nbsp;</p> </figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<h2 id="how-long-does-it-take-to-charge-the-goal-zero-yeti-1500x">How long does it take to charge the Goal Zero Yeti 1500X?</h2>
+
+
+
+<p>We found no surprises with the inverter, which displayed a beautiful pure sine wave on our oscilloscope. Where the Yeti 1500X really gets outshined is in its charge circuit. Unlike most of its big-name competitors that integrate charge circuits, the Yeti 1500X uses an external laptop-style power brick that supports charging at up to 120 watts. The charger can be used outside of the unit or actually tucked into a handy storage compartment on top (where an additional charging port is located too.)</p>
+
+
+
+<p>If 120 watts doesn&rsquo;t sound like a lot, that&rsquo;s because it isn&rsquo;t. Taking the unit from empty to full can take a full 12.5 hours of charging using the stock charger. Goal Zero sells a heftier 600-watt charger ($200) that cuts charging to about three hours, but even so, it&rsquo;s <em>still</em> slower than its competitors.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					Mentioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="ecoflow-delta-2">EcoFlow Delta 2</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="EcoFlow Delta 2" class="product-widget__image" height="3818" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/ecoflow-delta-2.png" width="4500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>The EcoFlow Delta 2, for example, charges at up to 1,200 watts (1,600 with its Delta 2 Extra Battery attached), as does the new Jackery Explorer 1500 Pro. Bluetti&rsquo;s new AC180 can push up to 1,440 watts in its Turbo mode if needed. That basically means competing units can go from empty to full in about an hour or so when running off the AC. For an extended outage where you can drive to your office or relative&rsquo;s house with power to recharge, it means much shorter wait times than the Yeti 1500X.</p>
+
+
+
+<p>Solar charging, however, is in line with the competition with a maximum charge rate over solar of 600 watts.</p>
+
+
+
+<p>We also found that among power stations we&rsquo;ve tested, the Yeti 1500X exhibited perhaps the highest self-discharge rate, with power dropping a few percent in a month of sitting. The good news, however, is that Goal Zero recommends you keep the Yeti 1500X plugged in at all times, if possible. That&rsquo;s actually quite different than competitors, who usually recommend disconnecting from the wall once the unit is charged, and <em>not</em> to leave them plugged in permanently. That means that rather than a battery at 50 percent or worse when an emergency comes, the Yeti 1500X can be left in a full-state at all times.</p>
+
+
+
+<h2 id="what-kind-of-battery-does-the-goal-zero-yeti-1500x-use">What kind of battery does the Goal Zero Yeti 1500X use?</h2>
+
+
+
+<p>The battery chemistry in the Yeti 1500X could also be seen as a negative compared to newer offerings. Using lithium-ion NMC cells, the Yeti 1500X is rated at 500 cycles to 80 percent capacity, which sounds paltry compared to the Jackery Explorer 1500&rsquo;s 1,000 cycles (also using NMC chemistry). It&rsquo;s even worse when compared to units such as the EcoFlow Delta 2 or Bluetti AC180, which use lithium iron phosphate, or LFP, batteries, and are rated at 3,000 cycles to 80 percent.</p>
+
+
+
+<p>Before that scares you off too much, you should consider that most people rarely cycle any power station that heavily in normal use. If you&rsquo;re like most and buying it for emergencies, camping, or the occasional need to run power equipment away from a wall plug, the Yeti 1500X will still give you many, many years of service. Indeed, you should expect its life to exceed that of your laptop or phone, which use similar battery chemistry under far harsher charging cycles. That said, people who do plan to heavily cycle a power station, such as in a full-time off-the-grid van-life situation, then yes, a battery with longer duty cycles might be the better option.</p>
+
+
+
+<h2 id="is-the-goal-zero-yeti-1500x-worth-it">Is the Goal Zero Yeti 1500X worth it?</h2>
+
+
+
+<p>If all this sounds like a disadvantage compared to the upstart competitors, let us point out where Goal Zero&rsquo;s experience pays dividends.&nbsp;</p>
+
+
+
+<p>For example, we appreciate that the top opens to reveal a cavernous storage compartment. It&rsquo;s big enough to fit the included 120 watt charger cable as well as additional cables for solar panels or USB devices or any other doodads you don&rsquo;t want to lose. We wish competing units would follow suit. And while the compartment is large enough to fit the nicely documented manual, we really appreciate that Goal Zero knows those manuals are going to get lost, so it also includes critical specs and some basic instructions you might need to know in the field printed on the bottom of the lid.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Goal Zero Yeti 1500X Power Station" class="wp-image-1784446" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Yeti_1500X_2.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>We love the room to store your cables in the top of the Goal Zero Yeti 1500X.</p></figcaption></figure><p class="imageCredit">Gordon Mah Ung</p></div>
+
+
+
+<p>That compartment can also be reconfigured to take a Goal Zero Expansion Module Port that lets the Yeti 1500X connect one of the company&rsquo;s affordable YetiTank Expansion Batteries. Those YetiTank batteries use less exotic chemistry and are bulkier, but sealed lead acid batteries also mean far less cost per kilowatt-hour. For example, while a 3,500 watt-hour power station using lithium ion batteries might cost you $3,500, a 4,800 watt-hour YetiTank will set you back $2,000. With the 1,500 watt-hours of the Yeti 1500X, that&rsquo;s enough to actually run critical (not counting HVAC) systems in a typical home.</p>
+
+
+
+<p>Even better, rather than running extension cables through your home, Goal Zero actually sells a Yeti Home Integration Kit that an electrician can add, and from which you can run your entire home. That&rsquo;s a fairly advanced feature if you&rsquo;re willing to pay the expense.</p>
+
+
+
+<p>One last area that shows Goal Zero&rsquo;s long experience is the noise, or lack of it. Very compact, very power-dense power stations that charge quickly often entail annoying fan noise even under light loads (we&rsquo;re looking at you, EcoFlow).</p>
+
+
+
+<p>The Yeti 1500X has two fans, but we rarely heard them ever kick on, which we can&rsquo;t say for some competitors. So if you want to run your CPAP machine in blissful silence at night&mdash;the Yeti 1500X will do it just fine.</p>
+
+
+
+<p>In the end, the Yeti 1500X may not quite have some of the fancy features of the competition but when the fundamental thing you need is to power up your fridge during an outage or charge laptops in the field, the Yeti 1500X brings solid performance, a rugged build-quality, some impressive modular features, and the rock solid reliability of literally the oldest name in portable power stations.</p>
+
+Mobile</div>
+
+## GeForce RTX 4070 vs. RTX 3080 vs. Radeon RX 6800 XT: Which to buy?
+ - [https://www.pcworld.com/article/1788804/geforce-rtx-4070-vs-rtx-3080-vs-radeon-rx-6800-xt-which-gpu-buy.html](https://www.pcworld.com/article/1788804/geforce-rtx-4070-vs-rtx-3080-vs-radeon-rx-6800-xt-which-gpu-buy.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s time once again for a new Nvidia graphics card release&mdash;words that can either bring excitement or dread to gamers. (Especially to our pocketbooks!)</p>
+
+
+
+<p>After a lukewarm response (at best) with the controversial <a href="https://www.pcworld.com/article/1444726/nvidia-geforce-rtx-4070-ti-review.html">RTX 4070 Ti</a> due to astronomical pricing, Nvidia has now released the <a href="https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html">$599 GeForce RTX 4070, a highly efficient 1440p monster</a>. This is now the cheapest &ldquo;Next Generation&rdquo; graphics card available from Nvidia or AMD. It also promises to pack the <a href="https://www.pcworld.com/article/1662185/dlss-3-explained-how-nvidias-ai-infused-rtx-tech-turbocharges-pc-gaming.html">same great DLSS 3 technology</a> we&rsquo;ve enjoyed in GPUs such as the <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">ferocious GeForce RTX 4090</a>.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="geforce-rtx-4070">GeForce RTX 4070</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="GeForce RTX 4070" class="product-widget__image" height="1667" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/DSC02116.jpg?quality=50&amp;strip=all" width="2500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6539606&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6539606%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-1788804-5-1781203-11566" rel="nofollow" target="_blank">$599.99 at  Best Buy</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>We must also look at its predecessors to determine what&rsquo;s changed&mdash;and what hasn&rsquo;t. The <a href="https://www.pcworld.com/article/393472/nvidia-geforce-rtx-3080-founders-edition-review.html">GeForce RTX 3080</a> was much-lauded at $699 for its value in 2020, even though pandemic woes kept it much higher on average. Similarly, the <a href="https://www.pcworld.com/article/393729/amd-radeon-rx-6800-rx-6800-xt-review.html">AMD Radeon RX 6800 XT</a> at its currently discounted price of under $550 still packs a punch with its 16GB of VRAM and 3080-like performance. Does the RTX 4070 have what it takes to beat them? They&rsquo;re the last-gen GPUs that the RTX 4070 matches up best with performance-wise.</p>
+
+
+
+<p>Which GPU should you spend your hard-earned money on? We&rsquo;ll look at the pricing, performance, and important items such as power consumption. New technologies such as DLSS 3 Frame Generation also have an impact on differences here, along with 4K viability due to constraints on the VRAM bandwidth and capacity. Let&rsquo;s find out how the RTX 4070 compares to the RTX 3080 and RX 6800 XT!</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">The best graphics cards for PC gaming</a></p></blockquote>
+
+
+
+<p><strong>Nvidia RTX 4070 vs RTX 3080 vs AMD Radeon RX 6800 XT: Price and availability</strong></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="4070 availability" class="wp-image-1788838" height="674" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Screenshot-2023-04-14-at-3.25.02-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>With the Nvidia RTX 4070 freshly released, we&rsquo;re happy to report that stock seems abundant at the base $599 MSRP. Retailers seem to have good inventory, and prices don&rsquo;t go much above $679 even for fancier models. With that in mind, it&rsquo;s still important to point out that we&rsquo;ve experienced some serious &ldquo;price creep&rdquo; this generation. The RTX 4070 costs $100 more than the $499 RTX 3070 did, and we even said most people should opt for a <a href="https://www.pcworld.com/article/393767/nvidia-geforce-rtx-3060-ti-founders-edition-review.html">$400 RTX 3060 Ti</a> over the 3070 last generation due to their miniscule performance differences.</p>
+
+
+
+<p>Moving on to the RTX 3080, both the 10GB or 12GB models are fairly difficult to find in today&rsquo;s marketplace. It makes sense, as they sit in a perilous position in the Nvidia product stack where they start to overlap with new RTX 40-series releases. They both had troublesome beginnings in the sense that they came during the &ldquo;Great GPU Shortage,&rdquo; making availability and pricing unrealistic for most gamers.</p>
+
+
+
+<p>The AMD Radeon RX 6800 XT seems to fare much better in the modern era, and AMD has yet to release a next-gen GPU cheaper than the <a href="https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html">$899 Radeon RX 7900 XT</a>. It&rsquo;s still widely available on many retailers, and a basic search brought up several models under $600 on Newegg.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="6800 xt prices" class="wp-image-1788839" height="740" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Screenshot-2023-04-14-at-3.22.56-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>So the RTX 4070 is in stock at MSRP&mdash;but is that enough? That used to be a simple metric we judged a GPU on during the shortages but times have changed. Clearly, for many gamers, it&rsquo;s still on the expensive side for a 1440p-class graphics card. Judging by the abundance of 4070 stock still on store shelves a few days after launch, it clearly falls short as a good value in the eyes of gamers.</p>
+
+
+
+<p>The verdict for the pricing debate is complex here. We can safely eliminate the RTX 3080 from discussion as it&rsquo;s scarcely available now (<a href="https://www.pcworld.com/article/826475/6-things-consider-buying-used-graphics-card.html">used graphics cards</a> being an exception). The Radeon RX 6800 XT is certainly a GPU that&rsquo;s garnering gamer attention due to its combination of lower pricing and ample 16GB of memory. Let&rsquo;s take it to the performance section. &nbsp;</p>
+
+
+
+<p><strong>Nvidia RTX 4070 vs RTX 3080 vs AMD Radeon RX 6800 XT: Performance</strong></p>
+
+
+
+<p>Performance is the &ldquo;truth&rdquo; for GPUs&mdash;a stage where none can escape the almighty benchmarks. While we can expect the RTX 4070 to trounce its RTX 3070 predecessor, historically we&rsquo;d look to the 80- or 90-series GPUs from the previous generation to compare against a new 70-class card. This time, we also have more competition in the form of the Radeon RX 6800 XT from AMD (and to some extent the 6900 XT and 6950 XT).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="4070" class="wp-image-1788827" height="721" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/rtx-4070-desk.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>Let&rsquo;s first look at the traditional rasterized gaming performance we can expect, so we can compare these GPUs without ray tracing upscaling tech. Keep in mind here that the RTX 4070 carries a TDP of 200 watts, which is well below both competitors here. We&rsquo;re off to a promising start&mdash;but that starting price of $599 is always there in the background to remind us <em>it better be good for this price!</em></p>
+
+
+
+<p>There&rsquo;s also another noteworthy issue worth mentioning: The RTX 4070&rsquo;s 4K performance is hampered due to the VRAM memory bandwidth, as we covered in detail in <a href="https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html">our RTX 4070 review</a>. Sure, one can argue this is a 1440p GPU. But for $599, one can also argue it should be a better 4K GPU than it is.</p>
+
+
+
+<p>Remember folks: Games are only getting more VRAM hungry, with an abundance of high textures and ray tracing adding to the mix. Recent game releases have already <a href="https://www.pcworld.com/article/1780649/the-full-nerd-ep-251-is-8gb-of-vram-enough-and-bad-pc-gaming-ports.html">made 8GB graphics cards such as the RTX 3070 limited at 1440p</a>. Nvidia bumped the RTX 4070&rsquo;s VRAM up to 12GB of faster GDDR6X memory, but it&rsquo;s not just the capacity that&rsquo;s the issue; overall memory bandwidth is too, and that&rsquo;s hurt by Nvidia decision to go with an ultra-narrow 192-bit memory bus.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788821" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/cyberpunk-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>With <em>Cyberpunk 2077</em> (Ray tracing off and DLSS/FSR off), the RTX 4070 immediately falls short of both the RTX 3080 and 6800 XT. This is a very demanding game&mdash;but you&rsquo;ll need at least a RTX 4070 Ti to best the older GPUs at 1440p or 4K.</p>
+
+
+
+<p>The $599 RTX 4070 does manage to squeak a victory by the $499 RTX 3070, if only by a few FPS. This is not a very impressive performance for $599 in 2023, years after most of the competition released. The GeForce RTX 4070 is efficient with less power draw in comparison to the other GPUs, at least.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788820" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/cod-mw2-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p><em>Call of Duty: Modern Warfare 2</em> is a game that clearly favors AMD GPUs in terms of performance, but we have some better news here for the RTX 4070. It at least more or less equally matches the RTX 3080 in frame rate. The Radeon RX 6800 XT significantly pulls ahead here.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788823" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/gears-tactics-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>The 4070 ekes out slight victories of its own in <em>Gears Tactics</em> and <em>Horizon Zero Dawn</em>, but note how the 6800 XT is faster than the 4070 at 4K, yet slower at 1440p. AMD built out the Radeon RX 6800 XT&rsquo;s memory subsystem for 4K gaming, while Nvidia didn&rsquo;t do the same with the RTX 4070. You can see how much faster the RTX 3080 is at 4K as well due to its wider memory bus.</p>
+
+
+
+<p><strong>Nvidia RTX 4070 vs RTX 3080 vs AMD Radeon RX 6800 XT: Ray tracing and DLSS</strong></p>
+
+
+
+<p>Let&rsquo;s return to <em>Cyberpunk 2077</em>, but this time with ray tracing. We&rsquo;ll look at Ultra, <em>not</em> the <a href="https://www.pcworld.com/article/1782490/cyberpunk-2077-overdrive-mode-benchmarks-nvidia-rtx-path-tracing.html">incredibly strenuous new &ldquo;Overdrive&rdquo; technology preview with full path tracing</a>.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788817" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/rt-cyberpunk-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>Ah, finally! The RTX 4070 is no longer a fish out of water, as we observe it in its natural ray traced habitat. With ray tracing set to ultra, we can see how the AMD 6800 XT starts to fall behind the Nvidia GPUs. This is expected and goes to show how the ray tracing chops in the hardware of Nvidia RTX 40-series has evolved.</p>
+
+
+
+<p>While frame rate performance is still lower than we&rsquo;d like at 37.5 FPS, it&rsquo;s at least a big jump over the 6800 XT at 25.3 FPS. But we start to see a more drastic change as we look at DLSS/FSR upscaling performance on their Balanced setting. Even with ray tracing still active and set to Ultra, the RTX 4070 reaches comfortably playable frames over 74 FPS, while the RX 6800 XT lingers under 53 FPS. The RTX 3080 gets a similar boost to the RTX 4070, but the 4070&rsquo;s more advanced ray tracing and tensor cores give it a clear edge in this scenario.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="4070" class="wp-image-1788824" height="432" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/rtx-4070-glamor.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>We now reach the &ldquo;raison d&rsquo;etre&rdquo; of Nvidia&rsquo;s master plan: <a href="https://www.pcworld.com/article/1662185/dlss-3-explained-how-nvidias-ai-infused-rtx-tech-turbocharges-pc-gaming.html">DLSS 3 with frame generation</a>.</p>
+
+
+
+<p>With DLSS 3 Frame Generation enabled, the RTX 4070 absolutely runs away from both the RTX 3080 and AMD 6800 XT. We&rsquo;re talking 117 FPS versus 74 FPS from the RTX 4070 running &ldquo;just&rdquo; DLSS Balanced, while the rival GPUs struggle to hit 60fps with DLSS/FSR Balanced alone. That&rsquo;s a significant difference, but keep in mind we&rsquo;re using technology only available on RTX 40-series GPUs due to some inherent hardware upgrades intended specifically to make DLSS 3 soar. Nvidia&rsquo;s new tech can add some latency, but requiring the latency-reducing Nvidia Reflex in DLSS 3 largely negates that (and sometimes actually improves responsiveness). &nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788818" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/RT-watch-dogs-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>With ray tracing on in <em>Watch Dogs Legion</em> at 1440p, the RTX 4070 once again starts to pull away from the 6800 XT. This is also true when FSR/DLSS are on Balanced. This highlights Nvidia&rsquo;s ray tracing advantage in general, since we see the RTX 3080 run in line with the RTX 4070 as well. It&rsquo;s also worth noting how poorly the RTX 3070 and its paltry 8GB memory capacity performs with ray tracing on in this notoriously memory-heavy game. Ray tracing only exacerbates VRAM demands.</p>
+
+
+
+<p>Looking at one last ray tracing title, <em>Hitman 3</em> also has DLSS 3 available, which the RTX 4070 takes advantage of here fully. While native non-ray traced performance equals the contenders, DLSS 3 is really the magic trick that propels the RTX 4070 ahead when you start turning on ray tracing and upscaling features.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788819" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/rt-hitman-3-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>As expected, performance metrics between these three GPUs hold some big caveats to be aware of to determine a victor. If you&rsquo;re after games that offer mostly straight up rasterization, such as most esports titles, the AMD Radeon RX 6800 XT clearly is the winner here. Its 16GB of VRAM can also not be ignored, with the bevy of recent games fully exploiting any VRAM they can get ahold of. With both the RTX 3080 and RTX 4070 having significantly less, it&rsquo;s certainly a selling point for the 6800 XT&mdash;and its memory bus bandwidth is not limited like the 12GB RTX 4070.</p>
+
+
+
+<p>The RTX 4070&rsquo;s DLSS 3 feature is obviously the game changer here. Not every game supports the technology, and it&rsquo;s mostly found in single player style games like <em>Hogwarts Legacy, Microsoft Flight Simulator, Cyberpunk 2077</em>, and so on. If these are the types of games you play, especially with ray tracing enabled, DLSS 3 makes a huge difference.</p>
+
+
+
+<p>That&rsquo;s the spot where the RTXD 4070 shines, coupled with its efficiency. If we remove DLSS 3 from the equation, we&rsquo;re not left with much against the RTX 3080. But the Radeon RX 6800 XT is very impressive here for all other, more traditional games people play &ndash; especially its huge 16GB memory capacity and now-lower price.</p>
+
+
+
+<p><strong>Nvidia RTX 4070 vs RTX 3080 vs AMD Radeon RX 6800 XT: Power draw and other features</strong></p>
+
+
+
+<p>AMD always had good arguments for its RDNA GPUs in terms of efficiency. While they&rsquo;re still not power hogs, Nvidia&rsquo;s new GeForce RTX 40-series certainly gave us a new scope of GPU efficiency.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="4070" class="wp-image-1788822" height="1076" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/power-1.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>With a TDP of 200 watts, the RTX 4070 is clearly well below the 300+ watts of both the RTX 3080 and AMD 6800 XT. Nvidia&rsquo;s new card is pumping out just as many (and sometimes more) frames as those last-gen titans with a fraction of the power use. That&rsquo;s efficiency!</p>
+
+
+
+<p>The reduced power draw has real world benefits, too. The RTX 4070 will typically run much cooler and thus quieter than these other GPUs. That&rsquo;s how the RTX 4070 finally offers some reasonably small cooler designs&mdash;such Nvidia&rsquo;s own Founders Edition&mdash;which can fit in almost any PC build with ease. All RTX 3080 and RX 6800 XT models are massive three-slot beasts.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="6800 XT box" class="wp-image-1788831" height="767" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/radeon-rx-6800-xt.png?w=1200" width="1200" /><figcaption><p>You don&rsquo;t need a wild watercooling setup like this with the RTX 4070 (though to be fair, it&rsquo;s not required for the RX 6800 XT or RTX 3080 either).</p></figcaption></figure><p class="imageCredit">Thiago Trevisan/IDG</p></div>
+
+
+
+<p>Driver support is another area to consider. Traditionally, Nvidia drivers seem to have an edge in terms of overall efficacy and release cadence. For example, some of the more recent AMD Radeon drivers for the RX 6000-series GPUs took months to roll out, even after the newer RX 7000 GPUs had their drivers already.</p>
+
+
+
+<p>Nvidia GPUs such as the RTX 4070 also have a few important features aside from DLSS 3 that you should be aware of. Content creators generally favor Nvidia GPUs due to their performance in video editing, 3D heavy applications, and machine learning. While our focus here is mostly on gaming, these are items to be aware of if you plan on using your GPU for these purposes. The Nvidia Broadcast suite is especially enticing for streamers.</p>
+
+
+
+<p><a href="https://www.pcworld.com/article/1525299/nvidia-rtx-video-super-resolution-tested.html">RTX Super Video Resolution</a> is also a neat technology that improves the visual quality of offline and streaming&mdash;a &ldquo;nice to have,&rdquo; but not essential&mdash;while <a href="https://www.pcworld.com/article/393646/tested-how-nvidia-reflex-can-make-you-a-better-esports-gamer.html">Nvidia Reflex</a> truly helps in esports responsiveness. AMD also has its suite of features, of course, from <a href="https://www.pcworld.com/article/394720/faster-gaming-frame-rates-for-free-resizable-bar-explained.html">Smart Access Memory</a> to <a href="https://www.pcworld.com/article/630096/amd-rsr-vs-fsr-whats-the-super-resolution-difference.html">FSR and Radeon Super Resolution</a>, and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://gpuopen.com/gdc-2023-fidelityfx-sdk-fsr3/&amp;xcust=2-1-1788804-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">FSR 3 is coming</a> to challenge DLSS 3 sometime in the future. In general, however, software and feature support is a big feather in Nvidia&rsquo;s cap.</p>
+
+
+
+<p><strong>Nvidia RTX 4070 vs RTX 3080 vs AMD Radeon RX 6800 XT: Verdict</strong></p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="geforce-rtx-4070">GeForce RTX 4070</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="GeForce RTX 4070" class="product-widget__image" height="1667" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/DSC02116.jpg?quality=50&amp;strip=all" width="2500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6539606&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6539606%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-1788804-5-1781203-11566" rel="nofollow" target="_blank">$599.99 at  Best Buy</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>The Nvidia RTX 4070 is the latest GPU to enter our battlegrounds. How did it fare? Make no mistake&mdash;it&rsquo;s going up against seasoned and still-relevant GPUs such as the RTX 3080 and AMD&rsquo;s 6800 XT. The RTX 4070&rsquo;s $599 MSRP still feels high for a 1440p GPU, and so far it seems it isn&rsquo;t flying off the shelves like previous-gen graphics card launches have.</p>
+
+
+
+<p>Let&rsquo;s tackle the Nvidia GPUs first. If you currently have an RTX 3080, is there much reason to upgrade? If you mainly play esports titles, or games with minimal ray tracing, not really. These games also typically may not offer DLSS 3, so you&rsquo;re more than fine with the DLSS 2 support that many games do offer for the RTX 3080.</p>
+
+
+
+<p>Here&rsquo;s the kicker: If you happen to mostly play the type of games that <em>do</em> have DLSS 3 support, then you&rsquo;ll certainly get a big frame rate improvement with Frame Generation on the RTX 4070. You&rsquo;ll also be using considerably less power. Still, without DLSS 3 the RTX 4070 isn&rsquo;t very impressive versus the RTX 3080. You could even call it disappointing, really.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="radeon-rx-6800-xt">Radeon RX 6800 XT</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Radeon RX 6800 XT" class="product-widget__image" height="4000" src="https://images.idgesg.net/images/article/2020/11/dsc01295-100866113-orig.jpg?quality=50&amp;strip=all" width="6000" />
+						</div>
+					</div>
+				
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6453268&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6453268%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-1788804-5-392735-9919" rel="nofollow" target="_blank">$579.99 at  Best Buy</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>How about the RTX 4070 versus the 16GB Radeon RX 6800 XT? AMD&rsquo;s offering is cheaper and you&rsquo;re getting more VRAM. You&rsquo;re also getting typically superior performance in most non-ray traced games, such as most esports titles, especially at 4K resolution. That said, the Radeon RX 6800 XT also draws a lot more power (if that matters to you). Ray tracing performance will also suffer in games that support it.</p>
+
+
+
+<p>The answer here likely depends on whether you consider DLSS 3 Frame Generation vital, or if you demand access to Nvidia&rsquo;s suite of other software features. Still, it&rsquo;s difficult to ignore the Radeon RX 6800 XT&rsquo;s raw brute force performance in many, many non-ray traced games.</p>
+
+
+
+<p>While the GeForce RTX 4070 offers amazing efficiency, and it&rsquo;s technically the cheapest GPU with DLSS 3 you can get now, we certainly think the AMD Radeon RX 6800 XT and its 16GB of memory can appeal to many gamers, too. Pick you poison!</p>
+
+Gaming, Graphics Cards</div>
+
+## Every time I use Windows 11, I wish I was using Windows 10
+ - [https://www.pcworld.com/article/1788084/every-time-i-use-windows-11-i-wish-i-were-using-windows-10.html](https://www.pcworld.com/article/1788084/every-time-i-use-windows-11-i-wish-i-were-using-windows-10.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>As careers go, I have little to complain about. But I have to confess&mdash;there are parts of the job I like less than others. And Windows 11 is one of those things.</p>
+
+
+
+<p>I don&rsquo;t think it&rsquo;s a bad operating system. That (dis)honor goes to Windows ME, with Vista as runner up. (Serving as tech support for my parents&rsquo; PC with Windows ME ranks among my least favorite periods of my life.) But even after a year and a half since Windows 11&rsquo;s launch, I still find myself longing for Windows 10 whenever I make myself use Windows 11.</p>
+
+
+
+<p>What makes Microsoft&rsquo;s latest operating system a thing I tolerate between the weekday hours of 9 a.m. to 5 p.m.? It&rsquo;s the collection of multiple low-grade annoyances I can&rsquo;t easily evade. I won&rsquo;t bore you with all the details&mdash;yes, the <a href="https://www.pcworld.com/article/549576/the-windows-11-taskbar-is-an-annoying-step-backward.html">Windows 11 Start menu remains an annoying step backwards</a>&mdash;but let me give you some examples of the biggest irritations.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/541452/make-windows-11-look-like-windows-10.html">How to make Windows 11 look like Windows 10</a></p></blockquote>
+
+
+
+<h3 id="buried-or-eliminated-controls">Buried (or eliminated) controls</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large is-resized"><img alt="Windows 11 File Explorer right-click menu" class="wp-image-628762" height="531" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/win-11-file-explorer-right-click-menu-blue-bg-cr.png?w=1200" width="947" /><figcaption><p>Windows 11 buries long-available features in a secondary context menu.</p> </figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>The user interface teams at Microsoft apparently did not listen any focus group feedback from my demographic, also known as the &ldquo;Why the [censored] would you ever do that?&rdquo; cohort. Last year I wrote about how <a href="https://www.pcworld.com/article/628743/six-months-in-windows-still-feels-too-half-baked-to-champion.html">Windows 11&rsquo;s right-click menu sucks</a>, but it&rsquo;s still worth repeating 12 months later. For decades (<em>literal decades</em>), Windows offered action shortcuts like refresh through that context menu. Then in Windows 11, such mainstays abruptly got shunted off into a secondary right-click menu&mdash;what took one mouse click to find now takes two. And this is still the default, as is the neutering of the ribbon in File Explorer, which put a lot of other commands front and center.</p>
+
+
+
+<p>Could I dig into the registry for every Windows 11 PC I spin up for work in order to &ldquo;fix&rdquo; these problems? Yes. Do I like messing with the registry? No.</p>
+
+
+
+<h3 id="settings-menus-that-all-look-the-same">Settings menus that all look the same</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 Multitasking settings window" class="wp-image-1486252" height="738" src="https://b2c-contenthub.com/wp-content/uploads/2023/01/Titlebarshake.png?w=1200" width="1200" /><figcaption>Pretty, but hard for my eyes to scan and pick things out quickly.  Feels like everything has the same visual weight.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>Windows 11&rsquo;s Settings menu options all look alike, and it drives me crazy. Don&rsquo;t get me wrong, they&rsquo;re pretty with those translucent blocks. But scanning them to quickly find the feature I want to tweak is murder on my brain, especially since some elements changed between Windows 10 and Windows 11. I assume I&rsquo;m supposed to search to find things quickly, but it&rsquo;s not actually faster when I have to first Google to identify the right search term, then type it it in.</p>
+
+
+
+<h3 id="bugs">Bugs</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 blank start menu bug" class="wp-image-1788102" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/image-14.png?w=1200" width="1200" /><figcaption>What is this nonsense?</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>The Windows 11 machine I currently use most will inexplicably throw up a blank start menu from time to time. The search function will simultaneously go dead, too. I haven&rsquo;t figured out why yet&mdash;in the grand scheme of things, rebooting every day or two isn&rsquo;t horrific, and it takes less time than going through the standard troubleshooting steps. Still, I can&rsquo;t always reboot immediately when it happens, leaving me to stew on the problem in the back of my head anyway. Is it Windows? Is it Windows reacting badly to apps I&rsquo;ve installed? Am I going to have to nuke the whole thing and start over to solve this issue? The behavior is so strange for a PC that barely has any software on it.&nbsp;</p>
+
+
+
+<p>You know what never does this to me? Windows 10.</p>
+
+
+
+<h3 id="default-start-menu-position">Default Start menu position</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 February 2023 Update Bing Chat taskbar" class="wp-image-1523994" height="679" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/Windows-11-Bing-Chat.png?w=1200" width="1200" /><figcaption>That centered location for the Start Menu and open apps? I&rsquo;m not a fan.</figcaption></figure><p class="imageCredit">Microsoft</p></div>
+
+
+
+<p>Something about that centered cluster of start menu button and open apps throws me off any time I use a Windows 11 PC. I know that&rsquo;s <a href="https://www.pcworld.com/article/541452/make-windows-11-look-like-windows-10.html">now a changeable setting</a>. But I can&rsquo;t really turn it off.</p>
+
+
+
+<p>In my opinion, part of my job involves helping people who stick with defaults&mdash;whether that&rsquo;s navigating them as-is or changing them to be less annoying. But I can&rsquo;t know what those defaults are (and how they shift) if I&rsquo;ve configured my machine to suit my taste and leave it that way.&nbsp;</p>
+
+
+
+<p>So I leave everything as presented by Microsoft. It allows me to directly experience what many people will, so that I&rsquo;m better equipped when dispensing advice. You can call me masochistic&mdash;and you wouldn&rsquo;t be wrong&mdash;but when I get a text message from a friend or relative asking for assistance, the last thing I want is trying to remember what I left default and what I tinkered with as I&rsquo;m talking them through their issue.&nbsp;</p>
+
+
+
+<p>Meanwhile, I keep instinctively clicking left on my taskbar, thinking the Start menu button is there. <em>Every dang time.</em></p>
+
+
+
+<h3 id="no-local-accounts">No local accounts</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Microsoft account in Windows 11 Settings" class="wp-image-613991" height="778" src="https://b2c-contenthub.com/wp-content/uploads/2022/02/Microsoft-account-settings.png?w=1200" width="1200" /><figcaption>Yes, using your Microsoft account  to log into Windows has its perks. But sometimes the very same features are a drawback for me.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>Look, Microsoft, you don&rsquo;t know my life better than me. Do I agree that the signing in with a Microsoft account provides smart protections? Yes, especially since laptops are so popular these days&mdash;most people will benefit from <a href="https://www.pcworld.com/article/624593/is-your-windows-11-pc-encrypted-the-answer-is-surprisingly-complex.html">device encryption</a> and other features if their PC becomes lost or stolen. But do I want to sign in with a Microsoft account across countless computers for work and subsequently ending up with all kinds of random things syncing to it? Nope. </p>
+
+
+
+<p>Windows 10 gently pushes users to sign in with an account, but there&rsquo;s still at least that backdoor for folks like me to slip through.&nbsp;<a href="https://www.pcworld.com/article/699100/microsoft-extinguishes-windows-11-pro-account-loophole-in-latest-build.html">Windows 11 basically forces you to use a Microsoft account</a>.</p>
+
+
+
+<p>Let me live on the edge, Windows 11. I know what I&rsquo;m doing.</p>
+
+
+
+<h2 id="fixable-but-broken">Fixable, but broken</h2>
+
+
+
+<p>I&rsquo;m about to have about fifteen bajillionty people swarm out of the woodwork and hit my mentions about how I could just tweak everything with some registry fixes or paid software. I know I technically could.</p>
+
+
+
+<p>But let&rsquo;s just back up a second. Leaving aside the legitimate reasons for why <em>I</em> can&rsquo;t, as outlined above&hellip; Why do we need to tinker in the registry to bring back functionality that worked for decades? (I can&rsquo;t stress this point enough. We had some of these user interface features for <em>decades</em>.) Or alternatively, having to <a href="https://www.pcworld.com/article/549492/hands-on-stardocks-start11-largely-solves-the-sins-of-windows-11.html">pay for a piece of software that makes those adjustments</a> and also adds back functionality we were used to?</p>
+
+
+
+<p>It&rsquo;s a philosophical sore spot for me, and one I think about whenever my Windows 11 start menu goes blank. Or I move my mouse to the left side of the taskbar without thinking. Each time, I sigh softly to myself and wish for Windows 10. If you, like me, can&rsquo;t shake its grasp, it&rsquo;s <a href="https://www.pcworld.com/article/1782303/5-windows-11-settings-worth-changing-immediately.html">worth changing these five Windows 11 settings immediately</a>.</p>
+
+Windows</div>
+
+## Learn something new every day and save 77% off this top-rated app
+ - [https://www.pcworld.com/article/1787130/learn-something-new-every-day-and-save-77-off-this-top-rated-app.html](https://www.pcworld.com/article/1787130/learn-something-new-every-day-and-save-77-off-this-top-rated-app.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you have a reading list a mile long that seems to just keep growing, it&rsquo;s about time you do something about that. Fortunately, apps like&nbsp;<a href="https://shop.pcworld.com/sales/headway-premium-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=headway-premium-lifetime-subscription&amp;utm_term=scsf-568436&amp;utm_content=a0x1P0000058bT3QAI&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Headway</a>&nbsp;make it easy to get personal with your reading and learning.</p>
+
+
+
+<p>Whether you want to build a business, improve your health, or level up your career, Headway makes it easier to&nbsp;<a href="https://www.pcworld.com/article/1440908/learn-something-new-in-2023-with-this-comprehensive-lifetime-online-education-bundle.html" rel="noreferrer noopener" target="_blank">learn something new every day</a>. This intuitive app offers summaries of more than 1,500 nonfiction best-sellers designed to be read in just 15 minutes. Headway adds 30-50 new summaries every month across a range of categories, making it easy to access big ideas and actionable insights right from your mobile device. There are audio versions of summaries to listen when you can&rsquo;t read, collections to drive your learning, and a gamified and personalized approach to make learning more fun and engaging.</p>
+
+
+
+<p>More than 12 million users have helped drive Headway to a 4.4/5-star rating on the Google Play Store and a 4.5/5-star rating on the App Store. Find out why when you&nbsp;<a href="https://shop.pcworld.com/sales/headway-premium-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=headway-premium-lifetime-subscription&amp;utm_term=scsf-568436&amp;utm_content=a0x1P0000058bT3QAI&amp;scsonar=1" rel="noreferrer noopener" target="_blank">get a lifetime subscription</a>&nbsp;for 77% off $299 at just $59.97. This offer is only available from 4/17 to 4/23, so jump on it while it lasts!</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/headway-premium-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=headway-premium-lifetime-subscription&amp;utm_term=scsf-568436&amp;utm_content=a0x1P0000058bT3QAI&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp0.stackassets.com/d8439b620dcf27d44a6677dd52e0047778eab196/store/93c2138337fcc5e12bb1156ff69aba57fc18c7f3ee9425f8b86904401cc0/sale_318822_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Headway Premium: Lifetime Subscription &ndash; $59.97</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/headway-premium-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=headway-premium-lifetime-subscription&amp;utm_term=scsf-568436&amp;utm_content=a0x1P0000058bT3QAI&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices subject to change.</p>
+
+Mobile Apps</div>
+
+## Vivaldi 6.0’s custom browser icons let you party like it’s Windows 95
+ - [https://www.pcworld.com/article/1787094/vivaldi-6-0-adds-custom-icons-just-in-time-for-420-day.html](https://www.pcworld.com/article/1787094/vivaldi-6-0-adds-custom-icons-just-in-time-for-420-day.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-04-18 07:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re in the mood to fill your browser with dumb references to <em>The Office</em>, <em>Star Wars</em>, <em>One Piece</em> or the devil&rsquo;s lettuce on 4/20 &mdash; <em>and</em> get something more useful out of it &mdash; the newly announced Vivaldi 6.0 may have what you&rsquo;re looking for.</p>
+
+
+
+<p>Add another <a href="https://www.pcworld.com/article/696762/6-reasons-to-quit-chrome-and-switch-to-vivaldi-browser.html">reason to switch from Chrome to Vivaldi</a>: the ability to add custom icons and backgrounds to the browser, either ones you make or that others have put together. Vivaldi also debuted Workspaces, just another way to organize tabs into various groups to help you organize your life.</p>
+
+
+
+<p>Designing custom icons and backgrounds isn&rsquo;t all that new. The earliest versions of Windows offered different takes on cursors, icons, and so on. But Vivaldi 6.0 allows you to personalize your browser in much the same way <a href="https://www.pcworld.com/article/402919/how-to-personalize-your-pc.html">you&rsquo;d personalize your PC</a>: by adding your own takes on icons like the home icon, and the &ldquo;forward&rdquo; and &ldquo;back&rdquo; arrows. It&rsquo;s the kind of dumb stuff that you and only you would care about, but it&rsquo;s <em>your</em> browser, you know? Think of it like a sticker for your laptop.</p>
+
+
+
+<p>Unfortunately, Vivaldi collects a number of themes within its browser, but generally leaves the personalized icons for you to add by downloading images and so on. (It&rsquo;s probably not worth the risk of attracting the wrath of Disney&rsquo;s lawyers, for example.) Vivaldi does collect some of the less problematic themes for you to enjoy, though, such as a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://themes.vivaldi.net/themes/x3WlOeREJGY&amp;xcust=2-2-1787094-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Windows 95 theme</a> (above) for a retro feel. (While that theme is live, you&rsquo;ll need Vivaldi 6.0 to include the icons.)</p>
+
+
+
+<figure class="wp-block-jetpack-image-compare"><div class="juxtapose"><img alt="Vivaldi 6.0 workspace" class="image-compare__image-before" height="1237" id="1787115" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Vivaldi-workspace-2.jpg?quality=50&amp;strip=all" width="2328" /><img alt="Vivaldi 6.0 custom icon and theme" class="image-compare__image-after" height="1155" id="1787117" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Vivaldi-workspace-3.jpg?quality=50&amp;strip=all" width="2130" /></div><figcaption>Vivaldi 6.0 allows you to add a list of Workspaces (left) which group related tabs (right). </figcaption></figure>
+
+
+
+<p>The new Workspaces feature is a bit more prosaic. Vivaldi has offered the ability to add a second row of tabs for a while now, and Workspaces is basically like a bookmarked row of themed tabs that you can collect in either the primary or secondary row. (In this way, it&rsquo;s a bit like the Collections feature in Microsoft Edge.) All you need to do is select a new Workspace, then add tabs to it and save them in a group. You can then open them all up &mdash; including stacking them, another feature Vivaldi has offered. (<a href="https://www.pcworld.com/article/394932/vivaldi-41-browser-debuts-macros-accordion-tabs.html">Vivaldi&rsquo;s macros and &ldquo;accordion tabs&rdquo;</a> are even more.)</p>
+
+
+
+<p>Of course, it&rsquo;s up to you how you take advantage of the new tabs and what themes you apply to them. The only feature that Vivaldi is leaving out is probably applying custom themes to custom Collections. Maybe we&rsquo;ll have to wait for Vivaldi 7.0 for that!</p>
+
+Personal Software</div>
+
