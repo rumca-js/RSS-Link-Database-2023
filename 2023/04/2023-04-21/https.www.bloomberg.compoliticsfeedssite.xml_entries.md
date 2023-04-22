@@ -1,0 +1,275 @@
+# Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
+
+## Biden Vows to Fight After Supreme Court Keeps Abortion Pill Access for Now
+ - [https://www.bloomberg.com/news/articles/2023-04-21/biden-vows-to-fight-after-court-keeps-abortion-pill-access-for-now](https://www.bloomberg.com/news/articles/2023-04-21/biden-vows-to-fight-after-court-keeps-abortion-pill-access-for-now)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 23:47:10+00:00
+
+President Joe Biden pledged to continue fighting “politically-driven attacks on women’s health” after the Supreme Court on Friday preserved access to a widely-used abortion drug until a lower court rules on the legal fight.
+
+## Read Alito’s Dissent on the Supreme Court Decision to Keep Abortion Pill Available
+ - [https://www.bloomberg.com/news/articles/2023-04-21/supreme-court-justice-alito-dissent-to-mifepristone-decision-in-full](https://www.bloomberg.com/news/articles/2023-04-21/supreme-court-justice-alito-dissent-to-mifepristone-decision-in-full)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 23:09:18+00:00
+
+The US Supreme Court will keep a common abortion pill widely available while a legal fight goes forward, with Justices Clarence Thomas and Samuel Alito dissenting.
+
+## LinkedIn Co-Founder Defends Funding Trump Rape Accuser Suit
+ - [https://www.bloomberg.com/news/articles/2023-04-21/linkedin-co-founder-defends-funding-trump-rape-accuser-s-lawsuit](https://www.bloomberg.com/news/articles/2023-04-21/linkedin-co-founder-defends-funding-trump-rape-accuser-s-lawsuit)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 22:58:14+00:00
+
+Reid Hoffman, the billionaire LinkedIn co-founder who is also a major donor to the Democratic Party, is defending his role in financing a New York author’s lawsuit accusing former President Donald Trump of sexual assault &mdash; a landmark case that is set to go to trial next week.
+
+## US Supreme Court Keeps Abortion Pill Fully Available for Now
+ - [https://www.bloomberg.com/news/articles/2023-04-21/us-supreme-court-puts-abortion-pill-restrictions-on-hold](https://www.bloomberg.com/news/articles/2023-04-21/us-supreme-court-puts-abortion-pill-restrictions-on-hold)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 22:39:57+00:00
+
+The US Supreme Court blocked a Texas judge’s restrictions on a widely used abortion pill from taking effect, keeping the drug fully available while a legal fight goes forward.
+
+## Argentina’s Massa Rejects Devaluation Speculation as Peso Sinks
+ - [https://www.bloomberg.com/news/articles/2023-04-21/argentina-s-massa-rejects-devaluation-speculation-as-peso-sinks](https://www.bloomberg.com/news/articles/2023-04-21/argentina-s-massa-rejects-devaluation-speculation-as-peso-sinks)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 22:16:30+00:00
+
+<p>In a candid audio,&nbsp;Argentina’s&nbsp;Economy Minister Sergio Massa denied&nbsp;market speculation about a currency devaluation or President Alberto Fernandez resigning</p>
+
+## Cease-Fire Declared in Sudan After Days of Deadly Clashes
+ - [https://www.bloomberg.com/news/articles/2023-04-21/cease-fire-declared-in-sudan-after-days-of-deadly-clashes](https://www.bloomberg.com/news/articles/2023-04-21/cease-fire-declared-in-sudan-after-days-of-deadly-clashes)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 20:59:18+00:00
+
+Sudan’s army and a rival paramilitary group declared a cease-fire following seven days of conflict that has claimed hundreds of lives and brought the northern African nation to the brink of an all-out civil war.
+
+## FAA’s Acting Chief to Step Down in Blow to Aviation Agency
+ - [https://www.bloomberg.com/news/articles/2023-04-21/faa-acting-chief-nolen-to-depart-this-summer-in-blow-to-agency](https://www.bloomberg.com/news/articles/2023-04-21/faa-acting-chief-nolen-to-depart-this-summer-in-blow-to-agency)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 20:55:28+00:00
+
+The head of the US Federal Aviation Administration is stepping down after just over a year on the job, raising questions about the direction of the agency as it grapples with challenges from flight safety and aging technology to congestion in the skies.
+
+## US Banks Ramped Up Lobbying by Nearly 20% as SVB, Signature Failed
+ - [https://www.bloomberg.com/news/articles/2023-04-21/as-svb-signature-collapsed-banks-increased-lobbying-by-almost-20](https://www.bloomberg.com/news/articles/2023-04-21/as-svb-signature-collapsed-banks-increased-lobbying-by-almost-20)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 18:51:47+00:00
+
+Three dozen of the largest US banks and the groups who represent them increased spending on lobbying Congress by 19.3% last quarter as fears of a banking contagion spread.
+
+## McCarthy Is Coming Up Short in Support for House Debt-Limit Bill
+ - [https://www.bloomberg.com/news/articles/2023-04-21/mccarthy-coming-up-short-in-support-for-house-debt-limit-bill](https://www.bloomberg.com/news/articles/2023-04-21/mccarthy-coming-up-short-in-support-for-house-debt-limit-bill)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 16:22:27+00:00
+
+House Speaker Kevin McCarthy is coming up short in support for his first big legislative effort, a bill tying a debt ceiling increase to spending cuts, risking serious damage to both his stature and the US economy.
+
+## US Watchdogs Propose Tighter Oversight of Nonbanks Posing Systemic Risk
+ - [https://www.bloomberg.com/news/articles/2023-04-21/us-watchdogs-propose-tighter-oversight-of-nonbanks-posing-systemic-risk](https://www.bloomberg.com/news/articles/2023-04-21/us-watchdogs-propose-tighter-oversight-of-nonbanks-posing-systemic-risk)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 15:29:47+00:00
+
+The top US financial regulators proposed strengthening the tools used to scrutinize nonbank firms, including changes to Trump-era guidance that made it harder to tackle them.
+
+## Italy Minister Confirms Delegation Visited Taiwan For Chip Talks
+ - [https://www.bloomberg.com/news/articles/2023-04-21/italy-minister-confirms-delegation-visited-taiwan-for-chip-talks](https://www.bloomberg.com/news/articles/2023-04-21/italy-minister-confirms-delegation-visited-taiwan-for-chip-talks)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 14:38:36+00:00
+
+Italy’s minister for business and made in Italy, Adolfo Urso, said an Italian delegation visited Taiwan to discuss potential cooperation in the semiconductor sector.
+
+## South Africa Ruling Party Pushes President to Resolve Energy Row
+ - [https://www.bloomberg.com/news/articles/2023-04-21/south-africa-ruling-party-pushes-president-to-resolve-energy-row](https://www.bloomberg.com/news/articles/2023-04-21/south-africa-ruling-party-pushes-president-to-resolve-energy-row)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 14:17:25+00:00
+
+South Africa’s governing party is pressuring President Cyril Ramaphosa to bring an end to territorial battles among his senior ministers over energy policy as the nation continues to battle crippling power cuts.
+
+## South Africa’s ANC Weighing Stance on International Criminal Court Before Putin Visit
+ - [https://www.bloomberg.com/news/articles/2023-04-21/south-africa-s-anc-weighing-stance-on-icc-before-putin-visit](https://www.bloomberg.com/news/articles/2023-04-21/south-africa-s-anc-weighing-stance-on-icc-before-putin-visit)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 14:17:17+00:00
+
+South Africa’s governing African National Congress will re-open an internal debate about its stance on the International Criminal Court, before an expected visit by Russian President Vladimir Putin this year.
+
+## Hungary to Prolong Nuclear Plant’s Lifetime as Expansion Stalls
+ - [https://www.bloomberg.com/news/articles/2023-04-21/hungary-to-prolong-nuclear-plant-s-lifetime-as-expansion-stalls](https://www.bloomberg.com/news/articles/2023-04-21/hungary-to-prolong-nuclear-plant-s-lifetime-as-expansion-stalls)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 13:55:51+00:00
+
+Hungary aims to extend the lifetime of its sole nuclear power plant by 20 years to bridge major delays to its Russian-managed expansion, according to a senior official.
+
+## Corn Hidden in Coffins as Smugglers Cash in on Congo Shortage
+ - [https://www.bloomberg.com/news/articles/2023-04-21/zambian-smugglers-stash-corn-in-coffins-to-cash-in-on-congo-shortage](https://www.bloomberg.com/news/articles/2023-04-21/zambian-smugglers-stash-corn-in-coffins-to-cash-in-on-congo-shortage)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 13:23:11+00:00
+
+Surging corn prices in the Democratic Republic of Congo have created a lucrative trade for people to smuggle the staple food out of neighboring Zambia, and a clampdown is causing creative concealment strategies &mdash; with some even using coffins.
+
+## Argentina President Alberto Fernandez Says Won’t Seek Reelection
+ - [https://www.bloomberg.com/news/articles/2023-04-21/argentina-president-alberto-fernandez-says-won-t-seek-reelection](https://www.bloomberg.com/news/articles/2023-04-21/argentina-president-alberto-fernandez-says-won-t-seek-reelection)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 13:21:38+00:00
+
+Argentina President Alberto Fernandez won’t run for reelection, according to a video posted on his official Twitter account.
+
+## South Africa’s Energy Chief Opens Coal Mine as Blackouts Persist
+ - [https://www.bloomberg.com/news/articles/2023-04-21/south-africa-s-energy-chief-opens-coal-mine-as-blackouts-persist](https://www.bloomberg.com/news/articles/2023-04-21/south-africa-s-energy-chief-opens-coal-mine-as-blackouts-persist)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 13:15:26+00:00
+
+South Africa’s energy minister attended the opening of a new coal mine, promoting use of the dirtiest fossil fuel as the government struggles to control an energy crisis.
+
+## US Expands Hunt for Russian Sanctions Evaders to Their Financial Advisers
+ - [https://www.bloomberg.com/news/articles/2023-04-21/russian-sanctions-us-expands-search-for-evaders-to-advisers-hedge-funds](https://www.bloomberg.com/news/articles/2023-04-21/russian-sanctions-us-expands-search-for-evaders-to-advisers-hedge-funds)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 13:08:19+00:00
+
+The US Justice Department is looking for new ways to cut off Russian sanctions evasion by focusing on overseas investment advisers, hedge funds, law firms and private equity managers that have previously escaped scrutiny.
+
+## Read Full Investigation Report Into Dominic Raab
+ - [https://www.bloomberg.com/news/articles/2023-04-21/dominic-raab-resigns-read-full-investigation-report-into-deputy-pm](https://www.bloomberg.com/news/articles/2023-04-21/dominic-raab-resigns-read-full-investigation-report-into-deputy-pm)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 12:37:28+00:00
+
+UK Deputy Prime Minister Dominic Raab   resigned after an independent investigation   criticized his “abrasive” treatment of civil servants, drawing a line under a months-long saga that threatened to undermine Prime Minister Rishi Sunak’s pledge to restore professionalism to the government.Read the  full text of the investigation report.
+
+## Russia Accidentally Bombs One of Its Own Cities Near Ukraine, Injuring Three
+ - [https://www.bloomberg.com/news/articles/2023-04-21/russia-accidentally-bombs-city-near-ukraine-injuring-three](https://www.bloomberg.com/news/articles/2023-04-21/russia-accidentally-bombs-city-near-ukraine-injuring-three)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 12:34:33+00:00
+
+A Russian warplane accidentally fired on a city near the border with Ukraine, wounding at least three people, according to state-run media.
+
+## Russia’s Putin and Saudi Crown Prince Discuss OPEC+ Cooperation
+ - [https://www.bloomberg.com/news/articles/2023-04-21/russia-s-putin-and-saudi-crown-prince-discuss-opec-cooperation-lgqgeuov](https://www.bloomberg.com/news/articles/2023-04-21/russia-s-putin-and-saudi-crown-prince-discuss-opec-cooperation-lgqgeuov)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 11:14:09+00:00
+
+Russian President Vladimir Putin and Saudi Crown Prince Mohammed bin Salman talked about OPEC+ cooperation by phone, the Kremlin said.
+
+## Trump Wants to End DeSantis’s 2024 Campaign Before It Even Begins
+ - [https://www.bloomberg.com/news/articles/2023-04-21/trump-wants-to-end-desantis-s-2024-campaign-before-it-even-begins](https://www.bloomberg.com/news/articles/2023-04-21/trump-wants-to-end-desantis-s-2024-campaign-before-it-even-begins)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 11:00:00+00:00
+
+Former President  Donald Trump is girding to take a swing at Florida Governor Ron DeSantis on the two things his chief rival is proudest of: his handling of Covid-19 and his state’s economy.
+
+## Refugees Flee Sudan Violence as Global Alarm Grows
+ - [https://www.bloomberg.com/news/articles/2023-04-21/refugees-flee-sudan-violence-as-global-alarm-grows](https://www.bloomberg.com/news/articles/2023-04-21/refugees-flee-sudan-violence-as-global-alarm-grows)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 10:56:21+00:00
+
+Deadly conflict in Sudan is prompting a surge in refugees to neighboring countries, the United Nations warned, as pressure mounts on warring parties to observe a cease-fire.
+
+## Hungary Grain Lobby Urges Cabinet to Scrap Ukraine Import Ban
+ - [https://www.bloomberg.com/news/articles/2023-04-21/hungary-grain-lobby-urges-cabinet-to-scrap-ukraine-import-ban](https://www.bloomberg.com/news/articles/2023-04-21/hungary-grain-lobby-urges-cabinet-to-scrap-ukraine-import-ban)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 10:27:31+00:00
+
+Hungary’s grain lobby criticized a government ban on agricultural imports from Ukraine, saying it would lead to shortages and undermine efforts to curb the European Union’s highest inflation rate.
+
+## Taiwan Sees US-China Feud as Bad for Business
+ - [https://www.bloomberg.com/news/newsletters/2023-04-21/taiwan-sees-us-china-feud-as-bad-for-business](https://www.bloomberg.com/news/newsletters/2023-04-21/taiwan-sees-us-china-feud-as-bad-for-business)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 09:57:22+00:00
+
+Taiwan has no closer friend than the US when it comes to military and diplomatic support, but now Taipei is getting nervous that American warnings about the risk of a Chinese attack could hurt the island’s business environment.
+
+## Dominic Raab’s Resignation Letter in Full
+ - [https://www.bloomberg.com/en/news/thp/2023-04-21/dominic-raab-resignation-letter-in-full](https://www.bloomberg.com/en/news/thp/2023-04-21/dominic-raab-resignation-letter-in-full)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 09:14:47+00:00
+
+Dominic Raab said it was "important" to keep his word by resigning if an inquiry found he had bullied officials.
+
+## Pressure Mounts on Sudan to End Fighting as Death Toll Climbs
+ - [https://www.bloomberg.com/news/articles/2023-04-21/pressure-mounts-on-sudan-to-end-fighting-as-death-toll-climbs](https://www.bloomberg.com/news/articles/2023-04-21/pressure-mounts-on-sudan-to-end-fighting-as-death-toll-climbs)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 08:58:49+00:00
+
+Sudan’s army and a rival paramilitary group are facing mounting international pressure to end a conflict that has claimed hundreds of lives since it erupted last weekend.
+
+## US Shootings and the Growing Climate Threat: The Political Week in Photos
+ - [https://www.bloomberg.com/news/photo-essays/2023-04-21/us-shootings-and-the-growing-climate-threat-the-political-week-in-photos](https://www.bloomberg.com/news/photo-essays/2023-04-21/us-shootings-and-the-growing-climate-threat-the-political-week-in-photos)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 08:54:27+00:00
+
+President Joe Biden is pushing for tighter   gun-control laws after series of US gun owners shot people, including children, who mistakenly approached their house or car by mistake.
+
+## Raab Quits as Sunak’s Deputy After UK Bullying Report
+ - [https://www.bloomberg.com/news/articles/2023-04-21/raab-quits-as-sunak-s-uk-deputy-after-report-on-bullying-claims](https://www.bloomberg.com/news/articles/2023-04-21/raab-quits-as-sunak-s-uk-deputy-after-report-on-bullying-claims)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 08:53:39+00:00
+
+UK Deputy Prime Minister Dominic Raab resigned after an independent investigation criticized his treatment of civil servants, drawing a line under a months-long saga that threatened to undermine Prime Minister Rishi Sunak’s pledge to restore professionalism to the government.
+
+## Sunak to Make Decision on Dominic Raab's Future ‘as Quickly as He Can’
+ - [https://www.bloomberg.com/en/news/thp/2023-04-21/sunak-to-make-decision-on-dominic-raab-s-future-as-quickly-as-he-can](https://www.bloomberg.com/en/news/thp/2023-04-21/sunak-to-make-decision-on-dominic-raab-s-future-as-quickly-as-he-can)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 07:39:31+00:00
+
+Ministers have insisted it is "fair" that Rishi Sunak takes his time to ponder whether to sack Dominic Raab, with the fate of the Deputy Prime Minister hanging in the balance after the Prime Minister received a report into whether he bullied officials.
+
+## Ukraine Latest: Russia Accidentally Bombs One of Its Own Cities
+ - [https://www.bloomberg.com/news/articles/2023-04-21/russia-ukraine-latest-news-april-21-2023](https://www.bloomberg.com/news/articles/2023-04-21/russia-ukraine-latest-news-april-21-2023)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 07:00:22+00:00
+
+A Russian Su-34 military jet accidentally fired on the city of Belgorod north of the Ukrainian border, the Russian defense ministry said, leaving a massive crater and damaging homes and cars.
+
+## Ganjar Pranowo Is Indonesia Ruling Party’s Presidential Pick
+ - [https://www.bloomberg.com/news/articles/2023-04-21/ganjar-pranowo-is-indonesia-ruling-party-s-presidential-pick](https://www.bloomberg.com/news/articles/2023-04-21/ganjar-pranowo-is-indonesia-ruling-party-s-presidential-pick)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 06:47:23+00:00
+
+Indonesia’s ruling party has chosen Central Java Governor Ganjar Pranowo, seen as a natural successor of incumbent leader Joko Widodo, as its presidential nominee in a move that will trigger election campaigning in the world’s third-largest democracy.
+
+## Russian Arms Sales to India Stall Due to Fears Over US Sanctions
+ - [https://www.bloomberg.com/news/articles/2023-04-21/russian-arms-sales-to-india-stall-due-to-fears-over-us-sanctions](https://www.bloomberg.com/news/articles/2023-04-21/russian-arms-sales-to-india-stall-due-to-fears-over-us-sanctions)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 06:24:10+00:00
+
+Russian deliveries of military supplies to India have ground to a halt as the countries struggle to find a payment mechanism that doesn’t violate US sanctions, according to Indian officials with knowledge of the matter.
+
+## Russian Neighbor to Cut Power Grid Ties in Independence Test
+ - [https://www.bloomberg.com/news/articles/2023-04-21/russian-neighbor-to-cut-power-grid-ties-in-independence-test](https://www.bloomberg.com/news/articles/2023-04-21/russian-neighbor-to-cut-power-grid-ties-in-independence-test)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 05:00:00+00:00
+
+Lithuania plans to disconnect its power grid from Russia’s to gauge the Baltic country’s ability to sever its last remaining energy link to Moscow.
+
+## Rupert Murdoch's Son Lachlan Ends Australian Defamation Suit
+ - [https://www.bloomberg.com/en/news/thp/2023-04-21/rupert-murdoch-s-son-lachlan-ends-australian-defamation-suit](https://www.bloomberg.com/en/news/thp/2023-04-21/rupert-murdoch-s-son-lachlan-ends-australian-defamation-suit)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 04:58:55+00:00
+
+CANBERRA, Australia (AP) &mdash; Fox Corp. chief executive Lachlan Murdoch on Friday dropped his defamation lawsuit against Australian news website Crikey, citing the settlement of the separate U.S. case where Fox News agreed to pay almost $800 million over its lies involving the 2020 U.S. presidential election.
+
+## Republican Hopeful DeSantis to Visit Japan During Global Tour
+ - [https://www.bloomberg.com/news/articles/2023-04-21/republican-hopeful-desantis-to-visit-japan-during-global-tour](https://www.bloomberg.com/news/articles/2023-04-21/republican-hopeful-desantis-to-visit-japan-during-global-tour)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 03:21:48+00:00
+
+Florida Governor Ron DeSantis will visit Japan next week as he tests the international waters ahead of a possible decision to seek the Republican nomination for US president.
+
+## Top China Diplomat Defends Growth Model, Draws Line on Taiwan
+ - [https://www.bloomberg.com/news/articles/2023-04-21/top-china-diplomat-defends-growth-model-draws-line-on-taiwan](https://www.bloomberg.com/news/articles/2023-04-21/top-china-diplomat-defends-growth-model-draws-line-on-taiwan)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 02:43:06+00:00
+
+Chinese Foreign Minister Qin Gang defended his nation’s development path at a forum attended by foreign executives Friday, while warning that his nation will not compromise on Taiwan.
+
+## Mexico Finally Finds Buyer for Presidential Jet: Tajikistan
+ - [https://www.bloomberg.com/news/articles/2023-04-21/mexico-finally-finds-buyer-for-presidential-jet-tajikistan](https://www.bloomberg.com/news/articles/2023-04-21/mexico-finally-finds-buyer-for-presidential-jet-tajikistan)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 02:02:02+00:00
+
+Mexico President Andres Manuel Lopez Obrador has at long last sold his predecessor’s jet, though at a fraction of what he hoped for.
+
+## North Korea’s Top Diplomat Tells G-7 Nuclear Weapons to Stay
+ - [https://www.bloomberg.com/news/articles/2023-04-21/north-korea-s-top-diplomat-tells-g-7-nuclear-weapons-to-stay](https://www.bloomberg.com/news/articles/2023-04-21/north-korea-s-top-diplomat-tells-g-7-nuclear-weapons-to-stay)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-04-21 00:46:23+00:00
+
+North Korea’s foreign minister made her first formal statement directed at the US in about half a year to say Pyongyang will keep its nuclear weapons and punish Group of Seven members who try to change that.
+
