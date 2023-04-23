@@ -1,0 +1,79 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## The Wheel of Time Locks in Some More Actors for Season 2
+ - [https://gizmodo.com/wheel-of-time-season-2-prime-video-recurring-cast-1850365760](https://gizmodo.com/wheel-of-time-season-2-prime-video-recurring-cast-1850365760)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Raho2rUu--/c_fit,fl_progressive,q_80,w_636/c4f8e6390b4cd6ae86267e06c6a73201.jpg" /><p>It’s been a bit of a wait for season two of Prime Video’s <a href="https://gizmodo.com/while-of-time-season-2-trailer-rosamund-pike-prime-1849627336"><em>The Wheel of Time</em></a><em>. </em>The adaptation of Robert Jordan’s (and later <a href="https://gizmodo.com/brandon-sanderson-s-message-to-publishing-is-mostly-a-m-1848673821">Brandon Sanderson</a>) fantasy novel series ended its first season towards the tail end of 2021, and has had a gradual drip feed of information about its second season, mainly as it relates to <a href="https://gizmodo.com/wheel-of-time-ayoola-smart-amazon-season-2-1848833256">casting</a>.<br /></p><p><a href="https://gizmodo.com/wheel-of-time-season-2-prime-video-recurring-cast-1850365760">Read more...</a></p>
+
+## A Fortnite Movie Would Be Easy to Make Happen, Says Epic Games CCO
+ - [https://gizmodo.com/fortnite-epic-games-movie-adaptation-possibility-1850365693](https://gizmodo.com/fortnite-epic-games-movie-adaptation-possibility-1850365693)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 18:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--J5ZJswVZ--/c_fit,fl_progressive,q_80,w_636/76977f0c4eb4bbffa24c56e1e2cc7a85.jpg" /><p>So many <a href="https://gizmodo.com/super-mario-bros-movie-illumination-box-office-1850315813">video games</a> have been adapted by Hollywood lately that players have begun to consider what’s next. Much of the <a href="https://gizmodo.com/the-mass-effect-tv-show-shouldnt-star-commander-shepard-1848119694">next wave</a> of adaptations are based on extremely popular games, and you wouldn’t be wrong in thinking that Epic Games’ <a href="https://gizmodo.com/uncharteds-fortnite-skins-are-impressive-but-also-way-1848527398"><em>Fortnite</em></a><em> </em>would be getting a movie.<br /></p><p><a href="https://gizmodo.com/fortnite-epic-games-movie-adaptation-possibility-1850365693">Read more...</a></p>
+
+## La Borinqueña’s Collab With DC Comics on Hurricane Relief | io9 Interview
+ - [https://gizmodo.com/la-borinquena-s-collab-with-dc-comics-on-hurricane-reli-1850327039](https://gizmodo.com/la-borinquena-s-collab-with-dc-comics-on-hurricane-reli-1850327039)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 17:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6vZp-mG1--/c_fit,fl_progressive,q_80,w_636/c99983e2cd1ba0d07787ecb40fdef137.jpg" /><p><a href="https://gizmodo.com/la-borinquena-s-collab-with-dc-comics-on-hurricane-reli-1850327039">Read more...</a></p>
+
+## National Treasure's TV Spinoff Won't Be Coming Back for Another Adventure
+ - [https://gizmodo.com/national-treasure-edge-of-history-tv-spinoff-canceled-1850365575](https://gizmodo.com/national-treasure-edge-of-history-tv-spinoff-canceled-1850365575)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---AO_lo7D--/c_fit,fl_progressive,q_80,w_636/246c37c0cd33192a30de7fbbd64832c1.png" /><p>Late last year, Disney premiered <a href="https://gizmodo.com/comic-con-national-treasure-edge-of-history-disney-plus-1849200855"><em>National Treasure: Edge of History</em></a><em>, </em>a YA-oriented <a href="https://gizmodo.com/national-treasures-younger-more-diverse-spin-off-is-a-1846546146">spinoff</a> of the cult classic two-film  series starring Nicholas Cage and Dianne Kruger. The series ended its first season back in early February, and as it turns out, that’ll be its only season. </p><p><a href="https://gizmodo.com/national-treasure-edge-of-history-tv-spinoff-canceled-1850365575">Read more...</a></p>
+
+## See a Newly Discovered 'Pristine' Deep-Sea Coral Reef in the Galápagos
+ - [https://gizmodo.com/new-coral-reef-discovered-galapagos-photos-deep-sea-1850352387](https://gizmodo.com/new-coral-reef-discovered-galapagos-photos-deep-sea-1850352387)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 15:10:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--SelKBNYQ--/c_fit,fl_progressive,q_80,w_636/97f93795f72782131e4a8b34fe2aec9c.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--ZMe1FWjR--/c_fit,fl_progressive,q_80,w_636/97f93795f72782131e4a8b34fe2aec9c.mp4" type="video/mp4" /></video><p>There’s a new, ancient coral reef in town, and it’s magnificent. Scientists working to survey the deep ocean surrounding the Galápagos Islands discovered a never-before-observed  reef complex, hundreds of meters below the sea surface. And, despite <a href="https://gizmodo.com/australias-great-barrier-reef-is-suffering-yet-another-1848704885">the current, sorry state</a> of <a href="https://gizmodo.com/new-study-shows-no-coral-reef-on-earth-is-safe-from-c-1821718985">corals across the world’s</a> marine…</p><p><a href="https://gizmodo.com/new-coral-reef-discovered-galapagos-photos-deep-sea-1850352387">Read more...</a></p>
+
+## 7 Bonkers Corporate Earth Day Campaigns
+ - [https://gizmodo.com/worst-corporate-earth-day-campaigns-1848824703](https://gizmodo.com/worst-corporate-earth-day-campaigns-1848824703)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 14:49:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Kwxny8oR--/c_fit,fl_progressive,q_80,w_636/86b4e003e9369b8f9cd808a83f317dc3.png" /><p>It’s Earth Day! Here at Earther, we’ve been absolutely inundated with press releases announcing that every corporation under the Sun is doing something ~*~special~*~ to mark the occasion. There’s no question that this holiday, which started from <a href="https://www.teenvogue.com/story/history-of-earth-day" rel="noopener noreferrer" target="_blank">radical beginnings</a>, has largely become the purview of <a href="https://gizmodo.com/its-time-to-kill-earth-day-1846739135">greenwashing and PR…</a></p><p><a href="https://gizmodo.com/worst-corporate-earth-day-campaigns-1848824703">Read more...</a></p>
+
+## The Lilo & Stitch Remake Grabs Stitch's Original Actor & a New David
+ - [https://gizmodo.com/lilo-stitch-remake-disney-chris-sanders-1850364715](https://gizmodo.com/lilo-stitch-remake-disney-chris-sanders-1850364715)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--HCPBIY_R--/c_fit,fl_progressive,q_80,w_636/371c15db9e6707436fd0be338bc2016e.jpg" /><p>Throughout the month of April, Disney’s been gradually rolling out casting information for its incoming remake of <em>Lilo &amp; Stitch. </em>We’ve got our <a href="https://gizmodo.com/disney-lilo-and-stitch-live-action-casts-maia-kealoha-1850289840">Lilo</a> in newcomer Maia Kealoha, a <a href="https://gizmodo.com/mia-goth-blade-mcu-lilith-drake-1850342294">Nani</a> in Sydney Elizabeth Agudong, and <a href="https://gizmodo.com/blade-mcu-mia-goth-mahershala-ali-marvel-1850328995">Billy Magnussen</a>. All that’s missing is Stitch—or rather, he <em>was </em>missing before now. </p><p><a href="https://gizmodo.com/lilo-stitch-remake-disney-chris-sanders-1850364715">Read more...</a></p>
+
+## Life Beneath the Arctic Ice Is Chock-Full of Microplastics
+ - [https://gizmodo.com/life-beneath-the-arctic-ice-is-chock-full-of-microplast-1850362480](https://gizmodo.com/life-beneath-the-arctic-ice-is-chock-full-of-microplast-1850362480)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 14:04:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vlq5pNSL--/c_fit,fl_progressive,q_80,w_636/c3cb2101d33de0afb32b6447c2bb1325.jpg" /><p>Picture a raft of sea ice in the Arctic Ocean, and you’re probably imagining a pristine marriage of white and blue. But during summertime, below the surface, something much greener and goopier lurks. A type of algae, <em>Melosira arctica, </em>grows in large, dangling masses and curtains that cling to the underside of Arctic…</p><p><a href="https://gizmodo.com/life-beneath-the-arctic-ice-is-chock-full-of-microplast-1850362480">Read more...</a></p>
+
+## Why Universities Should Return to Oral Exams in the AI and ChatGPT Era
+ - [https://gizmodo.com/chatgpt-ai-universities-colleges-should-give-oral-exams-1850363808](https://gizmodo.com/chatgpt-ai-universities-colleges-should-give-oral-exams-1850363808)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 12:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vjpQOwFf--/c_fit,fl_progressive,q_80,w_636/dcd15db1f37bc8339eed740afec58a0f.jpg" /><p>Imagine the following scenario. </p><p><a href="https://gizmodo.com/chatgpt-ai-universities-colleges-should-give-oral-exams-1850363808">Read more...</a></p>
+
+## Physicists Create the Fattest Schrödinger's Cat Ever
+ - [https://gizmodo.com/physicists-create-the-fattest-schrodingers-cat-ever-1850362452](https://gizmodo.com/physicists-create-the-fattest-schrodingers-cat-ever-1850362452)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 12:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ouqULl_t--/c_fit,fl_progressive,q_80,w_636/d0b1e9685148c989fc68dfdcb4b611f2.png" /><p>Picture a cat. I’m assuming you’re imagining a live one. It doesn’t matter. You’re wrong either way—but you’re also right.<br /></p><p><a href="https://gizmodo.com/physicists-create-the-fattest-schrodingers-cat-ever-1850362452">Read more...</a></p>
+
+## Chicken Run: Dawn of the Nugget and Nimona Lead Netflix Annecy Debuts
+ - [https://gizmodo.com/chicken-run-dawn-of-the-nugget-nimona-netflix-annecy-1850364267](https://gizmodo.com/chicken-run-dawn-of-the-nugget-nimona-netflix-annecy-1850364267)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-04-22 00:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--P0Lro7ub--/c_fit,fl_progressive,q_80,w_636/1ce678d795d30ba232118eabbf34f909.png" /><p>Headlining <a href="https://gizmodo.com/stranger-things-netflix-the-boroughs-duffer-brothers-1850358120">Netflix</a>’s animation slate at Annecy International 2023 are <a href="https://gizmodo.com/wedge-star-wars-visions-2-aardman-disney-plus-x-wing-1850322292">Aardman</a>’s next franchise installment <em>Chicken Run: Dawn of the Nugget, </em>and the <a href="https://gizmodo.com/a-look-inside-nimonas-long-road-to-release-1848777375">little movie that could, </a><a href="https://gizmodo.com/a-look-inside-nimonas-long-road-to-release-1848777375"><em>Nimona</em></a><em>. </em></p><p><a href="https://gizmodo.com/chicken-run-dawn-of-the-nugget-nimona-netflix-annecy-1850364267">Read more...</a></p>
+

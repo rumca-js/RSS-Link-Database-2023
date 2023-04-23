@@ -1,0 +1,23 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## You Need To Try This Incredible New Randomized Fortnite Deathmatch Map
+ - [https://www.gamespot.com/articles/you-need-to-try-this-incredible-new-randomized-fortnite-deathmatch-map/1100-6513477/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/you-need-to-try-this-incredible-new-randomized-fortnite-deathmatch-map/1100-6513477/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-04-22 15:00:00+00:00
+
+<p>There's a pretty sick new Fortnite Creative 2.0 map that's gotten a lot of traction this week, and for good reason--the <a href="https://www.fortnite.com/creative/island-codes/0650-3064-6915">Lucky Block Arena</a> free-for-all map by Rafa To Ja is a refreshing remix of an old Creative formula.</p><p dir="ltr">Fortnite's Creative 2.0, powered by the Unreal Editor for Fortnite, is still so new that creators are continuing to figure out what exactly they can do with it. For now, that means most Fortnite Creative maps made with UEFN are mostly the same kinds of things creators were making before, but <a href="https://www.gamespot.com/gallery/11-fortnite-creative-2-0-maps-you-should-try-right-now/2900-4693/">with new bells and whistles that weren't possible previously</a>. In other words, Creative 2.0 is more evolution than revolution so far. The Lucky Block Arena is a high-quality example of that kind of thing.</p><p dir="ltr">You and the other players will spawn on your own floating platforms above an arena, a format that Fortnite creators love to use for all sorts of different games. Usually these involve building, but the Lucky Block Arena does not.</p><a href="https://www.gamespot.com/articles/you-need-to-try-this-incredible-new-randomized-fortnite-deathmatch-map/1100-6513477/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Firearms Expert Reacts To Dead Island 2’s Guns
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-dead-island-2s-guns/2300-6461191/](https://www.gamespot.com/videos/firearms-expert-reacts-to-dead-island-2s-guns/2300-6461191/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-04-22 14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4127869-deadisland2_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down more of the weaponry of Dead Island 2, including the acid-bullet firing rifle, a flame-bullet firing machine pistol and a range of shotguns.
+
+## Persona 5: The Phantom X - Everything We Know
+ - [https://www.gamespot.com/articles/persona-5-the-phantom-x-everything-we-know/1100-6513415/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/persona-5-the-phantom-x-everything-we-know/1100-6513415/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-04-22 13:00:00+00:00
+
+<p dir="ltr"><a href="https://weibo.com/n/%E5%A5%B3%E7%A5%9E%E5%BC%82%E9%97%BB%E5%BD%95%E5%A4%9C%E5%B9%95%E9%AD%85%E5%BD%B1?tabtype=feed">Persona 5: The Phantom X</a> is a new mobile and PC spin-off of the very popular Persona 5. It's currently only slated for release in China, with no news of an international release yet.</p><p dir="ltr">P5X's very first closed beta ended on March 31, and we've listed below what we know so far about the gameplay and story. Keep in mind that mechanics and other details revealed during the beta may change for the full release.</p><h2>Who's making the game?</h2><p dir="ltr">Publisher Perfect World and developer Black Wings studio are making Persona 5: The Phantom X with <a href="https://www.bilibili.com/read/cv22621819?spm_id_from=333.999.0.0">"deep involvement" from Atlus and Sega</a> on the creation of the characters, story, and music. Atlus character designer <a href="https://www.gameinformer.com/2019/08/27/five-fun-facts-about-the-artist-behind-persona-and-catherine">Shigenori Soejima</a>--a Persona veteran who served as character designer for P5's Phantom Thieves--designed P5X's main character, Wonder, and his Persona.</p><a href="https://www.gamespot.com/articles/persona-5-the-phantom-x-everything-we-know/1100-6513415/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
