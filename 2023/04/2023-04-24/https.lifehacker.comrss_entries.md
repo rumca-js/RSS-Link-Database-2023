@@ -1,0 +1,86 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## The Best Questions to Ask on Your First Day at a New Job
+ - [https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--TZWhCejr--/c_fit,fl_progressive,q_80,w_636/8fa2d87171ce33ac50a6a5d509791450.jpg" /><p>The first day at a new job can feel a whole lot like the interviews you went through to land that job. You’re still nervous, excited, and desperate to make a strong first impression. Only now, you also want to get your bearings and figure out how exactly you fit into this new place.</p><p><a href="https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396">Read more...</a></p>
+
+## How Screen Time Can Save You When Your iPhone Is Stolen
+ - [https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--mpxEK4wZ--/c_fit,fl_progressive,q_80,w_636/56f873b2e43dada4cca5b577991a9029.jpg" /><p>Apple prides itself on safeguarding its users’ privacy, but it isn’t perfect. Like all tech, Apple devices have their weak points when it comes to security. Case in point: Recent reports that thieves aren’t just stealing people’s iPhones, but using those devices to lock victims out of their Apple IDs altogether. But…</p><p><a href="https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491">Read more...</a></p>
+
+## The Case for Never Eating Cold Cake Again
+ - [https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--v0P0QCUI--/c_fit,fl_progressive,q_80,w_636/a508eb8d782267ab1ba1195f6b47d7d4.jpg" /><p>Fruit is refreshing when served cold. Yogurt is at its most delightful, creamy state when chilled. Ice? Transcendent. But cake: That is where I have to stop you. For the love of all saturated fats, and everything good, please stop eating cold cake.<br /></p><p><a href="https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553">Read more...</a></p>
+
+## Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting
+ - [https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ObqiMoz---/c_fit,fl_progressive,q_80,w_636/9a99df6da1ff90591bec2364744c2fe2.jpg" /><p>In daylight, my garden is a beacon of color and texture, but when the sun sets, the yard becomes a black hole. Delivery drivers struggle to see the house numbers or find the footpath, and I hold my phone flashlight awkwardly to avoid tripping as I take out the trash. Sure, lighting would help, but I didn’t have in-…</p><p><a href="https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585">Read more...</a></p>
+
+## A Pool Noodle Is the Best Way to Transport Knives on a Trip
+ - [https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--13Ky9OIn--/c_fit,fl_progressive,q_80,w_636/df4d6065f68ec0485586989cdb25d164.jpg" /><p>Before you head out into the wilderness for a little camping, you <a href="https://lifehacker.com/never-go-camping-without-these-things-1849469481" target="_blank">probably check all the essentials off your pack list</a>—but might not think about the logistics of carrying some of them around. Knives, in particular, can dull without proper storage and care, at best, and can be dangerous without it, at worst. There are…</p><p><a href="https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453">Read more...</a></p>
+
+## How to Add Shade to a Treeless Backyard
+ - [https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--aPPIxuts--/c_fit,fl_progressive,q_80,w_636/ccee3c499675fa8fdf49a6b612c7a0e4.jpg" /><p>With warmer weather and longer, sunnier days on the horizon, now is the time to get your yard ready for summer hangouts. If your yard doesn’t have many trees, consider adding shade—both to make the heat more manageable and provide protection from the elements.<br /></p><p><a href="https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835">Read more...</a></p>
+
+## Six Basic Knife Techniques Everyone Should Know
+ - [https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kjj7VCWG--/c_fit,fl_progressive,q_80,w_636/c394d025a0fb836b327a128cbcafcefa.jpg" /><p>Like storytelling, cooking skills are often passed down from family. You mosey into the kitchen as a kid and watch your parents cut, stir, cook, and bake a few times a day, and that’s how you  do it yourself later in life. While there’s nothing necessarily wrong with the knife techniques you grew up with, there’s a…</p><p><a href="https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702">Read more...</a></p>
+
+## What to Do When One Child Thinks They’re the ‘Bad Kid’
+ - [https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--pc5qGplf--/c_fit,fl_progressive,q_80,w_636/be66e3b0e5c98f55370e96fca35f5722.jpg" /><p>It can happen innocently enough. One child is a determined rule-follower, the other is a risk-taker. The oldest is a leader, the youngest is a clown, and the middle child is insecure. You slyly refer to one as a “princess” and the other as a “daredevil.” Before you know it, the stereotypes and labels have stuck,…</p><p><a href="https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233">Read more...</a></p>
+
+## The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat
+ - [https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--iouwo2WG--/c_fit,fl_progressive,q_80,w_636/5e007ca38eb5de71406848d070c33618.jpg" /><p>The <a href="https://www.idrlabs.com/food-disgust/test.php" rel="noopener noreferrer" target="_blank">Food Disgust Test</a> is the latest silly way to waste time online, and like any good test, it reveals things about ourselves we may never have thought to question. Is it gross to be served a fish with its head on? Do you eat bananas with black spots on the peel? </p><p><a href="https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121">Read more...</a></p>
+
+## Why Clothing Subscription Boxes Are Basically Pointless
+ - [https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Ik6jcUR4--/c_fit,fl_progressive,q_80,w_636/c8c81db64a0b0884100e553c938b4a59.jpg" /><p>One struggle shared by just about every adult is buying clothes. It comes in different forms. Some folks are very fashion-forward but <a href="https://lifehacker.com/how-to-stop-wasting-money-on-clothes-1818850584" target="_blank">struggle with their clothing budget</a>; others developed a personal style during four inebriated years of high school and have no clue how to actually dress as an adult. But whatever your…</p><p><a href="https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337">Read more...</a></p>
+
+## If You Haven't Had a Cheese Fries Omelette, Have You Even Lived?
+ - [https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 12:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--D8pwX1Og--/c_fit,fl_progressive,q_80,w_636/ca2621cab6c3feddc32ac10a668d7327.jpg" /><p>While I cook up “whole” foods and balanced meals even, nothing can keep me from participating in snack culture–including, but not limited to, <a href="https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890" target="_blank">fast food</a>, <a href="https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507" target="_blank">salted gummy candy</a>, and the entire world of frozen potatoes. It turns out you can actually wrap your snack potatoes in eggs (a whole food, no less) and make it a…</p><p><a href="https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856">Read more...</a></p>
+
+## All the Ways Airbnb Hosts Deceive You
+ - [https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-24 12:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--jiQ272Fj--/c_fit,fl_progressive,q_80,w_636/4945650f55189cf9fdf0c32308f4a27c.jpg" /><p>Short-term rental platforms are here to stay—and when you think of short-term renting, you think of <a href="https://www.airbnb.com/s/Hoboken--NJ-07030--USA/homes?tab_id=home_tab&amp;refinement_paths%5B%5D=%2Fhomes&amp;flexible_trip_lengths%5B%5D=one_week&amp;price_filter_input_type=0&amp;price_filter_num_nights=5&amp;channel=EXPLORE&amp;query=Hoboken%2C%20NJ%2007030&amp;place_id=ChIJLWKydmFXwokRV-_6Tb6bg78&amp;date_picker_type=calendar&amp;checkin=2023-05-01&amp;checkout=2023-05-05&amp;source=structured_search_input_header&amp;search_type=autocomplete_click" rel="noopener noreferrer" target="_blank">Airbnb</a>. But there are a growing number of reasons to <a href="https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351" target="_blank">avoid Airbnb like the plague</a>. Aside from rising prices and poor customer service, Airbnb has been accused of <a href="https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834" target="_blank">destroying neighborhoods</a> and <a href="https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842" target="_blank">not respecting your privacy…</a></p><p><a href="https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710">Read more...</a></p>
+

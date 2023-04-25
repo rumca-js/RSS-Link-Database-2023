@@ -1,0 +1,36 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## Arm reportedly set to make prototype chip ahead of IPO
+ - [https://www.computerworld.com/article/3694451/arm-reportedly-set-to-make-prototype-chip-ahead-of-ipo.html#tk.rss_all](https://www.computerworld.com/article/3694451/arm-reportedly-set-to-make-prototype-chip-ahead-of-ipo.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-24 17:15:00+00:00
+
+<article>
+	<section class="page">
+<p>UK-based semiconductor design company Arm is reportedly looking to team up with manufacturing partners to develop its own prototype semiconductor, targeted for use in mobile devices, laptops and other electronics.</p><p>The prototype chips are meant to showcase advances that the company is making, in an attempt to increase the company’s value and attract new customers ahead of its expected IPO later this year, according to a <a href="https://www.ft.com/content/72897dde-2d84-48b1-8bd7-390e66049d40" rel="nofollow">report in the Financial Times</a>, citing multiple sources at the company</p><p>Arm has created a new solutions engineering team to lead the development of the new prototype chips, according to the report. The team will be headed up by Kevork Kechichian, who joined Arm back in February of this year and who previously oversaw the development of the Snapdragon chip at Qualcomm.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3694451/arm-reportedly-set-to-make-prototype-chip-ahead-of-ipo.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Kandji explains its new Endpoint Detection and Response tools
+ - [https://www.computerworld.com/article/3694448/kandji-explains-its-new-endpoint-detection-and-response-tools.html#tk.rss_all](https://www.computerworld.com/article/3694448/kandji-explains-its-new-endpoint-detection-and-response-tools.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-24 14:02:00+00:00
+
+<article>
+	<section class="page">
+<p>The Apple-focused enterprise solutions provider ecosystem is <a href="https://www.computerworld.com/article/3692916/fleet-announces-open-source-cross-platform-mdm-solution.html">growing apace</a> to match the <a href="https://www.computerworld.com/article/3689888/for-apples-enterprise-success-endpoint-management-is-the-new-black.html">rapidly expanding need</a> of enterprise IT. Jamf recently introduced a new <a href="https://www.computerworld.com/article/3694191/jamf-debuts-sophisticated-security-protection-for-executive-iphones.html">anti-spyware solution</a> for high-value targets. Today, competitor Kandji officially introduced its <a href="https://www.kandji.io/endpoint-detection-response/" rel="noopener nofollow" target="_blank">Endpoint Detection &amp; Response (EDR)</a>) solution, which aims to fight malware on the Mac.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3694448/kandji-explains-its-new-endpoint-detection-and-response-tools.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## IT staffers would help colleagues avoid monitoring software
+ - [https://www.computerworld.com/article/3694134/it-staffers-would-help-colleagues-avoid-monitoring-software.html#tk.rss_all](https://www.computerworld.com/article/3694134/it-staffers-would-help-colleagues-avoid-monitoring-software.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-24 10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>The use of invasive monitoring software that tracks employee productivity is <a href="https://www.computerworld.com/article/3652513/employee-monitoring-risks-spiraling-out-of-control-union-group-warns.html">unlikely to be popular with workers</a> — and it turns out IT staffers aren’t keen on deploying the technology either.</p><p>In fact, many IT workers are apparently willing to defy company policy and help colleagues find workarounds to avoid being spied on by the boss. That’s according to a <a href="https://www.1e.com/newsroom/press-releases/it-managers-reveal-harsh-realities-about-surveillance-technology-survey-says-87-have-seen-negative-impacts-on-workers/" rel="nofollow noopener" target="_blank">survey of 500 IT managers and 500 non-manager IT workers in the US</a> conducted by Wakefield Research on behalf of digital employee experience software vendor 1E. The survey results were made public last week. </p><p class="jumpTag"><a href="https://www.computerworld.com/article/3694134/it-staffers-would-help-colleagues-avoid-monitoring-software.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Google’s Bard AI to take on GitHub Copilot and Amazon CodeWhisperer
+ - [https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html#tk.rss_all](https://www.infoworld.com/article/3694158/google-s-bard-ai-to-take-on-github-copilot-and-amazon-codewhisperer.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-04-24 09:23:00+00:00
+
+Google’s generative AI offering is now capable of helping developers write and debug code in 20 programming languages including Python and Typescript, the company said.
+
