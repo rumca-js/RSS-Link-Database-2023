@@ -1,0 +1,20 @@
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
+
+## Vietnam: More factories in China are moving to and population to hit 100M/Why it rise quickly?
+ - [https://www.youtube.com/watch?v=lEda7hbFcGQ](https://www.youtube.com/watch?v=lEda7hbFcGQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2023-04-25 18:30:07+00:00
+
+#Chinainsights
+It can be seen that the U.S. is trying to build an alliance in Southeast Asia to confront the CCP and deter possible military action by Beijing against Taiwan. Many Southeast Asian countries are reluctant to confront the CCP directly. This is because China is not only a military power but also an important trade partner and source of investment for these countries. If the U.S.-Vietnam relationship succeeds in deepening, it will have important implications for the strategy in Washington. 
+It can be argued that Vietnam's rise is due to not only its government making choices close to public opinion in recent years, but also seizing the rare opportunity of the world decoupling from communist China. 
+
+Have questions? Do you have something to share with us about China? We want to hear from you! 
+Email: Cinsights.subscription@gmail.com
+Facebook www.facebook.com/EyesOnChina.
+
+Your support allows us to produce more high-quality videos. 
+Consider donating at https://www.paypal.com/paypalme/ChinaInsights
+
+Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+
