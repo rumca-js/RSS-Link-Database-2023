@@ -1,0 +1,114 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## What's New on Prime Video and Freevee in May 2023
+ - [https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--n2QrUbCC--/c_fit,fl_progressive,q_80,w_636/69420994e76ce7c06743cdca8fd336f6.png" /><p>Amazon’s Prime Video is known to have some of the deepest pockets in the streaming biz, having recently spent more than $140 million <a href="https://www.hollywoodreporter.com/business/business-news/inside-amazon-studios-jen-salke-vision-shows-1235364913/" rel="noopener noreferrer" target="_blank">on <em>Daisy Jones &amp; the Six</em></a>, $175 million <a href="https://winteriscoming.net/2023/04/06/amazon-insider-says-the-peripheral-should-have-been-canceled" rel="noopener noreferrer" target="_blank">on <em>The Peripheral</em></a>, and $465 million <a href="https://screenrant.com/rings-power-big-budget-kills-creativity-problem/" rel="noopener noreferrer" target="_blank">on <em>The Lord of the Rings: The Rings of Power</em></a>. But even Rich Uncle Pennybags needs to skip a turn once in a…</p><p><a href="https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975">Read more...</a></p>
+
+## These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies
+ - [https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--p1zRA-BX--/c_fit,fl_progressive,q_80,w_636/3c8a15b558200446bbd208148853e71f.jpg" /><p>Car insurance companies don’t take unnecessary risks—and now, for State Farm and Progressive, many Hyundais and Kias are a risk they are not willing to take, at least temporarily. The reason? That same <a href="https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943" target="_blank">viral TikTok trend</a> from the “<a href="https://www.tiktok.com/discover/the-kia-boyz?lang=en" rel="noopener noreferrer" target="_blank">Kia Boyz</a>” we covered back in February, in which users learned how to easily hot-wire the…</p><p><a href="https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633">Read more...</a></p>
+
+## Some Melatonin Gummies Are Way Stronger Than Advertised
+ - [https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7MQOFYXo--/c_fit,fl_progressive,q_80,w_636/541e13c98b53e68749c106ae5be31fc7.jpg" /><p>If you’ve ever felt like your melatonin gummies hit harder than you expected, it’s possible that you didn’t actually take the dose you thought you did. In a <a href="https://jamanetwork.com/journals/jama/fullarticle/2804077?guestAccessKey=b7ac1490-fafb-4eaf-b260-70504ef15062&amp;utm_source=For_The_Media&amp;utm_medium=referral&amp;utm_campaign=ftm_links&amp;utm_content=tfl&amp;utm_term=042523" rel="noopener noreferrer" target="_blank">recent study</a>, melatonin gummies labeled as containing 3 milligrams actually had anywhere between 3.6 milligrams and a whopping 10.4, depending on brand.<br /></p><p><a href="https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023">Read more...</a></p>
+
+## This App Lets You Search for Everything You’ve Ever Done on Your Mac
+ - [https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--MA57FD_j--/c_fit,fl_progressive,q_80,w_636/c7d467e52e02114b453a33669aa08973.jpg" /><p>When you keep shuffling between browser tabs, meetings, and tasks on your Mac, it’s easy to lose track of a few important things. You may have referenced a document that contained an important quote for a blog post, or heard an insightful comment during a meeting but forgot to save it. <a href="https://www.rewind.ai/" rel="noopener noreferrer" target="_blank">Rewind</a> is an app that can help…</p><p><a href="https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648">Read more...</a></p>
+
+## Nobody Can Agree on What 'Zone 2' Cardio Is
+ - [https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--KRfLtYwW--/c_fit,fl_progressive,q_80,w_636/2ff3ac671f024c2e948dad2bb0c1e56a.jpg" /><p>“Zone 2” is the name the fitness world has (mostly) agreed upon to describe <a href="https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966" target="_blank">the low intensity cardio most of us <em>should</em> be doing</a>. When you’re in zone 2, you’re working hard enough that you start breathing heavier, but easy enough you could hold a conversation. You stop a zone 2 session because your workout time is up,…</p><p><a href="https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968">Read more...</a></p>
+
+## Why You Might Actually Want a Grass Driveway
+ - [https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--4EMkWs-5--/c_fit,fl_progressive,q_80,w_636/ef8aad0eceee409e91e5002d3293299e.jpg" /><p>Cost-effective, erosion-proof, and chemical-corralling, the mighty grass driveway doesn’t get the respect it deserves. But if you have rainwater rushing down your gravel driveway, washing away dirt or leaving trenches in its wake, it might be the solution for you. Using a system of interlocking pavers, a grass…</p><p><a href="https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480">Read more...</a></p>
+
+## Why You Should Wear Wireless Earbuds to Your Next Concert
+ - [https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--hUztzzqc--/c_fit,fl_progressive,q_80,w_636/00c9dc651c670886687ca87ae696d253.jpg" /><p>Buzzkills everywhere agree: Fun as they are, attending a loud concert can damage your hearing. Plenty of venues are obnoxiously loud, and you could <a href="https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html" rel="noopener noreferrer" target="_blank">experience symptoms of hearing loss within just five minutes</a> of exposure the cacophony. <br /><br />But if you’re someone who frequents live music gigs, your wireless earbuds can help…</p><p><a href="https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535">Read more...</a></p>
+
+## Why Haven't You Wrapped Your Cookies in Phyllo Dough?
+ - [https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 16:43:19+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6m51GDS---/c_fit,fl_progressive,q_80,w_636/2350a2194707606568202d4f25796bf1.jpg" /><p>Cookies are the perfect treat, and each one is valuable to society. And yet, I’ve recently unwittingly stumbled upon an outstanding way to improve almost any cookie. To experience an otherworldly crunch phenomenon, simply wrap your drop cookies in phyllo dough.<br /></p><p><a href="https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391">Read more...</a></p>
+
+## When Can You Legally Shoot Someone on Your Property?
+ - [https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ToTsHRh6--/c_fit,fl_progressive,q_80,w_636/409d5d30efb83eb1221706b79f0e16af.jpg" /><p>I don’t know if it’s a coincidence or evidence of a disturbing cultural trend, but a lot of people seem to be shooting people for really dumb reasons lately. There’s the guy in Kansas City <a href="https://www.cnn.com/2023/04/17/us/kansas-city-teen-shot-wrong-house/index.html" rel="noopener noreferrer" target="_blank">who allegely blasted a kid for ringing his doorbell</a>, the man in Florida who is reported to have opened fire on a six-year-old for <a href="https://abcnews.go.com/US/6-year-parents-neighbor-shot-after-basketball-rolls/story?id=98717589" rel="noopener noreferrer" target="_blank">…</a></p><p><a href="https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021">Read more...</a></p>
+
+## Your Ground Cumin May Have Been Recalled for Salmonella
+ - [https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7HzLHgl3--/c_fit,fl_progressive,q_80,w_636/1cf496d0a18dd94eef9afe518a37880e.jpg" /><p>The food distributor <a href="https://liparifoods.com/" rel="noopener noreferrer" target="_blank">Lipari Foods</a> has issued a voluntary recall after a specific lot of Lipari Branded Ground Cumin Tubs was found to potentially have been contaminated with Salmonella<em> </em>and was distributed to 16 states. Salmonella<em> </em>can cause serious or fatal infections to young children, elderly people, or those with a…</p><p><a href="https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635">Read more...</a></p>
+
+## You Can Stop Training ChatGPT With Your Questions and Conversations
+ - [https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--GLxdZwaL--/c_fit,fl_progressive,q_80,w_636/eebf5c6b969ee5cc8411d5b38bcca48e.jpg" /><p>Every time you interact with <a href="https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802" target="_blank">ChatGPT</a>, you’re actually training it to be better. It takes your conversations and uses that experience to make future conversations more useful and accurate for everyone. That’s a good thing for both ChatGPT, as well as anyone who wants to see their chats with the bot improve overtime. As…</p><p><a href="https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821">Read more...</a></p>
+
+## These Towns Will Pay You to Move There
+ - [https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065](https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--R5FjNSg3--/c_fit,fl_progressive,q_80,w_636/d2d903b3725f8675b01e0edfd2bfa368.jpg" /><p>We live in a divided world, but one thing most people can agree on right now is that the cost of housing is way too high. <a href="https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/" rel="noopener noreferrer" target="_blank">Home prices have slipped a bit</a>, but home prices, mortgage rates, and rents remain sky-high in a lot of places, and a lot of people—especially younger folks—are despairing of ever <a href="https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630" target="_blank">owning a home</a>.…</p><p><a href="https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065">Read more...</a></p>
+
+## What Most People Miss When Doing a Tick Check
+ - [https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780](https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3HIHNp-h--/c_fit,fl_progressive,q_80,w_636/229c2025b0c81c6e2b2bedb905b95220.jpg" /><p>As tick populations grow (<a href="https://www.epa.gov/climate-indicators/climate-change-indicators-lyme-disease" rel="noopener noreferrer" target="_blank">thanks, climate change</a>) and <a href="https://lifehacker.com/know-the-symptoms-of-these-tick-borne-diseases-1836217979" target="_blank">tickborne diseases</a> like Lyme <a href="https://www.cdc.gov/lyme/datasurveillance/lyme-disease-maps.html" rel="noopener noreferrer" target="_blank">become more widespread</a>, tick checks have become routine for a lot of us. But do you really know what it means to “check yourself for ticks”? Chances are, you’re missing some important parts of the process.</p><p><a href="https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780">Read more...</a></p>
+
+## Mustard Is the Key to More Flavorful Breading
+ - [https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--13DkBOgO--/c_fit,fl_progressive,q_80,w_636/de7b3950371a1a8cb4205facacd983ca.jpg" /><p>I love breading. I find the crispness of good breading can make otherwise mundane weeknight dishes a little elevated. A lightly breaded trout filet, a pork chop with a crispy side, a chicken breast with a little crunch.</p><p><a href="https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057">Read more...</a></p>
+
+## The Easiest Way to Make Your Salad Less Boring
+ - [https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 12:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--34rN7n_I--/c_fit,fl_progressive,q_80,w_636/76342a56e5c45535756b5a75892d3e8d.jpg" /><p>I get produce paralysis. Despite the world of salads being so incredibly diverse, somehow I’ll make the same one week after week, even if I’m bored of it. But after flipping through an <a href="https://www.reddit.com/r/VintageMenus/comments/12w9cet/a_multitude_of_salads_at_chateau_lake_louise/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;utm_content=1&amp;utm_term=15" rel="noopener noreferrer" target="_blank">old salad cookbook</a> listing ingredients with no measurements, I remembered that recipes ain’t the boss of me. You can create a whole…</p><p><a href="https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567">Read more...</a></p>
+
+## How to Help Your Child Build Frustration Tolerance
+ - [https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-04-27 12:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kIY8VvWP--/c_fit,fl_progressive,q_80,w_636/74647def0e831c5bc3531a1b19cb65bf.jpg" /><p><a href="https://lifehacker.com/where-to-start-when-it-feels-like-nothing-is-going-righ-1640250197" target="_blank">Life doesn’t always go your way</a>. This is one of the hardest and most universal lessons we learn as we move out of toddlerhood and into childhood and later adulthood. While it’s normal for a small child to throw a tantrum when they don’t get what they want when they want it, as kids get bigger, the ability to tolerate…</p><p><a href="https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876">Read more...</a></p>
+
