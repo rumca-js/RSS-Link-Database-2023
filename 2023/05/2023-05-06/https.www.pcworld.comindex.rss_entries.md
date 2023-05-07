@@ -1,0 +1,47 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Level up your IT and cybersecurity skills with one of the web’s top resources
+ - [https://www.pcworld.com/article/1807340/level-up-your-it-and-cybersecurity-skills-with-one-of-the-webs-top-resources.html](https://www.pcworld.com/article/1807340/level-up-your-it-and-cybersecurity-skills-with-one-of-the-webs-top-resources.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-06 08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you want to succeed in the competitive fields of IT and cybersecurity, you need to earn some of the world&rsquo;s most in-demand certifications. Don&rsquo;t know where to start? Cast a wide net with <a href="https://shop.pcworld.com/sales/the-complete-2023-cyber-security-developer-it-skills-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-complete-2023-cyber-security-developer-it-skills-bundle&amp;utm_term=scsf-570123&amp;utm_content=a0x1P000004IXJpQAO&amp;scsonar=1" rel="noreferrer noopener" target="_blank">The Complete 2023 Cyber Security Developer &amp; IT Skills Bundle</a>.</p>
+
+
+
+<p>This extensive bundle includes 26 courses from iCollege, one of the world&rsquo;s leading marketplaces for online learning, trusted by organizations in Silicon Valley and the Fortune 500. This massive bundle includes generic training in things like mobile security, penetration testing, hacking, disaster recovery, and more to help you gain a strong foundation in all things IT and cybersecurity.</p>
+
+
+
+<p>More importantly, though, the bundle includes courses aimed to help you earn some of the industry&rsquo;s most coveted certifications. From CompTIA and NIST to Microsoft, Cisco, and more, you&rsquo;ll be able to build your resume for today and beyond.</p>
+
+
+
+<p>Raise your earning potential. Right now, you can get <a href="https://shop.pcworld.com/sales/the-complete-2023-cyber-security-developer-it-skills-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-complete-2023-cyber-security-developer-it-skills-bundle&amp;utm_term=scsf-570123&amp;utm_content=a0x1P000004IXJpQAO&amp;scsonar=1" rel="noreferrer noopener" target="_blank">The Complete 2023 Cyber Security Developer &amp; IT Skills Bundle</a> for just $79.99 &mdash; best price on the web!</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/the-complete-2023-cyber-security-developer-it-skills-bundle?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=the-complete-2023-cyber-security-developer-it-skills-bundle&amp;utm_term=scsf-570123&amp;utm_content=a0x1P000004IXJpQAO&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp1.stackassets.com/b3890b4b92b4c76dfc40a2998be41b72f96d5006/store/41201ea78a9327dc829933d908ef970ea4175d8873482c5f7e61d30f124f/sale_317227_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>The Complete 2023 Cyber Security Developer &amp; IT Skills Bundle &ndash; $79.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/the-complete-2023-cyber-security-developer-it-skills-bundle?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=the-complete-2023-cyber-security-developer-it-skills-bundle&amp;utm_term=scsf-570123&amp;utm_content=a0x1P000004IXJpQAO&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices subject to change.</p>
+
+Computer Components</div>
+
