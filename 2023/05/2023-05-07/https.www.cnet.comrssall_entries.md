@@ -1,0 +1,149 @@
+# Source:CNET, URL:https://www.cnet.com/rss/all/, language:en-US
+
+## Best Father's Day Gifts You Can Get on Amazon     - CNET
+ - [https://www.cnet.com/tech/home-entertainment/best-fathers-day-gifts-you-can-find-on-amazon/#ftag=CADf328eec](https://www.cnet.com/tech/home-entertainment/best-fathers-day-gifts-you-can-find-on-amazon/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 20:40:03+00:00
+
+Make this Father's Day a special one with an epic gift for your favorite guy.
+
+## Pixel Fold Confirmed: See Google's First Foldable Phone Before I/O     - CNET
+ - [https://www.cnet.com/tech/mobile/pixel-fold-confirmed-see-googles-first-foldable-phone-before-io/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/pixel-fold-confirmed-see-googles-first-foldable-phone-before-io/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 18:30:07+00:00
+
+Google I/O is this Wednesday, and the tech giant will reveal more details then.
+
+## A Psychologist Reveals 5 Types of 'Sleep Languages': What's Yours?     - CNET
+ - [https://www.cnet.com/health/sleep/a-psychologist-reveals-5-types-of-sleep-languages-whats-yours/#ftag=CADf328eec](https://www.cnet.com/health/sleep/a-psychologist-reveals-5-types-of-sleep-languages-whats-yours/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 17:30:02+00:00
+
+Learning your "sleep language" can help get more shut-eye. Here's how to speak yours.
+
+## Is Blue Apron Cheaper Than Buying Groceries Yourself?     - CNET
+ - [https://www.cnet.com/health/nutrition/is-blue-apron-cheaper-than-buying-groceries-yourself/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/is-blue-apron-cheaper-than-buying-groceries-yourself/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 17:00:07+00:00
+
+We crunched the numbers to see how much Blue Apron meal kits cost versus cooking from scratch.
+
+## Formula 1 Racing 2023: How to Watch and Livestream the Miami GP Today     - CNET
+ - [https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-miami-gp-today/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/formula-1-racing-2023-how-to-watch-and-livestream-the-miami-gp-today/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 17:00:03+00:00
+
+Red Bull has won every race so far this year, as the team lands in Florida for the second-ever Miami GP. Here's how to watch without cable.
+
+## 7 Months in With the iPhone 14 Pro: The Good, Bad and Great     - CNET
+ - [https://www.cnet.com/tech/mobile/7-months-in-with-the-iphone-14-pro-the-good-bad-and-great/#ftag=CADf328eec](https://www.cnet.com/tech/mobile/7-months-in-with-the-iphone-14-pro-the-good-bad-and-great/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 16:21:30+00:00
+
+The rumored iPhone 15 is months away, but we check in on the state of the iPhone 14 Pro seven months after its release.
+
+## Stop Paying for Moving Boxes. You Can Get Them for Free     - CNET
+ - [https://www.cnet.com/how-to/stop-paying-for-moving-boxes-you-can-get-them-for-free/#ftag=CADf328eec](https://www.cnet.com/how-to/stop-paying-for-moving-boxes-you-can-get-them-for-free/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 16:00:18+00:00
+
+Free cardboard boxes are easy to find if you know where to look.
+
+## Qcells Solar Review: A Solid Manufacturer Expanding Its Reach     - CNET
+ - [https://www.cnet.com/news/qcells-solar-review-a-solid-manufacturer-expanding-its-reach/#ftag=CADf328eec](https://www.cnet.com/news/qcells-solar-review-a-solid-manufacturer-expanding-its-reach/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 16:00:00+00:00
+
+Many of the solar panels on American roofs are manufactured by Qcells, and the company also offers a complete home solar system package deserving of a closer look.
+
+## iOS 16.4.1 (a): How to Download Apple's Rapid Security Response     - CNET
+ - [https://www.cnet.com/tech/services-and-software/ios-16-4-1-a-how-to-download-apples-rapid-security-response/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/ios-16-4-1-a-how-to-download-apples-rapid-security-response/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 15:30:02+00:00
+
+Here's everything you need to know about this new type of iPhone update.
+
+## This Common Piece of Clothing Is the Secret to Good Sleep     - CNET
+ - [https://www.cnet.com/health/sleep/this-common-piece-of-clothing-is-the-secret-to-good-sleep/#ftag=CADf328eec](https://www.cnet.com/health/sleep/this-common-piece-of-clothing-is-the-secret-to-good-sleep/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 15:00:09+00:00
+
+Turns out, the key to quality sleep is sitting in your sock drawer.
+
+## Allergy-Proof Your Bedroom With These Tips and Tricks     - CNET
+ - [https://www.cnet.com/health/sleep/allergy-proof-your-bedroom-with-these-tips-and-tricks/#ftag=CADf328eec](https://www.cnet.com/health/sleep/allergy-proof-your-bedroom-with-these-tips-and-tricks/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 15:00:02+00:00
+
+Allergies have no place in your bedroom. Here's how to clear them out.
+
+## Google I/O Is This Week: What to Expect and How to Watch Live     - CNET
+ - [https://www.cnet.com/tech/google-io-is-this-week-what-to-expect-and-how-to-watch-live/#ftag=CADf328eec](https://www.cnet.com/tech/google-io-is-this-week-what-to-expect-and-how-to-watch-live/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 14:30:09+00:00
+
+Google already teased the Pixel Fold, but that's not all we expect to see.
+
+## This Upgraded M1 MacBook Pro Is Almost $1,000 Off Today at Woot     - CNET
+ - [https://www.cnet.com/deals/this-upgraded-m1-macbook-pro-is-almost-1000-off-today-at-woot/#ftag=CADf328eec](https://www.cnet.com/deals/this-upgraded-m1-macbook-pro-is-almost-1000-off-today-at-woot/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 14:30:00+00:00
+
+With seriously powerful hardware, this 2021 MacBook Pro can even compete with some of the latest models, and today only, it's on sale for $2,500.
+
+## Try Coffees From Around The World With 50% Off Atlas Coffee Club Pods     - CNET
+ - [https://www.cnet.com/deals/try-coffees-from-around-the-world-with-50-off-atlas-coffee-club-pods/#ftag=CADf328eec](https://www.cnet.com/deals/try-coffees-from-around-the-world-with-50-off-atlas-coffee-club-pods/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 14:00:02+00:00
+
+Get unique, convenient and delicious single-serve coffee pods shipped to your front door, and the first delivery is half off right now.
+
+## Watch Premier League Soccer: Livestream Newcastle United vs. Arsenal From Anywhere     - CNET
+ - [https://www.cnet.com/tech/services-and-software/watch-premier-league-soccer-livestream-newcastle-united-vs-arsenal-from-anywhere/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/watch-premier-league-soccer-livestream-newcastle-united-vs-arsenal-from-anywhere/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 13:30:07+00:00
+
+Crunch game sees top-four hopefuls host the title-chasing Gunners at St James' Park.
+
+## Why Back and Forth Is the Wrong Way to Vacuum Your Home     - CNET
+ - [https://www.cnet.com/how-to/why-back-and-forth-is-the-wrong-way-to-vacuum-your-home/#ftag=CADf328eec](https://www.cnet.com/how-to/why-back-and-forth-is-the-wrong-way-to-vacuum-your-home/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 13:30:02+00:00
+
+Yeah, you've probably been vacuuming wrong your entire life.
+
+## Help Your Robot Vacuum Clean Even Better by Doing These 5 Things     - CNET
+ - [https://www.cnet.com/how-to/help-your-robot-vacuum-clean-even-better-by-doing-these-5-things/#ftag=CADf328eec](https://www.cnet.com/how-to/help-your-robot-vacuum-clean-even-better-by-doing-these-5-things/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 13:00:12+00:00
+
+Obstacles like cords and carpets can prevent your robot vacuum from cleaning its best. Here's what to do to get better results.
+
+## Counting Calories Isn't the Easy Weight Loss Hack You May Think It Is     - CNET
+ - [https://www.cnet.com/health/nutrition/counting-calories-isnt-the-easy-weight-loss-hack-you-may-think-it-is/#ftag=CADf328eec](https://www.cnet.com/health/nutrition/counting-calories-isnt-the-easy-weight-loss-hack-you-may-think-it-is/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 12:30:02+00:00
+
+Health isn't quite as simple as just calories in versus calories out.
+
+## Moving? Make Extra Cash by Selling Unwanted Items First     - CNET
+ - [https://www.cnet.com/how-to/moving-make-extra-cash-by-selling-unwanted-items-first/#ftag=CADf328eec](https://www.cnet.com/how-to/moving-make-extra-cash-by-selling-unwanted-items-first/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 12:15:02+00:00
+
+Don't pay to move stuff you don't want.
+
+## Best Internet Providers in Colorado Springs, Colorado     - CNET
+ - [https://www.cnet.com/news/best-internet-providers-in-colorado-springs/#ftag=CADf328eec](https://www.cnet.com/news/best-internet-providers-in-colorado-springs/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 12:00:09+00:00
+
+Discover more about the area's broadband options, including Xfinity, T-Mobile Home Internet and CenturyLink.
+
+## Transform Your Old Camera to Give You Stunning Photos     - CNET
+ - [https://www.cnet.com/tech/computing/transform-your-old-camera-to-give-you-stunning-photos/#ftag=CADf328eec](https://www.cnet.com/tech/computing/transform-your-old-camera-to-give-you-stunning-photos/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2023-05-07 12:00:02+00:00
+
+I converted my obsolete Canon 6D DSLR to shoot infrared and I absolutely love the results.
+
