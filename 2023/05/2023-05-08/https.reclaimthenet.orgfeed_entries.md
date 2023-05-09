@@ -1,0 +1,18 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## Court Thinks Senator Warren’s Attempt To “Persuade” Amazon To Ban Books Doesn’t Violate First Amendment
+ - [https://reclaimthenet.org/warren-mercola-amazon-book-ban-demands-ruling-1a](https://reclaimthenet.org/warren-mercola-amazon-book-ban-demands-ruling-1a)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-05-08 00:44:16+00:00
+
+<a href="https://reclaimthenet.org/warren-mercola-amazon-book-ban-demands-ruling-1a" rel="nofollow" title="Court Thinks Senator Warren&#8217;s Attempt To &#8220;Persuade&#8221; Amazon To Ban Books Doesn&#8217;t Violate First Amendment"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/05/warren-ruling-b.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>In the court's opinion, her demands did not cross "the constitutional line between persuasion and coercion."</p>
+<p>The post <a href="https://reclaimthenet.org/warren-mercola-amazon-book-ban-demands-ruling-1a" rel="nofollow">Court Thinks Senator Warren&#8217;s Attempt To &#8220;Persuade&#8221; Amazon To Ban Books Doesn&#8217;t Violate First Amendment</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## World Economic Forum-Affiliated Pro-Censorship Group Is Hit With House Panel Subpoena
+ - [https://reclaimthenet.org/garm-wfa-subpoena](https://reclaimthenet.org/garm-wfa-subpoena)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-05-08 00:11:52+00:00
+
+<a href="https://reclaimthenet.org/garm-wfa-subpoena" rel="nofollow" title="World Economic Forum-Affiliated Pro-Censorship Group Is Hit With House Panel Subpoena"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/05/censor-group-sub.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>After failing to provide documents on request.</p>
+<p>The post <a href="https://reclaimthenet.org/garm-wfa-subpoena" rel="nofollow">World Economic Forum-Affiliated Pro-Censorship Group Is Hit With House Panel Subpoena</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
