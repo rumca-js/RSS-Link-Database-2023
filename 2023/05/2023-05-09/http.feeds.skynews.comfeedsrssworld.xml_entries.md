@@ -1,0 +1,79 @@
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
+
+## Ireland fails to qualify for grand final of Eurovision Song Contest
+ - [https://news.sky.com/story/ireland-fails-to-qualify-for-grand-final-of-eurovision-song-contest-12877374](https://news.sky.com/story/ireland-fails-to-qualify-for-grand-final-of-eurovision-song-contest-12877374)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 21:10:00+00:00
+
+Ireland has failed to qualify for the grand final of the Eurovision Song Contest, despite the best efforts of Wild Youth.
+
+## Britain would 'welcome' intervention by China to bring peace in Ukraine, says James Cleverly
+ - [https://news.sky.com/story/britain-would-welcome-intervention-by-china-to-bring-peace-in-ukraine-says-james-cleverly-12877305](https://news.sky.com/story/britain-would-welcome-intervention-by-china-to-bring-peace-in-ukraine-says-james-cleverly-12877305)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 18:57:00+00:00
+
+The foreign secretary has said he would "welcome" any intervention by China that could help bring the war between Russia and Ukraine to an end.
+
+## Explosions sound over Kyiv as Russia marks Victory Day - but nightly strikes fail to break Ukraine's resolve
+ - [https://news.sky.com/story/explosions-sound-over-kyiv-as-russia-marks-victory-day-but-nightly-strikes-fail-to-break-ukraines-resolve-12877213](https://news.sky.com/story/explosions-sound-over-kyiv-as-russia-marks-victory-day-but-nightly-strikes-fail-to-break-ukraines-resolve-12877213)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 15:34:00+00:00
+
+As dawn broke, just hours before Russia's Victory Day parade, explosions sounded over the Ukrainian capital.
+
+## This was not a normal Victory Day - so many have bought into the Kremlin's narrative
+ - [https://news.sky.com/story/victory-day-this-was-not-a-normal-parade-with-many-having-bought-into-the-kremlins-narrative-12877178](https://news.sky.com/story/victory-day-this-was-not-a-normal-parade-with-many-having-bought-into-the-kremlins-narrative-12877178)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 14:50:00+00:00
+
+Victory Day parades in Russia generally see throngs of people lining the city's main thoroughfares, cheering on the tanks as they pass, the armoured vehicles and S-400 anti-aircraft systems and, the spectator's favourite, the fearsome YARS intercontinental ballistic missile capable of delivering a world-ending nuclear payload across the globe.
+
+## Putin's 'grotesque fictions' exposed on much-changed Victory Day
+ - [https://news.sky.com/story/putins-grotesque-fictions-exposed-on-much-changed-victory-day-which-shows-invasion-is-no-sequel-to-1945-triumph-12876980](https://news.sky.com/story/putins-grotesque-fictions-exposed-on-much-changed-victory-day-which-shows-invasion-is-no-sequel-to-1945-triumph-12876980)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 11:19:00+00:00
+
+It has been said the only glue that holds Russia together is the memory of its great victory over Nazi Germany.&#160;
+
+## Man kept father's dead body in freezer 'so he could talk to him'
+ - [https://news.sky.com/story/man-kept-fathers-dead-body-in-freezer-so-he-could-talk-to-him-12877023](https://news.sky.com/story/man-kept-fathers-dead-body-in-freezer-so-he-could-talk-to-him-12877023)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 11:03:00+00:00
+
+A man has been caught storing his dead father's body in his freezer.
+
+## Pakistan's former prime minister Imran Khan detained in Islamabad
+ - [https://news.sky.com/story/imran-khan-former-pakistani-prime-minister-detained-12876959](https://news.sky.com/story/imran-khan-former-pakistani-prime-minister-detained-12876959)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 09:49:00+00:00
+
+Imran Khan, the former prime minister of Pakistan, has been detained, local media has reported.
+
+## How does Russia's scaled-back Victory Day parade compare to previous years?
+ - [https://news.sky.com/story/how-does-russias-scaled-back-2023-victory-day-parade-compare-to-previous-years-12876949](https://news.sky.com/story/how-does-russias-scaled-back-2023-victory-day-parade-compare-to-previous-years-12876949)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 09:37:00+00:00
+
+Soldiers marching through the streets of Moscow, armoured vehicles rolling across Red Square and a rallying cry from Vladimir Putin talking of the West's "real war".
+
+## Thousands of women could be saved every year thanks to new way of treating bleeding
+ - [https://news.sky.com/story/new-approach-to-treating-severe-bleeding-after-childbirth-could-save-thousands-of-mothers-every-year-12876878](https://news.sky.com/story/new-approach-to-treating-severe-bleeding-after-childbirth-could-save-thousands-of-mothers-every-year-12876878)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 08:20:00+00:00
+
+A new method of treating women suffering severe bleeding after childbirth  reduces the number of maternal deaths by 60%, researchers have found.
+
+## Just one tank rolls through Moscow's Red Square for stripped back Victory Day parade
+ - [https://news.sky.com/story/vladimir-putin-says-a-war-has-been-unleashed-against-russia-in-stripped-down-victory-day-speech-in-moscow-12876869](https://news.sky.com/story/vladimir-putin-says-a-war-has-been-unleashed-against-russia-in-stripped-down-victory-day-speech-in-moscow-12876869)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 08:00:00+00:00
+
+Just one tank rolled through Moscow and no aircraft soared overhead as Vladimir Putin spoke at a stripped-down Victory Day parade in Red Square.
+
+## Israel kills three Islamic Jihad commanders in targeted Gaza strikes
+ - [https://news.sky.com/story/israel-kills-three-islamic-jihad-commanders-in-targeted-gaza-strikes-12876788](https://news.sky.com/story/israel-kills-three-islamic-jihad-commanders-in-targeted-gaza-strikes-12876788)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-09 04:19:00+00:00
+
+Israel has bombed the Gaza Strip overnight, killing three senior commanders of the Palestinian Islamic Jihad group.
+
