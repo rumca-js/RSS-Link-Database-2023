@@ -1,0 +1,121 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## Tame the Heat and Treat Your Thai Curry Like Pasta Sauce
+ - [https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--G3N4DLLa--/c_fit,fl_progressive,q_80,w_636/6d63a5c747eac6a425e2eb29a82cd0cb.jpg" /><p>I get it, Thai curry can be hot stuff. Maybe it was the pad gra-pao recipe you tried, or the surprise chili pepper in your takeout two years ago that made you throw in the towel forever, but I want to encourage you to try again. This time, however, I’m going to arm you with a method for controlling the spice on your…</p><p><a href="https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761">Read more...</a></p>
+
+## An Over-the-Counter Birth Control Pill Is (Probably) Coming Soon
+ - [https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--lmm7tm4y--/c_fit,fl_progressive,q_80,w_636/2304c918e85e2316766dd3ef54490bf8.jpg" /><p>The U.S.’s first over-the-counter birth control pill may be on its way. A panel of FDA advisors <a href="https://www.statnews.com/pharmalot/2023/05/10/fda-panel-votes-in-favor-of-the-first-ever-over-the-counter-birth-control-pill/" rel="noopener noreferrer" target="_blank">voted unanimously</a> to recommend approval of Opill, a progestin-only birth control pill that would be taken daily to prevent pregnancy. Contraceptive pills are already available over the counter in <a href="https://freethepill.org/otc-access-world-map" rel="noopener noreferrer" target="_blank">over 100 countries</a>.<br /></p><p><a href="https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516">Read more...</a></p>
+
+## How to Use Passkeys on Your iPhone or Mac
+ - [https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--lXgY4CFf--/c_fit,fl_progressive,q_80,w_636/0834b91da89bb9ed0d5018e872a2a2fc.png" /><p>A <a href="https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024">seamless login future</a> is coming for all Apple users. Starting with iOS 16 and macOS Ventura, Apple offers built-in support for passkeys. You can add these new cryptographically generated keys directly to your iCloud Keychain and they’ll sync across all your devices using end-to-end encryption. <br /><br />As long as a service,…</p><p><a href="https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402">Read more...</a></p>
+
+## This App Uses AI to Organize Your iPhone Photos
+ - [https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--H0n5Tmn2--/c_fit,fl_progressive,q_80,w_636/73ef68fa9eb35266681d6d4c55cb2dbd.jpg" /><p>I tend toward minimalism in the physical world, but when it comes to digital detritus, I could be featured on a special episode of <em>Hoarders</em>. I’m particularly bad with photos: I take a ton and delete none. I never get around to axing duplicates and blurry pictures either. My entire photo library basically just sits…</p><p><a href="https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061">Read more...</a></p>
+
+## Why You Should Try Color-Coding Your Clock
+ - [https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9PTIAOtL--/c_fit,fl_progressive,q_80,w_636/90d39e7d949dc63d0c439370098c9b23.jpg" /><p>The thing about productivity hacks is that everyone’s needs are different. You might function better through <a href="https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510" target="_blank">compartmentalizing</a>, or <a href="https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500" target="_blank">multitasking</a>, or finding small ways to <a href="https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307" target="_blank">reward yourself</a>. For people who operate better through visual cues, though, these methods aren’t always effective. Sure, you can write down your…</p><p><a href="https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961">Read more...</a></p>
+
+## How to Take Netflix Screenshots Even Though They Don't Want You To
+ - [https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--e20r8-IR--/c_fit,fl_progressive,q_80,w_636/ac53a827053886873e8cd5388edb6129.jpg" /><p>It’s a confusing frustration we’ve all encountered: You’re watching a show when suddenly you want to pause it and take a screenshot, maybe to create a meme or share a joke with a friend. But when you hit that screenshot button, all you get is a blank image, <em>maybe</em> with subtitles. This is a common issue across many…</p><p><a href="https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571">Read more...</a></p>
+
+## Dirty Martini Fried Chicken Is Giving Crunch
+ - [https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--D-Bdb4Pt--/c_fit,fl_progressive,q_80,w_636/0ea0309574a179b1ae13715f831800f6.jpg" /><p>My great love of olives is led me to create Dirty Martini Fried Chicken. I wanted another way to enjoy olives with chicken, and I didn’t care how it happened. So, I turned to alcohol. As fate (or science) would have it, olives and alcohol make a great team. For the crispiest, most flavorful crust on any fried food,…</p><p><a href="https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230">Read more...</a></p>
+
+## Peloton Is Recalling Millions of Bikes
+ - [https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YBL-A63r--/c_fit,fl_progressive,q_80,w_636/3f585b54b5ce8b21a955fd40e751f43a.jpg" /><p>Peloton has issued a <a href="https://support.onepeloton.com/hc/en-us/articles/14762167850260" rel="noopener noreferrer" target="_blank">voluntary recall</a> along with the <a href="https://www.cpsc.gov/Recalls/2023/Peloton-Recalls-Two-Million-Exercise-Bikes-Due-to-Fall-and-Injury-Hazards" rel="noopener noreferrer" target="_blank">United States Consumer Product Safety Commission</a> (CPSC) for their flagship product, the <a href="https://www.onepeloton.com/bike#:~:text=loved%20by%20millions-,PELOTON%20BIKE,-21%2C180%20REVIEWS" rel="noopener noreferrer" target="_blank">Original Peloton Bike</a>, after reports of dozens of riders falling and being injured. About 2.2 million of the bikes are being flagged, and the company is urging customers not to…</p><p><a href="https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672">Read more...</a></p>
+
+## You Can Literally Make It Rain on Your Mac's Desktop
+ - [https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455](https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--745nKpDl--/c_fit,fl_progressive,q_80,w_636/4136029eca9f65ec5c7b70ca89fbaf94.png" /><p>There’s a magic to the early days of any tech that’s lost as it becomes more mainstream. The Mac is a great example of that: When it was still struggling to keep up with Microsoft and Windows, Mac OS was a sandbox of fun ideas that didn’t really help you get any <em>work </em>done, but made using your Mac all the more fun.…</p><p><a href="https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455">Read more...</a></p>
+
+## What We’re Getting Wrong This Week: How Therapy Works
+ - [https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--a0c0egak--/c_fit,fl_progressive,q_80,w_636/1be16026dacb59932a0f2cd07205aa1e.png" /><p>We’re getting therapy all wrong.<br /></p><p><a href="https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868">Read more...</a></p>
+
+## Blend Spent Citrus Rinds Into a Cocktail Syrup
+ - [https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--dyZzbtr_--/c_fit,fl_progressive,q_80,w_636/f8433ec51eb6714ec0ad181d7141f5c8.jpg" /><p>Citrus season may be over, but lemons and limes persist. Both fruits are widely used to add a little (or a lot) of acid to dishes and drinks, and both, once juiced, leave behind a shell of pith and zest. You can compost the spent rinds, or <a href="https://lifehacker.com/you-should-freeze-your-juiced-lemon-peels-1847121784" target="_blank">freeze and zest them later</a>...or you can blend them with water and use the …</p><p><a href="https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045">Read more...</a></p>
+
+## Buy One Shake Shack Milkshake, Get One Free This Summer
+ - [https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--JLwJIBO9--/c_fit,fl_progressive,q_80,w_636/354e14c4e2d33afc4344d4891ac8fe6e.jpg" /><p>Milkshakes come better in pairs, especially in the summer. And right now, New York-based burger chain <a href="https://shakeshack.com/#/" rel="noopener noreferrer" target="_blank">Shake Shack</a> is offering a buy one milkshake, get one free deal until July 31 at participating locations. Share with a friend or take both for yourself.<br /></p><p><a href="https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086">Read more...</a></p>
+
+## You Can Plant Your Own Ramps
+ - [https://lifehacker.com/you-can-plant-your-own-ramps-1850421622](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Gk0vSbK4--/c_fit,fl_progressive,q_80,w_636/28a4e70f90a0f9520f5da2a230123c79.jpg" /><p>Once a year, foragers and chefs unite in the herbaceous, springtime frenzy that is fiddlehead and ramp season. Fiddleheads, the curled, young tips of certain ferns, have always been a crop you could cultivate at home, but ramps have remained elusive in the domain of woodland forests.<br /></p><p><a href="https://lifehacker.com/you-can-plant-your-own-ramps-1850421622">Read more...</a></p>
+
+## These Theme Parks Now Require Tweens and Teens to Have Adult Supervision
+ - [https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--hLf4VJ4x--/c_fit,fl_progressive,q_80,w_636/31a2fa1b7f4f472f93501873ea778029.jpg" /><p>A few (or a lot of) bad apples have managed ruined the fun for many teenagers, tweens, and parents across the United States. Several popular theme parks have decided to tighten their minimum age requirement to enter the park without parental supervision after a rise in “unruly behavior” in recent years.<br /></p><p><a href="https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536">Read more...</a></p>
+
+## How a 'Study Outfit' Can Actually Help You Learn
+ - [https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510](https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Wt5YQEPC--/c_fit,fl_progressive,q_80,w_636/fd508a3e1e8df2fa0ce59f473b219cb8.jpg" /><p>With the work-from-home era in full swing, I’ve found that I still venture out every few days to do my job from a coffee shop. Something about the change of scenery is helpful and gets me in a working mood. It’s hard to live, work, eat, sleep, clean, study, and relax all in the same space; at some point, when you’re…</p><p><a href="https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510">Read more...</a></p>
+
+## Trellises Will Completely Transform Your Garden
+ - [https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342](https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3YDuj5Hv--/c_fit,fl_progressive,q_80,w_636/cfef3f3f18dbbc2259b5935df112bcb6.jpg" /><p>I am constantly searching for more space to garden. So when I ran out of ground, I went vertical—and the way it  fundamentally changed the way people experience my garden is remarkable. Consider this a love letter to trellises.<br /></p><p><a href="https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342">Read more...</a></p>
+
+## The Difference Between Milkshakes and Concretes (and How to Make Them)
+ - [https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-11 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--p3Eav65i--/c_fit,fl_progressive,q_80,w_636/60cf7ba0c372b35b628704a3440f8bf7.jpg" /><p>Milkshakes and concretes are two frozen treats that look awfully similar. As Memorial day approaches and the need to scarf frozen desserts skyrockets, it’s a good time to learn the difference between these two creamy treats. Both are delicious, but one is easier to duplicate at home than the other.<br /></p><p><a href="https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489">Read more...</a></p>
+
