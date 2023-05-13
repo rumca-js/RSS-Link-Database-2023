@@ -1,0 +1,847 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## I chucked my original laptop charger for this awesome replacement
+ - [https://www.pcworld.com/article/1802583/i-chucked-my-original-laptop-charger-for-this-replacement.html](https://www.pcworld.com/article/1802583/i-chucked-my-original-laptop-charger-for-this-replacement.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-12 14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In some ways, I&rsquo;m a curmudgeon. I don&rsquo;t always adopt new technology immediately, which I know sounds odd given I write about consumer electronics for a living.</p>
+
+
+
+<p>But when it comes to laptops, hanging on to my barrel charger was more a matter of self-preservation than any outright prejudices (or as my colleague Gordon Mah Ung likes to accuse me of, cheapskate tendencies). Nor is it me having transformed into my parents, unable to let things go until they&rsquo;re dead and unfixable.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>If you&rsquo;re on the hunt for a new laptop, you should check out our <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">roundup of the best laptops available today</a>.</p></blockquote>
+
+
+
+<p>While a love for troubleshooting runs strong in my family, you can instead trace my hesitance to my earliest experiences with laptops. Back in the dark ages (aka the early 2000s) and for many years after, third-party chargers could be hit or miss&mdash;and a laptop was not a cheap investment. The first notebook I ever bought (a Dell Latitude X200) cost $1,400 <em>used</em>. I sure as heck was not chancing its life expectancy on an aftermarket charger.</p>
+
+
+
+<p>But waiting to buy my first gallium nitride (GaN) charger was unjustified.</p>
+
+
+
+<p>For anyone not yet acquainted with GaN chargers (unlikely, given how long I held out), they&rsquo;re similar to smartphone chargers, but push much more juice. Where a typical phone charger tops out around 25 to 30W these days, a GaN charger can power a 100W laptop. And it&rsquo;ll do so with a much smaller footprint than most original (OEM) laptop chargers. For thin and light laptops, which usually take a 45W or 65W charger, you can usually pick up the GaN equivalent at affordable prices.&nbsp;</p>
+
+
+
+<p>Example: These wildly popular, itty-bitty Anker models are just $40 for the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Charger-Anker-Adapter-Supported-Foldable/dp/B08T5QVTKW/&amp;xcust=2-2-1802583-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">45W model</a> and $55 for the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Charger-Anker-Adapter-Foldable-Compact/dp/B08T5QN2TR/&amp;xcust=2-2-1802583-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">65W model</a>. Pair one with a USB-C cable rated for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Anker-2-Pack-Charging-MacBook-Samsung/dp/B08PVPTNZL/&amp;xcust=2-2-1802583-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">high wattage power delivery</a> and you have a hugely portable charger that takes less space than today&rsquo;s laptop chargers.</p>
+
+
+
+<p>I could have picked one up well before emerging from pandemic seclusion&mdash;a little before COVID hit, GaN chargers were taking off in popularity. But at the time, laptops were only just making the transition to USB-C charging. My laptop still went with a barrel charger, though it did include a Thunderbolt 3 port capable of USB-C charging.</p>
+
+
+
+<p>Now, years later, I&rsquo;ve made the transition. You might want to as well.</p>
+
+
+
+<p>I haven&rsquo;t literally tossed out my laptop&rsquo;s barrel charger, but these days, it sits parked at my desk, which I occasionally return to with the laptop. For the most part, the GaN charger and I are best buds. You&rsquo;ll often find us together when I&rsquo;m lounging on my sofa, perched on my bed, out at a friend&rsquo;s house, or traveling to a farther-flung destination. I actually even opted for a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Anker-Charger-Compact-Foldable-MacBook/dp/B09C5RG6KV&amp;xcust=2-2-1802583-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">slightly larger model</a> since I wanted extra USB ports. It lets me also charge my phone, tablet and/or e-reader off the same wall wart while still shaving weight from my backpack <em>and</em> packing more compactly. I sometimes travel internationally on budget airlines. Every ounce&mdash;heck, every gram&mdash;counts in my bag, as does every square inch of space.</p>
+
+
+
+<p>Long story short, I feel stupid having waited this long to make a quality of life improvement. Everyone else who got on board this train before me is welcome to sit back smugly. That&rsquo;s fine. I&rsquo;m just going to go back to my quest to find a suitable replacement for my incredibly lightweight but aging<strong> </strong><a href="https://www.pcworld.com/article/1523287/i-wish-8-inch-windows-tablets-would-come-back-really-i-do.html">eight-inch Windows tablet</a>.</p>
+
+Consumer Electronics</div>
+
+## AI chatbots aren’t search engines. They’re crypto bros
+ - [https://www.pcworld.com/article/1721988/ai-chatbots-arent-search-engines-google-bard-bing-chat.html](https://www.pcworld.com/article/1721988/ai-chatbots-arent-search-engines-google-bard-bing-chat.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-12 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Over the last few months, AI chatbots have exploded in popularity off the surging success of OpenAI&rsquo;s revolutionary ChatGPT&mdash;which, amazingly, only <a href="https://www.pcworld.com/article/1424575/chatgpt-is-the-future-of-ai-chatbots.html">burst onto the scene around December</a>. But when Microsoft seized the opportunity to hitch its wagon to OpenAI&rsquo;s rising star for a steep <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.cnbc.com/2023/01/10/microsoft-to-invest-10-billion-in-chatgpt-creator-openai-report-says.html&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">$10 billion dollars</a>, it chose to do so by introducing a GPT-4-powered chatbot under the guise of Bing, its swell-but-also-ran search engine, in a bid to upend Google&rsquo;s search dominance. Google quickly followed suit with its own <a href="https://www.pcworld.com/article/1816361/googles-bard-workspace-gain-powerful-new-ai-smarts.html">homegrown Bard AI</a> and unleashed plans to <a href="https://www.pcworld.com/article/1816665/google-plans-to-supercharge-search-with-ai.html">put AI answers before traditional search results</a>, an utterly monumental alteration to one of the most significant places on the Internet.</p>
+
+
+
+<p>Both are touted as experiments. And these &ldquo;AI chatbots&rdquo; are truly wondrous advancements&mdash;I&rsquo;ve spent many nights with my kids joyously creating <a href="https://www.pcworld.com/article/1672975/the-best-ai-art-generators-for-you-midjourney-bing-and-more.html">fantastic stuff-of-your-dreams artwork</a> with Bing Chat&rsquo;s Dall-E integration and prompting sick raps about wizards who think lizards are the source of all magic, and seeing them come to life in mere moments with these fantastic tools. I love &lsquo;em.</p>
+
+
+
+<p>But Microsoft and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://tech.slashdot.org/story/23/04/06/1437201/google-ceo-sundar-pichai-says-search-to-include-chat-ai&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Google</a>&rsquo;s marketing got it wrong. AI chatbots like ChatGPT, Bing Chat, and Google Bard shouldn&rsquo;t be lumped in with search engines whatsoever, much less power them. They&rsquo;re more like those <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.urbandictionary.com/define.php?term=Crypto%20bro&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">crypto bros</a> clogging up the comments in <a href="https://www.pcworld.com/article/1381758/dont-get-scammed-why-you-cant-trust-elon-musks-twitter-right-now.html">Elon Musk&rsquo;s terrible new Twitter</a>, loudly and confidently braying truthy-sounding statements that in reality are often full of absolute bullshit.</p>
+
+
+
+<p>These so-called &ldquo;AI chatbots&rdquo; do a fantastic job of synthesizing information and providing entertaining, oft-accurate details about whatever you query. But under the hood, they&rsquo;re actually <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://en.wikipedia.org/wiki/Large_language_model&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">large language models</a> (LLMs) trained on billions or even <em>trillions </em>of points of data&mdash;text&mdash;that they learn from in order to anticipate which words <em>should</em> come next based off your query. AI chatbots aren&rsquo;t intelligent at all. They draw on patterns of word association to generate results that <em>sound </em>plausible for your query, then state them definitively with no idea of whether or not those strung-together words are actually <em>true</em>. Heck, <a href="https://www.pcworld.com/article/1817020/google-search-ai-bard-wrong-pixel-facts.html">Google&rsquo;s AI can&rsquo;t even get facts about Google products correct</a>.</p>
+
+
+
+<p>I have no idea who coined the term originally, but the memes are right: These chatbots are essentially autocorrect on steroids, <em>not</em> reliable sources of information like the search engines they&rsquo;re being glommed onto, despite the implication of trust that association provides.</p>
+
+
+
+<p>They&rsquo;re <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://themarkup.org/hello-world/2023/01/28/decoding-the-hype-about-ai&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">bullshit generators</a>. They&rsquo;re crypto bros.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/1671133/chatgpt-vs-bing-vs-bard-whats-the-best-ai-chatbot.html">ChatGPT vs. Bing vs. Bard: Which AI is best?</a></p></blockquote>
+
+
+
+<h2 id="ai-chatbots-say-the-darndest-things">AI chatbots say the darndest things</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="AI chatbot showdown" class="wp-image-1722848" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/ai-chatbot-showdown.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Mark Hachman/IDG</p></div>
+
+
+
+<p>The signs were there immediately. Beyond all the experiment talk, Microsoft and Google were both sure to emphasize that these LLMs sometimes generate inaccurate results (&ldquo;hallucinating,&rdquo; in AI technospeak). &ldquo;Bing is powered by AI, so surprises and mistakes are possible,&rdquo; Microsoft&rsquo;s disclaimer states. &ldquo;Make sure to check the facts, and share feedback so we can learn and improve!&rdquo; That was driven home when journalists discovered embarrassing inaccuracies in the glitzy launch presentations for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Bard</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.theverge.com/2023/2/14/23599007/microsoft-bing-ai-mistakes-demo&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Bing Chat</a> alike.</p>
+
+
+
+<p>Those falsehoods suck when you&rsquo;re using Bing and, you know, <em>Google</em>&mdash;the world&rsquo;s biggest two search engines. But conflating search engines with large language models has even deeper implications, as driven home by a recent <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"><em>Washington Post</em> report</a> chronicling how OpenAI&rsquo;s ChatGPT &ldquo;invented a sexual harassment scandal and named a real law prof as the accused,&rdquo; as the headline aptly summarized.</p>
+
+
+
+<p>It&rsquo;s exactly what it sounds like. But it&rsquo;s so much worse because of how this hallucinated &ldquo;scandal&rdquo; was discovered.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="New Bing Chat AI interface screenshot" class="wp-image-1724844" height="876" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/new-bing.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>Yes, the Bing Chat interface says &lsquo;surprises and mistakes are possible,&rsquo; but you enter it via the Bing search engine and this design insinuates you&rsquo;ll get &lsquo;better answers&rsquo; to even complex questions despite the tendency for AI hallucinations to get things wrong.&nbsp;</p> </figcaption></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>You should go read the article. It&rsquo;s both great and terrifying. Essentially, law professor John Turley was contacted by a fellow lawyer who asked ChatGPT to generate a list of law scholars guilty of sexual harassment. Turley&rsquo;s name was on the list, complete with a citation of a <em>Washington Post </em>article. But Turley hasn&rsquo;t been accused of sexual harassment, and that <em>Post</em> article doesn&rsquo;t exist. The large language model hallucinated it, likely drawing off Turley&rsquo;s record of providing press interviews on law subjects to publications like the <em>Post</em>.</p>
+
+
+
+<p>&ldquo;It was quite chilling,&rdquo; Turley told <em>The Post</em>. &ldquo;An allegation of this kind is incredibly harmful.&rdquo;</p>
+
+
+
+<p>You&rsquo;re damned right it is. An allegation like <em>that</em> could ruin someone&rsquo;s career, especially since Microsoft&rsquo;s Bing Chat AI quickly started spouting similar allegations with Turley&rsquo;s name in the news. &ldquo;Now Bing is <em>also</em> claiming Turley was accused of sexually harassing a student on a class trip in 2018,&rdquo; the <em>Post</em>&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/WillOremus/status/1643692259332743171&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Will Oremus tweeted</a>. &ldquo;It cites as a source for this claim Turley&rsquo;s own USA Today op-ed about the false claim by ChatGPT, along with several other aggregations of his op-ed.&rdquo;</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Now Bing is *also* claiming Turley was accused of sexually harassing a student on a class trip in 2018. It cites as a source for this claim Turley's own USA Today op-ed about the false claim by ChatGPT, along with several other aggregations of his op-ed. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://t.co/p7NA45kHyD&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">pic.twitter.com/p7NA45kHyD</a></p>&mdash; Will Oremus (@WillOremus) <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/WillOremus/status/1643692259332743171?ref_src=twsrc%5Etfw&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">April 5, 2023</a></blockquote>
+</div></figure>
+
+
+
+<p>I&rsquo;d be furious&mdash;and furiously suing every company involved in the slanderous claims, made under the corporate banners of OpenAI and Microsoft. Funnily enough, an <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.reuters.com/technology/australian-mayor-readies-worlds-first-defamation-lawsuit-over-chatgpt-content-2023-04-05/&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Australian mayor threatened just that</a> around the same time the <em>Post</em> report published. &ldquo;Regional Australian mayor [Brian Hood] said he may sue OpenAI if it does not correct ChatGPT&rsquo;s false claims that he had served time in prison for bribery, in what would be the first defamation lawsuit against the automated text service,&rdquo; <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.thehindu.com/sci-tech/australian-mayor-readies-worlds-first-defamation-lawsuit-over-chatgpt-content/article66702658.ece&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Reuters reported</a>.</p>
+
+
+
+<p>OpenAI&rsquo;s ChatGPT is catching the brunt of these lawsuits, possibly because it&rsquo;s at the forefront of &ldquo;AI chatbots&rdquo; and was the fastest-adopted technology <em>ever</em>. (Spitting out libelous, hallucinated claims doesn&rsquo;t help.) But Microsoft and Google are causing just as much harm by associating chatbots with search engines. They&rsquo;re too inaccurate for that, at least at this stage.</p>
+
+
+
+<p>Turley and Hood&rsquo;s examples may be extreme, but if you spend any amount of time playing around with these chatbots, you&rsquo;re bound to stumble into more insidious inaccuracies, nonetheless stated with full confidence. Bing, for example, misgendered my daughter when I asked about her, and when I had it craft a personalized resume from my LinkedIn profile, it got a lot correct, but also hallucinated skills and previous employers wholecloth. That could be devastating to your job prospects if you aren&rsquo;t paying close attention. Again, Bard&rsquo;s reveal demonstration included <em>obvious</em> falsehoods about the James Webb space telescope that astronomers identified instantly. Using these supposedly search engine-adjacent tools for research could wreck your kid&rsquo;s school grades.</p>
+
+
+
+<h2 id="it-didnt-have-to-be-this-way">It didn&rsquo;t have to be this way</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="AI chatbot drinking at a bar" class="wp-image-1724145" height="835" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/ai-chatbot-drinking.jpg?quality=50&amp;strip=all" width="1024" /><figcaption><p>AI chatbots have a big microphone and all the boisterous, misplaced confidence of that dude always yelling about sports and politics at the bar.</p> </figcaption></figure><p class="imageCredit">Bing Chat / Brad Chacos/ IDG</p></div>
+
+
+
+<p>The hallucinations sometimes spit out by these AI tools aren&rsquo;t as painful in more creative endeavors. <a href="https://www.pcworld.com/article/1672975/the-best-ai-art-generators-for-you-midjourney-bing-and-more.html">AI art generators <em>rock</em></a>, and <a href="https://www.pcworld.com/article/1661649/forget-bing-microsoft-365-copilot-looks-like-ais-killer-app.html">Microsoft&rsquo;s killer-looking Office AI enhancements</a>&mdash;which can create full PowerPoint presentations out of reference documents you cite, and more&mdash;seem poised to bring radical improvements to desk drones like yours truly. But those tasks don&rsquo;t have the strict accuracy expectations that come with search engines.</p>
+
+
+
+<p>It didn&rsquo;t have to be this way. Microsoft and Google&rsquo;s marketing truly dropped the ball here by associating large language models with search engines in the eyes of the public, and I hope it doesn&rsquo;t wind up permanently poisoning the well of perception. These are fantastic tools.</p>
+
+
+
+<p>I&rsquo;ll end this piece with a tweet from Steven Sinofsky, who was replying to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/katecrawford/status/1643323086450700288&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">commentary</a> about severely wrong ChatGPT hallucinations causing headaches for an inaccurately cited researcher. Sinofsky is an investor who lead Microsoft Office and Windows 7 to glory back in the day, so he knows what he&rsquo;s talking about.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Imagine a world where this was called "Creative Writer" and not "Search" or "Ask anything about the world"&hellip;<br /><br />This is just a branding fiasco right now. Maybe in 10 years of progress, many more technology layers, and so on it will come to be search.</p>&mdash; Steven Sinofsky (@stevesi) <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/stevesi/status/1643870743070130178?ref_src=twsrc%5Etfw&amp;xcust=2-1-1721988-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">April 6, 2023</a></blockquote>
+</div></figure>
+
+
+
+<p>&ldquo;Imagine a world where this was called &lsquo;Creative Writer&rsquo; and not &lsquo;Search&rsquo; or &lsquo;Ask anything about the world,&rsquo;&rdquo; he said. &ldquo;This is just a branding fiasco right now. Maybe in 10 years of progress, many more technology layers, and so on it will come to be search.&rdquo;</p>
+
+
+
+<p>For now, however, AI chatbots are crypto bros. Have fun, bask in the possibilities these wondrous tools unlock, but don&rsquo;t take their information at face value. It&rsquo;s truthy, not trustworthy.</p>
+
+
+
+<p><em>Editor&rsquo;s note: This article originally published on April 7, 2023, but was updated on May 12 after Google announced plans to position AI answers at the top of search results.</em></p>
+
+Internet</div>
+
+## Intel’s graveyard: 12 bizarre, dead products that shouldn’t have existed
+ - [https://www.pcworld.com/article/1811984/intel-had-no-business-making-all-this-weird-hardware-but-it-did.html](https://www.pcworld.com/article/1811984/intel-had-no-business-making-all-this-weird-hardware-but-it-did.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-12 10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Intel&rsquo;s a chip company. Always has been, always wi&ndash; Wait, what? An Intel sound morpher? Some sort of VR webcam thingie? A kid&rsquo;s microscope?!</p>
+
+
+
+<p>Every company seeks to expand beyond its core market, both to satisfy shareholders as well as grow its sales opportunities. Intel has spent a lot of time and money over the years trying to move beyond processors alone and test the waters as a consumer brand. You could see the evolution: the Intel chime (<em>dumdumdumDUM</em>!), the dancing bunny people, the expansion into various parts of the PC&hellip; and beyond.</p>
+
+
+
+<p>Intel&rsquo;s core business, though, has always had an underlying goal: sell more chips. What does a processor do? It processes data. What does a PC do? It processes data. If you want to sell more processors, then sell more PCs, and provide them more data. Understand those business desires, and you&rsquo;ll understand why Intel chose to put its name on the following products, as weird as they are&mdash;and then killed them. </p>
+
+
+
+<p>Meet the Intel hardware graveyard. (Are they weirder than the <a href="https://www.pcworld.com/article/1803823/meet-the-microsoft-graveyard-of-dead-hardware.html">Microsoft hardware graveyard</a>, though?)</p>
+
+
+
+<h2 id="intels-qx3-5-microscope">Intel&rsquo;s QX3/5 Microscope</h2>
+
+
+
+<p>&ldquo;Intel Play products put the power of the PC in a child&rsquo;s hands &mdash; empowering kids to play, learn and create in new and different ways.&rdquo; On Feb. 3, 1999, Intel <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.intel.com/pressroom/archive/releases/1999/toy20399.htm&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">launched</a> what it called the &ldquo;Intel Play&rdquo; line: a series of educational toys that would nudge children towards using a PC. Intel&rsquo;s QX3 (and later QX5) were the first of those. It was a connected microscope that could broadcast what the image sensor saw to a connected PC via a USB cable.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel QX3+ Digital Microscope" class="wp-image-1814904" height="951" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-microscope.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>Intel&rsquo;s digital microscopes were designed to get kids interested in learning &mdash; and into PCs, too.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/124759770781?chn=ps&amp;_trkparms=ispr%3D1&amp;amdata=enc%3A1WYuqePUMQpS7387yHZBrIA80&amp;norover=1&amp;mkevt=1&amp;mkrid=711-213727-13078-0&amp;mkcid=2&amp;itemid=124759770781&amp;targetid=4581046489808874&amp;device=c&amp;mktype=&amp;googleloc=&amp;poi=&amp;campaignid=418640322&amp;mkgroupid=1239149842233245&amp;rlsatarget=pla-4581046489808874&amp;abcId=9300602&amp;merchantid=51291&amp;msclkid=78100a825b3c1bddc9ee6ed8f9b79714&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">eBay</a></div>
+
+
+
+<p>To be fair, the QX3 could do two things that at an ordinary optical microscope couldn&rsquo;t. Since it projected the image to a PC&rsquo;s monitor, it could spare kids the need to peer through a lens, and could also show several kids at once what the microscope saw. But what the QX3 &ldquo;saw&rdquo; was only a 320&times;240 image, which would turn a delicate amoeba into a amorphous blob. The QX5 at least could display images at 640&times;480 &mdash; better, but not great.</p>
+
+
+
+<h2 id="intel-play-me2cam">Intel Play Me2Cam</h2>
+
+
+
+<p>The Intel Play Me2Cam was a little like Microsoft&rsquo;s Kinect. Instead of transmitting your image across the Internet like Skype, the Me2Cam recorded video of the user, interpreted it, and used it as a way to interact with objects in a scene. &ldquo;A whole new system of play where children see themselves on the computer screen and use their own bodies to navigate in a virtual world&rdquo; is how Intel described it. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel Play Me2Cam" class="wp-image-1814913" height="719" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-Me2Cam.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>The  Me2Cam would probably have been super fun at a toy store, but its appeal may have worn off once it was at home. As a nostalgia item, though, it&rsquo;s clearly interesting.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/125118211344?hash=item1d21a06510:g:NGwAAOSwaXxh8EXJ&amp;amdata=enc%3AAQAIAAAAwHhTjjZ5D1fhHbxfh%2BU6YrasccSWK7XbPtIjUHl1N6kSEPNAXJrpUx0HWEJl2K12jrxMHws%2By%2FkD%2Fiu%2FUq2KrKC7FvJ95yqP85ccQSB5v0FeDdr%2F%2FQVUBWVNs4VWN6Ig0dXVYtW6bT4MN3mY7MAGSb0DNwQf8HH0Jvp6Ey6Imq5YPyf5HbeRW2RzuQPA38yitMu%2BKxGemagW1I%2BRScYOGXw4%2FjqijVgC22XrrFk%2FcThxFJzY8VHZz1%2FZPlDeZm9NZA%3D%3D%7Ctkp%3ABk9SR5ivhaGAYg&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">eBay</a></div>
+
+
+
+<p>The Me2Cam (connected by the then-new USB standard) shipped with a suite of games ranging from &ldquo;Bubble Mania&rdquo; (pop the virtual bubbles as they surround you), &ldquo;Pinball&rdquo; (use your arms as flippers!) and &ldquo;Snow Surfin&rsquo;.&rdquo; All of them ran on your PC, of course, provided it had a CD-ROM.</p>
+
+
+
+<h2 id="intel-play-computer-sound-morpher">Intel Play Computer Sound Morpher</h2>
+
+
+
+<p>Why you can buy (or could buy) the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/1B4-008A-00RX6&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Intel Computer Sound Morpher at Newegg</a> is beyond us. Because basically, it stunk.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>We&rsquo;ve never used the Intel Play Creative Sound Morpher, but this YouTube review from a few years ago is not kind. Apparently the only thing that the Sound Morpher could do was to record your voice and play it back &ldquo;like a bad dictaphone&rdquo; over what appears to be a pair of flimsy USB headphones. </p>
+
+
+
+<p>You may scratch your head at the other products in this list, but they do appear to be made with some care. Not this, apparently. It sounds like a waste of money.</p>
+
+
+
+<h2 id="intel-wireless-series-gamepad">Intel Wireless Series Gamepad</h2>
+
+
+
+<p>By 2000, Intel was full steam ahead in the PC peripherals business, and the company&rsquo;s Wireless Series was designed to show off the &ldquo;PC without wires&rdquo; concept that was hot at the time. The Wireless Series consisted of a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/165280971665?chn=ps&amp;norover=1&amp;mkevt=1&amp;mkrid=711-213727-13078-0&amp;mkcid=2&amp;itemid=165280971665&amp;targetid=4581183927179143&amp;device=c&amp;mktype=&amp;googleloc=&amp;poi=&amp;campaignid=418233787&amp;mkgroupid=1241348861725295&amp;rlsatarget=pla-4581183927179143&amp;abcId=9300542&amp;merchantid=51291&amp;msclkid=b8e7446a8a5a129813a02030049e75dc&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">base station</a>, which could connect to a separate Intel-branded mouse and keyboard via &ldquo;digital spread spectrum radio.&rdquo; </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel Wireless Gamepad" class="wp-image-1814898" height="917" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-Wireless-Gamepad.png?w=1200" width="1200" /><figcaption>Some industrial designer probably got a laugh out of this.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Intel-Wireless-Series-Gamepad-Accessory/dp/B00005853O&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Amazon</a></div>
+
+
+
+<p>But the weirdest device of the bunch had to be the wireless gamepad, which looked either like some sort of therapy device for hemorrhoids or an after-hours plaything that we don&rsquo;t want to speculate about too much. Weirdly, those who <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Intel-Wireless-Series-Gamepad-Accessory/dp/B00005853O&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">bought it at Amazon</a> seemed to love it.</p>
+
+
+
+<h2 id="intel-dot-station-and-intel-pcs">Intel Dot.Station and Intel &ldquo;PCs&rdquo;</h2>
+
+
+
+<p>In its exuberance, Intel even made its own PC! Well, not a PC, per se, but a &ldquo;Web appliance&rdquo; that certainly looked like a PC. It could connect to the Internet, access email, and even came with a built-in telephone and remote.</p>
+
+
+
+<p>&ldquo;The Intel Dot.Station is the result of extensive consumer research and close cooperation with our customers,&rdquo; said Claude Leglise, vice president, Intel Architecture Group and general manager of the Home Products Group, at the time of the launch. &ldquo;We believe we have designed a product that not only meets the needs of service providers, but also appeals to consumers who don&rsquo;t own a PC and want access to the Internet.&rdquo;</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>That probably was a telling comment, since Intel&rsquo;s PC customers preferred that customers connect to the Internet via their PCs, instead. The Dot.Station didn&rsquo;t last long.</p>
+
+
+
+<p>Neither did Intel&rsquo;s Classmate PC, more of a reference design than an actual product. The <a href="https://www.pcworld.com/article/443486/intel-launches-notebook-tablet-for-schools.html">creatively-named Clamshell EF10MI2</a> was an adjunct to the One Laptop Per Child project, aimed at seeding PCs into rural regions and developing countries.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel Web Tablet" class="wp-image-1814894" height="810" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-Web-Tablet.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>The Intel Web Tablet never really went anywhere.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=ihUjWMUUWHM&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">YouTube / IntelFreePress</a></div>
+
+
+
+<p>Intel also manufactured the Intel Web Tablet, a &ldquo;portable browser&rdquo; of a sort that never really went past the prototype stage. It did connect wirelessly, though it would only really be noteworthy if it didn&rsquo;t.</p>
+
+
+
+<h2 id="intel-personal-audio-player-3000">Intel Personal Audio Player 3000</h2>
+
+
+
+<p>It&rsquo;s unclear whether audiences embraced the Play line, or grokked that they were essentially PC peripherals branded as toys. Perhaps as a response, in October 2001 Intel launched three dedicated PC accessories: a webcam, an MP3 player and a digital camera.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel Digital Audio Player" class="wp-image-1814901" height="773" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-digital-audio-player.png?w=1200" width="1200" /><figcaption>Give it credit: at least it looked nice before the iPod wiped it off the map.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Intel-IDAP264NA-Personal-Audio-Player/dp/B00005OM4J&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Amazon</a></div>
+
+
+
+<p>The Personal Audio Player 3000 was launched on Oct. 2, 2001. Intel&rsquo;s $149.99 player shipped with 128MB of onboard flash, tools to rip CDs into MP3 or WMA formats, a MultiMedia Card expansion slot, and a clear plastic faceplate that could be customized. None of it mattered. Before the month was out Apple had launched the iPod, a 5GB MP3 player for $399 that, of course, changed the world.</p>
+
+
+
+<h2 id="intel-pocket-digital-pc-camera">Intel Pocket Digital PC Camera</h2>
+
+
+
+<p>At one point, a 640&times;480 digital camera was state of the art. Intel&rsquo;s $149.99 Pocket PC Camera recorded both 640&times;480 images and 480p video, at up to 30 frames per second, and recorded it on a then-roomy 8MB of flash memory. (Unfortunately, that translated into 128 photos or a ten-second video clip.)</p>
+
+
+
+<p>Reviews of the device <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Intel-Pocket-PC-Camera-CS-630/dp/B0000589LN&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">on Amazon</a> reveal that apparently customers liked it after all. &ldquo;This camera has amazing quality, no doubt,&rdquo; one said. &ldquo;I&rsquo;ve had one for a long time and coming from someone who has owned a total of 8+ webcams in her life, trust me when I say this was the best one I&rsquo;ve had.&rdquo;</p>
+
+
+
+<p>Other customers praised it as nearly indestructible, though with a tendency to shoot poor-quality video, even in good lighting.</p>
+
+
+
+<h2 id="intel-play-digital-movie-creator">Intel Play Digital Movie Creator</h2>
+
+
+
+<p>You could see where Intel was going with this. Shoot video using the $99 camera and edit it on the PC. A CD even provided stock footage from National Geographic that you could edit into your video of your little brother playing with his G.I. Joes. (Only up to four minutes, though.)</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel Play Digital Movie Creator" class="wp-image-1814917" height="850" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-Play-Digital-Movie-Creator.png?w=1200" width="1200" /><figcaption>Like many of the items on our list, you can still find the Digital Movie Creator online for sale at places like eBay.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/175677097644?hash=item28e72bc6ac:g:HPwAAOSwlzBkLGYu&amp;amdata=enc%3AAQAIAAAA8PwLyz%2BTC1HsgK3X0g1H86nhdBeqDKdALMpbhLd8XOXHj%2FTFMFB8IdxRucAYKpeBGZBxAxF951SdrsT1%2BtwYxIK8RY6k6Q6bZKErekP7zz8xgrqEUVqcoceOAboL4E3UFwPBN3aopnIjNQuhordwDmWqkobwum%2FSCOQeDIaq0R1qKtNCim%2BnjieXiuZOWfkGYK0sO6%2FAP13EZFtow5Kp8PxL6pNQq4HHQQJ64DKxnL5Q4AGIVj%2Bp124fdpVMG2eQuHjV1q2O90Mprq2bTwmcMNjMvyflfC0PvVUDsKUt%2FAQJ78%2BRt66dtnz2o4gHx1BEmA%3D%3D%7Ctkp%3ABFBM-OetoYBi&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">eBay</a></div>
+
+
+
+<p>The Digital Movie Creator required a Pentium PC (aha!) and you could send your creations over the Internet. Again, this was a device that Intel used to sell PCs, though it&rsquo;s a bit difficult to understand how a chip company could really make a dent in the market.</p>
+
+
+
+<h2 id="intel-shooting-star-drone">Intel Shooting Star drone</h2>
+
+
+
+<p>Under chief executive Brian Krzanich, Intel underwent a weird transition: CES keynotes full of BMX bikers, smart doors, perceptual computing, and more. Intel was devoted to the cult of edge networking and sensors&hellip;until it wasn&rsquo;t <a href="https://www.pcworld.com/article/402179/intel-ceo-brian-krzanich-unexpectedly-steps-down-at-a-critical-point-in-intels-evolutioh.html">when Krzanich unexpectedly stepped down</a>. Intel&rsquo;s love affair with sensors went with him. </p>
+
+
+
+<p>Perhaps the weirdest success story of Krzanich&rsquo;s legacy, though, was its successful drone business. Intel created the Shooting Star, a quadcopter specifically designed for large, synchronous light shows that supplemented and replaced fireworks shows. Lights on the drones could be used to create pictures in the sky, and <a href="https://www.pcworld.com/article/411949/intel-brought-300-drones-to-the-super-bowl.html">Intel&rsquo;s drones appeared at the Super Bowl</a>, at the 2020 Olympics, and more. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>In 2022, Intel finally sold off its drone business, part of Intel&rsquo;s efforts to refocus itself about its core chipmaking expertise. The buyer? Nova Sky Stories &mdash; owned by Elon Musk&rsquo;s brother, Kimbal.</p>
+
+
+
+<h2 id="intel-black-box-set-top-box">Intel &ldquo;Black Box&rdquo; Set-top box</h2>
+
+
+
+<p>Intel was the subject of heated rumors in 2003 about a new set-top box that would &ldquo;kill cable.&rdquo; A <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://linuxdevices.org/new-intel-set-top-box-reference-design-runs-linux/&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">reference design</a> was unveiled, based upon a low-voltage Celeron processor at its Intel Developer Forum, but the box died quickly thereafter. Stefan Zwegers, who says that he was asked by Prodrive to design a chassis, has some of the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.zwegers.net/portfolio/set-top-box-intel/&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">concept images</a> on his site. </p>
+
+
+
+<h2 id="intel-true-view">Intel True View</h2>
+
+
+
+<p>Krzanich&rsquo;s odd investment strategies also included <a href="https://www.pcworld.com/article/419993/intel-could-bring-sporting-events-to-vr-headsets-with-latest-acquisition.html">Replay, which designed a system</a> for recording, collating, and broadcasting 3D perspectives on major sporting events. If you ever watched a basketball or football game with a &ldquo;replay&rdquo; that would swivel around to show a <em>Matrix</em>-style 360-degree replay using computer-generated players, that was Replay. Intel called this True View, and installed systems at home of the Chicago Bulls and at Emirates Stadium, the home of the Arsenal FC soccer team. <a href="https://www.pcworld.com/article/410880/intel-doubles-down-on-vr-sports-with-voke-purchase.html">Voke, another startup Intel bought</a>, would provide a similar perspective, but in VR.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Intel True View" class="wp-image-1814831" height="576" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-True-View.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Intel</p></div>
+
+
+
+<p>In 2021, Intel <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.haaretz.com/israel-news/tech-news/2021-08-20/ty-article/.premium/intel-is-selling-off-its-sports-group-founded-based-in-israel/0000017f-db4a-df9c-a17f-ff5ab2a80000&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">sold</a> off what it called Intel Sports, including True View, to Verizon, and shuttered the rest as part of CEO Pat Gelsinger&rsquo;s refocus on Intel&rsquo;s core technologies.</p>
+
+
+
+<h2 id="intel-realsense-cameras">Intel RealSense cameras</h2>
+
+
+
+<p>It&rsquo;s possible that you could include the <a href="https://www.pcworld.com/article/432250/hands-on-without-apps-intels-realsense-camera-is-a-puzzle.html">Intel RealSense camera</a> here, a biometric technology that became more notable for hobbyist robotics builds than actual consumer electronics. In 2015, we noted that the RealSense was a puzzle: a piece of hardware without any real apps to drive it. Of course, that was after Microsoft had launched Kinect and before the <a href="https://www.pcworld.com/article/394379/windows-hello-webcams-you-can-buy-right-now.html">advent of Windows Hello</a> &mdash; which, again, was more of Microsoft&rsquo;s baby. </p>
+
+
+
+<p>Intel even announced a <a href="https://www.pcworld.com/article/419046/intels-smartphone-with-integrated-realsense-3d-camera-to-ship-for-399.html">RealSense Android smartphone</a> as a development kit! Again, though, it didn&rsquo;t go anywhere.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Intel RealSense Creative" class="wp-image-1814859" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Intel-Realsense.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>Intel&rsquo;s RealSense,  inside a Creative Technologies (remember them?) camera.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>RealSense was completely separate from Intel Sports, but it represented another effort to launch machine vision that never really went anywhere. Intel found more success with <a href="https://www.pcworld.com/article/415504/bmw-teams-up-with-intel-mobileye-to-make-a-self-driving-car-by-2021.html">Mobileye</a>, an acquisition in the autonomous vehicle space which Intel &ldquo;unlocked&rdquo; via an IPO in 2022. </p>
+
+
+
+<h2 id="anything-else">Anything else?</h2>
+
+
+
+<p>This, of course, covers just the weird hardware graveyard that Intel made, and killed. But, of course, Intel is a chip company. What chips would you rate as an Intel mistake? Let us know on our <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/pcworld&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">PCWorld Twitter</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.facebook.com/PCWorld/&amp;xcust=2-1-1811984-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Facebook pages</a>, and maybe we&rsquo;ll include them in a follow-up article.</p>
+
+Computer Accessories, CPUs and Processors, Webcams</div>
+
+## Asus ROG Strix G18 review: Tremendously powerful and luxuriously big
+ - [https://www.pcworld.com/article/1809571/asus-rog-strix-g18-review.html](https://www.pcworld.com/article/1809571/asus-rog-strix-g18-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-12 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>The CPU and GPU produce impressive power</li><li>The 18-inch QHD+ display is large and brilliantly colorful</li><li>Aura Sync RGB light bars lighten things up</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Battery life is just average</li><li>The trackpad is too firm for all-day use</li><li>A 1080p webcam would have made it more suitable for creators</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">With dollops of CPU/GPU power and a gorgeous 18-inch QHD+ display, the Asus ROG Strix G18 is an ideal companion for serious gamers or creators.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-asus-rog-strix-g18">
+			Best Prices Today: Asus ROG Strix G18		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<span>Asus</span>
+															</div>
+							<div class="price-comparison__price">
+								<span>3899.99</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.asus.com/us/rog/90nr0cg1-m002e0-g834jy.html&amp;xcust=2-1-1809571-2-1809562-11291&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+		
+
+
+<p>The Asus Strix G18 is truly a gaming powerhouse capable of chart-topping performance thanks to its Intel Core i9-13980HX processor and Nvidia GeForce RTX 4090 series GPU, but also due to an innovative design that enhances airflow and cooling. Additionally, with its huge, gorgeous 18-inch, QHD+ 240Hz display, this laptop is the closest thing we&rsquo;ve seen to a true desktop replacement to date. Read on to find out just why that is.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Looking for more gaming laptop options? Check out our roundup of the <a href="https://www.pcworld.com/article/407493/best-gaming-laptops.html">best gaming laptops</a> available right now.</p></blockquote>
+
+
+
+<h3 id="asus-rog-strix-g18-specifications">Asus ROG Strix G18: Specifications</h3>
+
+
+
+<p>All configurations of the Asus ROG Strix G18 have the same Core i9-13980HX processor, with differences among the models consisting of their varying RTX 40 Series GPUs or other hardware components.</p>
+
+
+
+<p>Price-wise, all Strix G18 models cost a pretty penny, but when compared against premium laptops of a similar ilk they&rsquo;re actually fairly competitive. My laptop cost $3899.99 and, at the time of writing this review, was out of stock at Asus&rsquo; online store, but you can buy an Asus Strix G18 with RTX 4080 GPU at <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-rog-strix-18-240hz-gaming-laptop-qhd-intel-13th-gen-core-i9-with-16gb-memory-nvidia-geforce-rtx-4080-1tb-ssd-eclipse-gray%2F6531333.p%3FskuId%3D6531333&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Best Buy</a> for a more reasonable $2,499.99 USD.</p>
+
+
+
+<p>By comparison, Razer&rsquo;s newest Blade 18, with the same chipset paring as our review unit cost $4,999.99 and MSI&rsquo;s Titan GT77 HX 13V, yet again with the same chipset, is dearer still with a MSRP of $5,299.99. The specifications of our unit are as follows:</p>
+
+
+
+<ul><li><strong>CPU:</strong> Intel Core i9-13980HX</li><li><strong>RAM: </strong>32GB DDR 5 / 4800 MHz</li><li><strong>GPU: </strong>Nvidia GeForce RTX 4090</li><li><strong>Display:</strong> 18-inch, QHD+ (2560 x 1600), 16:10 aspect ratio, IPS-level, 240 Hz refresh rate, DCI-P3 100 %, G-Sync, Advanced Optimus</li><li><strong>Storage: </strong>1TB PCIe Gen 4 NVMe solid state drive</li><li><strong>Ports:</strong> 2 x USB 3.2 Gen 2 Type-A, USB 3.2 Gen 2 Type-C (supports DisplayPort, power delivery), Thunderbolt 4 (USB-C), HDMI 2.1, 3.5 mm combo audio port</li><li><strong>Networking:</strong> Wi-Fi 6E (802.11 ax), Bluetooth 5.3</li><li><strong>Dimensions: </strong>15.71 x 11.57 x 0.91 inches</li><li><strong>Weight: </strong>6.61 lbs (3kg)</li><li><strong>Battery: </strong>90WHrs</li><li><strong>Price</strong>: $3,899.99</li></ul>
+
+
+
+<h3 id="asus-rog-strix-g18-design-and-build">Asus ROG Strix G18: Design and build</h3>
+
+
+
+<p>The G18 is unashamedly a laptop for serious gamers&ndash;as its huge size and extravagant feature set attests to. Measuring 15.71 x 11.57 x 0.91 inches, it&rsquo;s not as thin and compact as its near rival the Razer Blade 18 and it won&rsquo;t fit in any of my laptop bags, but then again, a few millimeters each way in a gaming laptop does have its advantages.</p>
+
+
+
+<p>For one, viewing the G18&rsquo;s 18-inch QHD+ display, which incidentally sports an impressive 89 percent screen-to-body and 16:10 aspect ratio, and thinner bezels than most 17-inch laptops, was a tantalizing experience. For me it felt like I was gaming on a flashier, blinged-out Smart TV&ndash;something I never thought I&rsquo;d see myself write in a laptop review.</p>
+
+
+
+<p>What&rsquo;s more, the G18&rsquo;s big proportions make it possible to host its powerful new 13-gen Intel and RTX 40 Series hardware&ndash;so that you can actually get near-to-desktop performance. To that end, the G18&rsquo;s motherboard and chassis were designed from the ground up for more efficient cooling, including the addition of a full-width three section heatsink. A third intake fan was also added to allow for better sustained performance over long gaming sessions&ndash;something you could only do in in chassis this big.</p>
+
+
+
+<p>All these changes from the G18&rsquo;s predecessors, the Strix/Scar 17 models considered, and you&rsquo;d expect this laptop to have an extra 1.5lbs weight on it, but somehow it weighs just 6.61lbs. It&rsquo;s baffling how Asus did this, but I&rsquo;m not complaining if it means I can continue to game like I&rsquo;m on a desktop and simply pack the laptop down like a book afterwards.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809613" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Back.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The Asus ROG Strix G18 features RGB light bars on both the front and back.</p>
+</figcaption></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>But the Strix G18 is more than just a big and powerful laptop; it also features lavish styling that appeals deeply to my gamer psyche. Some of the familiar features that return from last year look fantastic with fresh touches; features like the sharp edges and laser polished surface with anti-fingerprint coating. The iconic ROG logo also appears again on the top lid, however the cut line that we saw last year has very aptly been changed to a black one for a more discrete look.</p>
+
+
+
+<p>On the base of the chassis and around the keyboard, there are plenty of interesting features to admire, too. From customizable magnetic armor caps along the back to semi-translucent casings that give it a distinctive cyberpunk look, Asus has seemingly spared no expense to really impress us on the style front.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>&ldquo;Here the Strix G18 clocked an average frame rate score of 209 frames per second. This not only tops our list of comparisons, it also tops our PCWorld charts as the fastest score to date </p></blockquote></figure>
+
+
+
+<p>There&rsquo;s plenty of flashy RGB color accents around the G18 too, to really bedazzle us. Notwithstanding the Aura Sync per-key lit keyboard, which looks large and brilliant and flashes when not in use, you&rsquo;ll also find colorful RGB light bars on both the back and front of the chassis.</p>
+
+
+
+<p>These have been propped up with extra LEDs in the new model to emit an even more wondrous glow&ndash;but you might want to turn them off during hardcore gaming sessions if you need absolute focus.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-keyboard-and-trackpad">Asus ROG Strix G18: Keyboard and trackpad</h3>
+
+
+
+<p>Apart from looking fantastic, the keyboard sports a generous layout, including a spacious full-sized numpad and full-sized arrow keys. It also has a smattering of dedicated hot keys that will require a bit of a learning curve to remember them all at first, but after a while they&rsquo;ll really speed up how quickly you can access your essential commands. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus ROG Strix G18" class="wp-image-1809636" height="663" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Keyboard-1.jpg?quality=50&amp;strip=all" width="965" /><figcaption><p>The Strix G18&rsquo;s per-key lit RGB keyboard has hot keys for essential commands.&nbsp;</p> </figcaption></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>The keys feel much lighter and bouncier than I found in the Asus TUF A16 Advantage Edition, so are nice and comfy for long typing stints. The trackpad by comparison feels smooth, but a small nit-pick is that it requires a little too much pressure to register clicks. That&rsquo;s fine for light usage, but I did develop a strange throbbing pain in my index finger after a whole day&rsquo;s clicking, so using a mouse is going to be preferable to avoid a similar result for me in the future.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-connectivity-and-audio">Asus ROG Strix G18: Connectivity and audio</h3>
+
+
+
+<p>Gamers and creators are going to find the I/O options much to their liking, with both USB port types available and enough slots to plug in four devices. The addition of a Thunderbolt 4 port is a nice touch too that means gamers can transfer large game files quickly at a speed of up to 40Gbs (gigabits per second), instead of sitting around and waiting for their games to download on Steam.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-review">
+					Mentioned in this review				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="msi-titan-gt77-hx-13v">MSI Titan GT77 HX 13V</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="MSI Titan GT77 HX 13V" class="product-widget__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/msi-titan-gt77-4-1.jpg?quality=50&amp;strip=all" width="1500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1561127/msi-titan-gt77-hx-13v-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>For displaying video or games the G18 also gives you multiple options; the Thunderbolt 4 port for one allows you to stream video to either 2 x 4K displays or a single 8K display at a refresh rate of 60Hz, or you can also use the laptop&rsquo;s HDMI 2.1 display port if you don&rsquo;t want to tie down a USB-C.</p>
+
+
+
+<p>In regards to the sound, the quality is middling for a laptop of this size with the ends of the tonal range, both highs and lows, sounding a little hollow. That said, in most games and videos the two-speaker system can still muster a fairly decent cinematic experience, and it does have Dolby Atmos and Hi-Res audio support which adds a richness and flair to movies and games.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-display-and-webcam">Asus ROG Strix G18: Display and webcam</h3>
+
+
+
+<p>The G18 I tested had an 18-inch QHD+ (2560&times;1600) ROG Nebula panel with 100% DCI-P3 and sRGB color gamut coverage and a 240 Hz refresh rate. It also came with Adaptive-Sync and Dolby Vision.</p>
+
+
+
+<p>I&rsquo;ve already raved on about the 18-inch panel&rsquo;s generous size, but aside from that it also delivers gorgeous colors and crisp images. That said, being a conventional IPS-level LCD panel, it does have one obvious limitation, in that it lacks some depth of contrast in darker images, that if it were an OLED panel, it probably would have had.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809660" height="769" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/KC-4.png?w=1200" width="1200" /><figcaption><p>Screenshot from the game Kingdom Come: Deliverance taken on the ROG Strix G18&rsquo;s 18-inch QHD+ display.</p>
+</figcaption></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>Consequently, some darker scenes in games show up a little murky. However, the panel&rsquo;s high peak brightness of 489 nits (as measured by my LUX meter) does make it really easy to see in bright or sun-soaked environments and it also brings out the best in games which have more vivid colors.</p>
+
+
+
+<p>The panel&rsquo;s 240 refresh rate, however, is a welcome feature that proved a gem. It did a spectacular job of keeping frame rates ticking over, and to me the G18&rsquo;s motion appeared buttery smooth with little to no tearing or micro stuttering.</p>
+
+
+
+<p>While it&rsquo;s nice to see a webcam, the fact that it is a low-res 720p one instead of a 1080p camera seems a little incongruent with the laptop&rsquo;s premium price point. As expected, the low-resolution picture it produced was a little underwhelming at times. It provided passable, but not great performance, with some imagery sometimes appearing hazy.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-cpu-performance">Asus ROG Strix G18: CPU performance</h3>
+
+
+
+<p>My G18 came with some of the most powerful performance hardware you can get these days&ndash;namely an Intel Core i9-13980HX CPU and Nvidia GeForce RTX 4090 GPU. And, as you&rsquo;ll see in our benchmarking, they made a truly sensational pairing.</p>
+
+
+
+<p>But just on its own the G18&rsquo;s CPU is impressive enough. It features a whopping 24 cores and 32 threads. Intel&rsquo;s own benchmarking results have shown this chip to be extremely quick, demonstrating clock speeds of 5.6 GHz for its Performance cores (P-cores), and 4 GHz for its Efficient cores (E-cores).</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					MenTioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="asus-tuf-gaming-a16-advantage-edition">Asus TUF Gaming A16 Advantage Edition</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Asus TUF Gaming A16 Advantage Edition" class="product-widget__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/20230424_094122.jpg?quality=50&amp;strip=all" width="4032" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1801913/asus-tuf-gaming-a16-advantage-edition-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6535499&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6535499%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-1809571-5-1800827-11291" rel="nofollow" target="_blank">$1099.99 at  Best Buy</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Because of all that power, I pulled out PCWorld&rsquo;s very top performing laptops of 2022 and 2023 for CPU comparisons. The line-up for this clash of the titans included the <a href="https://www.pcworld.com/article/1561127/msi-titan-gt77-hx-13v-review.html">MSI Titan GT77</a>, which features the same CPU as our review unit, and the <a href="https://www.pcworld.com/article/703143/razer-blade-17-2022-review-a-large-powerful-gaming-laptop-with-options-galore.html">Razer Blade 17</a>, which sports an Intel 12th-gen Core i7-12700H CPU.</p>
+
+
+
+<p>First up in my testing schedule, I ran Maxon Cinebench&rsquo;s Single-Threaded benchmark. As you can see in the results below, the G18 showed excellent single core performance, leading the pack in our comparison charts. This result suggests the G18 has dollops of power for running simple programs like office apps, or browsers.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809640" height="640" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/G18-Single-Threaded-performance.png?w=1200" width="1200" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>Still in Cinebench, I ran the Multi-Threaded benchmark which tests all the cores of a laptop&rsquo;s CPU. Once again, the G18&rsquo;s Core i9-13980HX displayed the most impressive performance among our comparison group. On average it was about 15-30 percent quicker than laptops with midrange 12th-generation Intel chips, but it also outclassed the MSI Titan GT77, which features the same Intel 13th-gen i9 processor. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809638" height="640" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/G18-Cinebench-Multi-Threaded.png?w=1200" width="1200" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>With such a result, you can thereby also expect exceptional performance for high-end gaming and for other CPU-intensive tasks like video editing or encoding.</p>
+
+
+
+<p>Last but not least, I completed the HandBrake 0.9.9 test &ndash; a kind of sprint to the finish line which allows us to gauge a laptop&rsquo;s ability to control thermals before it gets too hot and needs to throttle performance.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809642" height="604" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/G18-HandBrake.png?w=1200" width="1200" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>In this test the G18 finished first in a very quick time of just 590 seconds, thereby proving it can keep cool and power on, even when other laptops fall by the wayside. It&rsquo;s also testament to the G18&rsquo;s innovative design that seems to quite efficiently manage its thermal load.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-gaming-performance">Asus ROG Strix G18: Gaming performance</h3>
+
+
+
+<p>The Strix G18 is the first laptop featuring Nvidia&rsquo;s new RTX 40 Series GPUs that I&rsquo;ve had the pleasure of reviewing and what a place to start! The RTX 4090 is the most high-end mobile GPU Nvidia currently has available. This video card is built with ultra-efficient Ada Lovelace Architecture and includes new cores and AI technologies that combined, deliver higher base and top-line performance than Nvidia RTX 30 Series cards.</p>
+
+
+
+<p>To quote my PCWorld colleagues Gordon Mah Ung and Alania Yee, &ldquo;RTX 4090 for laptops is absolutely ferocious&rdquo;&ndash;which just about sums up the Strix G18&rsquo;s GPU performance in the following graphics benchmark results below.</p>
+
+
+
+<p>The first test I ran was the 3DMark Time Spy benchmark, which gives a rough indication of the G18&rsquo;s suitability for a variety of tasks that require graphics processing. As the result shows, the G18&rsquo;s performance was comparable with the MSI GT77, in that it&rsquo;s absolutely primed for the most graphically demanding tasks you can throw at it&ndash;be that AAA games or something else a content creator might run on it.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809646" height="633" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/3DMark-Time-Spy.png?w=1200" width="1200" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>Next, we move on to the first of our gaming benchmarks for <em>Rise of the Tomb Raider</em>. Here, the Strix G18 clocked an average frame rate score of 209 frames-per-second. This not only tops our list of comparisons, it also tops our PCWorld charts as the fastest score to date&ndash;an exceptionally fine result that&rsquo;s going to be hard to beat in 2023.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809655" height="636" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/RoTTR-G18.png?w=1200" width="1200" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>The results for our next gaming benchmark for <em>Shadow of the Tomb Raider</em> were literally no different. In fact, the G18 clocked an average frame rate of 209 frames-per-second yet again, thus once again securing first place in the list of comparison gaming laptops.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ROG Strix G18" class="wp-image-1809652" height="636" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/G18-Shadow-of-the-Tomb-Raider-1.png?w=1200" width="1200" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>Overall, these benchmark results are very encouraging. Not only do they reinforce the superiority of the Nvidia&rsquo;s new RTX 4090 video card over countless older GPUs and hence the G18&rsquo;s suitability for the most graphically demanding games, they also suggest the G18 can just as well handle creator-focused graphics tasks with gusto.</p>
+
+
+
+<p>Consequently, since the G18&rsquo;s display is also Pantone Certified, we can surmise that it would also make a fine choice for content creators wanting a laptop that performs both powerfully and accurately, that they can use in either the home or office.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-battery-performance">Asus ROG Strix G18: Battery performance</h3>
+
+
+
+<p>Considering this laptop&rsquo;s large 90WHr battery, efficient new generation hardware and Advanced Optimus technology that can switch off the discrete GPU to save power, I had high hopes for a long battery life in the Strix G18.</p>
+
+
+
+<p>Regrettably, though, it lasted just shy of seven hours in our lightweight 4K video rundown test. For that reason, if you&rsquo;re not near an outlet you can expect approximately four hours gaming time unplugged, due to the higher power drain you&rsquo;ll get whilst gaming.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus ROG Strix G18" class="wp-image-1809634" height="586" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/G18-Battery-life.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Dominic Bayley / IDG</p></div>
+
+
+
+<p>If that&rsquo;s a deal breaker, then perhaps you should check out the Asus Gaming A16 Advantage Edition instead. This 16-inch laptop lasted a whopping 11 and a half hours when we ran the same test on it&ndash;which is truly an impressive result.</p>
+
+
+
+<h3 id="asus-rog-strix-g18-should-you-buy-it">Asus ROG Strix G18: Should you buy it?</h3>
+
+
+
+<p>The Asus Strix G18 is a top-notch gaming laptop, there&rsquo;s no denying that. While it does have a few drawbacks, namely its average battery life and steep price, the G18 is stacked with so much power to be considered a prized possession in any gamer&rsquo;s household. Put simply, if you&rsquo;re after a desktop replacement with the very best performance on offer and you can afford to buy one, you absolutely should.</p>
+
+Gaming, Gaming Laptops</div>
+
+## Get 10TB of secure cloud storage for just $90
+ - [https://www.pcworld.com/article/1816578/get-10tb-of-secure-cloud-storage-for-just-90.html](https://www.pcworld.com/article/1816578/get-10tb-of-secure-cloud-storage-for-just-90.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-12 08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Our digital lives are complicated, and we add new data to them every day. That&rsquo;s why <a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=prism-drive-secure-cloud-storage-lifetime-subscription-10-tb&amp;utm_term=scsf-570613&amp;utm_content=a0x1P000004IZ4UQAW&amp;scsonar=1" rel="noreferrer noopener" target="_blank">cloud storage</a> is so invaluable. It allows you to free up space on your devices without sacrificing your photos, videos, and other files.</p>
+
+
+
+<p>You don&rsquo;t have to be a <a href="https://www.pcworld.com/article/395030/learn-blockchain-devops-google-cloud-and-more-from-home-for-only-30.html" rel="noreferrer noopener" target="_blank">tech wizard</a> to take advantage of a great deal on cloud storage. For a limited time, you can get 10TB of Prism Drive Secure Cloud Storage for 87% off.</p>
+
+
+
+<p>Prism Drive lets you upload just about any type of file to your cloud and access them via your computer, phone, or tablet. Their system is fully compliant with privacy laws and offer the strongest available transfer encryption, keeping your files safe. If you ever need to share files, it&rsquo;s easy to create shareable links or preview files inline so you can make sure you have the right one before downloading and sending it. It&rsquo;s also easy to drag-and-drop files to upload, select, and move files and folders to fit your organizational needs.</p>
+
+
+
+<p>Cloud storage shouldn&rsquo;t have to be expensive. Right now, you can get lifetime access to 10TB of <a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=prism-drive-secure-cloud-storage-lifetime-subscription-10-tb&amp;utm_term=scsf-570613&amp;utm_content=a0x1P000004IZ4UQAW&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Prism Drive Secure Cloud Storage</a> for 87% off at just $89.99.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=prism-drive-secure-cloud-storage-lifetime-subscription-10-tb&amp;utm_term=scsf-570613&amp;utm_content=a0x1P000004IZ4UQAW&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp3.stackassets.com/fc16057859f0d6c556cf02b180b493373c977cf1/store/608380fa8106df2818426d1ece070912dc90fb68c03cfd74e61967e93318/sale_312662_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Prism Drive Secure Cloud Storage: Lifetime Subscription (10TB) &ndash; $89.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-lifetime-subscription-10-tb?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=prism-drive-secure-cloud-storage-lifetime-subscription-10-tb&amp;utm_term=scsf-570613&amp;utm_content=a0x1P000004IZ4UQAW&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices subject to change.</p>
+
+Storage</div>
+
