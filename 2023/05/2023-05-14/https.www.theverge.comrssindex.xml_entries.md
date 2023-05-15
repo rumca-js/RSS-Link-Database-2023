@@ -1,0 +1,51 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Google, how do I ask your AI the right questions?
+ - [https://www.theverge.com/2023/5/14/23719048/google-ai-duet-sidekick-search-prompts-io](https://www.theverge.com/2023/5/14/23719048/google-ai-duet-sidekick-search-prompts-io)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-05-14 17:00:00+00:00
+
+<figure>
+      <img alt="An illustration of a woman typing on a keyboard, her face replaced with lines of code." src="https://cdn.vox-cdn.com/thumbor/RJrebNfbIx8aaqSzj9bpDRNc-Bo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72279462/STK149_AI_Chatbot_K_Radtke.0.jpg" />
+        <figcaption><em>Live footage of me thinking of what to ask AI bots.</em> | Image: The Verge</figcaption>
+    </figure>
+
+  <p id="Afgm5J">A few weeks ago, my spouse and I made a bet. I said there was no way ChatGPT could believably mimic my writing style for a smartwatch review. I’d already asked the bot to do that months ago, and the results were laughable. My spouse bet that they could ask ChatGPT the exact same thing but get a <em>much</em> better result. My problem, they said, was I didn’t know the right queries to ask to get the answer I wanted.</p>
+<p id="9La6ml">To my chagrin, they were right. ChatGPT wrote <em>much</em> better reviews <em>as me</em> when my spouse did the asking. </p>
+<p id="7fxBqh">That memory flashed through my mind while <a href="https://www.theverge.com/2023/5/10/23662125/google-io-2023-live-blog-updates-news">Iiveblogging</a> Google I/O. This year’s keynote was essentially a two-hour thesis on AI, how it’ll impact Search, and all the ways it could <em>boldly</em> and <em>responsibly</em> make our lives better. A lot of...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/5/14/23719048/google-ai-duet-sidekick-search-prompts-io">Continue reading&hellip;</a>
+  </p>
+
+## Google’s new Magic Editor pushes us toward AI-perfected fakery
+ - [https://www.theverge.com/23721763/google-magic-editor-ai-photos-pixel-fakery](https://www.theverge.com/23721763/google-magic-editor-ai-photos-pixel-fakery)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-05-14 15:00:00+00:00
+
+<figure>
+      <img alt="A photo of a woman in front of a waterfall" src="https://cdn.vox-cdn.com/thumbor/Z2cFlZ42lvxGzNNtajGD9FIccC4=/93x0:1593x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72279223/google_magic_editor_1.0.png" />
+        <figcaption>Image: Google</figcaption>
+    </figure>
+
+  <p id="0B7cVA">One of the most impressive demos at Google I/O started with a photo of a woman in front of a waterfall. A presenter onstage tapped on the woman, picked her up, and moved her to the other side of the image, with the app automatically filling in the space where she once stood. They then tapped on the overcast sky, and it instantly bloomed into a brighter cloudless blue. In just a matter of seconds, the image had been transformed.</p>
+<p id="4p6Cx7">The AI-powered tool, dubbed the Magic Editor, certainly lived up to its name during the demo. It’s the kind of tool that Google has been building toward for years. It already has a couple of AI-powered image editing features in its arsenal, including the Magic Eraser, which lets you quickly remove people or...</p>
+  <p>
+    <a href="https://www.theverge.com/23721763/google-magic-editor-ai-photos-pixel-fakery">Continue reading&hellip;</a>
+  </p>
+
+## Google’s AI tools embrace the dream of Clippy
+ - [https://www.theverge.com/2023/5/14/23721313/google-duet-ai-for-workspace-sidekick-clippy-generative-new-era-office-work](https://www.theverge.com/2023/5/14/23721313/google-duet-ai-for-workspace-sidekick-clippy-generative-new-era-office-work)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-05-14 13:00:00+00:00
+
+<figure>
+      <img alt="Clippy on ruled paper." src="https://cdn.vox-cdn.com/thumbor/G1JOflHzWscUz319hn-fl-f1w4I=/2x0:1060x705/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72279078/clippy.0.jpg" />
+        <figcaption><em>Microsoft’s Clippy sits atop its paper throne.</em> | Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="RvXF7u">The words “it looks like you’re writing a letter, would you like some help with that?” didn’t appear at any point during Google’s recent demo of its AI office suite tools. But as I watched Aparna Pappu, Google’s Workspace leader, outline the feature <a href="https://www.youtube.com/live/cNfINi5CNbY?feature=share&amp;t=1732">onstage at I/O</a>, I was reminded of a certain animated paperclip that another tech giant once hoped would help usher in a new era of office work.</p>
+<p id="eVVPUE">Even Microsoft would acknowledge that Clippy’s legacy is not wholly positive, but the virtual assistant is forever associated with a particular period of work — one packed to the brim with laborious emails, clip art, and beige computers with clunking hard drives. Now, work has changed — it’s Slack pings, text cursors jostling in a Google Doc, and...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/5/14/23721313/google-duet-ai-for-workspace-sidekick-clippy-generative-new-era-office-work">Continue reading&hellip;</a>
+  </p>
+
