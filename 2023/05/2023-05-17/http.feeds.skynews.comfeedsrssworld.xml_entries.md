@@ -1,0 +1,79 @@
+# Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
+
+## Sunak rejects calls from Truss to fast-track Taiwan's entry to trading bloc
+ - [https://news.sky.com/story/rishi-sunak-rejects-calls-from-liz-truss-to-fast-track-taiwans-entry-to-cptpp-12883018](https://news.sky.com/story/rishi-sunak-rejects-calls-from-liz-truss-to-fast-track-taiwans-entry-to-cptpp-12883018)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 16:00:00+00:00
+
+Rishi Sunak has rejected Liz Truss's calls for Taiwan to be fast-tracked into a trans-Pacific trading bloc.
+
+## Pakistan's former prime minister Imran Khan expects arrest as police have 'surrounded' his house
+ - [https://news.sky.com/story/imran-khan-pakistans-former-prime-minister-says-police-have-surrounded-his-house-12882936](https://news.sky.com/story/imran-khan-pakistans-former-prime-minister-says-police-have-surrounded-his-house-12882936)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 13:12:00+00:00
+
+Pakistan's former prime minister Imran Khan says police have "surrounded" his house and his arrest is imminent.
+
+## Ex-French president Nicolas Sarkozy ordered to wear electronic tag
+ - [https://news.sky.com/story/nicolas-sarkozy-former-french-president-to-wear-electronic-tag-after-losing-corruption-appeal-12882816](https://news.sky.com/story/nicolas-sarkozy-former-french-president-to-wear-electronic-tag-after-losing-corruption-appeal-12882816)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 10:44:00+00:00
+
+Former French president Nicolas Sarkozy will be forced to wear an electronic tag after losing an appeal against his conviction for corruption.
+
+## Global temperature set to break key heat threshold for first time in next five years
+ - [https://news.sky.com/story/global-temperature-set-to-break-key-15c-heat-threshold-for-first-time-in-next-five-years-12882767](https://news.sky.com/story/global-temperature-set-to-break-key-15c-heat-threshold-for-first-time-in-next-five-years-12882767)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 10:07:00+00:00
+
+The global temperature is set to exceed 1.5C above pre-industrial levels for the first time in the next five years, the World Meteorological Organisation (WMO) has warned.
+
+## Russian activist 'poisoned, possibly by nerve agent' while on trip to Europe
+ - [https://news.sky.com/story/russian-activist-poisoned-possibly-by-nerve-agent-while-on-trip-to-europe-12882710](https://news.sky.com/story/russian-activist-poisoned-possibly-by-nerve-agent-while-on-trip-to-europe-12882710)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 09:21:00+00:00
+
+The head of an international organisation fighting for democracy in Russia says she thinks she was "poisoned, possibly by some nerve agent".
+
+## 300,000-year-old human footprints discovered
+ - [https://news.sky.com/story/300000-year-old-human-footprints-discovered-in-germany-12882699](https://news.sky.com/story/300000-year-old-human-footprints-discovered-in-germany-12882699)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 09:06:00+00:00
+
+Scientists have discovered human footprints thought to be 300,000 years old and the earliest ever found in Germany.
+
+## Kim Jong Un and daughter inspect North Korean military spy satellite
+ - [https://news.sky.com/story/kim-jong-un-and-daughter-inspect-north-korean-military-spy-satellite-12882674](https://news.sky.com/story/kim-jong-un-and-daughter-inspect-north-korean-military-spy-satellite-12882674)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 08:36:00+00:00
+
+North Korean leader Kim Jong Un and his daughter were pictured examining a military spy satellite which the country is expected to launch soon.
+
+## Cannes kicks off with huge standing ovation for Johnny Depp and award for Michael Douglas
+ - [https://news.sky.com/story/cannes-kicks-off-with-huge-standing-ovation-for-johnny-depp-and-an-award-for-michael-douglas-12882659](https://news.sky.com/story/cannes-kicks-off-with-huge-standing-ovation-for-johnny-depp-and-an-award-for-michael-douglas-12882659)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 08:05:00+00:00
+
+Johnny Depp's first film since his defamation trial got a seven-minute-long standing ovation at Cannes, as the film festival kicked off in France.
+
+## Three dead and thousands evacuated from their homes after flooding in Italy
+ - [https://news.sky.com/story/italy-flooding-three-dead-and-thousands-evacuated-from-their-homes-as-rivers-burst-their-banks-12882587](https://news.sky.com/story/italy-flooding-three-dead-and-thousands-evacuated-from-their-homes-as-rivers-burst-their-banks-12882587)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 06:34:00+00:00
+
+Three people have died while as many as 5,000 people have been evacuated from their homes in northeast Italy due to flooding.
+
+## Deadly fire at New Zealand hostel is being treated as suspicious
+ - [https://news.sky.com/story/deadly-fire-at-new-zealand-hostel-is-being-treated-as-suspicious-12882549](https://news.sky.com/story/deadly-fire-at-new-zealand-hostel-is-being-treated-as-suspicious-12882549)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 02:28:00+00:00
+
+A deadly fire at a hostel in New Zealand is being treated as suspicious.
+
+## Liz Truss urges Rishi Sunak to describe China as a 'threat' to UK security
+ - [https://news.sky.com/story/liz-truss-urges-rishi-sunak-to-describe-china-as-a-threat-to-uk-security-12882545](https://news.sky.com/story/liz-truss-urges-rishi-sunak-to-describe-china-as-a-threat-to-uk-security-12882545)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-05-17 00:33:00+00:00
+
+Former prime minister Liz Truss will call for her successor Rishi Sunak to say China is a "threat" to UK security.
+
