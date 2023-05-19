@@ -1,0 +1,48 @@
+# Source:ComputerWorld, URL:https://www.computerworld.com/index.rss, language:en-US
+
+## Supreme Court sides with Twitter, Google over tech platform liability
+ - [https://www.computerworld.com/article/3696995/supreme-court-sides-with-twitter-google-over-tech-platform-liability.html#tk.rss_all](https://www.computerworld.com/article/3696995/supreme-court-sides-with-twitter-google-over-tech-platform-liability.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-05-18 18:15:00+00:00
+
+<article>
+	<section class="page">
+<p>In a pair of highly anticipated rulings handed down Thursday, the US Supreme Court found that Google and Twitter could not be held liable under anti-terrorism laws for hosting content posted by terrorist groups. The decision was seen as a victory for the technology sector.</p><p>In <a href="https://www.supremecourt.gov/opinions/22pdf/21-1496_d18f.pdf" rel="noopener nofollow" target="_blank"><em>Twitter, Inc. v. Taamneh</em></a>, Justice Clarence Thomas, writing for a unanimous court, said that the plaintiffs in the original case — the family of a Jordanian national who died in a terrorist attack — had failed to state a claim under which relief could be provided. Thmoas wrote that the anti-terrorism law under which they sued Twitter did not provide for liability in a case where Twitter had merely provided a platform ISIS used.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3696995/supreme-court-sides-with-twitter-google-over-tech-platform-liability.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Is Apple’s supply chain creaking?
+ - [https://www.computerworld.com/article/3696994/is-apples-supply-chain-creaking.html#tk.rss_all](https://www.computerworld.com/article/3696994/is-apples-supply-chain-creaking.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-05-18 17:54:00+00:00
+
+<article>
+	<section class="page">
+<p>We’ve all heard a great deal concerning Apple’s work to <a href="https://www.computerworld.com/article/3689970/apples-supply-chain-is-accelerating-the-move-to-india.html">build up new manufacturing bases</a> outside China. We’ve also heard that some products have been delayed due to supply chain challenges; might these obstacles have begun to hit the company’s wider supply chain?</p><h2><strong>Can Apple get the parts?</strong></h2>
+<p>While the first waves of the COVID-19 emergency may have passed, we're still experiencing supply chain problems. Rising energy costs, economic challenges, foreign exchange fluctuations, political tensions — all are creating different stresses.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3696994/is-apples-supply-chain-creaking.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Micron to invest $3.6B for Japanese production of DRAM chips
+ - [https://www.computerworld.com/article/3696931/micron-to-invest-36b-for-japanese-production-of-dram-chips.html#tk.rss_all](https://www.computerworld.com/article/3696931/micron-to-invest-36b-for-japanese-production-of-dram-chips.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-05-18 11:31:00+00:00
+
+<article>
+	<section class="page">
+<p>Chipmaker Micron Technologies plans to invest up to 500 billion yen ($3.6 billion) to bring extreme ultraviolet lithography (EUV) to Japan, making them the first company to bring this production method to the country.</p><p>Extreme ultraviolet lithography (EVU) is used in the most advanced semiconductor device fabrication and Micron plans to use machines powered by this technology to make the next generation of <a href="https://www.computerworld.com/article/3109200/dram-to-live-on-as-ddr5-memory.html">dynamic random access memory</a> (DRAM), also known as 1-gamma chips, at its Hiroshima plant.</p><p>DRAM chips are widely used in digital electronics where low-cost and high-capacity memory is required.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3696931/micron-to-invest-36b-for-japanese-production-of-dram-chips.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## 15 Android settings that'll strengthen your security
+ - [https://www.computerworld.com/article/3268079/android-settings-security.html#tk.rss_all](https://www.computerworld.com/article/3268079/android-settings-security.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-05-18 10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>You might not know it from all the panic-inducing headlines out there, but Android is actually packed with practical and powerful security options. Some are activated by default and protecting you whether you realize it or not, while others are more out of the way but equally deserving of your attention.</p><p>So stop wasting your time worrying about the overhyped <a href="https://www.computerworld.com/article/3027231/android-malware-monster.html">Android malware monster</a> du jour and instead take a moment to look through these far more meaningful Android settings — ranging from core system-level elements to some more advanced and easily overlooked options.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3268079/android-settings-security.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Do business Macs still need to run Windows?
+ - [https://www.computerworld.com/article/3696314/do-business-macs-still-need-to-run-windows.html#tk.rss_all](https://www.computerworld.com/article/3696314/do-business-macs-still-need-to-run-windows.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2023-05-18 10:00:00+00:00
+
+<article>
+	<section class="page">
+<p>In January 2006, Apple took an important step toward success in the business world — it began to <a href="https://www.computerworld.com/article/2561270/macworld-06-an-overview-of-apple-s-big-day.html">transition the Mac onto Intel processors</a>. In so doing, the company paved the way for Macs to natively run Windows and Windows applications. Initially this capability came via Apple’s dual-boot system, called Boot Camp, followed by Parallels Desktop, software that ran Windows in a virtual environment. Either way, it eliminated an obstacle — the need to run applications not built for the Mac’s operating system — that had kept the Mac out of most workplaces.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3696314/do-business-macs-still-need-to-run-windows.html#jump">To read this article in full, please click here</a></p></section></article>
+
