@@ -1,0 +1,30 @@
+# Source:CNN World, URL:http://rss.cnn.com/rss/cnn_world.rss, language:en-US
+
+## How to help Cyclone Mocha victims
+ - [https://www.cnn.com/2023/05/18/world/help-cyclone-mocha-victims-myanmar-iyw/index.html](https://www.cnn.com/2023/05/18/world/help-cyclone-mocha-victims-myanmar-iyw/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2023-05-19 12:34:10.959520+00:00
+
+One of the strongest storms ever to hit Myanmar has left thousands of people in urgent need of food, water, shelter, and medical assistance.
+
+## The world's largest lakes are shrinking dramatically, and scientists say they have figured out why
+ - [https://www.cnn.com/2023/05/18/world/disappearing-lakes-reservoirs-water-climate-intl/index.html](https://www.cnn.com/2023/05/18/world/disappearing-lakes-reservoirs-water-climate-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2023-05-19 12:34:10.951717+00:00
+
+More than half of the world's largest lakes and reservoirs have lost significant amounts of water over the last three decades.
+
+## What really happened during Prince Harry and Meghan's New York car chase?
+ - [https://www.cnn.com/2023/05/18/world/harry-meghan-new-york-car-chase-intl-cmd-scli/index.html](https://www.cnn.com/2023/05/18/world/harry-meghan-new-york-car-chase-intl-cmd-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2023-05-19 12:34:10.928158+00:00
+
+There's no denying the echoes to the late Princess Diana's 1997 death in a car crash in Paris. More than 25 years on, her son and his wife were pursued through the streets of New York City this week in what their team called a "near catastrophic" car chase.
+
+## UN expert says Myanmar imported $1 billion in arms since coup
+ - [https://www.cnn.com/2023/05/18/world/un-myanmar-report-military-junta-deadly-arms-sales-russia-china-intl-hnk/index.html](https://www.cnn.com/2023/05/18/world/un-myanmar-report-military-junta-deadly-arms-sales-russia-china-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2023-05-19 12:34:10.916547+00:00
+
+Myanmar's ruling military junta has imported at least $1 billion in weapons and military-related equipment since its bloody coup, according to a new United Nations report which said much of the equipment was coming from individuals and businesses in Russia, China and Singapore.
+
