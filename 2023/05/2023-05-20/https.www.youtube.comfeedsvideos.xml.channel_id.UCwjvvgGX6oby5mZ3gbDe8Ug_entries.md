@@ -1,0 +1,19 @@
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
+
+## Why No Subprime Mortgage Crisis but Even Worse? Home buyers carry the consequences of CCP's mistakes
+ - [https://www.youtube.com/watch?v=oJf79iP1DIA](https://www.youtube.com/watch?v=oJf79iP1DIA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2023-05-20 00:15:05+00:00
+
+#Chinainsights
+China's economy is experiencing the sharpest downturn in nearly 40 years. Many home buyers can no longer afford their mortgages, and more and more people are defaulting on their monthly payments. This trend is growing. But, we have noted that the "Lehman moment" hasn't happened in China. Why is that? In 2008, a wave of defaulted mortgages in the United States triggered a financial tsunami. Yet, in China, we haven’t seen any large-scale bank failure. It seems to be a good thing on the surface. But if one looks deeper, one will feel sorry for the Chinese people. They have borne the heavy burden of decades of government mistakes and the huge risks the state is facing. And many, many Chinese have been driven to their breaking point.
+
+Have questions? Do you have something to share with us about China? We want to hear from you! 
+Email: Cinsights.subscription@gmail.com
+Facebook www.facebook.com/EyesOnChina.
+
+Your support allows us to produce more high-quality videos. 
+Consider donating at https://www.paypal.com/paypalme/ChinaInsights
+
+Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+
