@@ -1,0 +1,282 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## 'Since the Covid-19 pandemic, the crystal ball of economic forecasters has become extremely opaque'
+ - [https://www.lemonde.fr/en/opinion/article/2023/05/23/since-the-covid-19-pandemic-the-crystal-ball-of-economic-forecasters-has-become-extremely-opaque_6027656_23.html](https://www.lemonde.fr/en/opinion/article/2023/05/23/since-the-covid-19-pandemic-the-crystal-ball-of-economic-forecasters-has-become-extremely-opaque_6027656_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 23:01:31+00:00
+
+International institutions need to educate people about the gaps between economic forecasts and reality and explain why trajectories have diverged and which neglected parameters should have been taken into account, says 'Le Monde' columnist Stéphane Lauer.
+
+## Biden and McCarthy resume debt ceiling talks with June 1 deadline looming
+ - [https://www.lemonde.fr/en/economy/article/2023/05/23/biden-and-mccarthy-resume-debt-ceiling-talks-with-june-1-deadline-approaching_6027653_19.html](https://www.lemonde.fr/en/economy/article/2023/05/23/biden-and-mccarthy-resume-debt-ceiling-talks-with-june-1-deadline-approaching_6027653_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 22:28:21+00:00
+
+The US president said he was 'optimistic' of making progress with House Speaker Kevin McCarthy late Monday as time quickly ticks on trying to strike a budget compromise and raise the nation's borrowing limit to avert a potentially chaotic federal default.
+
+## Sudan: Witnesses report combat and airstrikes minutes after one-week ceasefire takes effect
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/sudan-witnesses-report-combat-and-airstrikes-minutes-after-one-week-ceasefire-takes-effect_6027650_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/sudan-witnesses-report-combat-and-airstrikes-minutes-after-one-week-ceasefire-takes-effect_6027650_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 21:43:10+00:00
+
+A one-week humanitarian ceasefire, negotiated with the help of the United States and Saudi Arabia, took place Monday evening. All the previous truces have been violated.
+
+## TikTok sues the state of Montana to stop unprecedented ban of video-sharing app
+ - [https://www.lemonde.fr/en/united-states/article/2023/05/22/tiktok-sues-the-state-of-montana-to-stop-unprecedented-ban-of-video-sharing-app_6027646_133.html](https://www.lemonde.fr/en/united-states/article/2023/05/22/tiktok-sues-the-state-of-montana-to-stop-unprecedented-ban-of-video-sharing-app_6027646_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 21:24:27+00:00
+
+The lawsuit filed by the social media company argues that the Montana law is an unconstitutional violation of free speech rights and is based on 'unfounded speculation' that the Chinese government could access users' data.
+
+## US authorities sanction Irishman who helped wealthy Russians with passport fraud
+ - [https://www.lemonde.fr/en/economy/article/2023/05/22/us-authorities-sanction-irishman-who-helped-wealthy-russians-with-passport-fraud_6027636_19.html](https://www.lemonde.fr/en/economy/article/2023/05/22/us-authorities-sanction-irishman-who-helped-wealthy-russians-with-passport-fraud_6027636_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 18:43:42+00:00
+
+John Desmond Hanafin, a Dubai-based entrepreneur, is accused by the US Treasury of providing fraudulent passports to Russian nationals and helping them evade sanctions put in place by Western countries.
+
+## Climate change: 'How can we, artists and film professionals, do our part?'
+ - [https://www.lemonde.fr/en/opinion/article/2023/05/22/four-hundred-film-professionals-issue-manifesto-committing-to-climate-change-mitigation_6027632_23.html](https://www.lemonde.fr/en/opinion/article/2023/05/22/four-hundred-film-professionals-issue-manifesto-committing-to-climate-change-mitigation_6027632_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 18:15:07+00:00
+
+A group supported by more than 400 film industry professionals, including Isabelle Adjani, Cyril Dion, Louis Garrel and Natalie Portman, launched the CUT! manifesto on Monday, May 22, in Cannes.
+
+## Elon Musk, the boss who dreamed of being funny
+ - [https://www.lemonde.fr/en/pixels/article/2023/05/22/elon-musk-the-boss-who-dreamed-of-being-funny_6027626_13.html](https://www.lemonde.fr/en/pixels/article/2023/05/22/elon-musk-the-boss-who-dreamed-of-being-funny_6027626_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 18:00:09+00:00
+
+For years, the multi-billionaire's incessant jokes have divided people. But they also reveal a lot about his conception of the world and the way he manages his companies.
+
+## French Interior Ministry criticized for keeping tabs on Eid school-skipping
+ - [https://www.lemonde.fr/en/education/article/2023/05/22/french-interior-ministry-under-fire-for-keeping-tabs-on-eid-school-skipping_6027622_104.html](https://www.lemonde.fr/en/education/article/2023/05/22/french-interior-ministry-under-fire-for-keeping-tabs-on-eid-school-skipping_6027622_104.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 17:57:02+00:00
+
+In the city of Toulouse, police asked the heads of local schools to report the number of absent children on the day of the Muslim celebration that marks the end of Ramadan.
+
+## US: Republican Tim Scott launches 2024 presidential campaign
+ - [https://www.lemonde.fr/en/united-states/article/2023/05/22/us-republican-tim-scott-launches-2024-presidential-campaign_6027618_133.html](https://www.lemonde.fr/en/united-states/article/2023/05/22/us-republican-tim-scott-launches-2024-presidential-campaign_6027618_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 17:45:00+00:00
+
+The senator from South Carolina will compete in the Republican primary against former president Donald Trump and the former governor of the same state, Nikki Haley.
+
+## Italy's Emilia-Romagna region, devastated by floods, questions land use
+ - [https://www.lemonde.fr/en/environment/article/2023/05/22/italy-s-emilia-romagna-region-devastated-by-floods-questions-land-use_6027614_114.html](https://www.lemonde.fr/en/environment/article/2023/05/22/italy-s-emilia-romagna-region-devastated-by-floods-questions-land-use_6027614_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 17:30:10+00:00
+
+The northeastern region has experienced historic floods and numerous landslides which have claimed 14 lives in recent days.
+
+## Russia says Ukrainian 'sabotage' group crossed border, Kyiv denies
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/russia-says-ukrainian-sabotage-group-crossed-border-kyiv-denies_6027612_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/russia-says-ukrainian-sabotage-group-crossed-border-kyiv-denies_6027612_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 17:21:43+00:00
+
+Several people were injured during an attack in the border region of Belgorod, which has seen previous incidents of alleged border crossings by Ukrainian fighters.
+
+## French tennis player Gaston fined more than 2023 earnings over unruly behavior
+ - [https://www.lemonde.fr/en/sports/article/2023/05/22/french-tennis-player-gaston-fined-more-than-2023-earnings-over-unruly-behavior_6027608_9.html](https://www.lemonde.fr/en/sports/article/2023/05/22/french-tennis-player-gaston-fined-more-than-2023-earnings-over-unruly-behavior_6027608_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 16:38:41+00:00
+
+Hugo Gaston was fined €144,000 by the ATP Tour for repeated unsportsmanlike conduct. If he abides by the rules, the fine could be halved.
+
+## US states propose to cut water use from Colorado River
+ - [https://www.lemonde.fr/en/united-states/article/2023/05/22/us-states-propose-to-cut-water-use-from-colorado-river_6027606_133.html](https://www.lemonde.fr/en/united-states/article/2023/05/22/us-states-propose-to-cut-water-use-from-colorado-river_6027606_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 16:31:09+00:00
+
+Arizona, California and Nevada agreed to conserve their use of water from the drought-hit river, after the federal government threatened to force cuts on them.
+
+## France presents new, more ambitious emissions-cutting plan
+ - [https://www.lemonde.fr/en/environment/article/2023/05/22/france-presents-new-more-ambitious-emissions-cutting-plan_6027602_114.html](https://www.lemonde.fr/en/environment/article/2023/05/22/france-presents-new-more-ambitious-emissions-cutting-plan_6027602_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 16:10:50+00:00
+
+To align with the EU's target, the French government is targeting a reduction of greenhouse gas emissions 50% by 2030 compared with 1990 levels.
+
+## French lawmakers begin examination of sensitive military budget bill
+ - [https://www.lemonde.fr/en/france/article/2023/05/22/french-lawmakers-begin-examination-of-sensitive-military-budget-bill_6027599_7.html](https://www.lemonde.fr/en/france/article/2023/05/22/french-lawmakers-begin-examination-of-sensitive-military-budget-bill_6027599_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 16:00:40+00:00
+
+The bill plans €413 billion of military spending until 2030. French Defense Minister Sébastien Lecornu has made pledges to various parliamentary groups in the hope of getting the law passed as the government lacks a majority at the Assemblée Nationale.
+
+## Turkey elections: Erdogan wins endorsement from third-place Ogan
+ - [https://www.lemonde.fr/en/europe/article/2023/05/22/turkey-elections-erdogan-grabs-endorsement-from-third-place-presidential-candidate_6027592_143.html](https://www.lemonde.fr/en/europe/article/2023/05/22/turkey-elections-erdogan-grabs-endorsement-from-third-place-presidential-candidate_6027592_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 14:47:51+00:00
+
+Sinan Ogan, an ultranationalist who obtained 5.2% of the vote in the May 14 presidential election, will support the incumbent president in the run-off on May 28.
+
+## Greece elections: Conservatives bag clear victory but fall short of forming government
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/greece-elections-conservatives-bag-clear-victory-but-fall-short-of-forming-government_6027591_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/greece-elections-conservatives-bag-clear-victory-but-fall-short-of-forming-government_6027591_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 14:30:40+00:00
+
+The conservative party led by Kyriakos Mitsotakis came out on top but does not plan on forming a coalition government. New elections will most likely be held in June or July.
+
+## French conservatives pressure government on immigration
+ - [https://www.lemonde.fr/en/politics/article/2023/05/22/french-conservatives-pressure-government-on-immigration_6027586_5.html](https://www.lemonde.fr/en/politics/article/2023/05/22/french-conservatives-pressure-government-on-immigration_6027586_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 13:48:45+00:00
+
+The right-wing Les Républicains presented two pieces of legislation on immigration, taking a hardline policy approach as they hope to force the government's hand.
+
+## Ukraine says it is still fighting in Bakhmut, amid conflicting narratives
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/ukraine-says-it-is-still-fighting-in-bakhmut-amid-conflicting-narratives_6027582_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/ukraine-says-it-is-still-fighting-in-bakhmut-amid-conflicting-narratives_6027582_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 13:09:24+00:00
+
+Russia's Wagner paramilitary group said Monday it was preparing to hand over control of the Ukrainian city to the regular Russian army, as Ukraine continued denying it had lost the whole city.
+
+## EU calls for Greece to probe reported illegal migrant pushback
+ - [https://www.lemonde.fr/en/europe/article/2023/05/22/eu-calls-for-greece-to-probe-reported-illegal-migrant-pushback_6027581_143.html](https://www.lemonde.fr/en/europe/article/2023/05/22/eu-calls-for-greece-to-probe-reported-illegal-migrant-pushback_6027581_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 13:00:17+00:00
+
+The Greek government is under pressure after a 'New York Times' investigation showed accosted migrants being forced onto a boat and set adrift.
+
+## Mark Cavendish, Tour de France record-holder for stage wins, to retire this year
+ - [https://www.lemonde.fr/en/sports/article/2023/05/22/mark-cavendish-tour-de-france-record-holder-for-stage-wins-to-retire-this-year_6027579_9.html](https://www.lemonde.fr/en/sports/article/2023/05/22/mark-cavendish-tour-de-france-record-holder-for-stage-wins-to-retire-this-year_6027579_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 12:32:39+00:00
+
+The British cyclist is tied with Belgian legend Eddy Merckx at 34 stage wins in the Tour de France. He will attempt to become the outright record-holder on his last Tour, this summer.
+
+## Belarusian dissident pulled off forced-down plane says he has been pardoned
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/belarusian-dissident-pulled-off-forced-down-plane-says-he-has-been-pardoned_6027574_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/belarusian-dissident-pulled-off-forced-down-plane-says-he-has-been-pardoned_6027574_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 11:39:37+00:00
+
+Dissident journalist Raman Pratasevich  was arrested after being pulled off a commercial flight that was diverted to the country. He was originally sentenced to eight years, but has now been pardoned.
+
+## Real Madrid lodge formal legal complaint after Vinicius racially abused
+ - [https://www.lemonde.fr/en/sports/article/2023/05/22/real-madrid-lodge-formal-legal-complaint-after-vinicius-racially-abused_6027572_9.html](https://www.lemonde.fr/en/sports/article/2023/05/22/real-madrid-lodge-formal-legal-complaint-after-vinicius-racially-abused_6027572_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 11:24:06+00:00
+
+The incident happened during a match between Real and Valencia, when Vinicius received racial abuse from people in the stands.
+
+## European watchdog slams Meta with record €1.2-billion-fine over data rules
+ - [https://www.lemonde.fr/en/pixels/article/2023/05/22/european-watchdog-slams-meta-with-record-1-2-billion-fine-over-data-rules_6027570_13.html](https://www.lemonde.fr/en/pixels/article/2023/05/22/european-watchdog-slams-meta-with-record-1-2-billion-fine-over-data-rules_6027570_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 10:57:13+00:00
+
+The decision comes as the third fine imposed on the social media giant this year in the EU and the fourth in six months.
+
+## Imran Khan: 'Pakistan cannot be run by a minority government cobbled together by renegades'
+ - [https://www.lemonde.fr/en/asia-and-pacific/article/2023/05/22/imran-khan-pakistan-cannot-be-run-by-a-minority-government-cobbled-together-by-renegades_6027568_153.html](https://www.lemonde.fr/en/asia-and-pacific/article/2023/05/22/imran-khan-pakistan-cannot-be-run-by-a-minority-government-cobbled-together-by-renegades_6027568_153.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 10:42:07+00:00
+
+Pakistan's former prime minister, arrested on May 9, detained and released two days later by the Supreme Court, calls for elections to end the political crisis in his country.
+
+## Turkish elections: Controversy over the use of a religious organization's premises for voting in France
+ - [https://www.lemonde.fr/en/france/article/2023/05/22/turkish-elections-controversy-over-the-use-of-a-religious-organization-s-premises-for-voting-in-france_6027560_7.html](https://www.lemonde.fr/en/france/article/2023/05/22/turkish-elections-controversy-over-the-use-of-a-religious-organization-s-premises-for-voting-in-france_6027560_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 10:00:57+00:00
+
+Elected officials and community groups have condemned the fact that Turkish voters were made to vote in a hall provided by a federation of mosques seen as an 'arm' of Turkey's Directorate of Religious Affairs.
+
+## What is the 14th Amendment Biden could use to raise the debt ceiling?
+ - [https://www.lemonde.fr/en/economy/article/2023/05/22/what-is-the-14th-amendment-biden-could-use-to-raise-the-debt-ceiling_6027557_19.html](https://www.lemonde.fr/en/economy/article/2023/05/22/what-is-the-14th-amendment-biden-could-use-to-raise-the-debt-ceiling_6027557_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 09:43:15+00:00
+
+The US president said on Sunday he believes he has the legal right to invoke the 14th Amendment of the US Constitution to raise the debt ceiling.
+
+## Prominent French economist and Macron consultant recommends 'taxing the wealthiest to finance the climate transition'
+ - [https://www.lemonde.fr/en/politics/article/2023/05/22/prominent-french-economist-and-macron-consultant-recommends-taxing-the-wealthiest-to-finance-the-climate-transition_6027549_5.html](https://www.lemonde.fr/en/politics/article/2023/05/22/prominent-french-economist-and-macron-consultant-recommends-taxing-the-wealthiest-to-finance-the-climate-transition_6027549_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 09:02:43+00:00
+
+In a report published on May 22, Jean-Pisani-Ferry calls for debt to support the climate transition and advocates a specific tax on the assets of the wealthiest.
+
+## West caught off guard by Arab world welcoming Assad back into the fold
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/west-caught-off-guard-by-arab-world-welcoming-assad-back-into-the-fold_6027545_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/west-caught-off-guard-by-arab-world-welcoming-assad-back-into-the-fold_6027545_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 08:42:46+00:00
+
+The United States and European Union are refusing to lift sanctions or accept normalization of the Syrian regime.
+
+## The Russian cargo ship endlessly blocked in the French port of Saint Malo
+ - [https://www.lemonde.fr/en/m-le-mag/article/2023/05/22/the-russian-cargo-ship-endlessly-blocked-in-the-french-port-of-saint-malo_6027539_117.html](https://www.lemonde.fr/en/m-le-mag/article/2023/05/22/the-russian-cargo-ship-endlessly-blocked-in-the-french-port-of-saint-malo_6027539_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 08:32:34+00:00
+
+The Vladimir Latyshev, a bulk carrier that arrived to deliver cargo, has been blocked in the ancient port since the beginning of the Ukraine war. The ship keeps sailing back and forth between docks with its crew confined on board.
+
+## Ukraine's Zaporizhzhia nuclear plant cut off from power grid
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/ukraine-s-zaporizhzhia-nuclear-plant-cut-off-from-power-grid_6027536_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/ukraine-s-zaporizhzhia-nuclear-plant-cut-off-from-power-grid_6027536_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 07:32:52+00:00
+
+Ukraine's nuclear agency Energoatom said  that there was a power outage at the Zaporizhzhia nuclear plant after a Russia-installed official said the plant was switched to standby and emergency power supply.
+
+## French territory Mayotte begins demolition of shantytown
+ - [https://www.lemonde.fr/en/immigration/article/2023/05/22/french-territory-mayotte-begins-demolition-of-shantytown_6027529_144.html](https://www.lemonde.fr/en/immigration/article/2023/05/22/french-territory-mayotte-begins-demolition-of-shantytown_6027529_144.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 07:23:53+00:00
+
+Hundreds of French police officers and gendarmes arrived with diggers to destroy homes described as sub-standard.
+
+## Three Palestinians killed in Israeli West Bank raid
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/three-palestinians-killed-in-israeli-west-bank-raid_6027525_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/three-palestinians-killed-in-israeli-west-bank-raid_6027525_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 06:47:23+00:00
+
+According to the Palestinian Health Ministry,  three men were killed during a raid in a refugee camp near the city of Nablus, as the US slams latest settlement expansion.
+
+## NBA playoffs: Heat dominate Celtics to take towering 3-0 game lead
+ - [https://www.lemonde.fr/en/sports/article/2023/05/22/nba-playoffs-heat-dominate-celtics-to-take-towering-3-0-lead_6027522_9.html](https://www.lemonde.fr/en/sports/article/2023/05/22/nba-playoffs-heat-dominate-celtics-to-take-towering-3-0-lead_6027522_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 05:29:29+00:00
+
+After destroying Boston Celtics on Sunday, the Miami Heat are now just one win away from reaching the NBA finals.
+
+## Notre-Dame fire: a well-trimmed framework
+ - [https://www.lemonde.fr/en/france/article/2023/05/22/notre-dame-s-framework-is-being-rebuilt-with-an-axe-just-like-in-the-middle-ages_6027518_7.html](https://www.lemonde.fr/en/france/article/2023/05/22/notre-dame-s-framework-is-being-rebuilt-with-an-axe-just-like-in-the-middle-ages_6027518_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 03:30:05+00:00
+
+The company rebuilding the cathedral's framework will unveil the first part of their work on May 25 − a spectacular feat of carpentry accomplished using a skill dating back to the 13th century.
+
+## War in Ukraine: 'Cancel culture' hits exiled Russian artists
+ - [https://www.lemonde.fr/en/culture/article/2023/05/22/war-in-ukraine-cancel-culture-hits-exiled-russian-artists_6027514_30.html](https://www.lemonde.fr/en/culture/article/2023/05/22/war-in-ukraine-cancel-culture-hits-exiled-russian-artists_6027514_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 03:21:45+00:00
+
+Amidst the ongoing conflict in Ukraine, Russian artists – including those who oppose Vladimir Putin's regime – are finding themselves increasingly caught in the crossfire as Western cultural institutions are faced with pressure to choose sides.
+
+## Emmanuel Macron's quick but 'geostrategic' visit to Mongolia
+ - [https://www.lemonde.fr/en/asia-and-pacific/article/2023/05/22/emmanuel-macron-s-quick-but-geostrategic-visit-to-mongolia_6027511_153.html](https://www.lemonde.fr/en/asia-and-pacific/article/2023/05/22/emmanuel-macron-s-quick-but-geostrategic-visit-to-mongolia_6027511_153.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 02:44:38+00:00
+
+On his way back from the G7 summit in Hiroshima, the French president stopped for a few hours in the capital of Mongolia, Ulaanbaatar, to strengthen ties with a country that, caught between China and Russia, is trying to break out of its neighbors' orbit.
+
+## In Northern Ireland, pro-reunification party Sinn Fein secures power in local elections
+ - [https://www.lemonde.fr/en/international/article/2023/05/22/in-northern-ireland-pro-reunification-party-sinn-fein-secures-power-in-local-elections_6027506_4.html](https://www.lemonde.fr/en/international/article/2023/05/22/in-northern-ireland-pro-reunification-party-sinn-fein-secures-power-in-local-elections_6027506_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 01:33:56+00:00
+
+The victory of the Irish nationalists (Catholic) marks a shift in Northern Ireland's political landscape that breaks (Protestant) Unionist dominance.
+
+## Cannes 2023: a journey into Kore-eda's popular Japan
+ - [https://www.lemonde.fr/en/m-le-mag/article/2023/05/22/a-journey-through-working-class-japan-in-the-footsteps-of-filmmaker-kore-eda_6027505_117.html](https://www.lemonde.fr/en/m-le-mag/article/2023/05/22/a-journey-through-working-class-japan-in-the-footsteps-of-filmmaker-kore-eda_6027505_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 01:00:09+00:00
+
+Streets lined with shops, suburbs, and seaside cities. In April, photographer Chikashi Suzuki went on the trail of the places that Hirokazu Kore-eda depicts in his films, far from the postcard images. Winner of the Golden Palm in 2018 for 'Shoplifters,' the director has returned in competition at Cannes with 'Monster.'
+
+## US civil rights groups issue travel warning for Florida in light of 'hostile' laws
+ - [https://www.lemonde.fr/en/united-states/article/2023/05/22/us-civil-rights-groups-issue-travel-warning-for-florida-in-light-of-hostile-laws_6027503_133.html](https://www.lemonde.fr/en/united-states/article/2023/05/22/us-civil-rights-groups-issue-travel-warning-for-florida-in-light-of-hostile-laws_6027503_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-05-22 00:14:36+00:00
+
+The NAACP's advisory warning comes after Florida governor Ron DeSantis' administration pressed forward with measures that ban state colleges from having programs on diversity, equity and inclusion, as well as critical race theory.
+
