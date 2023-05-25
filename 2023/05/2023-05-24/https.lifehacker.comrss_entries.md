@@ -1,0 +1,121 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## This Sensor Helps You Match Any Paint Color, and It’s 40% Off
+ - [https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ExFFKuUV--/c_fit,fl_progressive,q_80,w_636/e9a7aa42ab9a2551161176d8ec9f4ed8.jpg" /><p>Being a DIY redecorating fanatic is rewarding until you stumble at the finish line choosing the right colors for your projects. Or maybe you’re trying to touch up an already painted wall and you just can’t get the shade to look right. <br /></p><p><a href="https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418">Read more...</a></p>
+
+## What's New on Paramount+ in June 2023
+ - [https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uZssmg8I--/c_fit,fl_progressive,q_80,w_636/c4fb1dbb0b2eb0294837b44967a49e98.jpg" /><p>Some months I think, why do I even subscribe to Paramount+? I can’t tell my <em>Yellowstone </em>spinoffs from my <a href="https://mashable.com/category/yellowjackets" rel="noopener noreferrer" target="_blank"><em>Yellowjacket</em>s</a>. Then I remember that <em>Star Trek</em> exists.</p><p><a href="https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712">Read more...</a></p>
+
+## Get Ready Now for Prime Day 2023
+ - [https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--jwVfvG6R--/c_fit,fl_progressive,q_80,w_636/1c628f64c0e1487d70ae0611fb43fe55.jpg" /><p>Amazon’s biggest discount holiday of the year, Prime Day 2023, is nearly upon us, which means you can expect thousands of deals and discounts on just about every type of product you can think of. If you’re looking for details on when and where Amazon’s 48-hour shopping event will be held, you’ve come to the right…</p><p><a href="https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592">Read more...</a></p>
+
+## Pop Your Corn in Ghee for Greaseless Buttery Flavor
+ - [https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625](https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--AdURmQF---/c_fit,fl_progressive,q_80,w_636/d920c3a37f0737849b82358f1490172b.jpg" /><p>It wasn’t that I didn’t <em>like</em> the fluffy corn I had popped in clarified butter. I  just found it slightly disappointing (at least until I added salt, but more on that in a bit). “It’s because you drown your popcorn,” my boyfriend suggested, shoving another handful into his mouth. “That’s why you don’t like this. You’d…</p><p><a href="https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625">Read more...</a></p>
+
+## You Can Get a Refurbished MacBook Air (and a Lifetime of Microsoft Office) for 25% Off
+ - [https://lifehacker.com/you-can-get-a-refurbished-macbook-air-and-a-lifetime-o-1850470454](https://lifehacker.com/you-can-get-a-refurbished-macbook-air-and-a-lifetime-o-1850470454)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--LIbgGVBy--/c_fit,fl_progressive,q_80,w_636/831e848f00470e99d3c1231fed74e180.jpg" /><p>A brand-new, off-the-shelf computer may be a necessary expense if you need the latest hardware. But for most of us, a <a href="https://shop.lifehacker.com/sales/apple-macbook-air-i5-5350u-refurbished-microsoft-office-professional-plus-2021?utm_source=lifehacker.com&amp;utm_medium=referral&amp;utm_campaign=apple-macbook-air-i5-5350u-refurbished-microsoft-office-professional-plus-2021&amp;utm_term=scsf-571318&amp;utm_content=a0x1P000004Ib7yQAC&amp;scsonar=1" target="_blank">refurbished device</a> is a more affordable—and <a href="https://www.backmarket.com/en-us/c/news/used-vs-refurbished-smartphone" rel="noopener noreferrer" target="_blank">environmentally friendly</a>—option. <a href="https://shop.lifehacker.com/sales/apple-macbook-air-i5-5350u-refurbished-microsoft-office-professional-plus-2021?utm_source=lifehacker.com&amp;utm_medium=referral&amp;utm_campaign=apple-macbook-air-i5-5350u-refurbished-microsoft-office-professional-plus-2021&amp;utm_term=scsf-571318&amp;utm_content=a0x1P000004Ib7yQAC&amp;scsonar=1" target="_blank">This refurbished Apple MacBook Air</a> is certified to look and work like new, despite being manufactured in 2017. And right…</p><p><a href="https://lifehacker.com/you-can-get-a-refurbished-macbook-air-and-a-lifetime-o-1850470454">Read more...</a></p>
+
+## Your Yard Needs a Sensory Garden Path
+ - [https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Yw9PZgIE--/c_fit,fl_progressive,q_80,w_636/ef52a0212cbd6d693d712b1788722c81.jpg" /><p>Sensory paths are a popular feature in schools, as they can engage kids in ways that promote focus and calm. These are all things that many adults could stand to be reminded of, so a garden sensory path doesn’t  have to be just for kids. <br /><br />A sensory garden path can be a great feature for anyone looking to up their…</p><p><a href="https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088">Read more...</a></p>
+
+## How to Store Bread, According to Your Bread Personality
+ - [https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--htHkDCKh--/c_fit,fl_progressive,q_80,w_636/882487a0ccf9d227b8744e45ebd65cbe.jpg" /><p>Welcome back to <a href="https://lifehacker.com/tag/the-grown-up-kitchen">The Grown-Up Kitchen</a>, a segment of Skillet devoted to answering basic kitchen questions. Not every voting-age adult is comfortable slingin’ steaks or even heating their frozen pizza. (My stepfather insists he’s never been able to microwave popcorn without burning it.) From basic cooking skills to…</p><p><a href="https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334">Read more...</a></p>
+
+## What's New on Netflix in June 2023
+ - [https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uRIpZln7--/c_fit,fl_progressive,q_80,w_636/603f66401f00d59992e8e6b356a4e66c.jpg" /><p>Lots of people are rightly mad at <a href="https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887">Netflix  for cracking down on password sharing</a> or still nursing a grudge over GLOW getting canceled, but lest they think nothing they do will make us happy, I’d like to take this moment to thank them for raising <em>Nimona</em> from the dead <a href="https://lifehacker.com/whats-new-on-disney-in-january-2022-1848234607" target="_blank">after Disney unjustly shitcanned it in 2021</a>. </p><p><a href="https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621">Read more...</a></p>
+
+## Make a Bee-Friendly Watering Hole for Your Garden
+ - [https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--u98j3KWg--/c_fit,fl_progressive,q_80,w_636/2dde57a0812386a2d97ef645697b264e.jpg" /><p>While we’ve all been focused on growing a bee-friendly habitat in our gardens by planting pollinator friendly varieties, there’s something else that’s vital to the health of bees that often goes unmentioned: Bees need water. In their natural habitats, bees get water from ponds, pools, and puddles that naturally occur…</p><p><a href="https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165">Read more...</a></p>
+
+## Earn College Credits Before Stepping Foot on Campus
+ - [https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6ZI_ziy0--/c_fit,fl_progressive,q_80,w_636/0c16b963b323bc8fc92d3a55e54ebf13.jpg" /><p>Once you’re enrolled in college, you can take classes whenever you want, including spring and winter breaks <a href="https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238" target="_blank">and during the summer</a>. But you can also get a jump start on your college credits before you’ve even started your first traditional semester. There are some options for you in high school to earn college credit…</p><p><a href="https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845">Read more...</a></p>
+
+## How to Block YouTube Ads on Your Android TV
+ - [https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Xz7kskWm--/c_fit,fl_progressive,q_80,w_636/8047e46e0dcf4841cae37ddf2eb8a694.jpg" /><p>The experience of watching YouTube videos somehow keeps getting worse, and if you watch them on your smart TV, get ready to <a href="https://zdcs.link/BqOqb" rel="noopener noreferrer" target="_blank">begin seeing a lot of unskippable 30-second ads</a> before your video has even started. As if that isn’t bad enough, YouTube may also start showing you ads when you<em> pause </em>a video. <br /><br />Fortunately, there…</p><p><a href="https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423">Read more...</a></p>
+
+## Can Green Tea Matcha Really Help ADHD?
+ - [https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--hTalFbJa--/c_fit,fl_progressive,q_80,w_636/ffe0ff35c052577890042075df0b42be.jpg" /><p>“Oh, the ADHD special,” the Starbucks barista commented, and I swiveled to see who she was talking to. I’d heard the order, too. Chai latte with two scoops of matcha powder. I raised an eyebrow, because now I’d heard it in two places: people treating ADHD with green tea matcha. The first person had been my therapist,…</p><p><a href="https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853">Read more...</a></p>
+
+## The College Classes You Should Take During the Summer (and the Ones You Shouldn’t)
+ - [https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--v89MfUiU--/c_fit,fl_progressive,q_80,w_636/66c89625923d7379914230eeb8f48ac9.jpg" /><p>Planning out a college class schedule is a special art. There are some classes that can be taken during winter break or “May intersession,” for instance, and those cram a whole semester’s worth of work into about two weeks—but substantially speed up the pace at which you acquire credits for graduation. You can also…</p><p><a href="https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238">Read more...</a></p>
+
+## Deep-Fried Duck Necks Are Delightful
+ - [https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2DJewVos--/c_fit,fl_progressive,q_80,w_636/d78b274aa60d397eefcb48aa6f76e4d5.jpg" /><p>I buy my ducks from the Asian market down the street. Not only is it the most economical choice, but it’s the most fun option. These ducks come with the head and neck attached, and the neck is a <em>treat</em>.</p><p><a href="https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837">Read more...</a></p>
+
+## Make a Killer Crumb Cake With Boxed Muffin Mix
+ - [https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375](https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--pmHL28Rd--/c_fit,fl_progressive,q_80,w_636/26fd9dc2b4c0aeebd31b3fb7a6402abe.jpg" /><p>Boxed muffin mixes are convenient for baking up a dozen hand-held quick breads, but that’s not all they can do. The pre-packaged mixture contains flour, sugar, flavorings, and a leavening agent, ingredients that are consistent with a number of other cake-like desserts. In fact, with a couple of simple adjustments, you…</p><p><a href="https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375">Read more...</a></p>
+
+## What to Do When You Think Your Kid Is Being Punished Unfairly at School
+ - [https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--jKZj2JJC--/c_fit,fl_progressive,q_80,w_636/61c70662a941a322b3c2ee47f6a8a311.jpg" /><p>Sometimes your child gets into a situation that requires them to “repair” or, even sometimes, “repent.” Often you will be the one to <a href="https://lifehacker.com/six-tips-on-disciplining-children-from-an-experienced-t-1679048782" target="_blank">dole out these consequences</a>. However, once your child is in school, there may come a time when they “get in trouble” and you get that dreaded call from the office or a teacher. What if…</p><p><a href="https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723">Read more...</a></p>
+
+## The 10 Most Affordable Beach Towns in the U.S.
+ - [https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352](https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-05-24 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9e93rdxW--/c_fit,fl_progressive,q_80,w_636/d3ef0f07f4afb9a564456faddf9e7d2e.jpg" /><p>So you’ve always wanted to live at the beach, whether as a permanent resident or for frequent access to a vacation home. According to <a href="https://www.realtor.com/news/trends/beach-home-on-a-budget-most-affordable-ocean-real-estate-in-2023/" rel="noopener noreferrer" target="_blank">data from Realtor.com</a>, you may be able to get your wish without spending a fortune if you can snag a home in one of the most affordable beach towns in the U.S.<br /></p><p><a href="https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352">Read more...</a></p>
+
