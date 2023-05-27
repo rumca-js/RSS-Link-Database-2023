@@ -1,0 +1,20 @@
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
+
+## 4.5M Beijinger are in despair: Xiong'an-the world's biggest rotten tail project is urged to continue
+ - [https://www.youtube.com/watch?v=1ikjk7vfkvY](https://www.youtube.com/watch?v=1ikjk7vfkvY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2023-05-26 02:41:20+00:00
+
+#Chinainsights#xiong'an
+Developing the Xiongan New District is like building a mansion in a garbage dump, and people don't want to live there.
+The Xiongan New Area actually imposes a significant amount of political pressure on Xi Jinping. However, he is a strong personality and won’t back down, so he strongly supports Xiong'an. However, Xi's hard-line approach isn't enough to silence the opposition. On the contrary, the lack of a corrective mechanism is turning the Xiongan New Area into a vortex: the more investment, the less likely it will stop; and when it doesn't stop, more investment is needed. China's economy is in turmoil and its finances are getting tighter. The Xiongan New Area has become a bottomless pit, which will be more and more politically damaging to Xi. 
+
+Have questions? Do you have something to share with us about China? We want to hear from you! 
+Email: Cinsights.subscription@gmail.com
+Facebook www.facebook.com/EyesOnChina.
+
+Your support allows us to produce more high-quality videos. 
+Consider donating at https://www.paypal.com/paypalme/ChinaInsights
+
+Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+
