@@ -1,0 +1,58 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Blade Runner Show Possibly Delayed a Full Year as Companies Refuse to Pay Writers
+ - [https://gizmodo.com/blade-runner-2099-production-delayed-writers-strike-1850483149](https://gizmodo.com/blade-runner-2099-production-delayed-writers-strike-1850483149)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6YU-DyKP--/c_fit,fl_progressive,q_80,w_636/535cb0f51c3c9875d0e927fc6520747c.jpg" /><p>You can now add the upcoming <em>Blade Runner 2099 </em>TV show to the list of shows impacted by the Writers Strike.<br /></p><p><a href="https://gizmodo.com/blade-runner-2099-production-delayed-writers-strike-1850483149">Read more...</a></p>
+
+## Trent Reznor & Atticus Ross May Be Doing TMNT: Mutant Mayhem's Music
+ - [https://gizmodo.com/tmnt-mutant-mayhem-score-trent-reznor-atticus-ross-1850483746](https://gizmodo.com/tmnt-mutant-mayhem-score-trent-reznor-atticus-ross-1850483746)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 19:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--KGhtBh5A--/c_fit,fl_progressive,q_80,w_636/2cd07d8d4f4fb85d9a5d381fe38c5312.jpg" /><p>Paramount’s <a href="https://gizmodo.com/tmnt-mutant-mayhem-cinemacon-footage-super-fly-ice-cube-1850383668"><em>Teenage Mutant Ninjas Turtles: Mutant Mayhem</em></a><em> </em>is set to hit theaters in a few months, and everything about it revealed so far <a href="https://gizmodo.com/tmnt-mutant-mayhem-new-images-details-1850421483">looks</a> and sounds like a good time. The movie has a lot of talent behind it: beyond <a href="https://gizmodo.com/tmnt-mutant-mayhem-trailer-paramount-1850191310">Seth Rogen</a> serving as an executive producer and voicing classic villain Bebop, the cast is…</p><p><a href="https://gizmodo.com/tmnt-mutant-mayhem-score-trent-reznor-atticus-ross-1850483746">Read more...</a></p>
+
+## HBO Exec Talks Writers Strike, Game of Thrones' TV Future
+ - [https://gizmodo.com/hbo-max-game-of-thrones-tv-spinoffs-1850483708](https://gizmodo.com/hbo-max-game-of-thrones-tv-spinoffs-1850483708)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 18:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--WSckT0CJ--/c_fit,fl_progressive,q_80,w_636/6f98319dd92540ea7c3d92ab6e8546c1.jpg" /><p>After <em>Game of Thrones </em>wrapped in 2019, it wasn’t really a question about if HBO was considering the fantasy series for spinoff potential. Out of the <a href="https://gizmodo.com/naomi-watts-will-headline-hbos-game-of-thrones-prequel-1830109094">many candidates</a> there were at the time, the first salvo of this enterprise was last year’s <a href="https://gizmodo.com/house-of-the-dragon-game-of-thrones-considine-viserys-1850474953"><em>House of the Dragon</em></a><em>, </em>but it won’t be the last. Ahead and after that show’s…</p><p><a href="https://gizmodo.com/hbo-max-game-of-thrones-tv-spinoffs-1850483708">Read more...</a></p>
+
+## Bleach's Endgame Reaches the Halfway Point in July
+ - [https://gizmodo.com/bleach-thousand-year-blood-war-part-2-trailer-1850483591](https://gizmodo.com/bleach-thousand-year-blood-war-part-2-trailer-1850483591)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--quTW9f-X--/c_fit,fl_progressive,q_80,w_636/f5126a555a8346b617d08bcfcac6cb8b.jpg" /><p>Late last year, the anime adaptation of <a href="https://gizmodo.com/bleach-thousand-year-blood-war-anime-trailer-2-1849138595"><em>Bleach</em></a><em> </em>returned after being off the air for over a decade. With the new subtitle of <a href="https://gizmodo.com/best-tv-moments-2022-andor-she-hulk-house-of-the-dragon-1849894306/slides/23"><em>Thousand-Year Blood War</em></a><em>, </em>the series aimed to adapt the final arc of Tite Kubo’s beloved supernatural manga, and many would say that it was more than worth the wait. After taking the first half of…</p><p><a href="https://gizmodo.com/bleach-thousand-year-blood-war-part-2-trailer-1850483591">Read more...</a></p>
+
+## What Is an AI 'Black Box'?
+ - [https://gizmodo.com/chatgpt-app-what-is-an-ai-black-box-1850481273](https://gizmodo.com/chatgpt-app-what-is-an-ai-black-box-1850481273)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--A_Obnrrf--/c_fit,fl_progressive,q_80,w_636/cf1dc00048752600234523af0e81efa1.jpg" /><p>For some people, the term “black box” brings to mind the recording devices in airplanes that are valuable for postmortem analyses if the unthinkable happens. For others it evokes small, minimally outfitted theaters. But black box is also an important term in the world of artificial intelligence.<br /></p><p><a href="https://gizmodo.com/chatgpt-app-what-is-an-ai-black-box-1850481273">Read more...</a></p>
+
+## Netflix Quietly Gives The Witcher (and Liam Hemsworth) Another Season
+ - [https://gizmodo.com/witcher-netflix-season-5-renewal-1850483227](https://gizmodo.com/witcher-netflix-season-5-renewal-1850483227)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--OunGUWW9--/c_fit,fl_progressive,q_80,w_636/b71a061fb8a0d39ebc2b152f04525b24.jpg" /><p>The last several months have been tumultuous for Netflix’s <em>The Witcher</em>. After <a href="https://gizmodo.com/the-witcher-season-3-release-date-teaser-trailer-cavill-1850372756">its third season</a> hits next month, <a href="https://gizmodo.com/netflix-the-witcher-henry-cavill-s3-epic-send-off-1849919845">Henry Cavill’s</a> time as Geralt of Rivia will come to a close as <em>Hunger Games’ </em><a href="https://gizmodo.com/liam-hemsworth-will-replace-henry-cavill-on-the-witcher-1849719658">Liam Hemsworth</a> steps into the role for the foreseeable future. But even with the actor change, Netflix still wants the show to…</p><p><a href="https://gizmodo.com/witcher-netflix-season-5-renewal-1850483227">Read more...</a></p>
+
+## AI Is Changing How Americans Find Jobs and Get Promoted
+ - [https://gizmodo.com/chatgpt-jobs-ai-how-americans-find-jobs-get-promoted-1850481233](https://gizmodo.com/chatgpt-jobs-ai-how-americans-find-jobs-get-promoted-1850481233)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2mSeRLim--/c_fit,fl_progressive,q_80,w_636/d288a7719904870b2cf82b574bbea3a0.jpg" /><p>Advancements in <a href="http://doi.org/10.1007/978-3-319-70987-1_139" rel="noopener noreferrer" target="_blank">human capital management systems</a>, more strategic and data-driven human resource and <a href="https://doi.org/10.1016/j.hrmr.2022.100926" rel="noopener noreferrer" target="_blank">talent management practices</a>, and increased <a href="http://doi.org/10.3389/fpsyg.2022.1034712" rel="noopener noreferrer" target="_blank">attention to bias</a> are all factors that are changing how people are hired, developed, promoted and fired.<br /></p><p><a href="https://gizmodo.com/chatgpt-jobs-ai-how-americans-find-jobs-get-promoted-1850481233">Read more...</a></p>
+
+## Is Generative AI Bad for the Environment?
+ - [https://gizmodo.com/chatgpt-app-ai-is-generative-ai-bad-for-the-environment-1850481190](https://gizmodo.com/chatgpt-app-ai-is-generative-ai-bad-for-the-environment-1850481190)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-05-28 12:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--QdS4_HI5--/c_fit,fl_progressive,q_80,w_636/ccb77493c9fc60d5521b783cc626aa30.png" /><p>Generative AI is the hot new technology behind chatbots and image generators. But how hot is it making the planet?<br /></p><p><a href="https://gizmodo.com/chatgpt-app-ai-is-generative-ai-bad-for-the-environment-1850481190">Read more...</a></p>
+
