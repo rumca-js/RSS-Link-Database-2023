@@ -1,0 +1,1121 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Cooler Master’s modular MasterHub is like a supercharged Stream Deck
+ - [https://www.pcworld.com/article/1937583/watch-out-stream-deck-cooler-masters-masterhub-is-coming-for-you.html](https://www.pcworld.com/article/1937583/watch-out-stream-deck-cooler-masters-masterhub-is-coming-for-you.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 20:25:44+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Macro pads are popular among streamers, and for good reason&mdash;mapping shortcuts to a single button press makes life easier. The one of the best-known pads is the ever-popular <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Elgato-Stream-Deck-Controller-customizable/dp/B06XKNZT1P&amp;xcust=2-1-1937583-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Elgato Stream Deck</a>, but its time as the reigning accessory might be over. Cooler Master just unveiled its MasterHub device at Computex, and it takes the concept of a macro pad to a whole new level.</p>
+
+
+
+<p>Unlike the Stream Deck, the MasterHub is modular&mdash;<a href="https://www.pcworld.com/article/1935899/1935899.html">a running theme</a> at Cooler Master&rsquo;s booth this year. You snap different modules onto a base (i.e., the &ldquo;hub&rdquo;), creating your own custom combination and layout to suit your needs. Macro keys, physical volume sliders, control knobs, scrub bars, and touch screen displays are just some of the options. It provides plenty of flexibility, enough so that you could swap modules based on how your work changes during the day. Paul&rsquo;s Hardware took the hardware for a spin, which you can see below.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>At launch, three MasterHub bundles will be available&mdash;one for streamers, one for video editors, and one for photographers. Each has a different configuration, tailored for the usual needs of each kind of creator. If you want to adjust your setup, you can buy additional modules from Cooler Master; the company says nine types will be available for individual purchase on its website. Cooler Master also plans to eventually offer a variety of base sizes, which could help eliminate the need for different types of control decks at your desk (Stream Deck, volume controller, etc). You can have just one central device.</p>
+
+
+
+<p>To tweak settings for your MasterHub, you&rsquo;ll use Cooler Master&rsquo;s upcoming MasterControl software, which will arrive first in mid-July (Paul took at peek at it before the hub in the video above). The MasterHub will follow in late November. Cost has yet to be announced, but Cooler Master&rsquo;s plans are ambitious for this new piece of kit. Controlling your PC is just the start&mdash;eventually, that will expand to your room environment in 2024, then full smart home automation, in 2025. The final price tag could reflect these ambitions.</p>
+
+Computer Accessories</div>
+
+## Microsoft finally adds some useful Widgets to monitor your PC
+ - [https://www.pcworld.com/article/1937422/microsoft-quietly-adds-windows-widgets-to-monitor-your-pc.html](https://www.pcworld.com/article/1937422/microsoft-quietly-adds-windows-widgets-to-monitor-your-pc.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 17:10:32+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;ve complained that Windows&rsquo; own Widgets simply clutter up your screen with junk stories, pay attention: There are several new, useful widgets that a recent Microsoft app makes available for you to use.</p>
+
+
+
+<p>You might not think that the Microsoft Dev Home app would add anything useful to your PC, given that it&rsquo;s an app aimed at managing a developer&rsquo;s pull requests. But the app actually makes available widgets to monitor your CPU, memory, GPU usage, and network performance, too.</p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.neowin.net/guides/windows-11-gets-widgets-for-monitoring-cpu-gpu-ram-and-more-here-is-how-to-enable-them/&amp;xcust=2-1-1937422-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Neowin unearthed the new widgets</a> in testing out the app. They&rsquo;re similar to what Windows&rsquo; own Task Manager does, of course, with a few tweaks that could be useful.</p>
+
+
+
+<p>Microsoft&rsquo;s Widgets are either a useful gateway to additional content, or just a bunch of junk information that clutters up your screen. Microsoft previously invested in licensing news, and began <a href="https://www.pcworld.com/article/399004/how-to-use-the-microsoft-news-bar-app-to-get-free-quality-news.html">launching experiments in 2020 with the News Bar</a> to push that content to you. (Our story also discusses how to manage Microsoft&rsquo;s news sources, adding and subtracting publications&mdash;but it&rsquo;s doubtful that many people actually do that.)</p>
+
+
+
+<p>In 2021, Microsoft began <a href="https://www.pcworld.com/article/394453/all-windows-10-users-will-get-their-own-news-feed-courtesy-of-bing.html">migrating Bing&rsquo;s news content to Windows 10&rsquo;s &ldquo;News and Interests,&rdquo;</a> which eventually became Windows 11&rsquo;s Widgets, <a href="https://www.pcworld.com/article/395108/microsoft-adds-another-start-to-windows.html">powered by Start</a>. Microsoft then began <a href="https://www.pcworld.com/article/704022/windows-11-widgets-might-actually-be-useful-soon.html">inviting developers to populate the Widgets news feed</a> last year. Microsoft is pledging even <a href="https://www.pcworld.com/article/1927896/microsoft-confirms-tweakable-widgets-will-arrive-in-windows.html">greater control over Widgets</a>, too. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 Widgets Dev Home" class="wp-image-1937460" height="856" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Microsoft-Dev-Home.png?w=1200" width="1200" /><figcaption>Download the Dev Home (Preview) app to begin.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>All this means, though, is that there&rsquo;s a huge area of your screen that Microsoft is just itching for you to use. </p>
+
+
+
+<h2 id="how-to-download-and-use-the-cpu-memory-gpu-and-network-widgets">How to download and use the CPU, memory, GPU, and network widgets</h2>
+
+
+
+<p>To take advantage of these new widgets, search for the Dev Home (Preview) app on the Microsoft Store. Download and install it&mdash;it&rsquo;s about 400MB. You don&rsquo;t need to configure the app, or even use it. Then click on the Widgets icon in the lower left-hand corner, and then the small &ldquo;+&rdquo; button at the top.</p>
+
+
+
+<p>This allows you to add new Widgets, and you should see the CPU, memory, GPU, and network widgets for you to add, clustered at the top of the list. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 Widgets" class="wp-image-1937459" height="1164" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/WIndows-widgets-2.png?w=1200" width="1200" /><figcaption>After the Dev Home app has been downloaded and installed, new Widgets options will open up.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>The additional widgets don&rsquo;t add as much as the detailed information that can be found within the Windows 11 Task Manager. The memory widget, for example, offers a few processes that you can click to kill at the touch of a button. What the widget showed me, however, was the Windows Explorer process that took up just a fraction of my available memory.</p>
+
+
+
+<p>The other bug you may notice is that, even when pinned, the new widgets didn&rsquo;t immediately &ldquo;stick&rdquo; to the top of the Widgets window, as they should. That bug appeared to resolve itself if you opened and closed Widgets a few times.</p>
+
+
+
+<p>Still, any attempt to make Widgets more useful has to be applauded, right?</p>
+
+Windows</div>
+
+## Important Scans Look More Like Your Image Originals with Scanner Software SilverFast 9
+ - [https://www.pcworld.com/article/1937438/important-scans-look-more-like-your-image-originals-with-scanner-software-silverfast-9.html](https://www.pcworld.com/article/1937438/important-scans-look-more-like-your-image-originals-with-scanner-software-silverfast-9.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 16:26:48+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Do you keep a lot of slides, negatives and photo prints? These images retain the memories of your most important moments in life, and they need to be protected. Around the world, billions of images are waiting to be digitized and archived.</p>
+
+
+
+<p>For digitizing photographic material, it&rsquo;s a good idea to utilize a dedicated scanner and professional scanner software. Once you have successfully scanned your images in high quality, you may store them in a cloud or on your hard drive, email or print them, post them on social media, and of course use them for your individual digital workflow.</p>
+
+
+
+<p>Why are we talking about software? In terms of image quality, it is at least as important for the result as the hardware itself. That&rsquo;s why you should consider buying SilverFast SE ($49, also available free demo with watermarks) to replace your scanner&rsquo;s software. Because it can potentially make the difference between good and brilliant scans.</p>
+
+
+
+<p>SilverFast software has long been recognized for its excellent tools for controlling exposure, color and dynamic range. It also features a lot of powerful tools for defect detection and removal.</p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.silverfast.com/supported-scanners-models-devices/#/&amp;xcust=2-1-1937438-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="sponsored" target="_blank">SilverFast supports many scanners from well-known manufacturers</a>&nbsp;such as Epson, Nikon or Plustek. Hint for beginners:&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.silverfast.com/show/bundle-epson/en.html&amp;xcust=2-1-1937438-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="sponsored" target="_blank">there is a free copy of SilverFast SE 9 available for the Epson Perfection V600</a>, which is an inexpensive but high-quality flatbed scanner.</p>
+
+
+
+<p>SilverFast contains a multitude of features that optimize the general scanning process and save a lot of time. SilverFast is especially known for its patented fully automatic IT8 scanner calibration, which ensures accurate colors. SilverFast Multi-Exposure, also patented, is a tool for increasing the scanner&rsquo;s dynamic range and allows the scanner to capture more image details while minimizing image noise (unattractive pixel errors) effectively.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="LaserSoft Imaging " class="wp-image-1937441" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/before_after_kodachrome_isrd.png?w=1200" width="1200" /><figcaption>Before and after &ndash; SilverFast Dust and Scratch Removal </figcaption></figure><p class="imageCredit">LaserSoft Imaging</p></div>
+
+
+
+<p>A big advantage of the Epson Perfection V600, and other scanner models like Plusteks filmscanner, is its integrated infrared channel. In combination with SilverFast iSRD, it can automatically remove dust and scratches, which can be literally found on every single slide and negative. It takes a long time to fix these errors manually in Photoshop.</p>
+
+
+
+<p>For all those who want to create a digital archive, we recommend the SilverFast RAW data concept (<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=mduPeN-OolA&amp;feature=youtu.be&amp;xcust=2-1-1937438-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="sponsored" target="_blank">watch Video for more information)</a>. Scan 64/48 bit raw data with just one click. Like the raw data concept for digital cameras, you can always return to the starting point (&ldquo;non-destructive editing&rdquo;). Most importantly, you have now securely saved your analog originals. Subsequent editing of your images is then possible at any time.&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.silverfast.com/silverfast-archive-suite/&amp;xcust=2-1-1937438-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="sponsored" target="_blank">With SilverFast Archive Suite</a>&nbsp;you get a comprehensive and powerful software package for all these tasks.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="LaserSoft Imaging" class="wp-image-1937444" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/before_after_it8.png?w=1200" width="1200" /><figcaption><p>Before and after &ndash; SilverFast Auto IT8-Calibration</p>
+</figcaption></figure><p class="imageCredit">LaserSoft Imaging</p></div>
+
+
+
+<p>Don&rsquo;t be afraid, if you don&rsquo;t know how to start yet. Video tutorials and a step-by-step WorkflowPilot are of great help for beginners. Take care of your memories and try SilverFast scanner software. Free trial, more info and special offers can be found here&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.silverfast.com/about-silverfast-why-scanning-basics-of-scanning/landing-page-pc-world/&amp;xcust=2-1-1937438-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="sponsored" target="_blank">on the SilverFast website.</a></p>
+
+Professional Software</div>
+
+## AirJet teardown: See inside the solid-state cooling revolution
+ - [https://www.pcworld.com/article/1937217/airjet-teardown-see-inside-the-cooling-revolution.html](https://www.pcworld.com/article/1937217/airjet-teardown-see-inside-the-cooling-revolution.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 15:24:20+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>One of the most exciting new technologies we&rsquo;ve seen this year is Frore Systems&rsquo; AirJet, a device that can cool PC components and other electronics using a super-thin, solid-state build with no moving parts. The initial device was <a href="https://www.pcworld.com/article/1476932/is-airjets-solid-state-cooling-the-future-of-pc-thermals.html">shown off at CES</a> at the beginning of the year, but at Computex in Taiwan Gordon and Adam got a chance to peek under the hood and see what makes the AirJet tick. Or not tick, I guess, but vibrate membranously on a tiny bit of power. You know what I mean. </p>
+
+
+
+<p>If you haven&rsquo;t been following our coverage, the Airject uses several layers of exotic materials and precision geometry to vibrate tiny membranes, intaking air, blowing it over a copper heat spreader, and exhausting it at up to 200 kilometers per hour. A tiny AirJet Mini unit, about the size of a few postage stamps, can replace an active cooler ten times its size and many times its 2.8mm thickness. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Gordon&rsquo;s teardown demonstration lets you see all the pieces that go into an AirJet unit, showing just how tiny it is &mdash; and most of it is the copper heat spreader surrounding the microjets sealed under the casing. Millimeter-thin portions of the material design allow the expelled air to mix with cooler air, preventing an uncomfortable blast of heat from annoying the user. </p>
+
+
+
+<p>What does the AirJet look like when used in a real product? AirJet maker Frore Systems has a demo to show how it can work on an M.2 SSD, which is where a lot of the extreme cooling needs are showing up these days. An external drive equipped with two AirJet Minis, compared to the same Sabrent retail design with passive cooling, shows a huge improvement in cooling while being used. The AirJet-equipped drive was 55 degrees Celsius (131 Fahrenheit) under load, with slightly better read and write performance, versus a toasty 68 degrees C (154 F) on the passively cooled drive. </p>
+
+
+
+<p>The first retail product scheduled to ship with AirJet cooling is the Zotac Zbox PI430AJ (the AJ stands for AirJet!), which PCWorld <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://youtu.be/HZFZoxxTpyA&amp;xcust=2-1-1937217-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">also checked out at a Computex</a>. We&rsquo;ve <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://youtu.be/WibczqINifA&amp;xcust=2-1-1937217-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">visited Frore Systems for an AirJet lab tour</a>, too. For the latest news on the world of PC components, be sure to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/@pcworld&amp;xcust=2-1-1937217-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">subscribe to PCWorld on YouTube</a>. </p>
+
+Storage</div>
+
+## Azza’s new PC case is a big glass cube and I love it
+ - [https://www.pcworld.com/article/1935946/1935946.html](https://www.pcworld.com/article/1935946/1935946.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 15:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>This week at Computex, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.azza.gg/&amp;xcust=2-3-1935946-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Azza</a> unveiled a slew of unique PC cases&mdash;but that&rsquo;s nothing new. This company is known for its eye-catching PC cases. In fact, it&rsquo;s got a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.azza.gg/products/pyramid-l-804l&amp;xcust=2-3-1935946-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">pyramid-shaped desktop case</a> that both confuses and delights me (I aim to achieve this state of mind on a regular basis). </p>
+
+
+
+<p>These unusual cases are more than just conversation pieces, though. They&rsquo;re functional. There&rsquo;s definitely logic behind each design choice. Azza showed off a PC case that looks kind of like a glass terrarium and I&rsquo;m so here for it. Let&rsquo;s dive in.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Looking to buy a pre-built gaming PC? If so, check out this PCWorld writer&rsquo;s <a href="https://www.pcworld.com/article/1481326/pre-built-desktop-gaming-pc-pluses-minuses.html">first-hand impressions</a>.</p></blockquote>
+
+
+
+<h2 id="sanctum-810">Sanctum 810</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Azza Sanctum 810" class="wp-image-1936911" height="654" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/azza-sanctum-810.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Azza</p></div>
+
+
+
+<p>Azza&rsquo;s Sanctum 810 PC case is designed to accommodate larger components and water-cooling systems. From the glass panes and airy mesh panels to the square build and angled top piece, this case really stands out in a sea of black rectangles (though it resembles the popular <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/HYTE-Aesthetic-Panoramic-Mid-Tower-CS-HYTE-Y60-B/dp/B09TQ1J58V&amp;xcust=2-3-1935946-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Hyte Y60</a>). There&rsquo;s enough space to hide all of your cables in the brushed aluminum base and the front fans, which are purposefully angled at your graphics card, direct airflow through the front mesh cover, which helps keep things nice and cool. </p>
+
+
+
+<p>A proper cooling system is important, especially when playing more intensive games, which can really get the fans moving. According to the manufacturer, the case is big enough to fit up to seven 120mm fans. You should have zero issues with cooling this thing down. It&rsquo;s definitely more than just a mere statement piece, as every aspect of this design seems to serve some purpose.</p>
+
+
+
+<h2 id="more-pc-cases-please">More PC cases please</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Mesa 811" class="wp-image-1936030" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Untitled-design-27.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">AZZA</p></div>
+
+
+
+<p>Azza showed off four other cases: The Mesa 811, the Neo 5000, the Augment 510, and the Augment Pro 520. The Mesa 811 (pictured above) features a rhombus-like shape with glass panels and aluminum pieces with cut-outs. The front accommodates three fans while the back fits just one. In other words, there should be plenty of ventilation. Don&rsquo;t let the asymmetrical design fool you, though. It can fit E-ATX motherboards as well as up to 380mm graphics cards. </p>
+
+
+
+<p>The Neo 5000 looks more like your typical desktop tower. However, it wouldn&rsquo;t be an Azza PC case if there wasn&rsquo;t some drama. The front of this case features a mesh covering and a square cut-out design. The Augment 510 and Pro 520 are made of aluminum and come with three pre-installed front fans. They&rsquo;re essentially the same design, but they come in mid- and full-tower flavors. </p>
+
+
+
+<p>We don&rsquo;t know the pricing and availability of these cases, but we reached out to Azza for that information. </p>
+
+Desktop PCs</div>
+
+## Nab this fast, curved 1440p Samsung gaming monitor for $299
+ - [https://www.pcworld.com/article/1937102/1937102.html](https://www.pcworld.com/article/1937102/1937102.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 14:32:07+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When it comes to immersive gameplay, a curved monitor makes all the difference in the world. If you&rsquo;re in the market for such a monitor, you better strap in, as we&rsquo;ve got an awesome deal for you today. Amazon&rsquo;s currently selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/SAMSUNG-Odyssey-FreeSync-Futuristic-LS32AG550ENXZA/dp/B09TMJ9LGR&amp;xcust=2-3-1937102-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Samsung Odyssey G55A monitor for $299.99</a> for a savings of $50 off the usual price. This 32-inch monitor has a curvature of 1000R and a refresh rate of 165Hz, which means you can expect buttery smooth visuals as well as a panel that wraps around you.</p>
+
+
+
+<p>The Odyssey G55A features a resolution of 2560&times;1440, a response time of 1ms, a maximum brightness of 300 nits, and built-in FreeSync technology. FreeSync reduces screen tearing by lining up the monitor&rsquo;s refresh rate with your PC&rsquo;s GPU. This is important when you&rsquo;re playing intensive titles in which every second matters. According to buyers on Amazon, games look super crisp. This is an absolutely killer deal, so don&rsquo;t wait on it!  </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/SAMSUNG-Odyssey-FreeSync-Futuristic-LS32AG550ENXZA/dp/B09TMJ9LGR&amp;xcust=2-3-1937102-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Samsung Odyssey G55A monitor for $299.99 at Amazon</a></p>
+Monitors</div>
+
+## Tons of Gigabyte motherboards come with a hidden firmware backdoor
+ - [https://www.pcworld.com/article/1937046/gigabyte-shipped-hundreds-of-motherboard-models-with-a-firmware-backdoor.html](https://www.pcworld.com/article/1937046/gigabyte-shipped-hundreds-of-motherboard-models-with-a-firmware-backdoor.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 14:26:38+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Component supplier Gigabyte has some pressing questions to answer. The first and most pressing is, &ldquo;Why did you put an updater backdoor into your own motherboard firmware without telling anyone?&rdquo; The second is, &ldquo;Why didn&rsquo;t you lock it down in any meaningful way, hoping that it would stay secure simply by not being known?&rdquo; Such questions were asked by security research firm Eclysium when they discovered said backdoor in Gigabyte&rsquo;s UEFI firmware, loaded on hundreds of models of retail and enterprise motherboards.</p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://eclypsium.com/blog/supply-chain-risk-from-gigabyte-app-center-backdoor/&amp;xcust=2-3-1937046-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Eclysium says</a> that the code is meant for Gigabyte to install firmware updates either over the internet or with attached storage on a local network. But according to the researchers, the tool is mostly unsecured, meaning any malicious actor who knows about it can potentially load up their own code on a PC motherboard. The issue was discovered via a Windows startup executable that can install new UEFI firmware, downloading from an unsecured Gigabyte server and installing the software without any signature verification. </p>
+
+
+
+<p>The research blog post says that this security vulnerability could lead to malefactors using the OEM backdoor to load up harmful code like rootkits, either directly onto a user&rsquo;s machine or by compromising Gigabyte&rsquo;s own server. &ldquo;Man in the middle&rdquo; attacks, intercepting the download process via an additional vector, are also possible. Eclysium offered three Gigabyte URLs that could be blocked by users or administrators to prevent internet-based updates. </p>
+
+
+
+<p>Hundreds of motherboard models are affected, including some of the latest retail boards for high-end system builders. You can <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://eclypsium.com/blog/supply-chain-risk-from-gigabyte-app-center-backdoor/&amp;xcust=2-3-1937046-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">see a full list here (PDF link)</a>. Eclysium says it&rsquo;s informed Gigabyte of the vulnerability, and that the company plans to address the issue, presumably with (ha) a firmware update. </p>
+
+Security</div>
+
+## Cooler Master’s Qube 500 Flatpack lets you build your own PC case
+ - [https://www.pcworld.com/article/1935899/1935899.html](https://www.pcworld.com/article/1935899/1935899.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 14:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>You already know about flat-packed products, or build-it-yourself items that come in flat boxes you can easily take home&mdash;the concept is widespread in furniture (e.g., Ikea). It&rsquo;s not really been a thing in the PC space though, outside of niche offerings like Teenage Engineering&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://teenage.engineering/products/computer-1&amp;xcust=2-1-1935899-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">computer-1</a>. That&rsquo;s going to change once Cooler Master&rsquo;s Qube 500 Flatpack hits the streets&mdash;and it could help usher in a wave of slick deconstructed modular cases.</p>
+
+
+
+<p>Unlike the computer-1, the Qube 500 isn&rsquo;t tiny, nor does it lean into the origami aspect of that case. At 33 liters, it runs 380 x 231 x 381mm (or 406 x 231 x 415mm if you count protrusions like handles and feet), and it skips the folding and bending of panels to get them into ready condition. Instead, it&rsquo;s a fully modular mini-tower that comes completely torn down. All the pieces are ready to go, and once you assemble them, you get a compact ATX case with lots of flexibility.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage right"><figure class="wp-block-image alignright size-full is-resized"><img alt="" class="wp-image-1935900" height="180" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/image-8.png" width="238" /><figcaption>Cooler Master&rsquo;s Qube 500 Flatpack will come deconstructed, but all panels appear ready for assembly. A 120mm fan, vertical mounting kit, and external cable routing accessory come included, too. </figcaption></figure></div>
+
+
+
+<p>Not only can you swap panels for different colors (thus creating your own unique look), but you should have complete ease when rolling together your PC. Cooler Master helps that along with a design that accommodates a variety of components. It can&rsquo;t hold every piece your heart desires, of course&mdash;it <em>is</em> a compact mini-tower, after all. You can fit in plenty, though. CPU coolers can go as tall as 172mm, graphics cards can be as long as 365mm, and even E-ATX boards are supported. You can also squeeze in radiator up to 280mm, up to three 3.5-inch drives, and a maximum of eight 120mm fans. Maybe not all at the same time, but the options are there.</p>
+
+
+
+<p>So too is the ability to mix and match panel colors, and Cooler Master plans to release playful colors in addition to standard black and white. Expect a yellow &ldquo;Bumblebee&rdquo; edition, as well as Macaron editions that come in midcentury-modern-esque pastels (mint, pink, and cream). With the wide grill perforations on its metal panels, a tempered glass panel, an included vertical mounting kit, and an ARGB fan upgrade for the candy-colored Macaron versions, the Qube 500 looks as fun as its assembly (hopefully) will be.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Cooler Master Qube 500 Flatpack case color options" class="wp-image-1935910" height="799" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/coolermasterqube500flatpack.png?w=1200" width="1200" /><figcaption><p>Worried about dust? Underneath the perforated metal panels are filters.</p>
+</figcaption></figure><p class="imageCredit">Cooler Master</p></div>
+
+
+
+<p>Cooler Master is even adding a Gem Mini accessory in the box, which can be used for external cable routing (e.g., headphones) or as an accessory hook. The company also says its panels will support 3D-printed accessories, continuing Cooler Master&rsquo;s encouragement of community-driven modifications for its cases. (Its popular MasterBox NR200 case features 3D printer files for different feet and an alternative PSU bracket right <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.coolermaster.com/catalog/cases/mini-itx/masterbox-nr200/&amp;xcust=2-1-1935899-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">on the product page</a>.)</p>
+
+
+
+<p>While InWin also released its own origami-like chassis not long ago, the Cooler Master Qube 500 is the case to watch. The 30-liter <a href="https://www.pcworld.com/article/1780988/inwins-origami-itx-pc-case-brings-new-meaning-to-diy.html">InWin POC</a> is exciting in its own right, with an affordable price and distinctive colorways, but the company has a history of more limited releases, especially in the United States. Its large size for an mini-ITX case may be more offputting, too. Meanwhile, Cooler Master has already popularized less-known aspects of PC building, like it did with small-form-factor building and the $80 NR200. That smartly designed 18L case made SFF builds more accessible, both in cost and availability. Pricing is still be to be announced for the Qube 500, but with Cooler Master&rsquo;s generally mainstream-friendly MSRPs, this novel flat-pack case could kick off a new trend when it launches on September 15.</p>
+
+Computer Components</div>
+
+## Asus made a graphics card with no power cables
+ - [https://www.pcworld.com/article/1936904/asus-made-a-graphics-card-with-no-power-cables.html](https://www.pcworld.com/article/1936904/asus-made-a-graphics-card-with-no-power-cables.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 13:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s official: PC component makers have declared war on cables. (That&rsquo;s the cables that crisscross inside your PC case, specifically, not power/data cables in general or Marvel time travels from the grimdark future.) The latest innovation comes from Asus, which has created a GPU-motherboard combo that straight-up erases the beefy power cable running from the graphics card to the power supply. Gordon Ung has a hands-on from the floor of Computex 2023. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Where&rsquo;d the cable go? It&rsquo;s actually a secondary header slot on the motherboard, sitting on the same &ldquo;line&rdquo; as the PCIe slot for the RTX 4070 graphics card. This extra slot looks like a teeny-tiny PCIe x1 port, but it can supply up to 600 watts of power &mdash; the same as the latest 12VHPWR cable from a PCIe 5.0-compliant power supply. Combined with the rear-facing power connections on the Z790 &ldquo;hidden connector&rdquo; motherboard itself, and the PC case with extra space behind the motherboard tray for the entire power supply, and you have a primary chamber that&rsquo;s as clean as a whistle. </p>
+
+
+
+<p>Asus is following a definite trend for PC building in 2023, including <a href="https://www.pcworld.com/article/1935290/next-gen-cable-systems-could-de-clutter-your-next-pc-build.html" rel="noreferrer noopener" target="_blank">daisy-chained cooling systems from Corsair</a> and the latest iteration of <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=rQKCuEdJ93I&amp;xcust=2-1-1936904-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">MSI&rsquo;s Project Zero</a>. Now if one of them can figure out how to erase the coolant lines between a CPU and an AIO radiator, we&rsquo;ll be really impressed. For more live coverage of Computex 2023, be sure to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/pcworld&amp;xcust=2-1-1936904-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">subscribe to PCWorld on YouTube</a>. </p>
+
+Graphics Cards</div>
+
+## Logitech MX Anywhere 3S review: A quiet mighty mini mouse
+ - [https://www.pcworld.com/article/1934180/logitech-mx-anywhere-3s-review.html](https://www.pcworld.com/article/1934180/logitech-mx-anywhere-3s-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Easy to travel with</li><li>Tracks on anything</li><li>New quiet clicks are, um, quiet</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>A bit pricey </li><li>No dongle in the box</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The MX Anywhere 3S doesn&rsquo;t do much more than its predecessor unless you really need quiet clicking, but it&rsquo;s still the best travel mouse around if you&rsquo;re willing to pay up. </p>
+</div>
+
+
+<p>What&rsquo;s the difference between the Logitech MX Anywhere 3 and the Logitech MX Anywhere 3S? If you can tell just by looking, you have better eyes than I do. Logitech&rsquo;s top-of-the-line travel mouse is physically indistinguishable from its last release, which isn&rsquo;t a bad thing. But under the hood it now has the &ldquo;quiet click&rdquo; tech of its bigger MX Master 3S brother, plus a new 8,000 DPI sensor. It&rsquo;s also using the new Logitech Bolt proprietary dongle instead of the Unifying Receiver. </p>
+
+
+
+<p>Those changes probably don&rsquo;t mean much to you, unless your PC monitor is the size of a dining table and you can put that boosted DPI to the test. But even at a very slightly diminished value (the Anywhere 3S no longer includes a dongle, but remains the same $80 retail price), it&rsquo;s still one of the best small mice around. </p>
+
+
+
+<h2 id="using-the-mx-anywhere-3s">Using the MX Anywhere 3S</h2>
+
+
+
+<p>The MX Anywhere 3S is on the smaller side, obviously, but not so small that it&rsquo;s uncomfortable to use for extended periods of time. My medium-sized male mits were able to use it for primary computing tasks for more than a week, though of course, I prefer something beefier. At a bit less than four inches long and, perhaps more crucially, about an inch and a quarter high, you&rsquo;d have to be a very small adult to consider this as your primary mouse. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Anywhere 3, MX Anywhere 3S, MX Master 3S" class="wp-image-1935787" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03556.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>Left to right: MX Anywhere 3, MX Anywhere 3S, MX Master 3S. The new model is physically identical to the Anywhere 3.</p>
+</figcaption></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>But that&rsquo;s okay, this mouse is designed to travel after all&mdash; &ldquo;Anywhere&rdquo; is right there in the name. And with the smooth pebble shape, it&rsquo;ll slide easily into any bag, or even in your pocket if you need to move in a hurry. Wide, forgiving primary buttons are comfy all day, and the side buttons are a little stiff, but you won&rsquo;t click them accidentally. A single non-standard button, which switches between standard scrolling and super-fast scrolling for the nicely knurled mouse wheel, rounds out the package. </p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The MX Anywhere 3S is still one of the best small mice around</p></blockquote></figure>
+
+
+
+<h2 id="can-the-mx-anywhere-3s-really-go-anywhere">Can the MX Anywhere 3S really go anywhere?</h2>
+
+
+
+<p>The other part of the &ldquo;Anywhere&rdquo; brand is that the mouse works on anything, up to and including glass. Personally I find that my pants leg is a much more frequent mousing surface on the go, but the Anywhere 3S handles both just fine. In fact I&rsquo;ve got a bathroom scale that just happens to have a full mirrored surface (so I can check my weight and my nose hairs at the same time, I guess?), and the MX Anywhere 3S tracked on it with only minimal skipping. So if you need a mouse that truly works anywhere, yeah, this&rsquo;ll do it. </p>
+
+
+
+<p>Another feature of the mouse&rsquo;s travel-friendly design is the ability to swap between three devices with a button on the bottom. As with previous MX mice, this works flawlessly, whether you&rsquo;re using Bluetooth or Logitech&rsquo;s proprietary Bolt USB dongle. (The new &ldquo;S&rdquo; variants of these mice ditch the older Unifying Reciever.) </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Logitech MX Anywhere 3S on mirrored glass" class="wp-image-1935783" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03346.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The MX Anywhere 3S can track on an actual mirror. Not bad.&nbsp;</p></figcaption></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>The lack of a dongle in the box might be a sticking point, since it was included with the MX Anywhere 3 at the same price. But since this is a <em>travel </em>mouse, and most people will be using straight Bluetooth for their devices rather than constantly occupying an increasingly-rare USB-A port, I can see the logic. </p>
+
+
+
+<h2 id="how-did-the-mx-anywhere-3-perform">How did the MX Anywhere 3 perform? </h2>
+
+
+
+<p>Aside from the 70-day battery life &mdash; which I couldn&rsquo;t stress test during the review period, but having owned the Anywhere 3, I don&rsquo;t doubt it &mdash; the mouse&rsquo;s other distinguishing physical feature is the scroll wheel. It really is super-nice, especially for a smaller mouse, feeling heavy and solid underneath my finger. And the ability to switch between standard notched scrolling and rapid scrolling with the touch of a button is something you only appreciate after you&rsquo;ve used it for a while&hellip;and find yourself missing on other mice. Don&rsquo;t want to switch? Fine, scroll fast enough and the mouse is smart enough to let it spin freely all on its own. This feature has been around for a few years, but is no less impressive for that. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Anywhere 3S scroll wheel" class="wp-image-1935789" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03269.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Speaking of which, if you dive into the Options+ driver software you can actually adjust the force of the notched scroll mode, from barely there to a much more satisfying near-click. This is a feature the previous model had, but it&rsquo;s still super cool. Something the older model didn&rsquo;t have is &ldquo;quiet click,&rdquo; and indeed, the 3S is <em>much </em>quieter than the last model, just like the MX Master 3S. It&rsquo;s more of a &ldquo;tap&rdquo; sound than a &ldquo;click.&rdquo; Which you prefer is a matter of taste, but I&rsquo;m sure anyone next to you on a long business flight would appreciate the less noisy option. </p>
+
+
+
+<p>The more advanced 8,000 DPI sensor &mdash; double the DPI of the last model, equal to the MX Master 3S &mdash; is nice. I guess. I never used it at anything near that sensitivity, and I can&rsquo;t imagine doing so, especially in a mobile environment. I suspect this is merely a case of Logitech consolidating its parts bin, which is fine. </p>
+
+
+
+<h2 id="mx-anywhere-3-software">MX Anywhere 3 software </h2>
+
+
+
+<p>In terms of software, Logitech Options+ is surprisingly great. It&rsquo;s certainly possible to use the mouse without it, but you&rsquo;ll be doing yourself a disservice. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.logi.com/hc/en-us/articles/360023188134-Logitech-Flow&amp;xcust=2-2-1934180-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Logitech Flow</a> remains a great tool for anyone who has to move between multiple machines, and the option to change some or all of the button functionality for triggered applications is much appreciated. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Logitech Options+ MX Anywhere 3S gestures menu" class="wp-image-1935793" height="690" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/mx-anywhere-options-screenshot.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Technically the mouse works with Logitech&rsquo;s new Smart Actions system, but unlike keyboards or the big MX Master, I don&rsquo;t think there are enough buttons to make it truly useful here. You might just be able to get some more functionality out of Gestures, which lets you hold the button and move up, down, left, or right for more actions. But again, this seems like more trouble than it&rsquo;s worth when most of those (many, many) options are just a click or a keyboard shortcut away already. </p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>I don&rsquo;t think there are enough buttons to make Smart Actions truly useful here.</p></blockquote></figure>
+
+
+
+<h2 id="should-you-buy-the-mx-anywhere-3">Should you buy the MX Anywhere 3?</h2>
+
+
+
+<p>The MX Anywhere 3S isn&rsquo;t a huge change over its predecessor, but it doesn&rsquo;t have to be. The quieter clicking probably isn&rsquo;t worth an $80 purchase all on its own&hellip;unless your coworkers or significant other are asking for that specifically. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Anywhere 3S from front" class="wp-image-1935791" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03373.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Still, if you&rsquo;re in the market for a small travel mouse and you don&rsquo;t mind paying a little above average for the top-of-the-line, you can&rsquo;t do better than this. Even if you don&rsquo;t actually need to use it on a mirror. </p>
+
+Mice</div>
+
+## Logitech MX Keys S review: Same great keyboard, lower price
+ - [https://www.pcworld.com/article/1934170/logitech-mx-keys-s-review.html](https://www.pcworld.com/article/1934170/logitech-mx-keys-s-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Great typing feel</li><li>New auto-brightness</li><li>Lower price</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Smart Actions is limited</li><li>Iffy Bolt wireless connection</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The new version of the MX Keys doesn&rsquo;t change much, but it&rsquo;s still one of the best non-mechanical keyboards on the market. It helps that it gets a small price decrease!</p>
+</div>
+
+
+<p>Logitech has a lot in common with companies like Honda. Go into a store, buy a Logitech keyboard without doing any research, and you can expect it to be pretty decent at the very least. So to extend the analogy, the MX sub-brand is its Acura: higher quality, more capability, and of course higher prices, but still focused on that rock-solid core functionality. That being the case, what can you do to the <a href="https://www.pcworld.com/article/398012/logitech-mx-keys-review-a-wireless-keyboard-that-does-much-more.html" rel="noreferrer noopener" target="_blank">MX Keys keyboard from 2019</a>, which is about as good as the low-profile, high-style format can get? </p>
+
+
+
+<p>Switch to a trendy full mechanical design? Nope, <a href="https://www.pcworld.com/article/812395/logitech-mx-mechanical-keyboard-review-2.html" rel="noreferrer noopener" target="_blank">already did that</a>. Slap on a screen, maybe go crazy with the lighting or <a href="https://www.pcworld.com/article/1676470/logitech-pop-keys-mechanical-keyboard-review.html" rel="noreferrer noopener" target="_blank">add some emoji keys</a>? Doesn&rsquo;t really fit the MX brand&rsquo;s button-down, almost Apple-like aesthetic. In the end, Logitech decided to keep the hardware of the MX Keys S mostly untouched, and focus on expanding its capability with software. Oh, and it chopped 10 bucks off the price. </p>
+
+
+
+<p>The result is a keyboard that&rsquo;s better than the original, but not so much so that it demands an upgrade. (Which is fine, because a lot of the expanded software functionality is coming to the older MX Keys.) That makes it an easy recommendation for anyone who wants a premium keyboard and isn&rsquo;t a fan of clicky mechanical models, so long as you&rsquo;re not married to Logitech&rsquo;s Unifying Receiver module. </p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading:</strong> See our roundup of the <a href="https://www.pcworld.com/article/414972/best-wireless-keyboards.html">best wireless keyboards</a> to learn about competing products.</p></blockquote>
+
+
+
+<h2 id="whats-new-in-the-mx-keys-s">What&rsquo;s new in the MX Keys S? </h2>
+
+
+
+<p>Physically, it&rsquo;s almost impossible to tell the difference between the MX Keys S and the original MX Keys. That&rsquo;s fine: It&rsquo;s a solid, no-nonsense design with a full-size layout, unashamedly taking cues from Apple&rsquo;s Magic keyboard (especially in this white-on-aluminum colorway) while making the keys feel even better. Despite costing less than the larger Apple version and being equally happy with both Mac and Windows, the MX Keys S includes both Bluetooth and support for Logitech&rsquo;s proprietary Bolt wireless dongle (included in the box). It&rsquo;s easy to switch between three devices with any combination of those connections. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Keys close up keys" class="wp-image-1935758" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03137.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>In terms of hardware, the MX Keys S now has &ldquo;smart illumination,&rdquo; which automatically adjusts to the surrounding lighting conditions. The keyboard&rsquo;s backlights are still white only&mdash;which is fine, no one&rsquo;s binding custom <em>Counter-Strike</em> layouts on this thing&mdash;and mostly unnecessary if you&rsquo;re a touch-typist. But the addition of a smartphone-style ambient light sensor is handy, though strangely you still have to use Logitech&rsquo;s Options+ software in order for it to work (at least according to the packaging). There&rsquo;s also a battery-saving mode that will automatically shut the lights off when you hit 10 percent. </p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Bolt and Unifying dongles are not cross-compatible, which is a bit of a bummer.</p></blockquote></figure>
+
+
+
+<p>The MX Keys S also switches from the Logitech Unifying Receiver to Logi Bolt. Bolt uses Bluetooth Low-Energy as opposed to Unifying&rsquo;s more typical 2.4GHz proprietary wireless. But since Bolt is <em>also </em>proprietary, and doesn&rsquo;t work as an access point for Bluetooth or non-Bolt-enabled devices, it&rsquo;s effectively just a different flavor of Logitech&rsquo;s teeny-weeny multi-device dongle. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.logi.com/hc/en-us/articles/1500012483162-What-is-the-difference-between-Bolt-and-Unifying-receivers-&amp;xcust=2-2-1934170-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Bolt and Unifying are not cross-compatible</a>, which is a bit of a bummer if you&rsquo;ve invested a lot into the latter. But since pretty much every wireless product Logitech makes also includes Bluetooth, you&rsquo;re still covered even if you&rsquo;re low on USB-A ports. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Keys S illuminated keys" class="wp-image-1935760" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03448.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>And&hellip;that&rsquo;s it. Yup, that&rsquo;s the extent of the hardware changes between the MX Keys and the MX Keys S. If it ain&rsquo;t broke, don&rsquo;t fix it. </p>
+
+
+
+<h2 id="what-is-logitech-smart-actions">What is Logitech Smart Actions? </h2>
+
+
+
+<p>Logitech&rsquo;s Options+ software covers pretty much everything you could want to customize for your keyboard, with the one limitation that custom keys are only available on the top row. It allows you to easily assign custom layouts for universal operation, plus bindings keyed to specific programs like your browser or Photoshop, very much like a gaming driver. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.logi.com/hc/en-us/articles/360023188134-Logitech-Flow&amp;xcust=2-2-1934170-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Logitech Flow</a> is a great way to manage multiple PCs with one keyboard and mouse. But none of that is new. The big selling point of the new keyboard is Smart Actions. </p>
+
+
+
+<p> </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Logitech Options+ Smart Actions templates" class="wp-image-1935767" height="690" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/smart-actions-templates.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Smart Actions are, essentially, suped-up macros. So for example, I can set up a &ldquo;start my morning&rdquo; macro and open Outlook, Slack, my RSS reader, and Chrome with a single button press. It also has integration with deeper system settings. You can also change some system settings or rapidly input text in a classical macro fashion. And all of these functions can be layered on top of one another for some more complex behavior. </p>
+
+
+
+<p>It&rsquo;s a nice idea, and Logitech has created an impressively easy interface for managing it all. Again, this is the company&rsquo;s bread and butter&mdash;if using Smart Actions were as complex as, say, making an IFTTT routine, most of its customers would balk. But outside of launching programs, I found its utility limited. I couldn&rsquo;t, for example, switch my audio device to my headset, switch my microphone input, and open Teams to activate &ldquo;meeting mode.&rdquo; And the programs Logitech Options+ chooses to recognize as, well, programs, are very narrow. I use Outlook as a <a href="https://www.pcworld.com/article/794778/the-one-feature-that-finally-let-me-switch-from-chrome-to-vivaldi.html" rel="noreferrer noopener" target="_blank">progressive web app</a> (ditto for my RSS reader and Monday), and Options+ couldn&rsquo;t find the shortcuts necessary to launch them. There was also no option to add them manually. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Logitech Options+ Smart Actions day start" class="wp-image-1935768" height="690" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/smart-actions-create.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Smart Actions is launching in beta, so perhaps some of these wrinkles will be ironed out eventually. But at the time of writing, it&rsquo;s little more than a novelty, and certainly not worth the purchase of a pricey new keyboard. But a new purchase isn&rsquo;t necessary: Logitech representatives told us the functionality is coming to all MX devices at some point. </p>
+
+
+
+<h2 id="typing-on-the-mx-keys-s">Typing on the MX Keys S </h2>
+
+
+
+<p>The typing experience on the MX Keys S remains excellent. Logitech uses a combination of a plastic scissor-style bracket and a membrane in order to give the keys a smooth and deliberate travel with mild give, sort of like a really nice laptop keyboard (right up there with my ThinkPad). Typing is quiet and unobtrusive, a definite plus if you work around others. The keys feel much more comfy than the most direct competition, the Apple Magic Keyboard. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Keys S with MX Master 3S" class="wp-image-1935761" height="348" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03193.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>You won&rsquo;t get the satisfying &ldquo;click&rdquo; of a mechanical board (or the noise that comes with it), but at this point if you&rsquo;re considering this board then that&rsquo;s not something you want. I do wish the keyboard came with more than one height option&mdash;they&rsquo;re called feet, Logitech, I know you&rsquo;ve heard of &rsquo;em!&mdash;but the stylish low profile of the board is visually striking. If you need a keyboard with more ergonomic sensibilities, look elsewhere. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MX Keys S bottom and charging port" class="wp-image-1935763" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/DSC03189.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Recharging comes via a USB-C port, though I didn&rsquo;t need it in two weeks of testing, and switching between devices was fast and easy. I did notice that the Bolt connection seems a little more finicky than the old Unifying Receiver, which I want to blame on the fact that I have half a dozen active Bluetooth devices scattered around my office at any given time. </p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>With a lower price, the MX Keys remains undeniably appealing in its S variant.</p></blockquote></figure>
+
+
+
+<h2 id="should-you-buy-the-logitech-mx-keys-s">Should you buy the Logitech MX Keys S?</h2>
+
+
+
+<p>The MX Keys S will launch with a retail price of $109.99. That&rsquo;s a lot for a keyboard, but for Logitech&rsquo;s top-of-the-line, it&rsquo;s not too bad. It&rsquo;s also $10 cheaper than the original MX Keys, a savings that&rsquo;s all too infrequent these days. At the moment there&rsquo;s <a href="https://www.pcworld.com/article/547221/logitech-mx-keys-mini-review-the-best-tiny-keyboard-you-can-buy.html" rel="noreferrer noopener" target="_blank">no word on a &ldquo;Mini&rdquo; variant</a>, but I&rsquo;m sure it&rsquo;ll be along before too long, and also sure that you&rsquo;ll be able to buy the MX Keys S at a significant discount within a few months. These things go on sale constantly. </p>
+
+
+
+<p>Though it&rsquo;s an extremely gentle change, and the new Smart Actions is limited in its utility, the MX Keys design remains undeniably appealing in its new S variant. With a price drop on top of everything, it should be at the top of your list if you&rsquo;re hunting for a slim keyboard that combines functionality and style. </p>
+
+Keyboards</div>
+
+## The OmniCase 2: The Ultimate Docking Station for Digital Nomads
+ - [https://www.pcworld.com/article/1933122/the-omnicase-2-the-ultimate-docking-station-for-digital-nomads.html](https://www.pcworld.com/article/1933122/the-omnicase-2-the-ultimate-docking-station-for-digital-nomads.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>A docking station is an incredibly productivity-boosting device that connects to your laptop with a single USB-C cable and includes multiple ports that enable you to hook up external monitors, storage devices, reliable networking and powerful charging options.</p>
+
+
+
+<p>Few USB-C laptop docks are as portable and handy as the <strong>OmniCase 2 Pro Storage Docking Station</strong> (MP04) from accessory supplier JSAUX. Combined with the company&rsquo;s own Curve Laptop Stand, you have all you need to create a modern, high-end desktop set up.</p>
+
+
+
+<p>Aside from its comprehensive set of 12 useful ports, this compact, lightweight dock has a unique feature that makes it stand out from the crowd&mdash;a super-useful compartment for storing cables, storage cards and SIMs, freeing up your bag from messy peripherals that are easily lost or otherwise forgotten.</p>
+
+
+
+<p>It even comes with a USB-C cable and four adapters to make sure it works with any tech you need to connect to.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="MP04 Accessories" class="wp-image-1934542" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/MP04-accessories.jpg?quality=50&amp;strip=all" width="1024" /><figcaption>The innovative storage compartment sets the OmniCase 2 from other docking stations.</figcaption></figure><p class="imageCredit">JSAUX</p></div>
+
+
+
+<p>Remove the dock&rsquo;s magnetic lid to reveal all the cables and connectors you may need, plus enclosures for multiple memory and SIM cards.</p>
+
+
+
+<p>JSAUX &rsquo;s matching <strong>Curve Laptop Stand</strong> (SL0206) is as lightweight, secure and portable as the OmniCase 2 Pro dock and complements it well with a special iron plate at the back where the dock magnetically clamps underneath your laptop. The Curve Stand can support all 10-15-inch laptops.</p>
+
+
+
+<p>The OmniCase 2 Pro Storage Docking Station is also compatible with the Steam Deck, and JSAUX has a special stand (SG0106) that handily holds the handheld gaming computer above the magnetically attached dock.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="JSAUX MoniCase 2 Pro Storage Docking Station and Curve Stand" class="wp-image-1933209" height="532" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/JSAUX-OmniCase-2-Pro-Storage-Docking-Station-dock-and-stand.jpg?quality=50&amp;strip=all" width="1024" /><figcaption>The OmniCase 2 Pro Storage Docking Station connects perfectly with the ergonomic Curve Stand</figcaption></figure><p class="imageCredit">JSAUX</p></div>
+
+
+
+<h2 id="connecting-all-your-peripherals">Connecting all your peripherals</h2>
+
+
+
+<p>The OmniCase 2 Pro&rsquo;s Power Delivery port can supply up to an impressive 100W of power via USB-C&mdash;enough to keep even a large laptop powered up even while in use.</p>
+
+
+
+<p>There are three further USB ports on the dock for attaching peripherals such as hard drives and SSDs for extra storage, input devices, USB memory sticks and flash drives, or a printer and scanner.</p>
+
+
+
+<p>You can avoid the frailties of flaky Wi-Fi by connecting to a stable wired network using the dock&rsquo;s Gigabit Ethernet port.</p>
+
+
+
+<p>The OmniCase 2 Pro Storage Docking Station features two memory card readers: one SD card reader and one TF/MicroSD card reader, which covers all available modern portable-storage formats. And you can keep these cards safe within the dock&rsquo;s accessory organizer compartment.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="JSAUX MoniCase 2 Pro Storage Docking Station monitors" class="wp-image-1933206" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/JSAUX-OmniCase-2-Pro-Storage-Docking-Station-screens.jpg?quality=50&amp;strip=all" width="1024" /><figcaption>OmniCase 2 Pro Storage Docking Station can link up to three external screens</figcaption></figure><p class="imageCredit">JSAUX</p></div>
+
+
+
+<p>One of the greatest benefits of using a docking station is the ability to connect one or more external displays to your laptop, as the screen on even the largest laptop is very limited compared to a larger monitor or two set in extended mode.</p>
+
+
+
+<p>Windows users can add up to three external displays with this dock, using the one DisplayPort and two HDMI ports. All support ultra-HD 4K screen at an impressive 60Hz refresh rate.</p>
+
+
+
+<p>If you want to use the external screens at the same time as using the laptop&rsquo;s own screen, for ergonomic reasons the best setup is to use a laptop stand to raise the computer to a height and position that&rsquo;s healthier for your posture, neck, shoulders and back&mdash;and JSAUX&rsquo;s complementary Curve Laptop Stand is perfect for this purpose.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="JSAUX OmniCase 2 Pro Storage Docking Station portable" class="wp-image-1933212" height="569" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/JSAUX-OmniCase-2-Pro-pocket-dock.jpg?quality=50&amp;strip=all" width="1024" /><figcaption>OmniCase 2 Pro Storage Docking Station small enough to fit in your pocket</figcaption></figure><p class="imageCredit">JSAUX</p></div>
+
+
+
+<h2 id="portability">Portability</h2>
+
+
+
+<p>The benefit of docks that use a USB-C charger is that you can pick them up and take them with you between home and office space, or further afield on your travels.</p>
+
+
+
+<p>Weighing in at just 6.7oz (192g), the OmniCase 2 Pro Storage Docking Station is one of the lightest fully ported docks that we have ever tested, and it is super compact too&mdash;measuring just 5-x-3-x-1 inches (12.6-x-7.8-x-2.6cm).</p>
+
+
+
+<p>JSAUX is also offering an entry-level OmniCase 2 Storage Docking Station (MP03). This 10-port model is limited to just one external screen.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="JSAUX OmniCase 2 Pro laptop dock" class="wp-image-1933225" height="538" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/JSAUX-OmniCase-2-Pro-Storage-Docking-Station-desk.jpg?quality=50&amp;strip=all" width="1024" /><figcaption>The  OmniCase 2 Pro Storage Docking Station brings 12 ports into use via a single cable connection to your laptop</figcaption></figure><p class="imageCredit">JSAUX</p></div>
+
+
+
+<h2 id="verdict">Verdict</h2>
+
+
+
+<p>The JSAUX OmniCase 2 Pro Storage Docking Station is a step forward in dock evolution, bringing together not just all the extra ports you need but neatly and securely storing the cables and storage cards all in one lightweight, portable package.</p>
+
+
+
+<p>This compact dock will streamline your workspace, make multitasking effortless and boost your productivity wherever you are.</p>
+
+
+
+<div class="promo_wrap"><div class="top_head"><p class="pro_tag">PROMOTION</p><p><strong>MP04 Complete Set &ndash; Get 43% off</strong></p></div><div class="promo_row"><div class="pro_right promotion-item__image-outer-wrapper--small"><img class="promotion-item__image" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/MP04-Curve-stand-steam-deck-stand.jpg?quality=50&amp;strip=all" /></div><p class="promo_text">
+</p><ul><li>OmniCase 2 Pro USB-C 12-in-1 Storage Docking Station (MP04)</li><li>Curve laptop stand (SL0206)</li><li>OmniCase stand for Steam Deck (SG0106)</li></ul>
+
+
+
+<ul><li><strong>Was price</strong>: $139.99</li><li><strong>Now price</strong>: $79.99 (Early Bird) for first 100</li><li><strong>Discount</strong>: 43% Off</li></ul>
+</div><div class="clear-both"></div></div>
+
+
+
+<h2 id="order-your-omnicase-2-pro-with-a-huge-discount">Order your OmniCase 2 Pro with a huge discount</h2>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://bit.ly/Omnicase-2-Pro-Crowdfunding-Project&amp;xcust=2-1-1933122-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">OmniCase 2 Pro Storage Docking Station Kickstarter project</a> will be live for a month from late May, giving you the chance to buy this innovative dock and stands (SL0206 and SG0106) for just $79.99&mdash;a significant 43% Early Bird discount on the retail price.</p>
+
+
+
+<p>At just $59.99 (an Early Bird 40% discount from the $99.99 retail price), the 10-port OmniCase 2 Storage Docking Station and two-stand bundle is available if you need just a single external display.</p>
+
+
+
+<p>Both the OmniCase 2 and the OmniCase 2 Pro will be available separately, or as a part of a bundle along with the stands. As a special opportunity for the fastest backers, JSAUX will also offer 100 units of each pack at the same price as the standalone products.</p>
+
+
+
+<p>Pre-order the OmniCase 2 Pro Storage Docking Station at these great discounts.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://bit.ly/Omnicase-2-Pro-Crowdfunding-Project%20&amp;xcust=2-1-1933122-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Pre-order now</a></p>
+
+
+<h2 id="technical-specifications">Technical specifications</h2>
+
+
+
+<p><strong>OmniCase 2 Pro Storage Docking Station (MP04)<br /></strong>&bull; 1x USB-C ports (Upstream to host).<br />&bull; 1x USB-C Power Delivery (PD) port (100W).<br />&bull; 1x USB-C ports (5Gbps)<br />&bull; 1x USB-A port (5Gbps)<br />&bull; 1x USB-A port (480Mbps)<br />&bull; 2x HDMI ports (4K@60Hz)<br />&bull; 1x DisplayPort (4K@60Hz)<br />&bull; 1x Gigabit Ethernet port<br />&bull; 1x SD card reader (104MB/s)<br />&bull; 1x TF/MicroSD card reader (104MB/s)<br />&bull; 1x combo Audio In/Out jack (3.5mm)</p>
+
+
+
+<p><strong>OmniCase 2 Storage Docking Station (MP03)<br /></strong>&bull; 1x USB-C ports (Upstream to host).<br />&bull; 1x USB-C Power Delivery (PD) port (100W).<br />&bull; 2x USB-A port (5Gbps)<br />&bull; 1x USB-A port (480Mbps)<br />&bull; 1x HDMI ports (4K@60Hz)<br />&bull; 1x Gigabit Ethernet port<br />&bull; 1x SD card reader (104MB/s)<br />&bull; 1x TF/MicroSD card reader (104MB/s)<br />&bull; 1x combo Audio In/Out jack (3.5mm)</p>
+
+Accessories</div>
+
+## Cooler Master’s Motion 1 haptic gaming chair gets your body in the game
+ - [https://www.pcworld.com/article/1935999/cooler-masters-motion-1-haptic-gaming-chair-gets-your-body-in-the-game.html](https://www.pcworld.com/article/1935999/cooler-masters-motion-1-haptic-gaming-chair-gets-your-body-in-the-game.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 12:02:53+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>As the video game industry continues its inevitable march towards complete immersive technology, one of the leading frontiers is haptics. Currently though, outside of boutique VR accessories and the smartwatch on your wrist, haptics are still a relatively unexplored technology in personal electronics.&nbsp;</p>
+
+
+
+<p>But that&rsquo;s about to change thanks to a collaborative effort from D-Box and Cooler Master. Hoping to make haptics more than just a video game gimmick, the two companies have combined to build what might just be the future of in-home entertainment.</p>
+
+
+
+<p>The companies call Motion 1 &ldquo;the world&rsquo;s first haptic engine gaming chair&rdquo; (<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.razer.com/concepts/razer-enki-pro-hypersense&amp;xcust=2-1-1935999-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Razer&rsquo;s haptic Enki Pro Hypersense chair</a>, also powered by D-Box, has yet to launch). Teased by Cooler Master a few years ago, and debuted at CES 2023, the Motion 1 chair was showcased and officially demoed at Computex for the first time this weekend.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>This collaborative effort between the two companies looks impressive. It uses more than 65,000 haptic effects such as movements, waves, vibrations, and textures. All of these supposedly combine to simulate the entertainment you&rsquo;re experiencing on screen. And just in case you&rsquo;re concerned about ergonomics, the Motion 1 includes magnetic lumbar support and a headrest as well. So at least you can save your actual body even if your in-game body gets pulverized in the virtual world.</p>
+
+
+
+<p>Included with the Motion 1 chair is access to all of D-Box&rsquo;s movies, TV series, and games, which will be coded for compatibility with the chair&rsquo;s haptics. They&rsquo;re also releasing beta software called Adaptive Gaming and Adaptive Audio Modes. These programs will allow you to use the chair with any movie or game, even if they weren&rsquo;t coded by D-Box previously. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=SxN1M_TwvJs&amp;xcust=2-1-1935999-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Video from CES earlier this year</a> shows people coming away impressed with the chair, but it remains to be seen how well the tech and corresponding software work in reality.</p>
+
+
+
+<p>The chair is <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.cmodx.com/motion-1&amp;xcust=2-1-1935999-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">already up for pre-order</a> on Cooler Master&rsquo;s CMODX website retailing for $2,229.00. That&rsquo;s more than the Herman Miller Aeron ergonomic wonder-chair so you&rsquo;ll need to really be invested in the haptic technology to justify the expense. But at the end of the day gaming is about having fun, and a chair that makes the experience more immersive looks like a hell of a lot of fun.</p>
+
+Computer Accessories</div>
+
+## This free Adobe Acrobat alternative rocks for basic PDF editing
+ - [https://www.pcworld.com/article/1816938/try-this-free-adobe-acrobat-alternative-for-basic-pdf-editing.html](https://www.pcworld.com/article/1816938/try-this-free-adobe-acrobat-alternative-for-basic-pdf-editing.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>While <a href="https://www.pcworld.com/article/407214/best-pdf-editors.html">paid PDF editors</a> have their place, you don&rsquo;t need expensive software just for basic edits and simple document signing.</p>
+
+
+
+<p>For a free alternative, check out <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">iLovePDF.com</a>. This website offers more than 20 PDF editing tools, all without any login prompts. Each tool has its own freestanding web link, so you can bookmark your favorites for even faster access.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="iLovePDF" class="wp-image-1816946" height="692" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/ilovepdf.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Jared Newman / Foundry</p></div>
+
+
+
+<p>Some examples of what the site offers:</p>
+
+
+
+<ul><li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/merge_pdf&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Merge PDF</a>: Combines multiple files into a single document.</li><li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/edit-pdf&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Edit PDF</a>: Adds text, shapes, and highlights to your PDF files.</li><li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/sign-pdf&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Sign PDF</a>: Apply a pre-made or drawn signature to PDF files.</li><li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/organize-pdf&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Organize PDF</a>: Rearrange the pages of a PDF file.</li></ul>
+
+
+
+<p>Keep in mind that iLovePDF doesn&rsquo;t offer full-blown PDF editing, so you can&rsquo;t use it to insert or remove text from a document. It does, however, offer a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/pdf_to_word&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">PDF to Word</a> tool, which you can then edit and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ilovepdf.com/word_to_pdf&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">convert back to PDF again</a>. While Word has a similar conversion feature built in, I found that iLovePDF did a better job preserving the original formatting in a test PDF file.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="iLovePDF document signing" class="wp-image-1816947" height="717" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/pdfsign.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>iLovePDF can append a signature to any PDF file.</p></figcaption></figure><p class="imageCredit">Jared Newman / Foundry</p></div>
+
+
+
+<p>iLovePDF&rsquo;s free version has some other limitations as well, including various file size limits for each of its tools. Signatures are also limited to one person, and don&rsquo;t include any certification or auditing.</p>
+
+
+
+<p>To lift those limits and gain access to more advanced features, such as iLovePDF&rsquo;s desktop and mobile apps, you&rsquo;ll need a subscription, which costs $7 per month or $48 per year. At that point, you may as well consider other paid options such as <a href="https://www.pcworld.com/article/407201/adobe-acrobat-pro-dc-review.html">Acrobat</a> or <a href="https://www.pcworld.com/article/827552/nitro-pro-pdf-editor-review.html">Nitro PDF Pro</a>. PCWorld has <a href="https://www.pcworld.com/article/407214/best-pdf-editors.html">reviewed these PDF editors extensively</a>.</p>
+
+
+
+<p>But if you&rsquo;re only making simple PDF edits and don&rsquo;t require any collaboration features, iLovePDF might be all that you need, and it won&rsquo;t cost you a cent.</p>
+
+
+
+<p><em>Sign up for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://advisorator.com/free&amp;xcust=2-3-1816938-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Jared&rsquo;s Advisorator newsletter</a> to get practical tech advice like this every week.</em></p>
+
+Personal Software</div>
+
+## Asus Zenbook S 13 OLED review: That screen is banging!
+ - [https://www.pcworld.com/article/1927897/asus-zenbook-s-13-oled-review.html](https://www.pcworld.com/article/1927897/asus-zenbook-s-13-oled-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>High-quality build</li><li>Gorgeous screen</li><li>Excellent battery life</li><li>Diverse port selection</li><li>Competitive performance</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Obnoxious bloatware</li><li>High-pitched fans</li><li>Physical trackpad button instead of a linear motor</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">A no-compromises ultraportable that&rsquo;s not just another pretty face.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-asus-zenbook-s-13-oled-2023">
+			Best Prices Today: Asus Zenbook S 13 OLED (2023)		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Best Buy" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/best-buy-logo.png" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$1399.99</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6541697&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6541697%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-3-1927897-2-1927989-11291" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+		
+
+
+<p>It used to be that in order to get a laptop&rsquo;s profile as thin as possible, laptop makers would have to make big sacrifices. A perfect example for me is the original 2008 MacBook Air&mdash;this ultrabook whittled its ports down to three, one USB, one charging port, and the headphone jack and used the same slow hard drives as an iPod, making it a frustrating computing experience no matter how you sliced it.</p>
+
+
+
+<p>Thankfully, thin-and-light computers have come a long way since 2008 and Asus has put out what looks like a no-compromises device. It features the latest Intel Core 10-core chip and a gorgeous OLED screen, which is all packed into a super light frame made from metal and ceramic. On paper, it seems like it could give even Apple&rsquo;s honed Airs a run for their money and save for a couple of gripes, that&rsquo;s absolutely the case. Asus has designed one exciting ultrabook.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Looking for more options? Check out our roundup of the <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">best laptops</a> available right now.</p></blockquote>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-specs-and-features">Asus Zenbook 13 S OLED: Specs and features</h2>
+
+
+
+<p>Our review unit came loaded with an Intel Core i7-1355U CPU, Intel Iris Xe graphics, 32GB of RAM, and 1TB of NVMe PCIe SSD storage. For more details, check out the bulleted list below:</p>
+
+
+
+<ul><li><strong>CPU</strong>: Intel Core i7-1355U (10 cores, 12 threads)</li><li><strong>Memory</strong>: 32 GB LPDDR5</li><li><strong>Graphics/GPU</strong>: Intel Iris Xe Graphics</li><li><strong>Display</strong>: 13.3-inch 2880&times;1800 16:10 OLED, 550 nits peak HDR brightness&nbsp;&nbsp;</li><li><strong>Storage</strong>: 1 TB M.2 NVMe PCIe 4.0 SSD</li><li><strong>Webcam</strong>: 1080p IR camera</li><li><strong>Connectivity</strong>:&nbsp; 2x Thunderbolt 4, 1x USB-A 3.1 Gen , 1x HDMI 2.1, 3.5 mm headset jack</li><li><strong>Networking</strong>: Intel AX211 with Wi-Fi 6E, Bluetooth 5.3</li><li><strong>Biometrics</strong>: Windows Hello facial recognition</li><li><strong>Battery capacity</strong>: 63Wh</li><li><strong>Dimensions</strong>: 11.66 W x 8.52 L x 0.46 H inches</li><li><strong>Weight</strong>: 2.2 pounds, 2.6 pounds with AC adapter</li><li><strong>Price as Reviewed: </strong>$1,399</li></ul>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-design-and-build-quality">Asus Zenbook 13 S OLED: Design and build quality</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook hero" class="wp-image-1927902" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-hero.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>I&rsquo;m not a snob about my computers&mdash;I&rsquo;ve enjoyed everything from chunky machines made from recycled plastic to the latest thin-and-light models. That said, taking the Asus Zenbook S 13 OLED out of its box for the first time was memorable. Its thin profile and 2.2 lb weight make it feel almost fake at first, like one of those display model computers you&rsquo;d find at Ikea on the show floor. But it&rsquo;s not fake! This actual computer crams a keyboard, all its chips, a good-sized battery, and even its signature OLED display into a super tiny package.</p>
+
+
+
+<p>All of that could be a soggy noodle of a computer if not engineered properly. Thankfully, I found very little flex or wobble here, showing that Asus has done a thorough engineering job. Even the thin screen feels relatively stout, and for all the vigorous typing I could muster, I never felt the bottom of the computer torque or strain under the pressure. Metal is the primary material at work here, but the back of the display is a stylish ceramic material with attractive engraved lines. It&rsquo;s subtly eye-catching.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-connectivity">Asus Zenbook 13 S OLED: Connectivity</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook ports" class="wp-image-1927929" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-left-ports.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>Recently, I sampled a really great HP computer, the <a href="https://www.pcworld.com/article/1661500/hp-dragonfly-pro-review.html">Dragonfly Pro</a>. Maybe the worst aspect of that machine was its lack of ports, rocking only a handful and only the latest and greatest Thunderbolt or USB-C. But it&rsquo;s important to remember that there are still a lot of accessories out there that need dedicated connectors, and that not everyone wants to replace all their perfectly good cables for USB-C ended ones. That&rsquo;s why it&rsquo;s so nice to see that Asus has split the difference with the Zenbook S 13 OLED. Not only do you get two Thunderbolt 4 ports, with all their Swiss Army USB-C goodness (these are the only way to charge the computer). But that&rsquo;s not all you get. There&rsquo;s a headphone jack, a real USB-A port, and a real HDMI 2.1 port too.</p>
+
+
+
+<p>While I can get by with adapters and dongles, it&rsquo;s just so nice that I could plug the Zenbook S 13 OLED right up to a USB-A memory card reader I had lying around. I was also able to quickly use my old Yubikey for two-factor authentication. To be honest, even though I&rsquo;m used to juggling new and old cables in my day-to-day, it&rsquo;s refreshing to not have to worry if I grabbed the right cable. Any USB cable will work!</p>
+
+
+
+<p>With its Intel AX211 onboard WiFi, the Asus Zenbook S 13 provided a reliable internet experience, with great reception even from the corners of my house where some devices drop off. Along with WiFi 6E speeds (assuming you have a compatible router), you&rsquo;ll get modern Bluetooth 5.3 as well. There&rsquo;s no cellular internet option, unfortunately.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-keyboard-and-trackpad">Asus Zenbook 13 S OLED: Keyboard and trackpad</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook keyboard" class="wp-image-1927934" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-keyboard.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>The distance a key travels often dictates the comfort and responsiveness of a keyboard. Thankfully, the short-throw keys on this Asus feel precise and comfortable. They&rsquo;re a little clicky which I appreciate, leaving no question when you&rsquo;ve pressed a key. The pressure needed to actuate each button only needs a light touch. Even for longer typing sessions, my fingers never got fatigued and there wasn&rsquo;t any kind of learning curve&mdash;I got my hands on the home row and away I went.</p>
+
+
+
+<p>If I had to point out any weak point with the Asus Zenbook, it might be the trackpad. Although I had a fine time with it, its use of a physical clicker made it feel a little old-school when compared to some modern competition. The MacBook and even competing HP models may use a linear induction motor to provide a click which I&rsquo;d prefer in a thin computer like this. But hey, I&rsquo;ve absolutely used worse trackpads on recent PCs, so maybe mediocre isn&rsquo;t a terrible fate. At least it&rsquo;s responsive enough, correctly ignored my palms while typing, and has a smooth-feeling glass material as its touch surface.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-display-speakers-webcam">Asus Zenbook 13 S OLED: Display, speakers, webcam</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook display" class="wp-image-1927931" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-display.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>Not only is the Zenbook S 13 OLED thin as a finely-honed sword, this laptop sports an awesome, high-res OLED panel. We&rsquo;ll get into this a bit later but in my experience, big OLED laptop screens used to be expensive and have a big battery life penalty. Thankfully, neither of those seem to be an issue at this point, and the benefits outweigh any drawbacks.</p>
+
+
+
+<p>The benefits are gorgeous colors and incredibly dark blacks, making for a screen with an overall rich and realistic look. The peak brightness on this screen is 500 nits when watching HDR content. The high resolution of the panel, 2880&times;1800, is mostly an asset to the Zenbook, but I still ran into some dialogue boxes in Windows that didn&rsquo;t scale properly, looking tiny on the screen. Maybe the only downside to this screen is the lack of a touch layer, something I missed just since I use so many touch-enabled computers in my daily life. For a lot of people this is far from a deal breaker, and I&rsquo;m here to say that the vivid, constrast-y OLED screen is a huge upgrade from whatever LCDs you&rsquo;ve tried in the past.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook webcam" class="wp-image-1927953" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-webcam.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>Perched atop the OLED screen is a so-so webcam that&rsquo;s a 1080p resolution. I found that it made my skin look washed out in direct light, and that it wasn&rsquo;t very detailed overall, but your mileage may vary. Thankfully, the camera has Windows Hello integration, so you can at least log in hands-free, even if you don&rsquo;t look your best on Zoom calls.</p>
+
+
+
+<p>In the premium laptop space, we expect punchy speaker systems. While the Zenbook S 13 OLED misses the mark on deep bass sounds and perhaps has less volume than competing machines, the midrange is satisfyingly detailed. If you were hoping to get room-filling sound, you&rsquo;ll be disappointed. But if you infrequently use your laptop&rsquo;s speakers or tend towards spoken word content, you&rsquo;ll appreciate the speakers in the Zenbook S 13 OLED.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-performance">Asus Zenbook 13 S OLED: Performance</h2>
+
+
+
+<p>At this point in 2023, you&rsquo;re going to see more laptops like this Asus with the latest Intel 13th gen chips inside. While it&rsquo;s not a big leap above the previous generation of processor, there&rsquo;s still a lot to like here. In our battery of tests, the i7-1355U, with its two performance cores and 8 efficiency cores, gives this thin laptop quite a lot of muscle. But there&rsquo;s definitely a penalty for smooshing such a sophisticated processor into a small space&mdash;fan noise. If you&rsquo;re sensitive to high-pitched noises, you&rsquo;ll notice the fans as soon as you start something that taxes the processor. I thought it was somewhat akin to a mosquito flying in my ear&mdash;it&rsquo;s that skull-shatteringly piercing.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus Zenbook PCMark" class="wp-image-1927937" height="600" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-pc-mark-chart.jpg?quality=50&amp;strip=all" width="901" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>We benchmark every laptop with the PCMark 10 suite. This software gives us a great baseline, using everyday tasks to gauge a computer&rsquo;s true performance. Unlike the AMD-powered competitors (like the HP Dragonfly Pro on this chart), you&rsquo;ll only get a pair of high-powered cores, which puts the Asus Zenbook S 13 OLED behind those models. All that said, the i7-1355U held its own against older Intel chips, with its performance coming in only slightly behind performance-focused P-spec Intel chips from the previous generation. Those laptops tended to run hotter and have worse battery life, so it&rsquo;s nice to see that there is a meaningful performance upgrade year-over-year.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus Zenbook Cinebench" class="wp-image-1927941" height="600" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-cbr15-chart.jpg?quality=50&amp;strip=all" width="901" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>In this performance test, we use Cinebench R15 to get a sense for how well all a laptop&rsquo;s processors work together to render 3D graphics. The lack of high-performance cores didn&rsquo;t help the Asus Zenbook S 13 OLED out here as it&rsquo;s bested by most other laptops in its class, but we&rsquo;d bet that people aren&rsquo;t buying these ultraportable devices for heavy 3D rendering sessions.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus Zenbook 3DMark" class="wp-image-1927944" height="600" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-3dmark-chart.jpg?quality=50&amp;strip=all" width="901" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>We&rsquo;ve seen Intel&rsquo;s integrated Iris Xe Graphics improve substantially over the years, and at this point you can get good enough performance for simple tasks. The 3DMark Time Spy benchmark we use is a torture test for these kind of laptops, but when compared to other similar Intel-based machines you can expect it to be competitive. It&rsquo;s still a far cry from AMD-based laptops with their stronger Radeon integrated graphics, but we weren&rsquo;t expecting this generation of Intel chips to improve the graphics by much anyway.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus Zenbook Handbrake" class="wp-image-1927946" height="600" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-handbrake-chart.jpg?quality=50&amp;strip=all" width="901" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>We test every laptop by reencoding a high-res video file into a small file intended for a tablet device. It seems like Intel&rsquo;s put in a bit of work into its QuickSync video technology, because the i7-1355U in the Zenbook S 13 OLED managed to match the more powerful AMD-based Dragonfly Pro in this test.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-battery-life">Asus Zenbook 13 S OLED: Battery life</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus Zenbook battery life" class="wp-image-1927950" height="600" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/asus-zenbook-oled-battery-chart.jpg?quality=50&amp;strip=all" width="901" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>As we mentioned earlier, OLED screens in laptops used to be bad news for battery life. But not here&mdash;the Asus Zenbook 13 S OLED lasted more than 10 hours in our 4K video looping test. That makes it competitive with other recent laptops we&rsquo;ve seen in this class, like the HP Dragonfly Pro, while being almost a full pound lighter. It seems like a really impressive feat that this laptop can be so light, plenty powerful, but also last most of a day without a charge. Anecdotally, I lost around 9% over a half hour while using this machine pretty intensely, with a YouTube video playing, the screen brightness cranked up, and plenty of tabs open in Microsoft Edge.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-bloatware">Asus Zenbook 13 S OLED: Bloatware</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Asus Zenbook bloatware" class="wp-image-1927956" height="471" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Screenshot-2023-04-30-114702.png" width="807" /></figure><p class="imageCredit">IDG / Brendan Nystedt</p></div>
+
+
+
+<p>Although Asus comes close to matching the MacBook Air experience with the Zenbook S 13 OLED, there&rsquo;s one thing that the Mac does better: you&rsquo;re certain to get a clean install of the operating system. The Zenbook S 13 OLED came preloaded with some really annoying utilities, one that could even mess with the long-term operation of this computer&rsquo;s awesome OLED screen.</p>
+
+
+
+<p>As always, the worst offender was the included antivirus software. McAfee wasted no time bullying me about &ldquo;Early Bird&rdquo; deals so I can get a low rate locked in once my trial expires. I understand that the PC business relies on kickbacks from these software vendors, but for a premium laptop this is ridiculous. Putting scary messages, spinning clocks, and ticking countdown timers on the screen simply leaves a bad taste in my mouth, and I feel bad for anyone who has to deal with this kind of manipulative marketing.</p>
+
+
+
+<p>Then there are the built-in Asus utilities. There&rsquo;s a utility named GlideX that should let you extend the Zenbook&rsquo;s display to a tablet, but it makes users subscribe for extra features and to remove display ads. Strangely, there&rsquo;s also an app included called ScreenXprt, which as far as I can tell builds on Windows 11&rsquo;s already pretty great window managing system, duplicates the camera and microphone off buttons from the keyboard, and lets users add shortcuts to screen snipping (which already has a keyboard command as well). The worst part of this is that is sticks a transparent logo in the corner. As you may know, OLED screens can be particularly sensitive to static graphics, which can burn in over time and this app could do just that. The MyASUS app, meant to give users support, sent a notification telling me of some great spring deals&hellip;no thanks!</p>
+
+
+
+<p>Although the Asus hardware team has put in great work, the people picking out the software really need to think about how these little things can kill someone&rsquo;s buzz.</p>
+
+
+
+<h2 id="asus-zenbook-13-s-oled-should-you-buy-it">Asus Zenbook 13 S OLED: Should you buy it?</h2>
+
+
+
+<p>2023 has been a great year for PC laptops, even if people aren&rsquo;t buying them as ravenously as during previous years. If you&rsquo;ve been holding off a purchase waiting for improved chips, nicer screens, and great battery life before you upgrade, then Asus has put all of these things into a device that has few compromises&mdash;the Zenbook S 13 OLED even has a, useful selection of ports. If power isn&rsquo;t your priority, this laptop could cover all the bases for typical kinds of work, and its vivid OLED screen is simply gorgeous for watching your favorite movies or streaming shows.</p>
+
+
+
+<p>Even the negatives here are pretty negligible&hellip;if I all I can complain about are the trackpad being a clicky button instead of a motor (that&rsquo;s a first world problem for sure!), a slight whine from the fans, and some bloatware that you can easily and quickly uninstall, then that says a lot. Even for the $1,399 price, you get plenty of storage, a future-proof amount of RAM, and a very competent processor. The M2 MacBook Air or Dell XPS 13 Plus, optioned out to a similar tier, both cost more than $2,000. Simply put, the Asus Zenbook S 13 OLED is a no-brainer buy.&nbsp;&nbsp;</p>
+
+Laptops</div>
+
+## Get more from your webcam with this ingenious tool
+ - [https://www.pcworld.com/article/1931900/get-more-from-your-webcam-with-this-ingenious-tool.html](https://www.pcworld.com/article/1931900/get-more-from-your-webcam-with-this-ingenious-tool.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-05-31 08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Your standard webcam isn&rsquo;t exactly a Hollywood soundstage. But if you want to get more production value out of a limited setup, look no further than <a href="https://shop.pcworld.com/sales/finecam-pro-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=finecam-pro-lifetime-subscription&amp;utm_term=scsf-571894&amp;utm_content=a0x1P000004Ij8FQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">FineCam</a>.</p>
+
+
+
+<p>FineCam lets you capture a single shot from multiple angles, switch between lenses, change the video resolution, and build a multi-camera setup for videos. It&rsquo;s almost like having a full movie set with one software.</p>
+
+
+
+<p>Designed to be easy for amateurs and videographers alike to use, FineCam allows you to capture multiple angles and adjust camera settings in real time in up to 1080p HD. With AI enhancement, it will also do the work of a makeup crew.</p>
+
+
+
+<p>You can use <a href="https://shop.pcworld.com/brands/apple?sort=best_sellers" rel="noreferrer noopener" target="_blank">iPhone</a>, iPad, Android, or GoPro as an HD webcam, change the background with Chroma Key, and access a slew of cinematic filters and effects for a more immersive video experience.</p>
+
+
+
+<p>Find out why Gizmodo named FineCam one of its best third-party tools for a better webcam picture. Grab a lifetime subscription to <a href="https://shop.pcworld.com/sales/finecam-pro-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=finecam-pro-lifetime-subscription&amp;utm_term=scsf-571894&amp;utm_content=a0x1P000004Ij8FQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">FineCam Pro</a> today for 41% off $84 at just $49.99.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/finecam-pro-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=finecam-pro-lifetime-subscription&amp;utm_term=scsf-571894&amp;utm_content=a0x1P000004Ij8FQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp3.stackassets.com/aadb944bd61ff3cdbc344cc1eea5816582de57a0/store/e2433f5316b89713b35fd81ef789014ea0680cd79d06cd1fa3c334308c56/sale_318512_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>FineCam Pro: Lifetime Subscription &ndash; $49.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/finecam-pro-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=finecam-pro-lifetime-subscription&amp;utm_term=scsf-571894&amp;utm_content=a0x1P000004Ij8FQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices subject to change.</p>
+
+Webcams</div>
+
