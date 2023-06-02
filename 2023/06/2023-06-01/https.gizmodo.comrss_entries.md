@@ -1,0 +1,135 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## You Can Now Watch One of the Best Seasons of Star Trek for Free
+ - [https://gizmodo.com/star-trek-strange-new-worlds-season-1-streaming-free-1850496540](https://gizmodo.com/star-trek-strange-new-worlds-season-1-streaming-free-1850496540)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 18:10:14+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--zD88qteP--/c_fit,fl_progressive,q_80,w_636/54cf477467da4839fba8298627291b76.jpg" /><p>We might be just about ready to return to the U.S.S. <em>Enterprise </em>for <a href="https://gizmodo.com/star-trek-strange-new-worlds-finale-balance-of-terror-1849165568"><em>Star Trek: Strange New Worlds</em></a>’ <a href="https://gizmodo.com/star-trek-strange-new-worlds-season-2-trailer-kirk-1850352885">sophomore season</a>, but if you missed out on the show’s maiden voyage—<a href="https://gizmodo.com/best-sci-fi-horror-and-fantasy-tv-shows-of-2022-1849906411">one of the best TV series on the air last year</a>—then we’ve got good news: the whole season is currently up on YouTube for free.<br /></p><p><a href="https://gizmodo.com/star-trek-strange-new-worlds-season-1-streaming-free-1850496540">Read more...</a></p>
+
+## Motorola’s Razr+ Is a Premium Take on an Ancient Flip Phone
+ - [https://gizmodo.com/motorola-razr-foldable-flip-smartphone-android-oled-sa-1850495436](https://gizmodo.com/motorola-razr-foldable-flip-smartphone-android-oled-sa-1850495436)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7wNrXR9g--/c_fit,fl_progressive,q_80,w_636/497806ebb4c110df14879e25d0c0df81.jpg" /><p>I remember getting my first phone. It was a Nokia flip phone, and <a href="https://gizmodo.com/nelly-kelly-rowland-spreadsheet-dilemma-nokia-1849422528">not any</a> of the <a href="https://gizmodo.com/the-nokia-3310-was-a-frickin-tank-1792278245">cool one</a>s. I can’t even remember the make and model. It was semi-durable. It lasted me through the end of middle school and most of the way through high school. It wasn’t pretty, and it’s not something I flashed around. In my school, all…</p><p><a href="https://gizmodo.com/motorola-razr-foldable-flip-smartphone-android-oled-sa-1850495436">Read more...</a></p>
+
+## Add June's New Sci-Fi, Fantasy, and Horror Books to Your Summer Reading List
+ - [https://gizmodo.com/42-new-scifi-fantasy-horror-books-june-charles-soule-1850420125](https://gizmodo.com/42-new-scifi-fantasy-horror-books-june-charles-soule-1850420125)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--sIQNKj_5--/c_fit,fl_progressive,q_80,w_636/a86ccaee06c9bbd2774495a6c68078e5.jpg" /><p>If your idea of “beach reads” includes subjects like aliens, <a href="https://gizmodo.com/star-wars-return-of-the-jedi-40-best-moments-1850477551?utm_source=twitter&amp;utm_medium=SocialMarketing&amp;utm_campaign=dlvrit&amp;utm_content=io9">space battles</a>, fantasy battles, <a href="https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140">time-travel</a>, monsters, demons, <a href="https://gizmodo.com/interview-with-the-vampire-review-amc-anne-rice-sexy-1849591433">vampires</a>, magical circus performers, and fresh takes on <a href="https://gizmodo.com/9-gods-the-ancient-romans-didnt-just-steal-from-the-gr-1681152322">classic mythology</a>... this list of 42 new sci-fi, fantasy, and horror releases for June has got you covered.</p><p><a href="https://gizmodo.com/42-new-scifi-fantasy-horror-books-june-charles-soule-1850420125">Read more...</a></p>
+
+## Kremlin Accuses the NSA of Spying on Russian iPhone Users
+ - [https://gizmodo.com/apple-iphone-russia-spy-nsa-espionage-1850495671](https://gizmodo.com/apple-iphone-russia-spy-nsa-espionage-1850495671)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 16:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--xqj1UnWF--/c_fit,fl_progressive,q_80,w_636/75413bc8aa23fd7d3ef9c305d0b04b88.jpg" /><p><a href="https://gizmodo.com/russia-wikipedia-putin-ukraine-war-misinformation-1850167891">Russia</a> claimed Apple’s iPhones are spying on its citizens on Thursday and accused the U.S. of being behind it. Russia’s Federal Security Service (FSB) claims the U.S. National Security Agency used malware and backdoors created on the devices to carry out a plot to spy on the citizens and government.</p><p><a href="https://gizmodo.com/apple-iphone-russia-spy-nsa-espionage-1850495671">Read more...</a></p>
+
+## A New Lunar Lander and Robot Snakes Are Just Some of the Best Spaceflight Images From May
+ - [https://gizmodo.com/here-are-the-best-spaceflight-images-from-may-1850493112](https://gizmodo.com/here-are-the-best-spaceflight-images-from-may-1850493112)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--R1wTxv1A--/c_fit,fl_progressive,q_80,w_636/2f7b02224cce5c71da315eba41d18e04.jpg" /><p>Someone once said that May is a month of renewal, growth, and endless possibilities. That was certainly the case for spaceflight last month, as these striking visuals attest.</p><p><a href="https://gizmodo.com/here-are-the-best-spaceflight-images-from-may-1850493112">Read more...</a></p>
+
+## Instagram's Head Says You Shouldn't Worry About Shadowbanning
+ - [https://gizmodo.com/instagram-account-ban-shadowban-adam-mosseri-twitteri-1850495774](https://gizmodo.com/instagram-account-ban-shadowban-adam-mosseri-twitteri-1850495774)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 16:38:56+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--lrf5hEVZ--/c_fit,fl_progressive,q_80,w_636/687e2c61adddedd96104b00b4481131c.jpg" /><p>Instagram head Adam Mosseri released a lengthy video late Wednesday explaining the social network’s ranking algorithms and addressing potential concerns of shadowbanning. The at-times-technical, nine-minute video comes just weeks ahead of the rumored launch of <a href="https://gizmodo.com/instagrams-twitter-clone-launch-june-meta-project-92-1850455814">Instagram’s new, decentralized text-based Twitter clone</a>. </p><p><a href="https://gizmodo.com/instagram-account-ban-shadowban-adam-mosseri-twitteri-1850495774">Read more...</a></p>
+
+## The Boogeyman Reminds Us Why We’re Afraid of the Dark
+ - [https://gizmodo.com/review-the-boogeyman-stephen-king-horror-rob-savage-1850492844](https://gizmodo.com/review-the-boogeyman-stephen-king-horror-rob-savage-1850492844)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SpZZX5tB--/c_fit,fl_progressive,q_80,w_636/0f6dd776b1d625682d0352bbb8e46028.png" /><p>You might want to dig out a night light and keep those closet doors secured after watching <a href="https://gizmodo.com/boogeyman-trailer-horror-stephen-king-rob-savage-host-1850344217"><em>The Boogeyman</em></a>.<br /></p><p><a href="https://gizmodo.com/review-the-boogeyman-stephen-king-horror-rob-savage-1850492844">Read more...</a></p>
+
+## We’ve Got Power: Dream Chaser Spaceplane Aces Critical Test as Epic Maiden Mission Draws Near
+ - [https://gizmodo.com/we-ve-got-power-dream-chaser-spaceplane-aces-critical-1850495336](https://gizmodo.com/we-ve-got-power-dream-chaser-spaceplane-aces-critical-1850495336)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nfxK2yCe--/c_fit,fl_progressive,q_80,w_636/5fd7c8bf4e5704896eb82657f1a76a9d.jpg" /><p>Sierra Space fired up its spaceplane in its assembly facility for the first time, signifying that the Dream Chaser shuttle could soon be ready for its first mission to low Earth orbit.</p><p><a href="https://gizmodo.com/we-ve-got-power-dream-chaser-spaceplane-aces-critical-1850495336">Read more...</a></p>
+
+## Do Not Throw Lego's $200 Captain America Shield at Bad Guys, It Will Not Bounce
+ - [https://gizmodo.com/lego-marvel-captain-america-shield-price-release-date-1850495626](https://gizmodo.com/lego-marvel-captain-america-shield-price-release-date-1850495626)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 15:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--INjoXXfs--/c_fit,fl_progressive,q_80,w_636/0fe08dad2a36fe9ae3256723a6845c96.jpg" /><p>Building something perfectly round using Lego bricks is a task seemingly as impossible as drawing a perfect circle with an Etch A Sketch. And yet, Lego’s designers have somehow managed to engineer a <a href="https://www.lego.com/en-us/product/captain-america-s-shield-76262" rel="noopener noreferrer" target="_blank">brilliant replica of Captain America’s shield</a> and while it’s not exactly life-size, it still measures in at an…</p><p><a href="https://gizmodo.com/lego-marvel-captain-america-shield-price-release-date-1850495626">Read more...</a></p>
+
+## So Long, and Thanks for All the (Drought-Stricken) Fish
+ - [https://gizmodo.com/so-long-and-thanks-for-all-the-drought-stricken-fish-1850494076](https://gizmodo.com/so-long-and-thanks-for-all-the-drought-stricken-fish-1850494076)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 15:42:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--De7SnZhD--/c_fit,fl_progressive,q_80,w_636/d8bbe489eb1acf9c26781e017863118f.jpg" /><p>I always joke that, because of my job, I’m consistently the most depressing person at a party. </p><p><a href="https://gizmodo.com/so-long-and-thanks-for-all-the-drought-stricken-fish-1850494076">Read more...</a></p>
+
+## iana's Bayou Adventure Will Honor New Orleans With Original Music
+ - [https://gizmodo.com/tianas-bayou-adventure-new-music-disney-splash-mountain-1850493633](https://gizmodo.com/tianas-bayou-adventure-new-music-disney-splash-mountain-1850493633)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7reipg5l--/c_fit,fl_progressive,q_80,w_636/2d7bc014e2f9cb456fed2478027e4960.jpg" /><p>Grammy award-winning R&amp;B songwriter, producer and New Orleans’ own PJ Morton has been announced as Disney Imagineering’s musical collaborator for <a href="https://gizmodo.com/tianas-bayou-adventure-disney-parks-disney-princess-1849446138"><em>Tiana’s Bayou Adventure</em></a>. </p><p><a href="https://gizmodo.com/tianas-bayou-adventure-new-music-disney-splash-mountain-1850493633">Read more...</a></p>
+
+## Elon Doesn't Tweet for 2 Days, Regains Status as World's Richest Man
+ - [https://gizmodo.com/elon-musk-china-twitter-worlds-richest-tesla-1850494960](https://gizmodo.com/elon-musk-china-twitter-worlds-richest-tesla-1850494960)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 14:24:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3b9BJsAv--/c_fit,fl_progressive,q_80,w_636/e7ce25cf4676329fd6b226bfc6c523dd.png" /><p>Despite <a href="https://gizmodo.com/fidelity-elon-musk-twitter-44-billion-value-1850488895">Twitter only being valued at a third of what Elon Musk bought it for</a>, the CEO and tech tycoon has just reclaimed the crown of richest man in the world.<br /></p><p><a href="https://gizmodo.com/elon-musk-china-twitter-worlds-richest-tesla-1850494960">Read more...</a></p>
+
+## Zuckerberg Reveals the Meta Quest 3, Which is ‘40% Slimmer’ and Has a $500 Starting Price
+ - [https://gizmodo.com/meta-quest-3-price-release-date-reveal-zuckerberg-meta-1850495249](https://gizmodo.com/meta-quest-3-price-release-date-reveal-zuckerberg-meta-1850495249)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 14:24:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--blWKIVKY--/c_fit,fl_progressive,q_80,w_636/d0393c7ae845647b6f9b1438f5ab457c.jpg" /><p>Ahead of what is expected to be the debut of <a href="https://gizmodo.com/apple-wwdc-2023-ios-mac-ipad-vr-headset-iphone-m3-chip-1850387712">Apple’s own pricy AR headset at WWDC on Monday</a>, Meta has just revealed its new Meta Quest 3 VR headset through Mark Zuckerberg’s Instagram account, with a design that’s 40% thinner, has twice the processing power, and comes with redesigned controllers.<br /><br /></p><p><a href="https://gizmodo.com/meta-quest-3-price-release-date-reveal-zuckerberg-meta-1850495249">Read more...</a></p>
+
+## Congress Will Reportedly Block Space Command Funding If Its Headquarters Isn't Moved to Alabama
+ - [https://gizmodo.com/congress-may-block-space-command-funding-hq-alabama-1850492923](https://gizmodo.com/congress-may-block-space-command-funding-hq-alabama-1850492923)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 14:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vflGVhfw--/c_fit,fl_progressive,q_80,w_636/b1ff5e2b388403183dde81188b80986a.jpg" /><p>Members of Congress are reportedly seeking to block funding for the current headquarters of the Space Command in Colorado and force the space military branch to move to Alabama.</p><p><a href="https://gizmodo.com/congress-may-block-space-command-funding-hq-alabama-1850492923">Read more...</a></p>
+
+## John Carpenter Says a Thing Sequel Might Be On the Way
+ - [https://gizmodo.com/john-carpenter-thing-2-sequel-details-1850489569](https://gizmodo.com/john-carpenter-thing-2-sequel-details-1850489569)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0hqSgBgm--/c_fit,fl_progressive,q_80,w_636/3c6e477450c97831d65018b41b9206a9.png" /><p>Could another <em>Resident Evil</em> movie be on the way? The live-action <em>Moana</em> remake has found its director. Get a glimpse into Barbie’s dream house. Taika Waititi talks about the struggle of writing his <em>Star Wars</em> movie. Plus, what’s coming on <em>Superman &amp; Lois</em> and <em>Gotham Knights</em>. To me, my spoilers!<br /></p><p><a href="https://gizmodo.com/john-carpenter-thing-2-sequel-details-1850489569">Read more...</a></p>
+
+## BeReal Tries to Keep the Buzz Up With New Instagram-esque Chat Feature
+ - [https://gizmodo.com/bereal-instagram-chat-social-media-1850494859](https://gizmodo.com/bereal-instagram-chat-social-media-1850494859)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 13:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2JxItk_o--/c_fit,fl_progressive,q_80,w_636/6350e0d748996b04552125dccb5ab68c.jpg" /><p><a href="https://gizmodo.com/youtube-bereal-kids-expose-sexual-content-parent-survey-1850332242">BeReal</a> dropped a new feature to help users better connect with their friends by using RealMoji reactions or RealChat. The addition seems similar to <a href="https://gizmodo.com/instagram-finally-lets-you-post-multiple-in-bio-links-1850348787">Instagram</a>, as BeReal seems to compete with the platform to stay in the <a href="https://gizmodo.com/facebook-instagram-ads-scatter-brain-buy-stuff-1850387557">social media</a> limelight.</p><p><a href="https://gizmodo.com/bereal-instagram-chat-social-media-1850494859">Read more...</a></p>
+
+## From Google's Newest Pixels to a Tetris-Playing McNugget, These Were April's Coolest and Weirdest Gadgets
+ - [https://gizmodo.com/may-best-gadgets-phones-pixel-google-samsung-a54-apple-1850487232](https://gizmodo.com/may-best-gadgets-phones-pixel-google-samsung-a54-apple-1850487232)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--VBFwxiFf--/c_fit,fl_progressive,q_80,w_636/1cf766a9dfebd7e9cb666d392d5507ec.jpg" /><p>May brings with it the first long weekend of the (almost) Summer season, and usually kicks off keynote season, with Google announcing lots of new hardware at its annual I/O developer’s conference. But there was a lot more than just Pixel devices in May. There were lots of weird and wonderful gadgets revealed that you…</p><p><a href="https://gizmodo.com/may-best-gadgets-phones-pixel-google-samsung-a54-apple-1850487232">Read more...</a></p>
+
+## Life Finds a Way to Make Jurassic Park Even Cooler With New Transformers Mashups
+ - [https://gizmodo.com/hasbro-transformers-jurassic-park-mashups-toy-reveal-1850486846](https://gizmodo.com/hasbro-transformers-jurassic-park-mashups-toy-reveal-1850486846)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 13:00:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--WvfDt8Nk--/c_fit,fl_progressive,q_80,w_636/c82936c37475d8009c5d81d435e90be9.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--eb_5xJU_--/c_fit,fl_progressive,q_80,w_636/c82936c37475d8009c5d81d435e90be9.mp4" type="video/mp4" /></video><p>They’re going to be making sequels to <em>Jurassic Park</em> until the end of time, and hopefully one of them takes inspiration from the recent Hasbro Transformers x <em>Jurassic Park</em> mashups, which now include a <a href="https://www.amazon.com/dp/B0BS4D3GMG?asc_campaign=Partner&amp;asc_refurl=https://gizmodo.com/hasbro-transformers-jurassic-park-mashups-toy-reveal-1850486846&amp;asc_source=regular&amp;tag=kinjagizmodo-20" target="_top">Dilophosaurus and a Jeep Wrangler</a> that transform into robots—finally giving visitors a fighting chance when the park’s…</p><p><a href="https://gizmodo.com/hasbro-transformers-jurassic-park-mashups-toy-reveal-1850486846">Read more...</a></p>
+
+## Match Group’s ‘Archer’ App Wants to Offer Gay Men So Many Targets They Can’t Miss
+ - [https://gizmodo.com/archer-tinder-dating-app-match-group-gay-dating-app-1850493072](https://gizmodo.com/archer-tinder-dating-app-match-group-gay-dating-app-1850493072)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-01 12:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3bUUgqjH--/c_fit,fl_progressive,q_80,w_636/4f7260b7213e9e8feeb63df724855286.png" /><p>Match Group, the company that’s mostly known for gobbling up some of the most popular apps in the dating market, announced Thursday it’s now promoting its own app called <a href="https://www.archerapp.com/" rel="noopener noreferrer" target="_blank">Archer</a>. Rather than another Tinder clone, Archer is specifically geared for gay, bisexual, and queer men. More than that, devs are hoping that users…</p><p><a href="https://gizmodo.com/archer-tinder-dating-app-match-group-gay-dating-app-1850493072">Read more...</a></p>
+
