@@ -1,0 +1,23 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## Fitness isn't going to sell me on Apple's new AR/VR headset. Here's why
+ - [https://www.zdnet.com/article/fitness-isnt-going-to-sell-me-on-apples-new-arvr-headset-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/fitness-isnt-going-to-sell-me-on-apples-new-arvr-headset-heres-why/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-03 11:45:00+00:00
+
+Reality Pro will need a killer feature to justify its rumored $3,000 price tag. For me, workouts and fitness apps aren’t it.
+
+## Every Apple product we're expecting at WWDC on Monday: AR/VR headset, Mac Studio, more
+ - [https://www.zdnet.com/article/every-apple-product-were-expecting-at-wwdc-on-monday-arvr-headset-mac-studio-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/every-apple-product-were-expecting-at-wwdc-on-monday-arvr-headset-mac-studio-more/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-03 11:30:00+00:00
+
+With a weekend left before WWDC, here's what's expected from Apple during its annual developer conference.
+
+## I tested this tiny satellite communicator on an off-grid adventure. Here's my verdict
+ - [https://www.zdnet.com/article/i-tested-this-tiny-satellite-communicator-on-an-off-grid-adventure-heres-my-verdict/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-tested-this-tiny-satellite-communicator-on-an-off-grid-adventure-heres-my-verdict/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-03 11:00:00+00:00
+
+The smartphone has given us that feeling of being in constant contact with the rest of the world, no matter where we are. But what happens when you venture off-grid?
+
