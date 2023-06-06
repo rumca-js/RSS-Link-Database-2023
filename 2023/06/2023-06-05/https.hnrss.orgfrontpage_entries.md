@@ -1,0 +1,765 @@
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Apple's Vision Pro headset deserves to be ridiculed
+ - [https://www.disconnect.blog/p/apples-vision-pro-headset-deserves](https://www.disconnect.blog/p/apples-vision-pro-headset-deserves)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 22:06:59+00:00
+
+<p>Article URL: <a href="https://www.disconnect.blog/p/apples-vision-pro-headset-deserves">https://www.disconnect.blog/p/apples-vision-pro-headset-deserves</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36204653">https://news.ycombinator.com/item?id=36204653</a></p>
+<p>Points: 54</p>
+<p># Comments: 47</p>
+
+## Dutch Cabinet wants minimum 15% corporate tax to cut down tax avoidance
+ - [https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu](https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 22:02:32+00:00
+
+<p>Article URL: <a href="https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu">https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36204574">https://news.ycombinator.com/item?id=36204574</a></p>
+<p>Points: 11</p>
+<p># Comments: 5</p>
+
+## Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years
+ - [https://plebbit-test.netlify.app](https://plebbit-test.netlify.app)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 21:09:26+00:00
+
+<p>Article URL: <a href="https://plebbit-test.netlify.app">https://plebbit-test.netlify.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36203610">https://news.ycombinator.com/item?id=36203610</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+## Is there a wider internet outage today?
+ - [https://www.thousandeyes.com/outages/](https://www.thousandeyes.com/outages/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 20:34:57+00:00
+
+<p>Article URL: <a href="https://www.thousandeyes.com/outages/">https://www.thousandeyes.com/outages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36203204">https://news.ycombinator.com/item?id=36203204</a></p>
+<p>Points: 54</p>
+<p># Comments: 36</p>
+
+## AI Does Not Help Programmers
+ - [https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 19:51:50+00:00
+
+<p>Article URL: <a href="https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext">https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36202543">https://news.ycombinator.com/item?id=36202543</a></p>
+<p>Points: 33</p>
+<p># Comments: 34</p>
+
+## macOS 14 will support JPEG XL
+ - [https://twitter.com/jonsneyers/status/1665792517613256705](https://twitter.com/jonsneyers/status/1665792517613256705)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 19:23:15+00:00
+
+<p>Article URL: <a href="https://twitter.com/jonsneyers/status/1665792517613256705">https://twitter.com/jonsneyers/status/1665792517613256705</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36202088">https://news.ycombinator.com/item?id=36202088</a></p>
+<p>Points: 67</p>
+<p># Comments: 9</p>
+
+## Some Blogging Myths
+ - [https://jvns.ca/blog/2023/06/05/some-blogging-myths/](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 19:12:44+00:00
+
+<p>Article URL: <a href="https://jvns.ca/blog/2023/06/05/some-blogging-myths/">https://jvns.ca/blog/2023/06/05/some-blogging-myths/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36201821">https://news.ycombinator.com/item?id=36201821</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
+## Apple Vision Pro
+ - [https://www.apple.com/apple-vision-pro/](https://www.apple.com/apple-vision-pro/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 19:06:04+00:00
+
+<p>Article URL: <a href="https://www.apple.com/apple-vision-pro/">https://www.apple.com/apple-vision-pro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36201608">https://news.ycombinator.com/item?id=36201608</a></p>
+<p>Points: 56</p>
+<p># Comments: 2</p>
+
+## Apple Vision Pro: Apple’s first spatial computer
+ - [https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 19:04:46+00:00
+
+<p>Article URL: <a href="https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/">https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36201593">https://news.ycombinator.com/item?id=36201593</a></p>
+<p>Points: 240</p>
+<p># Comments: 153</p>
+
+## Flora Incognita – free AI-supported plant identification university project
+ - [https://floraincognita.com/](https://floraincognita.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:48:21+00:00
+
+<p>Article URL: <a href="https://floraincognita.com/">https://floraincognita.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36201143">https://news.ycombinator.com/item?id=36201143</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+## Apple reveals Vision Pro, a AR/VR headset unlike any other
+ - [https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:37:52+00:00
+
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/">https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200958">https://news.ycombinator.com/item?id=36200958</a></p>
+<p>Points: 68</p>
+<p># Comments: 27</p>
+
+## Apple Vision Pro Is Apple's New VR Headset
+ - [https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:33:34+00:00
+
+<p>Article URL: <a href="https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023">https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200884">https://news.ycombinator.com/item?id=36200884</a></p>
+<p>Points: 142</p>
+<p># Comments: 86</p>
+
+## iOS 17 makes iPhone more personal and intuitive
+ - [https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:29:08+00:00
+
+<p>Article URL: <a href="https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/">https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200806">https://news.ycombinator.com/item?id=36200806</a></p>
+<p>Points: 94</p>
+<p># Comments: 49</p>
+
+## Forests Around Chernobyl Aren’t Decaying Properly (2014)
+ - [https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:24:47+00:00
+
+<p>Article URL: <a href="https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/">https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200738">https://news.ycombinator.com/item?id=36200738</a></p>
+<p>Points: 37</p>
+<p># Comments: 15</p>
+
+## Deprecated Bloodstained Code in the Linux Kernel
+ - [https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/](https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:23:43+00:00
+
+<p>Article URL: <a href="https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/">https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200716">https://news.ycombinator.com/item?id=36200716</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+## How Photoshop solved working with files larger than can fit into memory
+ - [https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:10:49+00:00
+
+<p>Article URL: <a href="https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/">https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200480">https://news.ycombinator.com/item?id=36200480</a></p>
+<p>Points: 35</p>
+<p># Comments: 4</p>
+
+## WhatsApp Down
+ - [https://web.whatsapp.com/](https://web.whatsapp.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 18:05:20+00:00
+
+<p>Article URL: <a href="https://web.whatsapp.com/">https://web.whatsapp.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200389">https://news.ycombinator.com/item?id=36200389</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
+
+## Why does MPEG Transport Stream still exist?
+ - [https://www.obe.tv/why-does-mpeg-ts-still-exist/](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:58:19+00:00
+
+<p>Article URL: <a href="https://www.obe.tv/why-does-mpeg-ts-still-exist/">https://www.obe.tv/why-does-mpeg-ts-still-exist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200268">https://news.ycombinator.com/item?id=36200268</a></p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
+
+## New DirectX 12-to-Metal translation could bring a world of Window games to macOS
+ - [https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/](https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:48:47+00:00
+
+<p>Article URL: <a href="https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/">https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200115">https://news.ycombinator.com/item?id=36200115</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+## Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro
+ - [https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/](https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:44:21+00:00
+
+<p>Article URL: <a href="https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/">https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36200043">https://news.ycombinator.com/item?id=36200043</a></p>
+<p>Points: 28</p>
+<p># Comments: 5</p>
+
+## Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF
+ - [https://argilla.io/blog/argilla-for-llms/](https://argilla.io/blog/argilla-for-llms/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:37:35+00:00
+
+<p>Article URL: <a href="https://argilla.io/blog/argilla-for-llms/">https://argilla.io/blog/argilla-for-llms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36199911">https://news.ycombinator.com/item?id=36199911</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+## Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro
+ - [https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:22:16+00:00
+
+<p>Article URL: <a href="https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/">https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36199639">https://news.ycombinator.com/item?id=36199639</a></p>
+<p>Points: 84</p>
+<p># Comments: 57</p>
+
+## Apple Introduces M2 Ultra
+ - [https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/](https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:22:11+00:00
+
+<p>Article URL: <a href="https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/">https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36199637">https://news.ycombinator.com/item?id=36199637</a></p>
+<p>Points: 67</p>
+<p># Comments: 24</p>
+
+## Apple Announces Apple Silicon Mac Pro Powered by M2 Ultra
+ - [https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/](https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:16:10+00:00
+
+<p>Article URL: <a href="https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/">https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36199558">https://news.ycombinator.com/item?id=36199558</a></p>
+<p>Points: 57</p>
+<p># Comments: 44</p>
+
+## Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip
+ - [https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:12:45+00:00
+
+<p>Article URL: <a href="https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/">https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36199510">https://news.ycombinator.com/item?id=36199510</a></p>
+<p>Points: 43</p>
+<p># Comments: 11</p>
+
+## Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip
+ - [https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 17:10:36+00:00
+
+<p>Article URL: <a href="https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/">https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36199483">https://news.ycombinator.com/item?id=36199483</a></p>
+<p>Points: 97</p>
+<p># Comments: 62</p>
+
+## The Falcon has landed in the Hugging Face ecosystem
+ - [https://huggingface.co/blog/falcon](https://huggingface.co/blog/falcon)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 16:32:48+00:00
+
+<p>Article URL: <a href="https://huggingface.co/blog/falcon">https://huggingface.co/blog/falcon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36198807">https://news.ycombinator.com/item?id=36198807</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+## Building a Programming Language in Twenty-Four Hours
+ - [https://ersei.net/en/blog/diy-programming-language](https://ersei.net/en/blog/diy-programming-language)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 16:19:06+00:00
+
+<p>Article URL: <a href="https://ersei.net/en/blog/diy-programming-language">https://ersei.net/en/blog/diy-programming-language</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36198566">https://news.ycombinator.com/item?id=36198566</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+## Our right to challenge junk patents is under threat
+ - [https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 16:03:55+00:00
+
+<p>Article URL: <a href="https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat">https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36198329">https://news.ycombinator.com/item?id=36198329</a></p>
+<p>Points: 189</p>
+<p># Comments: 36</p>
+
+## Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search
+ - [https://openlsr.org/sail-7b](https://openlsr.org/sail-7b)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:41:33+00:00
+
+<p>Article URL: <a href="https://openlsr.org/sail-7b">https://openlsr.org/sail-7b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197913">https://news.ycombinator.com/item?id=36197913</a></p>
+<p>Points: 25</p>
+<p># Comments: 8</p>
+
+## Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops
+ - [https://news.ycombinator.com/item?id=36197880](https://news.ycombinator.com/item?id=36197880)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:39:09+00:00
+
+<p>Hi HN! We’re Evis and Nick and we’re the founders of Nucleus (<a href="https://nucleuscloud.com">https://nucleuscloud.com</a>), a Kubernetes developer platform. We automate infrastructure, security, integrations, and more, helping developers ship faster while also automating a lot of repetitive tasks for devops and platform teams. Here’s a demo: <a href="https://www.loom.com/share/95265177704346c7b379e981978cd8c5" rel="nofollow">https://www.loom.com/share/95265177704346c7b379e981978cd8c5</a>.<p>It's expensive, time-consuming, and technically difficult to build a secure, scalable Kubernetes platform. Yet many companies that do this spend 6+ months building it themselves and then hire an expensive platform team to manage it. We've talked to customers who have spent $1.5M to build something that isn't their core product.<p>On the technology side, you have to solve for authentication, authorization, service registry and discovery, scalability, observability, infrastructure and more. Most teams end up stitching together a bunch of OS tools and cloud primitives just to end up with a fragile system that’s difficult to maintain as it grows. On the people side, it’s difficult and expensive to find developers and devops engineers who deeply understand Kubernetes and distributed systems. When they leave, tech and process documentation is incomplete, hard to find and often outdated.<p>Nick and I have been building infrastructure platforms for the past 7 years at companies like NewFront, Skyflow, IBM and Garmin. Companies like ours were spending a lot of time and energy in building internal developer platforms from scratch and then hiring expensive teams to maintain them. These were important platforms but never the companies’ core product. It seemed crazy to us that a series A company would have 2-3 developers spend 6+ months building something that wasn't their core product. We felt like there had to be a better way.<p>We’re building a platform that accomplishes 4 things: (1) Reduce the time it takes to spin up Kubernetes environments and services; (2) Provide an intuitive developer experience that simplifies working with Kubernetes; (3) Empower devops and platform teams to automate manual tasks and enable developer self service without spending months building infra; (4) Centralize, organize and be a source of truth for infra-related configurations, processes and documentation.<p>To get into the architecture a bit, you can think of Nucleus as three layers:<p>At the bottom layer, we build and manage pre-configured Kubernetes clusters in your AWS accounts. We install different add-ons into the cluster that enable key functionality such as security, autoscaling and metrics. You can find a full list in our docs - <a href="https://docs.nucleuscloud.com">https://docs.nucleuscloud.com</a>. The idea is that you can run Nucleus on autopilot without needing to be a Kubernetes expert. That said, many engineers want access to kubectl, so we make it easy to provision different user-profiles with different access to kubectl via an IAM role.<p>The next layer up is the service mesh layer. We built on top of Istio to implement things like authN, authZ, service discovery and registry. We were also really inspired by this blogpost from the neobank Monzo (<a href="https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform" rel="nofollow">https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banki...</a>). Each cluster has a dedicated load balancer that sits in a public subnet while the cluster and services are in a private subnet. Communication between these services uses mTLS. Private services are, by default, isolated and can’t talk to any other service unless you explicitly authorize it. We make that as easy as passing in the service name. This is all automated and transparent to the end-user. We’re soon going to be coming out with more features around managing load balancers and enabling blue-green deploys with zero downtime cutovers.<p>The top layer is our integration layer. We provide a bunch of integrations and we’re continuing to  building out more. This includes container registry tools (DockerHub, ECR, Github), Observability (Datadog, Prometheus, Grafana), Secrets Managers (param store), DBs (Aurora, MongoDb), and CI/CD (github actions). The idea is that you shouldn’t be spending time trying to build integrations for each of your services, you should just point-and-click which ones you need. We’ve built a permissioning system which makes it easy to give/revoke access for an integration to any service or environment. For example, if you want your dev services to have access to your dev db, you shouldn’t have to build that separately for each service. You just configure it once, pick the services or environment that needs access to and we automatically expose those environment variables to those services.<p>Ultimately, the vision is to build a platform across all cloud providers that developers and devops teams can use to build, test, deploy and manage environments and services transparently. We strongly believe that developers and devops/platform teams should be working on the same platform. So many of the communication and siloing issues happen because teams use different platforms and tools. Consolidating those into one platform helps everyone stay in sync and have access to everything they need.<p>We’ve never been big fans of the complicated pricing that most SaaS companies have so we sell Nucleus as a single annual license where you get everything. In full transparency, we currently price Nucleus around $35k/license, or about 10% of what it would cost you to build and maintain this yourself.<p>Our current customers range from small startups who want to focus on getting to market fast and not worry about infra or devops, to mid-market companies that want to empower their existing devops teams with automation. Their main use-cases are: 1. Automatically containerizing their services (with our built-in CI/CD pipeline) and deploying them on Kubernetes 2. Building out a microservices architecture (we have a built-in in service mesh) 3. Making it easy for developers to self-service environments, environment variables and more.<p>If you're interested to learn more, check out our docs (<a href="https://docs.nucleuscloud.com">https://docs.nucleuscloud.com</a>) and you can sign up for a free account here (<a href="https://app.nucleuscloud.com">https://app.nucleuscloud.com</a>). We're always looking for feedback so please let us know your thoughts/questions and thanks for having us!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197880">https://news.ycombinator.com/item?id=36197880</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## SEC Sues Binance and CEO Zhao for Breaking US Securities Rules
+ - [https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:31:12+00:00
+
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule">https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197712">https://news.ycombinator.com/item?id=36197712</a></p>
+<p>Points: 21</p>
+<p># Comments: 7</p>
+
+## SEC Accuses Binance of Mishandling Funds and Lying to Regulators
+ - [https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:23:58+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html">https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197569">https://news.ycombinator.com/item?id=36197569</a></p>
+<p>Points: 28</p>
+<p># Comments: 7</p>
+
+## Tell HN: Cloudflare is locking out Linux users
+ - [https://news.ycombinator.com/item?id=36197401](https://news.ycombinator.com/item?id=36197401)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:15:40+00:00
+
+<p>It appears that Cloudflare's Turnstile captcha product has decided Linux users are no longer considered "human" and therefore locked out of websites using this product.<p>While the usual explanation is that there may be a compromised device on the network, I can pass these challenges myself using my Mac, but not on Linux on the very same network. This is from a residential ISP in India, and as you can see in the screen recording, I'm using an incognito window with all extensions disabled, so it's unlikely that the IP address or the browser configuration are at fault here.<p>* Mac: https://drive.google.com/file/d/1glfS_9OkV5mw5ysU3ASZCwR5c5eCeRT3/view?usp=sharing<p>* Linux: https://drive.google.com/file/d/1WnNRUlikqfmqdELfcohu7SBfjJr9aNzZ/view?usp=sharing<p>At a societal level, it is scary how things seem to resemble RMS' "Right To Read" with one corporation deciding to unilaterally deciding what browser should have access, as I've said elsewhere.<p>At a technical level, I speculate the issues are because Cloudflare is unable to properly distinguish between headless and regular Chrome because of changes in Chromium[1] as well as because of TLS ClientHello permutations[2].<p>[1] https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html<p>[2] https://www.fastly.com/blog/a-first-look-at-chromes-tls-clienthello-permutation-in-the-wild</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197401">https://news.ycombinator.com/item?id=36197401</a></p>
+<p>Points: 21</p>
+<p># Comments: 0</p>
+
+## SEC Sues Binance and CEO Zhao for Breaking US Securities Rules
+ - [https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:13:30+00:00
+
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules">https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197353">https://news.ycombinator.com/item?id=36197353</a></p>
+<p>Points: 72</p>
+<p># Comments: 21</p>
+
+## GPT Best Practices
+ - [https://platform.openai.com/docs/guides/gpt-best-practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:10:05+00:00
+
+<p>Article URL: <a href="https://platform.openai.com/docs/guides/gpt-best-practices">https://platform.openai.com/docs/guides/gpt-best-practices</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197291">https://news.ycombinator.com/item?id=36197291</a></p>
+<p>Points: 69</p>
+<p># Comments: 30</p>
+
+## Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader
+ - [https://twitter.com/joncstone/status/1665728784366960641](https://twitter.com/joncstone/status/1665728784366960641)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:09:37+00:00
+
+<p>Article URL: <a href="https://twitter.com/joncstone/status/1665728784366960641">https://twitter.com/joncstone/status/1665728784366960641</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197280">https://news.ycombinator.com/item?id=36197280</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+## Linux on the 7th Generation of Consoles Part 1: Xbox 360
+ - [https://www.lilysthings.org/blog/linux-on-xbox360/](https://www.lilysthings.org/blog/linux-on-xbox360/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:08:55+00:00
+
+<p>Article URL: <a href="https://www.lilysthings.org/blog/linux-on-xbox360/">https://www.lilysthings.org/blog/linux-on-xbox360/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197266">https://news.ycombinator.com/item?id=36197266</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
+
+## America has paid a steep price for parking
+ - [https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/](https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:05:34+00:00
+
+<p>Article URL: <a href="https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/">https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197206">https://news.ycombinator.com/item?id=36197206</a></p>
+<p>Points: 67</p>
+<p># Comments: 62</p>
+
+## Could science leave the university?
+ - [https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/](https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 15:04:14+00:00
+
+<p>Article URL: <a href="https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/">https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197190">https://news.ycombinator.com/item?id=36197190</a></p>
+<p>Points: 28</p>
+<p># Comments: 23</p>
+
+## Pixar lays off animator who saved Toy Story 2 with car full of hard drives
+ - [https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 14:57:55+00:00
+
+<p>Article URL: <a href="https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php">https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197073">https://news.ycombinator.com/item?id=36197073</a></p>
+<p>Points: 84</p>
+<p># Comments: 61</p>
+
+## Stripe is not blocking large-scale card testing attacks for many AI companies
+ - [https://twitter.com/rameerez/status/1665680257788026880](https://twitter.com/rameerez/status/1665680257788026880)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 14:54:28+00:00
+
+<p>Article URL: <a href="https://twitter.com/rameerez/status/1665680257788026880">https://twitter.com/rameerez/status/1665680257788026880</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36197024">https://news.ycombinator.com/item?id=36197024</a></p>
+<p>Points: 57</p>
+<p># Comments: 28</p>
+
+## AI generated content should be labelled, EU Commissioner Jourova says
+ - [https://www.reuters.com/technology/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says-2023-06-05/](https://www.reuters.com/technology/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says-2023-06-05/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 14:51:49+00:00
+
+<p>Article URL: <a href="https://www.reuters.com/technology/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says-2023-06-05/">https://www.reuters.com/technology/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says-2023-06-05/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36196980">https://news.ycombinator.com/item?id=36196980</a></p>
+<p>Points: 13</p>
+<p># Comments: 7</p>
+
+## Three companies agree to pay $1B to settle 'forever chemical' claims
+ - [https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html](https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 14:45:53+00:00
+
+<p>Article URL: <a href="https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html">https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36196884">https://news.ycombinator.com/item?id=36196884</a></p>
+<p>Points: 37</p>
+<p># Comments: 19</p>
+
+## eBPF for Cybersecurity – Part 2
+ - [https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-2](https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-2)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 14:11:05+00:00
+
+<p>Article URL: <a href="https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-2">https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36196410">https://news.ycombinator.com/item?id=36196410</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+## A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT
+ - [https://arxiv.org/abs/2302.11382](https://arxiv.org/abs/2302.11382)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 13:45:21+00:00
+
+<p>Article URL: <a href="https://arxiv.org/abs/2302.11382">https://arxiv.org/abs/2302.11382</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36196113">https://news.ycombinator.com/item?id=36196113</a></p>
+<p>Points: 38</p>
+<p># Comments: 3</p>
+
+## Google no longer automatically indexes websites?
+ - [https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 13:01:54+00:00
+
+<p>Article URL: <a href="https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/">https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36195600">https://news.ycombinator.com/item?id=36195600</a></p>
+<p>Points: 208</p>
+<p># Comments: 165</p>
+
+## Is it time to stop using sentinel values for null / “NA” values?
+ - [https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 12:44:54+00:00
+
+<p>Article URL: <a href="https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/">https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36195425">https://news.ycombinator.com/item?id=36195425</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+## Who killed the great British curry house? (2017)
+ - [https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 11:55:08+00:00
+
+<p>Article URL: <a href="https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house">https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36195045">https://news.ycombinator.com/item?id=36195045</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+## New Mass. right-to-repair law now being enforced
+ - [https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 11:53:24+00:00
+
+<p>Article URL: <a href="https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/">https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36195036">https://news.ycombinator.com/item?id=36195036</a></p>
+<p>Points: 45</p>
+<p># Comments: 10</p>
+
+## Thousands of early-career NIH researchers forming union for first time
+ - [https://www.nature.com/articles/d41586-023-01845-w](https://www.nature.com/articles/d41586-023-01845-w)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 11:40:27+00:00
+
+<p>Article URL: <a href="https://www.nature.com/articles/d41586-023-01845-w">https://www.nature.com/articles/d41586-023-01845-w</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194950">https://news.ycombinator.com/item?id=36194950</a></p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
+
+## Why Did Usenet Fail?
+ - [https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 11:39:28+00:00
+
+<p>Article URL: <a href="https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/">https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194941">https://news.ycombinator.com/item?id=36194941</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
+
+## Implementing Cosine in C from Scratch
+ - [https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 11:12:11+00:00
+
+<p>Article URL: <a href="https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html">https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194786">https://news.ycombinator.com/item?id=36194786</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+## Why Lisp Syntax Works
+ - [https://borretti.me/article/why-lisp-syntax-works](https://borretti.me/article/why-lisp-syntax-works)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 10:59:05+00:00
+
+<p>Article URL: <a href="https://borretti.me/article/why-lisp-syntax-works">https://borretti.me/article/why-lisp-syntax-works</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194703">https://news.ycombinator.com/item?id=36194703</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
+
+## Capita hack: 90 organisations report data breaches to watchdog
+ - [https://www.bbc.com/news/technology-65746518](https://www.bbc.com/news/technology-65746518)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 10:57:01+00:00
+
+<p>Article URL: <a href="https://www.bbc.com/news/technology-65746518">https://www.bbc.com/news/technology-65746518</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194690">https://news.ycombinator.com/item?id=36194690</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+## Tech Elite’s AI Ideologies Have Racist Foundations, Say AI Ethicists
+ - [https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/](https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 09:58:29+00:00
+
+<p>Article URL: <a href="https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/">https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194322">https://news.ycombinator.com/item?id=36194322</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Raspberry Pi production rate rising to a million a month
+ - [https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 09:58:27+00:00
+
+<p>Article URL: <a href="https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/">https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36194321">https://news.ycombinator.com/item?id=36194321</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+## ROFL: An open-source license that promotes fun in coding
+ - [https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 08:02:14+00:00
+
+<p>Article URL: <a href="https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891">https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36193712">https://news.ycombinator.com/item?id=36193712</a></p>
+<p>Points: 10</p>
+<p># Comments: 10</p>
+
+## Refactoring and Crochet
+ - [https://buttonmash.substack.com/p/refactoring](https://buttonmash.substack.com/p/refactoring)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 07:46:44+00:00
+
+<p>Article URL: <a href="https://buttonmash.substack.com/p/refactoring">https://buttonmash.substack.com/p/refactoring</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36193632">https://news.ycombinator.com/item?id=36193632</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## The Rust I wanted had no future
+ - [https://graydon2.dreamwidth.org/307291.html](https://graydon2.dreamwidth.org/307291.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 07:03:45+00:00
+
+<p>Article URL: <a href="https://graydon2.dreamwidth.org/307291.html">https://graydon2.dreamwidth.org/307291.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36193326">https://news.ycombinator.com/item?id=36193326</a></p>
+<p>Points: 51</p>
+<p># Comments: 5</p>
+
+## Architect your project with Framed: effortless files and directories management
+ - [https://github.com/mactat/framed](https://github.com/mactat/framed)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 06:20:08+00:00
+
+<p>Article URL: <a href="https://github.com/mactat/framed">https://github.com/mactat/framed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36193038">https://news.ycombinator.com/item?id=36193038</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+## Sandstorm: Open-source platform for self-hosting web apps
+ - [https://sandstorm.io/](https://sandstorm.io/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 05:41:46+00:00
+
+<p>Article URL: <a href="https://sandstorm.io/">https://sandstorm.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36192777">https://news.ycombinator.com/item?id=36192777</a></p>
+<p>Points: 57</p>
+<p># Comments: 17</p>
+
+## Stack Overflow moderation strike
+ - [https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 05:00:01+00:00
+
+<p>Article URL: <a href="https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an">https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36192497">https://news.ycombinator.com/item?id=36192497</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
+
+## Tell HN: My Reddit account was banned after adding my subs to the protest
+ - [https://news.ycombinator.com/item?id=36192312](https://news.ycombinator.com/item?id=36192312)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 04:34:54+00:00
+
+<p>As you may be aware, there is an upcoming protest[0] on June 12-14 where many subreddits[1] are going private for 48 hours in protest of reddit's API fee increase[2][3], which many expect will lead to the end of all third party apps.<p>I moderate a few subreddits for a niche hobby, and decided to join the protest. We're fairly small, if non-negligible potatos: altogether, maybe 10k-15k active users on a busy day, but still want to show support.<p>So, I commented to add the subs to the list[1] and made announcement posts based on the template[4] linked from r/modcoord.<p>Several minutes later, the site logged me out. I received an email from reddit that said my account had been locked for "suspicious activity" and I would need to reset my password.<p>The timing seemed curious, but as I was logged in over an Airbnb's wifi, I figured it could be legitimate.<p>When I logged back in, I saw that all of the posts and comments I've made from this account had been deleted. The password reset requirement is understandable; the fact that the posts and comments were not restored, less so.<p>Looks like it's finally time to encourage my community to move to another site.<p>0. https://news.ycombinator.com/item?id=36187705<p>1. https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating/<p>2. https://old.reddit.com/r/ModCoord/comments/13xh1e7/an_open_letter_on_the_state_of_affairs_regarding/<p>3. https://old.reddit.com/r/evilbuildings/comments/140n3m3/hey_reddit_execs_stop_being_greedy_assholes_this/jmwbkpv/<p>4. https://old.reddit.com/r/ProCSS/wiki/api_protest_template</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36192312">https://news.ycombinator.com/item?id=36192312</a></p>
+<p>Points: 49</p>
+<p># Comments: 16</p>
+
+## Google just released a 100% free learning path on Generative AI with 9 Courses
+ - [https://www.cloudskillsboost.google/paths/118](https://www.cloudskillsboost.google/paths/118)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 04:16:41+00:00
+
+<p>Article URL: <a href="https://www.cloudskillsboost.google/paths/118">https://www.cloudskillsboost.google/paths/118</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36192195">https://news.ycombinator.com/item?id=36192195</a></p>
+<p>Points: 77</p>
+<p># Comments: 45</p>
+
+## San Francisco Homeowners Lose $260B in Value
+ - [https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 03:32:10+00:00
+
+<p>Article URL: <a href="https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value">https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191928">https://news.ycombinator.com/item?id=36191928</a></p>
+<p>Points: 53</p>
+<p># Comments: 55</p>
+
+## Mystery math whiz and novelist advance permutation problem
+ - [https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 03:15:44+00:00
+
+<p>Article URL: <a href="https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/">https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191831">https://news.ycombinator.com/item?id=36191831</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+## Euthanasia Is Not Healthcare
+ - [https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 03:07:58+00:00
+
+<p>Article URL: <a href="https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/">https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191787">https://news.ycombinator.com/item?id=36191787</a></p>
+<p>Points: 25</p>
+<p># Comments: 5</p>
+
+## Historical workstation desktop interface screenshots
+ - [http://www.typewritten.org/Media/](http://www.typewritten.org/Media/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 02:53:47+00:00
+
+<p>Article URL: <a href="http://www.typewritten.org/Media/">http://www.typewritten.org/Media/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191713">https://news.ycombinator.com/item?id=36191713</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+## Emulating PPC64 Inside Docker
+ - [https://blog.michael.kuron-germany.de/2023/06/emulating-ppc64-inside-docker/](https://blog.michael.kuron-germany.de/2023/06/emulating-ppc64-inside-docker/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 02:49:07+00:00
+
+<p>Article URL: <a href="https://blog.michael.kuron-germany.de/2023/06/emulating-ppc64-inside-docker/">https://blog.michael.kuron-germany.de/2023/06/emulating-ppc64-inside-docker/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191691">https://news.ycombinator.com/item?id=36191691</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+## How I wrote my own Smart Home software
+ - [https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 02:48:17+00:00
+
+<p>Article URL: <a href="https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html">https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191688">https://news.ycombinator.com/item?id=36191688</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Parents in Ireland town to voluntarily ban smartphones for kids as old as 13
+ - [https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 02:42:00+00:00
+
+<p>Article URL: <a href="https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6">https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191657">https://news.ycombinator.com/item?id=36191657</a></p>
+<p>Points: 31</p>
+<p># Comments: 8</p>
+
+## Huh, Our Fake Beach Is Good for Sharks
+ - [https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 02:04:59+00:00
+
+<p>Article URL: <a href="https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/">https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191444">https://news.ycombinator.com/item?id=36191444</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## The Meltdown at CNN
+ - [https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/](https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 01:49:21+00:00
+
+<p>Article URL: <a href="https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/">https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191359">https://news.ycombinator.com/item?id=36191359</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+## Response to “Developers are lazy, thus Flatpak”
+ - [https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 00:46:47+00:00
+
+<p>Article URL: <a href="https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html">https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36191002">https://news.ycombinator.com/item?id=36191002</a></p>
+<p>Points: 12</p>
+<p># Comments: 7</p>
+
+## The boxes of Hock Wah Yeo (2021)
+ - [https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-05 00:16:30+00:00
+
+<p>Article URL: <a href="https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/">https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36190828">https://news.ycombinator.com/item?id=36190828</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
