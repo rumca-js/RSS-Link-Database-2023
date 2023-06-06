@@ -1,5 +1,89 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## NBA Finals: Miami's fourth-quarter explosion leads to Game 2 win over Nuggets
+ - [https://www.foxnews.com/sports/nba-finals-miamis-fourth-quarter-explosion-game-2-win-over-nuggets](https://www.foxnews.com/sports/nba-finals-miamis-fourth-quarter-explosion-game-2-win-over-nuggets)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 23:39:06+00:00
+
+The Miami Heat rode a fourth-quarter surge past the Denver Nuggets to even up the NBA Finals at one game apiece with the series heading to the Sunshine State for Game 3.
+
+## Prospect of a Kamala Harris presidency roasted as VP's poll numbers sink: 'She's gotten worse'
+ - [https://www.foxnews.com/media/prospect-kamala-harris-presidency-roasted-vps-poll-numbers-sink-gotten-worse](https://www.foxnews.com/media/prospect-kamala-harris-presidency-roasted-vps-poll-numbers-sink-gotten-worse)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 21:57:55+00:00
+
+&apos;The Big Weekend Show&apos; co-hosts break down Vice President Kamala Harris&apos; latest poll numbers and concerns about what a Harris presidency could look like.
+
+## Texas police arrest 8 people for alleged involvement in smash-and-grab operation of over 50 ATMs
+ - [https://www.foxnews.com/us/texas-police-arrest-people-alleged-involvement-smash-grab-operation-atms](https://www.foxnews.com/us/texas-police-arrest-people-alleged-involvement-smash-grab-operation-atms)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 21:49:08+00:00
+
+Plano, Texas, police and several other law enforcement agencies are investigating a string of over 50 ATM burglaries in which eight people were arrested.
+
+## Packers receiver doesn't see 'big difference' between Jordan Love, Aaron Rodgers
+ - [https://www.foxnews.com/sports/packers-receiver-doesnt-see-big-difference-between-jordan-love-aaron-rodgers](https://www.foxnews.com/sports/packers-receiver-doesnt-see-big-difference-between-jordan-love-aaron-rodgers)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 21:38:21+00:00
+
+Green Bay packers wide receiver Romeo Doubs had Aaron Rodgers throwing to him during his rookie season last year and thinks Jordan Love &quot;can do the same exact thing.&quot;
+
+## California GOP slams Dems for inviting member of anti-Catholic Sisters of Perpetual Indulgence
+ - [https://www.foxnews.com/us/california-gop-slams-dems-inviting-member-anti-catholic-sisters-perpetual-indulgence](https://www.foxnews.com/us/california-gop-slams-dems-inviting-member-anti-catholic-sisters-perpetual-indulgence)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 21:31:13+00:00
+
+California Republicans have criticized their Democratic colleagues for inviting a member of a the controversial group, Sisters of Perpetual Indulgence, to be honored at a June 5 event.
+
+## Mark Hamill mulls 'Star Wars' retirement: 'They don't need Luke'
+ - [https://www.foxnews.com/entertainment/mark-hamill-mulls-star-wars-retirement-they-dont-need-luke](https://www.foxnews.com/entertainment/mark-hamill-mulls-star-wars-retirement-they-dont-need-luke)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 21:27:11+00:00
+
+&quot;Star Wars&quot; star Mark Hamill said in a new interview he&apos;s &quot;had my time&quot; as Luke Skywalker and is ready to be done with the role.
+
+## Chiefs matriarch Norma Hunt, widow of founder Lamar Hunt, dead at 85
+ - [https://www.foxnews.com/sports/chiefs-matriarch-norma-hunt-wife-widow-founder-lamar-hunt-dead-85](https://www.foxnews.com/sports/chiefs-matriarch-norma-hunt-wife-widow-founder-lamar-hunt-dead-85)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 20:35:07+00:00
+
+Norma Hunt, widow of Chiefs founder and former owner Lamar Hunt, has died at age 85. Known as the &quot;First Lady of Football,&quot; Hunt has been a staple in the sport for decades.
+
+## Chiefs heading to White House Monday to honor Super Bowl LVII victory
+ - [https://www.foxnews.com/sports/chiefs-heading-white-house-monday-honor-super-bowl-lvii-victory](https://www.foxnews.com/sports/chiefs-heading-white-house-monday-honor-super-bowl-lvii-victory)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 20:20:45+00:00
+
+The Kansas City Chiefs to visit President Biden at the White House on Monday in honor of their Super Bowl LVII victory over the Philadelphia Eagles in February.
+
+## Biden appointee calls on UN to create reparations tribunal: 'What justice looks like in the 21st century'
+ - [https://www.foxnews.com/media/biden-appointee-calls-un-create-reparations-tribunal-justice-looks-like-21st-century](https://www.foxnews.com/media/biden-appointee-calls-un-create-reparations-tribunal-justice-looks-like-21st-century)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 20:00:25+00:00
+
+Howard University law professor Justin Hansford called on the United Nation&apos;s Permanent Forum on People of African Descent to look into reparations for Black Americans.&apos;
+
+## Philadelphia mayor and officials face lawsuit over Columbus statue removal efforts
+ - [https://www.foxnews.com/us/philadelphia-mayor-officials-face-lawsuit-over-columbus-statue-removal-efforts](https://www.foxnews.com/us/philadelphia-mayor-officials-face-lawsuit-over-columbus-statue-removal-efforts)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 19:53:04+00:00
+
+A Pennsylvania organization filed a lawsuit against Philadelphia&apos;s mayor and other city officials for how it handled covering a statue of Christopher Columbus.
+
+## Ruptured brain aneurysm lands social media influencer in medically induced coma after emergency C-section
+ - [https://www.foxnews.com/health/ruptured-brain-aneurysm-lands-social-media-influencer-medically-induced-coma-emergency-c-section](https://www.foxnews.com/health/ruptured-brain-aneurysm-lands-social-media-influencer-medically-induced-coma-emergency-c-section)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 19:48:08+00:00
+
+Jackie Miller James, a social media beauty influencer from Orange County, California, suffered a ruptured brain aneurysm just a week from the due date of her child’s birth. Here are details.
+
+## Capitol Police stop youth choir during national anthem performance, sparking outrage: 'I was shocked'
+ - [https://www.foxnews.com/politics/capitol-police-youth-choir-during-national-anthem-performance-sparking-outrage-shocked](https://www.foxnews.com/politics/capitol-police-youth-choir-during-national-anthem-performance-sparking-outrage-shocked)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-06-04 19:19:25+00:00
+
+Video that shows the Rushingbrook Children’s Choir from South Carolina being stopped by police from singing the national anthem in the U.S. Capitol has sparked criticism.
+
 ## Red Sox's brutal defensive blunder leads to Rays Little League home run
  - [https://www.foxnews.com/sports/red-soxs-brutal-defensive-blunder-leads-rays-little-league-home-run](https://www.foxnews.com/sports/red-soxs-brutal-defensive-blunder-leads-rays-little-league-home-run)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

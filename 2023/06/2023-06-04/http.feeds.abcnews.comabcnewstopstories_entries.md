@@ -28,6 +28,13 @@ A scuba diver summoned a large manta ray to swim toward her in the Maldives by p
 
 Gushing floodwater bursts out of a second-story apartment in the Turkish capital of Ankara as heavy rain hit the city.
 
+## Doors close for final time on Amsterdam museum's blockbuster Vermeer exhibition
+ - [https://abcnews.go.com/International/wireStory/doors-close-final-time-amsterdam-museums-blockbuster-vermeer-99825935](https://abcnews.go.com/International/wireStory/doors-close-final-time-amsterdam-museums-blockbuster-vermeer-99825935)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-06-04 18:14:39+00:00
+
+The blockbuster exhibition of paintings by Dutch Master Johannes Vermeer has closed its doors for the final time
+
 ## Saudi Arabia to cut oil output by 1 million barrels per day to boost slumping prices
  - [https://abcnews.go.com/Business/wireStory/oil-prices-slumping-opec-producers-weigh-production-cuts-99820327](https://abcnews.go.com/Business/wireStory/oil-prices-slumping-opec-producers-weigh-production-cuts-99820327)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
@@ -90,6 +97,13 @@ Seven others were seriously injured after a car struck five motorcycles.
  - date published: 2023-06-04 15:32:31+00:00
 
 Chicago police say a 25-year-old woman was killed and six people were wounded.
+
+## More than a dozen migrants transported to California via private plane, officials say
+ - [https://abcnews.go.com/US/dozen-migrants-transported-california-private-plane-state-officials/story?id=99821892](https://abcnews.go.com/US/dozen-migrants-transported-california-private-plane-state-officials/story?id=99821892)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-06-04 15:18:22+00:00
+
+More than a dozen migrants were dropped off on the doorstep of a California church after being transported to the state via private plane, according to state officials.
 
 ## Biden's 2024 pitch highlights pragmatism over Trump's pugilism
  - [https://abcnews.go.com/US/wireStory/bidens-theory-case-2024-governing-competence-trump-era-99821671](https://abcnews.go.com/US/wireStory/bidens-theory-case-2024-governing-competence-trump-era-99821671)

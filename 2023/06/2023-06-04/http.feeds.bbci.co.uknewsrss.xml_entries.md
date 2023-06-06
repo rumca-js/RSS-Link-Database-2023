@@ -1,5 +1,12 @@
 # Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## Susannah Dale: I want to help keep mothers in the workplace
+ - [https://www.bbc.co.uk/news/uk-scotland-scotland-business-65411505?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-scotland-business-65411505?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-06-04 23:13:19+00:00
+
+Susannah Dale is urging firms to sign a "maternity pledge", to support pregnant staff and new mums.
+
 ## Climate change: How is my country doing on tackling it?
  - [https://www.bbc.co.uk/news/science-environment-65754296?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/science-environment-65754296?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -13,6 +20,13 @@ Find out how the world's major economies are doing on cutting their emissions an
  - date published: 2023-06-04 23:06:39+00:00
 
 Viewers have a number of glossy dating shows to choose from - Love Island is just one of them.
+
+## The mother bringing autism out of the dark in Iraq
+ - [https://www.bbc.co.uk/news/world-middle-east-65754100?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-middle-east-65754100?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-06-04 23:06:10+00:00
+
+Shunned by society, Shaimaa Alhashimi built an online following by making videos about her home life.
 
 ## Why is Prince Harry suing the Mirror Group?
  - [https://www.bbc.co.uk/news/uk-65768596?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-65768596?at_medium=RSS&at_campaign=KARANGA)
@@ -41,6 +55,13 @@ Thousands of Ukrainians are moving back to towns close to the front line, despit
  - date published: 2023-06-04 21:51:33+00:00
 
 The Swedish forward Zlatan Ibrahimovic makes the announcement after AC Milan's final game of the season.
+
+## Wimbledon: Russian and Belarusian players still waiting for visas to enter UK
+ - [https://www.bbc.co.uk/sport/tennis/65805557?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/tennis/65805557?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-06-04 21:50:35+00:00
+
+Russian and Belarusian players fear they could miss Wimbledon because they are still waiting for UK visas.
 
 ## Man charged over Epsom Derby track protest
  - [https://www.bbc.co.uk/news/uk-65804941?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-65804941?at_medium=RSS&at_campaign=KARANGA)
@@ -216,6 +237,13 @@ Red Bull's Max Verstappen cruises to a third consecutive victory, his fifth in s
  - date published: 2023-06-04 13:44:43+00:00
 
 Yoshikazu Higashitani, aka GaaSyy, returns to Japan months after Tokyo police issued his arrest warrant.
+
+## Money: £9bn in old UK banknotes and coins not cashed in
+ - [https://www.bbc.co.uk/news/uk-wales-65776923?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-65776923?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-06-04 13:13:53+00:00
+
+Paper £50 and £20 notes have been unusable since October, but can still be exchanged.
 
 ## Man charged over '97' football shirt at FA Cup final
  - [https://www.bbc.co.uk/news/uk-england-65804154?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-65804154?at_medium=RSS&at_campaign=KARANGA)

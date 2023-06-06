@@ -1,5 +1,12 @@
 # Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
+## Nikkei May Rise After Strong U.S. Jobs Data
+ - [https://www.wsj.com/articles/australia-shares-poised-to-jump-on-strong-us-lead-8c6fefe](https://www.wsj.com/articles/australia-shares-poised-to-jump-on-strong-us-lead-8c6fefe)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2023-06-04 23:49:00+00:00
+
+Japanese stocks could rise after strong U.S. jobs data brightened the global economic outlook and weakened the yen.
+
 ## More &raquo;
  - [https://www.wsj.com/articles/more-amp-raquo-373b9940](https://www.wsj.com/articles/more-amp-raquo-373b9940)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml

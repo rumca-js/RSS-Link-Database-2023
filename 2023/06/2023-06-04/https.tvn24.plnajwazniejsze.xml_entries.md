@@ -112,6 +112,22 @@
 <img alt="" src="https://tvn24.pl/najnowsze/cdn-zdjecie-q5kp4u-jaroslaw-kaczynski-7160593/alternates/LANDSCAPE_1280" />
     Goście "Loży prasowej" w TVN24 komentowali marsz 4 czerwca, który w niedzielę przeszedł ulicami Warszawy.
 
+## Policja podsumowała marsz 4 czerwca
+ - [https://tvn24.pl/tvnwarszawa/najnowsze/marsz-4-czerwca-w-warszawie-policja-podsumowala-przebieg-7159749?source=rss](https://tvn24.pl/tvnwarszawa/najnowsze/marsz-4-czerwca-w-warszawie-policja-podsumowala-przebieg-7159749?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-06-04 17:08:00+00:00
+
+<img alt="Policja podsumowała marsz 4 czerwca" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-guv0kv-marsz-dobiegl-konca-policja-podkreslila-ze-bylo-bezpiecznie-7160515/alternates/LANDSCAPE_1280" />
+    Warszawa po marszu.
+
+## Policja podsumowała marsz 4 czerwca
+ - [https://tvn24.pl/tvnwarszawa/najnowsze/marsz-4-czerwca-w-warszawie-ile-osob-wzielo-udzial-dane-organizatora-i-policji-7159749?source=rss](https://tvn24.pl/tvnwarszawa/najnowsze/marsz-4-czerwca-w-warszawie-ile-osob-wzielo-udzial-dane-organizatora-i-policji-7159749?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-06-04 17:08:00+00:00
+
+<img alt="Policja podsumowała marsz 4 czerwca" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-guv0kv-marsz-dobiegl-konca-policja-podkreslila-ze-bylo-bezpiecznie-7160515/alternates/LANDSCAPE_1280" />
+    Warszawa po marszu.
+
 ## Niesamowity Hulk, niesamowity gol. Tak przechodzi się do historii
  - [https://eurosport.tvn24.pl/pilka-nozna/brazylijska-serie-a/2023/niesamowity-hulk-niesamowity-gol.-zobacz-bramke-z-wolnego-z-40-metrow_sto9641404/story.shtml?source=rss](https://eurosport.tvn24.pl/pilka-nozna/brazylijska-serie-a/2023/niesamowity-hulk-niesamowity-gol.-zobacz-bramke-z-wolnego-z-40-metrow_sto9641404/story.shtml?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml

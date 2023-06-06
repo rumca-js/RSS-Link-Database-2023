@@ -1,5 +1,12 @@
 # Source:The Hill, URL:https://thehill.com/news/feed/, language:en-US
 
+## Instagram reinstates Robert F. Kennedy Jr.'s account
+ - [https://thehill.com/policy/technology/4034074-instagram-reinstates-robert-f-kennedy-jr-s-account/](https://thehill.com/policy/technology/4034074-instagram-reinstates-robert-f-kennedy-jr-s-account/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-06-04 23:57:34+00:00
+
+Instagram reinstated the personal account of anti-vaccine activist Robert F. Kennedy Jr., who declared his bid to run in the 2024 Democratic primary earlier this year. Kennedy's personal account was permanently removed from Instagram in 2021 after he repeatedly posted misinformation about COVID-19 on the social media platform. The company said in a statement at...
+
 ## OPEC Plus to extend oil production cuts as prices stagnate
  - [https://thehill.com/policy/international/4034058-opec-plus-to-extend-oil-production-cuts-as-prices-stagnate/](https://thehill.com/policy/international/4034058-opec-plus-to-extend-oil-production-cuts-as-prices-stagnate/)
  - RSS feed: https://thehill.com/news/feed/

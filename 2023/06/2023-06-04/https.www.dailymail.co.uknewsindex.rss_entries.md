@@ -35,6 +35,13 @@ A debate has been sparked over whether wearing headphones while at work is rude 
 
 An eight-year-old marketing firm based in San Francisco, Captiv8 caters to various consumer brands across the globe - and at some point introduced Anheuser-Busch to the trans activist.
 
+## Thousands of bowel cancer patients could be spared radiotherapy with no impact on their survival
+ - [https://www.dailymail.co.uk/health/article-12158839/Thousands-bowel-cancer-patients-spared-radiotherapy-no-impact-survival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-12158839/Thousands-bowel-cancer-patients-spared-radiotherapy-no-impact-survival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-06-04 23:38:19+00:00
+
+A trial found more than nine in ten patients who skipped radiotherapy were just as likely to be alive five years later as those who had it.
+
 ## Two-thirds of Brits think trans women should NOT be allowed to use female changing rooms
  - [https://www.dailymail.co.uk/news/article-12158653/Two-thirds-Brits-think-trans-women-NOT-allowed-use-female-changing-rooms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12158653/Two-thirds-Brits-think-trans-women-NOT-allowed-use-female-changing-rooms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -98,6 +105,13 @@ Most of those affected have lower levels of education, with four in five having 
 
 Analysis of health service records shows the likelihood of a heart attack occurring is 13 per cent greater on the first day of the working week.
 
+## Electric cars were hailed as the greener and cheaper way forward... but they actually cost MORE
+ - [https://www.dailymail.co.uk/money/cars/article-12158677/Electric-cars-hailed-greener-cheaper-way-forward-actually-cost-MORE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/money/cars/article-12158677/Electric-cars-hailed-greener-cheaper-way-forward-actually-cost-MORE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-06-04 23:06:34+00:00
+
+But it has now emerged that electric cars can now cost more to run than their gas-guzzling counterparts - and could plague Britain's roads with potholes.
+
 ## Sunrise host Natalie Barr confronts politician with tough Lisa Wilkinson question
  - [https://www.dailymail.co.uk/news/article-12158521/Sunrise-host-Natalie-Barr-confronts-politician-tough-Lisa-Wilkinson-question.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12158521/Sunrise-host-Natalie-Barr-confronts-politician-tough-Lisa-Wilkinson-question.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -133,12 +147,26 @@ A man was captured robbing a store in Miami with a cardboard box over his head, 
 
 Sunnah Khan had been swimming near a pier with her siblings when she was pulled under the water on Wednesday afternoon, May 31. She, along with fellow swimmer Joe Abbess, died in hospital.
 
+## HARRY WALLOP joined five million in letting their grass grow for a whole month
+ - [https://www.dailymail.co.uk/home/gardening/article-12158565/HARRY-WALLOP-joined-five-million-letting-grass-grow-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/home/gardening/article-12158565/HARRY-WALLOP-joined-five-million-letting-grass-grow-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-06-04 21:56:46+00:00
+
+HARRY WALLOP: The idea of 'No Mow May' filled me with a stone-cold horror. The concept has been promoted by a wildlife charity called Plantlife.
+
 ## Starmer facing revolt on net zero oil ban: Unions and even Labour MPs attack Sir Keir's plan
  - [https://www.dailymail.co.uk/news/article-12158511/Keir-Starmer-facing-revolt-naive-net-zero-oil-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12158511/Keir-Starmer-facing-revolt-naive-net-zero-oil-ban.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2023-06-04 21:51:07+00:00
 
 Keir Starmer (pictured) is due to unveil his net zero strategy in a speech in Scotland this month, and is expected to include a pledge that any borrowing for investment should be limited to green schemes.
+
+## DOMINIC LAWSON: Swift case of my stolen catalytic converter is a sad indictment of modern policing
+ - [https://www.dailymail.co.uk/debate/article-12158433/DOMINIC-LAWSON-Swift-case-stolen-catalytic-converter-sad-indictment-modern-policing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-12158433/DOMINIC-LAWSON-Swift-case-stolen-catalytic-converter-sad-indictment-modern-policing.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-06-04 21:45:05+00:00
+
+DOMINIC LAWSON: The catalytic converter of Dominic Lawson's Lexus RX petrol hybrid was stolen and the thieves tore through the exhausts to remove it.
 
 ## ANDREW NEIL reveals: How I mastered the art of the political interview
  - [https://www.dailymail.co.uk/news/article-12158257/ANDREW-NEIL-reveals-mastered-art-political-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12158257/ANDREW-NEIL-reveals-mastered-art-political-interview.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -160,6 +188,13 @@ Rishi Sunak came under increasing pressure over illegal migration across the Ch
  - date published: 2023-06-04 21:32:01+00:00
 
 Rishi Sunak is looking to launch a global AI watchdog in London and hopes to host an international summit to devise rules on AI regulation.
+
+## Holly Willoughby will address the Schofield saga on the sofa tomorrow during This Morning
+ - [https://www.dailymail.co.uk/tvshowbiz/article-12158375/Holly-Willoughby-address-Schofield-saga-sofa-tomorrow-Morning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-12158375/Holly-Willoughby-address-Schofield-saga-sofa-tomorrow-Morning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-06-04 21:26:39+00:00
+
+Holly Willoughby will tomorrow make her return to host This Morning. She was said to still be deliberating over whether she will mention her former co-star Phillip Schofield by name.
 
 ## Charles offers British students a King's ransom for working at Sandringham farm
  - [https://www.dailymail.co.uk/news/article-12158287/Charles-offers-British-students-Kings-ransom-working-Sandringham-farm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12158287/Charles-offers-British-students-Kings-ransom-working-Sandringham-farm.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -469,6 +504,13 @@ Costumed fans dressed as Chewbacca and Darth Vader headed to the Yorkshire Event
  - date published: 2023-06-04 14:51:39+00:00
 
 Chris Beck argued that parents are not being given all of the information when their children express gender dysphoria in an interview with FOX News Tonight over the weekend.
+
+## Queen of Bhutan is stunning in new portraits released to mark her 33rd birthday
+ - [https://www.dailymail.co.uk/femail/article-12157653/Queen-Bhutan-stunning-new-portraits-released-mark-33rd-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12157653/Queen-Bhutan-stunning-new-portraits-released-mark-33rd-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-06-04 14:48:20+00:00
+
+The royal household of Bhutan have released two new breathtaking pictures of Queen Jetsun Pema to mark her 33rd birthday. The mother-of-two can be seen relaxing in the garden of her residence.
 
 ## Labour signals it will axe 'heinous' two-child cap on benefit claims
  - [https://www.dailymail.co.uk/news/article-12157715/Labour-signals-axe-heinous-two-child-cap-benefit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12157715/Labour-signals-axe-heinous-two-child-cap-benefit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

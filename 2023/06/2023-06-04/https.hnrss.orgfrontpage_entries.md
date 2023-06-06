@@ -1,5 +1,15 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Forward Referencing in C
+ - [https://twitter.com/walterbright/status/1665478419210199040](https://twitter.com/walterbright/status/1665478419210199040)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-04 23:16:06+00:00
+
+<p>Article URL: <a href="https://twitter.com/walterbright/status/1665478419210199040">https://twitter.com/walterbright/status/1665478419210199040</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36190467">https://news.ycombinator.com/item?id=36190467</a></p>
+<p>Points: 16</p>
+<p># Comments: 10</p>
+
 ## Book Review: Applied Math for Security
  - [https://dustri.org/b/book-review-applied-math-for-security.html](https://dustri.org/b/book-review-applied-math-for-security.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -8,6 +18,16 @@
 <p>Article URL: <a href="https://dustri.org/b/book-review-applied-math-for-security.html">https://dustri.org/b/book-review-applied-math-for-security.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36190423">https://news.ycombinator.com/item?id=36190423</a></p>
 <p>Points: 4</p>
+<p># Comments: 0</p>
+
+## As the Priest Said to the Nun
+ - [https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun](https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-04 22:43:19+00:00
+
+<p>Article URL: <a href="https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun">https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36190257">https://news.ycombinator.com/item?id=36190257</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
 ## Do We Need Copyright?
@@ -108,6 +128,16 @@
 <p>Article URL: <a href="https://github.com/Fictiverse/Redream">https://github.com/Fictiverse/Redream</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36189027">https://news.ycombinator.com/item?id=36189027</a></p>
 <p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Pneumatic Antenna Launching Systems
+ - [http://www.antennalaunchers.com/antlaunching.html](http://www.antennalaunchers.com/antlaunching.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-06-04 19:58:47+00:00
+
+<p>Article URL: <a href="http://www.antennalaunchers.com/antlaunching.html">http://www.antennalaunchers.com/antlaunching.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36188996">https://news.ycombinator.com/item?id=36188996</a></p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
 ## More shell, less egg (2011)

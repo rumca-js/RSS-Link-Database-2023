@@ -1,5 +1,3 @@
-# Source:Instalki.pl, URL:https://www.instalki.pl, language:pl-PL
-
 ## Oszczędzaj pieniądze dzięki nowej funkcji na Steamie - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/software/59441-steam-dyrektywa-ceny-najnizsza-informowanie.html](https://www.instalki.pl/aktualnosci/software/59441-steam-dyrektywa-ceny-najnizsza-informowanie.html)
  - RSS feed: https://www.instalki.pl

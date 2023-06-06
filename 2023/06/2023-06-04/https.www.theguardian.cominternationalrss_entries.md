@@ -56,6 +56,13 @@
 
 <p>Users of the social media app have faced legal consequences for posts – some private – that are critical of Saudi authorities</p><p>Saudi state media issued an explicit warning that it is a criminal offense to “insult” authorities using social media apps like Snapchat, the California-based messaging app whose chief executive officer recently forged a new “cooperation” deal with the kingdom’s culture ministry.</p><p>The threat – which was originally televised in April and then deleted – has gained new resonance as more cases emerge in which Snapchat users and influencers in the kingdom have been arrested by authorities and, in some cases, sentenced to decades-long prison sentences.</p> <a href="https://www.theguardian.com/technology/2023/jun/04/snapchat-social-media-saudi-arabia-authorities">Continue reading...</a>
 
+## Rembrandt: True to Life exhibition – a thoughtful celebration of the Dutch old master
+ - [https://www.theguardian.com/artanddesign/2023/jun/05/rembrandt-true-to-life-exhibition-ngv-national-gallery-of-victoria](https://www.theguardian.com/artanddesign/2023/jun/05/rembrandt-true-to-life-exhibition-ngv-national-gallery-of-victoria)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-06-04 15:00:04+00:00
+
+<p>With impressive etchings, bucolic landscapes and a recreation of the artist’s Kunstkammer, this National Gallery of Victoria show presents a lyrical, cyclical way of thinking about art</p><ul><li><a href="https://www.theguardian.com/newsletters/2019/oct/18/saved-for-later-sign-up-for-guardian-australias-culture-and-lifestyle-email?CMP=cvau_sfl">Get our weekend culture and lifestyle email</a></li></ul><p>Rembrandt needs little introduction. Widely regarded as one of the world’s most influential artists, and counted among the school of old masters, the Dutchman was incredibly prolific in a number of styles and mediums, producing more than 300 paintings, 300 etchings and 2,000 drawings over four decades.</p><p>The National Gallery of Victoria’s new exhibition, Rembrandt: True to Life, is a thoughtful and intimate study of a vast oeuvre, providing insights into the artist’s tumultuous personal life and curious mind.</p> <a href="https://www.theguardian.com/artanddesign/2023/jun/05/rembrandt-true-to-life-exhibition-ngv-national-gallery-of-victoria">Continue reading...</a>
+
 ## American bully: dog breed under spotlight in UK after fatal attacks
  - [https://www.theguardian.com/uk-news/2023/jun/04/american-bully-dog-breed-spotlight-uk-fatal-attacks](https://www.theguardian.com/uk-news/2023/jun/04/american-bully-dog-breed-spotlight-uk-fatal-attacks)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -111,6 +118,13 @@
  - date published: 2023-06-04 11:51:06+00:00
 
 <p>Police questioned people in the streets and Alexandra Wong and at least seven others were detained</p><p>Hong Kong police have detained a prominent pro-democracy activist and at least seven others on the 34th anniversary of the bloody Tiananmen Square crackdown in China.</p><p>For years, Hong Kongers would converge on the city’s Victoria Park and its surrounding neighbourhood to commemorate the events of 4 June 1989, taking part in candlelight vigils.</p> <a href="https://www.theguardian.com/world/2023/jun/04/hong-kong-police-arrest-pro-democracy-activist-alexandra-wong-on-tiananmen-square-anniversary">Continue reading...</a>
+
+## Cynthia Weil obituary
+ - [https://www.theguardian.com/music/2023/jun/04/cynthia-weil-obituary](https://www.theguardian.com/music/2023/jun/04/cynthia-weil-obituary)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-06-04 11:24:51+00:00
+
+Lyricist who co-wrote pop classics including You’ve Lost That Lovin’ Feelin’, On Broadway and I Just Can’t Help Believing<p>Unusually, the lyricist Cynthia Weil’s husband, the composer Barry Mann, came up with the line – “You never close your eyes any more when I kiss your lips” – that began a song destined to become one of the most beloved of all 1960s pop classics. She completed the thought: “And there’s no tenderness like before in your fingertips.”</p><p>Intoned by the sonorous baritone voice of the Righteous Brothers’ Bill Medley at a dead-slow tempo over the echoing canyons of a <a href="https://www.theguardian.com/us-news/2021/jan/17/phil-spector-obituary" title="">Phil Spector</a> production, that dramatic opening drew attention so effectively that <a href="https://www.youtube.com/watch?v=xbg1gkWb0Wo" title="">You’ve Lost That Lovin’ Feelin’</a> topped the charts on both sides of the Atlantic in February 1965, going on to become the most played song on US radio of the 20th century.</p> <a href="https://www.theguardian.com/music/2023/jun/04/cynthia-weil-obituary">Continue reading...</a>
 
 ## Amanda review – peculiar, endearing Italian comedy
  - [https://www.theguardian.com/film/2023/jun/04/amanda-review-peculiar-endearing-italian-comedy](https://www.theguardian.com/film/2023/jun/04/amanda-review-peculiar-endearing-italian-comedy)

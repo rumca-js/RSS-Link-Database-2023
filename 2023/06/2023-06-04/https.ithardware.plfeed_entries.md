@@ -1,5 +1,13 @@
 # Source:IT hardware PL, URL:https://ithardware.pl/feed, language:pl-PL
 
+## Google usprawni Gmaila. Klient pocztowy wzbogaca się o przydatną funkcję
+ - [https://ithardware.pl/aktualnosci/google_usprawni_gmaila_klient_pocztowy_wzbogaca_sie_o_przydatna_funkcje-27630.html](https://ithardware.pl/aktualnosci/google_usprawni_gmaila_klient_pocztowy_wzbogaca_sie_o_przydatna_funkcje-27630.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2023-06-04 22:36:26+00:00
+
+<img src="https://ithardware.pl/artykuly/min/27630_1.jpg" />            Gmail to popularny klient pocztowy Google, kt&oacute;ry jest regularnie rozwijany i wzbogaca się o nowe funkcje, takie jak&nbsp;wykorzysta najnowsze technologie uczenia maszynowego w celu dostarczania dokładniejszych wynik&oacute;w wyszukiwania w...
+            <p>Pełna wersja strony <a href="https://ithardware.pl/aktualnosci/google_usprawni_gmaila_klient_pocztowy_wzbogaca_sie_o_przydatna_funkcje-27630.html">https://ithardware.pl/aktualnosci/google_usprawni_gmaila_klient_pocztowy_wzbogaca_sie_o_przydatna_funkcje-27630.html</a></p>
+
 ## Steam dostosowuje się do unijnej dyrektywy. Valve pokaże najniższe ceny z ostatnich 30 dni
  - [https://ithardware.pl/aktualnosci/steam_dostosowuje_sie_do_unijnej_dyrektywy_valve_pokaze_najnizsze_ceny_z_ostatnich_30_dni-27629.html](https://ithardware.pl/aktualnosci/steam_dostosowuje_sie_do_unijnej_dyrektywy_valve_pokaze_najnizsze_ceny_z_ostatnich_30_dni-27629.html)
  - RSS feed: https://ithardware.pl/feed

@@ -1,5 +1,12 @@
 # Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
+## CNBC Daily Open: The Goldilocks effect
+ - [https://www.cnbc.com/2023/06/05/stock-markets-the-goldilocks-effect.html](https://www.cnbc.com/2023/06/05/stock-markets-the-goldilocks-effect.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-06-04 23:56:15+00:00
+
+May's astounding jobs report has something for both the Federal Reserve and the economy.
+
 ## Oil prices pop 2.5% after Saudi Arabia pledges more voluntary production cuts
  - [https://www.cnbc.com/2023/06/05/opec-oil-prices-pop-after-saudi-arabia-pledges-production-cuts.html](https://www.cnbc.com/2023/06/05/opec-oil-prices-pop-after-saudi-arabia-pledges-production-cuts.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html

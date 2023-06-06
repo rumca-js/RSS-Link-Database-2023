@@ -1,5 +1,12 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## Australians Split Over Indigenous Voice to Parliament, Poll Shows
+ - [https://www.bloomberg.com/news/articles/2023-06-04/australians-split-over-indigenous-voice-referendum-newspoll-shows](https://www.bloomberg.com/news/articles/2023-06-04/australians-split-over-indigenous-voice-referendum-newspoll-shows)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-06-04 23:42:02+00:00
+
+Australians are almost evenly divided over a proposed Indigenous advisory body to lawmakers &mdash; known as the Voice to Parliament &mdash; that will be put to a referendum later this year, a new opinion poll showed.
+
 ## Here Are Questions China’s Army Asked at Singapore Defense Forum
  - [https://www.bloomberg.com/news/articles/2023-06-04/here-are-questions-china-s-army-asked-at-singapore-defense-forum](https://www.bloomberg.com/news/articles/2023-06-04/here-are-questions-china-s-army-asked-at-singapore-defense-forum)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
@@ -13,6 +20,13 @@ China may have turned down a face-to-face meeting with the US at the Shangri-la 
  - date published: 2023-06-04 19:39:20+00:00
 
 Prime Minister Rishi Sunak this week will move to cut the flow of migrants, saying the UK government is struggling to cope with the number of arrivals.
+
+## Nearly 80 Girls Poisoned in Afghanistan in What Official Says Are Attacks on Primary Schools
+ - [https://www.bloomberg.com/en/news/thp/2023-06-04/official-almost-80-schoolgirls-poisoned-hospitalized-in-northern-afghanistan](https://www.bloomberg.com/en/news/thp/2023-06-04/official-almost-80-schoolgirls-poisoned-hospitalized-in-northern-afghanistan)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-06-04 17:27:45+00:00
+
+KABUL, Afghanistan (AP) &mdash; Nearly 80 girls were poisoned and hospitalized in two separate attacks at their primary schools in northern Afghanistan, a local education official said Sunday.
 
 ## GOP’s Graves Says McCarthy Is ‘Absolutely Safe’ as House Speaker
  - [https://www.bloomberg.com/news/articles/2023-06-04/gop-s-graves-says-mccarthy-is-absolutely-safe-as-house-speaker](https://www.bloomberg.com/news/articles/2023-06-04/gop-s-graves-says-mccarthy-is-absolutely-safe-as-house-speaker)
@@ -55,6 +69,13 @@ China is Southeast Asia’s leading development financier, but is facing rising 
  - date published: 2023-06-04 12:00:00+00:00
 
 Mexican President Andres Manuel Lopez Obrador’s ruling party is projected to win one of the last bastions of opposition power in Sunday’s gubernatorial elections, flipping a governorship that could be an asset before the 2024 presidential election.
+
+## At Least 90 Reportedly Arrested in Russia Rallies on Navalny’s 47th Birthday
+ - [https://www.bloomberg.com/en/news/thp/2023-06-04/supporters-of-russian-opposition-leader-navalny-hold-demonstrations-to-mark-his-47th-birthday](https://www.bloomberg.com/en/news/thp/2023-06-04/supporters-of-russian-opposition-leader-navalny-hold-demonstrations-to-mark-his-47th-birthday)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-06-04 11:47:07+00:00
+
+MOSCOW (AP) &mdash; Alexei Navalny voiced hope for a better future in Russia as his supporters defied a crackdown on dissent to hold pickets and demonstrations to mark the imprisoned opposition leader's 47th birthday on Sunday, with at least 90 people reported arrested.
 
 ## Netanyahu Says Iran Lies to Atomic Energy Agency on Enrichment
  - [https://www.bloomberg.com/news/articles/2023-06-04/netanyahu-says-iran-lies-to-atomic-energy-agency-on-enrichment](https://www.bloomberg.com/news/articles/2023-06-04/netanyahu-says-iran-lies-to-atomic-energy-agency-on-enrichment)

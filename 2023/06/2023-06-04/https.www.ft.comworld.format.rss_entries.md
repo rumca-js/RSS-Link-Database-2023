@@ -1,5 +1,19 @@
 # Source:Financial Times World, URL:https://www.ft.com/world?format=rss, language:en-US
 
+## India’s booming young population to spur housing demand, predicts HDFC head
+ - [https://www.ft.com/content/b380f48f-2e9a-4bcb-a372-8eb9b58ca290](https://www.ft.com/content/b380f48f-2e9a-4bcb-a372-8eb9b58ca290)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-06-04 23:01:26+00:00
+
+Mortgage provider says more prosperous generation will support growth in world’s most populous country
+
+## Live news: The week ahead
+ - [https://www.ft.com/content/162b0c78-ee3e-4851-9d53-7fb7ce2550a1](https://www.ft.com/content/162b0c78-ee3e-4851-9d53-7fb7ce2550a1)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-06-04 22:59:09+00:00
+
+
+
 ## British Chambers of Commerce creates business council to rival troubled CBI
  - [https://www.ft.com/content/d5092dfb-d0c7-49f3-9978-564de97114a1](https://www.ft.com/content/d5092dfb-d0c7-49f3-9978-564de97114a1)
  - RSS feed: https://www.ft.com/world?format=rss

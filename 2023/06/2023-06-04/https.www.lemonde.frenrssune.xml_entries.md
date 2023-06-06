@@ -1,5 +1,12 @@
 # Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
 
+## Why UK pharmacies are cheaper
+ - [https://www.lemonde.fr/en/economy/article/2023/06/05/why-uk-pharmacies-are-cheaper_6029091_19.html](https://www.lemonde.fr/en/economy/article/2023/06/05/why-uk-pharmacies-are-cheaper_6029091_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-04 23:14:48+00:00
+
+Prices in UK pharmacies are lower than in France due to competition from supermarkets for over-the-counter (OTC) medication and a centralized healthcare system.
+
 ## Zlatan Ibrahimovic announces his retirement from football
  - [https://www.lemonde.fr/en/sports/article/2023/06/05/zlatan-ibrahimovic-announces-his-retirement-from-football_6029088_9.html](https://www.lemonde.fr/en/sports/article/2023/06/05/zlatan-ibrahimovic-announces-his-retirement-from-football_6029088_9.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml

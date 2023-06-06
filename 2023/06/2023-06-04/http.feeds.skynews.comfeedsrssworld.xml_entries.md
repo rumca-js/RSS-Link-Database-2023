@@ -1,5 +1,19 @@
 # Source:Sky News, URL:http://feeds.skynews.com/feeds/rss/world.xml, language:en-US
 
+## Zlatan Ibrahimovic announces retirement from football
+ - [https://news.sky.com/story/zlatan-ibrahimovic-announces-retirement-from-football-12896573](https://news.sky.com/story/zlatan-ibrahimovic-announces-retirement-from-football-12896573)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-06-04 22:23:00+00:00
+
+Zlatan Ibrahimovic has announced he is retiring from football aged 41.
+
+## No survivors found after wayward plane that triggered fighter jet chase crashes into wilderness
+ - [https://news.sky.com/story/sonic-boom-heard-in-washington-dc-caused-by-military-jets-chasing-plane-which-crashed-12896551](https://news.sky.com/story/sonic-boom-heard-in-washington-dc-caused-by-military-jets-chasing-plane-which-crashed-12896551)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-06-04 20:30:00+00:00
+
+Rescuers have found the wreckage of a wayward plane which crashed after flying across Washington DC.
+
 ## 'The stench of death hangs in the air': On the ground at aftermath of India train crash
  - [https://news.sky.com/story/india-train-crash-aftermath-of-corpses-body-bags-and-grieving-families-12896480](https://news.sky.com/story/india-train-crash-aftermath-of-corpses-body-bags-and-grieving-families-12896480)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
@@ -48,6 +62,13 @@ India's deadly rail crash was likely caused by a signalling failure that caused 
  - date published: 2023-06-04 09:02:00+00:00
 
 An oil tanker broke down in the Suez Canal on Sunday, disrupting traffic in the vital global waterway.&#160;
+
+## Arms contract 'shows Iran has sold Russia ammunition' for Ukraine war
+ - [https://news.sky.com/story/arms-contract-shows-iran-has-sold-russia-ammunition-for-ukraine-war-says-security-source-12896127](https://news.sky.com/story/arms-contract-shows-iran-has-sold-russia-ammunition-for-ukraine-war-says-security-source-12896127)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-06-04 08:56:00+00:00
+
+A purported arms contract seen by Sky News offers the first hard evidence that Iran has sold ammunition to Russia for its war in Ukraine, an informed security source has claimed.
 
 ## Zelenskyy and Klitschko clash after woman killed outside locked air raid shelter
  - [https://news.sky.com/story/ukraine-war-zelenskyy-and-klitschko-clash-after-woman-killed-outside-locked-air-raid-shelter-in-kyiv-12896063](https://news.sky.com/story/ukraine-war-zelenskyy-and-klitschko-clash-after-woman-killed-outside-locked-air-raid-shelter-in-kyiv-12896063)

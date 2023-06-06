@@ -1,5 +1,12 @@
 # Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
 
+## Hovland beats McCarthy in Memorial playoff after McIlroy falls away
+ - [https://www.theguardian.com/sport/2023/jun/05/hovland-beats-mccarthy-in-memorial-playoff-after-mcilroy-falls-away](https://www.theguardian.com/sport/2023/jun/05/hovland-beats-mccarthy-in-memorial-playoff-after-mcilroy-falls-away)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-06-04 23:30:28+00:00
+
+<ul><li>Norwegian claims his fourth PGA Tour title in Ohio</li><li>McIlroy suffers disappointing final round of 75</li></ul><p>Viktor Hovland defeated Denny McCarthy in a playoff to win the Memorial Tournament as Rory McIlroy suffered a disappointing final round in Ohio.</p><p>Hovland parred the first extra hole at Muirfield Village to win his fourth PGA Tour title after he and McCarthy had finished tied on seven under par.</p> <a href="https://www.theguardian.com/sport/2023/jun/05/hovland-beats-mccarthy-in-memorial-playoff-after-mcilroy-falls-away">Continue reading...</a>
+
 ## One in five unpaid carers in England and Wales ‘do not have access to a vehicle’
  - [https://www.theguardian.com/society/2023/jun/05/one-in-five-unpaid-carers-england-and-wales-do-not-have-vehicle-access](https://www.theguardian.com/society/2023/jun/05/one-in-five-unpaid-carers-england-and-wales-do-not-have-vehicle-access)
  - RSS feed: https://www.theguardian.com/rss

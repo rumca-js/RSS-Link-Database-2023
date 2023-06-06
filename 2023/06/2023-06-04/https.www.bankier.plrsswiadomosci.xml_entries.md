@@ -1,5 +1,19 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Głośne życie nocne. Mieszkańcy włoskiego miasta dostaną odszkodowanie
+ - [https://www.bankier.pl/wiadomosc/Glosne-zycie-nocne-Mieszkancy-wloskiego-miasta-dostana-odszkodowanie-8554527.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Glosne-zycie-nocne-Mieszkancy-wloskiego-miasta-dostana-odszkodowanie-8554527.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-06-04 20:33:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/5/4/c83bf05735ce2e-948-568-323-323-1433-859.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Ponad 10-letnia sądowa batalia dobiegła końca. Jeśli głośne życie nocne na ulicach i placach ma negatywny wpływ na zdrowie mieszkańców okolicznych domów, mają oni prawo do odszkodowania od władz miasta - orzekł włoski Sąd Najwyższy. Sprawa dotyczyła małżeństwa z centrum Brescii na północy Włoch.</p>
+
+## Hakerzy drwią z Rosji. Telewizja na Krymie pokazała wideo o ukraińskiej armii
+ - [https://www.bankier.pl/wiadomosc/Hakerzy-drwia-z-Rosji-Telewizja-na-Krymie-pokazala-wideo-o-ukrainskiej-armii-8554523.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Hakerzy-drwia-z-Rosji-Telewizja-na-Krymie-pokazala-wideo-o-ukrainskiej-armii-8554523.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-06-04 20:07:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/9/e/ac053909be8691-948-568-0-110-4000-2399.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Współczesna wojna odbywa się na wielu frontach. Na anektowanym Krymie ktoś zhakował kilka kanałów telewizyjnych i puścił nagranie o ukraińskich siłach zbrojnych - poinformował w niedzielę rzecznik odeskiej administracji Serhij Bratczuk.</p>
+
 ## Posłanka PiS zajmuje mieszkanie komunalne. Płaci śmiesznie niski czynsz
  - [https://www.bankier.pl/wiadomosc/Poslanka-PiS-zajmuje-mieszkanie-komunalne-Placi-smiesznie-niski-czynsz-8554500.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Poslanka-PiS-zajmuje-mieszkanie-komunalne-Placi-smiesznie-niski-czynsz-8554500.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml

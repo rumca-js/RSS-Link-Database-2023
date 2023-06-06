@@ -1,5 +1,19 @@
 # Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
+## Great Moments in PC gaming: Landing an impossible shot in XCOM 2
+ - [https://www.pcgamer.com/great-moments-in-pc-gaming-landing-an-impossible-shot-in-xcom-2](https://www.pcgamer.com/great-moments-in-pc-gaming-landing-an-impossible-shot-in-xcom-2)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-04 23:41:43+00:00
+
+16% chance to hit? Those are my kind of odds.
+
+## Even Street Fighter 6 has been modded into VR now
+ - [https://www.pcgamer.com/even-street-fighter-6-has-been-modded-into-vr-now](https://www.pcgamer.com/even-street-fighter-6-has-been-modded-into-vr-now)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-04 23:19:55+00:00
+
+Maybe don't try this online.
+
 ## Ubisoft will show off Assassin's Creed Mirage, Avatar, and The Crew Motorfest this month
  - [https://www.pcgamer.com/ubisoft-will-show-off-assassins-creed-mirage-avatar-and-the-crew-motorfest-this-month](https://www.pcgamer.com/ubisoft-will-show-off-assassins-creed-mirage-avatar-and-the-crew-motorfest-this-month)
  - RSS feed: http://www.pcgamer.com/rss

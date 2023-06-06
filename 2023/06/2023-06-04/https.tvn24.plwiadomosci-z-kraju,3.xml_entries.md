@@ -1,5 +1,13 @@
 # Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
+## Pogoda na dziś - poniedziałek, 5.06. Na termometrach nawet 25 stopni. Lokalnie pojawi się przelotny deszcz
+ - [https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-dzis-poniedzialek-506-na-termometrach-nawet-25-stopni-lokalnie-pojawi-sie-przelotny-deszcz-7160750?source=rss](https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-dzis-poniedzialek-506-na-termometrach-nawet-25-stopni-lokalnie-pojawi-sie-przelotny-deszcz-7160750?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2023-06-05 00:00:00+00:00
+
+<img alt="Pogoda na dziś - poniedziałek, 5.06. Na termometrach nawet 25 stopni. Lokalnie pojawi się przelotny deszcz" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie87847734aa388c6d61938d201958eb27-na-ogol-pogodnie-5224919/alternates/LANDSCAPE_1280" />
+    Pogoda na dziś. Poniedziałek 5.06 upłynie pod znakiem słonecznej aury. Miejscami pojawią się chmury, z których przelotnie popada deszcz. Na termometrach zobaczymy maksymalnie 25 stopni Celsjusza.
+
 ## Walczą na terenie Rosji. Twierdzą, że wzięli zakładników, proponują wymianę
  - [https://tvn24.pl/swiat/ukraina-rosja-walcza-na-terenie-rosji-twierdza-ze-wzieli-zakladnikow-proponuja-wymiane-7160583?source=rss](https://tvn24.pl/swiat/ukraina-rosja-walcza-na-terenie-rosji-twierdza-ze-wzieli-zakladnikow-proponuja-wymiane-7160583?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
