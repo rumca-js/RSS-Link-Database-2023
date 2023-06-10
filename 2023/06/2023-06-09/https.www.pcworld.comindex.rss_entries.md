@@ -1,0 +1,630 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Instagram is gearing up to release a Twitter competitor
+ - [https://www.pcworld.com/article/1948462/instagram-is-gearing-up-to-release-a-twitter-competitor.html](https://www.pcworld.com/article/1948462/instagram-is-gearing-up-to-release-a-twitter-competitor.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 20:57:52+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Since Elon Musk&rsquo;s acquisition of Twitter last fall, the microblogging site has seen its share of wild ups and downs. Alternatives have sprung up in the wake of the chaos, like Mastodon and Bluesky, but a new competitor is about join the fray: Meta, the parent company of Instagram and Facebook.</p>
+
+
+
+<p>Calling it &ldquo;our response to Twitter,&rdquo; Meta&rsquo;s chief product officer Chris Cox unveiled the new standalone app during a recent company-wide meeting <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.theverge.com/2023/6/8/23754304/instagram-meta-twitter-competitor-threads-activitypub&amp;xcust=2-3-1948462-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">attended by The Verge</a>. Based on Instagram, it will integrate with ActivityPub, the decentralized protocol that powers <a href="https://www.pcworld.com/article/1404826/how-mastodon-and-federated-services-are-putting-social-media-back-in-your-hands.html">Mastodon</a>&mdash;which seemingly will allow users to move with their followers to an entirely different app if so desired.</p>
+
+
+
+<p>Dubbed &ldquo;Project 92&rdquo; in internal documentation later seen by The Verge, the new app will pull from Instagram to automatically populate a user&rsquo;s information&mdash;potentially making it easier for people to jump right in. Coding began in January, and Meta plans to launch the app (possibly with the name &ldquo;Threads&rdquo;) as soon as it can.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Screenshots of Meta's upcoming Project 92 app (Source: The Verge)" class="wp-image-1948464" height="427" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/Instagram_Twitter_Project_92_app_leaked_screenshots.webp" width="640" /><figcaption>This screen capture taken by The Verge shows sample screenshots of Project 92.</figcaption></figure><p class="imageCredit">Meta / The Verge</p></div>
+
+
+
+<p>During the reveal, Cox said that Project 92 was born from conversations with public figures who wanted a &ldquo;platform that is sanely run,&rdquo; and some have already committed to using the new app. Given the wild swings seen at Twitter, which has included <a href="https://www.pcworld.com/article/1381758/dont-get-scammed-why-you-cant-trust-elon-musks-twitter-right-now.html">mass layoffs</a>, <a href="https://www.pcworld.com/article/1448100/twitter-leaked-data-on-over-200-million-users-heres-how-to-check-if-youre-affected.html">leaked user data</a>, <a href="https://www.pcworld.com/article/1479844/twitter-officially-bans-third-party-apps.html">the death of third-party apps</a>, <a href="https://www.pcworld.com/article/1793292/twitters-check-marks-explained.html">ever-changing features</a>, and <a href="https://www.pcworld.com/article/1925563/1925563.html">major bugs</a> since Musk took over in October 2022, Meta&rsquo;s goal to create a stable service that can be trusted for &ldquo;safety, reliability, and ease of use&rdquo; won&rsquo;t need to do much to tick those boxes.</p>
+
+
+
+<p>Discussions are currently underway with celebrities like Oprah and the Dalai Lama to bring them to the new platform.</p>
+
+Internet</div>
+
+## Oof. Desktop GPU sales are down almost 40% year-to-year
+ - [https://www.pcworld.com/article/1947496/oof-desktop-gpu-sales-are-down-almost-40-percent-year-to-year.html](https://www.pcworld.com/article/1947496/oof-desktop-gpu-sales-are-down-almost-40-percent-year-to-year.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 16:43:07+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you keep up with the chatter on PC building forums, you&rsquo;ve probably sensed the current apathy toward discrete graphics cards. Now there&rsquo;s data to back up that gut impression. A new report from analysts at Jon Peddie Research shows a nearly 13 percent drop in shipments in the first quarter of 2023 compared to the previous quarter&mdash;and almost a 40 percent drop year to year.</p>
+
+
+
+<p>Released Wednesday, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.jonpeddie.com/news/the-graphics-add-in-board-market-continued-its-correction-in-q1-2023/&amp;xcust=2-1-1947496-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">the numbers</a> show interest in graphics cards at its lowest point in the past decade. Shipments fell by 12.6 percent from the previous quarter, decreasing from 7.16 million units in Q4 2022 to 6.3 million units in Q1 2023, and continuing the steady tumble during 2022. The year-to-year decline is startling: Compared to the same period in 2022, shipments dropped a whopping 38.2 percent.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Shipments of Discrete Graphics Cards for Q1 2023 (Jon Peddie Research)" class="wp-image-1947534" height="470" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/image-12.png" width="1024" /><figcaption>Total shipments of discrete graphics cards between Q1 2014 through Q1 2023.</figcaption></figure><p class="imageCredit">Jon Peddie Research</p></div>
+
+
+
+<p>The percentage of discrete graphics cards in PCs is also down 21 percent year-to-year, despite a modest uptick in that attach rate compared to the previous quarter. Given that AMD and Nvidia had yet to launch mainstream GPUs during Q1 2023, many folks were still on the sidelines waiting to finally upgrade their existing cards.</p>
+
+
+
+<p>Each of the three major GPU vendors is affected differently, with Nvidia seeing a double-digit decrease of 15.2 percent. (Don&rsquo;t cry for the company, though&mdash;it still has 83.7 percent of the graphics market, and recently just hit a market capitalization of $1 trillion.) AMD&rsquo;s shipments declined by 7.5 percent with no change to its market share, while Intel actually expanded its hold on the market by 2 percent.</p>
+
+
+
+<p>Interestingly, this news follows closely behind <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.jonpeddie.com/news/pc-gpu-shipments-decreased-by-14-0-sequentially-from-last-quarter-and-decreased-an-astounding-43-year-to-year/&amp;xcust=2-1-1947496-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">another Peddie report</a> about the broader graphics market&mdash;one in which the analysts predict that the percentage of discrete graphics cards in PCs will grow to 34 percent over the next five years. But not before some lingering pain for each of the big tech giants. Notebook graphics plummeted 45 percent year-to-year in Q1 2023, and the overall GPU market was down by 43 percent year-to-year. Meanwhile, on the other side of the fence, CPU shipments dipped 15.6 percent from Q4 2022, and a hefty 38.8 percent year-to-year.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Market share for Discrete Graphics Cards for Q1 2023 (Jon Peddie Research)" class="wp-image-1947540" height="599" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/PR_AIB_Q123_001.png" width="601" /><figcaption>Intel gained market share in Q1 2023, eating into Nvidia&rsquo;s share of the pie.</figcaption></figure><p class="imageCredit">Jon Peddie Research</p></div>
+
+
+
+<p>Jon Peddie, founder and president of Jon Peddie Research, attributes the decline to inflation worries and layoffs, plus lingering stock of last-generation graphics cards that retailers are still offloading. (Can&rsquo;t blame anyone for snapping up an Nvidia GeForce RTX 30-series card or AMD Radeon RX 6000 series card at a decent discount instead of the much-more expensive current-gen GPUs.) But even as the overstock of older cards clears, Peddie still predicts depressed interest for the short term: &ldquo;Q2 is traditionally a down quarter, and the year won&rsquo;t be any different, but probably not as severe as might be expected.&rdquo; By Q3 and Q4 2023, shipments of graphics cards should improve, especially with mainstream graphics cards now available for both AMD and Nvidia&rsquo;s current-generation GPU lineups.&nbsp;</p>
+
+
+
+<p>The outstanding question is if PC gamers will find an appetite for those cards. So far, neither Nvidia or AMD have captivated people into eagerly handing over money for the latest GPUs. The <a href="https://www.pcworld.com/article/1925928/nvidia-geforce-rtx-4060-ti-8gb-review.html">GeForce RTX 4060 Ti</a> received a harsh reception upon its launch, and the <a href="https://www.pcworld.com/article/1928214/amd-radeon-rx-7600-review.html">Radeon RX 7600</a> got mixed feedback from reviewers. Time will tell if these analyst predictions are accurate&mdash;or if people will continue to vote with their wallets.</p>
+
+Computer Components, Graphics Cards</div>
+
+## Save $750 on Dell’s luxurious XPS 13 Plus laptop
+ - [https://www.pcworld.com/article/1948174/save-750-on-dells-luxurious.html](https://www.pcworld.com/article/1948174/save-750-on-dells-luxurious.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 14:49:34+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When it comes to premium laptops, Dell&rsquo;s XPS line has it down to a science. These laptops are known for being both lightweight and powerful. The design is pretty darn chic, too. If you&rsquo;re in the market for such a laptop, you&rsquo;re in luck. Best Buy&rsquo;s currently selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-13-plus-13-4-oled-touch-screen-laptop-12th-gen-intel-evo-i7-16gb-memory-512gb-ssd-silver%2F6518252.p%3FskuId%3D6518252&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Dell XPS 13 Plus for $1,099.99</a>, which is a whopping $750 off. This machine has a stunning OLED touch display, a lightweight design, and powerful hardware. What more could you ask for? Let&rsquo;s get into the details then.</p>
+
+
+
+<p>The Dell XPS 13 Plus has an Intel Core i7-1260P CPU, Intel Iris Xe graphics, 16GB of RAM, and 512GB of SSD storage.&nbsp; That&rsquo;s enough oomph for productivity tasks as well as everyday use. The 13.4-inch  OLED display has a resolution of 3456&times;2160, a maximum brightness of 400 nits, and is touch-enabled. Given those specs, we expect visuals to be crisp and colorful. That&rsquo;s about a premium as you can get. The laptop also weighs just 2.77 pounds, which makes it the perfect traveling companion.</p>
+
+
+
+<p>This is a phenomenal deal. I mean, it&rsquo;s $750 off. Come on. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-13-plus-13-4-oled-touch-screen-laptop-12th-gen-intel-evo-i7-16gb-memory-512gb-ssd-silver%2F6518252.p%3FskuId%3D6518252&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">Get the Dell XPS 13 Plus for $1,099.99 at Best Buy</a></p>
+Laptops</div>
+
+## Logitech kills off Blue microphones, but Yeti stays alive
+ - [https://www.pcworld.com/article/1947945/logitech-kills-off-blue-microphones-but-yeti-stays-alive.html](https://www.pcworld.com/article/1947945/logitech-kills-off-blue-microphones-but-yeti-stays-alive.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 13:34:46+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s not immediately obvious from the consumer level, but Logitech has bought a lot of companies that have then become its sub-brands. Ultimate Ears speakers and headphones, Jaybird business coms, Astro gaming accessories, all have come under the accessory maker&rsquo;s umbrella in the last decade or so. One of the company&rsquo;s most high-profile purchases was Blue Microphones in 2017, makers of the much-loved Yeti USB mic design. Alas, it looks like that sub-brand is going the way of the dodo. </p>
+
+
+
+<p>According to a statement made on the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/LogitechG/status/1666883158787104768?&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Logitech G Twitter account</a> (spotted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.engadget.com/logitech-retires-the-blue-microphone-brand-083111975.html&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Engadget</a>), the company is folding both Blue Microphones and Astro gaming products into the G gaming brand. Existing microphone products like the Yeti, Yeti Pro, Yeti Nano, and Snowball will continue to be sold, sans Blue branding but with &ldquo;Blue&rdquo; as a term to describe the audio technology in general. Products formerly marketed under the Logitech for Creators name are also being folded into Logitech G. </p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">&#128075; gamers and creators! We have an update on our upcoming brand merger between Logitech G, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/ASTROGaming?ref_src=twsrc%5Etfw&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">@ASTROGaming</a>, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/BlueMicrophones?ref_src=twsrc%5Etfw&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">@BlueMicrophones</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/logitechc?ref_src=twsrc%5Etfw&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">@logitechc</a>! <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://t.co/qPPT36sJr6&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">pic.twitter.com/qPPT36sJr6</a></p>&mdash; Logitech G (@LogitechG) <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/LogitechG/status/1666883158787104768?ref_src=twsrc%5Etfw&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">June 8, 2023</a></blockquote>
+</div></figure>
+
+
+
+<p>At the time of this writing, Yeti and Snowball microphones are <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.logitechg.com/en-us/products/streaming-gear.html&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">on sale in Logitech G&rsquo;s online store</a>, still prominently featuring Blue branding, while the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.bluemic.com/hc/en-us&amp;xcust=2-2-1947945-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Blue Microphones website</a> is now restricted to support pages with prominent Logitech links at the top. Blue became a household name in podcasting, gaming, and streaming thanks to the Blue Yeti, which has been the de facto standard high-quality mic for years thanks to its excellent sound quality and easy USB plug-and-play operation. The Yeti brand is still strong, so it would make sense for Logitech to continue making future models under a Logitech G Yeti name. </p>
+
+
+
+<p>All the folded-in products from Blue, Astro, and Logitech for Creators will be handled via the Logitech G software and driver program, which might not be great news. Logitech G isn&rsquo;t well-regarded among such tools (which tend to be poorly regarded anyway), so who knows what adding the additional weight of pro-level audio production into the mix will do. </p>
+
+Computer Accessories</div>
+
+## I’m a PC gamer, but I hate gaming laptops
+ - [https://www.pcworld.com/article/1924228/im-a-pc-gamer-but-i-hate-gaming-laptops.html](https://www.pcworld.com/article/1924228/im-a-pc-gamer-but-i-hate-gaming-laptops.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>I&rsquo;m a PC gamer, but I hate gaming laptops. </p>
+
+
+
+<p>That statement may be a touch incendiary, but no matter what I do, I&rsquo;m unable to subscribe to the cult of gaming laptops. It&rsquo;s just not for me. While there&rsquo;s nothing inherently wrong with using one (more power to you), I find them to be too cumbersome, often taking up precious desk space I&rsquo;d rather reserve for <a href="https://www.pcworld.com/article/406235/best-gaming-keyboard.html">my gaming peripherals</a>. They also tend to emit a great deal of fan noise and I prefer a machine that runs near-silent. </p>
+
+
+
+<p>Is it sacrilege to speak of gaming laptops in such a way? Maybe (insert shrug emoji here), but I must tell my truth because I can&rsquo;t be the only one who feels this way.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>If you prefer gaming laptops to desktop towers, then you should check out PCWorld&rsquo;s <a href="https://www.pcworld.com/article/407493/best-gaming-laptops.html">gaming laptop roundup</a>.</p></blockquote>
+
+
+
+<h2 id="gaming-laptops-are-expensive">Gaming laptops are expensive</h2>
+
+
+
+<p>Gaming laptops are expensive to produce because they require special cooling due to their compact designs. They&rsquo;re also replaced more often than desktop towers and you can&rsquo;t always replace an individual part. If you&rsquo;re looking to save some money, desktop PCs can definitely offer a better value. (Bonus: We keep track of killer gaming PC sales in our oft-updated roundup of the <a href="https://www.pcworld.com/article/813362/best-pc-computer-deals.html">best desktop PC deals</a>.) </p>
+
+
+
+<p>You don&rsquo;t have to move a desktop tower around, either. This means it&rsquo;s less likely to get damaged or stolen. Nothing puts hair on your chest faster than accidentally dropping a laptop from a height. I&rsquo;m pretty sure time slows down. </p>
+
+
+
+<h2 id="desktop-pcs-are-easier-to-upgrade-or-repair">Desktop PCs are easier to upgrade or repair</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Desktop PCs are much easier to upgrade or repair, especially if you&rsquo;re assembling the tower from the ground up. Personally, I like being able to update or expand when the need arises, as it saves me money in the long run. Unfortunately, the hardware inside of a gaming laptop is often soldered on, which makes it impossible to swap out the memory or storage. The inability to extend the life of a gaming laptop is a real bummer. Not only does it create unnecessary e-waste, but it&rsquo;s also going to cost you more money. </p>
+
+
+
+<p>That said, <a href="https://www.pcworld.com/article/1431799/framework-laptop-chromebook-review.html">Framework laptops</a>, which I&rsquo;m a massive fan of, are designed to be upgraded and repaired by the user. The DIY company is even releasing a gaming laptop in late 2023 (check out the video below), which is good news for those who like to tinker.</p>
+
+
+
+<h2 id="most-gaming-laptops-sound-like-theyre-revving-up-for-take-off">Most gaming laptops sound like they&rsquo;re revving up for take-off</h2>
+
+
+
+<p>The one thing that really gets under my skin about gaming laptops is the fan noise. They kind of sound like they&rsquo;re revving up for lift-off or something. I&rsquo;m the type of gamer that really likes to zone in on what I&rsquo;m doing and nothing breaks the immersion factor faster than distracting fan noise. </p>
+
+
+
+<p>Sure, I could always throw on a pair of headphones to deafen the sound, but I&rsquo;d much prefer a quieter machine from the get-go. I own a <a href="https://www.pcworld.com/article/1481326/pre-built-desktop-gaming-pc-pluses-minuses.html">NXZT pre-built desktop PC</a> and I couldn&rsquo;t be happier with it. My tower runs near-silent pretty much all of the time, even when I&rsquo;m playing more visually demanding games. You won&rsquo;t find any machines that sound like rocket ships in my office. No way.</p>
+
+
+
+<h2 id="i-dont-need-to-be-a-portable-gamer">I don&rsquo;t need to be a portable gamer</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="massive-portable-power-requires-massive-size-and-price">
+					massive portable power requires massive size (and price)				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="msi-titan-gt77-hx-13v">MSI Titan GT77 HX 13V</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="MSI Titan GT77 HX 13V" class="product-widget__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/msi-titan-gt77-4-1.jpg?quality=50&amp;strip=all" width="1500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1561127/msi-titan-gt77-hx-13v-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Let&rsquo;s face it. As far as size and bulk goes, gaming laptops are absolute behemoths. They often tip the scales at six pounds or more and I just don&rsquo;t have the desire to be lugging that heft around everywhere. I work from home on a day-to-day basis, which means I have a permanent setup in my office. My current setup makes it super easy for me to sit down, boot up, and play. I&rsquo;m just not the type of person that likes to game on-the-go. </p>
+
+
+
+<p>Gaming laptops tend to take up a lot of space, too. I&rsquo;m unable to function if my computer desk is covered in clutter, which is why I keep it as clean as possible. Gaming laptops can eat up a ton of precious desk space, which I&rsquo;d rather save for my chosen <a href="https://www.pcworld.com/article/406235/best-gaming-keyboard.html">gaming accessories and peripherals</a>. Also, the displays on gaming laptops are usually quite dim, so I&rsquo;d prefer to use <a href="https://www.pcworld.com/article/813301/best-gaming-monitors.html">separate gaming monitors</a> with better resolutions and brightness levels (I&rsquo;m presently rocking a dual-screen setup). </p>
+
+
+
+<h2 id="feel-the-burn">Feel the burn</h2>
+
+
+
+<p>Gaming laptops sometimes have trouble with venting out the heat, which is created by the powerful components inside. Sure, vents and heatsinks help remove the heat, but gaming laptops can run hot on the bottom and, if I&rsquo;m going to use it on my lap, I&rsquo;d rather not risk scorching my embarrassingly pale legs (though they could use some color). Again, I&rsquo;d much prefer my stationary PC desktop that sits on the side of my desk to a gaming laptop that may or may not burn my legs. To be fair, it doesn&rsquo;t make a whole lot of sense to use a gaming laptop on your lap for an extended period of time, as (again) they&rsquo;re also quite heavy and unwieldly.  </p>
+
+
+
+<h2 id="conclusion-why-im-salty">Conclusion: Why I&rsquo;m salty</h2>
+
+
+
+<p>I&rsquo;m a natural-born contrarian, through and through. I approach almost every bit of tech with some level of skepticism. That said, I understand <a href="https://www.pcworld.com/article/407493/best-gaming-laptops.html">how convenient gaming laptops are</a> for lots of people. You&rsquo;re essentially getting everything (keyboard, trackpad, etc) in one package. </p>
+
+
+
+<p>But I don&rsquo;t want to contribute to the ever-growing e-waste problem (if I can help it&mdash;I&rsquo;m well aware that I spearhead the laptop effort here at PCWorld) and I find that desktop PCs offer more value in general. They&rsquo;re easier to upgrade, which means you can easily extend the life out of your machine, and they make for a more peaceful environment due to the nonexistent fan noise. It&rsquo;s just a better way to live, friends.</p>
+
+Laptops</div>
+
+## Should you upgrade your RAM? 5 things to consider
+ - [https://www.pcworld.com/article/1939595/should-you-upgrade-your-ram-5-things-to-consider.html](https://www.pcworld.com/article/1939595/should-you-upgrade-your-ram-5-things-to-consider.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Outside of situations where you know for sure you need more memory, most people start to think about upgrading their RAM when their PC starts to feel slow. But it isn&rsquo;t always the right fix.</p>
+
+
+
+<p>Memory is just one thing that could be causing your system to be slow. It&rsquo;s possible to eat up all available capacity when working on big files or leaving dozens (if not hundreds) of browser tabs open, which can cause your system to chug. But other components can make your PC feel sluggish, too, like a full <a href="https://www.pcworld.com/article/1786290/should-you-upgrade-your-hard-drive-4-questions-to-ask-yourself.html">storage drive</a> (especially if it&rsquo;s still a spinning platter disk).</p>
+
+
+
+<p>So before you place an order for more (and/or faster) memory, figure out where you stand on the following points. Once you do, and an upgrade is in your cards, you can use our guides on <a href="https://www.pcworld.com/article/541506/how-to-choose-the-right-ram.html">how to pick the right RAM</a> and <a href="https://www.pcworld.com/article/422901/how-to-install-new-memory-in-your-pc.html">how to install it in your desktop computer</a> or <a href="https://www.pcworld.com/article/460612/how-to-add-ram-to-your-laptop.html">in your laptop</a>.</p>
+
+
+
+<h2 id="your-current-memory-use">Your current memory use</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 10 Task Manager" class="wp-image-1939606" height="754" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/windows-10-task-manager-performance-tab.png?w=1200" width="1200" /><figcaption>The person who owns this PC would be well-served by an upgrade to 32GB of RAM.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>Back when you first bought your PC, your system specs may have matched <a href="https://www.pcworld.com/article/395018/how-much-ram-do-you-need-in-a-laptop.html">your memory needs</a> perfectly. But computer usage can change. If your current tasks are memory-intensive, you need more RAM to keep your machine snappy.</p>
+
+
+
+<p>To see how much memory you&rsquo;re using, fire up Windows Task Manager (Ctrl + Shift + Esc) and head to the Performance tab. The second entry is your current RAM usage. In the example screenshot above, the use of four different browsers (with at least a dozen tabs each) plus Microsoft Excel is consuming 86 percent of the available 16GB of memory.&nbsp;</p>
+
+
+
+<p>If this computer were yours, and you planned to open other programs (like Photoshop) or even more browser tabs, moving up to 32GB RAM would avoid maxing out on memory usage and the lag that inevitably follows.&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Tip:</em> If you&rsquo;re troubleshooting a slow PC, have a look at other elements in the performance tab, especially CPU utilization. In the example, our processor usage is low, but on an older PC, it&rsquo;s not uncommon to see both CPU and memory both pushed to their limits. In such cases, you&rsquo;ll need more than just more memory to help alleviate that crunch.</p></blockquote>
+
+
+
+<h2 id="your-graphics-card">Your graphics card</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="AMD Ryzen 7 5700G im Test" class="wp-image-1197321" src="https://bilder.pcwelt.de/4307339_original.jpg?quality=50&amp;strip=all" /><figcaption>Having faster system memory (and an adequate amount) will boost gaming performance when using integrated graphics.</figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p>Memory won&rsquo;t turbocharge a gaming rig, but it can mildly bump up performance if you play CPU-bound games&mdash;that is, ones that challenge your processor more than your graphics card. (YouTuber Jayz2Cents covers this in more depth if you&rsquo;re interested <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=vjbNhCHwlBo&amp;xcust=2-1-1939595-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">in the numbers</a>.) If you happen to be someone looking to squeeze every single last frame from from your PC, buying faster memory could nudge you a little closer to that goal.</p>
+
+
+
+<p>A RAM upgrade can also help boost performance of integrated graphics. Integrated graphics rely on system memory to store game textures and other graphical assets generated for output to your display, rather than dedicated video RAM (VRAM) that you&rsquo;d find on a discrete graphics card. Speed is generally more important here than capacity, though having at least 16GB is recommended.</p>
+
+
+
+<h2 id="free-space-on-your-motherboard">Free space on your motherboard</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Corsair DDR5 RAM installed on a motherboard" class="wp-image-546209" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2021/10/corsair-ddr5-ram.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption>When all of your RAM slots are populated, you may need to replace the whole set with faster or higher capacity DIMMs.</figcaption></figure><p class="imageCredit">Corsair</p></div>
+
+
+
+<p>The number of RAM slots on <a href="https://www.pcworld.com/article/1520957/best-gaming-motherboards-picks-for-intel-and-amd.html">your motherboard</a> can make increasing memory capacity simple and cheaper&mdash;or require more financial outlay.</p>
+
+
+
+<p>Mobos with four slots for memory will often only have two populated&mdash;if that&rsquo;s your setup, adding more RAM will be extremely easy. Just buy two additional DIMMs of the same type (e.g., DDR4 or DDR5) and drop them in. (Here&rsquo;s how to make sure you <a href="https://www.pcworld.com/article/541506/how-to-choose-the-right-ram.html">choose the right RAM</a>.) However, keep in mind that your system can only run at the maximum speed of your <em>slowest</em> DIMM. If you have two sticks of DDR4-2400, and you add DDR4-4400, all four sticks will run at DDR4-2400. To run at the faster speed, you must replace the slower sticks.</p>
+
+
+
+<p>If you have only two slots available (or all four slots are populated) then you have to purchase replacement memory that matches both the desired speed <em>and</em> total capacity you want. For example, you&rsquo;ve got four 4GB sticks of DDR4-2400. To expand to 32GB DDR4-3600, you&rsquo;ll need to buy either four 8GB DIMMs or two 16GB sticks. For faster performance in mainstream PCs, always use a dual-channel configuration&mdash;that is, always use RAM sticks in pairs.</p>
+
+
+
+<h2 id="your-pcs-age">Your PC&rsquo;s age</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="AMD Athlon motherboard" class="wp-image-726781" src="https://images.techadvisor.com/cmsdata/features/3528963/motherboard.jpg?quality=50&amp;strip=all" /><figcaption>If your system is old, you may not be able to find RAM to upgrade your capacity or speed.</figcaption></figure><p class="imageCredit">Wikimedia</p></div>
+
+
+
+<p>If your PC is old, the memory it uses might not be commonly available anymore, making an upgrade more difficult&mdash;and possibly of limited utility, depending on what you can find.</p>
+
+
+
+<p>Right now, DDR4 and DDR5 memory are still actively sold by retailers. Most PCs bought in 2015 or later will have a processor compatible with one of these two types of RAM. (For Intel, that&rsquo;s 6th-generation Skylake and newer; for AMD, you&rsquo;re looking at 1st gen Ryzen and newer.) DDR4 has dropped dramatically in price lately, making now a prime window for any upgrades. Older DDR3 memory is surprisingly still available at reasonable prices, but primarily through third-party sellers, which carries more risk.</p>
+
+
+
+<h2 id="upgrade-cost">Upgrade cost</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Astonishingly cheap DDR4 RAM on Newegg.com (Jun 2023)" class="wp-image-1939640" height="873" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/newegg-ram.png?w=1200" width="1200" /><figcaption>DDR4 RAM costs astonishingly little right now.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>Currently, DDR4 memory is incredibly affordable, and the price of DDR5 has been dropping to more reasonable levels. But even still, you should weigh the cost of your upgrade against how much utility you&rsquo;ll get out of it. Hitting your current capacity hard? Then today&rsquo;s prices can be well worth throwing more RAM in your system (doubling from 8GB to 16GB or 16GB to 32GB).</p>
+
+
+
+<p>But if you&rsquo;re only thinking about upgrading because you&rsquo;d like (not need) a few more frames in your games? Maybe spending another $50 on that won&rsquo;t be the right call. If you&rsquo;re playing your games or accessing your files from a hard disk drive, that money will be <a href="https://www.pcworld.com/article/407542/best-ssds.html">better spent on an SSD </a>for faster storage. Or that can be the initial seed money for <a href="https://www.pcworld.com/article/401980/best-cpus-for-gaming.html">a CPU</a> (and <a href="https://www.pcworld.com/article/1520957/best-gaming-motherboards-picks-for-intel-and-amd.html">motherboard</a>, as necessary) replacement, because that&rsquo;s choking your PC&rsquo;s performance more than your memory. There&rsquo;s no right answer about upgrades, but the most pragmatic solution generally reveals itself when thinking how to best spend your money.</p>
+
+Computer Components</div>
+
+## Arzopa G1 Game review: A gaming monitor that fits in your backpack
+ - [https://www.pcworld.com/article/1942698/arzopa-g1-game-review.html](https://www.pcworld.com/article/1942698/arzopa-g1-game-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Thin, light, and durable</li><li>Good SDR image quality</li><li>144Hz panel delivers good motion clarity</li><li>Inexpensive</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>No Adaptive Sync support</li><li>HDR is supported, but disappointing</li><li>Menu system offers little customization</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Arzopa G1 Game serves attractive visuals and a 144Hz refresh rate in a portable, affordable display.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-arzopa-g1-game">
+			Best Prices Today: Arzopa G1 Game		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<span>Arzopa</span>
+															</div>
+							<div class="price-comparison__price">
+								<span>$209.99</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.arzopa.com/products/g1-game-15-6-144hz-portable-monitor-1&amp;xcust=2-3-1942698-2-1942763-23926&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+		
+
+
+<p>PC gaming is often associated with big, beefy desktop rigs, but many players enjoy titles on smaller, more portable laptops. The Arzopa G1 Game has this demographic in its sights, packing a 15.6-inch, 144Hz display that weighs just 1.36 pounds. It&rsquo;s not perfect, but budget pricing and strong image quality make it easy to recommend for PC gamers on the go.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Further reading:</strong> See our roundup of the <a href="https://www.pcworld.com/article/1787210/best-portable-monitors.html">best portable monitors</a> to learn about competing products.</p></blockquote>
+
+
+
+<h2 id="what-are-the-arzopa-g1-game-specs">What are the Arzopa G1 Game specs?</h2>
+
+
+
+<p>The Arzopa G1 Game&rsquo;s basic specifications are identical to countless portable monitors. It has a 15.6-inch IPS display with a resolution of 1920&times;1080 and supports input over HDMI or USB-C.</p>
+
+
+
+<ul><li>Display size: 15.6-inch 16:9 widescreen</li><li>Native resolution: 1920&times;1080</li><li>Panel type: IPS LCD</li><li>Refresh rate: 144Hz</li><li>Adaptive-Sync: None</li><li>HDR: Yes</li><li>Ports: 2x USB-C, 1x Micro-HDMI, 3.5mm audio-out</li><li>VESA mount: None</li><li>Speakers: Yes</li><li>Price: $189.99</li></ul>
+
+
+
+<p>It ups the refresh rate to 144Hz, however, and tacks on HDR support. These features do add to the price&mdash;the G1 Game is roughly $20 to $50 more than the <a href="https://www.pcworld.com/article/1532023/arzopa-a1-gamut-portable-monitor-review.html">Arzopa A1 Gamut</a>, which is otherwise very similar.</p>
+
+
+
+<h2 id="arzopa-g1-game-design">Arzopa G1 Game design</h2>
+
+
+
+<p>The Arzopa G1 Game surprises with a robust metal chassis that feels rigid in normal use. It&rsquo;s possible to flex the display with great effort, but it should hold up to minor bumps and scrapes, and its durability exceeds expectations at this price point.</p>
+
+
+
+<p>There isn&rsquo;t much to the design, though, as Arzopa opts for thin display bezels that leave little room for aesthetic flourishes. The monitor&rsquo;s rear is a generic, blank slate of metal, but there is one quirk to note&mdash;a small hump in the bottom third of the display, which contains the electronics and provides room for the ports. Arzopa accounts for this in the design of its case, thankfully, so the display&rsquo;s profile remains flat when stowed. It&rsquo;s only three-tenths of an inch thick and weighs a mere 1.36 pounds.</p>
+
+
+
+<p>The included faux-leather case attaches magnetically and converts into a stand by opening the front to meet the back, allowing a portion of the case to act as a kickstand. When used as a stand, it offers minimal tilt adjustment but successfully keeps the monitor in place when used on a flat surface.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The G1 Game delivers the boost in motion clarity that gamers expect of a 144Hz display, and it&rsquo;s a night-and-day improvement over a 60Hz alternative.</p></blockquote></figure>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Arzopa G1 Game case" class="wp-image-1942732" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/arzopa-g1-game-6.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The Arzopa G1 Game case is simple but effective.</p></figcaption></figure><p class="imageCredit">Matt Smith/Foundry</p></div>
+
+
+
+<h2 id="arzopa-g1-game-features-and-menus">Arzopa G1 Game features and menus</h2>
+
+
+
+<p>The Arzopa G1 Game offers two USB-C inputs and one mini-HDMI input for a total of three video inputs. Both USB-C inputs can power the monitor, and a USB Power Brick is included to provide power when connecting over HDMI or a USB-A to USB-C input.</p>
+
+
+
+<p>This selection of ports is healthy but not uncommon for monitors in this price range. Competitors like the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/UPERFECT-Portable-Gaming-Monitor-500Nits/dp/B0C1GPNMJP/ref=sr_1_3?crid=2K4JUURB719B2&amp;keywords=144hz+portable+monitor&amp;qid=1685659136&amp;sprefix=144hz+portable+monit%2Caps%2C207&amp;sr=8-3&amp;ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&amp;xcust=2-3-1942698-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">UPERFECT 16-inch portable gaming monitor</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/MAGICRAVEN-Portable-Monitor-Computer-Speakers/dp/B0BRNB12HY/ref=sr_1_7_sspa?crid=2K4JUURB719B2&amp;keywords=144hz+portable+monitor&amp;qid=1685659136&amp;sprefix=144hz+portable+monit%2Caps%2C207&amp;sr=8-7-spons&amp;ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&amp;psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVVUswWENSMkNUTlkmZW5jcnlwdGVkSWQ9QTA4ODI1NTYxUTVFMUVBNU5SS05HJmVuY3J5cHRlZEFkSWQ9QTEwMzUxNDdBNzRaM0tXRUhMWFgmd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;xcust=2-3-1942698-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Magicraven 144Hz portable gaming monitor</a> offer a similar range of connectivity.</p>
+
+
+
+<p>Despite its affordable price, the G1 Game provides all necessary cables for its three video inputs. This includes a USB-C to USB-C cable, a USB-A to USB-C cable, and a full-sized HDMI to mini-HDMI cable.</p>
+
+
+
+<p>The monitor&rsquo;s menu system is basic, allowing adjustment only for brightness, volume, and input switching. Simplicity is typical for a portable monitor, but I&rsquo;d prefer to see a few additional options specific to gamers such as an on-screen crosshair or shadow boost feature.</p>
+
+
+
+<p>Speakers are included but prove completely inadequate for enjoyable gameplay. That&rsquo;s not a surprise, as I&rsquo;ve yet to encounter a portable monitor with passable audio. The 3.5mm audio-out jack provides an easy way to connect headphones, at least.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Arzopa G1 Game ports" class="wp-image-1942733" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/arzopa-g1-game-5.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption><p>The Arzopa G1 Game ports.</p></figcaption></figure><p class="imageCredit">Matt Smith/Foundry</p></div>
+
+
+
+<h2 id="how-is-the-arzopa-g1-game-sdr-image-quality">How is the Arzopa G1 Game SDR image quality?</h2>
+
+
+
+<p>As a gaming monitor, the Arzopa G1 Game is designed to handle entertainment, and its SDR image quality. The monitor has its limits, but it should impress gamers looking for a sharp and colorful image on a tight budget.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Arzopa G1 Game brightness chart" class="wp-image-1946087" height="793" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/arzopa-g1-game-brightness.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith/Foundry</p></div>
+
+
+
+<p>The G1 Game&rsquo;s image quality starts off strong with a maximum brightness of 277 nits. While this level of brightness is average for a portable monitor, the G1 Game is able to outperform a few competitors, such as the <a href="https://www.pcworld.com/article/1520990/aoc-i1601fwux-porable-monitor-review.html">AOC I1601FWUX</a>. The monitor&rsquo;s brightness and anti-glare coating provide a comfortable viewing experience in most situations. It will only look dim in rooms with bright overhead lights or large, sunlit windows.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Arzopa&rsquo;s G1 Game contrast ratio chart" class="wp-image-1946085" height="825" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/arzopa-g1-game-contrast.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith/Foundry</p></div>
+
+
+
+<p>Testing the contrast ratio shows the wide range of results that can be found among portable monitors that are sold for $300 or less. The G1 Game&rsquo;s contrast ratio of 1490:1 is a big leap up from less impressive portable monitors including the company&rsquo;s own A1 Gamut and the AOC. On the other hand, OLED panels are easy to find in portable monitors and definitely outperform the G1 Game by a significant margin.</p>
+
+
+
+<p>Even so, I thought the G1 Game had a pleasant sense of depth and dimensionality. That didn&rsquo;t surprise me, as its contrast ratio exceeds most full-sized gaming monitors available for $600 or less. Most inexpensive gaming monitors (including <a href="https://www.pcworld.com/article/813301/best-gaming-monitors.html">our favorite budget gaming monitor</a>) use an IPS panel with a contrast ratio around 1000:1, which is noticeably inferior to the G1 Game.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Arzopa&rsquo;s G1 Game color gamut chart" class="wp-image-1946086" height="793" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/arzopa-g1-game-color-gamut.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith/Foundry</p></div>
+
+
+
+<p>The G1 Game&rsquo;s color gamut spans 98 percent of sRGB and 74 percent of DCI-P3. This is a solid result for a portable gaming monitor and provides enough color coverage to look realistic and accurate in most games. However, it won&rsquo;t provide the ultra-vivid and oversaturated look that is popular on modern displays that use more advanced display technology such as an OLED panel or Quantum Dots.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Arzopa&rsquo;s G1 Game color error chart" class="wp-image-1946088" height="845" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/arzopa-g1-game-color-accuracy.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith/Foundry</p></div>
+
+
+
+<p>The monitor&rsquo;s color accuracy is excellent for the price, scoring surprisingly close to the <a href="https://www.pcworld.com/article/1676448/innocn-15k1f-monitor-review.html">INNOCN 15K1F</a>. This level of color accuracy provides a lifelike image and will generally hold up to less demanding content creation workflows. Those who simply need to edit a few photos on occasion, or are looking to upload to YouTube, should have no problems with its performance.</p>
+
+
+
+<p>The monitor&rsquo;s color temperature skews cool, however, with a measured color temperature of 7700K. This is responsible for a majority of the color error in this monitor&rsquo;s overall color performance, resulting in a somewhat sterile look. How much this will bother you is a matter of personal preference. On the plus side, the monitor&rsquo;s gamma curve comes in at 2.2, which is exactly on our desired target and indicates that content will look roughly as bright as it should.</p>
+
+
+
+<p>Sharpness is a perk. 1080p resolution doesn&rsquo;t sound impressive but, when packed into a 15.6-inch display, it provides a pixel density of roughly 143 pixels per inch. That&rsquo;s better than a 27-inch 1440p monitor and only 20 pixels-per-inch less than a 27-inch 4K monitor. Games look crisp and attractive.</p>
+
+
+
+<p>The Azorpa G1 Game&rsquo;s SDR image quality is solid overall. It handles bright and colorful titles like <em>Overwatch 2 </em>or <em>League of Legends </em>extremely well, yet is adequate for darker games like <em>Diablo 4</em>. A more expensive OLED competitor can handle dark titles better, to be sure, but these alternatives are much more expensive (and typically limited to a 60Hz refresh rate).</p>
+
+
+
+<h2 id="arzopa-g1-game-hdr-image-quality">Arzopa G1 Game HDR image quality</h2>
+
+
+
+<p>Want a great, or even passable, HDR experience? Skip the Arzopa G1 Game. It can accept an HDR signal but lacks the brightness, color performance, and contrast necessary to provide an acceptable HDR experience. Games look different, but not better, with HDR turned on.</p>
+
+
+
+<p>I&rsquo;m not aware of any portable monitor available in 2023 that provides a good HDR experience, so the G1 Game&rsquo;s performance is to be expected. However, I&rsquo;d rather see Arzopa drop HDR than implement it half-heartedly. Slapping HDR on the display is sure to disappoint gamers expecting an experience similar to a typical HDR television.</p>
+
+
+
+<h2 id="how-is-the-arzopa-g1-game-motion-performance">How is the Arzopa G1 Game motion performance</h2>
+
+
+
+<p>The Arzopa G1 Game is a 144Hz monitor but, unlike most gaming monitors, it doesn&rsquo;t make specific claims about the display panel&rsquo;s pixel response times. That&rsquo;s probably because they&rsquo;re nothing to brag about.</p>
+
+
+
+<p>Unfortunately, the G1 Game lacks any form of adaptive sync, meaning it doesn&rsquo;t support AMD FreeSync and is not Nvidia G-Sync compatible. That can lead to screen tearing and negatively impact fluidity in motion. The lack of adaptive sync is understandable given the monitor&rsquo;s price, but competitors like the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/UPERFECT-Portable-2560x1600-FreeSync-External/dp/B0BHNLZCNF/ref=sr_1_3?crid=JW169ER4US6I&amp;keywords=portable+gaming+monitor&amp;qid=1685739046&amp;s=electronics&amp;sprefix=portable+gaming+monit%2Celectronics%2C208&amp;sr=1-3&amp;ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&amp;xcust=2-3-1942698-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">UPERFECT 16-inch portable gaming monitor </a>deliver FreeSync for even less (on Amazon).</p>
+
+
+
+<p>Test images from <em>League of Legends</em> and <em>DOTA 2</em> showed that character profiles and background details were easy to make out and looked crisp even when scrolling rapidly across the screen. Character names and hitpoint bars were difficult to make out, however&mdash;a 240Hz or 360Hz refresh rate is required to make those details legible. The G1 Game delivers the boost in motion clarity that gamers expect of a 144Hz display, and it&rsquo;s a night-and-day improvement over a 60Hz alternative.</p>
+
+
+
+<h2 id="should-you-buy-the-arzopa-g1-game">Should you buy the Arzopa G1 Game? </h2>
+
+
+
+<p>Arzopa&rsquo;s G1 Game is a good portable gaming monitor with an attractive MSRP of just $189.99. It provides pleasant color performance, strong contrast, and solid brightness for its price, and the 144Hz panel offers smoother, more responsive gaming than a 60Hz alternative. The monitor&rsquo;s lack of Adaptive Sync and shoddy HDR are disappointing but excusable. Gamers who want a simple, compact portable gaming monitor will be happy with the G1 Game.</p>
+
+Monitors</div>
+
+## Nurture dad’s green thumb this Father’s Day
+ - [https://www.pcworld.com/article/1947221/nurture-dads-green-thumb-this-fathers-day.html](https://www.pcworld.com/article/1947221/nurture-dads-green-thumb-this-fathers-day.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-06-09 08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Caring for plants is hard, and if your dad is struggling, you can give a truly special gift this Father&rsquo;s Day. NatureID is a leading <a href="https://shop.pcworld.com/sales/natureid-plan-identification-premium-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=natureid-plan-identification-premium-plan-lifetime-subscription&amp;utm_term=scsf-572692&amp;utm_content=a0x1P000004IluMQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">plant identification app</a>, with more than eight million downloads and a 4.6/5-star App Store rating. Now through 6/11, you can get it for 66% off as part of our Father&rsquo;s Day sale.</p>
+
+
+
+<p>NatureID uses AI to identify more than 14,000 plant species, diagnose their states, and provide specified care advice using just the hardware on your phone. It&rsquo;s a personal plant doctor in your pocket, providing a plant care guide for all of your plants, whether they&rsquo;re currently healthy or sick. It will help you make the right decisions about soil, water, fertilizer, temperature, sunlight, and more, and even keep a schedule for your plant care regimen.</p>
+
+
+
+<p>Donna Moderna calls NatureID one of the best apps to care for indoor plants. Give dad a hand with his plants this Father&rsquo;s Day. Now through 11:59 pm on 6/11, you can get a lifetime Premium Plan to <a href="https://shop.pcworld.com/sales/natureid-plan-identification-premium-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=natureid-plan-identification-premium-plan-lifetime-subscription&amp;utm_term=scsf-572692&amp;utm_content=a0x1P000004IluMQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">NatureID</a> for 66% off $59 at just $19.99.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/natureid-plan-identification-premium-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=natureid-plan-identification-premium-plan-lifetime-subscription&amp;utm_term=scsf-572692&amp;utm_content=a0x1P000004IluMQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp1.stackassets.com/2b981a87a122568f3f94d99745dd93ddaae504f3/store/2f66073700cc397a6029711efb0072e40f6cb2d6302a437c1b442bc0dc61/sale_311532_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>NatureID Plant Identification Premium Plan: Lifetime Subscription &ndash; $19.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/natureid-plan-identification-premium-plan-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=natureid-plan-identification-premium-plan-lifetime-subscription&amp;utm_term=scsf-572692&amp;utm_content=a0x1P000004IluMQAS&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices subject to change.</p>
+
+Mobile Apps</div>
+
