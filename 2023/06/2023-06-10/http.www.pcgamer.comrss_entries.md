@@ -1,0 +1,156 @@
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
+
+## Here's what to expect from the updated D&D rulebooks coming next year
+ - [https://www.pcgamer.com/heres-what-to-expect-from-the-updated-dandd-rulebooks-coming-next-year](https://www.pcgamer.com/heres-what-to-expect-from-the-updated-dandd-rulebooks-coming-next-year)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 22:40:05+00:00
+
+There'll be more capitalization, for one thing.
+
+## Our 11 favorite trailers from the 2023 Future Games Show Summer Showcase
+ - [https://www.pcgamer.com/our-11-favorite-trailers-from-the-2023-future-games-show-summer-showcase](https://www.pcgamer.com/our-11-favorite-trailers-from-the-2023-future-games-show-summer-showcase)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 22:23:00+00:00
+
+Catch up with the neatest PC game trailers from this year's Future Games Show summer livestream.
+
+## I told you guys Lords of the Fallen looked cool
+ - [https://www.pcgamer.com/i-told-you-guys-lords-of-the-fallen-looked-cool](https://www.pcgamer.com/i-told-you-guys-lords-of-the-fallen-looked-cool)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 22:12:13+00:00
+
+The rebooted action RPG got an extended gameplay trailer at the Future Games Show today.
+
+## I have no idea what to make of this 'motorvania' about a biker coyote on a quest for vengeance, but I think I like it
+ - [https://www.pcgamer.com/i-have-no-idea-what-to-make-of-this-motorvania-about-a-biker-coyote-on-a-quest-for-vengeance-but-i-think-i-like-it](https://www.pcgamer.com/i-have-no-idea-what-to-make-of-this-motorvania-about-a-biker-coyote-on-a-quest-for-vengeance-but-i-think-i-like-it)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 20:33:58+00:00
+
+A demo for Laika: Aged Through Blood is coming to Steam next week.
+
+## Diablo 4 review
+ - [https://www.pcgamer.com/diablo-4-review](https://www.pcgamer.com/diablo-4-review)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 20:29:56+00:00
+
+A live service action RPG that almost buries everything that makes it great.
+
+## I was not expecting how much I'd dig this surreal adventure game where I've somehow broken 'Writer's Law' and have to escape my punishment
+ - [https://www.pcgamer.com/i-was-not-expecting-how-much-id-dig-this-surreal-adventure-game-where-ive-somehow-broken-writers-law-and-have-to-escape-my-punishment](https://www.pcgamer.com/i-was-not-expecting-how-much-id-dig-this-surreal-adventure-game-where-ive-somehow-broken-writers-law-and-have-to-escape-my-punishment)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 20:20:20+00:00
+
+The Bookwalker: Thief of Tales offers an interesting mix of adventure game and turn based combat.
+
+## Assassin's Creed Mirage will include a 'desaturated blue/gray' mode for people who are stuck in 2007
+ - [https://www.pcgamer.com/assassins-creed-mirage-will-include-a-desaturated-bluegray-mode-for-people-who-are-stuck-in-2007](https://www.pcgamer.com/assassins-creed-mirage-will-include-a-desaturated-bluegray-mode-for-people-who-are-stuck-in-2007)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 20:17:03+00:00
+
+(But it won't run on Windows Vista.)
+
+## The world's angriest Metroidvania is out soon and would probably make the Doom Guy flinch
+ - [https://www.pcgamer.com/the-worlds-angriest-metroidvania-is-out-soon-and-would-probably-make-the-doom-guy-flinch](https://www.pcgamer.com/the-worlds-angriest-metroidvania-is-out-soon-and-would-probably-make-the-doom-guy-flinch)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 20:14:11+00:00
+
+Cookie Cutter's heroine is on a bloody rampage to save her girlfriend.
+
+## The 8 best cozy games to wishlist from the Wholesome Games Showcase
+ - [https://www.pcgamer.com/best-trailers-wholesome-games-2023](https://www.pcgamer.com/best-trailers-wholesome-games-2023)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 19:28:01+00:00
+
+The Wholesome Games showcase was stacked with pastel goodness this year so we narrowed things down.
+
+## Mineko’s Night Market is a cozy slice of life with a huge helping of cats and crafts
+ - [https://www.pcgamer.com/minekos-night-market-is-a-cozy-slice-of-life-with-a-huge-helping-of-cats-and-crafts](https://www.pcgamer.com/minekos-night-market-is-a-cozy-slice-of-life-with-a-huge-helping-of-cats-and-crafts)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 19:22:39+00:00
+
+Crafting trinkets weirder than late night shopping network.
+
+## Punting dudes off ledges in the Steam demo for this comedy prop combat game is bringing me a lot of joy
+ - [https://www.pcgamer.com/en-garde-steam-demo](https://www.pcgamer.com/en-garde-steam-demo)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 18:56:53+00:00
+
+En Garde is a swashbuckling sword fighting (and foot kicking) game releasing this summer.
+
+## Daedalic turns one of its classic point-and-click adventures into a life-and-death survival game, and it feels a little weird
+ - [https://www.pcgamer.com/daedalic-turns-one-of-its-classic-point-and-click-adventures-into-a-life-and-death-survival-game-and-it-feels-a-little-weird](https://www.pcgamer.com/daedalic-turns-one-of-its-classic-point-and-click-adventures-into-a-life-and-death-survival-game-and-it-feels-a-little-weird)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 18:19:41+00:00
+
+Surviving Deponia is coming to Steam later this year. But why?
+
+## If you've ever wanted to play Euro Truck Simulator in deep space, this new sci-fi trucking simulator might be just the thing
+ - [https://www.pcgamer.com/if-youve-ever-wanted-to-play-euro-truck-simulator-in-deep-space-this-new-sci-fi-trucking-simulator-might-be-just-the-thing](https://www.pcgamer.com/if-youve-ever-wanted-to-play-euro-truck-simulator-in-deep-space-this-new-sci-fi-trucking-simulator-might-be-just-the-thing)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 17:42:02+00:00
+
+Star Trucker promises a retro-futuristic Americana vibe amongst the stars.
+
+## Cozy sim Lakeburg Legacies shows the real perfect match is city building and dating sims
+ - [https://www.pcgamer.com/cozy-sim-lakeburg-legacies-shows-the-real-perfect-match-is-city-building-and-dating-sims](https://www.pcgamer.com/cozy-sim-lakeburg-legacies-shows-the-real-perfect-match-is-city-building-and-dating-sims)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 17:06:46+00:00
+
+Become the cozy romantic dictator you truly are deep inside.
+
+## I've played cooking sims and puzzle platformers, but a cooking platformer? I'm listening
+ - [https://www.pcgamer.com/ive-played-cooking-sims-and-puzzle-platformers-but-a-cooking-platformer-im-listening](https://www.pcgamer.com/ive-played-cooking-sims-and-puzzle-platformers-but-a-cooking-platformer-im-listening)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 16:43:20+00:00
+
+In Magical Delicacy you traverse a bustling cliffside town, learn recipes or invent your own, and deliver meals to customers.
+
+## Venba's gorgeous meals stir up the joy and challenge of recreating family recipes
+ - [https://www.pcgamer.com/venbas-gorgeous-meals-stir-up-the-joy-and-challenge-of-recreating-family-recipes](https://www.pcgamer.com/venbas-gorgeous-meals-stir-up-the-joy-and-challenge-of-recreating-family-recipes)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 16:40:03+00:00
+
+This narrative food adventure has announced its July launch date.
+
+## In cozy cat cafe sim Pekoe the cats are the ones running the show
+ - [https://www.pcgamer.com/in-cozy-cat-cafe-sim-pekoe-the-cats-are-the-ones-running-the-show](https://www.pcgamer.com/in-cozy-cat-cafe-sim-pekoe-the-cats-are-the-ones-running-the-show)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 16:30:31+00:00
+
+All the purrtinent details on this doily-core sim launching this month.
+
+## This co-op farming game is the most jam-packed cutesy life sim I've seen since Stardew Valley
+ - [https://www.pcgamer.com/this-co-op-farming-game-is-the-most-jam-packed-cutesy-life-sim-ive-seen-since-stardew-valley](https://www.pcgamer.com/this-co-op-farming-game-is-the-most-jam-packed-cutesy-life-sim-ive-seen-since-stardew-valley)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 15:53:35+00:00
+
+Fae Farm has the usual spread of activities and then some, but it's the approach to co-op I'm most interested in.
+
+## Sam Lake answers the biggest Alan Wake 2 question: What happened to his layers?
+ - [https://www.pcgamer.com/sam-lake-answers-the-biggest-alan-wake-2-question-what-happened-to-his-layers](https://www.pcgamer.com/sam-lake-answers-the-biggest-alan-wake-2-question-what-happened-to-his-layers)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 14:29:25+00:00
+
+Getting to the bottom of the fashion mystery at the heart of Alan Wake 2.
+
+## How to watch the Future Games Show Summer Showcase 2023
+ - [https://www.pcgamer.com/future-games-show-summer-2023-how-to-watch-livestream](https://www.pcgamer.com/future-games-show-summer-2023-how-to-watch-livestream)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 09:00:10+00:00
+
+Join Laura Bailey and Yuri Lowenthal for ten world premieres on Saturday.
+
+## Today's Wordle hint and answer #721: Saturday, June 10
+ - [https://www.pcgamer.com/wordle-answer-today-hint-721-june-10](https://www.pcgamer.com/wordle-answer-today-hint-721-june-10)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 04:02:44+00:00
+
+Wordle today: The solution and a hint for Saturday's puzzle.
+
+## Our apologies to every other Diablo 4 class, but Sorcerers are the fan favorite
+ - [https://www.pcgamer.com/our-apologies-to-every-other-diablo-4-class-but-sorcerers-are-the-fan-favorite](https://www.pcgamer.com/our-apologies-to-every-other-diablo-4-class-but-sorcerers-are-the-fan-favorite)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-06-10 00:39:50+00:00
+
+Everyone wants to be a dirty Sorcerer, apparently.
+
