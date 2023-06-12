@@ -1,0 +1,292 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Microsoft is bringing PC Game Pass to Nvidia’s GeForce Now service
+ - [https://www.theverge.com/2023/6/11/23757313/microsoft-xbox-pc-game-pass-nvidia-geforce-now](https://www.theverge.com/2023/6/11/23757313/microsoft-xbox-pc-game-pass-nvidia-geforce-now)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 21:19:26+00:00
+
+<figure>
+      <img alt="Illustration of Nvidia and Microsoft logos" src="https://cdn.vox-cdn.com/thumbor/lDeRtaXH8z5wTDcQgLQic66oAbc=/256x0:1792x1024/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360928/GFN_Thursday_GeForce_NOW_Microsoft.0.jpg" />
+        <figcaption>Image: Nvidia</figcaption>
+    </figure>
+
+  <p id="PjBYPt">Microsoft is planning to bring PC Game Pass titles to Nvidia’s GeForce Now streaming service. Sarah Bond, head of Xbox creator experience, announced the move at a private Xbox media briefing in Los Angeles on Sunday. “You will be able to play your PC Game Pass catalog on all the devices supported by Nvidia GeForce Now,” said Bond.</p>
+<p id="1izMjY">“This will enable the PC Game Pass catalog to be played on any device that GeForce Now streams to, like low spec PCs, Macs, Chromebooks, mobile devices, TVs, and more, and we’ll be rolling this out in the months ahead,” says Joe Skrebels, Xbox Wire editor in chief, <a href="https://news.xbox.com/en-us/2023/06/11/xbox-bright-future-and-how-well-get-there/">in a blog post</a>.</p>
+<p id="4bMIZX">GeForce Now members will be able to “stream select PC games from the library,” so it doesn’t look like it will be the full catalog....</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757313/microsoft-xbox-pc-game-pass-nvidia-geforce-now">Continue reading&hellip;</a>
+  </p>
+
+## Activision removes another streamer’s skin from Call of Duty
+ - [https://www.theverge.com/2023/6/11/23757243/call-of-duty-timthetatman-operator-bundle-removed](https://www.theverge.com/2023/6/11/23757243/call-of-duty-timthetatman-operator-bundle-removed)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 20:45:45+00:00
+
+<figure>
+      <img alt="Screenshot from a Timthetatman YouTube video highlighting the streamer’s Call of Duty operator bundle" src="https://cdn.vox-cdn.com/thumbor/0_yiI_KL4hbEA0pY3zQeYbs7HeQ=/122x0:1613x994/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360850/Screen_Shot_2023_06_11_at_4.21.01_PM.0.png" />
+        <figcaption>Timthetatman / Activision</figcaption>
+    </figure>
+
+  <p id="Nfp0uS">Activision has removed another streamer’s skin (from a game, not their body). <a href="https://www.youtube.com/timthetatman">TimTheTatman</a>, a prominent <em>Call of Duty</em> streamer, asked to have his operator bundle removed from <em>Call of Duty</em> in support of his friend Nickmercs, whose skin was pulled last week after he <a href="https://www.theverge.com/2023/6/9/23755282/call-of-duty-nickmercs-homophobic-comments">made homophobic comments</a>. “At Tim’s request, we have removed the TimTheTatman operator bundle from the <em>Modern Warfare II</em> and the <em>Warzone</em> store,” wrote Activision spokesperson Neil Wood in an email to <em>The Verge</em>.</p>
+<p id="0XC2Xx">TimTheTatman, who named Nickmercs as a long-time friend, <a href="https://twitter.com/timthetatman/status/1667669934199955457?s=20">tweeted</a> that it “felt wrong” for him to still have a skin in the games when Nickmercs didn’t and requested that Activision remove his skin too. “In support of my friend, please remove the TimTheTatman bundle,” he...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757243/call-of-duty-timthetatman-operator-bundle-removed">Continue reading&hellip;</a>
+  </p>
+
+## Watch 45 minutes of new Starfield gameplay
+ - [https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023](https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 19:16:57+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/wOczQLdLiNbW2tEiJxv3KniH9fw=/123x0:1463x893/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360704/EHttMmI.0.jpeg" />
+        <figcaption>Image: Bethesda</figcaption>
+    </figure>
+
+  <p id="PVXMLA">We got a solid <a href="https://www.theverge.com/2022/6/12/23162369/starfied-gameplay-trailer-bethesda-xbox-showcase-2022">15 minutes of <em>Starfield </em>gameplay</a> at Microsoft’s Xbox &amp; Bethesda showcase last year, and today we’re getting a really in-depth look at Bethesda’s first new IP in 25 years. Described as “Skyrim in space,” by game director Todd Howard, the RPG is really shaping up ahead of its debut on September 6th.</p>
+<p id="smFkqe">Today Bethesda decided to show us a lot more detail about <em>Starfield</em>, including the cities and settlements in the game, the skill trees, upgrades, and space combat. The 45-minute deep dive is a lot, and it really feels like if Bethesda can pull this off then you’ll be able to live out all your dreams of exploring space.</p>
+  <figure class="e-image">
+        
+      <cite>Image: Bethesda</cite>
+      <figcaption><em>Starfield has more than 1,000 planets.</em></figcaption>
+  </figure>
+<p id="XtQho2">The main story is centered on...</p>
+  <p>
+    <a href="https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023">Continue reading&hellip;</a>
+  </p>
+
+## Overwatch 2’s getting its first story missions and teases a new hero
+ - [https://www.theverge.com/2023/6/11/23757215/overwatch-2-story-missions-new-hero-xbox-showcase](https://www.theverge.com/2023/6/11/23757215/overwatch-2-story-missions-new-hero-xbox-showcase)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 19:14:33+00:00
+
+<figure>
+      <img alt="Screenshot from Overwatch 2 featuring behind-the-back shots of the game’s most popular heroes" src="https://cdn.vox-cdn.com/thumbor/zjZsHv4bTvwt0mDQ_NxDzBPMM_A=/203x0:1559x904/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360701/Screen_Shot_2023_06_11_at_3.11.38_PM.0.png" />
+        <figcaption>Blizzard / Xbox</figcaption>
+    </figure>
+
+  <p id="Y1Af5a"><em>Overwatch 2: Invasion</em> will finally kickstart <em>Overwatch 2</em>’s story. Revealed during the Xbox showcase, <em>Overwatch 2</em>’s story missions are finally here — if “here” actually means August 10th. Last month, game director Aaron Keller revealed that  <em>Overwatch 2</em>’s long-hoped-for <a href="https://www.polygon.com/2019/11/27/20986279/overwatch-2-story-missions-pve-pvp-canon-pc-xbox-one-ps4-nintendo-switch">story mode</a> was <a href="https://www.theverge.com/2023/5/16/23725808/overwatch-2-hero-mode-canceled-2023-roadmap">being cancelled</a>, citing <a href="https://www.theverge.com/2023/5/19/23730369/overwatch-2-pve-hero-mode-cancellation">an ambitious but ultimately unfeasible development process</a>. However, Keller said that the game’s story missions would still be coming, giving players a chance to see what’s going on with <em>Overwatch</em>’s beloved characters.</p>
+<p id="vSvXab">Story missions aren’t new to <em>Overwatch</em>. The game got its first story mission back in 2017, and it was a prequel of sorts, highlighting the events that would eventually led to the disbanding of the Overwatch...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757215/overwatch-2-story-missions-new-hero-xbox-showcase">Continue reading&hellip;</a>
+  </p>
+
+## The biggest announcements from the Xbox Games Showcase 2023 and Starfield Direct
+ - [https://www.theverge.com/2023/6/11/23757079/xbox-games-showcase-2023-starfield-direct-biggest-announcements](https://www.theverge.com/2023/6/11/23757079/xbox-games-showcase-2023-starfield-direct-biggest-announcements)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 19:09:56+00:00
+
+<figure>
+      <img alt="An illustration of the Xbox logo." src="https://cdn.vox-cdn.com/thumbor/_oxkszOeWxRC9-4a5fuIqf4bBTk=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360699/acastro_STK048_04.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="slr5TW">Microsoft just wrapped up its annual summer showcase for Xbox games, and it was a big one. Not only did Microsoft share tons of information about new titles coming to Xbox, but the company also showed a long look at <em>Starfield</em>, Bethesda’s long-awaited sci-fi RPG. </p>
+<p id="hUJ5CT">Here’s the biggest announcements from the show.</p>
+<h3 id="9zNlsS"><a href="https://www.theverge.com/23755072/starfield-trailer-gameplay-xbox-games-showcase-2023">A Starfield trailer and special Direct revealed an incredible amount about the upcoming sci-fi RPG</a></h3>
+<div id="wp2qhM"><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div>
+<p id="ag4CNv">We got a lot of new info about <em>Starfield</em> during Sunday’s event. First, there was a <a href="https://www.youtube.com/watch?v=6jiDouxPU4s">sweeping new trailer</a> promising grand adventures among the stars and with some footage of how the game will actually play. Then, during <a href="https://youtu.be/uMOPoAq5vIA">the 45-minute <em>Starfield</em> Direct</a>, the development team went into detail about things like character creation,...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757079/xbox-games-showcase-2023-starfield-direct-biggest-announcements">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft’s new Starfield Xbox controller and headset are available now
+ - [https://www.theverge.com/2023/6/11/23754316/starfield-xbox-controller-headset-release-date-price-microsoft](https://www.theverge.com/2023/6/11/23754316/starfield-xbox-controller-headset-release-date-price-microsoft)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 19:08:43+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/8YCpxgBVm7tcIEWxTQZtCKo44gE=/123x0:1463x893/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360694/ZB7aWqn.0.png" />
+        <figcaption><em>The new Starfield Xbox controller.</em> | Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="dEiAsv">After weeks of leaks Microsoft is making its <em>Starfield</em> Xbox controller and headset official today. The Starfield-branded Xbox controller is the latest in a long line of special edition controllers that Microsoft has created since the launch of its Xbox Series X / S consoles in 2020.</p>
+<p id="FFCg34">Priced at $79.99, the <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.xbox.com%2Fen-US%2Faccessories%2Fcontrollers%2Fstarfield-limited-edition&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2023%2F6%2F11%2F23754316%2Fstarfield-xbox-controller-headset-release-date-price-microsoft" rel="sponsored nofollow noopener" target="_blank">Starfield-branded controller</a> will be available to purchase today and includes a design inspired by elements in <em>Starfield</em>. The controller has accents of grey and gold to match the <em>Starfield </em>branding and textured hand grips.</p>
+  <figure class="e-image">
+        
+      <cite>Image: Microsoft</cite>
+      <figcaption><em>The Starfield wireless Xbox headset.</em></figcaption>
+  </figure>
+<p id="wrQMVN">The <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.xbox.com%2Fen-US%2Faccessories%2Fheadsets%2Fstarfield-limited-edition&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2023%2F6%2F11%2F23754316%2Fstarfield-xbox-controller-headset-release-date-price-microsoft" rel="sponsored nofollow noopener" target="_blank">Starfield-branded headset</a>, priced at $124.99, will also launch today. The wireless headset is based on Microsoft’s existing...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23754316/starfield-xbox-controller-headset-release-date-price-microsoft">Continue reading&hellip;</a>
+  </p>
+
+## Like A Dragon sequel trailer shows off Ichiban’s best assets
+ - [https://www.theverge.com/23757138/like-a-dragon-sequel-trailer-xbox-showcase](https://www.theverge.com/23757138/like-a-dragon-sequel-trailer-xbox-showcase)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 18:33:20+00:00
+
+<figure>
+      <img alt="Screenshot from Like A Dragon: Infinite Wealth" src="https://cdn.vox-cdn.com/thumbor/l07JIBJSEwRaLSMbZgtg0JPaYZw=/134x0:1628x996/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360617/Screen_Shot_2023_06_11_at_2.27.22_PM.0.png" />
+        <figcaption>Ryu Ga Gotoku Studio / Sega</figcaption>
+    </figure>
+
+  <p id="9BBbQd"><a href="https://www.theverge.com/21558093/yakuza-like-a-dragon-review-xbox-series-x">Ichiban</a> is back and still number one! During the Xbox showcase, the developers at Ryu Ga Gotoku Studio teased the next part in the <em>Yakuza: Like a Dragon</em> saga— <em>Like a Dragon: Infinite Wealth.</em></p>
+<p id="kmrffq">In the trailer, Ichiban, the floofy-haired protagonist of <em>Like a Dragon</em>, has washed up on a beach butt-ass-naked. As he comes to consciousness, English-speakers react to his nudity (somewhat <em>enthusiastically</em> if you know what I mean) before Ichiban realizes he’s not in Japan anymore. </p>
+<p id="eL4Cp6">Earlier this week, during Summer Game Fest, Ryu Ga Gotoku Studio gave us a look at another installment in the <em>Yakuza</em> series — <a href="https://www.theverge.com/2022/9/14/23352795/yakuza-8-like-a-dragon-8-judgment-sega-ryu-ga-gotoku-studio"><em>Like a Dragon Gaiden: The Man Who Erased His Name</em></a>. In that absurdly-long named game, we catch up with long-time <em>Yakuza</em> protagonist Kazuma Kiryu...</p>
+  <p>
+    <a href="https://www.theverge.com/23757138/like-a-dragon-sequel-trailer-xbox-showcase">Continue reading&hellip;</a>
+  </p>
+
+## Clockwork Revolution is a new steampunk RPG from Microsoft’s inXile
+ - [https://www.theverge.com/2023/6/11/23757176/clockwork-revolution-microsoft-inxile-xbox-games-showcase-trailer](https://www.theverge.com/2023/6/11/23757176/clockwork-revolution-microsoft-inxile-xbox-games-showcase-trailer)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 18:18:31+00:00
+
+<figure>
+      <img alt="A screenshot from Clockwork Revolution." src="https://cdn.vox-cdn.com/thumbor/f8w7DaUG9oeEXL3GxfQznaOLTvI=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360604/ClockworkRevolution_Screenshot_0.0.jpg" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="WZh6RZ">At its Xbox Games Showcase on Sunday, Microsoft debuted a trailer for a new steampunk RPG from its inXile Entertainment studio, titled <em>Clockwork Revolution</em>.</p>
+<p id="TF9eJp">Here’s a short description of the game, <a href="https://youtu.be/DDFuhaYxeMU">from the reveal trailer’s description</a>:</p>
+<blockquote><p id="r9BDvy"><em>Clockwork Revolution</em> is a time-bending steampunk first-person RPG. After stumbling across an incredible invention that allows you to travel into the past, you discover the city you call home—the vibrant steam-powered metropolis of Avalon—has been carefully crafted through the alteration of historical events. By traveling back to key moments, your interactions and choices will have a butterfly effect on the deep, narrative-driven world and characters of Avalon, causing them to change and react in...</p></blockquote>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757176/clockwork-revolution-microsoft-inxile-xbox-games-showcase-trailer">Continue reading&hellip;</a>
+  </p>
+
+## Persona has two new games coming to Xbox
+ - [https://www.theverge.com/23757131/persona-3-remake-persona-5-tactics-trailer-xbox-showcase](https://www.theverge.com/23757131/persona-3-remake-persona-5-tactics-trailer-xbox-showcase)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 18:09:17+00:00
+
+<figure>
+      <img alt="Screenshot from Persona 3 Reload" src="https://cdn.vox-cdn.com/thumbor/f_SnudcdQFm2yHsHuxxj18cZZ5o=/220x0:1543x882/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360581/Screen_Shot_2023_06_11_at_2.06.57_PM.0.png" />
+        <figcaption>Atlus / Xbox</figcaption>
+    </figure>
+
+  <p id="1sgOlX">Xbox and Atlus have one helluva partnership going on. Last year Xbox announced that <em>Persona 5 Royal</em>, <em>Persona 4 Golden</em> and <em>Persona 3 Portable</em> <a href="https://www.theverge.com/2022/6/12/23164864/xbox-persona-5-royal-4-golden-3-portable">were coming to Xbox Game Pass</a>. Now, we’re also two more <em>Persona</em> games and a brand new Atlus RPG.</p>
+<div id="TgVWlx"><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div>
+<p id="YaKrJX"><em>Persona 3 Reload</em> is a remake of the original <em>Persona 3</em>. <em>The Verge</em>’s entertainment editor Andrew Webster wrote a <a href="https://www.theverge.com/23553499/persona-p3-p4-review-switch-ps4-xbox">great breakdown of <em>Persona 3</em></a>, a game that was released on the PlayStation 2 back in 2006 and therefore might not be well-known to wealth of people who came to the series with <em>Persona 5</em>. (It’s me, I’m wealth of people.)</p>
+<div id="dBwCqv"><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div>
+<p id="Rj54ZO"><em>Persona 5 Tactica</em>, is exactly what its name implies, <em>Persona 5</em> remixed from an RPG to a tactics game. The game feels like another dose of the beloved <em>Persona 5 </em>characters meant...</p>
+  <p>
+    <a href="https://www.theverge.com/23757131/persona-3-remake-persona-5-tactics-trailer-xbox-showcase">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft announces black Xbox Series S with 1TB of storage for $349
+ - [https://www.theverge.com/2023/6/11/23757097/microsoft-xbox-series-s-black-1b-storage](https://www.theverge.com/2023/6/11/23757097/microsoft-xbox-series-s-black-1b-storage)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 18:06:16+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/t3xed5PMgLIEsXY9DVY2xYCUYOk=/116x0:1310x796/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360579/Cuuix2f.0.png" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="w0SNDq">Microsoft has just announced a new black version of the Xbox Series S with 1TB of built-in storage at the Xbox Games Showcase. Little has changed here since the original Xbox Series S, apart from a black paint job and more storage inside. Microsoft is launching the 1TB black Xbox Series S on September 1st priced at $349, and pre-orders start today.</p>
+<p id="8sBN9h">The carbon black Xbox Series S was announced on stage by Xbox chief Phil Spencer, who also mentioned that the company has also increased its shipments of Xbox Series X to meet demand. </p>
+  <figure class="e-image">
+        
+      <cite>Image: Microsoft</cite>
+      <figcaption><em>The black Xbox Series S.</em></figcaption>
+  </figure>
+<p id="lTKKyX">The Xbox Series S originally launched at $299 with just 512GB of storage, so this bump to 1TB is very welcome. It comes just days after <a href="https://www.theverge.com/2023/6/6/23750797/western-digital-xbox-storage-expansion-card-price-release-date">W...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757097/microsoft-xbox-series-s-black-1b-storage">Continue reading&hellip;</a>
+  </p>
+
+## Cyberpunk 2077: Phantom Liberty’s action-packed new trailer also includes a release date
+ - [https://www.theverge.com/23751901/cyberpunk-2077-phantom-liberty-trailer-expansion-dlc-xbox-games-showcase-release-date](https://www.theverge.com/23751901/cyberpunk-2077-phantom-liberty-trailer-expansion-dlc-xbox-games-showcase-release-date)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 17:57:03+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/sCe4t3wrjjnc_s15ZPZ7LHvs02Y=/256x0:1858x1068/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360559/Cyberpunk_2077__Phantom_Liberty___Official_Teaser__2_____Cyberpunk_2077__Phantom_Liberty___Official_Teaser__2_2023_6_6_175955.864_1440p_streamshot.0.png" />
+    </figure>
+
+  <p id="mxT1t9">CD Projekt Red (CDPR) shared new details about <em>Cyberpunk 2077: Phantom Liberty</em>, the forthcoming expansion to CDPR’s sci-fi hit, at Microsoft’s Xbox Games Showcase on Sunday.</p>
+<p id="J3ZUGE">In <a href="https://www.youtube.com/watch?v=0vO3yJGATP4">a new trailer</a>, CDPR showed that the expansion will bring players to Dogtown, a new location in Night City, to rescue the president of the New United States. CDPR revealed a new look at Idris Elba’s new character — and don’t worry, Keanu Reeves is back for the expansion. It’s set to release on September 26th, according to the trailer.</p>
+<p id="0kje96">In December, CDPR announced that <a href="https://www.theverge.com/2022/12/8/23501090/cyberpunk-2077-phantom-liberty-idris-elba-solomon-reed-cast">Idris Elba would be joining the cast of the game</a> for the expansion. He plays a new character named Solomon Reed. The DLC is set in a new area of Night City, and CDPR is describing <em>Phantom Liberty</em> as a...</p>
+  <p>
+    <a href="https://www.theverge.com/23751901/cyberpunk-2077-phantom-liberty-trailer-expansion-dlc-xbox-games-showcase-release-date">Continue reading&hellip;</a>
+  </p>
+
+## Forza Motorsport has a fall release date
+ - [https://www.theverge.com/23757064/forza-motorsport-release-date-xbox-games-showcase](https://www.theverge.com/23757064/forza-motorsport-release-date-xbox-games-showcase)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 17:46:52+00:00
+
+<figure>
+      <img alt="Screenshot from Forza Motorsport " src="https://cdn.vox-cdn.com/thumbor/Ly-cPGn-RS99Gd9rWFJlHftYNtE=/78x0:923x563/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360545/large_Forza_Motorsport_Xbox_Developer_Direct_Showcase2023_Press_Kit_05_16x9_d28f168f56.0.png" />
+        <figcaption>Turn 10 Studios / Xbox</figcaption>
+    </figure>
+
+  <p id="47WB9w"><em>Forza Motorsport</em> was teased <a href="https://www.theverge.com/21332876/forza-motorsport-xbox-series-x-trailer-4k-60fps-ray-tracing">back in 2020</a> and again <a href="https://www.theverge.com/2023/1/25/23569788/forza-motorsport-xbox-series-x-trailer-2023">earlier this year</a>, and now, during the Xbox Games Showcase, the racing sim finally has a release date. <em>Forza Motorsport</em> is heading to Xbox and PC on October 10th.</p>
+<p id="1Na2rP">The <em>Forza</em> trailer highlighted the game’s partnership with General Motors. The Cadillac V series R and the Corvette E-Ray — two slick-looking cars — will be a part of the roster of cars that’ll be available when <em>Forza Motorsport</em> releases on October 10th.</p>
+<p id="arJHl8"><em>Forza Motorsport</em> is the serious counterpart to the more <a href="https://www.theverge.com/22769985/forza-horizon-5-review">whimsical and colorful <em>Forza Horizon</em></a> series. Back in April, the developers at Turn 10 Studios featured one of <em>Forza Motorsport</em>’s new accessibility features, <a href="https://www.theverge.com/2023/4/27/23699143/forza-motorsport-blind-driving-assists-audio-cues-accessibility">blind driving assist</a>, that will help blind and low vision players...</p>
+  <p>
+    <a href="https://www.theverge.com/23757064/forza-motorsport-release-date-xbox-games-showcase">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft releases a new trailer for Senua’s Saga: Hellblade II
+ - [https://www.theverge.com/23752411/senuas-saga-hellblade-2-trailer-xbox-games-showcase](https://www.theverge.com/23752411/senuas-saga-hellblade-2-trailer-xbox-games-showcase)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 17:36:12+00:00
+
+<figure>
+      <img alt="A screenshot from Senua’s Saga: Hellblade II." src="https://cdn.vox-cdn.com/thumbor/08VVjrbyU4fN7LsjXCfOdGFKgmc=/106x0:1245x759/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360526/de96a24e_cb77_42c7_b28a_334d1f51b299.0.jpg" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="CfFed5">Microsoft revealed <a href="https://www.youtube.com/watch?v=nRqLDCBxW04">a new trailer</a> about Ninja Theory’s <em>Senua’s Saga: Hellblade II</em> at its Xbox Games Showcase on Sunday. The trailer, which was captured on an Xbox Series X, looks and sounds amazing — you really should wear headphones while watching the trailer to get the full experience. Microsoft also shared a release window for the game: 2024.</p>
+<p id="yT223W">We’ve been waiting for <em>Hellblade II</em> for quite awhile. The game was first announced in December 2019 with a <a href="https://www.youtube.com/watch?v=qJWI4bkD9ZM">unsettling trailer with incredible graphics</a> — an impressive feat given that the trailer was captured entirely in-engine. Microsoft shared a gameplay reveal trailer in December 2021, and it <em>also</em> had <a href="https://www.youtube.com/watch?v=fukYzbthEVU">outstanding visuals</a>, and I can’t wait to play the game for myself to see how the graphics hold...</p>
+  <p>
+    <a href="https://www.theverge.com/23752411/senuas-saga-hellblade-2-trailer-xbox-games-showcase">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft Flight Simulator 2024 has hot air balloons, skydive aviation, and much more
+ - [https://www.theverge.com/2023/6/11/23757130/microsoft-flight-simulator-2024-features](https://www.theverge.com/2023/6/11/23757130/microsoft-flight-simulator-2024-features)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 17:30:39+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/vpGLexumK4o8gu5NyRyduzQWw98=/101x0:1151x700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360523/6jxAmfm.0.png" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="Fn6hfN"><em>Microsoft Flight Simulator 2024</em> is arriving next year with some massive updates to the aircraft you’ll be able to pick and play with. A new trailer show during the Xbox Games Showcase includes hot air balloon trips, skydive aviation, aerial firefighting, and much more.</p>
+<p id="JOCRnR">It looks like <em>Microsoft Flight Simulator 2024</em> developer Asobo will give pilots every aircraft they’ve dreamt of. You can fly an air ambulance, be part of a mountain rescue team, or act as search and rescue. </p>
+<p id="qE8XkI">There’s even the ability to pilot helicopters for cargo transport, industrial cargo planes, and remote cargo operations. Asobo also showed off VIP charter services, skydive aviation, air racing, and hot air balloon trips.</p>
+<p id="AMQuWW">The existing version of <em>Microsoft Flight...</em></p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757130/microsoft-flight-simulator-2024-features">Continue reading&hellip;</a>
+  </p>
+
+## Avowed gets a new trailer and a release window
+ - [https://www.theverge.com/2023/6/11/23757133/avowed-xbox-games-showcase-trailer-release-window](https://www.theverge.com/2023/6/11/23757133/avowed-xbox-games-showcase-trailer-release-window)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 17:28:51+00:00
+
+<figure>
+      <img alt="A screenshot from Avowed." src="https://cdn.vox-cdn.com/thumbor/yn5GP2gYwAoF6QVJYNUCbijdUik=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360513/Avowed_Xaurips_d4e7caf857c2ab6a7.0.jpg" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="wNXagi">Microsoft released <a href="https://youtu.be/ULsF7B6bFuU">a new trailer for <em>Avowed</em></a>, its upcoming first-person RPG from Obsidian. </p>
+<p id="G7CVPG">“First-person combat has been a huge focus for us,” Obsidian studio head Feargus Urquhart said <a href="https://news.xbox.com/en-us/2023/06/11/obsidians-avowed-is-coming-in-2024/">in an Xbox blog post</a>. “We’ve incorporated a host of ways for players to fight the flora and fauna of the Living Lands. You will have swords, shields, pistols, magical spells, and more at your disposal, including the ability to dual wield, creating a vast number of combinations to choose from.” Avowed takes place in the same universe as the <em>Pillars of Eternity</em> games.</p>
+<p id="eRAWbs">The company first announced the game <a href="https://www.theverge.com/21333050/obsidian-avowed-xbox-series-x-game-trailer-release-date">in 2020</a>, but thanks to the trailer, we now at least have a release window for when you’ll be able to play it: 2024. The game will be coming to Xbox Series...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757133/avowed-xbox-games-showcase-trailer-release-window">Continue reading&hellip;</a>
+  </p>
+
+## Here’s a first look at the new Fable
+ - [https://www.theverge.com/2023/6/11/23757089/fable-trailer-xbox-showcase-summer-game-fest](https://www.theverge.com/2023/6/11/23757089/fable-trailer-xbox-showcase-summer-game-fest)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-06-11 17:19:45+00:00
+
+<figure>
+      <img alt="Screenshot from Fable trailer featuring a giant with brown skin and glasses standing eye-to-eye with a human female adventurere" src="https://cdn.vox-cdn.com/thumbor/V8GhEvhAe3hr3qRI1_F1IGJHZKM=/131x0:1631x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72360497/Screen_Shot_2023_06_11_at_1.16.12_PM.0.png" />
+        <figcaption>Xbox / Playground Games</figcaption>
+    </figure>
+
+  <p id="lMZdYM">The latest <a href="https://www.theverge.com/2020/7/23/21335535/fable-xbox-series-x-pc-windows-10-trailer-game-pass-rpg"><em>Fable</em></a> game finally has a real trailer, sorta.</p>
+<div id="lcZMPs"><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div>
+<p id="aRNbOV">The trailer featured a tongue-in-cheek interview with a guy who simply wants to grow his vegetables in a fantastical world before it’s revealed that he’s actually the giant from the Jack and the Beanstalk fairy tale. He talks of a fantasy world filled with heroes and monsters before he’s interrupted by an adventurer he has to smash. The trailer didn’t really show off any gameplay, but it did note that everything we saw was in-game footage so it looks pretty slick.</p>
+<p id="Fwiqjh">It’s been 13 years since <em>Fable III, </em><a href="https://www.polygon.com/2014/2/25/5445978/molyneux-fable-3-was-a-trainwreck">the last mainline entry in the <em>Fable</em> series</a>, was released on the, <strong>pained, sharp inhale of a person recognizing the slow yet ruinous march of time</strong> Xbox 360<em>. </em></p>
+<p id="JUXNLu">Though the game should...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/6/11/23757089/fable-trailer-xbox-showcase-summer-game-fest">Continue reading&hellip;</a>
+  </p>
+
