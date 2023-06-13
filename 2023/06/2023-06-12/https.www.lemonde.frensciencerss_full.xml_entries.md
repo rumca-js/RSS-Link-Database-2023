@@ -1,0 +1,9 @@
+# Source:Le Monde - science, URL:https://www.lemonde.fr/en/science/rss_full.xml, language:en-US
+
+## In Brittany, at least 38 menhirs were destroyed to build a hardware store
+ - [https://www.lemonde.fr/en/france/article/2023/06/12/france-in-carnac-at-least-38-menhirs-destroyed-to-build-a-hardware-store_6030917_7.html](https://www.lemonde.fr/en/france/article/2023/06/12/france-in-carnac-at-least-38-menhirs-destroyed-to-build-a-hardware-store_6030917_7.html)
+ - RSS feed: https://www.lemonde.fr/en/science/rss_full.xml
+ - date published: 2023-06-12 01:46:46+00:00
+
+This alignment of standing stones in northwestern France dates back at least 7,000 years. A heritage organization has filed a complaint.
+
