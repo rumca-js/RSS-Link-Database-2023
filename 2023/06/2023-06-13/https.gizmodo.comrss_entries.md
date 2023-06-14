@@ -1,0 +1,282 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## The Mario Movie's Cast and Crew Talk Bringing the Mushroom Kingdom to Life
+ - [https://gizmodo.com/the-mario-movies-cast-and-crew-talk-bringing-the-mushr-1850529265](https://gizmodo.com/the-mario-movies-cast-and-crew-talk-bringing-the-mushr-1850529265)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 23:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2mNIJnOn--/c_fit,fl_progressive,q_80,w_636/cf4b683d69b93a3f419c3523da794c2f.jpg" /><p><a href="https://gizmodo.com/the-mario-movies-cast-and-crew-talk-bringing-the-mushr-1850529265">Read more...</a></p>
+
+## Amazon Web Services Meltdown Temporarily Breaks the Internet
+ - [https://gizmodo.com/aws-amazon-outage-associated-press-mcdonalds-1850536296](https://gizmodo.com/aws-amazon-outage-associated-press-mcdonalds-1850536296)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 22:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--U4BvWet7--/c_fit,fl_progressive,q_80,w_636/0fb84e9a89c076473cdd39ab1b94fb35.jpg" /><p>Amazon Web Services, the ubiquitous <a href="https://gizmodo.com/amazon-the-official-cloud-server-of-the-us-government-5831973">cloud computing</a> provider that is responsible for supporting <a href="https://www.forbes.com/sites/danrunkevicius/2020/09/03/how-amazon-quietly-powers-the-internet/?sh=706084be3092" rel="noopener noreferrer" target="_blank">large portions of the internet</a>, endured a pretty bad meltdown today. For obvious reasons, that was bad news for the droves of websites and companies  that rely on it to keep things running smoothly.</p><p><a href="https://gizmodo.com/aws-amazon-outage-associated-press-mcdonalds-1850536296">Read more...</a></p>
+
+## Harrison Ford Says Punch Nazis, Just Like Indy Would
+ - [https://gizmodo.com/indiana-jones-punching-nazis-harrison-ford-dial-destiny-1850536326](https://gizmodo.com/indiana-jones-punching-nazis-harrison-ford-dial-destiny-1850536326)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 22:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--wyl43mHN--/c_fit,fl_progressive,q_80,w_636/e95465542c0672d7366fb7c701506907.jpg" /><p>In the realm of fictional characters who are well-known for punching Nazis, <a href="https://gizmodo.com/indiana-jones-dial-of-destiny-characters-harrison-ford-1850487779">Indiana Jones has to be at the top</a> of the list. So one might wonder what Indiana Jones himself, <a href="https://gizmodo.com/harrison-ford-marvel-captain-america-4-thunderbolts-mcu-1849667595">Harrison Ford,</a> has to say about that.</p><p><a href="https://gizmodo.com/indiana-jones-punching-nazis-harrison-ford-dial-destiny-1850536326">Read more...</a></p>
+
+## Glow-Worms Can’t Find Their Spark Under Harsh Light Pollution
+ - [https://gizmodo.com/why-light-pollution-threatens-existence-of-glow-worms-1850535153](https://gizmodo.com/why-light-pollution-threatens-existence-of-glow-worms-1850535153)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vkBkQQIG--/c_fit,fl_progressive,q_80,w_636/4af93cb756177730357c3b30b89830a1.jpg" /><p>Nights on Earth are getting brighter with <a href="https://gizmodo.com/light-pollution-getting-worse-astronomy-dark-skies-1850008032">the spread of human light pollution</a>, reducing humankind’s visibility of the cosmos. But the brightening night is also messing with glow-worms, spunky insects that rely on their luminous abdomens to procreate.</p><p><a href="https://gizmodo.com/why-light-pollution-threatens-existence-of-glow-worms-1850535153">Read more...</a></p>
+
+## Thank God, Star Wars Outlaws Isn't Set During the Rise of the Empire
+ - [https://gizmodo.com/star-wars-outlaws-setting-timeline-ubisoft-1850535922](https://gizmodo.com/star-wars-outlaws-setting-timeline-ubisoft-1850535922)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 21:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--zFNK6ic8--/c_fit,fl_progressive,q_80,w_636/2fce3011349ddcb6895c25bfd9becb32.png" /><p>Of all the surprising things we’ve learned about <a href="https://gizmodo.com/star-wars-outlaws-game-ubisoft-reveal-1850527554"><em>Star Wars Outlaws</em></a> in the days since its reveal—its focus on the galaxy far, far away’s underworld elements; <a href="https://gizmodo.com/new-star-wars-game-outlaws-ubisoft-empire-jedi-ps5-xbox-1850529635">its open-world gameplay</a>; its intriguing protagonist Kay Vess—one of the most pleasant is a simple chronological shift that presents so much potential.<br /></p><p><a href="https://gizmodo.com/star-wars-outlaws-setting-timeline-ubisoft-1850535922">Read more...</a></p>
+
+## After 70 Years of Independence, Moog Sells Out
+ - [https://gizmodo.com/moog-acquired-by-corporate-inmusic-1850535633](https://gizmodo.com/moog-acquired-by-corporate-inmusic-1850535633)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 21:41:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--oBkAWkFh--/c_fit,fl_progressive,q_80,w_636/6e3b0a1de898e0f361e8d53b8a3d3cf1.jpg" /><p>Keeping tabs on U.S. business news often feels like watching an endless stream of ever-larger Pac-Man (Pac-Men?) gobble each other up. Through mergers and buyouts, the companies get bigger and the number of companies gets smaller. Yet a handful manages to avoid the proverbial noise. For seven decades, Moog Music, the…</p><p><a href="https://gizmodo.com/moog-acquired-by-corporate-inmusic-1850535633">Read more...</a></p>
+
+## Google Delays Bard AI Launch in the EU Over Privacy Concerns
+ - [https://gizmodo.com/google-bard-ai-delays-eu-launch-privacy-1850535676](https://gizmodo.com/google-bard-ai-delays-eu-launch-privacy-1850535676)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 21:31:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Qj0Pgdj4--/c_fit,fl_progressive,q_80,w_636/fa22938b2ea34130adec20c8e2d3fad1.jpg" /><p><a href="https://gizmodo.com/tech/google">Google</a> has delayed the release of its <a href="https://gizmodo.com/google-bard-chatgpt-ai-rival-released-1850248162">Bard chatbot</a> in the European Union, according to Irish regulators concerned the AI doesn’t adhere to the <a href="https://gizmodo.com/how-your-favorite-tech-blog-is-grappling-with-europes-n-1826308000">European Union’s data protection laws</a>. Google announced it was releasing its Bard chatbot only last week, giving the EU little time to discuss what steps the tech giant took to…</p><p><a href="https://gizmodo.com/google-bard-ai-delays-eu-launch-privacy-1850535676">Read more...</a></p>
+
+## The CIA Warned Ukraine Not to Blow Up the Nord Stream Pipeline: Report
+ - [https://gizmodo.com/cia-ukraine-nord-stream-pipeline-warned-not-to-blow-up-1850534789](https://gizmodo.com/cia-ukraine-nord-stream-pipeline-warned-not-to-blow-up-1850534789)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 21:04:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--bQaLV7nj--/c_fit,fl_progressive,q_80,w_636/c161120b563047dd3d645de4ebf54a6e.jpg" /><p>After learning of <a href="https://gizmodo.com/discord-leaks-ukraine-nord-stream-pipeline-plot-biden-1850510368">a plot</a> by the Ukrainian military to blow up the Nord Stream pipeline last summer, the CIA warned the embattled nation’s government not to move ahead with its plans, according to <a href="https://www.wsj.com/articles/u-s-warned-ukraine-not-to-attack-nord-stream-7777939b?mod=e2twp" rel="noopener noreferrer" target="_blank">new reporting</a> from the Wall Street Journal. </p><p><a href="https://gizmodo.com/cia-ukraine-nord-stream-pipeline-warned-not-to-blow-up-1850534789">Read more...</a></p>
+
+## The Gaming Shelf Travels With The Last Caravan
+ - [https://gizmodo.com/gaming-shelf-the-last-caravan-kiwi-rpg-week-kickstarter-1850530666](https://gizmodo.com/gaming-shelf-the-last-caravan-kiwi-rpg-week-kickstarter-1850530666)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--66wp1Wwj--/c_fit,fl_progressive,q_80,w_636/451fa845877317cb8dd4f497073f1e57.png" /><p><a href="https://gizmodo.com/ai-video-game-voice-actors-fear-voice123-writers-strike-1850466949">Games</a> have always been used to build community, with current examples like the <a href="https://itch.io/b/1880/anti-imperialist-bundle" rel="noopener noreferrer" target="_blank">Anti-Imperialist Bundle</a> (supporting a local chapter of the MTST Solidarity Kitchen in Brazil) and the <a href="https://itch.io/b/1812/queer-games-bundle-2023" rel="noopener noreferrer" target="_blank">Queer Games Bundle</a>, which directly benefits queer game designers. We are also in the middle of the second annual <a href="https://gizmodo.com/kiwi-week-rpg-game-jam-interview-1848868057">KiwiRPG week</a>! </p><p><a href="https://gizmodo.com/gaming-shelf-the-last-caravan-kiwi-rpg-week-kickstarter-1850530666">Read more...</a></p>
+
+## Forget Boxes, Ikea’s Experimental Designers Created a Couch That Fits in an Envelope
+ - [https://gizmodo.com/ikea-couch-fits-into-envelope-ai-design-1850533663](https://gizmodo.com/ikea-couch-fits-into-envelope-ai-design-1850533663)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 20:55:02+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--wM57flcP--/c_fit,fl_progressive,q_80,w_636/7647962a8535962f1a61093cdb72b3db.jpg" /><p>Ikea has turned stuffing big things into small packages into an art form with its flat-packed, easy-to-transport furniture. But how far can the company take its <a href="https://designtaxi.com/news/423861/IKEA-s-Design-Lab-Has-Created-A-Flat-Pack-Couch-That-Can-Fit-In-An-Envelope/" rel="noopener noreferrer" target="_blank">obsession with deconstructing furniture</a>? How about a couch that can be <a href="https://space10.com/project/couch-in-an-envelope/" rel="noopener noreferrer" target="_blank">carried home from an Ikea store in an envelope</a>?</p><p><a href="https://gizmodo.com/ikea-couch-fits-into-envelope-ai-design-1850533663">Read more...</a></p>
+
+## Alabama Congressman Wants to Restrict Air Force Travel Funds as Battle Over Space Force HQ Heats Up
+ - [https://gizmodo.com/rogers-fights-for-space-force-alabama-threats-bill-1850534682](https://gizmodo.com/rogers-fights-for-space-force-alabama-threats-bill-1850534682)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 20:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7nU1ecfI--/c_fit,fl_progressive,q_80,w_636/dd43e17a8f26474e32fd218b24a35eb2.jpg" /><p>Alabama lawmakers are tightening the screws in the ongoing battle over the relocation of the Space Force headquarters, a move that the current U.S. administration is looking to reverse due to the state’s severe anti-abortion law.</p><p><a href="https://gizmodo.com/rogers-fights-for-space-force-alabama-threats-bill-1850534682">Read more...</a></p>
+
+## A Bambi Live-Action Movie Is in the Works to Make Us Relive Childhood Trauma
+ - [https://gizmodo.com/disney-bambi-live-action-oscar-winner-sarah-polley-1850535506](https://gizmodo.com/disney-bambi-live-action-oscar-winner-sarah-polley-1850535506)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8znGDy8u--/c_fit,fl_progressive,q_80,w_636/16d23fe1e0e7bf959262751c2b6e2177.png" /><p>It was only a matter of time before we got to see Bambi’s mom die in <a href="https://gizmodo.com/disney-live-action-the-little-mermaid-lion-king-pirates-1850505693">“live-action” glory</a>. </p><p><a href="https://gizmodo.com/disney-bambi-live-action-oscar-winner-sarah-polley-1850535506">Read more...</a></p>
+
+## The Summer of Smoke Is Just Getting Started
+ - [https://gizmodo.com/wildfire-smoke-canada-will-plague-u-s-through-summer-1850534525](https://gizmodo.com/wildfire-smoke-canada-will-plague-u-s-through-summer-1850534525)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 19:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9UkCy_fy--/c_fit,fl_progressive,q_80,w_636/ec0cc8302a3b2598a096498df5d2329d.jpg" /><p>Last week, <a href="https://gizmodo.com/health-expert-tips-for-dealing-with-wildfire-smoke-1850520976">hazardous air hung over much of the Eastern U.S.</a>—blanketing major <a href="https://gizmodo.com/nyc-air-quality-canadian-wildfire-smoke-photos-1850513750">cities like New York</a>, Boston, Chicago, Philadelphia, and Washington D.C. in a heavy haze of smoke. The Air Quality Index <a href="https://www.nytimes.com/interactive/2023/06/08/upshot/new-york-city-smoke.html" rel="noopener noreferrer" target="_blank">shot above 400</a> in some places (including NYC), well into the danger zone for human health. Thankfully, shifting air…</p><p><a href="https://gizmodo.com/wildfire-smoke-canada-will-plague-u-s-through-summer-1850534525">Read more...</a></p>
+
+## Man of Steel Showed Superman's (and DC's) Fragility for All to See
+ - [https://gizmodo.com/man-of-steel-superman-dc-snyder-10-year-anniversary-1850527969](https://gizmodo.com/man-of-steel-superman-dc-snyder-10-year-anniversary-1850527969)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 19:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--BtfrY59x--/c_fit,fl_progressive,q_80,w_636/6dc47df5d54348feaa133af36a6c3512.jpg" /><p>Few superheroes have had as tumultuous a media presence as <a href="https://gizmodo.com/dc-comics-superman-family-nycc-2022-1849636138">Superman</a>. Joel Shuster and Jerry Siegel’s 1938 creation grew in popularity outside of comics thanks to Christopher Reeve’s movies and the 1990s cartoon (and the subsequent <a href="https://gizmodo.com/why-justice-league-unlimited-was-and-still-is-the-bes-1742256265">DC Animated Universe</a> shows that spawned from it). During the 2000s, the character’s…</p><p><a href="https://gizmodo.com/man-of-steel-superman-dc-snyder-10-year-anniversary-1850527969">Read more...</a></p>
+
+## At Meta, Everything Old Is New Again
+ - [https://gizmodo.com/meta-adds-texts-to-horizon-music-to-instagram-away-1850535246](https://gizmodo.com/meta-adds-texts-to-horizon-music-to-instagram-away-1850535246)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--TIl98KJg--/c_fit,fl_progressive,q_80,w_636/45cd992fbda1ceabf130ff25312257fc.jpg" /><p>Meta is going back to basics. The company with some of the world’s top engineering talent in the world (though <a href="https://gizmodo.com/facebook-instagram-tech-layoffs-mark-zuckerberg-1850468885">staff numbers have taken a hit</a> as of late) and <a href="https://gizmodo.com/meta-q1-earnings-mark-zuckerberg-metaverse-ai-1850379274">tens of billions in quarterly revenue</a> has figured out that social features present since the long-defunct AIM and in some of the earliest multiplayer games could…</p><p><a href="https://gizmodo.com/meta-adds-texts-to-horizon-music-to-instagram-away-1850535246">Read more...</a></p>
+
+## In-Ear Device Aims to Help People With Long Covid Get Answers About Their Illness
+ - [https://gizmodo.com/stats-in-ear-device-aims-to-help-people-with-long-covid-1850533329](https://gizmodo.com/stats-in-ear-device-aims-to-help-people-with-long-covid-1850533329)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 19:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Jr3H6NVm--/c_fit,fl_progressive,q_80,w_636/1220e01dafe1103df9ccc144502d3397.jpg" /><p>STAT Health announced it has created a device that will monitor the root cause for people suffering from <a href="https://gizmodo.com/long-covid-symptoms-fade-within-a-year-study-1849976483">long Covid</a> and POTS (postural orthostatic tachycardia syndrome) symptoms. The device, called STAT, uses blood flow measurements to determine why an individual may be suffering from dizziness, fainting spells,…</p><p><a href="https://gizmodo.com/stats-in-ear-device-aims-to-help-people-with-long-covid-1850533329">Read more...</a></p>
+
+## Jack Dorsey Says Indian Officials Raided Twitter Employees' Homes
+ - [https://gizmodo.com/jack-dorsey-twitter-india-raided-employee-homes-elon-1850533328](https://gizmodo.com/jack-dorsey-twitter-india-raided-employee-homes-elon-1850533328)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 19:12:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--dzEcoobT--/c_fit,fl_progressive,q_80,w_636/1a6b5f91f33a2287c72c22d8c1d8f019.jpg" /><p>Twitter co-founder and <a href="https://gizmodo.com/jack-dorseys-ranked-1847108592">former CEO Jack Dorsey</a> says government officials in Turkey and India “made many requests” to remove posts or accounts tied to journalists and other dissident voices critical of the state during his leadership. Dorsey claimed the officials would demand Twitter provide targeted users’ contact…</p><p><a href="https://gizmodo.com/jack-dorsey-twitter-india-raided-employee-homes-elon-1850533328">Read more...</a></p>
+
+## Major New Study Finds Way to Significantly Expand Heart Donor Pool
+ - [https://gizmodo.com/duke-study-finds-way-to-expand-heart-donor-pool-1850534818](https://gizmodo.com/duke-study-finds-way-to-expand-heart-donor-pool-1850534818)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 18:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---32ZbIJM--/c_fit,fl_progressive,q_80,w_636/93d24cfe044582656d390cba027d0cc8.jpg" /><p>A transplant method pioneered by Duke University researchers and others is set to expand the availability of hearts from organ donors. In a major study published this month, the authors found that hearts obtained from deceased donors using this method were just as safe to use as those gathered traditionally. If widely…</p><p><a href="https://gizmodo.com/duke-study-finds-way-to-expand-heart-donor-pool-1850534818">Read more...</a></p>
+
+## McDonald's Serves Up a Brand New Game Boy Color Game in the Year 2023
+ - [https://gizmodo.com/mcdonald-nintendo-game-boy-color-game-grimace-birthday-1850534966](https://gizmodo.com/mcdonald-nintendo-game-boy-color-game-grimace-birthday-1850534966)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 18:43:59+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--bUtoiFQj--/c_fit,fl_progressive,q_80,w_636/b1bbcd0f9a4a7c01e85678510c9798aa.jpg" /><p>Although he started life as a villain in the McDonald’s cinematic universe, Grimace has come around and spent most of his 52 years as one of the fast food chain’s more endearing—yet confusing—mascots. To help celebrate his 52nd birthday, <a href="https://www.prnewswire.com/news-releases/youre-invited-mcdonalds-celebrates-grimaces-birthday-with-special-meal--shake-301842941.html" rel="noopener noreferrer" target="_blank">McDonald’s has commissioned</a> a <a href="https://retrododo.com/mcdonalds-grimaces-birthday/" rel="noopener noreferrer" target="_blank">brand new Game Boy Color game</a>—in 2023—starring the…</p><p><a href="https://gizmodo.com/mcdonald-nintendo-game-boy-color-game-grimace-birthday-1850534966">Read more...</a></p>
+
+## GitHub Survey Finds 92% of Programmers Are Using AI Tools
+ - [https://gizmodo.com/github-survey-92-percent-programmers-are-using-ai-tools-1850534570](https://gizmodo.com/github-survey-92-percent-programmers-are-using-ai-tools-1850534570)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 18:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--MEPF2qTn--/c_fit,fl_progressive,q_80,w_636/df5e720a446157192de1aa68fde5fd19.jpg" /><p>Is using computer code to debug computer code a little too on the nose? Not for programmers at large companies, apparently. A new survey from Microsoft’s GitHub says that out of 500 programmers surveyed, 92% reported using AI tools in their workflow.<br /></p><p><a href="https://gizmodo.com/github-survey-92-percent-programmers-are-using-ai-tools-1850534570">Read more...</a></p>
+
+## Strange New World's Melissa Navia Talks Flying the Enterprise | io9 Interview
+ - [https://gizmodo.com/strange-new-worlds-melissa-navia-talks-flying-the-1850533402](https://gizmodo.com/strange-new-worlds-melissa-navia-talks-flying-the-1850533402)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--65kpVh82--/c_fit,fl_progressive,q_80,w_636/6cd3dd6dd10bd70c36a9c213974edc74.jpg" /><p><a href="https://gizmodo.com/strange-new-worlds-melissa-navia-talks-flying-the-1850533402">Read more...</a></p>
+
+## Go Behind the Scenes on How the Mario Movie Made the Mushroom Kingdom
+ - [https://gizmodo.com/mario-movie-mushroom-kingdom-behind-the-scenes-clip-1850534726](https://gizmodo.com/mario-movie-mushroom-kingdom-behind-the-scenes-clip-1850534726)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 18:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RiTyYKxK--/c_fit,fl_progressive,q_80,w_636/e05ef7a95bd52a5913fbde6d056337ab.png" /><p><a href="https://gizmodo.com/super-mario-movie-review-nintendo-illumination-luigi-pe-1850285728">Say what you will</a> about the <em>Mario</em> movie, if there’s one thing it <a href="https://gizmodo.com/super-mario-bros-movie-billion-box-office-1850348413">unequivocally nailed</a> was an adoring ability to take the worlds of Nintendo’s most iconic character and craft them into a moviescape worth gawking at. Of all the <em>Mario</em> movie’s aesthetic accomplishments, it’s perhaps the Mushroom Kingdom that rightfully…</p><p><a href="https://gizmodo.com/mario-movie-mushroom-kingdom-behind-the-scenes-clip-1850534726">Read more...</a></p>
+
+## Feeling More Turbulence During Your Flights? Blame Climate Change.
+ - [https://gizmodo.com/climate-change-blame-increased-flight-turbulence-study-1850533082](https://gizmodo.com/climate-change-blame-increased-flight-turbulence-study-1850533082)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 17:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--7wa3QqXU--/c_fit,fl_progressive,q_80,w_636/9935d6cc7b38158dbe43b6fd177b8e52.jpg" /><p>If you’re a frequent flyer who has experienced increasingly shaky flights,  it’s not just your imagination. Turbulence has increased in the last few decades. </p><p><a href="https://gizmodo.com/climate-change-blame-increased-flight-turbulence-study-1850533082">Read more...</a></p>
+
+## Aliens Watch Humans for Fun in the First Trailer For This Unpredictable Sundance Drama
+ - [https://gizmodo.com/landscape-with-invisible-hand-trailer-tiffany-haddish-1850534197](https://gizmodo.com/landscape-with-invisible-hand-trailer-tiffany-haddish-1850534197)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--5WTHcqL6--/c_fit,fl_progressive,q_80,w_636/9f9ac401c8ce8972a2c66c7e225bc745.jpg" /><p>Even if we tell you what the <a href="https://gizmodo.com/landscape-with-invisible-hand-review-alien-invasion-fil-1850030310">new sci-fi film <em>Landscape With Invisible Hand</em></a> is about, you can’t quite grasp the full scope of it. Based on a novel by M.T. Anderson, it’s about a world where <a href="https://gizmodo.com/independence-day-has-aged-beautifully-after-25-years-1847190549">aliens have taken over Earth</a>. For fun, they watch humans broadcast their relationships <a href="https://gizmodo.com/tiktok-ban-tik-tok-ceo-cybersecurity-security-disaster-1850334082">on social media.</a></p><p><a href="https://gizmodo.com/landscape-with-invisible-hand-trailer-tiffany-haddish-1850534197">Read more...</a></p>
+
+## Pixar's Elio Teaser Promises an Adorable First-Contact Adventure
+ - [https://gizmodo.com/pixar-elio-trailer-animation-sci-fi-kid-aliens-disney-1850534306](https://gizmodo.com/pixar-elio-trailer-animation-sci-fi-kid-aliens-disney-1850534306)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 16:52:20+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nwVu6Kj2--/c_fit,fl_progressive,q_80,w_636/b003f5d9dc37d22bd4096cfe46f604b6.jpg" /><p>An unlikely hero rises when he’s beamed into a spaceship after being mistaken for Earth’s leader in Disney and <a href="https://gizmodo.com/disney-layoffs-pixar-toy-story-2-galyn-susman-1850503975">Pixar</a>’s animated adventure <em>Elio</em>.<br /></p><p><a href="https://gizmodo.com/pixar-elio-trailer-animation-sci-fi-kid-aliens-disney-1850534306">Read more...</a></p>
+
+## U.S. Intelligence Has Amassed 'Sensitive and Intimate' Data on 'Nearly Everyone'
+ - [https://gizmodo.com/u-s-intelligence-admits-it-hoards-data-on-americans-1850533428](https://gizmodo.com/u-s-intelligence-admits-it-hoards-data-on-americans-1850533428)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YBmLEZhd--/c_fit,fl_progressive,q_80,w_636/23834abb90c8ffd35f2584c95db453bb.jpg" /><p>When it comes to data privacy in our present, hyper-connected age, many of your worst fears and biggest anxieties are probably correct. Yes, smartphones and our manifold other devices collect an incredible array of information on our habits, choices, and movements at all times. Yes, all of this information is <a href="https://gizmodo.com/acxiom-ceo-chad-engelgau-data-broker-interview-privacy-1849977330">compiled…</a></p><p><a href="https://gizmodo.com/u-s-intelligence-admits-it-hoards-data-on-americans-1850533428">Read more...</a></p>
+
+## This Shape-Shifting Robot Could Help Astronauts Transport Objects on the Moon
+ - [https://gizmodo.com/shape-shift-robot-swarm-could-help-astronauts-in-space-1850530982](https://gizmodo.com/shape-shift-robot-swarm-could-help-astronauts-in-space-1850530982)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 15:45:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--oc81fciP--/c_fit,fl_progressive,q_80,w_636/557af8cb978c094cde3f5daf59a6a6db.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--dRdFPnqa--/c_fit,fl_progressive,q_80,w_636/557af8cb978c094cde3f5daf59a6a6db.mp4" type="video/mp4" /></video><p>Packing a full-sized robot for space travel could pose a bit of a challenge as rockets headed to the Moon, or maybe even Mars, might be a little cramped. The solution: a modular robot that can be assembled from smaller parts that come together to form a swarm of connected pieces, all sharing the same brain.</p><p><a href="https://gizmodo.com/shape-shift-robot-swarm-could-help-astronauts-in-space-1850530982">Read more...</a></p>
+
+## Disney Delays All Its Upcoming Star Wars and Avatar Movies
+ - [https://gizmodo.com/new-star-wars-movies-release-dates-delay-avatar-3-delay-1850533930](https://gizmodo.com/new-star-wars-movies-release-dates-delay-avatar-3-delay-1850533930)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 15:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SGXzHz1G--/c_fit,fl_progressive,q_80,w_636/b2d9beb50e4a200cd9ba21f3cc6a0139.jpg" /><p>Disney spent its Tuesday shaking up its movie release schedule in some very, very big ways. The biggest takeaway? That December 2025 Star Wars movie is no more. That’ll now be coming out in May of 2026 and a second Star Wars movie is coming out later that year in December.</p><p><a href="https://gizmodo.com/new-star-wars-movies-release-dates-delay-avatar-3-delay-1850533930">Read more...</a></p>
+
+## The Company That Bought a Chunk of Lord of the Rings Is Already Preparing to Gut Itself
+ - [https://gizmodo.com/embracer-group-layoffs-lord-of-the-rings-middle-earth-1850533839](https://gizmodo.com/embracer-group-layoffs-lord-of-the-rings-middle-earth-1850533839)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--rL9LMgV4--/c_fit,fl_progressive,q_80,w_636/93a6f65fa77dd45db26b67b0b51dc721.png" /><p>In a rare move absurd enough to make the <a href="https://gizmodo.com/lord-of-the-rings-rights-explained-amazon-warner-bros-1850157744">already arcane licensing ownership</a> of <em>The Lord of the Rings</em> somehow even more arcane, last year Swedish conglomerate Embracer Group, at the apex of a spree of acquisitions that hoovered up everything from game companies to <a href="https://gizmodo.com/dark-horse-comics-purchased-by-swedish-gaming-company-e-1848252252">comics publisher Dark Horse</a>, acquired one of the <a href="https://gizmodo.com/lord-of-the-rings-rights-explained-embracer-group-amazo-1849428959">key…</a></p><p><a href="https://gizmodo.com/embracer-group-layoffs-lord-of-the-rings-middle-earth-1850533839">Read more...</a></p>
+
+## Feeling the Pressure: Instant Pot's Parent Company Files for Bankruptcy
+ - [https://gizmodo.com/instant-pot-bankruptcy-pyrex-instant-brands-1850533325](https://gizmodo.com/instant-pot-bankruptcy-pyrex-instant-brands-1850533325)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YoNfwYKb--/c_fit,fl_progressive,q_80,w_636/103044197061334952340280e90e1234.jpg" /><p>Every twentysomething’s favorite appliance—the Instant Pot—is ready to blow. The gadget’s parent company, Instant Brands, filed for Chapter 11 Bankruptcy in Texas Monday.<br /></p><p><a href="https://gizmodo.com/instant-pot-bankruptcy-pyrex-instant-brands-1850533325">Read more...</a></p>
+
+## The CIA Is Begging Congress to Please Keep Spying on U.S. Citizens Legal
+ - [https://gizmodo.com/cia-congress-fisa-section-702-reauthorize-hearing-1850531373](https://gizmodo.com/cia-congress-fisa-section-702-reauthorize-hearing-1850531373)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 14:42:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cUaDBI45--/c_fit,fl_progressive,q_80,w_636/f624bce1284346f437e5e5c08c47a03d.jpg" /><p> High-level officials from the CIA, FBI, and NSA are testifying before the Senate Judiciary Committee today, asking Congress to continue allowing the agency to spy on the communications of US citizens. They are urging Congress to reauthorize Section 702 of the Foreign Intelligence Surveillance Act (FISA)—one of the…</p><p><a href="https://gizmodo.com/cia-congress-fisa-section-702-reauthorize-hearing-1850531373">Read more...</a></p>
+
+## There's Already Plans for Transformers: Rise of the Beasts 2
+ - [https://gizmodo.com/transformers-rise-of-the-beasts-2-gi-joe-maximals-1850529321](https://gizmodo.com/transformers-rise-of-the-beasts-2-gi-joe-maximals-1850529321)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Je_3PAkI--/c_fit,fl_progressive,q_80,w_636/cb171c2ed62b10b635f6f163babc22cf.png" /><p>Sophie Thatcher has already found her next thriller. Indy goes on the hunt in a new clip from <em>Dial of Destiny</em>. Plus, even more footage from <em>The Witcher</em> season 3 and Marvel’s <em>Secret Invasion</em>. To me, my Spoilers!<br /></p><p><a href="https://gizmodo.com/transformers-rise-of-the-beasts-2-gi-joe-maximals-1850529321">Read more...</a></p>
+
+## Capcom’s 40th Anniversary Website Lets You Play Street Fighter II in Your Browser
+ - [https://gizmodo.com/street-fighter-ii-capcom-40th-anniversary-site-1850533186](https://gizmodo.com/street-fighter-ii-capcom-40th-anniversary-site-1850533186)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 14:03:14+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--piGToRFu--/c_fit,fl_progressive,q_80,w_636/2f8afeec678931b430470007cf734051.jpg" /><p>If you were a devoted gamer in the ‘80s, somewhere burned in your brain is the Capcom splash screen, with its descending synth chime sound that welcomed you to classic games like <em>Street Fighter II</em> and <em>Mega Man—</em>games you can <a href="https://captown.capcom.com/en" rel="noopener noreferrer" target="_blank">now play for free in your browser</a> if you’re already <a href="https://nintendosoup.com/capcom-opens-capcom-town-40th-anniversary-website-includes-playable-retro-games/" rel="noopener noreferrer" target="_blank">looking for a distraction</a> from work.</p><p><a href="https://gizmodo.com/street-fighter-ii-capcom-40th-anniversary-site-1850533186">Read more...</a></p>
+
+## Foundation's Full Season 2 Trailer Promises Space Battles and Sci-Fi Smolder
+ - [https://gizmodo.com/foundation-s2-trailer-apple-tv-plus-asimov-lee-pace-1850531268](https://gizmodo.com/foundation-s2-trailer-apple-tv-plus-asimov-lee-pace-1850531268)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--NNecSfEj--/c_fit,fl_progressive,q_80,w_636/9f673c6fc3b95ac7ded1d27270f8d5dd.jpg" /><p>We got <a href="https://gizmodo.com/foundation-season-2-teaser-apple-tv-asimov-lee-pace-1850426131">a teaser in May</a>, and now Apple TV+ has released a full trailer for <a href="https://gizmodo.com/foundation-s2-first-look-apple-tv-plus-asimov-lee-pace-1849948925"><em>Foundation</em> season two</a>. The future of humanity looks potentially doomed in <a href="https://gizmodo.com/foundations-david-s-goyer-on-the-vital-changes-needed-1847682950">the Isaac Asimov adaptation</a>, but it also looks rather gorgeous, confirming that intergalactic war and eye candy are <em>not</em> mutually exclusive. Check it out!</p><p><a href="https://gizmodo.com/foundation-s2-trailer-apple-tv-plus-asimov-lee-pace-1850531268">Read more...</a></p>
+
+## Nothing Phone (2) Has a Release Date, But We Still Don’t Know Its Price
+ - [https://gizmodo.com/nothing-phone-2-release-date-july-11-1850533096](https://gizmodo.com/nothing-phone-2-release-date-july-11-1850533096)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 13:51:10+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--OyhhtAU---/c_fit,fl_progressive,q_80,w_636/53aa945ec6d81891e42eee5445afffa9.jpg" /><p>Nothing’s marketing for its Phone (2) has been a classic shell game, full of <a href="https://gizmodo.com/nothing-beer-april-fools-phone-buds-stick-ear-real-pei-1850297816">misdirection and showmanship</a>. Its founder and CEO Carl Pei’s guerilla campaign for his upcoming phone has consumers looking where he wants, chasing the shiny object without revealing much or anything about his upcoming flagship product. Now…</p><p><a href="https://gizmodo.com/nothing-phone-2-release-date-july-11-1850533096">Read more...</a></p>
+
+## They Cloned Tyrone's New Trailer Puts a Satirical Sci-Fi Spin on Blaxploitation
+ - [https://gizmodo.com/they-cloned-tyrone-john-boyega-jamie-foxx-teyonah-parri-1850533192](https://gizmodo.com/they-cloned-tyrone-john-boyega-jamie-foxx-teyonah-parri-1850533192)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 13:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--b5soD1ns--/c_fit,fl_progressive,q_80,w_636/e13c6de25bc304c7fb4f84b91d8b3de9.jpg" /><p>Taking cues from Blaxploitation films in the 70s and 80s as well as modern-day takes on the genre, <a href="https://gizmodo.com/john-boyega-moses-ingram-star-wars-racism-1849450789">John Boyega</a>, Teyonah Parris, and Jamie Foxx are tangled up in a mysterious science fiction action thriller that attacks the industry that has profited off of <a href="https://gizmodo.com/they-cloned-tyrone-trailer-netflix-john-boyega-sci-fi-1849575954">Black bodies</a>... <em>literally</em>. The full trailer for <a href="https://gizmodo.com/they-cloned-tyrone-trailer-netflix-john-boyega-sci-fi-1849575954"><em>They Cloned</em>…</a></p><p><a href="https://gizmodo.com/they-cloned-tyrone-john-boyega-jamie-foxx-teyonah-parri-1850533192">Read more...</a></p>
+
+## Millions Across the U.S. Are About to Be Slammed by Severe Storms
+ - [https://gizmodo.com/severe-storms-expected-to-impact-millions-in-us-1850530796](https://gizmodo.com/severe-storms-expected-to-impact-millions-in-us-1850530796)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 13:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--GmQqyaxI--/c_fit,fl_progressive,q_80,w_636/50deb68fed87f8846f4ba8006488027f.jpg" /><p>Large storms are going to hit multiple regions of the U.S. this week, putting more than 10 million Americans throughout the country at risk of experiencing severe weather. <br /></p><p><a href="https://gizmodo.com/severe-storms-expected-to-impact-millions-in-us-1850530796">Read more...</a></p>
+
+## The Beatles Used AI to Create Their 'Final Song' With John Lennon’s Voice
+ - [https://gizmodo.com/artificial-intelligence-john-lennon-voice-the-beatles-1850532863](https://gizmodo.com/artificial-intelligence-john-lennon-voice-the-beatles-1850532863)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 12:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--dj5qbM-g--/c_fit,fl_progressive,q_80,w_636/c9075cbb64e38ab2d45b89259def7d30.jpg" /><p>Nearly two months after<a href="https://www.theverge.com/2023/4/25/23696155/viral-drake-ai-repurposed-soundcloud-rap" rel="noopener noreferrer" target="_blank"> AI created a viral hit song featuring (fake) Drake and The Weeknd</a> that shook the music industry, The Beatles are getting ready to possibly do the same by using this advanced technology to release their “final song” with deceased member John Lennon.</p><p><a href="https://gizmodo.com/artificial-intelligence-john-lennon-voice-the-beatles-1850532863">Read more...</a></p>
+
+## Pedro Pascal and Steven Yeun Bond Over Zombie Show Brotherhood
+ - [https://gizmodo.com/pedro-pascal-steven-yeun-walking-dead-last-of-us-zombie-1850531836](https://gizmodo.com/pedro-pascal-steven-yeun-walking-dead-last-of-us-zombie-1850531836)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 00:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YZbnoukB--/c_fit,fl_progressive,q_80,w_636/fc9b9f7965387558b484a4a607a5d198.jpg" /><p>Joel met Glenn—and they had lots to talk about—in a badass zombie show crossover conversation we’re so excited happened between  <a href="https://gizmodo.com/last-of-us-season-2-writers-strike-delay-hbo-ps5-1850432128"><em>The Last of Us</em></a><em> </em>star Pedro Pascal and <em>The Walking Dead</em> veteran <a href="https://gizmodo.com/steven-yeun-thunderbolts-marvel-studios-walking-dead-no-1850151260">Steven Yeun</a>. <br /></p><p><a href="https://gizmodo.com/pedro-pascal-steven-yeun-walking-dead-last-of-us-zombie-1850531836">Read more...</a></p>
+
+## Is There a Potential Crossover for Transformers? | io9 Interview
+ - [https://gizmodo.com/potential-crossover-with-transformers-1850514345](https://gizmodo.com/potential-crossover-with-transformers-1850514345)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-06-13 00:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--__kAWWBM--/c_fit,fl_progressive,q_80,w_636/a8afdf98dfb10e9b704ad4ec174d53d7.jpg" /><p><a href="https://gizmodo.com/potential-crossover-with-transformers-1850514345">Read more...</a></p>
+

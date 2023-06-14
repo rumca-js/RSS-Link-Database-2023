@@ -1,0 +1,114 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## AMD unveils MI300x AI chip as 'generative AI accelerator'
+ - [https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/#ftag=RSSbaffb68](https://www.zdnet.com/article/amd-unveils-mi300x-ai-chip-as-generative-ai-accelerator/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 20:53:00+00:00
+
+To be able to run an entire 40-billion parameter model in memory, said Lisa Su, actually reduces the number of GPUs you need.
+
+## TikTok's new Script Generator tool uses AI to write ad scripts for you in seconds
+ - [https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/#ftag=RSSbaffb68](https://www.zdnet.com/article/tiktoks-new-script-generator-tool-uses-ai-to-write-ad-scripts-for-you-in-seconds/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 20:06:59+00:00
+
+Have trouble writing an ad script? Here's how you can let TikTok write it for you.
+
+## Google's latest Pixel feature drop is here. Check out what's new
+ - [https://www.zdnet.com/article/googles-next-pixel-feature-drop-is-here-check-out-whats-new/#ftag=RSSbaffb68](https://www.zdnet.com/article/googles-next-pixel-feature-drop-is-here-check-out-whats-new/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 17:00:23+00:00
+
+Both Pixel phones and the Pixel Watch are gaining new features and capabilities with the latest update.
+
+## Docker 101: How to install Docker on Ubuntu Server 22.04
+ - [https://www.zdnet.com/article/docker-101-how-to-install-docker-on-ubuntu-server-22-04/#ftag=RSSbaffb68](https://www.zdnet.com/article/docker-101-how-to-install-docker-on-ubuntu-server-22-04/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 16:48:00+00:00
+
+Jack Wallen walks you through the process of installing the latest community edition of the Docker container runtime engine on Ubuntu Server 22.04.
+
+## How to add a quick-dial widget to your Android home screen (and why you should)
+ - [https://www.zdnet.com/article/how-to-add-a-quick-dial-widget-to-your-android-home-screen-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-add-a-quick-dial-widget-to-your-android-home-screen-and-why-you-should/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 16:47:00+00:00
+
+If you have contacts that you regularly and frequently call, you're going to want to use this handy Android feature.
+
+## The best Alexa devices of 2023: Echo, Ring, and more
+ - [https://www.zdnet.com/article/best-alexa-devices/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-alexa-devices/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 16:38:00+00:00
+
+"Hey ZDNET, which Alexa device is best?" We did hands-on testing and research to find the answer, keeping in mind your smart home preferences and needs.
+
+## The Beatles are dropping one last track with the help of AI
+ - [https://www.zdnet.com/article/the-beatles-are-dropping-one-last-track-with-the-help-of-ai/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-beatles-are-dropping-one-last-track-with-the-help-of-ai/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 16:20:09+00:00
+
+AI has the potential to change the music industry. Here's what Paul McCartney has to say about it.
+
+## Would you trust AI-generated reviews? The next Amazon product you buy may have them
+ - [https://www.zdnet.com/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/would-you-trust-ai-generated-reviews-the-next-amazon-product-you-buy-may-have-them/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 16:01:12+00:00
+
+Amazon is testing out generative AI to summarize its product reviews for its customers on some products across the store.
+
+## How to customize the Pixel At a Glance feature so you get only the information you want
+ - [https://www.zdnet.com/article/how-to-customize-the-pixel-at-a-glance-feature-so-you-get-only-the-information-you-want/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-customize-the-pixel-at-a-glance-feature-so-you-get-only-the-information-you-want/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 15:42:33+00:00
+
+Google's At a Glance feature offers a bit more customization on the Pixel than it does on other devices. Here's how to make it more useful for you.
+
+## These $400 XR glasses gave my MacBook a 120-inch screen to work with
+ - [https://www.zdnet.com/article/these-400-xr-glasses-gave-my-macbook-a-120-inch-screen-to-work-with/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-400-xr-glasses-gave-my-macbook-a-120-inch-screen-to-work-with/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 14:54:27+00:00
+
+Viture's One extended reality glasses are a clever and portable way to work and play. Here's what they get right and what they get wrong.
+
+## Are smartphone thermal cameras sensitive enough to uncover PIN codes?
+ - [https://www.zdnet.com/home-and-office/are-smartphone-thermal-cameras-sensitive-enough-to-uncover-pin-codes/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/are-smartphone-thermal-cameras-sensitive-enough-to-uncover-pin-codes/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 14:09:00+00:00
+
+I started out thinking that these cameras were gimmicks, but they've become an important tool in my toolbox. Here's why - and a little test.
+
+## Now you can have a voice conversation with Bing Chat. Here's how
+ - [https://www.zdnet.com/article/now-you-can-have-a-voice-conversation-with-bing-chat-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/article/now-you-can-have-a-voice-conversation-with-bing-chat-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 13:53:39+00:00
+
+Microsoft's latest updates gives Bing Chat a voice of its own, as well as the ability to answer verbal prompts.
+
+## This rugged Blackview phone truly has it all - and it's 50% off right now
+ - [https://www.zdnet.com/article/this-rugged-blackview-phone-truly-has-it-all-and-its-50-off-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-rugged-blackview-phone-truly-has-it-all-and-its-50-off-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 13:38:49+00:00
+
+Are you looking for an Android 13 phone that offers thermal imaging, night vision, and won't break the bank? Check this out.
+
+## Unexpected bill? This AI bot can 'Haggle It' for you
+ - [https://www.zdnet.com/article/unexpected-bill-this-ai-bot-can-haggle-it-for-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/unexpected-bill-this-ai-bot-can-haggle-it-for-you/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 13:00:00+00:00
+
+Don't let anxiety over a large bill keep you up at night. Instead, let generative AI take the strain.
+
+## How to hack Facebook with just a phone number
+ - [https://www.zdnet.com/article/how-to-hack-facebook-with-a-phone-number/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-hack-facebook-with-a-phone-number/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 12:48:00+00:00
+
+Updated: A flaw in the SS7 protocol made hacking Facebook accounts easier than you'd think.
+
+## Your next employer is more interested in your skills than your degrees
+ - [https://www.zdnet.com/article/your-next-employer-is-more-interested-in-your-skills-than-your-degrees/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-next-employer-is-more-interested-in-your-skills-than-your-degrees/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-06-13 07:44:55+00:00
+
+Fewer Americans are obtaining college degrees and employers are shifting their focus to an applicant's skill set.
+
