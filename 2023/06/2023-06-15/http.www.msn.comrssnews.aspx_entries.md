@@ -1,0 +1,1136 @@
+# Source:MSN, URL:http://www.msn.com/rss/news.aspx, language:en-US
+
+## Westchester DA Quietly Closes Trump Investigation Without Charges
+ - [https://www.msn.com/en-us/news/politics/westchester-da-quietly-closes-trump-investigation-without-charges/ar-AA1cBYIz?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/westchester-da-quietly-closes-trump-investigation-without-charges/ar-AA1cBYIz?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.841377+00:00
+
+
+
+## Arizona authorities arrest homicide suspect from 1996 cold case
+ - [https://www.msn.com/en-us/news/crime/arizona-authorities-arrest-homicide-suspect-from-1996-cold-case/ar-AA1cC1ng?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/arizona-authorities-arrest-homicide-suspect-from-1996-cold-case/ar-AA1cC1ng?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.839914+00:00
+
+
+
+## Minnesota stops enforcing law excluding religious colleges from free enrollment program
+ - [https://www.msn.com/en-us/news/us/minnesota-stops-enforcing-law-excluding-religious-colleges-from-free-enrollment-program/ar-AA1cBBby?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/minnesota-stops-enforcing-law-excluding-religious-colleges-from-free-enrollment-program/ar-AA1cBBby?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.837946+00:00
+
+
+
+## Lost in the Amazon: How Four Child Survivors of Plane Crash Were Found
+ - [https://www.msn.com/en-us/video/peopleandplaces/lost-in-the-amazon-how-four-child-survivors-of-plane-crash-were-found/vi-AA1cBG6M?srcref=rss](https://www.msn.com/en-us/video/peopleandplaces/lost-in-the-amazon-how-four-child-survivors-of-plane-crash-were-found/vi-AA1cBG6M?srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.836282+00:00
+
+
+
+## US government agencies hit by cyberattack, official says
+ - [https://www.msn.com/en-us/news/us/us-government-agencies-hit-by-cyberattack-official-says/ar-AA1cBiFC?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/us-government-agencies-hit-by-cyberattack-official-says/ar-AA1cBiFC?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.834238+00:00
+
+
+
+## Obama says people ‘rightly skeptical’ of Tim Scott’s rhetoric on racism
+ - [https://www.msn.com/en-us/news/politics/obama-says-people-rightly-skeptical-of-tim-scott-s-rhetoric-on-racism/ar-AA1cBGbl?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/obama-says-people-rightly-skeptical-of-tim-scott-s-rhetoric-on-racism/ar-AA1cBGbl?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.832262+00:00
+
+
+
+## Vermont man accused of killing his mother at sea dies before federal trial
+ - [https://www.msn.com/en-us/news/crime/vermont-man-accused-of-killing-his-mother-at-sea-dies-before-federal-trial/ar-AA1cBpRV?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/vermont-man-accused-of-killing-his-mother-at-sea-dies-before-federal-trial/ar-AA1cBpRV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.830298+00:00
+
+
+
+## Arizona death row inmate released after 29 years behind bars
+ - [https://www.msn.com/en-us/news/crime/arizona-death-row-inmate-released-after-29-years-behind-bars/ar-AA1cBPWP?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/arizona-death-row-inmate-released-after-29-years-behind-bars/ar-AA1cBPWP?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 23:58:39.828124+00:00
+
+
+
+## Charges Against Alleged Pentagon Leaker Jack Teixeira Explained
+ - [https://www.msn.com/en-us/news/us/charges-against-alleged-pentagon-leaker-jack-teixeira-explained/ar-AA1cBAKO?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/charges-against-alleged-pentagon-leaker-jack-teixeira-explained/ar-AA1cBAKO?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.864875+00:00
+
+
+
+## Herschel Walker enrolls at University of Georgia after 2022 election loss
+ - [https://www.msn.com/en-us/news/politics/herschel-walker-enrolls-at-university-of-georgia-after-2022-election-loss/ar-AA1cBvMh?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/herschel-walker-enrolls-at-university-of-georgia-after-2022-election-loss/ar-AA1cBvMh?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.863515+00:00
+
+
+
+## Bill de Blasio ordered to repay New York City funds used for presidential campaign
+ - [https://www.msn.com/en-us/news/politics/bill-de-blasio-ordered-to-repay-new-york-city-funds-used-for-presidential-campaign/ar-AA1cBPnl?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/bill-de-blasio-ordered-to-repay-new-york-city-funds-used-for-presidential-campaign/ar-AA1cBPnl?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.861834+00:00
+
+
+
+## California power struggle leaves bitter aftertaste in the Legislature
+ - [https://www.msn.com/en-us/news/politics/california-power-struggle-leaves-bitter-aftertaste-in-the-legislature/ar-AA1cBKFH?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/california-power-struggle-leaves-bitter-aftertaste-in-the-legislature/ar-AA1cBKFH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.860367+00:00
+
+
+
+## Accused Delphi Killer ‘Confessed Five or Six Times,’ Prosecutors Say
+ - [https://www.msn.com/en-us/news/crime/accused-delphi-killer-confessed-five-or-six-times-prosecutors-say/ar-AA1cBMMf?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/accused-delphi-killer-confessed-five-or-six-times-prosecutors-say/ar-AA1cBMMf?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.858525+00:00
+
+
+
+## Bear captured after wandering onto Tampa International Airport property
+ - [https://www.msn.com/en-us/news/us/bear-captured-after-wandering-onto-tampa-international-airport-property/ar-AA1cBwWT?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/bear-captured-after-wandering-onto-tampa-international-airport-property/ar-AA1cBwWT?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.856251+00:00
+
+
+
+## Biden admin shields 330,000 immigrants from deportation; top Dem says it's not enough
+ - [https://www.msn.com/en-us/news/politics/biden-admin-shields-330-000-immigrants-from-deportation-top-dem-says-it-s-not-enough/ar-AA1cBFOk?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/biden-admin-shields-330-000-immigrants-from-deportation-top-dem-says-it-s-not-enough/ar-AA1cBFOk?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.854844+00:00
+
+
+
+## Energy Department among federal agencies breached by Russian ransomware gang
+ - [https://www.msn.com/en-us/news/politics/energy-department-among-federal-agencies-breached-by-russian-ransomware-gang/ar-AA1cBFNy?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/energy-department-among-federal-agencies-breached-by-russian-ransomware-gang/ar-AA1cBFNy?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 22:57:27.853174+00:00
+
+
+
+## Mexican farmers occupy Culiacan airport in protest against low crop prices
+ - [https://www.msn.com/en-us/news/world/mexican-farmers-occupy-culiacan-airport-in-protest-against-low-crop-prices/ar-AA1cBETk?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/mexican-farmers-occupy-culiacan-airport-in-protest-against-low-crop-prices/ar-AA1cBETk?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.908431+00:00
+
+
+
+## Retired ISS commander Peggy Whitson talks recent Axiom mission, making space accessible
+ - [https://www.msn.com/en-us/news/technology/retired-iss-commander-peggy-whitson-talks-recent-axiom-mission-making-space-accessible/ar-AA1cBR5Z?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/retired-iss-commander-peggy-whitson-talks-recent-axiom-mission-making-space-accessible/ar-AA1cBR5Z?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.906917+00:00
+
+
+
+## Bill de Blasio Is Super Pissed He’s Gotta Cough Up for His Failed 2020 Run
+ - [https://www.msn.com/en-us/news/us/bill-de-blasio-is-super-pissed-he-s-gotta-cough-up-for-his-failed-2020-run/ar-AA1cBF0C?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/bill-de-blasio-is-super-pissed-he-s-gotta-cough-up-for-his-failed-2020-run/ar-AA1cBF0C?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.904913+00:00
+
+
+
+## Democrats call Biden methane proposal ‘insufficient’
+ - [https://www.msn.com/en-us/news/politics/democrats-call-biden-methane-proposal-insufficient/ar-AA1cBR9s?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/democrats-call-biden-methane-proposal-insufficient/ar-AA1cBR9s?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.902871+00:00
+
+
+
+## Guardsman indicted on charges of disclosing classified national defense information
+ - [https://www.msn.com/en-us/news/us/guardsman-indicted-on-charges-of-disclosing-classified-national-defense-information/ar-AA1cBTvM?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/guardsman-indicted-on-charges-of-disclosing-classified-national-defense-information/ar-AA1cBTvM?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.900821+00:00
+
+
+
+## Gov. Kevin Stitt on Trump criticism: 'DeSantis is the right guy,' can beat Biden and serve eight years
+ - [https://www.msn.com/en-us/news/politics/gov-kevin-stitt-on-trump-criticism-desantis-is-the-right-guy-can-beat-biden-and-serve-eight-years/ar-AA1cBvm2?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/gov-kevin-stitt-on-trump-criticism-desantis-is-the-right-guy-can-beat-biden-and-serve-eight-years/ar-AA1cBvm2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.898640+00:00
+
+
+
+## Texas representative is first Black female Democrat to play in Congressional Baseball Game
+ - [https://www.msn.com/en-us/news/us/texas-representative-is-first-black-female-democrat-to-play-in-congressional-baseball-game/ar-AA1cBMgy?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/texas-representative-is-first-black-female-democrat-to-play-in-congressional-baseball-game/ar-AA1cBMgy?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.896531+00:00
+
+
+
+## Jack Teixeira, alleged classified documents leaker, indicted by federal grand jury
+ - [https://www.msn.com/en-us/news/us/jack-teixeira-alleged-classified-documents-leaker-indicted-by-federal-grand-jury/ar-AA1cBgiU?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/jack-teixeira-alleged-classified-documents-leaker-indicted-by-federal-grand-jury/ar-AA1cBgiU?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 21:56:13.893906+00:00
+
+
+
+## Biden Allies Map Out Summer Plan to Aggressively Promote Infrastructure Projects
+ - [https://www.msn.com/en-us/news/politics/biden-allies-map-out-summer-plan-to-aggressively-promote-infrastructure-projects/ar-AA1cBJ48?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/biden-allies-map-out-summer-plan-to-aggressively-promote-infrastructure-projects/ar-AA1cBJ48?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.071968+00:00
+
+
+
+## Juneteenth 2023: The True Story Behind Our Newest Federal Holiday
+ - [https://www.msn.com/en-us/news/us/juneteenth-2023-the-true-story-behind-our-newest-federal-holiday/ar-AA1cBGQr?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/juneteenth-2023-the-true-story-behind-our-newest-federal-holiday/ar-AA1cBGQr?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.070161+00:00
+
+
+
+## Jordan Neely death: NYC chokehold suspect Daniel Penny gets arraignment date following indictment
+ - [https://www.msn.com/en-us/news/crime/jordan-neely-death-nyc-chokehold-suspect-daniel-penny-gets-arraignment-date-following-indictment/ar-AA1cBqLs?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/jordan-neely-death-nyc-chokehold-suspect-daniel-penny-gets-arraignment-date-following-indictment/ar-AA1cBqLs?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.068113+00:00
+
+
+
+## Michigan bans hairstyle discrimination in workplaces and schools
+ - [https://www.msn.com/en-us/news/us/michigan-bans-hairstyle-discrimination-in-workplaces-and-schools/ar-AA1cBt4C?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/michigan-bans-hairstyle-discrimination-in-workplaces-and-schools/ar-AA1cBt4C?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.065971+00:00
+
+
+
+## Joe Biden Berates Reporter for Question About FBI Informant
+ - [https://www.msn.com/en-us/news/politics/joe-biden-berates-reporter-for-question-about-fbi-informant/ar-AA1cBgd8?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/joe-biden-berates-reporter-for-question-about-fbi-informant/ar-AA1cBgd8?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.064123+00:00
+
+
+
+## No Labels pledges to end third-party push if Biden ‘way’ ahead of Trump in spring
+ - [https://www.msn.com/en-us/news/politics/no-labels-pledges-to-end-third-party-push-if-biden-way-ahead-of-trump-in-spring/ar-AA1cBqM1?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/no-labels-pledges-to-end-third-party-push-if-biden-way-ahead-of-trump-in-spring/ar-AA1cBqM1?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.062055+00:00
+
+
+
+## Astronomers discover the fastest runaway stars in our galaxy racing away at over 5 million mph
+ - [https://www.msn.com/en-us/news/technology/astronomers-discover-the-fastest-runaway-stars-in-our-galaxy-racing-away-at-over-5-million-mph/ar-AA1cBOeb?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/astronomers-discover-the-fastest-runaway-stars-in-our-galaxy-racing-away-at-over-5-million-mph/ar-AA1cBOeb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.059944+00:00
+
+
+
+## At least 10 killed in 'mass casualty collision' on highway in Canada: Police
+ - [https://www.msn.com/en-us/news/world/at-least-10-killed-in-mass-casualty-collision-on-highway-in-canada-police/ar-AA1cBEAb?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/at-least-10-killed-in-mass-casualty-collision-on-highway-in-canada-police/ar-AA1cBEAb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 20:55:06.057540+00:00
+
+
+
+## Judge orders Trump lawyers to seek security clearances
+ - [https://www.msn.com/en-us/news/politics/judge-orders-trump-lawyers-to-seek-security-clearances/ar-AA1cBpWL?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/judge-orders-trump-lawyers-to-seek-security-clearances/ar-AA1cBpWL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.139258+00:00
+
+
+
+## Bryan Kohberger challenges indictment as lawyers argue prosecution refuses to hand over evidence
+ - [https://www.msn.com/en-us/news/crime/bryan-kohberger-challenges-indictment-as-lawyers-argue-prosecution-refuses-to-hand-over-evidence/ar-AA1cBaST?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/bryan-kohberger-challenges-indictment-as-lawyers-argue-prosecution-refuses-to-hand-over-evidence/ar-AA1cBaST?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.137908+00:00
+
+
+
+## Calgary's Black Lives Matter president charged with hate crime
+ - [https://www.msn.com/en-us/news/us/calgary-s-black-lives-matter-president-charged-with-hate-crime/ar-AA1cBnPR?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/calgary-s-black-lives-matter-president-charged-with-hate-crime/ar-AA1cBnPR?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.136464+00:00
+
+
+
+## Bomb squad called after live grenade donated to California museum
+ - [https://www.msn.com/en-us/news/us/bomb-squad-called-after-live-grenade-donated-to-california-museum/ar-AA1cBzbM?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/bomb-squad-called-after-live-grenade-donated-to-california-museum/ar-AA1cBzbM?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.134726+00:00
+
+
+
+## Support for Same-Sex Marriage Greatest in Western Europe, Pew Poll Finds
+ - [https://www.msn.com/en-us/news/us/support-for-same-sex-marriage-greatest-in-western-europe-pew-poll-finds/ar-AA1cBsEA?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/support-for-same-sex-marriage-greatest-in-western-europe-pew-poll-finds/ar-AA1cBsEA?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.132967+00:00
+
+
+
+## De Blasio fined for misusing NYPD during presidential campaign, ordered to repay costs
+ - [https://www.msn.com/en-us/news/politics/de-blasio-fined-for-misusing-nypd-during-presidential-campaign-ordered-to-repay-costs/ar-AA1cBBHt?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/de-blasio-fined-for-misusing-nypd-during-presidential-campaign-ordered-to-repay-costs/ar-AA1cBBHt?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.131603+00:00
+
+
+
+## Presidential candidates to donors: Help us make the debate stage
+ - [https://www.msn.com/en-us/news/politics/presidential-candidates-to-donors-help-us-make-the-debate-stage/ar-AA1cBBMw?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/presidential-candidates-to-donors-help-us-make-the-debate-stage/ar-AA1cBBMw?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.130175+00:00
+
+
+
+## Critics blast Georgia's plan to delay software updates on its voting machines
+ - [https://www.msn.com/en-us/news/us/critics-blast-georgia-s-plan-to-delay-software-updates-on-its-voting-machines/ar-AA1cBlkA?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/critics-blast-georgia-s-plan-to-delay-software-updates-on-its-voting-machines/ar-AA1cBlkA?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 19:53:35.128131+00:00
+
+
+
+## Majority say Biden DOJ makes US look like a ‘banana republic’
+ - [https://www.msn.com/en-us/news/politics/majority-say-biden-doj-makes-us-look-like-a-banana-republic/ar-AA1cBwnf?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/majority-say-biden-doj-makes-us-look-like-a-banana-republic/ar-AA1cBwnf?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.677795+00:00
+
+
+
+## Boston serial rape suspect Matthew Nilo released on bail
+ - [https://www.msn.com/en-us/news/crime/boston-serial-rape-suspect-matthew-nilo-released-on-bail/ar-AA1cBu3U?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/boston-serial-rape-suspect-matthew-nilo-released-on-bail/ar-AA1cBu3U?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.675958+00:00
+
+
+
+## 10-Year-Old’s Stand on Racism Stuns Oregon City Council Meeting
+ - [https://www.msn.com/en-us/news/us/10-year-old-s-stand-on-racism-stuns-oregon-city-council-meeting/ar-AA1cBmXe?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/10-year-old-s-stand-on-racism-stuns-oregon-city-council-meeting/ar-AA1cBmXe?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.674048+00:00
+
+
+
+## Pro-Trump Pastor Suggests Christians Should Be Suicide Bombers
+ - [https://www.msn.com/en-us/news/politics/pro-trump-pastor-suggests-christians-should-be-suicide-bombers/ar-AA1cBuam?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/pro-trump-pastor-suggests-christians-should-be-suicide-bombers/ar-AA1cBuam?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.672093+00:00
+
+
+
+## With Sam Bankman-Fried looking on, judge seems skeptical of request to reject criminal fraud charges
+ - [https://www.msn.com/en-us/news/crime/with-sam-bankman-fried-looking-on-judge-seems-skeptical-of-request-to-reject-criminal-fraud-charges/ar-AA1cB5NM?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/with-sam-bankman-fried-looking-on-judge-seems-skeptical-of-request-to-reject-criminal-fraud-charges/ar-AA1cB5NM?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.670270+00:00
+
+
+
+## 2 Americans found dead in luxury hotel room in Mexico
+ - [https://www.msn.com/en-us/news/crime/2-americans-found-dead-in-luxury-hotel-room-in-mexico/ar-AA1czdYQ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/2-americans-found-dead-in-luxury-hotel-room-in-mexico/ar-AA1czdYQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.668485+00:00
+
+
+
+## The Republican attempt to censure Adam Schiff was a flop
+ - [https://www.msn.com/en-us/news/politics/the-republican-attempt-to-censure-adam-schiff-was-a-flop/ar-AA1cBhN2?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/the-republican-attempt-to-censure-adam-schiff-was-a-flop/ar-AA1cBhN2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.666715+00:00
+
+
+
+## Biden pick Choudhury becomes first Muslim woman confirmed as federal judge
+ - [https://www.msn.com/en-us/news/politics/biden-pick-choudhury-becomes-first-muslim-woman-confirmed-as-federal-judge/ar-AA1cB5PR?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/biden-pick-choudhury-becomes-first-muslim-woman-confirmed-as-federal-judge/ar-AA1cB5PR?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 18:52:24.665078+00:00
+
+
+
+## Who should adopt Native American children? Adult adoptees share their stories
+ - [https://www.msn.com/en-us/news/us/who-should-adopt-native-american-children-adult-adoptees-share-their-stories/ar-AA13YBa6?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/who-should-adopt-native-american-children-adult-adoptees-share-their-stories/ar-AA13YBa6?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.803784+00:00
+
+
+
+## A Missouri doctor's death is steeped in mystery and speculation. Authorities aren't talking
+ - [https://www.msn.com/en-us/news/crime/a-missouri-doctor-s-death-is-steeped-in-mystery-and-speculation-authorities-aren-t-talking/ar-AA1cB7QA?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/a-missouri-doctor-s-death-is-steeped-in-mystery-and-speculation-authorities-aren-t-talking/ar-AA1cB7QA?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.800607+00:00
+
+
+
+## DeSantis pins 'massive exodus out of California' on Newsom
+ - [https://www.msn.com/en-us/news/politics/desantis-pins-massive-exodus-out-of-california-on-newsom/ar-AA1cBrmT?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/desantis-pins-massive-exodus-out-of-california-on-newsom/ar-AA1cBrmT?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.797307+00:00
+
+
+
+## Republicans Admit They ‘Don’t Know’ if Biden Bribery Tapes ‘Really Exist’
+ - [https://www.msn.com/en-us/news/politics/republicans-admit-they-don-t-know-if-biden-bribery-tapes-really-exist/ar-AA1cBmfh?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/republicans-admit-they-don-t-know-if-biden-bribery-tapes-really-exist/ar-AA1cBmfh?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.793438+00:00
+
+
+
+## Trump ignored his legal team's advice to settle the classified documents case. Instead, he listened to a conservative activist.
+ - [https://www.msn.com/en-us/news/politics/trump-ignored-his-legal-team-s-advice-to-settle-the-classified-documents-case-instead-he-listened-to-a-conservative-activist/ar-AA1cBh5k?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/trump-ignored-his-legal-team-s-advice-to-settle-the-classified-documents-case-instead-he-listened-to-a-conservative-activist/ar-AA1cBh5k?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.791600+00:00
+
+
+
+## Key Republican deals a blow to House Democrats’ new push for tougher gun laws
+ - [https://www.msn.com/en-us/news/politics/key-republican-deals-a-blow-to-house-democrats-new-push-for-tougher-gun-laws/ar-AA1cB9HG?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/key-republican-deals-a-blow-to-house-democrats-new-push-for-tougher-gun-laws/ar-AA1cB9HG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.789240+00:00
+
+
+
+## Miami Herald: Suarez presidential candidacy a ‘head-scratcher’
+ - [https://www.msn.com/en-us/news/politics/miami-herald-suarez-presidential-candidacy-a-head-scratcher/ar-AA1cBmjR?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/miami-herald-suarez-presidential-candidacy-a-head-scratcher/ar-AA1cBmjR?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.787576+00:00
+
+
+
+## American crocodiles can have 'virgin births'—here’s what that means
+ - [https://www.msn.com/en-us/news/us/american-crocodiles-can-have-virgin-births-here-s-what-that-means/ar-AA1cBoCA?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/american-crocodiles-can-have-virgin-births-here-s-what-that-means/ar-AA1cBoCA?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 17:51:11.785291+00:00
+
+
+
+## Wildfires driven by climate change are on the rise - Spain must do more to prepare, say experts
+ - [https://www.msn.com/en-us/news/world/wildfires-driven-by-climate-change-are-on-the-rise-spain-must-do-more-to-prepare-say-experts/ar-AA1cAPXZ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/wildfires-driven-by-climate-change-are-on-the-rise-spain-must-do-more-to-prepare-say-experts/ar-AA1cAPXZ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.663048+00:00
+
+
+
+## The story behind Juneteenth and how it became a federal holiday
+ - [https://www.msn.com/en-us/news/us/the-story-behind-juneteenth-and-how-it-became-a-federal-holiday/ar-AA1cB7eO?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/the-story-behind-juneteenth-and-how-it-became-a-federal-holiday/ar-AA1cB7eO?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.661633+00:00
+
+
+
+## Fox News quietly changes headline after White House accuses them of "lying through their teeth"
+ - [https://www.msn.com/en-us/news/us/fox-news-quietly-changes-headline-after-white-house-accuses-them-of-lying-through-their-teeth/ar-AA1cAXUS?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/fox-news-quietly-changes-headline-after-white-house-accuses-them-of-lying-through-their-teeth/ar-AA1cAXUS?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.659722+00:00
+
+
+
+## FAA sued by government watchdog for delaying release of Buttigieg's flight records
+ - [https://www.msn.com/en-us/news/us/faa-sued-by-government-watchdog-for-delaying-release-of-buttigieg-s-flight-records/ar-AA1cBjfK?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/faa-sued-by-government-watchdog-for-delaying-release-of-buttigieg-s-flight-records/ar-AA1cBjfK?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.657829+00:00
+
+
+
+## Senate Intelligence chair: China leads the world on AI rules
+ - [https://www.msn.com/en-us/news/politics/senate-intelligence-chair-china-leads-the-world-on-ai-rules/ar-AA1cB9nI?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/senate-intelligence-chair-china-leads-the-world-on-ai-rules/ar-AA1cB9nI?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.656106+00:00
+
+
+
+## American tourist dies after attack near Germany's famous Neuschwanstein castle
+ - [https://www.msn.com/en-us/news/crime/american-tourist-dies-after-attack-near-germany-s-famous-neuschwanstein-castle/ar-AA1cBlCY?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/american-tourist-dies-after-attack-near-germany-s-famous-neuschwanstein-castle/ar-AA1cBlCY?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.654709+00:00
+
+
+
+## Texas sends busload of migrants to Los Angeles
+ - [https://www.msn.com/en-us/news/world/texas-sends-busload-of-migrants-to-los-angeles/ar-AA1cAYak?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/texas-sends-busload-of-migrants-to-los-angeles/ar-AA1cAYak?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.652832+00:00
+
+
+
+## Pence offers advice on faith, family in forthcoming book
+ - [https://www.msn.com/en-us/news/politics/pence-offers-advice-on-faith-family-in-forthcoming-book/ar-AA1cBenB?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/pence-offers-advice-on-faith-family-in-forthcoming-book/ar-AA1cBenB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 16:49:55.650846+00:00
+
+
+
+## US Supreme Court Rejects Challenge to Native American Adoption Law
+ - [https://www.msn.com/en-us/news/us/us-supreme-court-rejects-challenge-to-native-american-adoption-law/ar-AA1cAZ6u?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/us-supreme-court-rejects-challenge-to-native-american-adoption-law/ar-AA1cAZ6u?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.550030+00:00
+
+
+
+## Miami Mayor Francis Suarez announces he's running for president against Trump in 2024
+ - [https://www.msn.com/en-us/news/politics/miami-mayor-francis-suarez-announces-he-s-running-for-president-against-trump-in-2024/ar-AA1cApsN?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/miami-mayor-francis-suarez-announces-he-s-running-for-president-against-trump-in-2024/ar-AA1cApsN?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.548598+00:00
+
+
+
+## Russia will lose the war if Ukraine's counteroffensive succeeds, Zelenskyy tells NBC News
+ - [https://www.msn.com/en-us/news/world/russia-will-lose-the-war-if-ukraine-s-counteroffensive-succeeds-zelenskyy-tells-nbc-news/ar-AA1cAE9Y?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/russia-will-lose-the-war-if-ukraine-s-counteroffensive-succeeds-zelenskyy-tells-nbc-news/ar-AA1cAE9Y?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.546633+00:00
+
+
+
+## Zelensky admits Ukraine counteroffensive has been ‘difficult’
+ - [https://www.msn.com/en-us/news/world/zelensky-admits-ukraine-counteroffensive-has-been-difficult/ar-AA1cB6ml?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/zelensky-admits-ukraine-counteroffensive-has-been-difficult/ar-AA1cB6ml?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.544827+00:00
+
+
+
+## North Korea Launches Ballistic Missiles Toward Japan in Defiance of U.S. Military Drills
+ - [https://www.msn.com/en-us/news/world/north-korea-launches-ballistic-missiles-toward-japan-in-defiance-of-u-s-military-drills/ar-AA1cB00I?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/north-korea-launches-ballistic-missiles-toward-japan-in-defiance-of-u-s-military-drills/ar-AA1cB00I?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.543519+00:00
+
+
+
+## Russia Has Lost Many More Helicopters in Ukraine Than in Chechen Wars—Kyiv
+ - [https://www.msn.com/en-us/news/world/russia-has-lost-many-more-helicopters-in-ukraine-than-in-chechen-wars-kyiv/ar-AA1cAXgX?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/russia-has-lost-many-more-helicopters-in-ukraine-than-in-chechen-wars-kyiv/ar-AA1cAXgX?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.542112+00:00
+
+
+
+## Ron DeSantis taunts Gavin Newsom to enter 2024 White House contest against Joe Biden: 'Stop pussyfooting around'
+ - [https://www.msn.com/en-us/news/politics/ron-desantis-taunts-gavin-newsom-to-enter-2024-white-house-contest-against-joe-biden-stop-pussyfooting-around/ar-AA1cB06j?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/ron-desantis-taunts-gavin-newsom-to-enter-2024-white-house-contest-against-joe-biden-stop-pussyfooting-around/ar-AA1cB06j?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.540194+00:00
+
+
+
+## North Korea launches two missiles in protest of South Korea-US exercises
+ - [https://www.msn.com/en-us/news/politics/north-korea-launches-two-missiles-in-protest-of-south-korea-us-exercises/ar-AA1cADjg?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/north-korea-launches-two-missiles-in-protest-of-south-korea-us-exercises/ar-AA1cADjg?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 15:48:38.538148+00:00
+
+
+
+## Republicans Have Early Upper Hand in 2024 Races for Governor
+ - [https://www.msn.com/en-us/news/politics/republicans-have-early-upper-hand-in-2024-races-for-governor/ar-AA1cAW5m?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/republicans-have-early-upper-hand-in-2024-races-for-governor/ar-AA1cAW5m?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.421926+00:00
+
+
+
+## Amazon Shuts Down Smart Home for a Week Over Racist Slur Claim
+ - [https://www.msn.com/en-us/news/technology/amazon-shuts-down-smart-home-for-a-week-over-racist-slur-claim/ar-AA1cAYMV?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/amazon-shuts-down-smart-home-for-a-week-over-racist-slur-claim/ar-AA1cAYMV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.420153+00:00
+
+
+
+## American Man Arrested After Fatal Attack at Fairytale Castle in Germany
+ - [https://www.msn.com/en-us/news/crime/american-man-arrested-after-fatal-attack-at-fairytale-castle-in-germany/ar-AA1cAK64?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/american-man-arrested-after-fatal-attack-at-fairytale-castle-in-germany/ar-AA1cAK64?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.418846+00:00
+
+
+
+## Trump judge’s thin criminal trial resume comes with a twist
+ - [https://www.msn.com/en-us/news/crime/trump-judge-s-thin-criminal-trial-resume-comes-with-a-twist/ar-AA1cATD9?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/trump-judge-s-thin-criminal-trial-resume-comes-with-a-twist/ar-AA1cATD9?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.417392+00:00
+
+
+
+## Supreme Court upholds key part of Native American adoption law
+ - [https://www.msn.com/en-us/news/us/supreme-court-upholds-key-part-of-native-american-adoption-law/ar-AA1cAFdH?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/supreme-court-upholds-key-part-of-native-american-adoption-law/ar-AA1cAFdH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.415666+00:00
+
+
+
+## Who's running for president? See a rundown of the 2024 candidates
+ - [https://www.msn.com/en-us/news/politics/who-s-running-for-president-see-a-rundown-of-the-2024-candidates/ar-AA1cAArF?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/who-s-running-for-president-see-a-rundown-of-the-2024-candidates/ar-AA1cAArF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.414272+00:00
+
+
+
+## Trump traveling to South Carolina for Fourth of July celebration
+ - [https://www.msn.com/en-us/news/politics/trump-traveling-to-south-carolina-for-fourth-of-july-celebration/ar-AA1cAYQY?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/trump-traveling-to-south-carolina-for-fourth-of-july-celebration/ar-AA1cAYQY?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.412451+00:00
+
+
+
+## Google launches a new AI-powered tool that allows shoppers to see how clothes look on different models
+ - [https://www.msn.com/en-us/news/technology/google-launches-a-new-ai-powered-tool-that-allows-shoppers-to-see-how-clothes-look-on-different-models/ar-AA1cARht?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/google-launches-a-new-ai-powered-tool-that-allows-shoppers-to-see-how-clothes-look-on-different-models/ar-AA1cARht?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 14:38:24.410347+00:00
+
+
+
+## Donald Trump still thinks he can escape this — but Jack Smith has him cornered
+ - [https://www.msn.com/en-us/news/politics/donald-trump-still-thinks-he-can-escape-this-but-jack-smith-has-him-cornered/ar-AA1cAE8U?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/donald-trump-still-thinks-he-can-escape-this-but-jack-smith-has-him-cornered/ar-AA1cAE8U?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.736357+00:00
+
+
+
+## Twitter worst among major social media platforms when it comes to LGBTQ safety, GLAAD says
+ - [https://www.msn.com/en-us/news/us/twitter-worst-among-major-social-media-platforms-when-it-comes-to-lgbtq-safety-glaad-says/ar-AA1cAswV?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/twitter-worst-among-major-social-media-platforms-when-it-comes-to-lgbtq-safety-glaad-says/ar-AA1cAswV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.734966+00:00
+
+
+
+## How some of Donald Trump's business allies are reacting to federal indictment
+ - [https://www.msn.com/en-us/news/politics/how-some-of-donald-trump-s-business-allies-are-reacting-to-federal-indictment/ar-AA1cA2sq?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/how-some-of-donald-trump-s-business-allies-are-reacting-to-federal-indictment/ar-AA1cA2sq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.733152+00:00
+
+
+
+## CDC: Pandemic brought highest rates of teen homicide, young adult suicide since 2001
+ - [https://www.msn.com/en-us/news/us/cdc-pandemic-brought-highest-rates-of-teen-homicide-young-adult-suicide-since-2001/ar-AA1cAsAS?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/cdc-pandemic-brought-highest-rates-of-teen-homicide-young-adult-suicide-since-2001/ar-AA1cAsAS?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.731731+00:00
+
+
+
+## Ted Cruz: Congress 'doesn't know what the hell it's doing' with AI regulation
+ - [https://www.msn.com/en-us/news/politics/ted-cruz-congress-doesn-t-know-what-the-hell-it-s-doing-with-ai-regulation/ar-AA1cAuSe?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/ted-cruz-congress-doesn-t-know-what-the-hell-it-s-doing-with-ai-regulation/ar-AA1cAuSe?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.729986+00:00
+
+
+
+## Why the Supreme Court made this map illegal
+ - [https://www.msn.com/en-us/news/politics/why-the-supreme-court-made-this-map-illegal/ar-AA1cAilR?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/why-the-supreme-court-made-this-map-illegal/ar-AA1cAilR?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.728612+00:00
+
+
+
+## Trump Claims Big 2024 Poll Leads Over Biden—Here's What They Actually Say
+ - [https://www.msn.com/en-us/news/politics/trump-claims-big-2024-poll-leads-over-biden-here-s-what-they-actually-say/ar-AA1cALDW?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/trump-claims-big-2024-poll-leads-over-biden-here-s-what-they-actually-say/ar-AA1cALDW?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.727184+00:00
+
+
+
+## Biden to announce pledge by ticket sales giants to eliminate hidden fees and show full costs upfront
+ - [https://www.msn.com/en-us/news/us/biden-to-announce-pledge-by-ticket-sales-giants-to-eliminate-hidden-fees-and-show-full-costs-upfront/ar-AA1cABMe?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/biden-to-announce-pledge-by-ticket-sales-giants-to-eliminate-hidden-fees-and-show-full-costs-upfront/ar-AA1cABMe?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 13:28:09.725488+00:00
+
+
+
+## 11 Years After DACA: Hundreds of Thousands of Undocumented Youth Remain in Limbo
+ - [https://www.msn.com/en-us/news/us/11-years-after-daca-hundreds-of-thousands-of-undocumented-youth-remain-in-limbo/ar-AA1cAm1R?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/11-years-after-daca-hundreds-of-thousands-of-undocumented-youth-remain-in-limbo/ar-AA1cAm1R?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.499841+00:00
+
+
+
+## Donor nations scramble to find billions of dollars of funding for Syrian aid
+ - [https://www.msn.com/en-us/news/world/donor-nations-scramble-to-find-billions-of-dollars-of-funding-for-syrian-aid/ar-AA1cAjIY?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/donor-nations-scramble-to-find-billions-of-dollars-of-funding-for-syrian-aid/ar-AA1cAjIY?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.498495+00:00
+
+
+
+## A man accidentally shot himself in his sleep while dreaming about a home invasion. He's now been charged with 2 felonies.
+ - [https://www.msn.com/en-us/news/crime/a-man-accidentally-shot-himself-in-his-sleep-while-dreaming-about-a-home-invasion-he-s-now-been-charged-with-2-felonies/ar-AA1cAoT8?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/a-man-accidentally-shot-himself-in-his-sleep-while-dreaming-about-a-home-invasion-he-s-now-been-charged-with-2-felonies/ar-AA1cAoT8?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.497133+00:00
+
+
+
+## Austin: Ukraine war 'a marathon, and not a sprint'
+ - [https://www.msn.com/en-us/news/world/austin-ukraine-war-a-marathon-and-not-a-sprint/ar-AA1cAk4i?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/austin-ukraine-war-a-marathon-and-not-a-sprint/ar-AA1cAk4i?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.495814+00:00
+
+
+
+## We Made Wild Animals Sick. Should We Vaccinate Them Too?
+ - [https://www.msn.com/en-us/news/us/we-made-wild-animals-sick-should-we-vaccinate-them-too/ar-AA1cAARV?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/we-made-wild-animals-sick-should-we-vaccinate-them-too/ar-AA1cAARV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.494406+00:00
+
+
+
+## Family Found Dead After Spending Night in Car With AC On
+ - [https://www.msn.com/en-us/news/world/family-found-dead-after-spending-night-in-car-with-ac-on/ar-AA1cAks0?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/family-found-dead-after-spending-night-in-car-with-ac-on/ar-AA1cAks0?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.491055+00:00
+
+
+
+## Why Mitch McConnell won’t speak out on Trump’s indictment
+ - [https://www.msn.com/en-us/news/politics/why-mitch-mcconnell-won-t-speak-out-on-trump-s-indictment/ar-AA1cAwlG?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/why-mitch-mcconnell-won-t-speak-out-on-trump-s-indictment/ar-AA1cAwlG?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 12:18:00.488810+00:00
+
+
+
+## Can YOU see it? This TV static has a number hidden within it
+ - [https://www.msn.com/en-us/news/technology/can-you-see-it-this-tv-static-has-a-number-hidden-within-it/ar-AA1cAcfW?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/can-you-see-it-this-tv-static-has-a-number-hidden-within-it/ar-AA1cAcfW?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 11:07:41.937923+00:00
+
+
+
+## Two Americans Found Dead Inside Luxury Mexican Hotel Room
+ - [https://www.msn.com/en-us/news/world/two-americans-found-dead-inside-luxury-mexican-hotel-room/ar-AA1czRIj?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/two-americans-found-dead-inside-luxury-mexican-hotel-room/ar-AA1czRIj?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 11:07:41.936061+00:00
+
+
+
+## DACA court challenges leave hundreds of thousands of eligible applicants out
+ - [https://www.msn.com/en-us/news/us/daca-court-challenges-leave-hundreds-of-thousands-of-eligible-applicants-out/ar-AA1cAgyF?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/daca-court-challenges-leave-hundreds-of-thousands-of-eligible-applicants-out/ar-AA1cAgyF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 11:07:41.934193+00:00
+
+
+
+## Prigozhin Blames Russia's 'Boorish' Invasion for Making Ukraine Stronger
+ - [https://www.msn.com/en-us/news/world/prigozhin-blames-russia-s-boorish-invasion-for-making-ukraine-stronger/ar-AA1cAlgE?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/prigozhin-blames-russia-s-boorish-invasion-for-making-ukraine-stronger/ar-AA1cAlgE?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 11:07:41.932294+00:00
+
+
+
+## NATO sees no change in Russia's nuclear posture despite Belarus leader's claims
+ - [https://www.msn.com/en-us/news/world/nato-sees-no-change-in-russia-s-nuclear-posture-despite-belarus-leader-s-claims/ar-AA1cAcfn?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/nato-sees-no-change-in-russia-s-nuclear-posture-despite-belarus-leader-s-claims/ar-AA1cAcfn?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 11:07:41.927673+00:00
+
+
+
+## Putin is setting up excuses to protect himself in case his war in Ukraine fails, says ex-CIA officer
+ - [https://www.msn.com/en-us/news/world/putin-is-setting-up-excuses-to-protect-himself-in-case-his-war-in-ukraine-fails-says-ex-cia-officer/ar-AA1cAnSW?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/putin-is-setting-up-excuses-to-protect-himself-in-case-his-war-in-ukraine-fails-says-ex-cia-officer/ar-AA1cAnSW?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 11:07:41.926028+00:00
+
+
+
+## Barr dismisses 'farcical' Trump presidential records defense, says he committed 'outrageous obstruction'
+ - [https://www.msn.com/en-us/news/politics/barr-dismisses-farcical-trump-presidential-records-defense-says-he-committed-outrageous-obstruction/ar-AA1czTAo?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/barr-dismisses-farcical-trump-presidential-records-defense-says-he-committed-outrageous-obstruction/ar-AA1czTAo?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.895768+00:00
+
+
+
+## Biden targets junk fees with executives from Live Nation, SeatGeek and Airbnb
+ - [https://www.msn.com/en-us/news/us/biden-targets-junk-fees-with-executives-from-live-nation-seatgeek-and-airbnb/ar-AA1cA3RR?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/biden-targets-junk-fees-with-executives-from-live-nation-seatgeek-and-airbnb/ar-AA1cA3RR?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.894340+00:00
+
+
+
+## Vicious Pit Bull Attack Leaves Owner With Severed Arm: Officials
+ - [https://www.msn.com/en-us/news/crime/vicious-pit-bull-attack-leaves-owner-with-severed-arm-officials/ar-AA1czPtB?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/vicious-pit-bull-attack-leaves-owner-with-severed-arm-officials/ar-AA1czPtB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.892505+00:00
+
+
+
+## Brutal report is devastating for Boris Johnson
+ - [https://www.msn.com/en-us/news/world/brutal-report-is-devastating-for-boris-johnson/ar-AA1czZgN?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/brutal-report-is-devastating-for-boris-johnson/ar-AA1czZgN?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.890834+00:00
+
+
+
+## No more survivors of capsized migrant boat found, with hundreds still feared missing
+ - [https://www.msn.com/en-us/news/world/no-more-survivors-of-capsized-migrant-boat-found-with-hundreds-still-feared-missing/ar-AA1cA1Tp?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/no-more-survivors-of-capsized-migrant-boat-found-with-hundreds-still-feared-missing/ar-AA1cA1Tp?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.888883+00:00
+
+
+
+## "Let there be light!" James Webb discovers ancient galaxies that gave our universe its first glow
+ - [https://www.msn.com/en-us/news/technology/let-there-be-light-james-webb-discovers-ancient-galaxies-that-gave-our-universe-its-first-glow/ar-AA1czUfH?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/let-there-be-light-james-webb-discovers-ancient-galaxies-that-gave-our-universe-its-first-glow/ar-AA1czUfH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.887064+00:00
+
+
+
+## Ex-PM Boris Johnson deliberately misled UK parliament over parties during Covid, committee rules
+ - [https://www.msn.com/en-us/news/world/ex-pm-boris-johnson-deliberately-misled-uk-parliament-over-parties-during-covid-committee-rules/ar-AA1czPrB?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/ex-pm-boris-johnson-deliberately-misled-uk-parliament-over-parties-during-covid-committee-rules/ar-AA1czPrB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.884965+00:00
+
+
+
+## Authorities seize enough fentanyl in San Francisco to kill city's entire population
+ - [https://www.msn.com/en-us/news/us/authorities-seize-enough-fentanyl-in-san-francisco-to-kill-city-s-entire-population/ar-AA1czPwg?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/authorities-seize-enough-fentanyl-in-san-francisco-to-kill-city-s-entire-population/ar-AA1czPwg?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 09:57:27.882589+00:00
+
+
+
+## Michigan student dead after being found with head trauma on the side of the road
+ - [https://www.msn.com/en-us/news/crime/michigan-student-dead-after-being-found-with-head-trauma-on-the-side-of-the-road/ar-AA1czM14?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/michigan-student-dead-after-being-found-with-head-trauma-on-the-side-of-the-road/ar-AA1czM14?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.901679+00:00
+
+
+
+## Report finds Boris Johnson deliberately misled Parliament over 'partygate' during COVID lockdown
+ - [https://www.msn.com/en-us/news/world/report-finds-boris-johnson-deliberately-misled-parliament-over-partygate-during-covid-lockdown/ar-AA1czCJL?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/report-finds-boris-johnson-deliberately-misled-parliament-over-partygate-during-covid-lockdown/ar-AA1czCJL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.899813+00:00
+
+
+
+## COUNTERPOINT: Gender crisis is really a marriage crisis
+ - [https://www.msn.com/en-us/news/politics/counterpoint-gender-crisis-is-really-a-marriage-crisis/ar-AA1czHc4?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/counterpoint-gender-crisis-is-really-a-marriage-crisis/ar-AA1czHc4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.897890+00:00
+
+
+
+## Biden bets that the best way to beat Trump is to remain silent on the indictment
+ - [https://www.msn.com/en-us/news/politics/biden-bets-that-the-best-way-to-beat-trump-is-to-remain-silent-on-the-indictment/ar-AA1czXWj?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/biden-bets-that-the-best-way-to-beat-trump-is-to-remain-silent-on-the-indictment/ar-AA1czXWj?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.896030+00:00
+
+
+
+## Remains found stuffed in garment bag 45 years ago in Nevada identified as Ohio woman
+ - [https://www.msn.com/en-us/news/crime/remains-found-stuffed-in-garment-bag-45-years-ago-in-nevada-identified-as-ohio-woman/ar-AA1czOus?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/remains-found-stuffed-in-garment-bag-45-years-ago-in-nevada-identified-as-ohio-woman/ar-AA1czOus?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.894233+00:00
+
+
+
+## Texas Gov. Greg Abbott buses group of migrants to Los Angeles
+ - [https://www.msn.com/en-us/news/us/texas-gov-greg-abbott-buses-group-of-migrants-to-los-angeles/ar-AA1cA0Fb?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/texas-gov-greg-abbott-buses-group-of-migrants-to-los-angeles/ar-AA1cA0Fb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.892719+00:00
+
+
+
+## One of Kevin McCarthy’s biggest legislative tests is still ahead — and it’s going to be messy
+ - [https://www.msn.com/en-us/news/politics/one-of-kevin-mccarthy-s-biggest-legislative-tests-is-still-ahead-and-it-s-going-to-be-messy/ar-AA1cA5C0?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/one-of-kevin-mccarthy-s-biggest-legislative-tests-is-still-ahead-and-it-s-going-to-be-messy/ar-AA1cA5C0?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.890809+00:00
+
+
+
+## Chicago woman who went missing while traveling in Japan has been found
+ - [https://www.msn.com/en-us/news/us/chicago-woman-who-went-missing-while-traveling-in-japan-has-been-found/ar-AA1cA395?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/chicago-woman-who-went-missing-while-traveling-in-japan-has-been-found/ar-AA1cA395?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 08:47:06.888654+00:00
+
+
+
+## How to pronounce cocktail names, including Caipirinha
+ - [https://www.msn.com/en-us/news/world/how-to-pronounce-cocktail-names-including-caipirinha/ar-AA1czJB2?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/how-to-pronounce-cocktail-names-including-caipirinha/ar-AA1czJB2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 07:36:51.735576+00:00
+
+
+
+## Anchorage mayor says city-planned homeless encampment not viable: 'Band-Aid on a bullet hole'
+ - [https://www.msn.com/en-us/news/us/anchorage-mayor-says-city-planned-homeless-encampment-not-viable-band-aid-on-a-bullet-hole/ar-AA1czCie?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/anchorage-mayor-says-city-planned-homeless-encampment-not-viable-band-aid-on-a-bullet-hole/ar-AA1czCie?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 07:36:51.733695+00:00
+
+
+
+## NATO debates ways to boost ties with Ukraine as war against Russian invasion drags on
+ - [https://www.msn.com/en-us/news/world/nato-debates-ways-to-boost-ties-with-ukraine-as-war-against-russian-invasion-drags-on/ar-AA1czkFD?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/nato-debates-ways-to-boost-ties-with-ukraine-as-war-against-russian-invasion-drags-on/ar-AA1czkFD?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 07:36:51.731545+00:00
+
+
+
+## How to teach Ukrainian pilots to fly F-16 jets
+ - [https://www.msn.com/en-us/news/world/how-to-teach-ukrainian-pilots-to-fly-f-16-jets/ar-AA1czqS2?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/how-to-teach-ukrainian-pilots-to-fly-f-16-jets/ar-AA1czqS2?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.284965+00:00
+
+
+
+## Trump's die-hard fans handed him another $6.6 million after he was indicted a second time, according to his campaign
+ - [https://www.msn.com/en-us/news/politics/trump-s-die-hard-fans-handed-him-another-6-6-million-after-he-was-indicted-a-second-time-according-to-his-campaign/ar-AA1czFJV?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/trump-s-die-hard-fans-handed-him-another-6-6-million-after-he-was-indicted-a-second-time-according-to-his-campaign/ar-AA1czFJV?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.283126+00:00
+
+
+
+## A 28-year-old woman was arrested and accused of spending an entire year posing as a 17-year-old Louisiana high-schooler
+ - [https://www.msn.com/en-us/news/crime/a-28-year-old-woman-was-arrested-and-accused-of-spending-an-entire-year-posing-as-a-17-year-old-louisiana-high-schooler/ar-AA1czIxC?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/a-28-year-old-woman-was-arrested-and-accused-of-spending-an-entire-year-posing-as-a-17-year-old-louisiana-high-schooler/ar-AA1czIxC?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.281278+00:00
+
+
+
+## Colorado plastic surgeon found guilty of attempted manslaughter over death of 18-year-old patient
+ - [https://www.msn.com/en-us/health/other/colorado-plastic-surgeon-found-guilty-of-attempted-manslaughter-over-death-of-18-year-old-patient/ar-AA1czE6S?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/health/other/colorado-plastic-surgeon-found-guilty-of-attempted-manslaughter-over-death-of-18-year-old-patient/ar-AA1czE6S?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.279491+00:00
+
+
+
+## Chinese premier meets with Palestinian president in effort to increase Middle East presence
+ - [https://www.msn.com/en-us/news/world/chinese-premier-meets-with-palestinian-president-in-effort-to-increase-middle-east-presence/ar-AA1czyBR?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/chinese-premier-meets-with-palestinian-president-in-effort-to-increase-middle-east-presence/ar-AA1czyBR?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.278129+00:00
+
+
+
+## 79 dead, 104 rescued after boat carrying migrants capsizes near Greece
+ - [https://www.msn.com/en-us/news/world/79-dead-104-rescued-after-boat-carrying-migrants-capsizes-near-greece/ar-AA1cwGMq?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/79-dead-104-rescued-after-boat-carrying-migrants-capsizes-near-greece/ar-AA1cwGMq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.276608+00:00
+
+
+
+## Biden celebrates after West Coast dockworkers and employers reach labor deal
+ - [https://www.msn.com/en-us/news/politics/biden-celebrates-after-west-coast-dockworkers-and-employers-reach-labor-deal/ar-AA1czG0C?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/biden-celebrates-after-west-coast-dockworkers-and-employers-reach-labor-deal/ar-AA1czG0C?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 06:26:40.274462+00:00
+
+
+
+## Idaho college murders case prompts prosecution request for big budget hike
+ - [https://www.msn.com/en-us/news/crime/idaho-college-murders-case-prompts-prosecution-request-for-big-budget-hike/ar-AA1czlzr?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/idaho-college-murders-case-prompts-prosecution-request-for-big-budget-hike/ar-AA1czlzr?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.400225+00:00
+
+
+
+## Google Making Millions From Ads for Fake Abortion Clinics
+ - [https://www.msn.com/en-us/news/politics/google-making-millions-from-ads-for-fake-abortion-clinics/ar-AA1cz2px?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/google-making-millions-from-ads-for-fake-abortion-clinics/ar-AA1cz2px?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.398862+00:00
+
+
+
+## Google hosts, profits from fake abortion clinic ads: report
+ - [https://www.msn.com/en-us/news/politics/google-hosts-profits-from-fake-abortion-clinic-ads-report/ar-AA1czjjL?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/google-hosts-profits-from-fake-abortion-clinic-ads-report/ar-AA1czjjL?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.396987+00:00
+
+
+
+## Florida set to execute man convicted of 1984 murders, rapes while children slept nearby
+ - [https://www.msn.com/en-us/news/crime/florida-set-to-execute-man-convicted-of-1984-murders-rapes-while-children-slept-nearby/ar-AA1czqil?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/florida-set-to-execute-man-convicted-of-1984-murders-rapes-while-children-slept-nearby/ar-AA1czqil?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.395147+00:00
+
+
+
+## Greece boat crisis: 79 dead and hundreds missing
+ - [https://www.msn.com/en-us/news/world/greece-boat-crisis-79-dead-and-hundreds-missing/ar-AA1czCZE?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/greece-boat-crisis-79-dead-and-hundreds-missing/ar-AA1czCZE?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.393205+00:00
+
+
+
+## Ohio cops launch search for Massachusetts mayor's missing teen daughter
+ - [https://www.msn.com/en-us/news/crime/ohio-cops-launch-search-for-massachusetts-mayor-s-missing-teen-daughter/ar-AA1czjD4?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/ohio-cops-launch-search-for-massachusetts-mayor-s-missing-teen-daughter/ar-AA1czjD4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.391296+00:00
+
+
+
+## Texas Gov. Greg Abbott buses 42 migrants to Los Angeles
+ - [https://www.msn.com/en-us/news/us/texas-gov-greg-abbott-buses-42-migrants-to-los-angeles/ar-AA1czhXi?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/texas-gov-greg-abbott-buses-42-migrants-to-los-angeles/ar-AA1czhXi?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.389431+00:00
+
+
+
+## The EU is losing patience with European banks still making money in Russia. A top official is now pressuring them to exit the market 'as soon as they can.'
+ - [https://www.msn.com/en-us/news/world/the-eu-is-losing-patience-with-european-banks-still-making-money-in-russia-a-top-official-is-now-pressuring-them-to-exit-the-market-as-soon-as-they-can/ar-AA1czKU3?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/the-eu-is-losing-patience-with-european-banks-still-making-money-in-russia-a-top-official-is-now-pressuring-them-to-exit-the-market-as-soon-as-they-can/ar-AA1czKU3?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 05:16:27.387397+00:00
+
+
+
+## Fox News Is Already Declaring the 2024 Election Rigged
+ - [https://www.msn.com/en-us/news/politics/fox-news-is-already-declaring-the-2024-election-rigged/ar-AA1cyWNJ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/fox-news-is-already-declaring-the-2024-election-rigged/ar-AA1cyWNJ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 04:05:59.356179+00:00
+
+
+
+## Kevin Costner says his estranged wife will not move out of his house amid divorce
+ - [https://www.msn.com/en-us/news/us/kevin-costner-says-his-estranged-wife-will-not-move-out-of-his-house-amid-divorce/ar-AA1czbNl?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/kevin-costner-says-his-estranged-wife-will-not-move-out-of-his-house-amid-divorce/ar-AA1czbNl?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 04:05:59.354785+00:00
+
+
+
+## Man who shot himself in his SLEEP when he dreamt he was being robbed faces firearms charges
+ - [https://www.msn.com/en-us/news/crime/man-who-shot-himself-in-his-sleep-when-he-dreamt-he-was-being-robbed-faces-firearms-charges/ar-AA1cz9Oi?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/man-who-shot-himself-in-his-sleep-when-he-dreamt-he-was-being-robbed-faces-firearms-charges/ar-AA1cz9Oi?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 04:05:59.352898+00:00
+
+
+
+## Russian military bloggers are losing their minds over reports that a Russian unit was blasted by artillery while waiting 2 hours for their commander to give a motivational speech
+ - [https://www.msn.com/en-us/news/world/russian-military-bloggers-are-losing-their-minds-over-reports-that-a-russian-unit-was-blasted-by-artillery-while-waiting-2-hours-for-their-commander-to-give-a-motivational-speech/ar-AA1cz7rH?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/russian-military-bloggers-are-losing-their-minds-over-reports-that-a-russian-unit-was-blasted-by-artillery-while-waiting-2-hours-for-their-commander-to-give-a-motivational-speech/ar-AA1cz7rH?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 04:05:59.350892+00:00
+
+
+
+## What does it mean if someone is censured?
+ - [https://www.msn.com/en-us/news/politics/what-does-it-mean-if-someone-is-censured/ar-AA1cz9pQ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/what-does-it-mean-if-someone-is-censured/ar-AA1cz9pQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 04:05:59.348902+00:00
+
+
+
+## 2 Americans found dead in luxury hotel room: Police
+ - [https://www.msn.com/en-us/news/crime/2-americans-found-dead-in-luxury-hotel-room-police/ar-AA1czdYQ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/2-americans-found-dead-in-luxury-hotel-room-police/ar-AA1czdYQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 04:05:59.346838+00:00
+
+
+
+## Idaho prosecutors ask for additional $120,000 for Bryan Kohberger trial
+ - [https://www.msn.com/en-us/news/crime/idaho-prosecutors-ask-for-additional-120-000-for-bryan-kohberger-trial/ar-AA1cze79?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/idaho-prosecutors-ask-for-additional-120-000-for-bryan-kohberger-trial/ar-AA1cze79?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.775205+00:00
+
+
+
+## Trump Brags About 'Really Big' Fundraising Support Amid Federal Indictment
+ - [https://www.msn.com/en-us/news/politics/trump-brags-about-really-big-fundraising-support-amid-federal-indictment/ar-AA1cz90G?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/trump-brags-about-really-big-fundraising-support-amid-federal-indictment/ar-AA1cz90G?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.773876+00:00
+
+
+
+## Daniel Penny Indicted in the Killing of Jordan Neely
+ - [https://www.msn.com/en-us/news/crime/daniel-penny-indicted-in-the-killing-of-jordan-neely/ar-AA1b7o6q?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/daniel-penny-indicted-in-the-killing-of-jordan-neely/ar-AA1b7o6q?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.772502+00:00
+
+
+
+## Texas Gov. Greg Abbott sends busload of migrants to Los Angeles: 'Border towns remain overrun and overwhelmed'
+ - [https://www.msn.com/en-us/news/us/texas-gov-greg-abbott-sends-busload-of-migrants-to-los-angeles-border-towns-remain-overrun-and-overwhelmed/ar-AA1czbeo?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/texas-gov-greg-abbott-sends-busload-of-migrants-to-los-angeles-border-towns-remain-overrun-and-overwhelmed/ar-AA1czbeo?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.771068+00:00
+
+
+
+## Georgia voting software will not be updated until after 2024 despite vulnerabilities
+ - [https://www.msn.com/en-us/news/politics/georgia-voting-software-will-not-be-updated-until-after-2024-despite-vulnerabilities/ar-AA1cyU6U?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/georgia-voting-software-will-not-be-updated-until-after-2024-despite-vulnerabilities/ar-AA1cyU6U?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.769195+00:00
+
+
+
+## 2 Americans found dead in hotel room in Baja California Sur, Mexico: Police
+ - [https://www.msn.com/en-us/news/crime/2-americans-found-dead-in-hotel-room-in-baja-california-sur-mexico-police/ar-AA1czdYQ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/2-americans-found-dead-in-hotel-room-in-baja-california-sur-mexico-police/ar-AA1czdYQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.767305+00:00
+
+
+
+## Canadian wildfire smoke gives Minnesota city the worst air in the US
+ - [https://www.msn.com/en-us/news/us/canadian-wildfire-smoke-gives-minnesota-city-the-worst-air-in-the-us/ar-AA1czgnt?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/canadian-wildfire-smoke-gives-minnesota-city-the-worst-air-in-the-us/ar-AA1czgnt?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.765332+00:00
+
+
+
+## Abbott says bus of migrants transported to Los Angeles
+ - [https://www.msn.com/en-us/news/politics/abbott-says-bus-of-migrants-transported-to-los-angeles/ar-AA1cyWDv?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/abbott-says-bus-of-migrants-transported-to-los-angeles/ar-AA1cyWDv?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 02:55:41.763684+00:00
+
+
+
+## 2 Surprising Reasons to Use an Air Fryer Instead of the Big Oven
+ - [https://www.msn.com/en-us/news/technology/2-surprising-reasons-to-use-an-air-fryer-instead-of-the-big-oven/ar-AATWlRf?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/technology/2-surprising-reasons-to-use-an-air-fryer-instead-of-the-big-oven/ar-AATWlRf?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.831312+00:00
+
+
+
+## Daniel Penny indicted by N.Y. grand jury in Jordan Neely subway death
+ - [https://www.msn.com/en-us/news/crime/daniel-penny-indicted-by-n-y-grand-jury-in-jordan-neely-subway-death/ar-AA1cyIH4?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/daniel-penny-indicted-by-n-y-grand-jury-in-jordan-neely-subway-death/ar-AA1cyIH4?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.829545+00:00
+
+
+
+## Midwestern town's Pride festival attracts thousands who reject far-right local politics
+ - [https://www.msn.com/en-us/news/us/midwestern-town-s-pride-festival-attracts-thousands-who-reject-far-right-local-politics/ar-AA1cz6aQ?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/midwestern-town-s-pride-festival-attracts-thousands-who-reject-far-right-local-politics/ar-AA1cz6aQ?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.828145+00:00
+
+
+
+## Author Shelby Steele's car broken into in San Francisco, $30K worth of camera gear stolen
+ - [https://www.msn.com/en-us/news/crime/author-shelby-steele-s-car-broken-into-in-san-francisco-30k-worth-of-camera-gear-stolen/ar-AA1czaFC?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/author-shelby-steele-s-car-broken-into-in-san-francisco-30k-worth-of-camera-gear-stolen/ar-AA1czaFC?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.826222+00:00
+
+
+
+## Democratic senators push for Labor budget increase to prevent abuse of migrant children
+ - [https://www.msn.com/en-us/news/politics/democratic-senators-push-for-labor-budget-increase-to-prevent-abuse-of-migrant-children/ar-AA1cyEV9?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/democratic-senators-push-for-labor-budget-increase-to-prevent-abuse-of-migrant-children/ar-AA1cyEV9?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.824495+00:00
+
+
+
+## Texas governor sends migrants to Los Angeles, aiming to send a message about border
+ - [https://www.msn.com/en-us/news/us/texas-governor-sends-migrants-to-los-angeles-aiming-to-send-a-message-about-border/ar-AA1czfAj?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/texas-governor-sends-migrants-to-los-angeles-aiming-to-send-a-message-about-border/ar-AA1czfAj?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.822632+00:00
+
+
+
+## Biden endorsed by 4 environmental and conservation groups for efforts to fight global warming
+ - [https://www.msn.com/en-us/news/politics/biden-endorsed-by-4-environmental-and-conservation-groups-for-efforts-to-fight-global-warming/ar-AA1cz3Yg?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/biden-endorsed-by-4-environmental-and-conservation-groups-for-efforts-to-fight-global-warming/ar-AA1cz3Yg?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 01:45:25.820476+00:00
+
+
+
+## House Republicans, warning of gas stove bans, blame California
+ - [https://www.msn.com/en-us/news/politics/house-republicans-warning-of-gas-stove-bans-blame-california/ar-AA1cyHmI?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/politics/house-republicans-warning-of-gas-stove-bans-blame-california/ar-AA1cyHmI?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 00:34:59.518502+00:00
+
+
+
+## A viral video of a 'reckless' robotaxi caused an uproar in San Francisco. Police say the internet got it wrong.
+ - [https://www.msn.com/en-us/news/us/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/ar-AA1cz0uO?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/a-viral-video-of-a-reckless-robotaxi-caused-an-uproar-in-san-francisco-police-say-the-internet-got-it-wrong/ar-AA1cz0uO?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 00:34:59.517067+00:00
+
+
+
+## Australia Moves to Block Russian Plan to Build New Embassy Near Parliament
+ - [https://www.msn.com/en-us/news/world/australia-moves-to-block-russian-plan-to-build-new-embassy-near-parliament/ar-AA1cyPuF?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/world/australia-moves-to-block-russian-plan-to-build-new-embassy-near-parliament/ar-AA1cyPuF?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 00:34:59.513882+00:00
+
+
+
+## Why the White House and Fox News are fighting over gay pride
+ - [https://www.msn.com/en-us/news/us/why-the-white-house-and-fox-news-are-fighting-over-gay-pride/ar-AA1cyPrb?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/us/why-the-white-house-and-fox-news-are-fighting-over-gay-pride/ar-AA1cyPrb?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 00:34:59.512441+00:00
+
+
+
+## Harvard Medical School morgue manager, others charged, indicted for trafficking human remains
+ - [https://www.msn.com/en-us/news/crime/harvard-medical-school-morgue-manager-others-charged-indicted-for-trafficking-human-remains/ar-AA1cz0Nt?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/harvard-medical-school-morgue-manager-others-charged-indicted-for-trafficking-human-remains/ar-AA1cz0Nt?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 00:34:59.511006+00:00
+
+
+
+## Experts question prosecutors' strategy against weapons expert in Alec Baldwin case
+ - [https://www.msn.com/en-us/news/crime/experts-question-prosecutors-strategy-against-weapons-expert-in-alec-baldwin-case/ar-AA1cyTfB?li=BBnbcA1&srcref=rss](https://www.msn.com/en-us/news/crime/experts-question-prosecutors-strategy-against-weapons-expert-in-alec-baldwin-case/ar-AA1cyTfB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-06-15 00:34:59.508923+00:00
+
+
+
