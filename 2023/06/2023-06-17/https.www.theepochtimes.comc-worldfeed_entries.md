@@ -1,0 +1,170 @@
+# Source:Epoch times world, URL:https://www.theepochtimes.com/c-world/feed/, language:en-US
+
+## WestJet to Shut Down Sunwing Airlines, Merge It With Mainline Business
+ - [https://www.theepochtimes.com/westjet-to-shut-down-sunwing-airlines-merge-it-with-mainline-business_5340168.html](https://www.theepochtimes.com/westjet-to-shut-down-sunwing-airlines-merge-it-with-mainline-business_5340168.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 22:36:53+00:00
+
+A Sunwing aircraft is parked at the Montréal-Pierre Elliott Trudeau International Airport in a file photo. (The Canadian Press/Paul Chiasson)
+
+## You’re Likely Eligible for Part of a $23 Million Google Settlement
+ - [https://www.theepochtimes.com/youre-likely-eligible-for-part-of-a-23-million-google-settlement_5339795.html](https://www.theepochtimes.com/youre-likely-eligible-for-part-of-a-23-million-google-settlement_5339795.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 19:37:35+00:00
+
+A Google sign is seen at the company's office in San Francisco, Calif., on April 12, 2023. (Jeff Chiu/AP Photo)
+
+## Chinese Regime Announces Strategic Partnership With Palestinian Authority
+ - [https://www.theepochtimes.com/chinese-regime-announces-strategic-partnership-with-palestinian-authority_5339662.html](https://www.theepochtimes.com/chinese-regime-announces-strategic-partnership-with-palestinian-authority_5339662.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 18:35:52+00:00
+
+Palestinian leader Mahmud Abbas attends a meeting with Chinese Premier Li Qiang in Beijing on June 15, 2023. (Jade Gao/Pool Photo via AP)
+
+## London’s ExCel Centre Wins Test Case Over £16 Million COVID-19 Insurance Claim
+ - [https://www.theepochtimes.com/londons-excel-centre-wins-test-case-over-16-million-covid-19-insurance-claim_5191376.html](https://www.theepochtimes.com/londons-excel-centre-wins-test-case-over-16-million-covid-19-insurance-claim_5191376.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 17:36:31+00:00
+
+The Excel centre in east London on May 23, 2023. (Rebecca Speare-Cole/PA)
+
+## Enbridge to Pay Bad River Band $5.1M in Line 5 Profits, Move Pipeline by 2026: Judge
+ - [https://www.theepochtimes.com/enbridge-to-pay-bad-river-band-5-1m-in-line-5-profits-move-pipeline-by-2026-judge_5339904.html](https://www.theepochtimes.com/enbridge-to-pay-bad-river-band-5-1m-in-line-5-profits-move-pipeline-by-2026-judge_5339904.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 17:29:29+00:00
+
+The Enbridge logo is shown at the company's annual meeting in Calgary, Canada, on May 9, 2018. (Jeff McIntosh/The Canadian Press)
+
+## Ecuador Authorities Confiscate Pigs, Fighting Cocks From Prison
+ - [https://www.theepochtimes.com/ecuador-authorities-confiscate-pigs-fighting-cocks-from-prison_5339809.html](https://www.theepochtimes.com/ecuador-authorities-confiscate-pigs-fighting-cocks-from-prison_5339809.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 15:55:03+00:00
+
+View of pigs confiscated by members of Ecuador's security forces in a high security jail, in Santo Domingo, Ecuador, in this image released on June 16, 2023 and obtained from social media. (Fuerzas Armadas del Ecuador via Twitter/via Reuters)
+
+## Terrorists Kill 37, Abduct 6 Others in Attack on Ugandan School
+ - [https://www.theepochtimes.com/terrorists-kill-37-abduct-6-others-in-attack-on-ugandan-school_5339773.html](https://www.theepochtimes.com/terrorists-kill-37-abduct-6-others-in-attack-on-ugandan-school_5339773.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 15:41:34+00:00
+
+A crime scene is secured by the Ugandan police in Kampala, Uganda, on Oct. 24, 2021. (Badru Katumba/AFP via Getty Images)
+
+## Severe Storm Kills 3 in Southern Brazil, 12 Still Missing
+ - [https://www.theepochtimes.com/severe-storm-kills-3-in-southern-brazil-12-still-missing_5339743.html](https://www.theepochtimes.com/severe-storm-kills-3-in-southern-brazil-12-still-missing_5339743.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 15:09:38+00:00
+
+A map shows the location of state of Rio Grande do Sul in Brazil, on June 17, 2023. (Google Maps)
+
+## ANALYSIS: Vatican Official Denies Whistleblower’s Mussolini-Era UAP Cover-Up Claim
+ - [https://www.theepochtimes.com/analysis-vatican-official-denies-whistleblowers-mussolini-era-uap-cover-up-claim_5338111.html](https://www.theepochtimes.com/analysis-vatican-official-denies-whistleblowers-mussolini-era-uap-cover-up-claim_5338111.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 15:01:18+00:00
+
+Maj. Jesse Marcel from the Roswell Army Air Field with debris found 75 miles north west of Roswell, N.M., in June 1947. The debris has been identified as that of a radar target. The Air Force released a report on June 24 debunking reports of a UFO crash near Roswell, N.M., in 1947. (UNITED STATES AIR FORCE/AFP/Getty Images)
+
+## Sunak Delays Ban on Junk Food Multibuy Deals Amid High Cost of Living
+ - [https://www.theepochtimes.com/sunak-delays-ban-on-junk-food-multibuy-deals-amid-high-cost-of-living_5280155.html](https://www.theepochtimes.com/sunak-delays-ban-on-junk-food-multibuy-deals-amid-high-cost-of-living_5280155.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 14:25:47+00:00
+
+Soft drinks on supermarket shelving in London on Jan. 29, 2013. (Lewis Whyld/PA)
+
+## Putin Confirms Russia Sent Nuclear Weapons to Belarus
+ - [https://www.theepochtimes.com/putin-confirms-russia-sent-nuclear-weapons-to-belarus_5339598.html](https://www.theepochtimes.com/putin-confirms-russia-sent-nuclear-weapons-to-belarus_5339598.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 14:06:44+00:00
+
+A rocket launches from missile system as part of a ground-based intercontinental ballistic missile test launched from the Plesetsk facility in northwestern Russia on Dec. 9, 2020. (Russian Defense Ministry Press Service via AP)
+
+## US, Japan, Philippines Pledge to Strengthen Trilateral Defense Capabilities
+ - [https://www.theepochtimes.com/us-japan-philippines-pledge-to-strengthen-trilateral-defense-capabilities_5339546.html](https://www.theepochtimes.com/us-japan-philippines-pledge-to-strengthen-trilateral-defense-capabilities_5339546.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 12:56:13+00:00
+
+Members of the Philippine Coast Guard take part in a simulation during a trilateral maritime exercise with Japan and U.S. coast guards, 15 nautical miles off the coast of Bataan province, western Philippines, on June 6, 2023. (Jes Aznar/Getty Images)
+
+## Mayor of Western Manitoba Community Says Outpouring of Support Appreciated
+ - [https://www.theepochtimes.com/mayor-of-western-manitoba-community-says-outpouring-of-support-appreciated_5339655.html](https://www.theepochtimes.com/mayor-of-western-manitoba-community-says-outpouring-of-support-appreciated_5339655.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 12:50:45+00:00
+
+A Canadian flag flies at half-mast at a truck stop in Brandon, Man., on June 16, 2023, to honour the victims of a bus crash in Carberry, on the Trans-Canada Highway west of Winnipeg. (The Canadian Press/Darryl Dyck)
+
+## Mass of Rock Slides Down Swiss Mountainside Above Evacuated Village, Narrowly Missing Settlement
+ - [https://www.theepochtimes.com/mass-of-rock-slides-down-swiss-mountainside-above-evacuated-village-narrowly-missing-settlement_5339647.html](https://www.theepochtimes.com/mass-of-rock-slides-down-swiss-mountainside-above-evacuated-village-narrowly-missing-settlement_5339647.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 12:37:45+00:00
+
+A helicopter flies over the rockfall "Brienzer Rutsch" above the village Brienz-Brinzauls in Switzerland, on June 16, 2023. (Michael Buholzer/Keystone via AP)
+
+## Is Mr. Bean Right About EVs?
+ - [https://www.theepochtimes.com/is-mr-bean-right-about-evs_5339614.html](https://www.theepochtimes.com/is-mr-bean-right-about-evs_5339614.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 12:18:48+00:00
+
+British comedy icon Mr. Bean heads to Buckingham Palace to celebrate 25 years, the release of Mr. Bean 25th Anniversary DVD Boxset at The Mall in London, England on Sept. 4, 2015. (Stuart C. Wilson/Getty Images for Universal Pictures Home Entertainment)
+
+## Japan Raises Age of Consent to 16 in Overhaul of Century-Old Sex Crime Laws
+ - [https://www.theepochtimes.com/japan-raises-age-of-consent-to-16-in-overhaul-of-century-old-sex-crime-laws_5339358.html](https://www.theepochtimes.com/japan-raises-age-of-consent-to-16-in-overhaul-of-century-old-sex-crime-laws_5339358.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 09:23:24+00:00
+
+The Japanese flag flies in a park in Osaka, Japan, on Oct. 30, 2018. (Thomas White/Reuters)
+
+## ‘We Know What’s at Stake’: Manitoba Minibus Drivers Say Safety Paramount for Seniors
+ - [https://www.theepochtimes.com/we-know-whats-at-stake-manitoba-minibus-drivers-say-safety-paramount-for-seniors_5339493.html](https://www.theepochtimes.com/we-know-whats-at-stake-manitoba-minibus-drivers-say-safety-paramount-for-seniors_5339493.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 05:33:50+00:00
+
+A scorched patch of ground where a bus carrying seniors ended up after colliding with a transport truck and burning on Thursday is seen on the edge of the Trans-Canada Highway where it intersects with Highway 5, west of Winnipeg near Carberry, June 16, 2023. (The Canadian Press/Darryl Dyck)
+
+## Payouts for Australian Navy Recruits Denied Trade Certificates
+ - [https://www.theepochtimes.com/payouts-for-australian-navy-recruits-denied-trade-certificates_5339246.html](https://www.theepochtimes.com/payouts-for-australian-navy-recruits-denied-trade-certificates_5339246.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 04:00:27+00:00
+
+Navy personnel board HMAS Brisbane during a commissioning ceremony in Sydney, Oct. 27, 2018. (AAP Image/Joel Carrett)
+
+## NATO Takes Action to Protect Undersea Infrastructure as Senior Russian Leader Says They’re Fair Game
+ - [https://www.theepochtimes.com/nato-takes-action-to-protect-undersea-infrastructure-as-senior-russian-leader-says-theyre-fair-game_5338606.html](https://www.theepochtimes.com/nato-takes-action-to-protect-undersea-infrastructure-as-senior-russian-leader-says-theyre-fair-game_5338606.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 03:43:51+00:00
+
+NATO Secretary General Jens Stoltenberg delivers remarks to journalists as he arrives at the NATO headquarters in Brussels, on June 15, 2023 during a two-day meeting of the North Atlantic Council (NAC). (Simon Wohlfahrt/AFP via Getty Images)
+
+## Lismore Mayor Slams Rollout of Flood Buybacks
+ - [https://www.theepochtimes.com/lismore-mayor-slams-rollout-of-flood-buybacks_5339205.html](https://www.theepochtimes.com/lismore-mayor-slams-rollout-of-flood-buybacks_5339205.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 03:00:32+00:00
+
+A main street is under floodwater in Lismore, Australia, on March 31, 2022. (Dan Peled/Getty Images)
+
+## Palestinian Leader Abbas Ends China Trip After Backing Beijing’s Suppression of Muslim Minorities
+ - [https://www.theepochtimes.com/palestinian-leader-abbas-ends-china-trip-after-backing-beijings-suppression-of-muslim-minorities_5330275.html](https://www.theepochtimes.com/palestinian-leader-abbas-ends-china-trip-after-backing-beijings-suppression-of-muslim-minorities_5330275.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 02:43:39+00:00
+
+Palestinian leader Mahmud Abbas attends a meeting with Chinese Premier Li Qiang in Beijing on June 15, 2023. (Jade Gao/Pool Photo via AP)
+
+## Profit Upgrade Electrifies AGL Energy, Power Bills Soar
+ - [https://www.theepochtimes.com/profit-upgrade-electrifies-agl-energy-power-bills-soar_5337815.html](https://www.theepochtimes.com/profit-upgrade-electrifies-agl-energy-power-bills-soar_5337815.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 02:00:08+00:00
+
+AGL Power Station at Torrens Island in Adelaide, Nov. 4, 2019. (AAP Image/Kelly Barnes)
+
+## Push to Stop ‘Arms Race’ in Australian Federal Election Spending
+ - [https://www.theepochtimes.com/push-to-stop-arms-race-in-australian-federal-election-spending_5337790.html](https://www.theepochtimes.com/push-to-stop-arms-race-in-australian-federal-election-spending_5337790.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 01:00:58+00:00
+
+Australian banknotes in Melbourne, on Nov. 7, 2017. (Paul Crocker/AFP via Getty Images)
+
+## Crown Casino Lands $20M Fine After Tax Claims and Cover-Ups
+ - [https://www.theepochtimes.com/crown-casino-lands-20m-fine-after-tax-claims-and-cover-ups_5337763.html](https://www.theepochtimes.com/crown-casino-lands-20m-fine-after-tax-claims-and-cover-ups_5337763.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-06-17 00:00:36+00:00
+
+A person walks past signage at the Crown Casino in Melbourne, Australia, on March 22, 2021. (William West/AFP via Getty Images)
+
