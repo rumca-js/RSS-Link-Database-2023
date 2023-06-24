@@ -1,0 +1,86 @@
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
+
+## Titanic submersible’s apparent implosion being investigated
+ - [https://www.nbcnews.com/nightly-news/video/titanic-submersible-s-apparent-implosion-being-investigated-184390725991](https://www.nbcnews.com/nightly-news/video/titanic-submersible-s-apparent-implosion-being-investigated-184390725991)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 23:01:00+00:00
+
+Canada’s Transportation Safety Board has launched an investigation into the apparent implosion of the submersible that went to explore the Titanic’s wreckage. NBC News’ Tom Costello has more details on the response from experts on the safety of the vessel.
+
+## Russian mercenary chief accuses Russian army of bombing his troops and vows retaliation
+ - [https://www.nbcnews.com/news/world/ukraine-russia-wagner-mercenary-prigozhin-army-bombing-troops-rcna90870](https://www.nbcnews.com/news/world/ukraine-russia-wagner-mercenary-prigozhin-army-bombing-troops-rcna90870)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 20:15:19+00:00
+
+Russian mercenary chief Yevgeny Prigozhin accused the Russian military of “destroying” his fighters, without fully explaining his accusation.
+
+## DOJ files first-ever charges against Chinese fentanyl manufacturers
+ - [https://www.nbcnews.com/news/us-news/doj-files-first-ever-charges-chinese-fentanyl-manufacturers-rcna90846](https://www.nbcnews.com/news/us-news/doj-files-first-ever-charges-chinese-fentanyl-manufacturers-rcna90846)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 18:24:55+00:00
+
+The Justice Department filed criminal charges against four Chinese chemical manufacturing companies and eight individuals over allegations they illegally trafficked the chemicals used to make fentanyl — a highly addictive painkiller that has fueled the opioid crisis in the United States.
+
+## At least 31 illegal miners killed in South Africa explosion only now coming to light
+ - [https://www.nbcnews.com/news/world/illegal-miners-killed-south-africa-explosion-lesotho-gold-rcna90834](https://www.nbcnews.com/news/world/illegal-miners-killed-south-africa-explosion-lesotho-gold-rcna90834)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 17:33:25+00:00
+
+At least 31 illegal miners are believed to have died more than a month ago in a gas explosion in a shuttered gold mine in South Africa that is only now coming to light after people reported their relatives missing, authorities said Friday.
+
+## Australian PM dismisses concern over Russian embassy squatter
+ - [https://www.nbcnews.com/video/australian-pm-dismisses-concern-over-russian-embassy-squatter-184325189543](https://www.nbcnews.com/video/australian-pm-dismisses-concern-over-russian-embassy-squatter-184325189543)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 17:03:58+00:00
+
+“The national security threat that was represented by a Russian embassy on site are not the same as some bloke standing on a blade of grass on the site,” said Australian Prime Minister Anthony Albanese. “That we don't see really as a threat to our national security.”
+
+## OceanGate co-founder insists Stockton Rush was ‘very committed to safety’
+ - [https://www.nbcnews.com/video/oceangate-co-founder-guillermo-sohnlein-defends-sub-company-s-commitment-to-safety-184320069932](https://www.nbcnews.com/video/oceangate-co-founder-guillermo-sohnlein-defends-sub-company-s-commitment-to-safety-184320069932)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 15:51:06+00:00
+
+“Stockton was one of the most astute risk managers I'd ever met,” said Guillermo Söhnlein, adding, “When I was there, we always were very transparent with anyone who was going to join us on expeditions about the risks involved."
+
+## What is a 'catastrophic implosion?' How pressure but no pain likely marked the end for Titanic sub
+ - [https://www.nbcnews.com/news/world/titanic-sub-search-catastrophic-implosion-rcna90744](https://www.nbcnews.com/news/world/titanic-sub-search-catastrophic-implosion-rcna90744)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 15:48:47+00:00
+
+The Titan submersible was so deep, experts said, that the forces behind the "catastrophic implosion" would have been equivalent to the weight of Paris' Eiffel Tower.
+
+## Kenya could follow Uganda as East African nations wage war on LGBTQ rights
+ - [https://www.nbcnews.com/nbc-out/out-news/kenya-follow-uganda-east-african-nations-wage-war-lgbtq-rights-rcna90786](https://www.nbcnews.com/nbc-out/out-news/kenya-follow-uganda-east-african-nations-wage-war-lgbtq-rights-rcna90786)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 15:08:26+00:00
+
+Weeks after Uganda enacted one of the most draconian anti-LGBTQ laws on Earth, Kenya could be poised to follow suit.
+
+## Squatting Russian diplomat fuels standoff over national security
+ - [https://www.nbcnews.com/news/world/squatting-russian-diplomat-australia-embassy-standoff-canberra-rcna90740](https://www.nbcnews.com/news/world/squatting-russian-diplomat-australia-embassy-standoff-canberra-rcna90740)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 12:02:39+00:00
+
+A suspected Russian diplomat is squatting on the site of Moscow’s proposed new embassy in the Australian capital, Canberra, in a growing national security standoff.
+
+## Beijing breaks June temperature record amid scorching heatwave
+ - [https://www.nbcnews.com/video/beijing-breaks-june-temperature-record-amid-scorching-heatwave-184278597550](https://www.nbcnews.com/video/beijing-breaks-june-temperature-record-amid-scorching-heatwave-184278597550)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 09:30:47+00:00
+
+The temperature in Beijing hit 106 degrees Fahrenheit, shattering the record for the hottest day in June as heatwaves sear parts of northern China. At a plaza in central Beijing, people could be seen taking refuge from the heat in a public water fountain and the shade of large nearby umbrellas.
+
+## Hundreds still missing in migrant boat accident as sub accident captures more attention
+ - [https://www.nbcnews.com/now/video/hundreds-still-missing-in-migrant-boat-accident-as-sub-accident-captures-more-attention-184222789814](https://www.nbcnews.com/now/video/hundreds-still-missing-in-migrant-boat-accident-as-sub-accident-captures-more-attention-184222789814)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 02:52:26+00:00
+
+NBC News' Matt Bradley looks at the differences between the attention given to the victims of the migrant boat sinking off Greece that killed at least 81 people and the missing Titan submersible that left five people presumed dead.
+
+## Ukraine pleas for more U.S support in the air
+ - [https://www.nbcnews.com/now/video/ukraine-pleas-for-more-u-s-support-in-the-air-184218181706](https://www.nbcnews.com/now/video/ukraine-pleas-for-more-u-s-support-in-the-air-184218181706)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-06-23 02:18:10+00:00
+
+Ukraine is pleading for American F-16s as the country is outnumbered in the air. The plea comes after Ukrainian President Volodymyr Zelenskyy accuses Russia of planning to destroy a nuclear power plant. NBC News'  Raf Sanchez reports.
+
