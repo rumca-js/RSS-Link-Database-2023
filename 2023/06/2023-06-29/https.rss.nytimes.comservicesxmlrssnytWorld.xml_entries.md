@@ -1,0 +1,184 @@
+# Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
+
+## Nahel M. Police Killing Outrages French People of Color
+ - [https://www.nytimes.com/2023/06/29/world/europe/france-nahel-m-protests.html](https://www.nytimes.com/2023/06/29/world/europe/france-nahel-m-protests.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 23:30:19+00:00
+
+“We don’t forget, we don’t forgive,” crowds chanted as they denounced the shooting death of a 17-year-old from the Paris suburb of Nanterre.
+
+## Russia May Have Detained a Top General, U.S. Says
+ - [https://www.nytimes.com/2023/06/29/world/europe/russia-putin-wagner-ukraine.html](https://www.nytimes.com/2023/06/29/world/europe/russia-putin-wagner-ukraine.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 22:16:45+00:00
+
+President Vladimir V. Putin of Russia made highly choreographed appearances in an effort to project power and control, and U.S. officials suggested Gen. Sergei Surovikin was probably being held.
+
+## Heat Wave and Wildfire Smoke Affecting Huge Portions of North America
+ - [https://www.nytimes.com/2023/06/29/climate/heat-wave-wildfires-canada-climate.html](https://www.nytimes.com/2023/06/29/climate/heat-wave-wildfires-canada-climate.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 22:15:58+00:00
+
+The twin threats have sickened people across the continent with little relief in sight.
+
+## Can Russia Tame Wagner in Africa Without Destroying It?
+ - [https://www.nytimes.com/2023/06/29/world/africa/central-african-republic-wagner-africa-syria.html](https://www.nytimes.com/2023/06/29/world/africa/central-african-republic-wagner-africa-syria.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 22:13:40+00:00
+
+The mercenary group is so deeply enmeshed in the Central African Republic and several other nations that it can’t be easily replaced, experts say.
+
+## Your Friday Briefing: Top U.S. Court Rules Against Affirmative Action
+ - [https://www.nytimes.com/2023/06/29/briefing/affirmative-action-us-france-shein-asia.html](https://www.nytimes.com/2023/06/29/briefing/affirmative-action-us-france-shein-asia.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 20:32:50+00:00
+
+Also, more protests in France and a backlash at Shein.
+
+## Russia Appears to Have Detained Surovikin in Post-Mutiny Crackdown, U.S. Says
+ - [https://www.nytimes.com/2023/06/29/world/europe/sergey-surovikin-detained-russia.html](https://www.nytimes.com/2023/06/29/world/europe/sergey-surovikin-detained-russia.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 19:06:21+00:00
+
+The circumstances surrounding Gen. Sergei Surovikin’s status are still very murky. U.S. officials cautioned that the intelligence reports were not conclusive and could not provide further details.
+
+## Botswana Supplies the World With Diamonds. It Wants More of the Profits.
+ - [https://www.nytimes.com/2023/06/29/world/africa/botswana-diamonds-de-beers.html](https://www.nytimes.com/2023/06/29/world/africa/botswana-diamonds-de-beers.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 18:34:05+00:00
+
+Botswana, in southern Africa, has partnered with the London-based diamond giant De Beers for decades. Many in the country are pushing to get a better deal from the industry.
+
+## Waterloo Student Charged in Stabbing in Gender Studies Class
+ - [https://www.nytimes.com/2023/06/29/world/canada/canada-stabbing-university-waterloo.html](https://www.nytimes.com/2023/06/29/world/canada/canada-stabbing-university-waterloo.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 18:23:54+00:00
+
+A professor and two students at the University of Waterloo were treated for their injuries. A 24-year-old student was charged with assault.
+
+## Burning of Quran in Stockholm Sparks Outrage in Muslim World
+ - [https://www.nytimes.com/2023/06/29/world/middleeast/quran-burning-stockholm-sweden.html](https://www.nytimes.com/2023/06/29/world/middleeast/quran-burning-stockholm-sweden.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 16:52:33+00:00
+
+Sweden has been widely condemned for allowing the burning of the Muslim holy book outside a mosque on Wednesday during Eid al-Adha, a major Islamic holiday.
+
+## Palace Expenses Force King Charles to Dip Into a Reserve Fund
+ - [https://www.nytimes.com/2023/06/29/world/europe/uk-royals-finances-charles.html](https://www.nytimes.com/2023/06/29/world/europe/uk-royals-finances-charles.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 15:58:39+00:00
+
+Rising costs and outlays for special events like the queen’s funeral pushed up the Royal Family’s official expenses. The Palace also fell short of its goals on diversifying its work force.
+
+## France Police Shooting and Riots: What to Know
+ - [https://www.nytimes.com/2023/06/29/world/europe/france-riots-nahel-shooting.html](https://www.nytimes.com/2023/06/29/world/europe/france-riots-nahel-shooting.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 14:35:10+00:00
+
+Violent riots convulsed French cities after the police shooting of a 17-year-old. The interior minister said that 40,000 officers would be deployed across France on Thursday evening.
+
+## What We Know About Nahel M., the 17-Year-Old Fatally Shot by Police in France
+ - [https://www.nytimes.com/2023/06/29/world/europe/nahel-france-police-shooting-nanterre.html](https://www.nytimes.com/2023/06/29/world/europe/nahel-france-police-shooting-nanterre.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 13:05:45+00:00
+
+The 17-year-old fatally shot by a police officer was an only child being raised by his mother in Nanterre, a Paris suburb.
+
+## War in Ukraine Takes Its Toll on the Tchaikovsky Competition
+ - [https://www.nytimes.com/2023/06/29/arts/music/tchaikovsky-competition-putin-war.html](https://www.nytimes.com/2023/06/29/arts/music/tchaikovsky-competition-putin-war.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 13:00:23+00:00
+
+With Russia a pariah in the West since its invasion of Ukraine, this usually prestigious event is underway with far fewer international participants.
+
+## Mexico’s Heat Wave Raises Concerns for Deaths and Energy Grid
+ - [https://www.nytimes.com/2023/06/29/world/americas/mexico-heat-wave.html](https://www.nytimes.com/2023/06/29/world/americas/mexico-heat-wave.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 11:48:40+00:00
+
+Blistering heat has gripped the northern part of the country, leading to concerns about people’s health and the energy grid.
+
+## On Ukraine’s Front Lines
+ - [https://www.nytimes.com/2023/06/29/briefing/ukraine-russia.html](https://www.nytimes.com/2023/06/29/briefing/ukraine-russia.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 10:43:48+00:00
+
+Ukrainian combat medics share their stories of war, more than a year after the invasion began.
+
+## Why Israel Is Pushing to Expand West Bank Settlements
+ - [https://www.nytimes.com/2023/06/29/world/middleeast/israel-west-bank-settlements-expansion.html](https://www.nytimes.com/2023/06/29/world/middleeast/israel-west-bank-settlements-expansion.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 10:43:37+00:00
+
+The right-wing government of Prime Minister Benjamin Netanyahu has taken steps to increase the number of homes in Jewish settlements in the occupied West Bank, prompting international condemnation.
+
+## UK Government Plan to Send Asylum Seekers to Rwanda Is Unlawful, Court Rules
+ - [https://www.nytimes.com/2023/06/29/world/europe/uk-rwanda-migrants-unlawful.html](https://www.nytimes.com/2023/06/29/world/europe/uk-rwanda-migrants-unlawful.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 10:41:16+00:00
+
+A three-judge court of appeals said the African country was not a safe country for migrants seeking asylum. The government is now expected to appeal to the Supreme Court.
+
+## Hurricane Adrian Churns Off the Coast of Mexico in the Eastern Pacific
+ - [https://www.nytimes.com/article/hurricane-adrian-mexico-pacific.html](https://www.nytimes.com/article/hurricane-adrian-mexico-pacific.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 10:07:22+00:00
+
+The storm was more than 400 miles off Mexico’s west coast early Thursday morning. It was forecast to stay offshore.
+
+## New Wave of Overnight Rage Rocks France; Officer in Police Shooting Will Be Investigated
+ - [https://www.nytimes.com/live/2023/06/29/world/france-police-shooting](https://www.nytimes.com/live/2023/06/29/world/france-police-shooting)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 09:52:22+00:00
+
+The authorities said that 150 people had been arrested after protesters burned cars and buildings for the second night in a row in response to the killing of a 17-year-old driver by a police officer.
+
+## Mercenary Leader’s Deep Connections Complicate Putin’s Response
+ - [https://www.nytimes.com/live/2023/06/29/world/russia-ukraine-news](https://www.nytimes.com/live/2023/06/29/world/russia-ukraine-news)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 09:49:02+00:00
+
+The fate of Sergei Surovikin, a senior Russian general who American officials say knew about Yevgeny V. Prigozhin’s rebellion in advance, is unknown.
+
+## One Dead in South Korea as Monsoon Season Arrives
+ - [https://www.nytimes.com/2023/06/29/world/asia/south-korea-monsoon-death.html](https://www.nytimes.com/2023/06/29/world/asia/south-korea-monsoon-death.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 09:35:56+00:00
+
+This summer’s forecast is similar to that of last year, when the nation saw its heaviest rainfall in eight decades and at least nine people died.
+
+## Exclusive: Inside a Ukrainian Battlefield Hospital
+ - [https://www.nytimes.com/video/world/europe/100000008893083/ukraine-frontline-hospital.html](https://www.nytimes.com/video/world/europe/100000008893083/ukraine-frontline-hospital.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 09:12:16+00:00
+
+The New York Times gained rare access to a military field hospital in eastern Ukraine, capturing the relentless toll of Russia’s war through the eyes of frontline combat medics and wounded soldiers.
+
+## Afghanistan Has Ousted Americans, but Cultural Influences Remain
+ - [https://www.nytimes.com/2023/06/29/world/asia/kabul-afghanistan-western-influence.html](https://www.nytimes.com/2023/06/29/world/asia/kabul-afghanistan-western-influence.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 09:01:06+00:00
+
+While the Taliban have erased most obvious vestiges of the U.S. nation-building effort in Afghanistan, the cultural legacy of two decades of American occupation has been harder to stamp out.
+
+## Prigozhin May Be Gone, but Not the Failings He Ranted About
+ - [https://www.nytimes.com/2023/06/29/world/europe/prigozhin-shoigu-gerasimov-surovikin-russia-military.html](https://www.nytimes.com/2023/06/29/world/europe/prigozhin-shoigu-gerasimov-surovikin-russia-military.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 09:00:50+00:00
+
+The Russian military still suffers from poor communication, coordination and leadership, but most of all, analysts say, from a morale-sapping lack of accountability.
+
+## Your Thursday Briefing
+ - [https://www.nytimes.com/2023/06/29/briefing/putin-wagner-wildfire-smoke.html](https://www.nytimes.com/2023/06/29/briefing/putin-wagner-wildfire-smoke.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 04:45:13+00:00
+
+Warnings of a crackdown on those affiliated with the head of Wagner.
+
+## The Cosmos Is Thrumming With Gravitational Waves, Astronomers Find
+ - [https://www.nytimes.com/2023/06/28/science/astronomy-gravitational-waves-nanograv.html](https://www.nytimes.com/2023/06/28/science/astronomy-gravitational-waves-nanograv.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-06-29 00:51:09+00:00
+
+Radio telescopes around the world picked up a telltale hum reverberating across the cosmos, most likely from supermassive black holes merging in the early universe.
+
