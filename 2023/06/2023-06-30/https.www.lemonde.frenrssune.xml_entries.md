@@ -1,0 +1,170 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Man dies in French Guiana amid riots in French Caribbean territories over death of Nahel M.
+ - [https://www.lemonde.fr/en/international/article/2023/07/01/man-dies-in-french-guiana-amid-riots-in-french-caribbean-territories-over-death-of-nahel-m_6040433_4.html](https://www.lemonde.fr/en/international/article/2023/07/01/man-dies-in-french-guiana-amid-riots-in-french-caribbean-territories-over-death-of-nahel-m_6040433_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T23:22:12+00:00
+
+A  stray bullet killed a 54-year-old government worker late Thursday in the capital city of Cayenne.
+
+## Tour de France 2023: Five things to watch out for
+ - [https://www.lemonde.fr/en/france/article/2023/07/01/tour-de-france-2023-five-things-to-watch-out-for_6040431_7.html](https://www.lemonde.fr/en/france/article/2023/07/01/tour-de-france-2023-five-things-to-watch-out-for_6040431_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T22:52:54+00:00
+
+From a starting point outside France to a mountainous route and more, here's what to know.
+
+## UNESCO votes to readmit the United States
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/unesco-votes-to-readmit-the-united-states_6040397_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/unesco-votes-to-readmit-the-united-states_6040397_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T18:53:34+00:00
+
+In 2017, the Donald Trump administration withdraw the US from the United Nations' scientific, educational and cultural organization, citing anti-Israel bias.
+
+## Death of Nahel: Anger and incomprehension among police unions after Nanterre shooter taken into custody
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/death-of-nahel-anger-and-incomprehension-among-police-unions-after-nanterre-shooter-taken-into-custody_6040291_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/death-of-nahel-anger-and-incomprehension-among-police-unions-after-nanterre-shooter-taken-into-custody_6040291_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T16:04:04+00:00
+
+The professional organizations question the government's responsibility in the decision to incarcerate the officer who killed the 17-year-old in a traffic stop.
+
+## Alan Arkin, witty Oscar-winning actor, dies at 89
+ - [https://www.lemonde.fr/en/obituaries/article/2023/06/30/alan-arkin-witty-oscar-winning-actor-dies-at-89_6040290_15.html](https://www.lemonde.fr/en/obituaries/article/2023/06/30/alan-arkin-witty-oscar-winning-actor-dies-at-89_6040290_15.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T16:04:00+00:00
+
+Arkin, who was nominated for roles in 'Little Miss Sunshine' and 'Argo,' was known for his humor and improvisation skills.
+
+## US Supreme Court nixes Biden's $400 billion student debt cancellation plan
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/us-supreme-court-nixes-biden-s-400-billion-student-debt-cancellation-plan_6040286_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/us-supreme-court-nixes-biden-s-400-billion-student-debt-cancellation-plan_6040286_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T15:45:49+00:00
+
+The conservative-dominated court voted six to three in the ruling, saying the president should have obtained specific authorization from Congress to launch the program.
+
+## US Supreme Court backs website designer who refused to serve same-sex couple
+ - [https://www.lemonde.fr/en/united-states/article/2023/06/30/us-supreme-court-backs-website-designer-who-refused-to-serve-same-sex-couple_6040279_133.html](https://www.lemonde.fr/en/united-states/article/2023/06/30/us-supreme-court-backs-website-designer-who-refused-to-serve-same-sex-couple_6040279_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T14:34:47+00:00
+
+In a win for religious rights, the court ruled 6-3 in favor of Lorie Smith. Opponents warn this decision will allow a range of businesses to discriminate, refusing to serve Black, Jewish or Muslim customers.
+
+## More than 320 French citizens and residents have gone to fight in Ukraine since the start of the war
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/more-than-320-french-citizens-and-residents-have-gone-to-fight-in-ukraine-since-the-start-of-the-war_6040276_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/more-than-320-french-citizens-and-residents-have-gone-to-fight-in-ukraine-since-the-start-of-the-war_6040276_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T14:06:15+00:00
+
+Nearly 120 of these individuals belong to the 'ultra-right,' which has prompted intelligence services to step up their vigilance against a backdrop of radicalization.
+
+## EU-27 express support for long-term commitment to Ukraine's security
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/eu-27-express-support-for-long-term-commitment-to-ukraine-s-security_6040239_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/eu-27-express-support-for-long-term-commitment-to-ukraine-s-security_6040239_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T13:02:15+00:00
+
+Meeting in Brussels on June 29 and 30, the European heads of state and government gave no further details on the future military aid, which is expected to outlive the war.
+
+## French debt exceeds €3 trillion for first time
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/french-debt-exceeds-3-trillion-for-first-time_6040202_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/french-debt-exceeds-3-trillion-for-first-time_6040202_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T11:44:01+00:00
+
+The growing debt mountain follows a massive surge in borrowing after the Covid-19 pandemic.
+
+## PSG coach Galtier arrested in discrimination probe
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/psg-coach-galtier-arrested-in-discrimination-probe_6040201_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/psg-coach-galtier-arrested-in-discrimination-probe_6040201_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T11:37:00+00:00
+
+Christophe Galtier is being detained with his son John Valovic-Galtier as part of an investigation into racism allegations at his former club, according to a justice official on Friday.
+
+## The dubious relationship between Boris Johnson and the Lord of Siberia
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/the-dubious-relationship-between-boris-johnson-and-the-lord-of-siberia_6040133_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/the-dubious-relationship-between-boris-johnson-and-the-lord-of-siberia_6040133_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T11:10:48+00:00
+
+The former British prime minister appointed Evgeny Lebedev, the son of a former KGB officer turned oligarch, to the House of Lords, against the advice of the intelligence services, who were convinced of links between the Lebedev family and the Kremlin.
+
+## Mexico's anti-cartel crusader Hipólito Mora gunned down in ambush
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/mexico-s-anti-cartel-crusader-hipolito-mora-gunned-down-in-ambush_6040132_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/mexico-s-anti-cartel-crusader-hipolito-mora-gunned-down-in-ambush_6040132_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T11:04:46+00:00
+
+One of the founders of Mexico’s 'self-defense' movement, the vigilante crusader Hipólito Mora, was murdered in an ambush in his hometown, La Ruana.
+
+## 'His death could have been theirs:' Why a section of France's youth identifies with Nahel M.
+ - [https://www.lemonde.fr/en/opinion/article/2023/06/30/his-death-could-have-been-theirs-why-a-section-of-france-s-youth-identifies-with-nahel-m_6040124_23.html](https://www.lemonde.fr/en/opinion/article/2023/06/30/his-death-could-have-been-theirs-why-a-section-of-france-s-youth-identifies-with-nahel-m_6040124_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T10:58:32+00:00
+
+Following the fatal police shooting of a teenage boy on Tuesday, sociologist Fabien Truong analyzes the reasons for the anger in some working-class neighborhoods.
+
+## United Nations: France must 'seriously address' police racism
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/united-nations-france-must-seriously-address-police-racism_6040123_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/united-nations-france-must-seriously-address-police-racism_6040123_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T10:50:24+00:00
+
+UN human rights office spokeswoman Ravina Shamdasani spoke out against 'deep issues of racism and discrimination in law enforcement' at a media briefing in Geneva.
+
+## French PM says 'all options' being considered to restore order
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/french-pm-says-all-options-being-considered-to-restore-order_6040117_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/french-pm-says-all-options-being-considered-to-restore-order_6040117_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T10:42:35+00:00
+
+On Thursday evening, the French government had refused to declare a state of emergency called for by the right and far-right after the death of Nahel M., a teenager shot by police in the Paris suburb of Nanterre on Tuesday.
+
+## Macron's balancing act: Maintaining order without losing police support
+ - [https://www.lemonde.fr/en/opinion/article/2023/06/30/macron-s-balancing-act-maintaining-order-without-losing-police-support_6040112_23.html](https://www.lemonde.fr/en/opinion/article/2023/06/30/macron-s-balancing-act-maintaining-order-without-losing-police-support_6040112_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T10:18:53+00:00
+
+By acknowledging the existence of a police blunder, President Emmanuel Macron has defended the doctrine of order in the republic, without being sure of being able to impose it on the police unions in the long term.
+
+## France endures a third night of unrest as violent rioting spreads across the country
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/france-endures-a-third-night-of-unrest-as-violent-rioting-spreads-across-the-country_6040076_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/france-endures-a-third-night-of-unrest-as-violent-rioting-spreads-across-the-country_6040076_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T09:39:55+00:00
+
+Despite the mobilization of 40,000 police and gendarmes, the violence extended throughout France. In many towns, businesses and police stations were targeted.
+
+## US Supreme Court decision to overturn affirmative action exposes universities to legal challenges
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/in-the-united-states-the-supreme-court-overturned-affirmative-action-by-universities-after-a-heated-debate_6040075_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/in-the-united-states-the-supreme-court-overturned-affirmative-action-by-universities-after-a-heated-debate_6040075_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T09:28:32+00:00
+
+Since the 1960s, this scheme has been designed to encourage diversity within these establishments, to correct systemic inequality. The 6 conservative and 3 progressive judges showed the gulf between their respective opinions.
+
+## Rapper Travis Scott will not face criminal charges in deadly crowd surge at Texas festival
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/rapper-travis-scott-will-not-face-criminal-charges-in-deadly-crowd-surge-at-texas-festival_6039965_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/rapper-travis-scott-will-not-face-criminal-charges-in-deadly-crowd-surge-at-texas-festival_6039965_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T03:16:05+00:00
+
+10 people were killed during a crush at the Astroworld festival in Houston in 2021.
+
+## Hundreds arrested as third night of riots rocks France
+ - [https://www.lemonde.fr/en/france/article/2023/06/30/hundreds-arrested-as-third-night-of-riots-rocks-france_6039931_7.html](https://www.lemonde.fr/en/france/article/2023/06/30/hundreds-arrested-as-third-night-of-riots-rocks-france_6039931_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T02:41:58+00:00
+
+40,000 police officers and gendarmes were deployed across the country as authorities dealt with widespread anger following the police killing of a teenager on Tuesday.
+
+## Who is the real Sergei Shoigu, Russia's defense minister?
+ - [https://www.lemonde.fr/en/m-le-mag/article/2023/06/30/who-is-the-real-sergei-shoigu-russia-s-defense-minister_6039898_117.html](https://www.lemonde.fr/en/m-le-mag/article/2023/06/30/who-is-the-real-sergei-shoigu-russia-s-defense-minister_6039898_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T02:00:11+00:00
+
+The Russian defense minister remained silent during the mutiny led by Wagner Group mercenaries. Since the invasion of Ukraine, this close friend of President Vladimir Putin has been considerably weakened.
+
+## Supporters of Indian PM harrass and cyberstalk American journalist Sabrina Siddiqui after question on religious minorities
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/supporters-of-indian-pm-harrass-and-cyberstalk-american-journalist-sabrina-siddiqui-after-question-on-religious-minorities_6039865_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/supporters-of-indian-pm-harrass-and-cyberstalk-american-journalist-sabrina-siddiqui-after-question-on-religious-minorities_6039865_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T01:03:55+00:00
+
+The Wall Street Journal's White House correspondent asked Indian Prime Minister Narendra Modi about the fate of religious minorities in India, during his state visit to Washington.
+
+## Google to block local news in Canada in response to media law
+ - [https://www.lemonde.fr/en/international/article/2023/06/30/google-to-block-local-news-in-canada-in-response-to-media-law_6039831_4.html](https://www.lemonde.fr/en/international/article/2023/06/30/google-to-block-local-news-in-canada-in-response-to-media-law_6039831_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-06-30T00:19:03+00:00
+
+The tech giant has called the law 'unworkable', as the government says it is necessary to support a struggling Canadian news sector.
+

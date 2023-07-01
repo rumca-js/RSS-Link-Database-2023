@@ -1,0 +1,14 @@
+# Source:SomeOrdinaryGamers, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ, language:en-US
+
+## I Will Quit Video Games If We Lose Physical Discs...
+ - [https://www.youtube.com/watch?v=E40lcitQoAs](https://www.youtube.com/watch?v=E40lcitQoAs)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ
+ - date published: 2023-06-30T22:30:31+00:00
+
+Get 20% OFF + Free Shipping at Manscaped with code SOG at http://manscaped.com/someordinary  #manscapedpartner
+
+Hello guys and gals, it's me Mutahar again! Recently this year it seems many high-profile games have decided to launch physical copies without the data entirely placed onto them. For the past few years gamers have touted that most physical games you buy have no content on them and serve as a simple license, while in few cases it's true in the vast majority of the sample it appears to not be the case. Thanks for watching!
+Like, Comment and Subscribe for more videos!
+
+Check out the newest podcast episode: https://youtu.be/oMFJktZ4-Zc
+
