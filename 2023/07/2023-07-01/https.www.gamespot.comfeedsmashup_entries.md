@@ -1,0 +1,23 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## PIONER Awakening Official Trailer
+ - [https://www.gamespot.com/videos/pioner-awakening-official-trailer/2300-6461800/](https://www.gamespot.com/videos/pioner-awakening-official-trailer/2300-6461800/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-07-01T16:13:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4160145-pionergame.jpg" width="480" /> Get a glimpse of gameplay and more in this latest trailer for PIONER a FPS MMORPG coming from GFAGames.
+
+## Firearms Expert Reacts To Battlefield 2042’s Guns PART 3
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-battlefield-2042s-guns-part-3/2300-6461799/](https://www.gamespot.com/videos/firearms-expert-reacts-to-battlefield-2042s-guns-part-3/2300-6461799/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-07-01T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4160078-bf2042_part3_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, revisits and breaks down more of the weaponry of Battlefield 2042, including the AR GEW 46, the RM68, and the BFP Desert Eagle.
+
+## Razer Launches New Gaming Mice, Wireless Cobra Pro And Budget-Friendly Cobra
+ - [https://www.gamespot.com/articles/razer-launches-new-gaming-mice-wireless-cobra-pro-and-budget-friendly-cobra/1100-6515633/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/razer-launches-new-gaming-mice-wireless-cobra-pro-and-budget-friendly-cobra/1100-6515633/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-07-01T00:28:00+00:00
+
+<p>Gaming peripheral company Razer has launched a new line of gaming mice with the Cobra Pro, a premium-style wireless mouse, and the Cobra, a more basic wired version that uses the same overall design. They're now available on the <a href="https://www.razer.com/gaming-mice/razer-cobra-pro">Razer Store</a> and <span class="norewrite">           <a href="https://www.amazon.com/Razer-Cobra-Wireless-Gaming-Mouse/dp/B0C51934VF?tag=gamespot-buybutton-20">on Amazon</a> </span> and retail for $130 USD and $40 USD, respectively.</p><p>The Cobra now sits alongside Razer's already-wide roster of gaming mice such as the Deathadder, Viper, and Basilisk. However, this new mouse is intended to cover different preferences that the lineup didn't already offer while including the high-end features of its other top-of-the-line mice. When it comes to grip-type and shape--Cobra mice have a symmetrical design intended for a fingertip or claw grip. You can check out the details on the Razer Cobra Pro and Cobra below.</p><h2>Razer Cobra Pro (Wireless) Details</h2><figure style="width: 1762px;"><a href="https://www.gamespot.com/a/uploads/scale_super/1574/15747411/4160075-razer_cobrapro_kv_10controls_1920x1080.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/scale_super/1574/15747411/4160075-razer_cobrapro_kv_10controls_1920x1080.jpg" /></a></figure><div class="norewrite" title="">           <a href="https://www.amazon.com/Razer-Cobra-Wireless-Gaming-Mouse/dp/B0C51934VF?tag=gamespot-buybutton-20">See at Amazon</a> </div><p>The Razer Cobra Pro is on the higher end of the spectrum when it comes to gaming mice. It sits at an MSRP of $130 USD, but comes a ton of fancy features. It uses Razer's HyperSpeed wireless tech for the lowest latency possible (through 2.4 GHz connectivity)--the mouse can also be used via Bluetooth or wired through a USB-C cable. The Cobra Pro has Chroma RGB lighting and is designed to give the mouse an underglow around the base as well as the logo and scroll wheel, which can be customized in the Razer Synapse software.</p><a href="https://www.gamespot.com/articles/razer-launches-new-gaming-mice-wireless-cobra-pro-and-budget-friendly-cobra/1100-6515633/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
