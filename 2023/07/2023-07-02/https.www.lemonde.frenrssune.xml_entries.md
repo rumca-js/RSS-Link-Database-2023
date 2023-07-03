@@ -1,0 +1,142 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## Nick Kyrgios withdraws from Wimbledon due to injury. He was the runner-up last year
+ - [https://www.lemonde.fr/en/sports/article/2023/07/03/nick-kyrgios-withdraws-from-wimbledon-due-to-injury-he-was-the-runner-up-last-year_6041664_9.html](https://www.lemonde.fr/en/sports/article/2023/07/03/nick-kyrgios-withdraws-from-wimbledon-due-to-injury-he-was-the-runner-up-last-year_6041664_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T22:35:46+00:00
+
+The Australian tennis player pulled out of the competition on Sunday, the night before the tournament's start, citing a wrist injury, a year after he reached his first Grand Slam final at the All England Club.
+
+## German far-right party notches up another win
+ - [https://www.lemonde.fr/en/international/article/2023/07/02/german-far-right-party-notches-up-another-win_6041628_4.html](https://www.lemonde.fr/en/international/article/2023/07/02/german-far-right-party-notches-up-another-win_6041628_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T21:16:36+00:00
+
+Hannes Loth was elected mayor of the small town of Raguhn-Jessnitz on Sunday, in a run-off against independent candidate Nils Naumann. It marks the first time the party has won an election race for a full-time mayor's position.
+
+## Riots in France: How fireworks became the staple weapon of rioters
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/riots-in-france-how-fireworks-became-the-staple-weapon-of-rioters_6041588_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/riots-in-france-how-fireworks-became-the-staple-weapon-of-rioters_6041588_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T19:30:21+00:00
+
+The scenes of rioting across French cities have been characterized by barrages of fireworks shot at police. Poor regulation has allowed the spectacular improvised weapons to become common.
+
+## Laurent and Simone Gbagbo: The end of Côte d'Ivoire's most political couple
+ - [https://www.lemonde.fr/en/international/article/2023/07/02/laurent-and-simone-gbagbo-the-end-of-cote-d-ivoire-s-most-political-couple_6041488_4.html](https://www.lemonde.fr/en/international/article/2023/07/02/laurent-and-simone-gbagbo-the-end-of-cote-d-ivoire-s-most-political-couple_6041488_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T17:18:44+00:00
+
+The former president and his spouse announced their divorce after a 50-year struggle for power.
+
+## Marseille groggy from three nights of looting
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/marseille-groggy-from-three-nights-of-looting_6041452_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/marseille-groggy-from-three-nights-of-looting_6041452_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T16:45:14+00:00
+
+The death of Nahel M, a 17-year-old shot by police, sparked unprecedented unrest in France's second-largest city, which had been spared by the riots of 2005.
+
+## Germany's Scholz expresses 'concern' at French riots
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/germany-s-scholz-expresses-concern-at-french-riots_6041450_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/germany-s-scholz-expresses-concern-at-french-riots_6041450_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T16:22:23+00:00
+
+German Chancellor Olaf Scholz stressed Paris and Berlin were ensuring the EU 'works well.'
+
+## War in Ukraine: New friction between France and Germany over NATO
+ - [https://www.lemonde.fr/en/international/article/2023/07/02/war-in-ukraine-new-friction-between-france-and-germany-over-nato_6041446_4.html](https://www.lemonde.fr/en/international/article/2023/07/02/war-in-ukraine-new-friction-between-france-and-germany-over-nato_6041446_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T16:09:47+00:00
+
+The cancellation of President Emmanuel Macron's visit to Germany, due to the riots in France, comes at a time when relations between the two countries are at a standstill, particularly on defense and security issues.
+
+## Tour de France: Victor Lafay beats favorites to give France first stage win
+ - [https://www.lemonde.fr/en/sports/article/2023/07/02/tour-de-france-victor-lafay-gives-france-first-stage-win_6041412_9.html](https://www.lemonde.fr/en/sports/article/2023/07/02/tour-de-france-victor-lafay-gives-france-first-stage-win_6041412_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T15:34:06+00:00
+
+The Frenchman broke ahead of the pack with just hundreds of meters to go to win stage 2 in San Sebastian, in the Spanish Basque Country.
+
+## Death of Nahel M.: Grandmother issues 'do not riot' plea
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-grandmother-issues-do-not-riot-plea_6041345_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-grandmother-issues-do-not-riot-plea_6041345_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T14:55:58+00:00
+
+The grandmother of Naehl M., the 17-year-old killed by police, spoke on television to ask violent protestors to stop smashing windows, schools and buses.
+
+## Riots in France: Attack on mayor's house one of several targeting elected officials
+ - [https://www.lemonde.fr/en/politics/article/2023/07/02/riots-in-france-attack-on-mayor-s-house-one-of-several-targeting-elected-officials_6041308_5.html](https://www.lemonde.fr/en/politics/article/2023/07/02/riots-in-france-attack-on-mayor-s-house-one-of-several-targeting-elected-officials_6041308_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T14:05:44+00:00
+
+Since the start of the violent protests after police killed 17-year-old Nahel M., some of the anger has turned against local elected officials.
+
+## Death of Nahel M.: Suppressed rage and grief at teenager's funeral in Nanterre
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-suppressed-rage-and-grief-at-teenager-s-funeral-in-nanterre_6041273_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-suppressed-rage-and-grief-at-teenager-s-funeral-in-nanterre_6041273_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T12:53:57+00:00
+
+Several thousand people paid their last respects to the teenager killed on Tuesday by a police officer. The town's inhabitants wavered between despondency, understanding and fear of new riots.
+
+## Death of Nahel M.: Two Normandy towns experience unprecedented violence
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-two-normandy-towns-experience-unprecedented-violence_6041270_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-two-normandy-towns-experience-unprecedented-violence_6041270_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T12:30:06+00:00
+
+Many towns in the region were affected by arson attacks on buildings following the death of 17-year-old Nahel M., shot by police on Tuesday. Residents of Vernon and Gaillon expressed fear and bewilderment while young people voiced their anger at racism.
+
+## Tour de France: Covid-19 remains a pernicious and dreaded enemy
+ - [https://www.lemonde.fr/en/sports/article/2023/07/02/tour-de-france-covid-19-remains-a-pernicious-and-dreaded-enemy_6041236_9.html](https://www.lemonde.fr/en/sports/article/2023/07/02/tour-de-france-covid-19-remains-a-pernicious-and-dreaded-enemy_6041236_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T11:30:09+00:00
+
+Masks, social distancing and the 'race bubble' are still on the agenda for the 2023 Tour. In May, the Giro d'Italia was marked by several withdrawals, including the favorite, Remco Evenepoel.
+
+## On borrowed time, Spain's Sanchez takes over Council of the EU presidency
+ - [https://www.lemonde.fr/en/m-le-mag/article/2023/07/02/on-borrowed-time-spain-s-sanchez-takes-over-council-of-the-eu-presidency_6041202_117.html](https://www.lemonde.fr/en/m-le-mag/article/2023/07/02/on-borrowed-time-spain-s-sanchez-takes-over-council-of-the-eu-presidency_6041202_117.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T10:41:27+00:00
+
+Prime Minister Pedro Sanchez's political future hangs on the outcome of early legislative elections he called for July 23.
+
+## After four nights of riots, several French cities experience relative calm
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/after-four-nights-of-riots-several-french-cities-experience-relative-calm_6041135_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/after-four-nights-of-riots-several-french-cities-experience-relative-calm_6041135_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T09:31:31+00:00
+
+Interior Minister Gérald Darmanin reported 719 arrests on Sunday, with sporadic incidents in Marseille, Nice, and Strasbourg. However, the home of a mayor near Paris was rammed by a car overnight.
+
+## Death of Nahel M.: Mayor says rioters rammed car into his house
+ - [https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-mayor-says-rioters-rammed-car-into-his-house_6041099_7.html](https://www.lemonde.fr/en/france/article/2023/07/02/death-of-nahel-m-mayor-says-rioters-rammed-car-into-his-house_6041099_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T07:24:12+00:00
+
+The mayor of L'Haÿ-les-Roses, in the Paris region, said his wife and one of his children had been injured.
+
+## After 10 years of Sisi, Egypt gives in to nostalgia for the Mubarak era
+ - [https://www.lemonde.fr/en/international/article/2023/07/02/after-10-years-of-sisi-egypt-gives-in-to-nostalgia-for-the-mubarak-era_6041057_4.html](https://www.lemonde.fr/en/international/article/2023/07/02/after-10-years-of-sisi-egypt-gives-in-to-nostalgia-for-the-mubarak-era_6041057_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T03:38:13+00:00
+
+In a country transformed into a stranglehold, with purchasing power in freefall and freedom of expression reduced to nothing, the population is beginning to long for the era of the former president, ousted by the 2011 revolution.
+
+## Ireland's burgeoning far right exploits the severe housing shortage
+ - [https://www.lemonde.fr/en/international/article/2023/07/02/ireland-s-burgeoning-far-right-exploits-the-severe-housing-shortage_6041051_4.html](https://www.lemonde.fr/en/international/article/2023/07/02/ireland-s-burgeoning-far-right-exploits-the-severe-housing-shortage_6041051_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T03:34:38+00:00
+
+Minor far right groups have been urging the Irish, who have been facing a serious housing shortage for years, to take issue with the increase in the number of refugees and asylum seekers.
+
+## 'The Prigozhin episode has cracked Putin's image as the infallible leader of an omnipotent state'
+ - [https://www.lemonde.fr/en/opinion/article/2023/07/02/the-prigozhin-episode-has-cracked-putin-s-profile-as-the-infallible-leader-of-an-omnipotent-state_6040984_23.html](https://www.lemonde.fr/en/opinion/article/2023/07/02/the-prigozhin-episode-has-cracked-putin-s-profile-as-the-infallible-leader-of-an-omnipotent-state_6040984_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T01:18:45+00:00
+
+The mutiny carried out by the head of the Wagner Group demolished the official national narrative on the causes of the war in Ukraine, observes Le Monde columnist Alain Frachon.
+
+## Despite an eight-year ban, Jair Bolsonaro is not ready to withdraw from politics
+ - [https://www.lemonde.fr/en/international/article/2023/07/02/despite-an-eight-year-ban-jair-bolsonaro-is-not-ready-to-withdraw-from-politics_6040948_4.html](https://www.lemonde.fr/en/international/article/2023/07/02/despite-an-eight-year-ban-jair-bolsonaro-is-not-ready-to-withdraw-from-politics_6040948_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-07-02T00:17:38+00:00
+
+The far-right former president is accused of having undermined the democratic process in an inflammatory speech given in July 2022. Ineligible to run for office until 2030, he could become a formidable kingmaker.
+
