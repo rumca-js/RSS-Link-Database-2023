@@ -1,0 +1,233 @@
+# Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
+
+## A North Dakota medical waste facility says a human torso was delivered to its site and is suing
+ - [https://abcnews.go.com/Health/wireStory/north-dakota-medical-waste-facility-human-torso-delivered-100635700](https://abcnews.go.com/Health/wireStory/north-dakota-medical-waste-facility-human-torso-delivered-100635700)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T23:17:22+00:00
+
+Human remains delivered to a North Dakota medical waste facility are part of tangled litigation involving a regional health care system and the disposal company
+
+## Former sheriff who nabbed 'Green River Killer' to run for Washington governor
+ - [https://abcnews.go.com/Politics/wireStory/former-sheriff-nabbed-green-river-killer-run-washington-100633195](https://abcnews.go.com/Politics/wireStory/former-sheriff-nabbed-green-river-killer-run-washington-100633195)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T23:01:10+00:00
+
+A former sheriff and congressman known for his work that led to the capture of the &ldquo;Green River Killer&rdquo; has entered the race to become Washington&rsquo;s next governor
+
+## Congressional Republicans offer their own student loan debt solution
+ - [https://abcnews.go.com/Politics/congressional-republicans-offer-student-debt-solution/story?id=100424857](https://abcnews.go.com/Politics/congressional-republicans-offer-student-debt-solution/story?id=100424857)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T22:50:22+00:00
+
+Congressional Republicans demand student debt solutions
+
+## String of DC explosions believed to be isolated incident, possibly vandals: Sources
+ - [https://abcnews.go.com/US/string-dc-explosions-believed-isolated-incident-possibly-vandals/story?id=100630241](https://abcnews.go.com/US/string-dc-explosions-believed-isolated-incident-possibly-vandals/story?id=100630241)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T22:10:00+00:00
+
+Police taking extra safety precautions for the Fourth of July holiday.
+
+## Churchill Downs extends trainer Bob Baffert's ban through 2024
+ - [https://abcnews.go.com/Sports/wireStory/churchill-downs-extends-trainer-bob-bafferts-ban-2024-100630603](https://abcnews.go.com/Sports/wireStory/churchill-downs-extends-trainer-bob-bafferts-ban-2024-100630603)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T21:58:19+00:00
+
+Baffert initially was suspended after his 2021 Derby winner failed a drug test.
+
+## 7 injured in turbulence on Hawaiian Airlines flight to Australia
+ - [https://abcnews.go.com/Business/wireStory/hawaiian-airlines-plane-hits-severe-turbulence-flight-honolulu-100622765](https://abcnews.go.com/Business/wireStory/hawaiian-airlines-plane-hits-severe-turbulence-flight-honolulu-100622765)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T20:46:40+00:00
+
+At least seven people on a Hawaiian Airlines flight from Honolulu to Sydney were injured when the plane hit severe turbulence last week
+
+## WATCH:  Grandma celebrates 100th birthday after going viral for reaction to turning 100
+ - [https://abcnews.go.com/GMA/Family/video/grandma-celebrates-100th-birthday-after-viral-reaction-turning-100620850](https://abcnews.go.com/GMA/Family/video/grandma-celebrates-100th-birthday-after-viral-reaction-turning-100620850)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T19:11:42+00:00
+
+Her wish on her 100th birthday will warm your heart.
+
+## Reward offered in search for suspects in Baltimore block party mass shooting
+ - [https://abcnews.go.com/US/reward-offered-search-suspects-baltimore-block-party-mass/story?id=100606874](https://abcnews.go.com/US/reward-offered-search-suspects-baltimore-block-party-mass/story?id=100606874)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T19:09:20+00:00
+
+Two people were killed and 28 were injured in the Sunday morning violence.
+
+## Undocumented workers face uncertainty as immigration law takes effect in Florida
+ - [https://abcnews.go.com/US/undocumented-workers-face-uncertainty-immigration-law-takes-effect/story?id=100452861](https://abcnews.go.com/US/undocumented-workers-face-uncertainty-immigration-law-takes-effect/story?id=100452861)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T19:02:26+00:00
+
+Several immigrant rights organizations plan to challenge the law in court.
+
+## WATCH:  Venue employee dances at Taylor Swift concert as crowd cheers him on
+ - [https://abcnews.go.com/GMA/Living/video/venue-employee-dances-taylor-swift-concert-crowd-cheers-100617968](https://abcnews.go.com/GMA/Living/video/venue-employee-dances-taylor-swift-concert-crowd-cheers-100617968)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T18:29:40+00:00
+
+A stadium employee broke it down with the crowd at a recent Taylor Swift concert in Cincinnati, Ohio.
+
+## 6 dead, 1 critically hurt at house fire; murder investigation underway
+ - [https://abcnews.go.com/US/6-dead-1-critically-hurt-house-fire-murder/story?id=100607516](https://abcnews.go.com/US/6-dead-1-critically-hurt-house-fire-murder/story?id=100607516)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T18:10:44+00:00
+
+A murder investigation is underway after six people were found dead at the scene of a house fire in Colleton County, South Carolina, on Sunday, authorities said.
+
+## Legacy college admissions under scrutiny following SCOTUS ruling
+ - [https://abcnews.go.com/US/legacy-college-admissions-scrutiny-scotus-ruling/story?id=100608150](https://abcnews.go.com/US/legacy-college-admissions-scrutiny-scotus-ruling/story?id=100608150)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T18:03:30+00:00
+
+College admissions preferences, including those for university donors or alumni relatives, have come under scrutiny following the Supreme Court ruling.
+
+## US ambassador visits Wall Street Journal reporter detained in Russia
+ - [https://abcnews.go.com/International/wireStory/us-ambassador-visits-wall-street-journal-reporter-detained-100615115](https://abcnews.go.com/International/wireStory/us-ambassador-visits-wall-street-journal-reporter-detained-100615115)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T17:19:23+00:00
+
+The US embassy says its ambassador to Russia was allowed to visit Wall Street Journal reporter Evan Gerhkovich, who has been behind bars in Russia since March on charges of espionage
+
+## Robert De Niro mourns death of 'beloved' grandson Leandro
+ - [https://abcnews.go.com/GMA/Culture/robert-de-niro-mourns-death-beloved-grandson-leandro/story?id=100607543](https://abcnews.go.com/GMA/Culture/robert-de-niro-mourns-death-beloved-grandson-leandro/story?id=100607543)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T17:14:28+00:00
+
+Robert De Niro is mourning the death of his "beloved" grandson Leandro Anthony De Niro-Rodriguez.
+
+## Investigators visit North Carolina amusement park after closing ride because of crack
+ - [https://abcnews.go.com/US/wireStory/investigators-visit-north-carolina-amusement-park-after-closing-100613565](https://abcnews.go.com/US/wireStory/investigators-visit-north-carolina-amusement-park-after-closing-100613565)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T17:07:47+00:00
+
+State investigators were on site at a North Carolina amusement park after a crack was discovered on a support beam on one of their popular roller coasters
+
+## Leandro De Niro Rodriguez, grandson of Robert De Niro, dies at 19
+ - [https://abcnews.go.com/Entertainment/wireStory/leandro-de-niro-rodriguez-grandson-robert-de-niro-100610751](https://abcnews.go.com/Entertainment/wireStory/leandro-de-niro-rodriguez-grandson-robert-de-niro-100610751)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T16:54:19+00:00
+
+Leandro De Niro Rodriguez, a grandson of Robert De Niro and Diahnne Abbott, has died at 19
+
+## Police officer and man are killed as Indiana hospital confrontation leads to gunfire
+ - [https://abcnews.go.com/US/wireStory/gunfire-indiana-hospital-kills-police-officer-man-100609056](https://abcnews.go.com/US/wireStory/gunfire-indiana-hospital-kills-police-officer-man-100609056)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T15:41:58+00:00
+
+Shots were fired after officers confronted a man at a Tell City Ind., hospital.
+
+## Hiker falls to his death in front of wife and 5 children on Oregon nature trail
+ - [https://abcnews.go.com/US/40-year-father-falls-death-front-wife-5/story?id=100605769](https://abcnews.go.com/US/40-year-father-falls-death-front-wife-5/story?id=100605769)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T15:35:30+00:00
+
+A hiker was killed over the weekend when he slipped and plummeted down the side of a mountain in front of his wife and five children in Oregon, officials said.
+
+## Michigan man accused of striking an officer during the US Capitol attack is arrested in Florida
+ - [https://abcnews.go.com/Politics/wireStory/michigan-man-accused-striking-officer-us-capitol-attack-100608273](https://abcnews.go.com/Politics/wireStory/michigan-man-accused-striking-officer-us-capitol-attack-100608273)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T15:16:19+00:00
+
+A Michigan man is accused of attacking a police officer with a flagpole.
+
+## Black bear bites homeowner and attacks his dog; both are recovering
+ - [https://abcnews.go.com/US/wireStory/black-bear-bites-homeowner-attacks-dog-recovering-100608181](https://abcnews.go.com/US/wireStory/black-bear-bites-homeowner-attacks-dog-recovering-100608181)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T14:21:59+00:00
+
+A Connecticut man and his dog are recovering from injuries suffered after an encounter with a black bear in the man's yard
+
+## Dangerous triple-digit temperatures hit the West and South: Latest forecast
+ - [https://abcnews.go.com/US/dangerous-triple-digit-temperatures-hit-west-south-latest/story?id=100606266](https://abcnews.go.com/US/dangerous-triple-digit-temperatures-hit-west-south-latest/story?id=100606266)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T14:04:44+00:00
+
+Thirty-six million Americans are on alert for dangerously high temperatures, with the center of the heat dome over the West.
+
+## China's defense minister and Russia's navy chief meet for military talks
+ - [https://abcnews.go.com/International/wireStory/chinas-defense-minister-russias-navy-chief-meet-1st-100607006](https://abcnews.go.com/International/wireStory/chinas-defense-minister-russias-navy-chief-meet-1st-100607006)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T13:30:09+00:00
+
+China's defense minister has reaffirmed military relations with Russia during a meeting with the head of the Russian navy
+
+## Hong Kong police offer rewards for arrests of 8 overseas pro-democracy activists
+ - [https://abcnews.go.com/International/wireStory/hong-kong-police-offer-rewards-arrests-8-overseas-100606081](https://abcnews.go.com/International/wireStory/hong-kong-police-offer-rewards-arrests-8-overseas-100606081)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T12:45:52+00:00
+
+Hong Kong police have accused eight self-exiled pro-democracy activists of violating the territory&rsquo;s harsh National Security Law and offered rewards of $127,600 each for information leading to their arrests
+
+## Prize-winning Ukrainian writer dies of injuries suffered from missile attack
+ - [https://abcnews.go.com/International/wireStory/prize-winning-ukrainian-writer-dies-injuries-suffered-russian-100604010](https://abcnews.go.com/International/wireStory/prize-winning-ukrainian-writer-dies-injuries-suffered-russian-100604010)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T11:50:16+00:00
+
+The PEN America rights group says award-winning Ukrainian writer Victoria Amelina has died from her injuries suffered after a Russian missile attack on a popular restaurant last week
+
+## WATCH:  Cliff divers take the plunge in Italy
+ - [https://abcnews.go.com/International/video/cliff-divers-plunge-italy-100604477](https://abcnews.go.com/International/video/cliff-divers-plunge-italy-100604477)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T11:16:49+00:00
+
+Cliff divers take to the air as they compete in the sport's World Series in beautiful Italy.
+
+## US recommends Americans reconsider traveling to China due to exit bans
+ - [https://abcnews.go.com/International/wireStory/us-recommends-americans-reconsider-traveling-china-due-arbitrary-100603908](https://abcnews.go.com/International/wireStory/us-recommends-americans-reconsider-traveling-china-due-arbitrary-100603908)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T08:16:41+00:00
+
+The U.S. is recommending Americans reconsider traveling to China because of arbitrary law enforcement, exit bans and the risk of wrongful detentions
+
+## An explosion in a downtown Tokyo building has injured four people, according to media reports
+ - [https://abcnews.go.com/International/wireStory/explosion-downtown-tokyo-building-injured-people-media-reports-100603906](https://abcnews.go.com/International/wireStory/explosion-downtown-tokyo-building-injured-people-media-reports-100603906)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T08:16:27+00:00
+
+An explosion at a building in Tokyo&rsquo;s commercial district of Shimbashi has shattered windows and spewed smoke, according to media reports
+
+## Car crashes into a New Hampshire restaurant and injures several customers
+ - [https://abcnews.go.com/US/wireStory/car-crashes-new-hampshire-restaurant-injures-customers-fire-100603740](https://abcnews.go.com/US/wireStory/car-crashes-new-hampshire-restaurant-injures-customers-fire-100603740)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T08:16:26+00:00
+
+Emergency officials in New Hampshire say a car crashed into a busy restaurant and injured several patrons in a lakeside town
+
+## Putin will speak with leaders of China and India in his first summit since the Wagner insurrection
+ - [https://abcnews.go.com/International/wireStory/putin-speak-leaders-china-india-summit-wagner-insurrection-100603460](https://abcnews.go.com/International/wireStory/putin-speak-leaders-china-india-summit-wagner-insurrection-100603460)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T05:47:01+00:00
+
+It's Putin's first multilateral summit since an armed rebellion rattled Russia.
+
+## S. Carolina police charge suspect in attempted murder of survivor of house fire where 6 bodies found
+ - [https://abcnews.go.com/US/wireStory/carolina-police-charge-suspect-attempted-murder-survivor-house-100602527](https://abcnews.go.com/US/wireStory/carolina-police-charge-suspect-attempted-murder-survivor-house-100602527)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T05:02:46+00:00
+
+Man charged in attempted murder of survivor of house fire where 6 bodies found.
+
+## 3 Palestinians killed as Israel launches large-scale raid in West Bank stronghold of militants
+ - [https://abcnews.go.com/International/wireStory/palestinians-killed-israel-launches-large-scale-raid-west-100602432](https://abcnews.go.com/International/wireStory/palestinians-killed-israel-launches-large-scale-raid-west-100602432)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T04:30:31+00:00
+
+It was a raid in a stronghold of militants in the occupied West Bank.
+
+## Severe storms threaten the East for Fourth of July holiday travel
+ - [https://abcnews.go.com/US/severe-storms-threaten-east-4th-july-holiday-travel/story?id=100598165](https://abcnews.go.com/US/severe-storms-threaten-east-4th-july-holiday-travel/story?id=100598165)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T01:23:19+00:00
+
+Millions of Americans are at risk of experiencing severe weather Sunday as thunderstorms and extreme heat alerts are in effect for multiple states.
+
+## Treasury Secretary Janet Yellen is making a long-awaited trip to China this week
+ - [https://abcnews.go.com/Business/wireStory/treasury-secretary-janet-yellen-making-long-awaited-trip-100601342](https://abcnews.go.com/Business/wireStory/treasury-secretary-janet-yellen-making-long-awaited-trip-100601342)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-03T00:47:16+00:00
+
+Janet Yellen will travel to Beijing in an effort to thaw U.S.-China relations.
+

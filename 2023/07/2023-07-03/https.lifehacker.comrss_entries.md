@@ -1,0 +1,23 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## Here's When Fixing Your Refrigerator Makes More Sense
+ - [https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-07-03T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--9wBSimEf--/c_fit,fl_progressive,q_80,w_636/5ee5940ce6bbb249629ab8af7e8199b1.jpg" /><p>Modern refrigerators do more than keep food chilled: They also come with ice makers, water dispensers and filters, and features that help you keep contents organized. </p><p><a href="https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858">Read more...</a></p>
+
+## Three Ways to Get the Most Out of Your Car's Air Conditioner
+ - [https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-07-03T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--eX2Y-7VZ--/c_fit,fl_progressive,q_80,w_636/901099d65a10b1cfd7cd89e6b0e03a23.jpg" /><p>No one wants to get into their car on a really hot day and turn on their air conditioning for some relief, only to wait for a refreshing, cool breeze that never comes. Or, maybe some semi-cool air manages to get through the vents a few minutes into your drive, but is too warm and too weak to make much of a difference.…</p><p><a href="https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864">Read more...</a></p>
+
+## Three Ways to Help Your Garden Recover From Wildfire Smoke
+ - [https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-07-03T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--O6yeCqpF--/c_fit,fl_progressive,q_80,w_636/d3d0f92e98902a7fbce47fc8a0600765.jpg" /><p>Over the past few weeks, gardeners on the east coast and other parts of the country have been experiencing their first wildfire season. This means that even people who have been gardening for years may not be familiar with how to help their outdoor plants recover from the exposure to the smoke, and possibly even ash,…</p><p><a href="https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877">Read more...</a></p>
+

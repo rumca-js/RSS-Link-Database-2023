@@ -1,0 +1,1388 @@
+# Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
+
+## New Hampshire man charged with burning, beating son, 7, to death
+ - [https://www.foxnews.com/us/new-hampshire-man-charged-burning-beating-son-7-death](https://www.foxnews.com/us/new-hampshire-man-charged-burning-beating-son-7-death)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T19:13:09+00:00
+
+Murtadah Mohammad of New Hampshire has been charged with second-degree murder in connection with the death of his seven-year-old son, Jaevion Riley.
+
+## Texas officials use Apple AirTag feature to help track down missing purse: report
+ - [https://www.foxnews.com/us/texas-officials-use-apple-airtag-feature-help-track-down-missing-purse-report](https://www.foxnews.com/us/texas-officials-use-apple-airtag-feature-help-track-down-missing-purse-report)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T19:03:42+00:00
+
+Officials in Houston hope to solve a mystery involving a purse left at the airport that found its way onto a METRO bus, by using Apple AirTag tracking features.
+
+## Critics shred latest Indiana Jones as nostalgic flop that ‘debases the legacy’ of the franchise
+ - [https://www.foxnews.com/media/critics-shred-indiana-jones-latest-nostalgic-flop-debases-legacy-franchise](https://www.foxnews.com/media/critics-shred-indiana-jones-latest-nostalgic-flop-debases-legacy-franchise)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T19:00:59+00:00
+
+The latest installment of the Indiana Jones film series faces a dismal opening in theaters and a withering response from a variety of film critics.
+
+## Teen airline passenger changes seat after 'plus-sized' travelers crowd her, gets grief for 'fatphobia'
+ - [https://www.foxnews.com/lifestyle/teen-airline-passenger-changes-seat-plus-sized-travelers-crowd-gets-grief-fatphobia](https://www.foxnews.com/lifestyle/teen-airline-passenger-changes-seat-plus-sized-travelers-crowd-gets-grief-fatphobia)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T18:58:58+00:00
+
+A 19-year-old woman shared a story of being crowded between two &quot;plus-sized&quot; people on a flight — and revealed what occurred after she moved her seat. A New York psychologist weighed in.
+
+## Senegalese president foregoes re-election after deadly political violence shakes nation
+ - [https://www.foxnews.com/world/senegalese-president-foregoes-re-election-deadly-political-violence-shakes-nation](https://www.foxnews.com/world/senegalese-president-foregoes-re-election-deadly-political-violence-shakes-nation)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T18:54:20+00:00
+
+Senegalese President Macky Sall has announced that he will not seek a third term in office after widespread political violence threatened his administration&apos;s structural integrity.
+
+## Gerrit Cole shows how much Yankees hope Aaron Judge can return after All-Star break
+ - [https://www.foxnews.com/sports/gerrit-cole-shows-how-much-yankees-hope-aaron-judge-return-all-star-break](https://www.foxnews.com/sports/gerrit-cole-shows-how-much-yankees-hope-aaron-judge-return-all-star-break)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T18:51:38+00:00
+
+Making an appearance on the TODAY Show Monday ahead of the Yankees&apos; &quot;Hope Week,&quot; Gerrit Cole showed praying hands when Aaron Judge discussed his toe injury recovery.
+
+## State police investigating 2 suspicious deaths in coastal Maine
+ - [https://www.foxnews.com/us/state-police-investigating-2-suspicious-deaths-coastal-maine](https://www.foxnews.com/us/state-police-investigating-2-suspicious-deaths-coastal-maine)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T18:44:45+00:00
+
+Maine State Police are investigating two deaths under suspicious circumstances at a home in coastal Brooklin. Authorities denied potential further danger to the community.
+
+## Maryland police charge DC man in carjacking spree resulting in death of man, 2 dogs
+ - [https://www.foxnews.com/us/maryland-police-charge-dc-man-carjacking-spree-resulting-death-man-2-dogs](https://www.foxnews.com/us/maryland-police-charge-dc-man-carjacking-spree-resulting-death-man-2-dogs)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T18:04:50+00:00
+
+A Washington, D.C. man was charged in Prince George&apos;s County, Maryland after allegedly stealing three cars and fatally shooting a man and two dogs on Sunday.
+
+## Al Sharpton defends Biden after viral moment leaving MSNBC interview: 'He wasn't lost'
+ - [https://www.foxnews.com/media/al-sharpton-defends-biden-after-viral-moment-leaving-msnbc-interview-he-wasnt-lost](https://www.foxnews.com/media/al-sharpton-defends-biden-after-viral-moment-leaving-msnbc-interview-he-wasnt-lost)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T18:00:48+00:00
+
+MSNBC&apos;s Al Sharpton claimed President Biden &quot;wasn&apos;t lost&quot; when he walked off the set of a live interview last week before the host cut to a commercial.
+
+## US pushes workers' rights in Mexico amid labor market boom
+ - [https://www.foxnews.com/world/us-pushes-workers-rights-mexico-labor-market-boom](https://www.foxnews.com/world/us-pushes-workers-rights-mexico-labor-market-boom)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:57:48+00:00
+
+U.S. officials are pushing for Mexico to adopt tighter labor regulations as its job market expands due to corporate &quot;nearshoring&quot; to ensure supply chain integrity.
+
+## Joe Rogan says trans women competing in women's sports has become 'forced compliance:' 'Just f---ing stop'
+ - [https://www.foxnews.com/sports/joe-rogan-trans-women-competing-womens-sports-become-forced-compliance](https://www.foxnews.com/sports/joe-rogan-trans-women-competing-womens-sports-become-forced-compliance)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:55:37+00:00
+
+Joe Rogan gave his strong opinion on trans women competing in women&apos;s sports, saying that at this point it has become &apos;forced compliance.&apos;
+
+## Jurors return in trial of NJ officer accused of shooting, killing suspects in high-speed chase
+ - [https://www.foxnews.com/us/jurors-return-trial-nj-officer-accused-shooting-killing-suspects-high-speed-chase](https://www.foxnews.com/us/jurors-return-trial-nj-officer-accused-shooting-killing-suspects-high-speed-chase)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:54:02+00:00
+
+Jurors are set to resume deliberations in the aggravated manslaughter case of suspended Newark, New Jersey police officer Jovanny Crespo as the defense seeks a mistrial.
+
+## 'Vampire fish' in Great Lakes take bites out of large catches, unnerve anglers as population control commences
+ - [https://www.foxnews.com/lifestyle/vampire-fish-great-lakes-take-bites-large-catches-unnerve-anglers-population-control-commences](https://www.foxnews.com/lifestyle/vampire-fish-great-lakes-take-bites-large-catches-unnerve-anglers-population-control-commences)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:46:09+00:00
+
+Sea lamprey, also known as vampire fish, experienced a population &quot;blip&quot; in the Great Lakes due to COVID-19 challenges pesticide teams faced in 2020 and 2021. Here&apos;s what to know.
+
+## 'RHOBH's Kyle Richards, Mauricio Umansky split after 27 years: report
+ - [https://www.foxnews.com/entertainment/rhobh-kyle-richards-mauricio-umansky-split-27-years](https://www.foxnews.com/entertainment/rhobh-kyle-richards-mauricio-umansky-split-27-years)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:37:46+00:00
+
+Reality star Kyle Richards and real estate mogul Mauricio Umansky are separating after 27 years of marriage. The estranged couple raised 4 daughters together.
+
+## Turkish President Erdogan delays ratification of Sweden's NATO membership, demands fulfillment of obligations
+ - [https://www.foxnews.com/world/turkish-president-erdogan-delays-ratification-swedens-nato-membership-demands-fulfillment-obligations](https://www.foxnews.com/world/turkish-president-erdogan-delays-ratification-swedens-nato-membership-demands-fulfillment-obligations)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:32:24+00:00
+
+Turkish President Recep Tayyip Erdogan said Turkey is not yet prepared to ratify Sweden&apos;s membership in NATO, urging Sweden to complete the necessary &quot;homework&quot; before gaining approval.
+
+## French riots: New report details thousands of arrests, hundreds of attacks on police since violence broke out
+ - [https://www.foxnews.com/world/french-riots-new-report-details-thousands-arrests-hundreds-attacks-police-since-violence-broke-out](https://www.foxnews.com/world/french-riots-new-report-details-thousands-arrests-hundreds-attacks-police-since-violence-broke-out)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:30:31+00:00
+
+France&apos;s Ministry of Interior has released a new report quantifying the damage and destruction after nearly a week of violent protests.
+
+## Dog owners seek solutions for Fourth of July fireworks anxiety in pets
+ - [https://www.foxnews.com/us/dog-owners-seek-solutions-fourth-july-fireworks-anxiety-pets](https://www.foxnews.com/us/dog-owners-seek-solutions-fourth-july-fireworks-anxiety-pets)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:29:55+00:00
+
+Many dog owners in south Phoenix took advantage of a microchipping event to increase the chances of their pets being returned if they become scared and run away due to fireworks.
+
+## California city raises minimum wage to $19.08 per hour: highest in America
+ - [https://www.foxnews.com/politics/california-city-raises-minimum-wage-19-08-hour-highest-america](https://www.foxnews.com/politics/california-city-raises-minimum-wage-19-08-hour-highest-america)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:27:34+00:00
+
+West Hollywood, California, a star-studded enclave near Los Angeles, has raised its minimum wage by over $1.50 since the beginning of the year.
+
+## Be well: Treat and prevent pink eye with a health specialist's top tips
+ - [https://www.foxnews.com/health/be-well-treat-prevent-pink-eye-health-specialists-top-tips](https://www.foxnews.com/health/be-well-treat-prevent-pink-eye-health-specialists-top-tips)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:24:30+00:00
+
+To help you recognize the symptoms of pink eye and prevent spreading, Dr. James Kelly, MD, of the Kelly Vision Center in New York City, shared some expert tips and insights with Fox News Digital.
+
+## Pilot dead after crashing floatplane into northern Minnesota lake
+ - [https://www.foxnews.com/us/pilot-dead-crashing-floatplane-northern-minnesota-lake](https://www.foxnews.com/us/pilot-dead-crashing-floatplane-northern-minnesota-lake)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:23:04+00:00
+
+Ryan Comer, 47, of Blaine, Minnesota, died Friday afternoon after crashing his floatplane into Lake Mille Lacs. Evidence regarding the crash&apos;s cause is reportedly scarce.
+
+## FDA declines approval for Amneal Pharmaceuticals' Parkinson's drug
+ - [https://www.foxnews.com/politics/fda-declines-approval-amneal-pharmaceuticals-parkinsons-drug](https://www.foxnews.com/politics/fda-declines-approval-amneal-pharmaceuticals-parkinsons-drug)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:20:32+00:00
+
+The Food and Drug Administration has declined to approve Amneal Pharmeceuticals&apos; drug aimed at treating Parkinson&apos;s Disease over concerns regarding safety data.
+
+## Tennessee tractor-trailer crashes into home and kills 2
+ - [https://www.foxnews.com/us/tennessee-tractor-trailer-crashes-home-kills-2](https://www.foxnews.com/us/tennessee-tractor-trailer-crashes-home-kills-2)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:18:22+00:00
+
+A tragic incident in eastern Tennessee resulted in the deaths of two individuals and left one person injured after a tractor-trailer crashed into a residential home.
+
+## Olivia Dunne says fiery response to The New York Times 'hit piece' led to Sports Illustrated Swimsuit slot
+ - [https://www.foxnews.com/sports/olivia-dunne-fiery-response-new-york-times-hit-piece-led-to-sports-illustrated-swimsuit-slot](https://www.foxnews.com/sports/olivia-dunne-fiery-response-new-york-times-hit-piece-led-to-sports-illustrated-swimsuit-slot)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T17:09:09+00:00
+
+Olivia Dunne fired back at The New York Times after the publication wrote a &quot;hit piece&quot; on her, but she revealed it led to Sports Illustrated calling about the Swimsuit Edition.
+
+## Williamson torches DNC's 'outrageous' support for Biden in 2024 Dem primary
+ - [https://www.foxnews.com/politics/williamson-torches-dncs-outrageous-support-biden-2024-dem-primary](https://www.foxnews.com/politics/williamson-torches-dncs-outrageous-support-biden-2024-dem-primary)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:59:11+00:00
+
+2024 candidate Marianne Williamson targets President Biden and the Democratic national committee over a lack of primary debates; paints contrasts with Robert F. Kennedy Jr.
+
+## Bud Light hit over 'desperate' ad with NFL star Travis Kelce: 'Going for the death blow'
+ - [https://www.foxnews.com/media/bud-light-hit-over-desperate-ad-nfl-star-travis-kelce-going-death-blow](https://www.foxnews.com/media/bud-light-hit-over-desperate-ad-nfl-star-travis-kelce-going-death-blow)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:58:15+00:00
+
+Bud Light&apos;s latest ad featuring Kansas City Chiefs star Travis Kelce was branded by consumers as just the latest &quot;desperate&quot; attempt to claw back consumer support.
+
+## NRA slaps Biden admin with lawsuit over 'unlawful' pistol brace rule
+ - [https://www.foxnews.com/politics/nra-slaps-biden-admin-lawsuit-unlawful-pistol-brace-rule](https://www.foxnews.com/politics/nra-slaps-biden-admin-lawsuit-unlawful-pistol-brace-rule)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:43:47+00:00
+
+The NRA is suing the Biden administration over its pistol brace rule, saying the measure is unconstitutional and threatens law-abiding gun owners with steep fines and jail.
+
+## GOP presidential candidate shreds 'idiotic' calls to end American birthright citizenship
+ - [https://www.foxnews.com/politics/gop-presidential-candidate-shreds-calls-end-american-birthright-citizenship](https://www.foxnews.com/politics/gop-presidential-candidate-shreds-calls-end-american-birthright-citizenship)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:41:25+00:00
+
+Miami Mayor Francis Suarez, a Republican candidate for president, said last week that calls to end American birthright citizenship were &quot;really idiotic.&quot;
+
+## More details emerge in fatal shootings of Indiana officer, domestic violence suspect
+ - [https://www.foxnews.com/us/more-details-emerge-fatal-shootings-indiana-officer-domestic-violence-suspect](https://www.foxnews.com/us/more-details-emerge-fatal-shootings-indiana-officer-domestic-violence-suspect)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:36:11+00:00
+
+Tell City, Indiana Sgt. Heather Glenn&apos;s killer, Sean Hubert, was suspected of domestic violence and was not known to be armed, authorities said Monday.
+
+## Damar Hamlin helps teach Yankees CPR class six months after on-field cardiac arrest
+ - [https://www.foxnews.com/sports/damar-hamlin-helps-teach-yankees-cpr-class-six-months-after-on-field-cardiac-arrest](https://www.foxnews.com/sports/damar-hamlin-helps-teach-yankees-cpr-class-six-months-after-on-field-cardiac-arrest)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:35:24+00:00
+
+Six months and one day after his on-field cardiac arrest, Damar Hamlin took a trip to Yankee Stadium to help teach members of the Bronx Bombers CPR.
+
+## State officials 'on site' at Carowinds amusement park after visitor exposes potentially deadly coaster crack
+ - [https://www.foxnews.com/us/state-officials-site-carowinds-amusement-park-visitor-exposes-potentially-deadly-coaster-crack](https://www.foxnews.com/us/state-officials-site-carowinds-amusement-park-visitor-exposes-potentially-deadly-coaster-crack)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:33:17+00:00
+
+Labor officials are inspecting a North Carolina theme park ride that was spotted with a safety defect last week, prompting its temporary closure.
+
+## Hunter Biden driving 170 mph in Porsche among new laptop photos posted online
+ - [https://www.foxnews.com/politics/hunter-biden-driving-170-mph-porsche-among-new-laptop-photos-posted-online](https://www.foxnews.com/politics/hunter-biden-driving-170-mph-porsche-among-new-laptop-photos-posted-online)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:23:31+00:00
+
+First son Hunter Biden filmed himself appearing to smoke a crack pipe while driving around Arlington, Virginia, outside the nation&apos;s capital.
+
+## Singing with others for health and wellness: It can 'renew the spirit and adjust the mindset’
+ - [https://www.foxnews.com/health/singing-others-health-wellness-can-renew-spirit-adjust-mindset](https://www.foxnews.com/health/singing-others-health-wellness-can-renew-spirit-adjust-mindset)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:22:02+00:00
+
+Music can be a form of therapy, especially singing with others, according to a growing body of research examining the health and wellness benefits of this activity. Here are details.
+
+## California fugitive extradited to Florida to face charges in 1984 cold case murder
+ - [https://www.foxnews.com/us/california-fugitive-extradited-florida-face-charges-1984-cold-case-murder](https://www.foxnews.com/us/california-fugitive-extradited-florida-face-charges-1984-cold-case-murder)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:12:56+00:00
+
+Authorities announced that a man who was apprehended in California earlier this month has been brought back to Florida to face charges in connection with a woman&apos;s murder in 1984.
+
+## Small plane crash in rural Alaska kills 2, injures 3
+ - [https://www.foxnews.com/us/small-plane-crash-rural-alaska-kills-2-injures-3](https://www.foxnews.com/us/small-plane-crash-rural-alaska-kills-2-injures-3)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:11:19+00:00
+
+A plane that crashed in rural Alaska over the weekend left two people dead and three others severely injured. The aircraft, operated by Vertigo Air Taxi, was carrying five individuals.
+
+## South Carolina plane crash near golf course leaves 4 dead, 1 injured, FAA says
+ - [https://www.foxnews.com/us/south-carolina-plane-crash-golf-course-leaves-4-dead-1-injured-faa](https://www.foxnews.com/us/south-carolina-plane-crash-golf-course-leaves-4-dead-1-injured-faa)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:10:34+00:00
+
+The FAA confirmed four people were killed and another was injured after a single-engine Piper PA-32 crashed near a golf course in North Myrtle Beach, South Carolina, on Sunday.
+
+## Mississippi College Board appoints Tracy Cook as interim president of Alcorn State University
+ - [https://www.foxnews.com/us/mississippi-college-board-appoints-tracy-cook-interim-president-alcorn-state-university](https://www.foxnews.com/us/mississippi-college-board-appoints-tracy-cook-interim-president-alcorn-state-university)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:08:42+00:00
+
+The Mississippi Board of Trustees of State Institutions of Higher Learning has given approval for the appointment of Tracy Cook as the interim president of Alcorn State University.
+
+## Former Arizona Cardinals coach Vince Tobin dies at 79
+ - [https://www.foxnews.com/sports/former-arizona-cardinals-coach-vince-tobin-dies-79](https://www.foxnews.com/sports/former-arizona-cardinals-coach-vince-tobin-dies-79)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:06:56+00:00
+
+Vince Tobin, the former coach of the Arizona Cardinals, who led the team to their first playoff victory in 51 years back in 1998, has passed away at the age of 79.
+
+## DEI programs could crumble under weight of SCOTUS ruling: experts
+ - [https://www.foxnews.com/politics/dei-programs-could-crumble-under-weight-scotus-ruling-experts](https://www.foxnews.com/politics/dei-programs-could-crumble-under-weight-scotus-ruling-experts)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:06:37+00:00
+
+The Supreme Court&apos;s decision forbidding affirmative action in college admissions programs could dismantle DEI programs in corporate America, experts say.
+
+## Greece rebukes EU border agency's threats to leave country over migrant deaths: 'unthinkable'
+ - [https://www.foxnews.com/world/greece-rebukes-eu-border-agencys-threats-leave-country-migrant-deaths-unthinkable](https://www.foxnews.com/world/greece-rebukes-eu-border-agencys-threats-leave-country-migrant-deaths-unthinkable)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:05:30+00:00
+
+Greek Migration and Asylum Minister Dimitris Kairidis on Monday slammed European border security agency Frontex for threatening withdrawal from the country amid an ongoing dispute.
+
+## Douglas Murray call violent protests in France a lesson for America on 'open-borders immigration'
+ - [https://www.foxnews.com/media/douglas-murray-violent-protests-france-lesson-america-open-borders-immigration](https://www.foxnews.com/media/douglas-murray-violent-protests-france-lesson-america-open-borders-immigration)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T16:00:57+00:00
+
+Fox News contributor Douglas Murray joined &quot;Fox &amp; Friends&quot; to react to the violent protesters in France after a fatal shooting, calling it a warning to the U.S. on illegal immigration.
+
+## Venus Williams loses in Wimbledon first round to Elina Svitolina after falling in first set
+ - [https://www.foxnews.com/sports/venus-williams-loses-wimbledon-first-round-elina-svitolina-falling-first-set](https://www.foxnews.com/sports/venus-williams-loses-wimbledon-first-round-elina-svitolina-falling-first-set)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:54:35+00:00
+
+Elina Svitolina beat Venus Williams in two sets on Monday to in the opening round of womens singles at Wimbledon as Williams was participating in her 24th Wimbledon tournament.
+
+## Must-do: What Congress has left on its plate at year's halfway mark
+ - [https://www.foxnews.com/politics/must-do-what-congress-has-left-plate-years-halfway-mark](https://www.foxnews.com/politics/must-do-what-congress-has-left-plate-years-halfway-mark)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:45:27+00:00
+
+As the year inches closer to its halfway mark, Congress must take a look at its to-do list so far, given its list of promises members of both parties still have to meet.
+
+## California reparations panelist blasts White men as a 'danger to society': They're 'shooting up schools'
+ - [https://www.foxnews.com/media/california-reparations-panelist-white-men-danger-society-shooting-schools](https://www.foxnews.com/media/california-reparations-panelist-white-men-danger-society-shooting-schools)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:39:03+00:00
+
+San Francisco reparations committee member Nikcole Cunningham criticized White men for refusing to support reparations efforts, calling them a &quot;danger to society.&quot;
+
+## Michael Vick reflects on one man who advised against dogfighting enterprise
+ - [https://www.foxnews.com/sports/michael-vick-reflects-one-man-advised-dogfighting-enterprise](https://www.foxnews.com/sports/michael-vick-reflects-one-man-advised-dogfighting-enterprise)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:24:51+00:00
+
+Appearing on Tyreek Hill&apos;s podcast, Michael Vick said he wished he had more advice against being a part of the dogfighting operation that got his career off track.
+
+## Last surviving member of French D-Day unit dead at 100
+ - [https://www.foxnews.com/world/last-surviving-member-french-d-day-unit-dead-100](https://www.foxnews.com/world/last-surviving-member-french-d-day-unit-dead-100)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:22:17+00:00
+
+Leon Gautier, the last surviving member of France&apos;s Kieffer Commando — one of the first to come ashore at Normandy on D-Day — has died after being treated for lung issues. He was 100.
+
+## UK police have new expanded powers to crack down on protests
+ - [https://www.foxnews.com/world/uk-police-have-new-expanded-powers-crack-down-protests](https://www.foxnews.com/world/uk-police-have-new-expanded-powers-crack-down-protests)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:20:05+00:00
+
+New laws came into effect on Sunday that would grant expanded powers to British police targeting groups like Just Stop Oil and Extinction Rebellion involved in disruptive protests.
+
+## Man fatally shot by Orlando police during traffic stop, firearm not found
+ - [https://www.foxnews.com/us/man-fatally-shot-orlando-police-traffic-stop-firearm-found](https://www.foxnews.com/us/man-fatally-shot-orlando-police-traffic-stop-firearm-found)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:18:01+00:00
+
+A man in downtown Orlando was shot and killed by police after allegedly disregarding their commands during a drug investigation, according to the police chief.
+
+## Investigation launched at North Carolina amusement park following discovery of roller coaster crack
+ - [https://www.foxnews.com/us/investigation-launched-north-carolina-amusement-park-following-discovery-roller-coaster-crack](https://www.foxnews.com/us/investigation-launched-north-carolina-amusement-park-following-discovery-roller-coaster-crack)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:16:01+00:00
+
+State authorities have begun an investigation at a popular amusement park in North Carolina after a crack was found on a support beam of one of its highly frequented roller coasters.
+
+## South Carolina house fire claims 6 lives, suspect charged with attempted murder
+ - [https://www.foxnews.com/us/south-carolina-house-fire-claims-6-lives-suspect-charged-attempted-murder](https://www.foxnews.com/us/south-carolina-house-fire-claims-6-lives-suspect-charged-attempted-murder)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:13:28+00:00
+
+A house fire in South Carolina killed six individuals, with one person found in critical condition. The Colleton County Sheriff&apos;s Office discovered a survivor in the home.
+
+## Hezbollah outposts along Lebanese-Israeli border trigger UN response
+ - [https://www.foxnews.com/world/hezbollah-outposts-lebanese-israeli-border-trigger-un-response](https://www.foxnews.com/world/hezbollah-outposts-lebanese-israeli-border-trigger-un-response)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T15:10:58+00:00
+
+The U.N. peacekeeping force on the Lebanese-Israeli border has contacted both countries&apos; officials over tents set up by Hezbollah on Israeli territory last month.
+
+## FBI announces $28,000 reward for info leading to arrest in Baltimore shooting that left 2 dead, dozens injured
+ - [https://www.foxnews.com/us/fbi-announces-28000-reward-info-leading-arrest-baltimore-shooting-left-2-dead-dozens-injured](https://www.foxnews.com/us/fbi-announces-28000-reward-info-leading-arrest-baltimore-shooting-left-2-dead-dozens-injured)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:52:36+00:00
+
+The FBI, Baltimore Police, and the ATF are collectively offering a $28,000 reward for information leading to an arrest and charge in Sunday&apos;s mass shooting that killed two people.
+
+## Finland's economy minister steps down after 10 days in office following alleged Nazi references
+ - [https://www.foxnews.com/world/finlands-economy-minister-steps-down-after-10-days-office-following-alleged-nazi-references](https://www.foxnews.com/world/finlands-economy-minister-steps-down-after-10-days-office-following-alleged-nazi-references)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:49:07+00:00
+
+Finland&apos;s economy minister has resigned after just 10 days in office following accusations he made comments supporting Nazis at multiple public events.
+
+## Activist groups challenges Harvard over legacy admissions, claims it discriminates against Black students
+ - [https://www.foxnews.com/politics/activist-groups-challenges-harvard-legacy-admissions-claims-discriminates-black-students](https://www.foxnews.com/politics/activist-groups-challenges-harvard-legacy-admissions-claims-discriminates-black-students)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:35:51+00:00
+
+Lawyers for Civil Rights filed a complaint against Harvard arguing that the practice of legacy admissions unfairly favors White applicants.
+
+## Bud Light now selling for less than water in some places
+ - [https://www.foxnews.com/media/bud-light-now-selling-less-water-places](https://www.foxnews.com/media/bud-light-now-selling-less-water-places)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:35:46+00:00
+
+Once the most popular beer in the U.S., Bud Light is now selling for less than water in some American establishments, according to a new report.
+
+## Politico columnist demands strong primary challenger for Biden: What if he 'just dies one evening'?
+ - [https://www.foxnews.com/media/politico-columnist-demands-strong-primary-challenger-biden-what-just-dies-evening](https://www.foxnews.com/media/politico-columnist-demands-strong-primary-challenger-biden-what-just-dies-evening)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:35:22+00:00
+
+A Politico columnist argued in a piece published Monday that President Biden needed a strong primary challenger in case the president &quot;just dies one evening.&quot;
+
+## Biden's latest eco regs blasted by small businesses, manufacturers: 'Will do terrible damage'
+ - [https://www.foxnews.com/politics/bidens-latest-eco-regs-blasted-small-businesses-manufacturers-will-do-terrible-damage](https://www.foxnews.com/politics/bidens-latest-eco-regs-blasted-small-businesses-manufacturers-will-do-terrible-damage)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:33:42+00:00
+
+American businesses are lining up in opposition to a recent Environmental Protection Agency proposal that would ban the vast majority of uses of a key chemical.
+
+## Bryan Kohberger will face the death penalty if jurors can agree the crime was 'heinous,' Attorney says
+ - [https://www.foxnews.com/media/bryan-kohberger-death-penalty-jurors-crime-heinous-attorney](https://www.foxnews.com/media/bryan-kohberger-death-penalty-jurors-crime-heinous-attorney)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:30:35+00:00
+
+Former NYPD inspector Paul Mauro weighs in on Idaho State prosecutors filing for capital punishment in the case against University of Idaho murders suspect Bryan Kohberger on &quot;Sunday Night in America.&quot;
+
+## New Orleans bookstore event celebrating Black authors shut down by Essence Festival of Culture
+ - [https://www.foxnews.com/us/new-orleans-bookstore-event-celebrating-black-authors-shut-down-essence-festival-culture](https://www.foxnews.com/us/new-orleans-bookstore-event-celebrating-black-authors-shut-down-essence-festival-culture)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:21:00+00:00
+
+A bookstore event promoting Black authors was abruptly shut down in NOLA after the Essence Festival of Culture alleged that the business used the Essence name illegally.
+
+## Former South Florida police officer pleads guilty to COVID-19 relief fraud
+ - [https://www.foxnews.com/us/former-south-florida-police-officer-pleads-guilty-covid-19-relief-fraud](https://www.foxnews.com/us/former-south-florida-police-officer-pleads-guilty-covid-19-relief-fraud)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:20:43+00:00
+
+A former South Florida police officer, Samuel Harris, has pleaded guilty in federal court to wire fraud after stealing approximately $285,000 in COVID-19 relief funds.
+
+## Missouri woman accused of killing mom-to-be for her baby now charged with unborn child's murder
+ - [https://www.foxnews.com/us/missouri-woman-accused-killing-mom-to-be-her-baby-now-charged-unborn-childs-murder](https://www.foxnews.com/us/missouri-woman-accused-killing-mom-to-be-her-baby-now-charged-unborn-childs-murder)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:18:26+00:00
+
+A Missouri woman accused of abducting and murdering a pregnant mother of three in 2022 to steal her baby was charged last week with the unborn child&apos;s death.
+
+## US Forest Service urges swap of fireworks for silly string to prevent wildfires
+ - [https://www.foxnews.com/us/us-forest-service-urges-swap-fireworks-silly-string-prevent-wildfires](https://www.foxnews.com/us/us-forest-service-urges-swap-fireworks-silly-string-prevent-wildfires)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:18:23+00:00
+
+As the Fourth of July approaches, U.S. Forest Service managers in drought-stricken regions of the southwest are advising people to forgo fireworks and opt for safer alternatives.
+
+## Young Thug label rapper FN DaDealer faces murder charge following Atlanta shooting
+ - [https://www.foxnews.com/us/young-thug-label-rapper-fn-dadealer-faces-murder-charge-atlanta-shooting](https://www.foxnews.com/us/young-thug-label-rapper-fn-dadealer-faces-murder-charge-atlanta-shooting)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:16:14+00:00
+
+Jakobe Moody, known as the rapper FN DaDealer, faces a murder charge linked to the fatal June 5 shooting of Tremaine Glasper in Atlanta, Georgia.
+
+## Protestors swarm Israel's Ben Gurion Airport over Netanyahu-backed judicial reform bid
+ - [https://www.foxnews.com/world/protestors-swarm-israels-ben-gurion-airport-netanyahu-backed-judicial-reform-bid](https://www.foxnews.com/world/protestors-swarm-israels-ben-gurion-airport-netanyahu-backed-judicial-reform-bid)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:16:10+00:00
+
+Thousands blocked traffic around Ben Gurion Airport&apos;s main terminal in protest of conservative Israeli Prime Minister Benjamin Netanyahu&apos;s judicial reform efforts.
+
+## Delaware House advances measure allowing business entities to vote in municipal elections
+ - [https://www.foxnews.com/politics/delaware-house-advances-measure-allowing-business-entities-vote-municipal-elections](https://www.foxnews.com/politics/delaware-house-advances-measure-allowing-business-entities-vote-municipal-elections)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:14:51+00:00
+
+The Delaware House has approved a measure that would allow business entities, such as corporations and limited liability companies, to vote in municipal elections.
+
+## Additional gunshot victim raises Kansas nightclub injury count to 10
+ - [https://www.foxnews.com/us/additional-gunshot-victim-raises-kansas-nightclub-injury-count-10](https://www.foxnews.com/us/additional-gunshot-victim-raises-kansas-nightclub-injury-count-10)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:14:47+00:00
+
+An eighth gunshot victim&apos;s identification has brought the total number of people injured in a weekend shooting at Wichita, Kansas&apos; City Nightz club to 10.
+
+## Slovak central bank head refuses to resign over bribery charges
+ - [https://www.foxnews.com/world/slovak-central-bank-head-refuses-resign-bribery-charges](https://www.foxnews.com/world/slovak-central-bank-head-refuses-resign-bribery-charges)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:13:22+00:00
+
+Slovak central bank head and former Finance Minister Peter Kazimir has declared his intent to remain in office, despite grave bribery charges being levied against him.
+
+## UK endures hottest June on record
+ - [https://www.foxnews.com/world/uk-endures-hottest-june-record](https://www.foxnews.com/world/uk-endures-hottest-june-record)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:06:09+00:00
+
+The United Kingdom’s weather agency has recorded the country’s hottest June since records began in 1884. Experts warned that the uncommon temperatures will become more frequent.
+
+## We need to talk about the daughter the Bidens reject
+ - [https://www.foxnews.com/opinion/we-need-talk-about-daughter-bidens-reject](https://www.foxnews.com/opinion/we-need-talk-about-daughter-bidens-reject)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T14:00:14+00:00
+
+A judge ordered Hunter Biden to take a paternity test, which confirmed the child is his.
+
+## No clear sign of when Thai opposition party leader will take over after shocking election victory
+ - [https://www.foxnews.com/world/no-clear-sign-thai-opposition-party-leader-take-shocking-election-victory](https://www.foxnews.com/world/no-clear-sign-thai-opposition-party-leader-take-shocking-election-victory)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:50:57+00:00
+
+It is still unclear when Pita Limjaroenrat, the Thai opposition party leader, will take over after he unexpectedly won the country&apos;s election.
+
+## Peter Hellyer, UK-born writer who chronicled the rise of UAE for nearly 50 years, dies at age 75
+ - [https://www.foxnews.com/world/peter-hellyer-uk-born-writer-chronicled-rise-uae-50-years-dies-age-75](https://www.foxnews.com/world/peter-hellyer-uk-born-writer-chronicled-rise-uae-50-years-dies-age-75)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:50:10+00:00
+
+Prolific writer Peter Hellyer, a British-born writer who spent nearly 50 years chronicling the beauty and transformation of the United Arab Emirates, has died at 75 years old.
+
+## Michael Jordan seemingly confirms disapproval of son's relationship with Larsa Pippen
+ - [https://www.foxnews.com/sports/michael-jordan-seemingly-confirms-disapproval-sons-relationship-larsa-pippen](https://www.foxnews.com/sports/michael-jordan-seemingly-confirms-disapproval-sons-relationship-larsa-pippen)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:43:38+00:00
+
+Michael Jordan appeared to confirm his disapproval of his son&apos;s relationship with Larsa Pippen – the ex-wife of his former teammate Scottie Pippen.
+
+## Australia becomes 1st country to allow patients with depression, PTSD take psychedelics
+ - [https://www.foxnews.com/world/australia-1st-country-patients-depression-ptsd-psychedelics](https://www.foxnews.com/world/australia-1st-country-patients-depression-ptsd-psychedelics)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:42:28+00:00
+
+Australia has officially become the world’s first country to legalize the use of psychedelic substances to treat patients suffering from either depression or PTSD.
+
+## Indiana man, police officer killed in exchange of gunfire at hospital in Tell City
+ - [https://www.foxnews.com/us/indiana-man-police-officer-killed-exchange-gunfire-hospital-tell-city](https://www.foxnews.com/us/indiana-man-police-officer-killed-exchange-gunfire-hospital-tell-city)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:42:02+00:00
+
+A shooting at a hospital in Tell City, Indiana, led to the death of Sean Hubert and Sgt. Heather Glenn. Police were involved in an altercation with Hubert before shots were fired.
+
+## Thousands of Amazon indigenous are leaving the forest to experience a new life in cities
+ - [https://www.foxnews.com/world/thousands-amazon-indigenous-leave-forest-experience-new-life](https://www.foxnews.com/world/thousands-amazon-indigenous-leave-forest-experience-new-life)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:40:53+00:00
+
+Thousands of Indigenous are leaving the Amazon to experience a different lifestyle. Many of them leave the forest in pursuit of an education.
+
+## US maternal deaths more than doubled over the past 2 decades with some groups being affected more than others
+ - [https://www.foxnews.com/us/us-maternal-deaths-more-doubled-over-past-2-decades-some-groups-affected-others](https://www.foxnews.com/us/us-maternal-deaths-more-doubled-over-past-2-decades-some-groups-affected-others)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:39:39+00:00
+
+United States maternal deaths have more than doubled over the past two decades. Certain groups died at higher rates than others, with Black mothers dying at the nation&apos;s highest rate.
+
+## Atlanta police motorcycles destroyed by intentional fire started by ‘incendiary devices’
+ - [https://www.foxnews.com/us/atlanta-police-motorcycles-destroyed-intentional-fire-started-incendiary-devices](https://www.foxnews.com/us/atlanta-police-motorcycles-destroyed-intentional-fire-started-incendiary-devices)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:39:14+00:00
+
+Several motorcycles belonging to Georgia’s Atlanta Police Department were damaged in an intentional fire caused by incendiary devices. The incident has not yet been classified as arson.
+
+## New US bill would ban products containing minerals sourced with child labor in Congo
+ - [https://www.foxnews.com/politics/new-us-bill-ban-products-containing-minerals-sourced-child-labor-congo](https://www.foxnews.com/politics/new-us-bill-ban-products-containing-minerals-sourced-child-labor-congo)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:38:38+00:00
+
+The U.S. has introduced a new measure that would ban products containing minerals sourced with child labor in Congo, where China has enormous mining stakes.
+
+## Pesticide spraying near New Mexico river used to kill invasive grasshoppers called off by feds
+ - [https://www.foxnews.com/us/pesticide-spraying-new-mexico-river-kill-invasive-grasshoppers-feds](https://www.foxnews.com/us/pesticide-spraying-new-mexico-river-kill-invasive-grasshoppers-feds)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:36:55+00:00
+
+Pesticides used to eradicate New Mexico’s invasive grasshoppers near Rio Chama have been called off by federal land managers. Additional analysis and outreach may be required.
+
+## Hong Kong police offer reward for information leading to the arrest of 8 self-exiled pro-democracy activists
+ - [https://www.foxnews.com/world/hong-kong-police-reward-information-leading-arrest-8-self-exiled-pro-democracy-activist](https://www.foxnews.com/world/hong-kong-police-reward-information-leading-arrest-8-self-exiled-pro-democracy-activist)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:35:48+00:00
+
+A $127,600 reward has been offered for information that leads to the arrest of eight self-exiled pro-democracy activists by Hong Kong police.
+
+## Drug cartel violence flares in Mexico a day after gang-fighting vigilante gets buried
+ - [https://www.foxnews.com/world/drug-cartel-violence-flares-mexico-day-gang-fighting-vigilante-buried](https://www.foxnews.com/world/drug-cartel-violence-flares-mexico-day-gang-fighting-vigilante-buried)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:34:10+00:00
+
+Drug cartels wreaked havoc across Apatzingan, Mexico, once again, following the death of Hipolito Mora, a vigilante leader of an anti-gang citizens’ movement.
+
+## Nevada's lowest-wage workers to see pay increase with minimum wage hike
+ - [https://www.foxnews.com/us/nevadas-lowest-wage-workers-see-pay-increase-minimum-wage-hike](https://www.foxnews.com/us/nevadas-lowest-wage-workers-see-pay-increase-minimum-wage-hike)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:33:37+00:00
+
+Nevada&apos;s minimum wage has risen, bringing higher paychecks for the state&apos;s lowest wage workers. The increase, mandated by legislation passed in 2019, raised the minimum wage.
+
+## Youth gathering in Swiss city echoes French riots, resulting in shop window smashing and 7 detentions
+ - [https://www.foxnews.com/world/youth-gathering-swiss-city-echoes-french-riots-resulting-shop-window-smashing-7-detentions](https://www.foxnews.com/world/youth-gathering-swiss-city-echoes-french-riots-resulting-shop-window-smashing-7-detentions)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:31:43+00:00
+
+Seven individuals, mostly teenagers, were apprehended in Lausanne, Switzerland, following the vandalism of multiple shop windows after recent riots in France.
+
+## 'Barbie' movie banned in Vietnam over map depicting disputed territory in South China Sea
+ - [https://www.foxnews.com/entertainment/barbie-movie-banned-vietnam-over-map-depicting-disputed-territory-south-china-sea](https://www.foxnews.com/entertainment/barbie-movie-banned-vietnam-over-map-depicting-disputed-territory-south-china-sea)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:31:17+00:00
+
+The new &quot;Barbie&quot; movie has been banned in Vietnam due to a scene featuring a map with the &quot;nine-dash line&quot;, which illustrates China&apos;s territorial claims in the South China Sea.
+
+## Bernhard Langer wins US Senior Open, breaks PGA Tour Champions career victory record
+ - [https://www.foxnews.com/sports/bernhard-langer-wins-us-senior-open-breaks-pga-tour-champions-career-victory-record](https://www.foxnews.com/sports/bernhard-langer-wins-us-senior-open-breaks-pga-tour-champions-career-victory-record)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:31:05+00:00
+
+Bernard Langer won the U.S. Senior Open at SentryWorld on Sunday to break the PGA Tour Champions&apos; career record with his 46th career victory.
+
+## Western Pennsylvania reports 2 fatal police shootings over weekend
+ - [https://www.foxnews.com/us/western-pennsylvania-reports-2-fatal-police-shootings-weekend](https://www.foxnews.com/us/western-pennsylvania-reports-2-fatal-police-shootings-weekend)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:29:52+00:00
+
+State police shot and killed a driver following a chase in western Pennsylvania, one of two fatal police shootings in the region over the weekend.
+
+## Arrests plummet in 6th night of France riots as interior minister blasts parents for letting kids protest
+ - [https://www.foxnews.com/world/arrests-plummet-6th-night-france-riots-interior-minister-blasts-parents-letting-kids-protest](https://www.foxnews.com/world/arrests-plummet-6th-night-france-riots-interior-minister-blasts-parents-letting-kids-protest)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T13:27:42+00:00
+
+France&apos;s Interior minister called on parents to control their kids after revealing that the average age of those arrested over the past week was just 17.
+
+## 'Mission: Impossible' star Tom Cruise takes on 'most dangerous' sport in behind the scenes look at new film
+ - [https://www.foxnews.com/entertainment/mission-impossible-star-tom-cruise-most-dangerous-sport-behind-scenes-look-new-film](https://www.foxnews.com/entertainment/mission-impossible-star-tom-cruise-most-dangerous-sport-behind-scenes-look-new-film)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:57:52+00:00
+
+&quot;Mission: Impossible - Dead Reckoning Part One&quot; writer Christopher McQuarrie explains the dangers of speedflying as Tom Cruise takes on the sport for his latest film.
+
+## California college ranks medical student applications based on 'adversity scores'
+ - [https://www.foxnews.com/media/california-college-ranks-medical-student-applications-based-adversity-scores](https://www.foxnews.com/media/california-college-ranks-medical-student-applications-based-adversity-scores)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:53:13+00:00
+
+In the wake of the Supreme Court&apos;s affirmative action decision, The New York Times profiled the UC-Davis medical school&apos;s use of &quot;adversity scores&quot; in admissions.
+
+## Panthers sign free agents Oliver Ekman-Larsson and Dmitry Kulikov, trade Anthony Duclair to Sharks
+ - [https://www.foxnews.com/sports/panthers-sign-free-agents-oliver-ekman-larsson-dmitry-kulikov-trade-anthony-duclair-sharks](https://www.foxnews.com/sports/panthers-sign-free-agents-oliver-ekman-larsson-dmitry-kulikov-trade-anthony-duclair-sharks)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:51:41+00:00
+
+The Florida Panthers have been very active in free agency signing defenseman Oliver Ekman-Larrsson, Dmitry Kulikov, Niko Mikkola, and Mike Reilly to contracts.
+
+## Professional Women's Hockey Players' Association ratifies CBA to launch new women's pro hockey league
+ - [https://www.foxnews.com/sports/professional-womens-hockey-players-association-ratifies-cba-to-launch-new-womens-pro-hockey-league](https://www.foxnews.com/sports/professional-womens-hockey-players-association-ratifies-cba-to-launch-new-womens-pro-hockey-league)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:48:29+00:00
+
+The final hurdle was cleared after the Professional Women&apos;s Hockey Players&apos; Association ratified the CBA for a new women&apos;s professional hockey league.
+
+## Democrats demand Supreme Court term limits after Biden losses
+ - [https://www.foxnews.com/politics/democrats-demand-supreme-court-term-limits-after-biden-losses](https://www.foxnews.com/politics/democrats-demand-supreme-court-term-limits-after-biden-losses)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:45:03+00:00
+
+Reps. Ro Khanna and Don Beyer are pushing to install term limits on Supreme Court after the Biden administration was dealt consecutive losses in the last week of the term.
+
+## Illinois man critical after commercial-grade firework explodes in face
+ - [https://www.foxnews.com/us/illinois-man-critical-commercial-grade-firework-explodes-face](https://www.foxnews.com/us/illinois-man-critical-commercial-grade-firework-explodes-face)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:42:49+00:00
+
+A Cary, Illinois, man is in critical condition after a commercial grade firework exploded in his face as he inspected its initial failure to detonate as planned.
+
+## How to stop your Apple Watch from reacting to your conversations
+ - [https://www.foxnews.com/tech/stop-apple-watch-reacting-conversations](https://www.foxnews.com/tech/stop-apple-watch-reacting-conversations)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:36:46+00:00
+
+Does Siri respond even when you are not talking to it? Kurt &quot;CyberGuy&quot; Knutsson shows you how to stop your Apple Watch from interrupting.
+
+## Tornado devastates Canadian town, damaging homes, killing livestock; no serious injuries reported
+ - [https://www.foxnews.com/world/tornado-devastates-canadian-town-damaging-homes-killing-livestock-serious-injuries-reported](https://www.foxnews.com/world/tornado-devastates-canadian-town-damaging-homes-killing-livestock-serious-injuries-reported)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:30:35+00:00
+
+RCMP recieved reports that a tornado struck near the town of Didsbury in Alberta, Canada, resulting in the destruction of homes and the loss of livestock.
+
+## Sudanese Army calls for youth enlistment to battle rival paramilitary force
+ - [https://www.foxnews.com/world/sudanese-army-calls-youth-enlistment-battle-rival-paramilitary-force](https://www.foxnews.com/world/sudanese-army-calls-youth-enlistment-battle-rival-paramilitary-force)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:28:16+00:00
+
+The Sudanese army has issued a call for young people and anyone capable of fighting to join its ranks and prepare for battle against a rival paramilitary force.
+
+## Severe storm leaves 75,000 without power in St. Louis region, results in 2 fatalities
+ - [https://www.foxnews.com/us/severe-storm-leaves-75000-power-st-louis-region-results-2-fatalities](https://www.foxnews.com/us/severe-storm-leaves-75000-power-st-louis-region-results-2-fatalities)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:25:51+00:00
+
+A powerful weekend storm wreaked havoc in the St. Louis region, leaving nearly 75,000 people without power and two others dead as of Monday morning.
+
+## Michigan man arrested in Florida for attacking officer with flagpole during US Capitol attack
+ - [https://www.foxnews.com/us/michigan-man-arrested-florida-attacking-officer-flagpole-us-capitol-attack](https://www.foxnews.com/us/michigan-man-arrested-florida-attacking-officer-flagpole-us-capitol-attack)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:22:47+00:00
+
+Authorities announced the arrest of a 28-year-old man from Michigan who allegedly assaulted a police officer with a flagpole during the Jan. 6, 2021, U.S. Capitol riots.
+
+## Ukrainian award-winning writer killed in Russian missile attack on eastern Ukraine restaurant
+ - [https://www.foxnews.com/world/ukrainian-award-winning-writer-killed-russian-missile-attack-eastern-ukraine-restaurant](https://www.foxnews.com/world/ukrainian-award-winning-writer-killed-russian-missile-attack-eastern-ukraine-restaurant)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:21:09+00:00
+
+Ukrainian author Victoria Amelina died and several others were injured in a Russian missile attack on a popular restaurant in eastern Ukraine on June 27 in Kramatorsk.
+
+## Mexican politician 'marries' alligator-like reptile in ancestral ceremony to bring good luck
+ - [https://www.foxnews.com/world/mexican-politician-marries-alligator-like-reptile-ancestral-ceremony-bring-good-luck](https://www.foxnews.com/world/mexican-politician-marries-alligator-like-reptile-ancestral-ceremony-bring-good-luck)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:18:12+00:00
+
+San Pedro Huamelula Mayor Victor Hugo Sosa married an alligator-type reptile in a marriage ceremony that represents the union of the Chontal and Huave indigenous groups.
+
+## Christian, Jewish groups sue to protect abortion access in unexpected twist on religious freedom
+ - [https://www.foxnews.com/media/christian-jewish-sue-protect-abortion-access-unexpected-twist-religious-freedom](https://www.foxnews.com/media/christian-jewish-sue-protect-abortion-access-unexpected-twist-religious-freedom)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:07:50+00:00
+
+Members of various faiths are suing over abortion bans and restrictions in some states, arguing the &apos;life begins at conception&apos; argument violates their faith.
+
+## GOP attacks ‘woke’ Pentagon, looks to shut down gender, abortion, diversity policies
+ - [https://www.foxnews.com/politics/gop-attacks-woke-pentagon-looks-shut-down-gender-abortion-diversity-policies](https://www.foxnews.com/politics/gop-attacks-woke-pentagon-looks-shut-down-gender-abortion-diversity-policies)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:06:04+00:00
+
+House Republicans have filed dozens of amendments to a defense bill that are aimed at dismantling the Pentagon&apos;s &quot;woke&quot; policies related to gender and DEI.
+
+## Arnold Schwarzenegger’s feud with Sylvester Stallone led him to push for more violence in ‘Terminator 2’
+ - [https://www.foxnews.com/entertainment/arnold-schwarzeneggers-feud-sylvester-stallone-led-push-more-violence-terminator-2](https://www.foxnews.com/entertainment/arnold-schwarzeneggers-feud-sylvester-stallone-led-push-more-violence-terminator-2)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:05:16+00:00
+
+Arnold Schwarzenegger and Sylvester Stallone had a long-running feud early in their careers, and it became so intense that Schwarzenegger begged for more violence in &quot;Terminator 2.&quot;
+
+## Supreme Court's rebuke of Biden's student loan socialism is a win for all Americans
+ - [https://www.foxnews.com/opinion/supreme-court-rebuke-biden-student-loan-socialism-win-all-americans](https://www.foxnews.com/opinion/supreme-court-rebuke-biden-student-loan-socialism-win-all-americans)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:03:28+00:00
+
+The Supreme Court finally squashed the Biden administration&apos;s plan to redistribute roughly half a trillion dollars in student loan debt.
+
+## Biden torched for 'unconstitutional' plan to circumvent Supreme Court ruling on student loan forgiveness
+ - [https://www.foxnews.com/media/biden-torched-unconstitutional-plan-circumvent-supreme-court-ruling](https://www.foxnews.com/media/biden-torched-unconstitutional-plan-circumvent-supreme-court-ruling)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T12:00:33+00:00
+
+Fox News contributor Marc Thiessen argued President Biden doesn&apos;t have the right to seek an alternative legal path to implement the student loan forgiveness plan.
+
+## Kings sign All-NBA center Domantas Sabonis to four-year, $195 million contract extension
+ - [https://www.foxnews.com/sports/kings-sign-all-nba-center-domantas-sabonis-four-year-195-million-contract-extension](https://www.foxnews.com/sports/kings-sign-all-nba-center-domantas-sabonis-four-year-195-million-contract-extension)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:57:33+00:00
+
+The Sacramento Kings signed All-NBA center Domantas Sabonis to a four-year $195 million contract extension that will keep him signed through the 2027-2028 season on Sunday.
+
+## Robert De Niro 'deeply distressed' by death of 19-year-old grandson
+ - [https://www.foxnews.com/entertainment/robert-de-niro-deeply-distressed-death-19-year-old-grandson](https://www.foxnews.com/entertainment/robert-de-niro-deeply-distressed-death-19-year-old-grandson)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:57:31+00:00
+
+Robert De Niro&apos;s grandson, Leandro De Niro Rodriguez, tragically passed away. His mother, Drena announced her son, 19, had died to Instagram.
+
+## China clamps down on Christians, fines pastor and wife for running underground church: watchdog
+ - [https://www.foxnews.com/world/china-clamps-down-christians-fines-pastor-wife-running-underground-church-watchdog](https://www.foxnews.com/world/china-clamps-down-christians-fines-pastor-wife-running-underground-church-watchdog)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:55:24+00:00
+
+Pastor Yang Xibo and his wife have been slapped with a 400,000-yuan fine for organizing religious activities in defiance of the Chinese Communist Party, says a watchdog.
+
+## Fire damages Phoenix homes as temperature hits 110 degrees
+ - [https://www.foxnews.com/us/fire-damages-phoenix-homes-temperature-hits-110-degrees](https://www.foxnews.com/us/fire-damages-phoenix-homes-temperature-hits-110-degrees)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:52:42+00:00
+
+At least three homes in Phoenix, Arizona, were seriously damaged by fire amid 110-degree weather. Hot embers blew onto the roofs, but the cause of the fire remains under investigation.
+
+## EU climate chief expresses concerns over China's coal industry expansion
+ - [https://www.foxnews.com/world/eu-climate-chief-expresses-concerns-chinas-coal-industry-expansion](https://www.foxnews.com/world/eu-climate-chief-expresses-concerns-chinas-coal-industry-expansion)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:40:11+00:00
+
+Frans Timmermans, the European Union&apos;s climate chief, is concerned about new coal-fired power plants being built in China. China is the world&apos;s biggest producer of renewable energy.
+
+## New poll reveals where Americans stand on SCOTUS affirmative action, student loan, religious freedom decisions
+ - [https://www.foxnews.com/politics/new-poll-where-americans-stand-scotus-affirmative-action-student-loan-religious-freedom-decisions](https://www.foxnews.com/politics/new-poll-where-americans-stand-scotus-affirmative-action-student-loan-religious-freedom-decisions)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:39:54+00:00
+
+A new ABC News/Ipsos poll found that most Americans agree with the Supreme Court&apos;s recent rulings on affirmative action, free speech, and student loan handouts.
+
+## State Department warns Americans against traveling to China over 'risk of wrongful detentions'
+ - [https://www.foxnews.com/world/state-department-warns-americans-against-traveling-china-risk-wrongful-detentions](https://www.foxnews.com/world/state-department-warns-americans-against-traveling-china-risk-wrongful-detentions)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:38:09+00:00
+
+The U.S. State Department has issued a new advisory warning Americans from traveling to China over the risk of being unjustly detained there.
+
+## Jesús Ferreira becomes first American with back-to-back international hat tricks in US' dominant victory
+ - [https://www.foxnews.com/sports/jesus-ferreira-first-american-back-to-back-hat-tricks-united-states-routs-trinidad-tobago](https://www.foxnews.com/sports/jesus-ferreira-first-american-back-to-back-hat-tricks-united-states-routs-trinidad-tobago)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:34:46+00:00
+
+In the United States 6-0 rout of Trinidad and Tobago Jesús Ferreira scored his second consecutive hat trick and became the third American with three international hat tricks.
+
+## Enes Kanter Freedom swats Natasha Cloud's 'trash' US take: 'You don’t wanna see the other side'
+ - [https://www.foxnews.com/sports/enes-kanter-freedom-swats-natasha-clouds-trash-us-take-dont-wanna-see-other-side](https://www.foxnews.com/sports/enes-kanter-freedom-swats-natasha-clouds-trash-us-take-dont-wanna-see-other-side)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:29:51+00:00
+
+Enes Kanter Freedom responded to Natasha Cloud&apos;s criticisms of the United States following key Supreme Court rulings last week. Cloud expanded on her remarks Saturday.
+
+## Talor Gooch wins third LIV Golf title after clutch birdie on 18th hole
+ - [https://www.foxnews.com/sports/talor-gooch-wins-third-liv-golf-title-clutch-birdie-18th-hole](https://www.foxnews.com/sports/talor-gooch-wins-third-liv-golf-title-clutch-birdie-18th-hole)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:26:31+00:00
+
+Talor Gooch won his third LIV Golf title of the year with a clutch birdie on the 18th hole on Sunday when he beat out Byrson DeChambeau by one stroke.
+
+## Phoenix buys land to give city’s growing homeless population structured campground
+ - [https://www.foxnews.com/politics/phoenix-buys-land-give-citys-growing-homeless-population-structured-campground](https://www.foxnews.com/politics/phoenix-buys-land-give-citys-growing-homeless-population-structured-campground)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:22:44+00:00
+
+Phoenix is planning to buy 4.2 acres of state-owned land for $5.4 million. The Arizona city plans to use the land to build a structured campground for its homeless population.
+
+## NPR report dismisses Asians as tools of Whites in affirmative action case: 'Offensive garbage'
+ - [https://www.foxnews.com/media/npr-report-dismisses-asians-tools-whites-affirmative-action-case-offensive-garbage](https://www.foxnews.com/media/npr-report-dismisses-asians-tools-whites-affirmative-action-case-offensive-garbage)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:19:43+00:00
+
+NPR took fire for a report on Asian Americans serving as a useful proxy for Whites in the affirmative action case, with critics calling it &quot;offensive garbage.&quot;
+
+## Cleanup crews in Montana roll up globs of asphalt binder following train derailment in Yellowstone River
+ - [https://www.foxnews.com/us/cleanup-crews-montana-roll-globs-asphalt-binder-following-train-derailment-yellowstone-river](https://www.foxnews.com/us/cleanup-crews-montana-roll-globs-asphalt-binder-following-train-derailment-yellowstone-river)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:16:37+00:00
+
+Efforts to clean up Montana&apos;s Yellowstone River have begun after a train derailed off a collapsed bridge and spilled liquid asphalt and molten sulfur into the water.
+
+## How to take amazing photos of fireworks on your phone
+ - [https://www.foxnews.com/tech/how-take-amazing-photos-fireworks-your-phone](https://www.foxnews.com/tech/how-take-amazing-photos-fireworks-your-phone)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:15:41+00:00
+
+With Fourth of July festivities just around the corner, Kurt &quot;Cyberguy&quot; Knutsson shows you how you can perfectly capture your fireworks show on your phone.
+
+## Connecticut homeowner bitten by black bear after it attacked his dog
+ - [https://www.foxnews.com/us/connecticut-homeowner-bitten-black-bear-after-attacked-dog](https://www.foxnews.com/us/connecticut-homeowner-bitten-black-bear-after-attacked-dog)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:14:39+00:00
+
+A homeowner from Connecticut was bitten by a black bear after the bear attacked his dog. The man was treated at a hospital, and the dog was sent to a veterinary hospital.
+
+## Germany accuses Poland of continuing to dump pollutants after killing thousands of fish last summer
+ - [https://www.foxnews.com/world/germany-accuses-poland-continuing-dump-pollutants-after-killing-thousands-fish-last-summer](https://www.foxnews.com/world/germany-accuses-poland-continuing-dump-pollutants-after-killing-thousands-fish-last-summer)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:13:20+00:00
+
+Germany accused Poland of continuing to pollute the Ode River after killing thousands of fish last summer. The Ode River runs between Germany and Poland.
+
+## New Mexico shooting breaks out in tourist town Taos, police officer sustains injuries
+ - [https://www.foxnews.com/us/new-mexico-shooting-breaks-tourist-town-taos-police-officer-sustains-injuries](https://www.foxnews.com/us/new-mexico-shooting-breaks-tourist-town-taos-police-officer-sustains-injuries)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:12:24+00:00
+
+A New Mexico police officer and a suspect were both injured in a shooting that broke out in the tourist town of Taos, New Mexico. The cause of the shooting is still unclear.
+
+## Ohio museum shows history of television goes much further back than most people think
+ - [https://www.foxnews.com/us/ohio-museum-shows-history-television-further-back-most-people-think](https://www.foxnews.com/us/ohio-museum-shows-history-television-further-back-most-people-think)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:11:56+00:00
+
+The Early Television Museum in Hilliard, Ohio, highlights the extensive history of television and how it was introduced to the world. Here&apos;s more information about the museum.
+
+## Indiana police investigating hospital shooting that involved officer
+ - [https://www.foxnews.com/us/indiana-police-investigating-hospital-shooting-involved-officer](https://www.foxnews.com/us/indiana-police-investigating-hospital-shooting-involved-officer)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:11:34+00:00
+
+A police officer was involved in a shooting at Perry County Memorial Hospital in southern Indiana. Indiana police say there is no danger to the public.
+
+## Russell Crowe considering retiring from acting: 'You will never hear from me again'
+ - [https://www.foxnews.com/entertainment/russell-crowe-considering-retiring-acting](https://www.foxnews.com/entertainment/russell-crowe-considering-retiring-acting)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:10:39+00:00
+
+Russell Crowe has a long line of successful movies under his belt, but he&apos;s revealed that he&apos;s thinking about leaving Hollywood behind.
+
+## Alaska police shoot, kill man holding a rifle on Anchorage highway exit ramp
+ - [https://www.foxnews.com/us/alaska-police-shoot-kill-man-holding-rifle-anchorage-highway-exit-ramp](https://www.foxnews.com/us/alaska-police-shoot-kill-man-holding-rifle-anchorage-highway-exit-ramp)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:06:10+00:00
+
+A man who was holding a rifle along a highway exit ramp in Anchorage, Alaska, was shot and killed Sunday by police responding to a report of gunfire.
+
+## Sisters in sync: 4 are pregnant at the same time with their babies, in 'complete shock'
+ - [https://www.foxnews.com/lifestyle/sisters-sync-4-pregnant-same-time-babies-complete-shock](https://www.foxnews.com/lifestyle/sisters-sync-4-pregnant-same-time-babies-complete-shock)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T11:00:47+00:00
+
+A Nebraska family will welcome four babies to their clan this fall after all four sisters are pregnant at the same time — meet the Thiem sisters. Fox News Digital spoke with them.
+
+## Embattled Texas AG Paxton secretly went on China junket against advice of staff, docs show
+ - [https://www.foxnews.com/politics/embattled-texas-ag-paxton-secretly-china-junket-against-advice-staff-docs-show](https://www.foxnews.com/politics/embattled-texas-ag-paxton-secretly-china-junket-against-advice-staff-docs-show)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:58:49+00:00
+
+Embattled Texas Attorney General Ken Paxton traveled to China in 2019, ignoring advice from staffers who warned him about Chinese government surveillance operations.
+
+## Prosecutors hit Rep. George Santos with 80,000 pages of discovery documents
+ - [https://www.foxnews.com/politics/prosecutors-hit-rep-george-santos-80000-pages-discovery-documents](https://www.foxnews.com/politics/prosecutors-hit-rep-george-santos-80000-pages-discovery-documents)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:54:08+00:00
+
+Rep. George Santos was in Long Island court on Friday, where prosecutors presented more than 80,000 pages of discovery documents for him to review.
+
+## 'Anything but Bud Light': Kid Rock concertgoers crush beer brand’s hopes of a July Fourth comeback
+ - [https://www.foxnews.com/media/anything-bud-light-kid-rock-concertgoers-crush-beer-brands-hopes-july-fourth-comeback](https://www.foxnews.com/media/anything-bud-light-kid-rock-concertgoers-crush-beer-brands-hopes-july-fourth-comeback)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:46:38+00:00
+
+Kid Rock concertgoers in Nashville weighed in on what beer they’re drinking or not drinking this Fourth of July amid ongoing boycotts plaguing Bud Light sales.
+
+## Cardinals take series against Yankees as Jordan Montgomery dominates against former team
+ - [https://www.foxnews.com/sports/cardinals-take-series-against-yankees-jordan-montgomery-dominates-against-former-team](https://www.foxnews.com/sports/cardinals-take-series-against-yankees-jordan-montgomery-dominates-against-former-team)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:45:22+00:00
+
+The St. Louis Cardinals beat the New York Yankees 5-1 on Sunday to secure a series win as Jordan Montgomery dominated against his old team.
+
+## Boston serial rape suspect Matthew Nilo hid dark secrets in double life as fiance, attorney: expert
+ - [https://www.foxnews.com/us/boston-serial-rape-suspect-matthew-nilo-hid-dark-secrets-double-life-fiance-attorney-expert](https://www.foxnews.com/us/boston-serial-rape-suspect-matthew-nilo-hid-dark-secrets-double-life-fiance-attorney-expert)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:36:54+00:00
+
+Matthew Nilo, an attorney accused of a series of sex assaults in Boston between 2007 and 2008, appears to have lived a double life for years, says a forensic psychologist.
+
+## Ivy League university unveils plan to teach students with AI chatbot this fall: 'Evolution' of 'tradition'
+ - [https://www.foxnews.com/media/ivy-league-university-teach-students-ai-chatbot-fall-evolution-tradition](https://www.foxnews.com/media/ivy-league-university-teach-students-ai-chatbot-fall-evolution-tradition)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:29:44+00:00
+
+Harvard University&apos;s introductory-level computer science course will use a chatbot to teach students about coding processes beginning in the Fall of 2023.
+
+## Former Russian arms dealer traded for Brittney Griner runs for office under far-right political group
+ - [https://www.foxnews.com/world/russian-arms-dealer-traded-brittney-griner-runs-office-far-right-political-group](https://www.foxnews.com/world/russian-arms-dealer-traded-brittney-griner-runs-office-far-right-political-group)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:29:27+00:00
+
+Viktor Bout, the Russian arms dealer traded for Brittney Griner, has joined a radical political group and is running for office in Russia.
+
+## Angels' Mike Trout and Shohei Ohtani both hit home runs in victory over Diamondbacks
+ - [https://www.foxnews.com/sports/angels-mike-trout-shohei-ohtani-hit-home-runs-victory-diamondbacks](https://www.foxnews.com/sports/angels-mike-trout-shohei-ohtani-hit-home-runs-victory-diamondbacks)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:23:07+00:00
+
+The Los Angeles Angels beat the Arizona Diamondbacks 5-2 on Sunday as Mike Trout and Shohei Ohtani both hit home runs as the Angels snap their four-game losing streak.
+
+## 2 rescued in California after single-engine airplane crashes into Lake Tahoe
+ - [https://www.foxnews.com/us/2-rescued-california-single-engine-airplane-crashes-lake-tahoe](https://www.foxnews.com/us/2-rescued-california-single-engine-airplane-crashes-lake-tahoe)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:20:09+00:00
+
+Boaters rescued two people Saturday after a single-engine airplane crashed into Lake Tahoe in California. The cause of the crash is still unclear.
+
+## Packers CEO confirms death of carpenter at Lambeau Field
+ - [https://www.foxnews.com/sports/packers-ceo-confirms-death-carpenter-lambeau-field](https://www.foxnews.com/sports/packers-ceo-confirms-death-carpenter-lambeau-field)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:17:20+00:00
+
+Green Bay Packers CEO Marky Murphy confirmed the identity of a carpenter who died while working at Lambeau Field last month. The incident occurred on June 15.
+
+## Two-time champion Pete Alonso announces participation in Home Run Derby
+ - [https://www.foxnews.com/sports/two-time-champion-pete-alonso-announces-participation-home-run-derby](https://www.foxnews.com/sports/two-time-champion-pete-alonso-announces-participation-home-run-derby)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:17:18+00:00
+
+New York Mets first basemen and two-time champion Pete Alonso announced on Sunday that he will participate in the All-Star Home Run Derby.
+
+## US group claims Pope Francis made 'troubling' choice when appointing archbishop to handle abuse complaints
+ - [https://www.foxnews.com/us/us-group-claims-pope-francis-made-troubling-choice-appointing-bishop-handle-sexual-abuse-complaints](https://www.foxnews.com/us/us-group-claims-pope-francis-made-troubling-choice-appointing-bishop-handle-sexual-abuse-complaints)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:16:32+00:00
+
+Pope Francis made a &quot;troubling&quot; choice when appointing Monsignor Victor Manuel Fernández to handle clergy sexual abuse complaints, according to a U.S.-based group.
+
+## Good riddance to affirmative action
+ - [https://www.foxnews.com/opinion/good-riddance-affirmative-action](https://www.foxnews.com/opinion/good-riddance-affirmative-action)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:00:32+00:00
+
+America is better off without affirmative action. It was state-sanctioned discrimination that treated people by their race not as individuals. Ending it is a moral victory
+
+## Philadelphia police, officials warn of a 'vicious cycle' increasing violence in the city
+ - [https://www.foxnews.com/media/philadelphia-police-officials-warn-vicious-cycle-increasing-violence-in-the-city](https://www.foxnews.com/media/philadelphia-police-officials-warn-vicious-cycle-increasing-violence-in-the-city)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T10:00:29+00:00
+
+Philadelphia Police Chief Inspector Michael McCarick said that the city is making progress but still has a &quot;long way to go&quot; to curb violence in the city.
+
+## Entertain with this patriotic-themed playlist for the Fourth of July
+ - [https://www.foxnews.com/entertainment/fourth-of-july-playlist](https://www.foxnews.com/entertainment/fourth-of-july-playlist)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:32:52+00:00
+
+Every Fourth of July party requires good, patriotic music to celebrate the nation. These songs will make great addition to your July 4th playlist.
+
+## New Mexico authorities search for vandals who trashed a mosque multiple times over recent weeks
+ - [https://www.foxnews.com/us/new-mexico-authorities-search-vandals-trashed-mosque-multiple-times-recent-weeks](https://www.foxnews.com/us/new-mexico-authorities-search-vandals-trashed-mosque-multiple-times-recent-weeks)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:32:35+00:00
+
+Authorities in New Mexico are investigating a case where a mosque was vandalized multiple times over recent weeks. The vandals ripped up a Quran and poured beer on it.
+
+## Alex Palou notches third consecutive victory at Mid-Ohio
+ - [https://www.foxnews.com/sports/alex-palou-notches-third-consecutive-victory-mid-ohio](https://www.foxnews.com/sports/alex-palou-notches-third-consecutive-victory-mid-ohio)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:29:43+00:00
+
+Alex Palou continued his dominant run with his third straight win at Mid-Ohio and fourth win in his last five races as he continues to extend his points lead.
+
+## Ashley Brewer reveals ESPN laid her off days before wedding
+ - [https://www.foxnews.com/sports/ashley-brewer-reveals-espn-laid-her-off-days-wedding](https://www.foxnews.com/sports/ashley-brewer-reveals-espn-laid-her-off-days-wedding)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:28:12+00:00
+
+Ashley Brewer revealed on Sunday she was laid off from ESPN with her wedding around the corner. Brewer made the revelation on TikTok as she prepares to marry Frank Kaminsky.
+
+## Max Verstappen dominates at Austrian Grand Prix, continues march toward third straight world title
+ - [https://www.foxnews.com/sports/max-verstappen-dominates-austrian-grand-prix-continues-march-toward-third-straight-world-title](https://www.foxnews.com/sports/max-verstappen-dominates-austrian-grand-prix-continues-march-toward-third-straight-world-title)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:26:51+00:00
+
+Reigning Formula One champion Max Verstappen won in dominant fashion on Sunday at the Austrian Grand Prix as he continues his march towards a third straight world title.
+
+## Netflix quietly cancels 'anti-racist' video project started after George Floyd, report says
+ - [https://www.foxnews.com/media/netflix-quietly-cancels-anti-racist-video-project-started-george-floyd-report-says](https://www.foxnews.com/media/netflix-quietly-cancels-anti-racist-video-project-started-george-floyd-report-says)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:24:00+00:00
+
+Netflix quietly squashed an anti-racist project in the works after companies faced backlash from conservatives over woke content, according to a recent report.
+
+## UN body discusses potential for deep sea mining, permits may be coming soon
+ - [https://www.foxnews.com/us/un-body-discusses-potential-deep-sea-mining-permits-may-coming-soon](https://www.foxnews.com/us/un-body-discusses-potential-deep-sea-mining-permits-may-coming-soon)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:16:30+00:00
+
+The United Nations body that regulates the ocean floor is discussing the potential for deep sea mining. The possibility of issuing permits is being discussed
+
+## 5.4 magnitude quake shakes Indonesia’s easternmost province Papua, no casualties immediately reported
+ - [https://www.foxnews.com/world/5-4-magnitude-quake-shakes-indonesias-easternmost-province-papua-no-casualties-immediately-reported](https://www.foxnews.com/world/5-4-magnitude-quake-shakes-indonesias-easternmost-province-papua-no-casualties-immediately-reported)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:15:55+00:00
+
+Indonesia’s Papua was struck by an earthquake with a magnitude of 5.4. There were no immediate reports of serious casualties or damage, but aftershocks may still occur.
+
+## Army major, junior officer killed during ambush in southwestern Pakistan
+ - [https://www.foxnews.com/world/army-major-junior-officer-killed-during-search-operation-southwestern-pakistan](https://www.foxnews.com/world/army-major-junior-officer-killed-during-search-operation-southwestern-pakistan)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:15:02+00:00
+
+A junior officer and an army major were killed during a search operation in southwestern Pakistan. Another soldier was injured in the attack.
+
+## Oregon father of 5 dies after falling from Multnomah Falls trail: report
+ - [https://www.foxnews.com/us/oregon-father-5-dies-falling-multnomah-falls-trail/](https://www.foxnews.com/us/oregon-father-5-dies-falling-multnomah-falls-trail/)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T09:07:30+00:00
+
+A father of five from Beaverton, Oregon, died after falling more than 100 feet along the Multnomah Falls trail outside of Portland, police say.
+
+## Damian Lillard addresses concerns about trade request from Trail Blazers
+ - [https://www.foxnews.com/sports/damian-lillard-addresses-concerns-trade-request-trail-blazers](https://www.foxnews.com/sports/damian-lillard-addresses-concerns-trade-request-trail-blazers)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:50:46+00:00
+
+Trail Blazers star Damian Lillard addressed concerns about him wanting out of the organization as fans appeared to be angry with him for not staying through another rebuild.
+
+## Israel deploys thousands of troops, drones in attack on Jenin stronghold in terrorism 'hotspot'
+ - [https://www.foxnews.com/world/israel-deploys-thousands-troops-drones-attack-jenin-stronghold-terrorism-hotspot](https://www.foxnews.com/world/israel-deploys-thousands-troops-drones-attack-jenin-stronghold-terrorism-hotspot)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:46:57+00:00
+
+Israeli drones struck targets at a militant stronghold in the West Bank early Monday, and thousands of troops were deployed in the area.
+
+## United Nations urges maritime countries to agree on a strategy to hit net-zero shipping emissions by 2050
+ - [https://www.foxnews.com/world/united-nations-urges-maritime-countries-agree-strategy-hit-net-zero-shipping-emissions-2050](https://www.foxnews.com/world/united-nations-urges-maritime-countries-agree-strategy-hit-net-zero-shipping-emissions-2050)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:46:32+00:00
+
+Antonio Guterres, the head of the United Nations, is calling for maritime countries to create a plan to reduce its climate-harming shipping emissions to net zero by 2050.
+
+## New Greek lawmakers sworn in following election victory for conservative party
+ - [https://www.foxnews.com/world/new-greek-lawmakers-sworn-following-election-victory-conservative-party](https://www.foxnews.com/world/new-greek-lawmakers-sworn-following-election-victory-conservative-party)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:41:06+00:00
+
+Greece&apos;s conservative Prime Minister Kyriakos Mitsotakis won in a landslide in the country&apos;s June 25 election. On July 3, 2023, the country swore in new lawmakers.
+
+## 3 plead guilty in connection to burglary ring that stole art, other items including Pollock, Warhol
+ - [https://www.foxnews.com/us/3-plead-guilty-connection-burglary-ring-stole-art-other-items-including-pollock-warhol](https://www.foxnews.com/us/3-plead-guilty-connection-burglary-ring-stole-art-other-items-including-pollock-warhol)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:40:32+00:00
+
+Three people have pleaded guilty in connection with a burglary ring that stole artwork, sports memorabilia, and other items over two decades in Pennsylvania.
+
+## 10 states plan to sue US Environmental Protection Agency over standards for residential wood-burning stoves
+ - [https://www.foxnews.com/us/10-states-plan-sue-us-environmental-protection-agency-standards-residential-wood-burning-stoves](https://www.foxnews.com/us/10-states-plan-sue-us-environmental-protection-agency-standards-residential-wood-burning-stoves)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:40:07+00:00
+
+Ten attorney generals from states across the U.S. plan to sue the Environmental Protection Agency regarding the standards for residential wood-burning stoves.
+
+## Shania Twain wipes out onstage during Chicago concert
+ - [https://www.foxnews.com/entertainment/shania-twain-wipes-onstage-chicago-concert](https://www.foxnews.com/entertainment/shania-twain-wipes-onstage-chicago-concert)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:37:33+00:00
+
+Shania Twain slipped on stage while performing in Chicago during her &quot;Queen of Me&quot; tour. She remained on the floor for a few moments before continuing her song.
+
+## Downtown Tokyo building explosion causes 4 injuries
+ - [https://www.foxnews.com/world/downtown-tokyo-building-explosion-4-injuries](https://www.foxnews.com/world/downtown-tokyo-building-explosion-4-injuries)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:30:35+00:00
+
+Windows shattered and smoke spewed after a blast occurred at a building in the commercial district of Shimbashi in Tokyo, Japan. Four people were also injured.
+
+## Suspects wanted after D.C. businesses hit with explosive devices, Molotov cocktail: police
+ - [https://www.foxnews.com/us/suspect-wanted-dc-businesses-hit-explosive-devices-molotov-cocktail-police](https://www.foxnews.com/us/suspect-wanted-dc-businesses-hit-explosive-devices-molotov-cocktail-police)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:15:43+00:00
+
+Police in Washington, D.C., say they are seeking a suspect after three local businesses were hit with explosive devices and a Molotov cocktail-style device.
+
+## MSNBC's Joy Reid admits affirmative action got her into Harvard
+ - [https://www.foxnews.com/media/msnbcs-joy-reid-admits-affirmative-action-harvard](https://www.foxnews.com/media/msnbcs-joy-reid-admits-affirmative-action-harvard)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:15:28+00:00
+
+MSNBC anchor Joy Reid described how affirmative action helped her to attend Harvard while attacking the Supreme Court decision&apos;s to strike it down.
+
+## Texas man who vanished 8 years ago while walking dogs is found safe
+ - [https://www.foxnews.com/us/texas-man-vanished-8-years-ago-walking-dogs-found-safe](https://www.foxnews.com/us/texas-man-vanished-8-years-ago-walking-dogs-found-safe)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:08:43+00:00
+
+The Texas Center for the Missing says 26-year-old Rudy Farias, who was last seen walking his dogs in Houston in 2015, has been found safe.
+
+## Excessive heat warnings remain in place across US, expected to last at least through Monday
+ - [https://www.foxnews.com/us/excessive-heat-warnings-remain-place-across-us-expected-last-least-through-monday](https://www.foxnews.com/us/excessive-heat-warnings-remain-place-across-us-expected-last-least-through-monday)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:01:19+00:00
+
+Many states across the U.S. delt with extremely high temperatures over the weekend. Excessive heat warnings are expected to remain in place at least through Monday.
+
+## WATCH: Brewery leak turns famously crystal-clear sea water a 'gruesome' color
+ - [https://www.foxnews.com/world/watch-brewery-leak-turns-famously-crystal-clear-sea-water-gruesome-color](https://www.foxnews.com/world/watch-brewery-leak-turns-famously-crystal-clear-sea-water-gruesome-color)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:00:32+00:00
+
+U.S. health authorities have deemed the chemical propylene glycol, used in food dye and as an ingredient in coolant, as &quot;generally recognized as safe.&quot;
+
+## You don’t need a college degree for every job. Employers are wising up
+ - [https://www.foxnews.com/opinion/dont-need-college-degree-every-job-employers-wising](https://www.foxnews.com/opinion/dont-need-college-degree-every-job-employers-wising)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T08:00:06+00:00
+
+The concept of degree inflation has meant more jobs have required college degrees. There&apos;s a big problem with that, 62% of adults don&apos;t have a bachelor’s degree.
+
+## Why Jim Caviezel's new film is personal to a man of faith: 'The devil owns the fence'
+ - [https://www.foxnews.com/lifestyle/why-jim-caviezels-new-film-personal-faith-devil-owns-fence](https://www.foxnews.com/lifestyle/why-jim-caviezels-new-film-personal-faith-devil-owns-fence)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:58:06+00:00
+
+Jim Caviezel stars in &quot;The Sound of Freedom,&quot; about the evils of human trafficking — and shared his Christian beliefs in an interview with &quot;Lighthouse Faith&quot; podcast&apos;s Lauren Green.
+
+## North Dakota education officials worried about losing revenue due to implications of new MN free tuition plan
+ - [https://www.foxnews.com/us/north-dakota-education-officials-worried-losing-revenue-implications-mn-free-tuition-plan](https://www.foxnews.com/us/north-dakota-education-officials-worried-losing-revenue-implications-mn-free-tuition-plan)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:40:55+00:00
+
+Education officials in North Dakota are worried about losing revenue in 2024 due to the &quot;catastrophic implications&quot; of Minnesota&apos;s new free tuition plan.
+
+## WNBA champ Natasha Cloud expands on America criticism after calling country 'trash'
+ - [https://www.foxnews.com/sports/wnba-champ-natasha-cloud-expands-america-criticism-calling-country-trash](https://www.foxnews.com/sports/wnba-champ-natasha-cloud-expands-america-criticism-calling-country-trash)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:33:12+00:00
+
+WNBA champion Natasha Cloud on Saturday expanded on what she meant when she tweeted that &quot;our country is trash in so many ways.&quot; She had words for all critics.
+
+## Bill Maher says he is happy to lose 'super woke' fans: 'Don’t let the door hit you in the a--'
+ - [https://www.foxnews.com/media/maher-happy-lose-woke-fans-no-sense-humor-dont-let-door-hit-you](https://www.foxnews.com/media/maher-happy-lose-woke-fans-no-sense-humor-dont-let-door-hit-you)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:30:01+00:00
+
+Bill Maher said his criticism of cancel culture has cost him a number of &apos;super woke&apos; fans, a result which he is happy with considering they were &apos;no fun to begin with.&apos;
+
+## Fan falls from Citi Field seats to outfield warning track during Mets-Giants game
+ - [https://www.foxnews.com/sports/fan-falls-citi-field-seats-outfield-warning-track-mets-giants-game](https://www.foxnews.com/sports/fan-falls-citi-field-seats-outfield-warning-track-mets-giants-game)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:15:26+00:00
+
+A fan at Citi Field fell from the stands to the warning track in the outfield on Sunday night as the New York Mets took on the San Francisco Giants.
+
+## Georgia mother charged after body of 7-year-old daughter found decaying in closet
+ - [https://www.foxnews.com/us/georgia-mother-charged-body-7-year-old-daughter-found-decaying-closet](https://www.foxnews.com/us/georgia-mother-charged-body-7-year-old-daughter-found-decaying-closet)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:13:30+00:00
+
+A Georgia mother was arrested after police discovered the body of her 7-year-old daughter decaying in the closet of a vacant apartment in DeKalb County.
+
+## Colleges begin to use vending machines to sell morning-after pill as more states restrict abortion
+ - [https://www.foxnews.com/us/colleges-begin-vending-machines-disperse-morning-pill-more-states-restrict-abortion](https://www.foxnews.com/us/colleges-begin-vending-machines-disperse-morning-pill-more-states-restrict-abortion)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:10:19+00:00
+
+As abortion restrictions become more common in the United States, college campuses are using vending machines to sell the morning-after pill and pregnancy tests.
+
+## Ailing Thai elephant returns home from Sri Lanka after years of possible neglect, abuse
+ - [https://www.foxnews.com/world/ailing-thai-elephant-returns-home-sri-lanka-years-possible-neglect-abuse](https://www.foxnews.com/world/ailing-thai-elephant-returns-home-sri-lanka-years-possible-neglect-abuse)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:09:19+00:00
+
+An ailing elephant in Sri Lanka has returned home to Thailand for medical treatment following allegations that the elephant was in bad health due to years of abuse and hard labor.
+
+## IL businessman convicted of price-gouging N95 masks early in pandemic
+ - [https://www.foxnews.com/us/il-businessman-convicted-price-gouging-n95-masks-early-pandemic](https://www.foxnews.com/us/il-businessman-convicted-price-gouging-n95-masks-early-pandemic)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:08:10+00:00
+
+Krikor Topouzian, a businessman from Illinois, has been convicted of price-gouging N95 masks in the early weeks of the pandemic. Topouzian faces up to a year in prison.
+
+## Heavy flooding relieves China from sweltering heat, but displaces over 10,000 residents
+ - [https://www.foxnews.com/world/heavy-flooding-relieves-china-sweltering-heat-displaces-10000-residents](https://www.foxnews.com/world/heavy-flooding-relieves-china-sweltering-heat-displaces-10000-residents)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:06:06+00:00
+
+While recent flooding has helped moderate China’s scorching temperatures, more than 10,000 residents were displaced in the province of Hunan.
+
+## Psaki attempts to scare Muslim parents from opposing transgender ideology in schools: GOP 'trying to recruit'
+ - [https://www.foxnews.com/media/psaki-attempts-scare-muslim-parents-opposing-transgender-ideology-schools-gop-trying-recruit](https://www.foxnews.com/media/psaki-attempts-scare-muslim-parents-opposing-transgender-ideology-schools-gop-trying-recruit)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:04:10+00:00
+
+Ismail Royer of the Religious Freedom Institute says &apos;Inside with Jen Psaki&apos; segment is part of the left&apos;s agenda to scare Muslims into accepting indoctrination.
+
+## Sandra Bullock's 'utterly terrifying' stalking incident highlighted in new TMZ documentary on Fox Nation
+ - [https://www.foxnews.com/media/sandra-bullocks-utterly-terrifying-stalking-incident-highlighted-tmz-documentary-fox-nation](https://www.foxnews.com/media/sandra-bullocks-utterly-terrifying-stalking-incident-highlighted-tmz-documentary-fox-nation)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:00:46+00:00
+
+Award-winning actress Sandra Bullock&apos;s heart-stopping moment a stalker broke into her home is revisited in TMZ&apos;s new &apos;Stalkers in Hollywood&apos; series, available to stream on Fox Nation.
+
+## Philly mayor under scrutiny as city resists push to reinvestigate 'suicide' of woman stabbed 20 times
+ - [https://www.foxnews.com/us/philly-mayor-under-scrutiny-city-resists-push-reinvestigate-suicide-woman-stabbed-20-times](https://www.foxnews.com/us/philly-mayor-under-scrutiny-city-resists-push-reinvestigate-suicide-woman-stabbed-20-times)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T07:00:30+00:00
+
+Philadelphia leaders have resisted appeals from 27-year-old teacher Ellen Greenberg&apos;s family to have her gruesome stabbing death reviewed for more than a decade.
+
+## Ryan Mallett's girlfriend posts heartbreaking tribute to late QB: 'I’m so sorry I couldn’t save you'
+ - [https://www.foxnews.com/sports/ryan-malletts-girlfriend-posts-heartbreaking-tribute-late-qb-sorry-couldnt-save](https://www.foxnews.com/sports/ryan-malletts-girlfriend-posts-heartbreaking-tribute-late-qb-sorry-couldnt-save)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T06:39:55+00:00
+
+Ryan Mallett&apos;s girlfriend, Madison Carter, posted a touching tribute to the late quarterback on her Facebook page. Mallett drowned off the coast of Florida last week.
+
+## American cities ditch July 4th tradition, veterans get blunt this Independence Day and more top headlines
+ - [https://www.foxnews.com/us/july-4th-tradition-veterans-independence-day](https://www.foxnews.com/us/july-4th-tradition-veterans-independence-day)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T06:33:14+00:00
+
+American cities ditch July 4th tradition, veterans get blunt this Independence Day and more top headlines
+
+## Olivia Dunne dishes on age range of autograph seekers after viral College World Series moment
+ - [https://www.foxnews.com/sports/olivia-dunne-dishes-age-range-autograph-seekers-viral-college-world-series-moment](https://www.foxnews.com/sports/olivia-dunne-dishes-age-range-autograph-seekers-viral-college-world-series-moment)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T06:11:56+00:00
+
+Olivia Dunne talked about the viral moment in the College World Series where she was signing an autograph for an older man. She talked about the age range of the seekers.
+
+## Larry Elder warns Dems kicking VP Harris to curb could spell doom for party in 2024: You're 'stuck' with her
+ - [https://www.foxnews.com/media/larry-elder-democrats-kamala-harris-doom-party-2024-stuck-her](https://www.foxnews.com/media/larry-elder-democrats-kamala-harris-doom-party-2024-stuck-her)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T06:00:43+00:00
+
+Republican Presidential candidate Larry Elder warned Democrats that try to pass up Kamala Harris as an alternative to Biden could spell doom for the party in 2024.
+
+## The hidden cost of our huge problem with obesity
+ - [https://www.foxnews.com/opinion/hidden-cost-huge-problem-obesity](https://www.foxnews.com/opinion/hidden-cost-huge-problem-obesity)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T06:00:33+00:00
+
+America’s increasing national obesity problem might be tied to taxpayer-funded food stamps that pay for unhealthy foods like soft drinks, snacks and candy.
+
+## Kelsea Ballerini, Harry Styles, Bebe Rexha are latest stars to be hit onstage by fan-thrown objects
+ - [https://www.foxnews.com/entertainment/kelsea-ballerini-harry-styles-bebe-rexha-latest-stars-hit-on-stage-fan-thrown-objects](https://www.foxnews.com/entertainment/kelsea-ballerini-harry-styles-bebe-rexha-latest-stars-hit-on-stage-fan-thrown-objects)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T06:00:32+00:00
+
+Kelsea Ballerini is the latest example of musicians who have been hit with fan-thrown objects while performing. Harry Styles was hit in the face while performing in L.A. in November.
+
+## National Archives completes review of JFK assassination documents, 99% publicly available: White House
+ - [https://www.foxnews.com/politics/national-archives-completes-review-jfk-assassination-documents-99-publicly-available-white-house](https://www.foxnews.com/politics/national-archives-completes-review-jfk-assassination-documents-99-publicly-available-white-house)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T05:52:46+00:00
+
+The National Archives has concluded its review of the classified documents in former President John F. Kennedy&apos;s assassination, and 99% of them are now available to the public.
+
+## Cruz 'accepts' Twitter user's proposal that would bar Democrat-passed bills from impacting GOP states
+ - [https://www.foxnews.com/politics/cruz-accepts-twitter-users-proposal-bar-democrat-passed-bills-impacting-gop-states](https://www.foxnews.com/politics/cruz-accepts-twitter-users-proposal-bar-democrat-passed-bills-impacting-gop-states)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T05:20:02+00:00
+
+Sen. Ted Cruz, R-Texas, discussed an idea on Twitter that would not allow states to receive benefits from a passed bill if both senators voted against it.
+
+## LA cop defies chief's orders to not post guns online, wields weapon in wedding photos
+ - [https://www.foxnews.com/media/la-cop-defies-chiefs-orders-not-post-guns-online-wields-weapon-wedding-photos](https://www.foxnews.com/media/la-cop-defies-chiefs-orders-not-post-guns-online-wields-weapon-wedding-photos)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T05:00:29+00:00
+
+LAPD officer Toni McBride posted wedding photos with a gun, taking aim at demands from Chief Michel Moore, who she claims threatened to fire her over social media posts.
+
+## Biden’s unhinged ideas of Supreme Court and our Constitution
+ - [https://www.foxnews.com/opinion/bidens-unhinged-ideas-supreme-court-constitution](https://www.foxnews.com/opinion/bidens-unhinged-ideas-supreme-court-constitution)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T04:00:49+00:00
+
+Biden muddles history to claim Supreme Court decisions reversed gains “we fought a war over in 1860.&quot; His distorted view has him concluding court is &quot;not normal.&quot;
+
+## ‘Race-blind America’ advocate thrilled SCOTUS nixed affirmative action in college admissions
+ - [https://www.foxnews.com/media/race-blind-america-advocate-thrilled-scotus-nixed-affirmative-action-college-admissions](https://www.foxnews.com/media/race-blind-america-advocate-thrilled-scotus-nixed-affirmative-action-college-admissions)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T04:00:40+00:00
+
+Kenny Xu is &quot;ecstatic&quot; that the Supreme Court rejected affirmative action in college admissions last week after he spent years pushing for a race-blind America.
+
+## Australian woman, dachshund mauled by bull terrier weeks before wedding day
+ - [https://www.foxnews.com/world/australian-woman-dachshund-mauled-bull-terrier-weeks-before-wedding-day](https://www.foxnews.com/world/australian-woman-dachshund-mauled-bull-terrier-weeks-before-wedding-day)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T03:39:53+00:00
+
+An Australian woman was walking her miniature dachshund at a dog park when she and her dog were attacked by another dog, just seven weeks before her wedding.
+
+## California man with severe autism beats Rubik’s Cube world record: 'Exuberance in our hearts'
+ - [https://www.foxnews.com/lifestyle/california-man-severe-autism-beats-rubiks-cube-world-record-exuberance-hearts](https://www.foxnews.com/lifestyle/california-man-severe-autism-beats-rubiks-cube-world-record-exuberance-hearts)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T03:00:41+00:00
+
+Max Park, 21, of California, who has severe autism, set the world record for the fastest time to solve a Rubik&apos;s Cube. His father, Schwan Park, told Fox News Digital of his son&apos;s story.
+
+## Trump draws massive crowd of at least 50K in small South Carolina town of 3,400: police
+ - [https://www.foxnews.com/politics/trump-draws-massive-crowd-50k-small-south-carolina-town-3400-police](https://www.foxnews.com/politics/trump-draws-massive-crowd-50k-small-south-carolina-town-3400-police)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T02:28:30+00:00
+
+An estimated crowd of at least 50,000 attended former President Trump&apos;s rally in Pickens, South Carolina, a town of only 3,400 residents. The large event was Trump&apos;s second since March.
+
+## Vodka pickles to bratwurst: Americans reveal their Fourth of July cookout must-haves
+ - [https://www.foxnews.com/food-drink/vodka-pickles-bratwurst-americans-reveal-fourth-july-cookout](https://www.foxnews.com/food-drink/vodka-pickles-bratwurst-americans-reveal-fourth-july-cookout)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T02:00:51+00:00
+
+Americans walking in the nation&apos;s capital shared their must-have food choices for their Independence Day barbecues to celebrate the country&apos;s birthday.
+
+## The tragedy of Philadelphia reveals a sad truth about our government
+ - [https://www.foxnews.com/opinion/tragedy-philadelphia-reveals-sad-truth-about-our-government](https://www.foxnews.com/opinion/tragedy-philadelphia-reveals-sad-truth-about-our-government)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T02:00:42+00:00
+
+David Marcus details the drug addiction and homelessness in Kensington, Philadelphia, arguing the government is doing nothing about it.
+
+## AI public safety investment to grow to $71B by 2030 to ‘predict crime, natural disasters’: study
+ - [https://www.foxnews.com/us/ai-public-safety-investment-grow-71b-2030-predict-crime-natural-disasters-study](https://www.foxnews.com/us/ai-public-safety-investment-grow-71b-2030-predict-crime-natural-disasters-study)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T02:00:11+00:00
+
+Public safety investments are predicted to jump from $9.3 billion in 2022 to $71 billion by 2030 to combat terrorism and crime while beefing up cybersecurity.
+
+## ChatGPT officiates Colorado wedding for Army soldier and bride before deployment
+ - [https://www.foxnews.com/tech/chatgpt-officiates-colorado-wedding-army-soldier-bride-deployment](https://www.foxnews.com/tech/chatgpt-officiates-colorado-wedding-army-soldier-bride-deployment)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T02:00:06+00:00
+
+ChatGPT, a chatbot that can mimic human conversation, officiated a wedding in Colorado that was planned in just five days by an Army soldier and his now-bride.
+
+## Biden administration pushing to make AI woke, adhere to far-left agenda: watchdog
+ - [https://www.foxnews.com/politics/biden-administration-pushing-make-ai-woke-adhere-far-left-agenda-watchdog](https://www.foxnews.com/politics/biden-administration-pushing-make-ai-woke-adhere-far-left-agenda-watchdog)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T02:00:05+00:00
+
+The Biden administration is seeking to use artificial intelligence to promote a woke ideology, according to research from a conservative watchdog group.
+
+## On this day in history, July 3, 1962, Tom Cruise is born, goes on to star in 'Born on the Fourth of July'
+ - [https://www.foxnews.com/lifestyle/this-day-history-july-3-1962-tom-cruise-born-goes-star-born-on-the-4th-of-july](https://www.foxnews.com/lifestyle/this-day-history-july-3-1962-tom-cruise-born-goes-star-born-on-the-4th-of-july)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T00:02:51+00:00
+
+Tom Cruise, one of Hollywood&apos;s iconic leading men and the star of the &quot;Mission Impossible&quot; movies including other standout action films, was born on this day in history, July 3, 1962.
+
+## Hamburger casserole for dinner: Grandma's super simple recipe
+ - [https://www.foxnews.com/lifestyle/hamburger-casserole-dinner-grandmas-super-simple-recipe](https://www.foxnews.com/lifestyle/hamburger-casserole-dinner-grandmas-super-simple-recipe)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-03T00:00:07+00:00
+
+This hamburger casserole recipe from Jill Bauer, the food and lifestyle expert behind JustJill.com, is simple and can be made in under an hour. This dish makes 12 servings.
+
