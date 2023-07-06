@@ -1,0 +1,35 @@
+# Source:GamingBolt, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ, language:en-US
+
+## Final Fantasy 16 Ending Explained And How It Sets Up Potential DLC
+ - [https://www.youtube.com/watch?v=5uEaQMmJ6IA](https://www.youtube.com/watch?v=5uEaQMmJ6IA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-07-05T15:30:03+00:00
+
+After more than a week of availability on PS5, fans have likely completed Final Fantasy 16's story, delving into the tale of Valisthea and its warring realms. As Clive Rosfield, whose life is turned upside down due to the second Eikon of Fire, players venture through the world, battling Dominants and their Eikons.
+
+Of course, as any fan of the genre could guess, there's more to the story than that. How does Clive possess the ability to harness multiple Eikonic powers? Who is the mysterious presence that keeps reaching out to him?
+
+Join us as we look at the story of Final Fantasy 16 and its ending while also examining any potential DLC or expansions that could arise.
+
+## 14 BIGGEST Reveals From the FTC, Xbox-Activision And PlayStation Fiasco You Probably Don't Know
+ - [https://www.youtube.com/watch?v=EiOu-nAp1qI](https://www.youtube.com/watch?v=EiOu-nAp1qI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-07-05T13:30:09+00:00
+
+To say that Microsoft's monumental acquisition of Activision Blizzard has faced some roadblocks would be an understatement. After the Consumer Markets Authority blocked it in the UK, the Federal Trade Commission filed an injunction to halt the deal in the United States.
+
+The FTC went on trial with Microsoft recently, and depending on the decision, the deal could be history. However, there have been some interesting new details revealed from the proceedings. Have you ever wondered if Microsoft planned to acquire other publishers? Or how much did Horizon Forbidden West cost Sony?
+
+Such details and more were revealed during the trial, so without further ado, let's look at some of the spicier bits.
+
+## The Callisto Protocol: Final Transmission DLC Review - Still Underwhelming
+ - [https://www.youtube.com/watch?v=kelstLvtqOw](https://www.youtube.com/watch?v=kelstLvtqOw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXa_bzvv7Oo1glaW9FldDhQ
+ - date published: 2023-07-05T11:15:03+00:00
+
+The Callisto Protocol had several issues at launch, but perhaps the biggest was the lackluster ending. Final Transmission attempts to address that, providing a conclusion (of sorts) to Jacob's journey. The results are mixed, whether it's the lack of any substantially new threats and weapons or the same clunky combat and camera issues that affected the base game.
+
+The visuals and sound design are well-done, and a few interesting new sequences (like the hallucinations) await. However, despite so much potential, Final Transmission is mediocre. Whether you'd like a proper conclusion or just some new content, it doesn't warrant being separate from the base game.
+
+Check out our review of The Callisto Protocol: Final Transmission and what makes it so underwhelming.
+

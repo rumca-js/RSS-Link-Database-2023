@@ -1,0 +1,43 @@
+# Source:Nerdrotic, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC5T0tXJN5CrMZUEJuz4oovw, language:en-US
+
+## Indy 5 is a Catastrophic FLOP | Lucasfilm BURNS - The Nerdrotic Nooner 371 Chris Gore
+ - [https://www.youtube.com/watch?v=3U6U31oxhIE](https://www.youtube.com/watch?v=3U6U31oxhIE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC5T0tXJN5CrMZUEJuz4oovw
+ - date published: 2023-07-05T15:35:23+00:00
+
+The Nerdrotic Nooner with Chris Gore from @FilmThreat 
+#Disney #Hollywood #Lucasfilm
+
+Produced by @XrayGirl_ from @pourchoices_ and @QTRBlackGarrett from @NormalWorld 
+
+Streamlabs Donations: https://streamlabs.com/sutrowatchtower/tip
+
+Become a Nerdrotic Channel Member
+www.youtube.com/c/sutrowatchtower/join
+
+Nerdrotic Merch Store!
+https://mixedtees.com/nerdrotic
+
+FNT T-Shirt!
+https://mixedtees.com/nerdrotic/friday-night-tights
+
+This episode sponsored by Meta PCs. For a discount, click here: https://Metapcs.com/Nerdrotic/ref
+
+Sponsored by GEEK GRIND!
+Nerdrotic Blend Coffee from Geek Grind
+Use Promo Code "Nerdrotic" for 20% off:
+https://geekgrindcoffee.com/products/...
+
+Nerdrotic Coffee Cup from Geek Grind:
+https://geekgrindcoffee.com/products/...
+
+Instagram ► https://www.instagram.com/nerdrotic
+Minds ►https://www.minds.com/nerdrotic/
+Twitter ► https://www.twitter.com/nerdrotics
+Facebook Page ► https://www.facebook.com/nerdroticpodcast
+Facebook Group ► https://www.facebook.com/groups/nerdrotic/
+iTunes ► https://itunes.apple.com/us/podcast/nerdrotic/id1050496253?mt=2
+Android ► https://player.fm/series/nerdrotic-podcast Free Player.FM app required
+Spotify ► https://open.spotify.com/show/5WRnB608ocvcZApJw
+Discord ► https://discord.gg/AvnFVenTkf
+
