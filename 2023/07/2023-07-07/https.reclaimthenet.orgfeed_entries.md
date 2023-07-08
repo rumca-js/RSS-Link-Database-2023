@@ -1,0 +1,42 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## New Proposals Would Allow UK Spy Agency To Monitor Internet Logs In Real-Time
+ - [https://reclaimthenet.org/new-proposals-would-allow-uk-spy-agency-to-monitor-internet-logs-in-real-time](https://reclaimthenet.org/new-proposals-would-allow-uk-spy-agency-to-monitor-internet-logs-in-real-time)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-07T19:34:44+00:00
+
+<a href="https://reclaimthenet.org/new-proposals-would-allow-uk-spy-agency-to-monitor-internet-logs-in-real-time" rel="nofollow" title="New Proposals Would Allow UK Spy Agency To Monitor Internet Logs In Real-Time"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/gchq.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Excuses for surveillance.</p>
+<p>The post <a href="https://reclaimthenet.org/new-proposals-would-allow-uk-spy-agency-to-monitor-internet-logs-in-real-time" rel="nofollow">New Proposals Would Allow UK Spy Agency To Monitor Internet Logs In Real-Time</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Leaked Memo Shows Mayo Clinic Doubles Down On Censorship
+ - [https://reclaimthenet.org/mayo-clinic-doubles-down-on-censorship](https://reclaimthenet.org/mayo-clinic-doubles-down-on-censorship)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-07T18:19:30+00:00
+
+<a href="https://reclaimthenet.org/mayo-clinic-doubles-down-on-censorship" rel="nofollow" title="Leaked Memo Shows Mayo Clinic Doubles Down On Censorship"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/Joyner.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>An alleged gag order on professor Michael Joyner.</p>
+<p>The post <a href="https://reclaimthenet.org/mayo-clinic-doubles-down-on-censorship" rel="nofollow">Leaked Memo Shows Mayo Clinic Doubles Down On Censorship</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## The White House Seeks Injunction Halt So It Can Continue Social Media Censorship Pressure
+ - [https://reclaimthenet.org/white-house-censorship-injunction-response](https://reclaimthenet.org/white-house-censorship-injunction-response)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-07T17:41:58+00:00
+
+<a href="https://reclaimthenet.org/white-house-censorship-injunction-response" rel="nofollow" title="The White House Seeks Injunction Halt So It Can Continue Social Media Censorship Pressure"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/kjp-censor.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The Biden administration wants to continue playing "misinformation" police.</p>
+<p>The post <a href="https://reclaimthenet.org/white-house-censorship-injunction-response" rel="nofollow">The White House Seeks Injunction Halt So It Can Continue Social Media Censorship Pressure</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## France Gives Law Enforcement Power To Remotely Activate, Listen In On People’s Devices
+ - [https://reclaimthenet.org/france-aw-enforcement-power-remote-listen-devices](https://reclaimthenet.org/france-aw-enforcement-power-remote-listen-devices)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-07T17:01:50+00:00
+
+<a href="https://reclaimthenet.org/france-aw-enforcement-power-remote-listen-devices" rel="nofollow" title="France Gives Law Enforcement Power To Remotely Activate, Listen In On People&#8217;s Devices"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/france-law-no-privacy.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Authoritarian surveillance.</p>
+<p>The post <a href="https://reclaimthenet.org/france-aw-enforcement-power-remote-listen-devices" rel="nofollow">France Gives Law Enforcement Power To Remotely Activate, Listen In On People&#8217;s Devices</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## NY Fed Reports “Successful” Months-Long Digital Dollar Test
+ - [https://reclaimthenet.org/ny-fed-reports-successful-months-long-digital-dollar-test](https://reclaimthenet.org/ny-fed-reports-successful-months-long-digital-dollar-test)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-07T15:56:18+00:00
+
+<a href="https://reclaimthenet.org/ny-fed-reports-successful-months-long-digital-dollar-test" rel="nofollow" title="NY Fed Reports &#8220;Successful&#8221; Months-Long Digital Dollar Test"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/digi-dollar.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The privacy issues loom large.</p>
+<p>The post <a href="https://reclaimthenet.org/ny-fed-reports-successful-months-long-digital-dollar-test" rel="nofollow">NY Fed Reports &#8220;Successful&#8221; Months-Long Digital Dollar Test</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
