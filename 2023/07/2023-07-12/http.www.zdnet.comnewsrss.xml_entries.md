@@ -1,0 +1,415 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## Doctor Who: The Complete First Series (Blu-ray) is 67% off for Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/doctor-who-the-complete-first-series-blu-ray-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/doctor-who-the-complete-first-series-blu-ray-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T20:58:19+00:00
+
+Fans of the quirky yet resourceful time lord should enjoy this $20 Blu-ray set of the current show's first season.
+
+## The 5 best DJI deals for Prime Day 2023: Drones, cameras, and more still available
+ - [https://www.zdnet.com/article/best-prime-day-dji-deals-still-available/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-prime-day-dji-deals-still-available/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T20:45:41+00:00
+
+Snag a discounted drone camera from DJI before Prime Day ends.
+
+## Awesome DeWalt 20V MAX cordless drill and impact driver set is only $130 this Prime Day
+ - [https://www.zdnet.com/home-and-office/dewalt-20v-max-cordless-drill-and-impact-driver-set-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/dewalt-20v-max-cordless-drill-and-impact-driver-set-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T20:40:27+00:00
+
+Nearly 50% off makes this DeWalt power tool kit a sweet Amazon Prime Day deal for anyone looking to refresh their tools.
+
+## The 12 best Prime Day Apple Deals still available
+ - [https://www.zdnet.com/article/best-apple-prime-day-deals-still-available/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-apple-prime-day-deals-still-available/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T20:31:32+00:00
+
+The clock is ticking on Apple deals for Prime Day, including the AirPods Pro 2 and the Apple Watch Series 8.
+
+## Elon Musk launches new AI company to 'understand the true nature of the universe'
+ - [https://www.zdnet.com/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/#ftag=RSSbaffb68](https://www.zdnet.com/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T20:29:18+00:00
+
+After months of hints, Musk formally announces xAI and introduces a team of AI industry luminaries.
+
+## The $13 Amazon Smart Plug is the best purchase to wrap up Prime Day 2023
+ - [https://www.zdnet.com/home-and-office/smart-home/the-13-amazon-smart-plug-is-the-best-purchase-to-wrap-up-prime-day-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-13-amazon-smart-plug-is-the-best-purchase-to-wrap-up-prime-day-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T20:28:25+00:00
+
+This smart plug is typically $25 but it's 48% off exclusively as a Prime Day deal on Amazon.
+
+## Pick up a rugged Android tablet for $170 in the Prime Day deals
+ - [https://www.zdnet.com/article/oukitel-rt3-rugged-android-tablet-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/oukitel-rt3-rugged-android-tablet-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:55:37+00:00
+
+If you're looking for a ruggedized Android tablet for your garage, workshop, or the great outdoors, you should check out this Amazon Prime Day deal.
+
+## The Osom Privacy USB-C Cable is 20% off on Amazon Prime Day
+ - [https://www.zdnet.com/article/osom-privacy-usb-c-cable-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/osom-privacy-usb-c-cable-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:46:00+00:00
+
+For frequent travelers, bearers of important files, and folks who simply value privacy, this Prime Day deal is for you.
+
+## Anker's MagSafe portable power bank rival's Apple's, and it's 30% off for Prime Day
+ - [https://www.zdnet.com/article/anker-622prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/anker-622prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:37:00+00:00
+
+My favorite Magsafe charger is lightweight, portable, and only $40 this Prime Day.
+
+## The Samsung Odyssey Ark just dropped $1,000 at Best Buy
+ - [https://www.zdnet.com/home-and-office/home-entertainment/the-samsung-odyssey-ark-just-dropped-1000-at-best-buy/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/the-samsung-odyssey-ark-just-dropped-1000-at-best-buy/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:29:00+00:00
+
+The 55-inch Samsung Odyssey is the ultimate gaming monitor. And right now you can save $1,000 on one at Best Buy.
+
+## This GeForce RTX 4080 GPU is a Prime Day deal no PC builder should miss
+ - [https://www.zdnet.com/article/zotac-gaming-geforce-rtx-4080-graphics-card-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/zotac-gaming-geforce-rtx-4080-graphics-card-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:23:48+00:00
+
+Break the bank a bit less with this Amazon Prime Day deal that lets you grab a high-end GeForce RTX 4080 GPU for $230 below the list price.
+
+## This 8K LG TV is $3,000 off at B&H Photo right now
+ - [https://www.zdnet.com/home-and-office/home-entertainment/this-8k-lg-tv-is-3000-off-at-b-h-photo/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/this-8k-lg-tv-is-3000-off-at-b-h-photo/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:17:38+00:00
+
+Have your eye on an 8K TV, but hold back because of the price? You can get a 75-inch LG Nano99 Series 8K TV right now for just $2,000 at B&amp;H Photo.
+
+## The 15 best Fire TV deals for Amazon Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:12:00+00:00
+
+Prime Day 2023 ends tonight but the prices continue to drop. With just a few hours left, we have the best deals on Amazon Fire TVs.
+
+## These Bose QuietComfort 45 headphones are $130 off for Prime Day. It's a deal you can't miss
+ - [https://www.zdnet.com/article/these-bose-quietcomfort-45-headphones-are-130-off-for-prime-day-its-a-deal-you-cant-miss/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-bose-quietcomfort-45-headphones-are-130-off-for-prime-day-its-a-deal-you-cant-miss/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T19:05:07+00:00
+
+Bose's popular QuietComfort 45 over-ear noise-canceling headphones are on sale this Prime Day.
+
+## The perfect tool to banish mosquitoes and other bugs just dropped to $30 on Amazon
+ - [https://www.zdnet.com/home-and-office/thermacell-mosquito-repellent-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/thermacell-mosquito-repellent-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:50:54+00:00
+
+Thanks to an amazing Amazon Prime Day deal, you can now pick up the best mosquito repeller for 25% less!
+
+## The Beats Studio 3 are still on sale for Amazon Prime Day, but they're running out
+ - [https://www.zdnet.com/article/the-beats-studio-3-are-still-on-sale-for-amazon-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-beats-studio-3-are-still-on-sale-for-amazon-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:47:36+00:00
+
+Only a few Beats Studio 3 are left in stock on Amazon and the headphones are 54% off as part of Prime Day 2023.
+
+## Take advantage of this rare MacBook Pro M1 Max deal for a whopping $900 off at B&H Photo
+ - [https://www.zdnet.com/article/take-advantage-of-this-rare-macbook-pro-m1-max-deal-at-b-h-photo/#ftag=RSSbaffb68](https://www.zdnet.com/article/take-advantage-of-this-rare-macbook-pro-m1-max-deal-at-b-h-photo/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:44:59+00:00
+
+Run (don't walk!) to this incredible Amazon Prime alternative deal on a 16-inch MacBook Pro M1 Max.
+
+## 'The world is running out of developers', says Salesforce exec
+ - [https://www.zdnet.com/article/the-world-is-running-out-of-developers-says-salesforce-exec/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-world-is-running-out-of-developers-says-salesforce-exec/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:39:53+00:00
+
+Developers with AI and automation skills are in ever higher demand. Here's why.
+
+## My favorite MacBook USB-C charger just dropped to less than $70 on Amazon
+ - [https://www.zdnet.com/home-and-office/ugreen-140w-usb-c-charger-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/ugreen-140w-usb-c-charger-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:29:09+00:00
+
+Get 36% off the Ugreen 140W USB-C charger with this great Amazon Prime Day deal.
+
+## This eye massager helps my headaches, and it's 62% off for Prime Day
+ - [https://www.zdnet.com/article/renpho-eye-massager-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/renpho-eye-massager-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:21:07+00:00
+
+If you struggle with headaches, the Renpho Eye Massager may help relieve dry eyes and forehead tension. Right now, it's $80 off for Amazon Prime Day.
+
+## Want to try Kindle Unlimited? Get a 3-month free trial now for Prime Day
+ - [https://www.zdnet.com/article/read-millions-of-titles-with-kindle-unlimited-and-grab-this-3-month-free-trial-through-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/read-millions-of-titles-with-kindle-unlimited-and-grab-this-3-month-free-trial-through-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:14:53+00:00
+
+Read millions of titles with Kindle Unlimited free for three months if you sign up during Prime Day.
+
+## My favorite earbuds for work are 30% off for Amazon Prime Day
+ - [https://www.zdnet.com/article/soundcore-liberty-4-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/soundcore-liberty-4-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:14:00+00:00
+
+If you use multiple devices in your workspace, these earbuds are for you. Major plus: you can get them for $40 off this Amazon Prime Day.
+
+## The 12 best headphones Prime Day 2023 deals
+ - [https://www.zdnet.com/home-and-office/best-amazon-deals-prime-day-headphones/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-amazon-deals-prime-day-headphones/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:14:00+00:00
+
+Looking for a new pair of headphones for Amazon Prime Day? Here are some of the best deals you can find.
+
+## iPhone users: This $17 Prime Day deal means you never lose your wallet again
+ - [https://www.zdnet.com/article/iphone-users-this-17-prime-day-deal-means-you-never-lose-your-wallet-again/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-users-this-17-prime-day-deal-means-you-never-lose-your-wallet-again/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T18:05:28+00:00
+
+The Eufy SmartTrack Card wallet tracker works similar to the Apple AirTag and it's 43% off for Amazon Prime Day.
+
+## The JBL Charge 5 speaker is $120 for Amazon Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/jbl-charge-5-bluetooth-speaker-deal-amazon-prime-day-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/jbl-charge-5-bluetooth-speaker-deal-amazon-prime-day-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T17:55:00+00:00
+
+JBL's latest Bluetooth speaker comes in many colors and provides up to 20 hours of playback. Plus, it's 33% off on Amazon Prime Day 2023.
+
+## Roborock S7 MaxV Ultra just dropped to less than $1000 for Prime Day
+ - [https://www.zdnet.com/home-and-office/roborock-s7-maxv-ultra-just-dropped-to-less-than-1000-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/roborock-s7-maxv-ultra-just-dropped-to-less-than-1000-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T17:42:11+00:00
+
+Roborock's fantastic S7 MaxV Ultra is on sale for Prime Day, saving you $300.
+
+## Apple releases public betas for new iPhone, iPad, Mac, and Watch software. How to sign up
+ - [https://www.zdnet.com/article/apple-releases-public-betas-for-new-iphone-ipad-mac-and-watch-software-how-to-sign-up/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-releases-public-betas-for-new-iphone-ipad-mac-and-watch-software-how-to-sign-up/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T17:22:55+00:00
+
+After months of developer testing, users can now download the first public beta versions of iOS 17, iPadOS 17, watchOS 10, macOS Sonoma, and more. Here's how and what to know.
+
+## The 14 best Amazon Echo device deals for Prime Day 2023
+ - [https://www.zdnet.com/home-and-office/smart-home/best-prime-day-amazon-echo-device-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-prime-day-amazon-echo-device-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T17:13:00+00:00
+
+Grab an Echo Pop, Echo Dot, Echo Studio, and more for up to 65% off on Amazon Prime Day.
+
+## Star Trek: The Original Series Blu-ray set is nearly 50% off for Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/star-trek-the-original-series-blu-ray-set-is-nearly-50-off-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/star-trek-the-original-series-blu-ray-set-is-nearly-50-off-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T17:12:28+00:00
+
+Star Trek fans should enjoy being transported back to the original series with this special $58 Steelbook Blu-ray edition.
+
+## This 3600Wh backup power station is $800 off for Prime Day
+ - [https://www.zdnet.com/home-and-office/this-3600wh-backup-power-station-is-800-off-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-3600wh-backup-power-station-is-800-off-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T17:01:07+00:00
+
+The EcoFlow Delta Pro power station is 22% in this impressive Amazon Prime Day deal.
+
+## This Onson 2-in-1 robot vacuum is almost $600 off at Walmart
+ - [https://www.zdnet.com/home-and-office/kitchen-household/this-onson-2-in-1-robot-vacuum-is-almost-600-off-at-walmart/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/this-onson-2-in-1-robot-vacuum-is-almost-600-off-at-walmart/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:57:11+00:00
+
+Looking for a robot vacuum that can handle pet hair and mess? The Onson 2-in-1 has both vacuum and mop features, and is built to handle whatever your pets can throw at it. And you can save almost $600 on one at Walmart.
+
+## The 10 most popular Prime Day deals among ZDNET readers
+ - [https://www.zdnet.com/article/the-10-most-popular-prime-day-deals-among-zdnet-readers/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-10-most-popular-prime-day-deals-among-zdnet-readers/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:56:17+00:00
+
+From Fire TV Sticks to nugget ice makers, here's what ZDNET readers have purchased the most during Amazon Prime Day so far.
+
+## The 101 best Amazon Prime Day 2023 deals: Live updates
+ - [https://www.zdnet.com/article/best-amazon-prime-day-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-amazon-prime-day-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:26:00+00:00
+
+Follow along as ZDNET finds the best deals on tech and more during this year's Amazon Prime Day sale in real time.
+
+## Anthropic's updated ChatGPT-rival offers more detailed, less offensive responses
+ - [https://www.zdnet.com/article/anthropics-updated-chatgpt-rival-offers-more-detailed-less-offensive-responses/#ftag=RSSbaffb68](https://www.zdnet.com/article/anthropics-updated-chatgpt-rival-offers-more-detailed-less-offensive-responses/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:09:42+00:00
+
+Claude 2 AI is more human than before, Anthropic says, and it's harder to make it say harmful things.
+
+## This air fryer does it all and now it's 24% off for Prime Day
+ - [https://www.zdnet.com/home-and-office/kitchen-household/cosori-pro-le-5-0-quart-air-fryer-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/cosori-pro-le-5-0-quart-air-fryer-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:05:00+00:00
+
+Cooking faster and healthier has never been so easy or inexpensive. Grab the Cosori LE 5.0-Quart Air Fryer this Amazon Prime Day 2023 while it's only $76.
+
+## The 5 best Amazon Prime Day 2023 TV deals: Samsung, LG, Sony, and more
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-amazon-prime-day-tv-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-amazon-prime-day-tv-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:04:00+00:00
+
+It's day two of Prime Day, and you can still find major discounts on TVs from Amazon, and also from Best Buy and Newegg. We've found the best TV sales for you.
+
+## Groceries are also cheaper on Amazon Prime Day. Here's how
+ - [https://www.zdnet.com/home-and-office/kitchen-household/deals-on-groceries-on-amazon-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/deals-on-groceries-on-amazon-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T16:01:00+00:00
+
+Amazon Prime Day is in full swing, and while everyone is shopping for the latest tech and fashion, here's a category with some great deals you might have missed: Groceries.
+
+## The 12 best Prime Day Apple Deals
+ - [https://www.zdnet.com/article/best-apple-prime-day-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-apple-prime-day-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T15:48:00+00:00
+
+Apple's most popular devices, including the AirPods Pro 2 and second-gen Apple Pencil, are on major sale for Prime Day.
+
+## Get the best nugget ice maker for $150 off this Prime Day
+ - [https://www.zdnet.com/home-and-office/get-the-best-nugget-ice-maker-for-150-off-this-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/get-the-best-nugget-ice-maker-for-150-off-this-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T15:24:52+00:00
+
+Say goodbye to boring ice with the premium GE Opal 2.0 countertop nugget ice maker, currently on a big discount for Prime Day.
+
+## This Ultraloq U-Bolt Pro smart door lock is selling for just $126 on Prime Day
+ - [https://www.zdnet.com/home-and-office/smart-home/ultraloq-u-bolt-pro-smart-door-lock-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/ultraloq-u-bolt-pro-smart-door-lock-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T15:23:00+00:00
+
+This Ultraloq 6-in-1 smart lock offers keyless entry to your home via fingerprint, passcode, and more, and now it's only $126 during Amazon Prime Day.
+
+## Buy a new iPad for just $249 on Amazon Prime Day
+ - [https://www.zdnet.com/article/apple-ipad-9th-gen-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-ipad-9th-gen-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T15:07:00+00:00
+
+The most affordable iPad that Apple still sells just hit an all-time low price for Prime Day 2023.
+
+## Get the brightest flashlight in the world for $136 off during Amazon Prime Day
+ - [https://www.zdnet.com/home-and-office/kitchen-household/imalent-sr32-flashlight-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/imalent-sr32-flashlight-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T15:02:47+00:00
+
+The world's brightest flashlight clocks in at 120,000 lumens, and now it can be yours for less during Amazon's Prime Day.
+
+## ¡Hola Alexa! Amazon expands AI-powered English lessons for Spanish speakers
+ - [https://www.zdnet.com/article/hola-alexa-amazon-expands-ai-powered-english-lessons-for-spanish-speakers/#ftag=RSSbaffb68](https://www.zdnet.com/article/hola-alexa-amazon-expands-ai-powered-english-lessons-for-spanish-speakers/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T14:43:33+00:00
+
+Now available in the US and Mexico, the learning program offers feedback on mispronunciations, while intelligently discerning accents.
+
+## This rugged Android phone has a standby time of 2350 hours, and it's $114 off for Prime Day
+ - [https://www.zdnet.com/article/this-rugged-android-phone-offers-a-standby-time-of-2350-hours-and-this-prime-day-its-114-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-rugged-android-phone-offers-a-standby-time-of-2350-hours-and-this-prime-day-its-114-off/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T14:39:00+00:00
+
+The Doogee S100 Pro is the most massive mobile phone I've tested in decades. It's packed with cool features like a camping light and night vision camera. Now you can get a massive discount on it, thanks to Amazon Prime Day.
+
+## I was blown away by this blazingly fast Crucial SSD, and now it's up to 30% off for Prime Day
+ - [https://www.zdnet.com/article/i-was-blown-away-by-this-blazingly-fast-crucial-ssd-and-now-its-up-to-30-off-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-was-blown-away-by-this-blazingly-fast-crucial-ssd-and-now-its-up-to-30-off-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T14:29:00+00:00
+
+Whether you're building a new PC or upgrading an existing one, if you're looking for performance, this is the drive for you. And this Amazon Prime Day, prices have been slashed.
+
+## Twitter rival Threads aiming to add edit button and other new features
+ - [https://www.zdnet.com/article/twitter-rival-threads-aiming-to-add-edit-button-and-other-new-features/#ftag=RSSbaffb68](https://www.zdnet.com/article/twitter-rival-threads-aiming-to-add-edit-button-and-other-new-features/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T14:18:32+00:00
+
+The ability to edit your posts, aka threads, is one of several improvements on the to-do list for Meta's new social network.
+
+## Grab a Pioneer 43-inch 4K UHD Fire TV for 50% off during Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/grab-a-pioneer-43-inch-4k-uhd-fire-tv-for-50-off-during-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/grab-a-pioneer-43-inch-4k-uhd-fire-tv-for-50-off-during-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T14:04:33+00:00
+
+Don't miss this Pioneer 4K Fire TV deal for just $160 right now.
+
+## Get a jaw dropping $200 off a SanDisk 1TB Extreme microSDXC card this Prime Day
+ - [https://www.zdnet.com/article/sandisk-1tb-extreme-microsdxc-card-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/sandisk-1tb-extreme-microsdxc-card-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T13:47:34+00:00
+
+If you have an action camera, drone, or just want to add storage space to your Android phone, you'll want to grab this 68% discount this Prime Day.
+
+## Grab a GoPro HERO10 Black bundle for under $300 this Prime Day
+ - [https://www.zdnet.com/home-and-office/gopro-hero10-black-accessory-bundle-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/gopro-hero10-black-accessory-bundle-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T13:44:55+00:00
+
+This Amazon Prime Day get 25% off a great GoPro HERO10 Black action camera bundle that gives you two batteries, and a handful of other must-have accessories.
+
+## Buy a 32-inch Toshiba Fire TV for just $100 for Prime Day
+ - [https://www.zdnet.com/home-and-office/home-entertainment/buy-a-32-inch-toshiba-fire-tv-for-just-100-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/buy-a-32-inch-toshiba-fire-tv-for-just-100-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T13:31:00+00:00
+
+We found a big Prime Day discount on an HD Toshiba Fire TV, with Alexa integration, Apple AirPlay support, and access to all the streaming apps you need.
+
+## Save $250 on the Pixel 7 Pro for Amazon Prime Day
+ - [https://www.zdnet.com/article/save-250-on-the-pixel-7-pro-for-amazon-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/save-250-on-the-pixel-7-pro-for-amazon-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T13:22:16+00:00
+
+If you're looking for a serious upgrade to your current Android phone, the Pixel 7 Pro is a great way to go and you can get it for a pretty sweet discount on Amazon Prime Day.
+
+## The 15 best Fire TV deals for Prime Day 2023
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals-amazon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-prime-day-fire-tv-deals-amazon/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T13:05:00+00:00
+
+Prime Day 2023 is here, and the prices are dropping. With less than 24 hours left, we're gathering the best deals on Amazon Fire TVs.
+
+## These Crucial portable SSD drives are up to 62% off for Amazon Prime Day
+ - [https://www.zdnet.com/home-and-office/smart-office/these-crucial-portable-ssd-drives-are-up-to-62-off-for-amazon-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/these-crucial-portable-ssd-drives-are-up-to-62-off-for-amazon-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T13:03:39+00:00
+
+If you need large amounts of external storage with blazing fast read speeds, a Crucial drive might be just what you're looking for. Now you can pick up one for a deep discount this Amazon Prime Day.
+
+## A $199 Prime Day 2-way satellite messenger deal all adventurers should check out
+ - [https://www.zdnet.com/home-and-office/a-prime-day-2-way-satellite-messenger-deal-all-adventurers-should-check-out/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/a-prime-day-2-way-satellite-messenger-deal-all-adventurers-should-check-out/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T12:51:28+00:00
+
+Grab more than 20% off the Spot X satellite messenger with this Amazon Prime Day 2023 deal.
+
+## Get 20% off this awesome waterproof bone conduction headset this Prime Day
+ - [https://www.zdnet.com/article/get-20-off-this-awesome-waterproof-bone-conduction-headset-this-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-20-off-this-awesome-waterproof-bone-conduction-headset-this-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T12:46:00+00:00
+
+Break free from Bluetooth -- and your smartphone -- with 8GB of built-in memory and up to 5 hours of playtime. And they're on sale for a limited time this Amazon Prime Day.
+
+## Wipro eyes new opportunities with $1B investment in AI
+ - [https://www.zdnet.com/article/wipro-eyes-new-opportunities-with-1b-investment-in-ai/#ftag=RSSbaffb68](https://www.zdnet.com/article/wipro-eyes-new-opportunities-with-1b-investment-in-ai/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T12:01:44+00:00
+
+The Indian IT consulting firm launches its ai360 platform, alongside a three-year $1 billion plan that includes training its 250,000 employees on the fundamentals of artificial intelligence.
+
+## How to start your own Substack newsletter
+ - [https://www.zdnet.com/article/how-to-start-your-own-substack-newsletter/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-start-your-own-substack-newsletter/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T11:09:53+00:00
+
+Substack is a rapidly growing method of publishing email newsletters. If you want to set one up for yourself, we take you through the process, step-by-step.
+
+## This flip-out laptop monitor is my productivity secret weapon, and it's $93 off for Prime Day
+ - [https://www.zdnet.com/home-and-office/smart-office/this-flip-out-portable-monitor-is-my-productivity-secret-weapon/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/this-flip-out-portable-monitor-is-my-productivity-secret-weapon/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T01:39:00+00:00
+
+The Duex Plus by Mobile Pixels is a 13-inch display that latches onto any Windows or Mac laptop. And it's more affordable than ever.
+
+## The 75 best Amazon Prime Day 2023 deals: Live updates
+ - [https://www.zdnet.com/article/the-best-amazon-prime-day-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-best-amazon-prime-day-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-12T00:44:24+00:00
+
+The ZDNET team found the best deals on tech and more during this year's Amazon Prime Day sale, so you don't have to go searching.
+

@@ -1,0 +1,221 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## MSNBC Freakout: Blaming Joe Biden's STAFF for letting him look like a feeble, discombobulated old coot
+ - [https://www.louderwithcrowder.com/mika-attacks-joe-biden-s-staff](https://www.louderwithcrowder.com/mika-attacks-joe-biden-s-staff)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T16:47:20+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34318287&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>All the videos of Joe Biden needing to be led along like a child by world leaders, barely able to walk, and <a href="https://www.louderwithcrowder.com/joe-biden-sandbag-cnn-doctor" target="_blank">falling flat on his ass</a> is taken its toll on MSNBC. Mika Brzezinski freaked out on it today on  <em>Morning Joe</em>. No, not over the fact our president barely knows where he is, who all these people are in his room, or who soiled his underpants. She is angry at his STAFF for allowing the visual of him looking like he doesn't know where he is, who all these people are in his room, or who soiled his underpants.</p><p>Put Mika down for one count of aiding and abetting senior abuse.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/SteveGuest/status/1679103566277910528"></a>
+</blockquote>
+
+<blockquote>Do a better job! Because you can't have these video images of the president tripping or the president like going the wrong way... his age is going to be a factor and it's your job to make sure he gets from one place to another!</blockquote><p>Unlike Mike and Biden himself, <a href="https://www.louderwithcrowder.com/joe-behar-turned-on-biden" target="_blank">I don't believe in berating staffers</a>. Though, I will agree that the person who <a href="https://www.louderwithcrowder.com/joe-biden-at-the-beach" target="_blank">allowed the president to go to the beach and take his shirt off</a> should be relieved of their duties.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CatchUpFeed/status/1677841193076682752"></a>
+</blockquote>
+
+<p>I'm curious about what Mika thinks Joey is supposed to do when he is with the King of England. If Biden brought along a nurse or an intern with him to help him walk, it would break protocol. Also, the world would be laughing at us.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CitizenFreePres/status/1678371791113428992"></a>
+</blockquote>
+
+<p><br /></p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678439604037341184"></a>
+</blockquote>
+
+<p>They can make Joe take a nap. They can arrange his schedule around his afternoon pudding. They can double down on the amount of vacation time they give him. But at the end of the day, when with other world leaders the Presdient of the United States needs to be left to his own devices. His own old, feeble, senile, possibly in the throws of dementia, devices.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678807796794392597"></a>
+</blockquote>
+
+<p><br /></p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678806482643501056"></a>
+</blockquote>
+
+<p><br /></p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678779526233620481"></a>
+</blockquote>
+
+<p>In her brain this morning when she planned this rant, Mika thought scolding the staff for allowing Joe Biden to look old and feeble was going to help matters. As supposed to accent how old and feeble Biden is, or that he needs a staff to cover up his feebleness and oldness.</p><p>She could advocate for a young candidate. She could ask Biden to step aside. Instead, she yelled at the help. </p>
+<p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## MSNBC Freakout: Blaming Joe Biden's STAFF for letting him look like a feeble, discombobulated old coot
+ - [https://www.louderwithcrowder.com/mika-attacks-joe-biden-staff](https://www.louderwithcrowder.com/mika-attacks-joe-biden-staff)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T16:47:20+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34318287&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>All the videos of Joe Biden needing to be led along like a child by world leaders, barely able to walk, and <a href="https://www.louderwithcrowder.com/joe-biden-sandbag-cnn-doctor" target="_blank">falling flat on his ass</a> has taken its toll on MSNBC. Mika Brzezinski freaked out today on  <em>Morning Joe</em>. No, not over the fact our president barely knows where he is, who all these people are in his room, or who soiled his underpants. She is angry at his STAFF for allowing the visuals of him looking like he doesn't know where he is, who all these people are in his room, or who soiled his underpants. It's all their fault.</p><p>Put Mika down for one count of aiding and abetting senior abuse.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/SteveGuest/status/1679103566277910528"></a>
+</blockquote>
+<blockquote>Do a better job! Because you can't have these video images of the president tripping or the president like going the wrong way... his age is going to be a factor and it's your job to make sure he gets from one place to another!</blockquote><p>Unlike Mike and Biden himself, <a href="https://www.louderwithcrowder.com/joe-behar-turned-on-biden" target="_blank">I don't believe in berating staffers</a>. Though, I will agree that the person who <a href="https://www.louderwithcrowder.com/joe-biden-at-the-beach" target="_blank">allowed the president to go to the beach and take his shirt off</a> should be relieved of their duties.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CatchUpFeed/status/1677841193076682752"></a>
+</blockquote>
+<p>I'm curious about what Mika thinks Joey is supposed to do when he is with the King of England. If Biden brought along a nurse or an intern with him to help him walk, it would break protocol. Also, the world would be laughing at us.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CitizenFreePres/status/1678371791113428992"></a>
+</blockquote>
+<p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678439604037341184"></a>
+</blockquote>
+<p>They can make Joe take a nap. They can arrange his schedule around his afternoon pudding. They can double down on the amount of vacation time they give him. But at the end of the day, when he's with other world leaders the president of the United States needs to be left to his own devices. His own old, feeble, senile, possibly in the throws of dementia, devices.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678807796794392597"></a>
+</blockquote>
+<p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678806482643501056"></a>
+</blockquote>
+<p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1678779526233620481"></a>
+</blockquote>
+<p>In her brain this morning when she planned this rant, Mika thought scolding the staff for allowing Joe Biden to look old and feeble was going to help matters. Instead, she accented how old and feeble Biden is, and that he needs a staff to cover up his feebleness and oldness.</p><p>She could advocate for a young candidate. She could ask Biden to step aside. Instead, she yelled at the help. </p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Oh my: CNN commits unforgivable sin and MISGENDERS Dylan Mulvaney multiple times on air
+ - [https://www.louderwithcrowder.com/cnn-misgenders-dylan-mulvaney](https://www.louderwithcrowder.com/cnn-misgenders-dylan-mulvaney)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T15:49:39+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34317926&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>We all know how this is going to end. It may have already ended by the time you read this. The CNN PR account will tweet an apology. The CNN journalismer responsible will beg for forgiveness and possibly accept a suspension to go educate himself.  A non-profit will get a sizable check. Let's not be sad that this ridiculousness is over. Let's appreciate that it happened.</p><p>CNN reporter Ryan Young referred to controversial titface performer Dylan Mulvaney by the WRONG pronouns. Even worse, no one corrected him live on air.</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">CNN under fire for misgendering Dylan Mulvaney: ‘Unbelievably bad’</small>
+<small class="image-media media-photo-credit">
+<a href="https://youtu.be/k-Fz7bcTR78" target="_blank">youtu.be</a>
+</small>
+</p>
+<p>In a segment giving the LGBTQAI+2EIEIO perspective <a href="https://www.louderwithcrowder.com/bud-light-costco" target="_blank">on the Bud Light drama</a>, correspondent Ryan Young referred to Mulvaney as as a "he" and a "him." </p><blockquote>He, of course, is the transgender person they were going to sponsor and go along with.<br /><br />[Activists] didn’t like how<a href="https://nypost.com/2023/06/29/dylan-mulvaney-rips-bud-light-as-trans-influencer-breaks-silence-after-20b-fiasco/" rel="noopener noreferrer" target="_blank"> Bud Light didn’t stand by</a> him after all this.<br /></blockquote><p>Mulvaney goes by a she/they. I mean, my God man. Even I, the rightwing sunovabitch blogger, know the proper pronouns. Sure, I use them out of a great sense of mockery and sarcasm and am of the belief sometimes the preferred pronouns are funnier to use if you're a cunning linguist. But you're CNN, son! Act like this is important.</p><p><a href="https://nypost.com/2023/07/12/cnn-under-fire-for-misgendering-dylan-mulvaney/" target="_blank">According to the New York Post</a>, Twitter was quick to do Twitter things.</p><p>“God damn, that sucked."<br /></p><p>“Wow, absolute garbage segment.”</p><p>"Despicably poor ‘journalism.'”</p><p>"What horrible coverage and the pundit couldn’t even correct the misgendering of Dylan. This makes me sad."</p><p>When reached for comment, Dylan was on holiday in Central America. <a href="https://www.dailymail.co.uk/news/article-12289497/Sad-Dylan-Mulvaney-flees-PERU-complaining-no-longer-feels-safe-US.html" target="_blank">Her/them was busy playing with a Llama</a>.</p><p>It is a clear, OBVIOUS... I guess we'll call it a "mistake" because we're playing with liberal media definitions here. Up until the visit to the White House, <a href="https://www.louderwithcrowder.com/dylan-mulvaney-price-right" target="_blank">I legit thought Dylan Mulvaney was a parody</a>. If I were to think of a dude who hated women and pretended to be a woman on TikTok to make fun of what he thought of women, it would look no different than <a href="https://www.louderwithcrowder.com/dylan-mulvaney-ulta-biden" target="_blank">a Dylan Mulvaney video</a>.</p><p>These things happen, Ryan Young. Don't beat yourself up over it. That is what your colleagues in the media are for.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Watch: Joy Behar needs cold shower, gets turned on by Joe Biden's angry old-man outbursts
+ - [https://www.louderwithcrowder.com/joe-behar-turned-on-biden](https://www.louderwithcrowder.com/joe-behar-turned-on-biden)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T14:06:55+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/joy-behar-gets-turned-on-by-joe-biden-s-angry-outbursts.png?id=34317401&amp;width=1200&amp;height=400&amp;coordinates=0%2C119%2C0%2C175" /><br /><br /><p>Axios released a story this week about Joe Biden's <a href="https://www.axios.com/2023/07/10/biden-temper-us-president" target="_blank">profanity-laced, vicious, verbal attacks at White House staffers behind the scenes</a>. They did their best to make it sound like a virtue like good journalismers. It wasn't enough. When the regime needs people with no dignity or self-respect to make excuses for Joey no questions asked, they call in the experts. The shrill harpies from <em>The View</em>.</p><p>Joy Behar, who critics say <a href="https://www.louderwithcrowder.com/view-tim-scott-monday" target="_blank">has a problem with the blacks</a>, put the T in TMI and said when she thinks of Biden whipping out his white male privilege and spraying profanities all over aides, it gets her hot and bothered.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/NickFondacaro/status/1678787527308713986"></a>
+</blockquote>
+
+<p>Joy was making a reference to... actually, let's give her a minute.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="43848" src="https://www.louderwithcrowder.com/media-library/image.png?id=34317466&amp;width=980" />
+</p>
+<p>Behar was referencing... sweet Jesus, again Joy?</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="702a6" src="https://www.louderwithcrowder.com/media-library/image.png?id=34317468&amp;width=980" />
+</p>
+<p>Fox News VJ Lisa Kennedy made a joke about getting turned on by Biden's foul language. Kennedy grew up around rockstars and currently hangs out with libertarians, so I'm assuming she's heard much worse. Behar should be taken as seriously as she would take a conservative "joking" about such things.</p><p>And of course, she had to make it weird.</p><blockquote>He just blows off steam, his white male privilege it’s called. Imagine if it’s a woman or a black guy doing that, not allowed.</blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="ce257" src="https://www.louderwithcrowder.com/media-library/image.gif?id=34317480&amp;width=980" />
+</p>
+<p>I'll be honest. It was refreshing to hear that Joe Biden curses out everyone around them. I had thought he only lashed out at the American people:</p><p><a href="https://www.louderwithcrowder.com/joe-biden-angry-dwight-schrute" rel="noopener noreferrer" target="_self" title="view post: Watch: Joe Biden's Latest Angry Rant Draws Comparisons to Classic Dwight Schrute Speech">Watch: Joe Biden's Latest Angry Rant Draws Comparisons to Classic Dwight Schrute Speech</a></p><p><a href="https://www.louderwithcrowder.com/joe-biden-speech-philadelphia" rel="noopener noreferrer" target="_self" title="view post: 'I Am Cornholio': Twitter has a field day mocking visual of Joe Biden's angry rant against half of America">'I Am Cornholio': Twitter has a field day mocking visual of Joe Biden's angry rant against half of America</a></p><p><a href="https://www.louderwithcrowder.com/joe-biden-inflation-blame" rel="noopener noreferrer" target="_self" title="view post: Watch: Joe Biden Has Old Man Meltdown, Declares He's Sick of Americans Blaming His Government for Inflation">Watch: Joe Biden Has Old Man Meltdown, Declares He's Sick of Americans Blaming His Government for Inflation</a></p><p>It turns out Biden is angry all the time. Unclear is if it's basic anger management issues or if the outbursts have to do with <a href="https://www.louderwithcrowder.com/hunter-biden-book-dementia" target="_blank">what critics call his early onset dementia</a>. What is clear is that Ron DeSantis is much, much, much younger and appears in full control of his temper.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Watch: There's an extended director's cut of the crazy lady "he's not real" airplane freak out
+ - [https://www.louderwithcrowder.com/not-real-extended-video](https://www.louderwithcrowder.com/not-real-extended-video)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T13:15:30+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34317243&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>The viral video sensation of a crazy lady on an airplane -- who may have been drunk or on edibles -- can't stop and won't stop finding its way around the internet. <a href="https://twitter.com/CatchUpFeed/status/1679101026350116864" target="_blank">It has even implicated comedian Carrot Top</a>. Now, there is an extended director's cut of what happened prior to the woman screaming "That motherf*cker's not real."</p><p>To recap how we got here, "Everyone can either believe it or they can not believe it. I don’t give two f*cks. But I am telling you right now, that motherf*cker back there is not real. And you can sit on this plane and you can f*cking die with them or not. I’m not going to."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/Bornakang/status/1675841612709089281"></a>
+</blockquote>
+
+<p>Turns out there was someone in between who had their phone out faster. Though, they only get a 4/10 for this. This is NOT what we consider doing it for the content. There wasn't even an attempt to get good footage. And we still don't know who this not real motherf*cker is.</p><p>Though, we did get to see flight attendants attempt to reason with the dingbat. They even looked for a volunteer to sit between her and the "not real" mystery man.</p><p>It wasn't enough. She needed to get off the plane right then, and <a href="https://www.louderwithcrowder.com/woman-american-airlines-freak-out" target="_blank">nuts to everyone else who was stuck in Dallas for three hours</a>.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CatchUpFeed/status/1679101026350116864"></a>
+</blockquote>
+
+<p>We are still nowhere close to the bottom of the mystery of who this not real motherf*cker was. SPOILER: It wasn't this guy. Though this video did crack me up.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CatchUpFeed/status/1677135471288389632"></a>
+</blockquote>
+
+<p>At this point, the biggest mystery isn't the alleged lizard person as much as it is the woman. How has no one gotten her side of the story yet? Why has she not gotten on social media and GIVEN her side of the story? We The Content have not been this enthralled with something so silly since <a href="https://www.louderwithcrowder.com/waffle-house-cook-shares-story" target="_blank">the vaping Waffle House ninja</a>.</p><p>Maybe this woman was the one who wasn't real and WE'RE the ones hallucinating. I keep hearing that "mass psychosis formation" is a thing. She must be who people are talking about.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Bud Light set to get blasted by Costco's "Death Star," pointing to galactic trouble for the embattled beer
+ - [https://www.louderwithcrowder.com/bud-light-costco](https://www.louderwithcrowder.com/bud-light-costco)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T12:18:49+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=34317074&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p>It has been over three months since Bud Light thought controversial titface performer Dylan Mulvaney, the Jar Jar Binks of TikTok ingénues, would be a good spokesman for them. Now, it's as if millions of bottles suddenly cried out in terror and were silenced. If these viral photos are any indication, big box store Costco is about to blow the water that identifies as beer off the shelves with its DEATH STAR.</p><p>Or, its "star of death." But you thought the same thing I did when you read it.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="69cbc" src="https://www.louderwithcrowder.com/media-library/image.gif?id=34317092&amp;width=980" />
+</p><p>According to viral photos on the bird app, Bud Light has been marked with the "star of death." <a href="https://www.msn.com/en-us/news/technology/photos-show-bud-light-with-costco-death-star-amid-plummeting-sales/ar-AA1dIiay" target="_blank">Newsweek says</a> the small asterisk at the top right-hand corner of items' price tags is a signal the product will no longer be restocked once it is sold out. It is unclear what Costcos these photos are from.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/aztraveldude/status/1675963724451172352"></a>
+</blockquote>
+<p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/s_h_a_r_k_e_y/status/1678574095397707776"></a>
+</blockquote>
+<p>I've never been a big box store guy. Growing up in the olden days, you could only get membership depending on what company you worked for. I know <a href="https://www.cnbc.com/2023/06/24/costcos-buck-fifty-hot-dog-and-soda-combo-went-viral-and-became-a-t-shirt.html" target="_blank">people are obsessed with Costco's hot dogs</a>. And it makes me giggle that the BJ's by me is next to a Hooters. But can you imagine any store deciding to no longer carry Bud Light? Let alone a major retailer like this? That is how bad and how much of a colossal f*ck up this has been for the company.</p><p>If true (the company didn't respond to Newsweek and I'm just here for the content), Bud Light has gone from being the most iconic beer in America to no longer being sold in stores. Costco thinks the real estate would be more profitable if they replaced Bud Light with a 96-pack of mac and cheese or a box of those cheap sweatshirts.</p><p>All because a <a href="https://www.louderwithcrowder.com/bud-light-vice-president-marketing" target="_self">now-disgraced marketing elitist lashed out at Bud Light customers as "fratty" and "out of touch</a>. It was more  important to appeal to consumers who don't drink Bud Light out of hatred of the kinds of people who do drink Bud Light. This was three months and over twenty-billion dollars ago.</p><p>Now the beer is being removed from shelves because executives are too busy sticking their noses up at middle-class, blue-collar, rube America to say "whoops, we f*cked up."</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Awkward video resurfaces of what Joe Biden does with his grandkids as media defends him denying Hunter's lovechild
+ - [https://www.louderwithcrowder.com/joe-biden-grandchildren](https://www.louderwithcrowder.com/joe-biden-grandchildren)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-12T11:30:31+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34316312&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>There is a four-year-old Arkansas girl being raised by a single mother who loves playing with her cousins, is learning to ride a bike, and one day wants to learn to hunt like her mom. She also has a deadbeat for a dad, and Joe Biden as her Paw Paw. Pappy Biden has <a href="https://www.louderwithcrowder.com/joe-biden-granddaughter" target="_blank">gone to great lengths to make sure no one in his regime acknowledges his granddaughter's existence</a> as Hunter is seen partying in the White House with his other kids.</p><p>Oh, and the girl knows her father is Hunter Biden and her paternal grandfather is the president, who she speaks about often. A four-year-old girl knows that her grandpa -- the freakin' PRESIDENT OF THE UNITED STATES -- wants nothing to do with her. That makes this resurfaced clip from the 2020 campaign all the more awkward. You'll always answer a call, Joe?</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/joebiden/status/1317966186907226113"></a>
+</blockquote>
+
+<p>This video was released by the Biden campaign <a href="https://www.louderwithcrowder.com/hunter-biden-twittter-gop-judiciary" target="_blank">three days after the Hunter Biden laptop story</a> (that they knew wasn't Russian disinformation). Joe knew of his seventh grandchild as an intern tweeted this on his behalf. But worse? They released of video of what a great grandfather Joe Biden was as part of his presidential campaign. This was to show how Joe Biden was a good person, contrasted with Donald Trump who was not.</p><p>And leave it to the usual suspects to defend Biden being a scumbag. The shrill harpies from "The View" had their fangs out, saying the GOP are the real villains for "weaponizing" Hunter. They also went so far as to call an OpEd writer from the New York Times "MAGA" for <a href="https://www.nytimes.com/2023/07/08/opinion/hunter-biden-child.html" target="_blank">writing that Joe looks like a jerk</a>.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/NickFondacaro/status/1678429048584773635"></a>
+</blockquote>
+
+<p>Then there is CNN. They went the "Republicans seize" route, while Dana Bash laments the ordeal damages "the brand and the kind of person that we all know and believe Joe Biden to be."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/NickFondacaro/status/1678481804796256256"></a>
+</blockquote>
+
+<p>Riiiiiiight. That "brand?" It was all media concocted bullplop. This is who Joe Biden has always been. <a href="https://redstate.com/bonchie/2022/08/25/banana-republic-doj-charges-two-over-ashley-biden-diary-confirms-its-disturbing-allegations-exist-n617789" target="_blank">Ask his daughter Ashley</a>. And while "what if it was Trump's kid" is implied during all media coverage of Hunter Biden, let's spell it out here.</p><p>Say it was Eric Trump who knocked up his assistant, refused child support, forbid her from using the Trump last name, had to get dragged to court, and Donald Trump denied the girl existed while throwing it in her face by playing with his other grandkids. This would be all CNN talked about, and every Republican would be dragged on camera to comment on family values.</p><p>We know how this story will end too. October 18th, 2024. A few weeks before Election Day. Biden meeting and having a tea party with this girl as a cheap political stunt as the media praises how it proves what a good man he is. </p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
