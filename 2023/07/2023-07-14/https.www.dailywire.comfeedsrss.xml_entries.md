@@ -1,5 +1,19 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Biden Administration Scores Victory Against Order Blocking Contact With Social Media Companies
+ - [https://www.dailywire.com/news/biden-administration-scores-victory-against-order-blocking-contact-with-social-media-companies](https://www.dailywire.com/news/biden-administration-scores-victory-against-order-blocking-contact-with-social-media-companies)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T23:35:23+00:00
+
+The Biden administration received a reprieve on Friday from a judge&#8217;s order blocking several government agencies and officials from contacting social media companies. A three-judge panel of the New Orleans-based U.S. Court of Appeals for the Fifth Circuit granted a temporary stay &#8220;until further orders&#8221; are given and called for expediting oral arguments in the ...
+
+## Ron DeSantis Makes Waves At Republican Presidential Forum In Iowa
+ - [https://www.dailywire.com/news/ron-desantis-makes-waves-at-republican-presidential-forum-in-iowa](https://www.dailywire.com/news/ron-desantis-makes-waves-at-republican-presidential-forum-in-iowa)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T23:20:31+00:00
+
+Florida Governor Ron DeSantis garnered strong positive reactions from a crowd at an event in Iowa on Friday who gathered to see six Republican presidential candidates sit down for interviews with Tucker Carlson. Steve Deace, who co-hosted the analysis segments from The Blaze during the event, said that the VIPs at the event walked away ...
+
 ## Ramaswamy Claims Feds Have ‘Back Pocket’ Maneuver In Biden Docs Case If He Wins GOP Nomination
  - [https://www.dailywire.com/news/ramaswamy-warns-of-back-pocket-manuever-in-biden-docs-case-if-he-wins-gop-nomination](https://www.dailywire.com/news/ramaswamy-warns-of-back-pocket-manuever-in-biden-docs-case-if-he-wins-gop-nomination)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

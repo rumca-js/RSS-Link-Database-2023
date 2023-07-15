@@ -1,5 +1,12 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Florida police shoot, kill suicidal knife-wielding woman who charged at them: Police
+ - [https://www.foxnews.com/us/florida-police-shoot-kill-suicidal-knife-wielding-woman-who-charged-at-them-police](https://www.foxnews.com/us/florida-police-shoot-kill-suicidal-knife-wielding-woman-who-charged-at-them-police)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T23:30:56+00:00
+
+Two Orlando, Florida police officers shot and killed a woman suffering from suicidal thoughts after she charged at them with two knives.
+
 ## Ohio man kidnaps girlfriend's infant daughter, kills her in car crash while evading police
  - [https://www.foxnews.com/us/ohio-man-kidnaps-girlfriends-infant-daughter-kills-her-car-crash-while-evading-police](https://www.foxnews.com/us/ohio-man-kidnaps-girlfriends-infant-daughter-kills-her-car-crash-while-evading-police)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

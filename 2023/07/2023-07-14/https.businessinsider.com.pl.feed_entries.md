@@ -1,5 +1,12 @@
 # Source:Business insider, URL:https://businessinsider.com.pl/.feed, language:pl-PL
 
+## Polska przełamała wielowiekową klątwę geografii. Zyski z naszego położenia mogą jeszcze wzrosnąć
+ - [https://businessinsider.com.pl/gospodarka/makroekonomia/polska-przelamala-wielowiekowa-klatwe-geografii-zyski-z-naszego-polozenia-moga/vp260tg](https://businessinsider.com.pl/gospodarka/makroekonomia/polska-przelamala-wielowiekowa-klatwe-geografii-zyski-z-naszego-polozenia-moga/vp260tg)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2023-07-14T18:35:46+00:00
+
+Znów jesteśmy w świecie, w którym geografia ma znaczenie. Kraje, które mają geograficzne szczęście, wygrają — mówi w rozmowie z BI Polska David Lubin, szef zespołu Emerging Markets Economics w Citi. Wśród państw, które zyskają na swoim położeniu, wymienia m.in. Polskę, przekonując, że wielowiekowe przekleństwo naszego położenia już od kilku dekad jest naszym atutem. Ekspert mówi także o skutkach porzucania dotychczasowego modelu globalizacji, nowym wcieleniu gospodarczego populizmu i nacjonalizmu, a także kluczowych problemach największej wschodzącej gospodarki świata.
+
 ## Pracownicy mogą otrzymywać wypłatę w towarach. Nowe prawo w tym kraju zaskakuje
  - [https://businessinsider.com.pl/praca/produkty-z-fabryki-zamiast-czesci-wyplaty-nowe-prawo-w-tym-kraju-zaskakuje/46sdxjv](https://businessinsider.com.pl/praca/produkty-z-fabryki-zamiast-czesci-wyplaty-nowe-prawo-w-tym-kraju-zaskakuje/46sdxjv)
  - RSS feed: https://businessinsider.com.pl/.feed
