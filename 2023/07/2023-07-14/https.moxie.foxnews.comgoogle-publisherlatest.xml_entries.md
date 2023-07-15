@@ -1,5 +1,54 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## ISIS supporter who planned mass shooting in Florida sentenced to 18 years: ‘Danger to the United States’
+ - [https://www.foxnews.com/us/isis-supporter-who-planned-mass-shooting-florida-sentenced-18-years-danger-united-states](https://www.foxnews.com/us/isis-supporter-who-planned-mass-shooting-florida-sentenced-18-years-danger-united-states)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T22:15:07+00:00
+
+Muhammed Momtaz Al-Azhari pleaded guilty to attempting to support ISIS earlier this year and was sentenced to 18 years and a lifetime of supervised release Thursday.
+
+## Cardinals' Kyler Murray bullish on team’s chances in 2023: 'The sky is the limit'
+ - [https://www.foxnews.com/sports/cardinals-kyler-murray-expresses-confidence-about-teams-outlook-the-sky-is-the-limit](https://www.foxnews.com/sports/cardinals-kyler-murray-expresses-confidence-about-teams-outlook-the-sky-is-the-limit)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T22:06:20+00:00
+
+The Arizona Cardinals revamped its football operations this offseason by bringing in a new coach, GM, and several new players. A confident and rehabbing Kyler Murray appears to be locked in.
+
+## Dan Crenshaw shreds Dem colleagues defending child sex change surgery: 'We are not the crazy ones'
+ - [https://www.foxnews.com/politics/dan-crenshaw-shreds-democrat-colleagues-defending-child-gender-surgery](https://www.foxnews.com/politics/dan-crenshaw-shreds-democrat-colleagues-defending-child-gender-surgery)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T21:54:10+00:00
+
+Republican Texas Congressman Dan Crenshaw went off on House Democrats during a hearing this week for defending gender transition surgery for minors.
+
+## Real Housewives star Dolores Catania admits 'it's not easy behind the scenes'
+ - [https://www.foxnews.com/entertainment/real-housewives-star-dolores-catania-admits-not-easy-behind-scenes](https://www.foxnews.com/entertainment/real-housewives-star-dolores-catania-admits-not-easy-behind-scenes)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T21:46:32+00:00
+
+&quot;Real Housewives of New Jersey&quot; star Dolores Catania reveals how she manages to stay friends with Teresa Giudice, as well as her brother and sister-in-law Joe and Melissa Gorga.
+
+## Austin Ekeler concerned about running back contracts, says RBs bring ‘more value’ to teams than backup WRs
+ - [https://www.foxnews.com/sports/chargers-austin-ekeler-raises-concerns-over-compensation-nfl-running-backs-receive](https://www.foxnews.com/sports/chargers-austin-ekeler-raises-concerns-over-compensation-nfl-running-backs-receive)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T21:43:54+00:00
+
+LA Chargers ball carrier Austin Ekeler had a candid conversation about his feelings as it relates to the current state of the NFL&apos;s running back market.
+
+## Kentucky basketball team practices at Drake's Toronto mansion during Canada stay
+ - [https://www.foxnews.com/sports/kentucky-basketball-team-practices-drakes-toronto-mansion-canada-stay](https://www.foxnews.com/sports/kentucky-basketball-team-practices-drakes-toronto-mansion-canada-stay)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T21:31:12+00:00
+
+Drake has been a huge supporter of the Kentucky Wildcats, so while they&apos;re in Canada and he&apos;s on tour, he welcomes to program to practice and hang out at his house.
+
+## Los Angeles gang members plead guilty in robbery death of off-duty police officer who was house-hunting
+ - [https://www.foxnews.com/us/los-angeles-gang-members-plead-guilty-robbery-death-off-duty-police-officer-house-hunting](https://www.foxnews.com/us/los-angeles-gang-members-plead-guilty-robbery-death-off-duty-police-officer-house-hunting)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T21:25:00+00:00
+
+Three gang members involved in the shooting death of an off-duty Los Angeles police officer have pleaded guilty to federal charges, the Justice Department said.
+
 ## JESSE WATTERS: Is Biden going to address the White House cocaine mystery?
  - [https://www.foxnews.com/media/jesse-watters-biden-going-address-white-house-cocaine-mystery](https://www.foxnews.com/media/jesse-watters-biden-going-address-white-house-cocaine-mystery)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

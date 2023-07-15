@@ -1,5 +1,12 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Ramaswamy Claims Feds Have ‘Back Pocket’ Maneuver In Biden Docs Case If He Wins GOP Nomination
+ - [https://www.dailywire.com/news/ramaswamy-warns-of-back-pocket-manuever-in-biden-docs-case-if-he-wins-gop-nomination](https://www.dailywire.com/news/ramaswamy-warns-of-back-pocket-manuever-in-biden-docs-case-if-he-wins-gop-nomination)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T21:27:17+00:00
+
+GOP presidential candidate Vivek Ramaswamy claimed on Friday that the &#8220;deep state&#8221; was holding the federal investigation into President Joe Biden&#8217;s handling of classified information in its &#8220;back pocket&#8221; in case he becomes the GOP nominee at which point Biden will be swapped out for a different candidate. Ramaswamy made the remarks at The Family ...
+
 ## In Or Out? A Fast-Food Fight Over Employee Masking Bans
  - [https://www.dailywire.com/news/in-or-out-a-fast-food-fight-over-employee-masking-bans](https://www.dailywire.com/news/in-or-out-a-fast-food-fight-over-employee-masking-bans)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

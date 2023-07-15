@@ -28,6 +28,13 @@ Diamond Ranch Academy, a facility for troubled teens in Hurricane, Utah, was ord
 
 Iowa Republican Gov. Kim Reynolds on Friday signed a six-week abortion ban into law at the conservative Family Leadership Summit.
 
+## In unrelenting heat, this small Arkansas town hasn’t had clean water for 3 weeks
+ - [https://www.nbcnews.com/news/nbcblk/unrelenting-heat-small-arkansas-town-hasnt-clean-water-3-weeks-rcna94085](https://www.nbcnews.com/news/nbcblk/unrelenting-heat-small-arkansas-town-hasnt-clean-water-3-weeks-rcna94085)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-07-14T19:53:49+00:00
+
+Helena-West Helena, a small town in east central Arkansas, is set to hit 98 degrees next week after several days of temperatures stretching into the 90s.
+
 ## Texas boy looking for friends goes viral on TikTok
  - [https://www.nbcnews.com/now/video/texas-boy-looking-for-friends-goes-viral-on-tiktok-188485701612](https://www.nbcnews.com/now/video/texas-boy-looking-for-friends-goes-viral-on-tiktok-188485701612)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech

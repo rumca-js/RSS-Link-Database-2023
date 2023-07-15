@@ -1,5 +1,12 @@
 # Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
+## Ex-public school pupil reveals steamy affair with 30-something Spanish teacher
+ - [https://www.dailymail.co.uk/femail/article-12300693/Ex-public-school-pupil-reveals-steamy-affair-30-Spanish-teacher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12300693/Ex-public-school-pupil-reveals-steamy-affair-30-Spanish-teacher.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:52:38+00:00
+
+It's the year's most startling book - an ex-public school pupil's confession of how he had an affair with his beautiful 30-something Spanish teacher when he was just 17.
+
 ## Four children miraculously survived 40 days lost Colombian jungle plane crash RELEASED from hospital
  - [https://www.dailymail.co.uk/news/article-12301083/Four-children-miraculously-survived-40-days-lost-Colombian-jungle-plane-crash-RELEASED-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301083/Four-children-miraculously-survived-40-days-lost-Colombian-jungle-plane-crash-RELEASED-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -146,6 +153,13 @@ Nikki Haley called the closure of the White House cocaine probe a 'cover-up' and
  - date published: 2023-07-14T21:36:32+00:00
 
 REBECCA HARDY: You can say what you like about Johnny Mercer's wife Felicity  - but you can't knock her sense of humour.
+
+## BEL MOONEY: Why do I feel so bitter caring for my frail husband?
+ - [https://www.dailymail.co.uk/femail/article-12300517/BEL-MOONEY-feel-bitter-caring-frail-husband.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12300517/BEL-MOONEY-feel-bitter-caring-frail-husband.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T21:31:18+00:00
+
+This week, Bel advises a reader who is struggling to look after their husband.
 
 ## Seattle Times fires columnist after very first column is published over bizarre Hitler tweet
  - [https://www.dailymail.co.uk/news/article-12300681/Seattle-Times-fires-columnist-column-published-bizarre-Hitler-tweet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12300681/Seattle-Times-fires-columnist-column-published-bizarre-Hitler-tweet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

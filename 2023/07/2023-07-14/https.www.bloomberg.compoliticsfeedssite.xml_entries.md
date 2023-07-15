@@ -1,5 +1,12 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## Las Vegas Temperature Could Break 117F Record This Weekend
+ - [https://www.bloomberg.com/en/news/thp/2023-07-14/heat-wave-could-break-vegas-record-as-visitors-stay-inside-chilled-casinos-and-er-doctors-are-busy](https://www.bloomberg.com/en/news/thp/2023-07-14/heat-wave-could-break-vegas-record-as-visitors-stay-inside-chilled-casinos-and-er-doctors-are-busy)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-07-14T23:19:25+00:00
+
+LAS VEGAS (AP) &mdash; Visitors to Las Vegas on Friday stepped out momentarily to snap photos and were hit by blast-furnace air. But most will spend their vacations in a vastly different climate &mdash; at casinos where the chilly air conditioning might require a light sweater.
+
 ## FTC Loses Appeal Bid to Block Microsoft-Activision Deal
  - [https://www.bloomberg.com/news/articles/2023-07-14/ftc-loses-appeals-court-bid-to-pause-microsoft-activision-deal](https://www.bloomberg.com/news/articles/2023-07-14/ftc-loses-appeals-court-bid-to-pause-microsoft-activision-deal)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
