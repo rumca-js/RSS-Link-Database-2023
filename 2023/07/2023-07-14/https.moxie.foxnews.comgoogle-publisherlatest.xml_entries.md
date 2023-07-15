@@ -1,5 +1,19 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Ohio man kidnaps girlfriend's infant daughter, kills her in car crash while evading police
+ - [https://www.foxnews.com/us/ohio-man-kidnaps-girlfriends-infant-daughter-kills-her-car-crash-while-evading-police](https://www.foxnews.com/us/ohio-man-kidnaps-girlfriends-infant-daughter-kills-her-car-crash-while-evading-police)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T22:22:21+00:00
+
+Authorities in Ohio say a man abducted his girlfriend&apos;s 7-month-old child and crashed his Camaro into a house while fleeing from police, killing the infant.
+
+## SEAN HANNITY: The walls are closing in on the Biden White House
+ - [https://www.foxnews.com/media/sean-hannity-walls-closing-in-biden-white-house](https://www.foxnews.com/media/sean-hannity-walls-closing-in-biden-white-house)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T22:20:03+00:00
+
+Fox News host Sean Hannity explains why the Democratic Party is turning on President Biden on Friday&apos;s &quot;Hannity.&quot;
+
 ## ISIS supporter who planned mass shooting in Florida sentenced to 18 years: ‘Danger to the United States’
  - [https://www.foxnews.com/us/isis-supporter-who-planned-mass-shooting-florida-sentenced-18-years-danger-united-states](https://www.foxnews.com/us/isis-supporter-who-planned-mass-shooting-florida-sentenced-18-years-danger-united-states)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
