@@ -14,6 +14,13 @@
 
 <p>Organisers and politicians are urging New Zealanders to buy tickets amid the countdown to the tournament </p><p>The pitches are pristine. The grass is healthy, mowed into perfect bands and at the requisite 24mm. Banners line the streets leading to the stadiums while super-size images of players in action are plastered over bus stops.</p><p>“It’s starting to get real now,” says New Zealand midfielder Malia Steinmetz as she references a poster with her face on it.</p> <a href="https://www.theguardian.com/football/2023/jul/14/womens-world-cup-new-zealand-battles-low-enthusiasm-and-slow-ticket-sales-with-kick-off-days-away">Continue reading...</a>
 
+## In pictures: in the islands of Indonesia, the tradition of Sasi Laut reaps the rewards of sustainability
+ - [https://www.theguardian.com/world/gallery/2023/jul/15/in-pictures-in-the-islands-of-indonesia-the-tradition-of-sasi-laut-reaps-the-rewards-of-sustainability](https://www.theguardian.com/world/gallery/2023/jul/15/in-pictures-in-the-islands-of-indonesia-the-tradition-of-sasi-laut-reaps-the-rewards-of-sustainability)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-07-14T15:00:05+00:00
+
+<p>Sasi Laut is a traditional ceremony performed by local communities in Raja Ampat on the Bird’s Head peninsula in the newly formed Indonesian province of Southwest Papua. This ceremony is performed at the start or the end the sea harvest season. The people in Raja Ampat believe that when they go out to sea, their success depends on the Sasi ceremony. The practice sustainably provides significant benefits to the preservation of marine life in Raja Ampat. By closing off a chosen area until a specified time, Sasi Laut ensures an abundant harvest in highly sought-after catch such as lobster and sea cucumber</p> <a href="https://www.theguardian.com/world/gallery/2023/jul/15/in-pictures-in-the-islands-of-indonesia-the-tradition-of-sasi-laut-reaps-the-rewards-of-sustainability">Continue reading...</a>
+
 ## ‘No way out’: how video games use tricks from gambling to attract big spenders
  - [https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
  - RSS feed: https://www.theguardian.com/international/rss
