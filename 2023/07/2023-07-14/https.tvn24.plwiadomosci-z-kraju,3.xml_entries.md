@@ -1,5 +1,13 @@
 # Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
+## Pogoda na dziś - sobota 15.07. Nawet 36 stopni w cieniu
+ - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-1507-nawet-36-stopni-w-cieniu-7224803?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-1507-nawet-36-stopni-w-cieniu-7224803?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2023-07-15T00:00:00+00:00
+
+<img alt="Pogoda na dziś - sobota 15.07. Nawet 36 stopni w cieniu" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-sxhm93-upal-goraco-slonce-7224827/alternates/LANDSCAPE_1280" />
+    Sobota będzie słoneczna i w niemal całej Polsce upalna. Temperatura w cieniu osiągnie od 27 do 36 stopni Celsjusza. Warunki biometeo w większości kraju będą niekorzystne.
+
 ## Państwa zadłużają się na potęgę. ONZ alarmuje, że hamuje to rozwój biedniejszych krajów
  - [https://fakty.tvn24.pl/fakty-o-swiecie/panstwa-zadluzaja-sie-na-potege-onz-alarmuje-ze-hamuje-to-rozwoj-biedniejszych-krajow-7224808?source=rss](https://fakty.tvn24.pl/fakty-o-swiecie/panstwa-zadluzaja-sie-na-potege-onz-alarmuje-ze-hamuje-to-rozwoj-biedniejszych-krajow-7224808?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml

@@ -1,5 +1,19 @@
 # Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
+## FTC Loses Latest Bid to Halt Microsoft-Activision Merger
+ - [https://www.wsj.com/articles/ftc-loses-latest-bid-to-halt-microsoft-activision-merger-19fe19ed](https://www.wsj.com/articles/ftc-loses-latest-bid-to-halt-microsoft-activision-merger-19fe19ed)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2023-07-14T23:59:00+00:00
+
+An appeals court ruling clears a path for the $75 billion acquisition to close while litigation continues.
+
+## Corrections & Amplifications
+ - [https://www.wsj.com/articles/corrections-amplifications-94b920d6](https://www.wsj.com/articles/corrections-amplifications-94b920d6)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2023-07-14T23:07:00+00:00
+
+Corrections &amp; Amplifications for the edition of July 15-16, 2023.
+
 ## Tourists Are Overwhelming European Hot Spots
  - [https://www.wsj.com/articles/tourists-are-overwhelming-european-hot-spots-ee5555b6](https://www.wsj.com/articles/tourists-are-overwhelming-european-hot-spots-ee5555b6)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml

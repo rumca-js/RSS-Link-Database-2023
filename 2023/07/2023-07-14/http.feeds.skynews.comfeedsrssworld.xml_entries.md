@@ -35,6 +35,13 @@ French President Emmanuel Macron gave Indian Prime Minister Narendra Modi - his 
 
 India has launched a spacecraft to the far side of the moon four years after a failed effort to land a rover softly on the lunar surface.
 
+## Deadly cat virus in Cyprus could be 'potentially catastrophic for UK'
+ - [https://news.sky.com/story/deadly-cat-virus-in-cyprus-could-be-potentially-catastrophic-for-uk-12920884](https://news.sky.com/story/deadly-cat-virus-in-cyprus-could-be-potentially-catastrophic-for-uk-12920884)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-07-14T10:31:00+00:00
+
+A deadly outbreak of feline coronavirus that has killed hundreds of thousands of cats in Cyprus could be "catastrophic" if it were to reach the UK, an expert has told Sky News.
+
 ## Ukraine conducts 'special operation' using speed boats and drones on Dnipro island
  - [https://news.sky.com/story/ukraine-conducts-special-operation-using-speed-boats-and-drones-on-dnipro-island-12920878](https://news.sky.com/story/ukraine-conducts-special-operation-using-speed-boats-and-drones-on-dnipro-island-12920878)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml

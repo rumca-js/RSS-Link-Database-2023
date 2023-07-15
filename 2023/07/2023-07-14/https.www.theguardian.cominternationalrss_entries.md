@@ -7,6 +7,13 @@
 
 <p>Charging documents released on Friday show how investigators have tied architect Rex Heuermann to 11 sets of human remains </p><p>A New York architect, who allegedly made taunting calls to the relative of a victim police investigators suspected he murdered, is in custody facing accusations that he is the so-called <a href="https://www.theguardian.com/us-news/2023/jul/14/long-island-serial-suspect-arrest">Long Island serial killer</a>.</p><p>Rex Heuermann’s arrest and indictment on Friday, on six charges of murder, marks a key moment in a case that has captivated the public and confounded authorities for more than a decade.</p> <a href="https://www.theguardian.com/us-news/2023/jul/14/new-york-long-island-serial-killer-suspect-rex-heuermann">Continue reading...</a>
 
+## Women’s World Cup: New Zealand battles low enthusiasm and slow ticket sales with kick-off days away
+ - [https://www.theguardian.com/football/2023/jul/14/womens-world-cup-new-zealand-battles-low-enthusiasm-and-slow-ticket-sales-with-kick-off-days-away](https://www.theguardian.com/football/2023/jul/14/womens-world-cup-new-zealand-battles-low-enthusiasm-and-slow-ticket-sales-with-kick-off-days-away)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-07-14T20:00:11+00:00
+
+<p>Organisers and politicians are urging New Zealanders to buy tickets amid the countdown to the tournament </p><p>The pitches are pristine. The grass is healthy, mowed into perfect bands and at the requisite 24mm. Banners line the streets leading to the stadiums while super-size images of players in action are plastered over bus stops.</p><p>“It’s starting to get real now,” says New Zealand midfielder Malia Steinmetz as she references a poster with her face on it.</p> <a href="https://www.theguardian.com/football/2023/jul/14/womens-world-cup-new-zealand-battles-low-enthusiasm-and-slow-ticket-sales-with-kick-off-days-away">Continue reading...</a>
+
 ## ‘No way out’: how video games use tricks from gambling to attract big spenders
  - [https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
  - RSS feed: https://www.theguardian.com/international/rss

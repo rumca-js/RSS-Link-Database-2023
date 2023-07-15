@@ -1,5 +1,15 @@
 # Source:Rotten Tomatoes Trailers, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCi8e0iOVk1fEOogdfu4YgfA, language:en-US
 
+## Barbie Movie Clip - Weird Barbie
+ - [https://www.youtube.com/watch?v=OpMVlSHCNqU](https://www.youtube.com/watch?v=OpMVlSHCNqU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCi8e0iOVk1fEOogdfu4YgfA
+ - date published: 2023-07-14T23:20:15+00:00
+
+Check out the new Clip for Barbie starring Kate McKinnon!
+
+#shorts 
+► Learn More: https://www.rottentomatoes.com/m/barbie?cmp=RTYT_YouTube_Desc
+
 ## Asking Strangers if They're Seeing Barbie or Oppenheimer
  - [https://www.youtube.com/watch?v=adpPp9-zswg](https://www.youtube.com/watch?v=adpPp9-zswg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCi8e0iOVk1fEOogdfu4YgfA

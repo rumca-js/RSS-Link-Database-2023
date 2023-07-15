@@ -1,5 +1,43 @@
 # Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
 
+## Court denies FTC’s last-ditch attempt to stop Microsoft buying Activision Blizzard
+ - [https://www.theverge.com/2023/7/14/23794707/microsoft-activision-blizzard-ftc-acquisition-appeal-loses](https://www.theverge.com/2023/7/14/23794707/microsoft-activision-blizzard-ftc-acquisition-appeal-loses)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-07-14T23:30:02+00:00
+
+<figure>
+      <img alt="Photo featuring the Activision logo" src="https://cdn.vox-cdn.com/thumbor/wI4zQ7o1kpkQYidHpYKI5oTOAdk=/0x0:8660x5773/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72453994/1255072410.0.jpg" />
+        <figcaption>Image: Getty Images</figcaption>
+    </figure>
+
+  <p id="VY1R3R">The Federal Trade Commission (FTC) has lost what may be its final attempt to block Microsoft from buying Activision Blizzard. It’s the second loss for the FTC after a US federal judge <a href="https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win">denied its request for a preliminary injunction</a> earlier this week to block Microsoft from acquiring Activision Blizzard until the conclusion of a separate FTC administrative case.</p>
+<p id="LOeyrp">The FTC appealed the decision by Judge Jacqueline Scott Corley, and now the Ninth Circuit Court of Appeals has <a href="https://storage.courtlistener.com/recap/gov.uscourts.ca9.344453/gov.uscourts.ca9.344453.25.0.pdf">denied its request</a> for emergency relief to prevent Microsoft from closing the deal until the result of the FTC’s appeal is complete. </p>
+  <figure class="e-image">
+        
+      <cite>Image: US Courts</cite>
+      <figcaption><em>The Ninth Circuit Court of Appeals filing.</em></figcaption>
+  </figure>
+<p id="c6JbVK">Microsoft welcomed the denial late on Friday. “We...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/7/14/23794707/microsoft-activision-blizzard-ftc-acquisition-appeal-loses">Continue reading&hellip;</a>
+  </p>
+
+## The Biden administration can talk to social media sites again — for now
+ - [https://www.theverge.com/2023/7/14/23795559/biden-white-house-social-media-ban-appeal](https://www.theverge.com/2023/7/14/23795559/biden-white-house-social-media-ban-appeal)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-07-14T23:19:59+00:00
+
+<figure>
+      <img alt="President Biden Departs White House For Camp David" src="https://cdn.vox-cdn.com/thumbor/ZGlxaiP0aiLdhtItSteJUyh4qlU=/0x0:6500x4333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72453986/1532787264.0.jpg" />
+    </figure>
+
+  <p id="i7JNEZ">Ten days after a federal judge in Missouri <a href="https://www.theverge.com/2023/7/4/23783822/free-speech-ruling-missouri-v-biden-dhs-fbi-cisa">barred the Biden administration from contacting tech companies about posts</a> protected by the First Amendment, the White House is temporarily no longer under that ban. Today, the Fifth Circuit Court of Appeals paused that judge’s order — at least until the higher court has time to weigh in more fully itself.</p>
+<p id="wmeaEk">Originally, Judge Terry Doughty suggested that the Biden administration may be suppressing “millions of protected free speech postings by American citizens,” writing that the government had already “used its power to silence the opposition” by suppressing speech opposed to covid-19 vaccines and the validity of the 2020 election, among other things. </p>
+<p id="4MHMWb">(It’s true that, <a href="https://www.theverge.com/2023/6/7/23752407/social-networks-stop-banning-2020-election-lies-youtube-elon-musk">for a time</a>, social networks...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/7/14/23795559/biden-white-house-social-media-ban-appeal">Continue reading&hellip;</a>
+  </p>
+
 ## Microsoft’s Xbox Game Pass Friends & Family plan ends in August
  - [https://www.theverge.com/2023/7/14/23795351/microsoft-xbox-game-pass-friends-and-family-plan-preview-end](https://www.theverge.com/2023/7/14/23795351/microsoft-xbox-game-pass-friends-and-family-plan-preview-end)
  - RSS feed: https://www.theverge.com/rss/index.xml

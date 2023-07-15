@@ -1,5 +1,19 @@
 # Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
+## Xenonauts 2 is a comprehensive but overly safe tribute to classic X-COM
+ - [https://www.pcgamer.com/xenonauts-2-is-a-comprehensive-but-overly-safe-tribute-to-classic-x-com](https://www.pcgamer.com/xenonauts-2-is-a-comprehensive-but-overly-safe-tribute-to-classic-x-com)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-07-14T23:33:21+00:00
+
+Expect brutal combat and mounting panic as you save the world from aliens again, but don't expect much that's new.
+
+## While Halo Infinite struggles for a win, Master Chief Collection is the gift that keeps on giving
+ - [https://www.pcgamer.com/while-halo-infinite-struggles-for-a-win-master-chief-collection-is-the-gift-that-keeps-on-giving](https://www.pcgamer.com/while-halo-infinite-struggles-for-a-win-master-chief-collection-is-the-gift-that-keeps-on-giving)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-07-14T23:13:15+00:00
+
+For longtime fans, the most interesting Halo action is in the past.
+
 ## After more than two years of work, Cyberpunk 2077 finally reaches a 'very positive' user rating on Steam
  - [https://www.pcgamer.com/after-more-than-two-years-of-work-cyberpunk-2077-finally-reaches-a-very-positive-user-rating-on-steam](https://www.pcgamer.com/after-more-than-two-years-of-work-cyberpunk-2077-finally-reaches-a-very-positive-user-rating-on-steam)
  - RSS feed: http://www.pcgamer.com/rss

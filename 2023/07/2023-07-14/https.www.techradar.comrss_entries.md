@@ -1,5 +1,19 @@
 # Source:Techradar, URL:https://www.techradar.com/rss, language:en-US
 
+## Quordle today - hints and answers for Saturday, July 15 (game #537)
+ - [https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-15-july-2023](https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-15-july-2023)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-07-14T23:05:00+00:00
+
+Looking for Quordle clues? We can help. Plus get the answers to Quordle today and past solutions.
+
+## Acer's first AMD graphics card, the Predator BiFrost RX 7600, looks promising
+ - [https://www.techradar.com/computing/gpu/acers-first-amd-graphics-card-the-predator-bifrost-rx-7600-looks-promising](https://www.techradar.com/computing/gpu/acers-first-amd-graphics-card-the-predator-bifrost-rx-7600-looks-promising)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-07-14T23:03:52+00:00
+
+Acer revealed its second foray into graphics cards with its first AMD GPU, the Predator BiFrost RX 7600, and it looks great.
+
 ## Xbox's Major Nelson is leaving Microsoft after 22 years
  - [https://www.techradar.com/gaming/xboxs-major-nelson-is-leaving-microsoft-after-22-years](https://www.techradar.com/gaming/xboxs-major-nelson-is-leaving-microsoft-after-22-years)
  - RSS feed: https://www.techradar.com/rss

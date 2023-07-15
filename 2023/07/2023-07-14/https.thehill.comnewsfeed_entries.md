@@ -1,5 +1,26 @@
 # Source:The Hill, URL:https://thehill.com/news/feed/, language:en-US
 
+## George Will: Trump and DeSantis will be GOP primary losers
+ - [https://thehill.com/elections/4098474-george-will-trump-and-desantis-will-be-gop-primary-losers/](https://thehill.com/elections/4098474-george-will-trump-and-desantis-will-be-gop-primary-losers/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-07-14T23:19:12+00:00
+
+Conservative commentator George Will criticized 2024 GOP primary favorites former President Trump and Florida Gov. Ron DeSantis, in a column Friday, saying that both candidates will come out of the GOP primary weaker. “The 2024 Republican nomination question was supposed to be: Could anyone harpoon the Great Orange Whale? Who knew that he would harpoon...
+
+## DeSantis on 6-week abortion ban: 'I had a lot of supporters who were averse to me on this'
+ - [https://thehill.com/homenews/campaign/4098662-desantis-on-six-week-ban-i-had-a-lot-of-supporters-who-were-averse-to-me-on-this/](https://thehill.com/homenews/campaign/4098662-desantis-on-six-week-ban-i-had-a-lot-of-supporters-who-were-averse-to-me-on-this/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-07-14T23:04:43+00:00
+
+Florida Gov. Ron DeSantis (R) acknowledged on Friday that he "had a lot of supporters who were averse to me" on the six-week abortion ban he signed into law earlier this year. "As President, I will be somebody who will use the bully pulpit to support governors like [Iowa Gov.] Kim Reynolds when she's got...
+
+## Updated requirements in FBI headquarters search could give Maryland a boost
+ - [https://thehill.com/homenews/administration/4098397-fbi-headquarters-requirements-updated/](https://thehill.com/homenews/administration/4098397-fbi-headquarters-requirements-updated/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-07-14T22:57:17+00:00
+
+Updated requirements for the location that will house the FBI's new headquarters that prioritize cost to taxpayers and the social impact could provide a boost to Maryland's chances of being chosen. Following consultations with Virginia and Maryland delegations, The General Services Administration (GSA) announced that while the core elements of the site selection plan remain...
+
 ## Thousands qualify for Biden student debt forgiveness
  - [https://thehill.com/newsletters/business-economy/4098632-thousands-qualify-for-biden-student-debt-forgiveness/](https://thehill.com/newsletters/business-economy/4098632-thousands-qualify-for-biden-student-debt-forgiveness/)
  - RSS feed: https://thehill.com/news/feed/
