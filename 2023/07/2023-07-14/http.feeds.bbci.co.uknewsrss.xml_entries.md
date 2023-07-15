@@ -14,6 +14,13 @@ Last year's summer season was marked by widespread travel disruption. Will this 
 
 Ynon Kreiz, CEO of toymaker Mattel, talks about the future of the Barbie brand.
 
+## The Papers: Inheritance tax 'plans' and Europe's heat warning
+ - [https://www.bbc.co.uk/news/blogs-the-papers-66208883?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-66208883?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T23:30:07+00:00
+
+A mix of stories on Saturday's front pages include Europe's intense hot weather and trans pupil guidance.
+
 ## Week in pictures: 8-14 July 2023
  - [https://www.bbc.co.uk/news/in-pictures-66199570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-66199570?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -132,6 +139,13 @@ The industry's biggest shutdown since 1960 has already impacted major films and 
  - date published: 2023-07-14T18:07:52+00:00
 
 Watch as world number one Carlos Alcaraz ends match in style against Daniil Medvedev with a crosscourt, passing forehand winner on the run at Wimbledon.
+
+## NI officers told not to wear police uniforms at Pride
+ - [https://www.bbc.co.uk/news/uk-northern-ireland-66201072?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-northern-ireland-66201072?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T18:00:41+00:00
+
+ACC Bobby Singleton says he understands some staff will be disappointed by the move.
 
 ## Christopher Nolan: After Oppenheimer, no more films during strike action
  - [https://www.bbc.co.uk/news/entertainment-arts-66191705?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66191705?at_medium=RSS&at_campaign=KARANGA)

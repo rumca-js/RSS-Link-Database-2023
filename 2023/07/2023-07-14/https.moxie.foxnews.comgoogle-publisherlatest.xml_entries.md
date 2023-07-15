@@ -1,5 +1,40 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## JESSE WATTERS: Is Biden going to address the White House cocaine mystery?
+ - [https://www.foxnews.com/media/jesse-watters-biden-going-address-white-house-cocaine-mystery](https://www.foxnews.com/media/jesse-watters-biden-going-address-white-house-cocaine-mystery)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T20:59:36+00:00
+
+Fox News host Jesse Watters calls out the investigation into the White House cocaine discovery on Friday&apos;s &quot;Jesse Watters Primetime.&quot;
+
+## Joe Jonas reveals he once had to do a 'mid-wardrobe s--- change' during concert: 'That's just real life'
+ - [https://www.foxnews.com/entertainment/joe-jonas-reveals-he-once-had-do-mid-wardrobe-s-change-during-concert](https://www.foxnews.com/entertainment/joe-jonas-reveals-he-once-had-do-mid-wardrobe-s-change-during-concert)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T20:51:23+00:00
+
+Joe Jonas said Friday that he pooped himself on stage once around four years ago, adding that it isn&apos;t an uncommon issue for performers.
+
+## New live-action 'Snow White' dumps seven dwarves for seven multi-racial, mixed-gender 'magical creatures'
+ - [https://www.foxnews.com/media/new-live-action-snow-white-dumps-seven-dwarves-seven-multi-racial-mixed-gender-magical-creatures](https://www.foxnews.com/media/new-live-action-snow-white-dumps-seven-dwarves-seven-multi-racial-mixed-gender-magical-creatures)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T20:30:43+00:00
+
+Photos from the set of Disney&apos;s live action version of &quot;Snow White&quot; reveal that the company has replaced the dwarves with &quot;magical creatures&quot; of differing races, genders and sizes.
+
+## VP Harris appears to commit another gaffe in climate change speech
+ - [https://www.foxnews.com/politics/vp-harris-appears-commit-another-gaffe-climate-change-speech](https://www.foxnews.com/politics/vp-harris-appears-commit-another-gaffe-climate-change-speech)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T20:25:44+00:00
+
+Vice President Kamala Harris committed yet another gaffe this week, appearing to mistakenly call for a reduction in population in order to provide cleaner air and drinking water.
+
+## Frontier Airlines kicks 2 women off Las Vegas-bound plane following profanity-laden fight, forced to divert
+ - [https://www.foxnews.com/us/frontier-airlines-kicks-2-women-off-las-vegas-bound-plane-following-profanity-laden-fight-forced-divert](https://www.foxnews.com/us/frontier-airlines-kicks-2-women-off-las-vegas-bound-plane-following-profanity-laden-fight-forced-divert)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T20:25:14+00:00
+
+Two women were captured screaming at each other during a 30,000 feet brawl on a Frontier Airlines flight. The plane was diverted to Denver, Colorado, where the passengers were arrested.
+
 ## Super Bowl champion Malik Jackson announces retirement: 'I think I just did enough'
  - [https://www.foxnews.com/sports/super-bowl-champion-malik-jackson-announces-retirement-i-think-i-just-did-enough](https://www.foxnews.com/sports/super-bowl-champion-malik-jackson-announces-retirement-i-think-i-just-did-enough)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

@@ -42,6 +42,13 @@ A Texas boy knocked on his neighbor's door asking for friends after peers nearby
 
 The suspect in custody Friday in connection with a string of long-unsolved slayings of women on Long Island, New York, lived in a cozy South Shore suburb not far from the beach highway where human remains were first found more than a decade ago.
 
+## Why the Secret Service closed its investigation of cocaine found at the White House without conducting interviews
+ - [https://www.nbcnews.com/politics/white-house/secret-service-closed-investigation-cocaine-white-house-no-interviews-rcna93938](https://www.nbcnews.com/politics/white-house/secret-service-closed-investigation-cocaine-white-house-no-interviews-rcna93938)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-07-14T18:43:28+00:00
+
+The Secret Service said it had closed an investigation of who left a small packet of cocaine in the White House without finding a culprit or conducting interviews.
+
 ## Actors vs. AI: Strike brings focus to emerging use of advanced tech
  - [https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191](https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
@@ -118,6 +125,13 @@ What comes up must come down — at least in the case of user engagement on Thre
  - date published: 2023-07-14T13:00:03+00:00
 
 Eighteen months after Facebook banned communities connected with the “Boogaloo” anti-government movement, the group’s extremist ideas were back, research found.
+
+## Korean corn dogs are, frankly, a hit from N.Y. to Kansas
+ - [https://www.nbcnews.com/news/asian-america/korean-corn-dogs-are-frankly-hit-ny-kansas-rcna93669](https://www.nbcnews.com/news/asian-america/korean-corn-dogs-are-frankly-hit-ny-kansas-rcna93669)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-07-14T12:30:40+00:00
+
+Buoyed by the growing popularity of Korean culture — K-pop, K-dramas, K-beauty and K-food — nicknamed the Korean wave or “Hallyu,” Korean corn dogs rode a wave of popularity with influencers and trend-chasing diners.
 
 ## Where is Wagner? Putin and the Pentagon shed light on mercenary group’s fate
  - [https://www.nbcnews.com/news/world/russia-ukraine-putin-pentagon-wagner-mercenary-prigozhin-rcna94223](https://www.nbcnews.com/news/world/russia-ukraine-putin-pentagon-wagner-mercenary-prigozhin-rcna94223)

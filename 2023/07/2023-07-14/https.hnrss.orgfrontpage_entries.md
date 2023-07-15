@@ -1,5 +1,25 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## 2,500 continuous runtime hours on a 4.77Mhz DOS web server
+ - [http://brutmanlabs.org](http://brutmanlabs.org)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-07-14T23:51:51+00:00
+
+<p>Article URL: <a href="http://brutmanlabs.org">http://brutmanlabs.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36731566">https://news.ycombinator.com/item?id=36731566</a></p>
+<p>Points: 8</p>
+<p># Comments: 5</p>
+
+## Lies, damned lies: debunking Cloudflare’s recent performance tests
+ - [https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests](https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-07-14T23:44:11+00:00
+
+<p>Article URL: <a href="https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests">https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36731490">https://news.ycombinator.com/item?id=36731490</a></p>
+<p>Points: 104</p>
+<p># Comments: 19</p>
+
 ## Fudge: Reverse Tetris
  - [https://vividfax.itch.io/fudge](https://vividfax.itch.io/fudge)
  - RSS feed: https://hnrss.org/frontpage

@@ -1,5 +1,12 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## In Or Out? A Fast-Food Fight Over Employee Masking Bans
+ - [https://www.dailywire.com/news/in-or-out-a-fast-food-fight-over-employee-masking-bans](https://www.dailywire.com/news/in-or-out-a-fast-food-fight-over-employee-masking-bans)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T20:46:39+00:00
+
+Twitter users shared a variety of opinions on Friday about fast-food restaurant employees being told not to wear masks roughly months after the federal COVID-19 public health emergency came to an end. At the center of the debate was an apparent flyer sent out to In-N-Out Burger locations outside the chain&#8217;s home state of California, ...
+
 ## Crime Is Down In This California City. The Police Chief Says More Cops Are To Thank.
  - [https://www.dailywire.com/news/crime-is-down-in-this-california-city-the-police-chief-says-more-cops-are-to-thank](https://www.dailywire.com/news/crime-is-down-in-this-california-city-the-police-chief-says-more-cops-are-to-thank)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
