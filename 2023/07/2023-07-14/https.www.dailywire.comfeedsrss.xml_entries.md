@@ -1,0 +1,156 @@
+# Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
+
+## Iowa Governor Signs Six-Week Abortion Ban
+ - [https://www.dailywire.com/news/iowa-governor-signs-six-week-abortion-ban](https://www.dailywire.com/news/iowa-governor-signs-six-week-abortion-ban)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T18:05:57+00:00
+
+Iowa Governor Kim Reynolds signed a six-week abortion ban for her state into law Friday afternoon. “This week, in a rare and historic special session, the Iowa legislature voted for a second time to reject the inhumanity of abortion and pass the fetal heartbeat law,” Reynolds, a Republican, said ahead of signing the bill at ...
+
+## We’re Not Corrupt, We’re Incompetent!: White House Cocaine Cold Case Is Laughable
+ - [https://www.dailywire.com/news/were-not-corrupt-were-incompetent-white-house-cocaine-cold-case-is-laughable](https://www.dailywire.com/news/were-not-corrupt-were-incompetent-white-house-cocaine-cold-case-is-laughable)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T17:32:14+00:00
+
+During a scandal, it&#8217;s never a good look when an organization&#8217;s defense can be summarized as, &#8220;We&#8217;re not corrupt, we&#8217;re incompetent!&#8221; Yet, that&#8217;s exactly where the Secret Service finds itself after concluding its cocaine investigation that yielded zero leads. Somehow, in &#8220;the most secure building in the entire world,&#8221; with an annual budget of about ...
+
+## Band Of Car Burglars Roam California Neighborhood At Night
+ - [https://www.dailywire.com/news/band-of-car-burglars-roam-california-neighborhood-at-night](https://www.dailywire.com/news/band-of-car-burglars-roam-california-neighborhood-at-night)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T17:02:09+00:00
+
+A large group of car burglars were caught roaming the streets of a residential California neighborhood in the middle of the night earlier this month. The group of about 10 people prowled through Antioch, California, in the wee hours of July 6, according to one resident who said he woke up and saw the group ...
+
+## Drag Queens Debate Matt Walsh’s Famous Query, ‘What Is A Woman?’ On Tim Pool’s Show
+ - [https://www.dailywire.com/news/drag-queens-debate-matt-walshs-famous-query-what-is-a-woman-on-tim-pools-show](https://www.dailywire.com/news/drag-queens-debate-matt-walshs-famous-query-what-is-a-woman-on-tim-pools-show)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T16:33:05+00:00
+
+A pair of drag performers debated the definition of woman and whether drag queen story hours at public libraries are appropriate for kids Friday in the latest episode of Tim Pool&#8217;s &#8220;Culture War&#8221; podcast. Maebe A. Girl, a transgender-identifying male who in 2019 became the nation&#8217;s first drag queen elected to a public office, defended drag ...
+
+## House Passes Military Spending Bill With Conservative Amendments
+ - [https://www.dailywire.com/news/house-passes-military-spending-bill-with-conservative-amendments](https://www.dailywire.com/news/house-passes-military-spending-bill-with-conservative-amendments)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T16:27:47+00:00
+
+The GOP-led House passed the annual National Defense Authorization Act (NDAA) on Thursday with key conservative provisions that face long odds in the Democrat-controlled Senate. The bill passed mostly along partisan lines in a 219-210 vote, which included amendments that prohibited funding Pentagon funding for travel for women seeking abortions and paying for transgender procedures ...
+
+## GOP Lawmakers Smack Down Reporter Asking About Transgender Surgery And Battle Readiness
+ - [https://www.dailywire.com/news/gop-lawmakers-smack-down-reporter-asking-about-transgender-surgery-and-battle-readiness](https://www.dailywire.com/news/gop-lawmakers-smack-down-reporter-asking-about-transgender-surgery-and-battle-readiness)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T15:52:26+00:00
+
+Four Republican House lawmakers responded forcefully on Friday to a reporter who asked how transgender surgeries for members of the U.S. military would affect battle readiness. The lawmakers gave a press briefing about the annual Defense Department budget, which includes amendments blocking the military for paying for abortion-related expenses as well as transgender hormone treatments and ...
+
+## Mike Pence And Tucker Carlson Clash In Heated Interview
+ - [https://www.dailywire.com/news/mike-pence-and-tucker-carlson-clash-in-heated-interview](https://www.dailywire.com/news/mike-pence-and-tucker-carlson-clash-in-heated-interview)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T15:12:07+00:00
+
+Republican president candidate and former Vice President Mike Pence clashed with Tucker Carlson during a combative interview on Friday in Iowa. Pence&#8217;s interview at The Family Leadership Summit focused on the war in Ukraine, his beliefs about what happened during the January 6 riot at the U.S. Capitol, and his views on the 2020 presidential ...
+
+## Cycling Organization Bans Trans-Identifying Men From Women’s Bike Races
+ - [https://www.dailywire.com/news/cycling-organization-bans-trans-identifying-men-from-womens-bike-races](https://www.dailywire.com/news/cycling-organization-bans-trans-identifying-men-from-womens-bike-races)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T15:01:49+00:00
+
+The world governing body for sports cycling, Union Cycliste Internationale (UCI), banned trans-identifying males from competing in women’s cycling races on Friday. The new policy reverses UCI’s previous policy that allowed men to compete in women’s sports if they had a plasma testosterone level below 2.5 nanomoles per liter for two years. The ban takes ...
+
+## Biden Administration Forgives $39 Billion In Student Debt
+ - [https://www.dailywire.com/news/biden-administration-forgives-39-billion-in-student-debt](https://www.dailywire.com/news/biden-administration-forgives-39-billion-in-student-debt)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T14:30:21+00:00
+
+The Biden administration on Friday announced it will forgive $39 billion in student debt for about 804,000 borrowers. The debt relief is the result of changes to the student loan system&#8217;s income-driven repayment programs. The programs were built to forgive student debt after borrowers have been making payments for at least 20 or 25 years, ...
+
+## A Federal Court Upheld A State Ban On Gender ‘Medicine’ For Minors
+ - [https://www.dailywire.com/news/a-federal-court-upheld-a-state-ban-on-gender-medicine-for-minors](https://www.dailywire.com/news/a-federal-court-upheld-a-state-ban-on-gender-medicine-for-minors)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T14:15:11+00:00
+
+Like roughly 20 other states in the nation, Tennessee’s legislature recently passed a law prohibiting state healthcare providers from performing “gender-affirming” surgeries and administering hormones or puberty blockers to anyone under the age of 18. But, like many of those other states, Tennessee was preliminary enjoined from enforcing its law by a district court that ...
+
+## Tucker Carlson Shreds Asa Hutchinson Over Transgender Treatments For Kids
+ - [https://www.dailywire.com/news/tucker-carlson-shreds-asa-hutchinson-over-transgender-treatments-for-kids](https://www.dailywire.com/news/tucker-carlson-shreds-asa-hutchinson-over-transgender-treatments-for-kids)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T14:14:59+00:00
+
+Tucker Carlson grilled Republican presidential candidate and former Arkansas Governor Asa Hutchinson on Friday over his past veto of a bill banning transgender procedures for minors. The exchange, which happened at The Family Leadership Summit in Iowa, comes after Hutchinson repeatedly defended his veto back in 2021, calling the bill &#8220;extreme.&#8221; &#8220;I believe in a ...
+
+## 40 Skulls Found In Kentucky Residence In Connection To Human Remains Trafficking Scheme: FBI
+ - [https://www.dailywire.com/news/40-skulls-found-in-kentucky-residence-in-connection-to-human-remains-trafficking-scheme-fbi](https://www.dailywire.com/news/40-skulls-found-in-kentucky-residence-in-connection-to-human-remains-trafficking-scheme-fbi)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T13:53:10+00:00
+
+The FBI said that it discovered 40 skulls and other human bones during a raid on a Kentucky man’s residence in connection to the alleged trafficking of human remains linked to Harvard Medical School. The FBI made the grisly discovery when it raided the residence of James Nott in Mount Washington, Kentucky, on Tuesday, and ...
+
+## Immigration Expert Reveals Why Latest Border Numbers Are ‘Deceitful’
+ - [https://www.dailywire.com/news/immigration-expert-reveals-why-latest-border-numbers-are-deceitful](https://www.dailywire.com/news/immigration-expert-reveals-why-latest-border-numbers-are-deceitful)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T13:27:26+00:00
+
+Reported immigration numbers suggesting that illegal immigration at the U.S. southern border plummeted to the lowest level in over two years in June are misleading, according to a former Department of Homeland Security (DHS) official. Border Patrol agents recorded roughly 100,000 apprehensions of illegal immigrants between ports of entry along the U.S. southern border during ...
+
+## Tim Scott To Tucker Carlson: ‘America’s National Vital Interest Is Degrading The Russian Military’
+ - [https://www.dailywire.com/news/tim-scott-to-tucker-carlson-americas-national-vital-interest-is-degrading-the-russian-military](https://www.dailywire.com/news/tim-scott-to-tucker-carlson-americas-national-vital-interest-is-degrading-the-russian-military)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T13:10:38+00:00
+
+Republican presidential candidate Sen. Tim Scott (R-SC) told Tucker Carlson on Friday that he believes that a critical national security interest for the United States is degrading the Russian military. Scott appeared on stage with Carlson at The Family Leadership Summit in Iowa where he was asked questions about Ukraine, illegal immigration, and more. Carlson ...
+
+## Walt Disney Would Be Appalled At What His Company Has Become
+ - [https://www.dailywire.com/news/walt-disney-would-be-appalled-at-what-his-company-has-become](https://www.dailywire.com/news/walt-disney-would-be-appalled-at-what-his-company-has-become)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T12:04:35+00:00
+
+There&#8217;s little doubt that Walt Disney, and by extension the company he founded, was one of the greatest pop culture icons of the 20th century, and that influence continues right into the present day. Walt&#8217;s determination to appeal to both children and their parents represents a core reason for Disney&#8217;s enduring legacy. But, at least ...
+
+## President Pervert: Maybe It’s A Good Thing Biden Doesn’t See All His Grandkids
+ - [https://www.dailywire.com/news/president-pervert-maybe-its-a-good-thing-biden-doesnt-see-all-his-grandkids](https://www.dailywire.com/news/president-pervert-maybe-its-a-good-thing-biden-doesnt-see-all-his-grandkids)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T11:43:34+00:00
+
+President Joe Biden is not normal. If that wasn&#8217;t obvious to you yet, the latest video out of Helsinki showing Biden nibbling on a small child should make it plain as day that the president is perverse. In that case, maybe it&#8217;s a good thing he has spent zero time around Hunter&#8217;s daughter in Arkansas. ...
+
+## Police Find Food, Clothes, And Supplies Believed To Belong To Escaped Pennsylvania Inmate
+ - [https://www.dailywire.com/news/police-find-food-clothes-and-supplies-believed-to-belong-to-escaped-pennsylvania-inmate](https://www.dailywire.com/news/police-find-food-clothes-and-supplies-believed-to-belong-to-escaped-pennsylvania-inmate)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T11:23:50+00:00
+
+Police in Warren County, Pennsylvania, believe a bag covered by a tarp and stuffed under a log likely belonged to an inmate who escaped from prison last week. State Police Lt. Col. George Bivens, in a daily update about escaped inmate Michael Burham, 34, told reporters on Thursday that this is just the latest stockpile ...
+
+## Man Falsely Reported Missing For 8 Years Finally Speaks Out
+ - [https://www.dailywire.com/news/man-falsely-reported-missing-for-8-years-finally-speaks-out](https://www.dailywire.com/news/man-falsely-reported-missing-for-8-years-finally-speaks-out)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T10:43:35+00:00
+
+A Houston man who had been reported missing in 2015 but who was never really missing at all has spoken out about his ordeal. Rudolph “Rudy” Farias was 17 years old when his mother reported him missing in 2015. He actually returned the next day, but for eight years his mother maintained that he was missing ...
+
+## Trans-Identifying Male Medals In Women’s Race At World Para Athletics Championships
+ - [https://www.dailywire.com/news/trans-identifying-male-medals-in-womens-race-at-world-para-athletics-championships](https://www.dailywire.com/news/trans-identifying-male-medals-in-womens-race-at-world-para-athletics-championships)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T10:38:26+00:00
+
+Valentina Petrillo, an Italian man who identifies as a woman, took third place in the women’s 400-meter T12 race at the 2023 Paris World Para Athletics Championships. Petrillo, 49, who was running in the category for those with visual impairments, finished behind Omara Durand of Cuba (52.82) and Alejandra Perez Lopez of Venezuela (57.88) with ...
+
+## Suspected Serial Killer In Custody For String Of Gilgo Beach Murders In Long Island
+ - [https://www.dailywire.com/news/suspected-serial-killer-in-custody-for-string-of-gilgo-beach-murders-in-long-island](https://www.dailywire.com/news/suspected-serial-killer-in-custody-for-string-of-gilgo-beach-murders-in-long-island)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T10:37:55+00:00
+
+Police have arrested a suspect in the cold case serial killings that occurred on Gilgo Beach in Long Island, New York. Rex Heuermann, 59, a New York City architect, has been arrested for the crimes, according to multiple sources who spoke to the New York Post. Heuermann is expected in court on Friday. Heuermann is ...
+
+## House Moves To Block Funding For Abortion Travel As Lawmakers Prepare To Vote On Military Spending
+ - [https://www.dailywire.com/news/house-moves-to-block-funding-for-abortion-travel-as-lawmakers-prepare-to-vote-on-military-spending](https://www.dailywire.com/news/house-moves-to-block-funding-for-abortion-travel-as-lawmakers-prepare-to-vote-on-military-spending)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T10:05:46+00:00
+
+The House voted on Thursday evening to block the Pentagon from spending taxpayer dollars on funding travel for women in the military seeking abortions as lawmakers prepare to vote on the annual National Defense Authorization Act. The amendment to block funding for abortion travel was just one of the amendments added to the NDAA, which ...
+
+## Why You Cannot Be A Christian And A Marxist
+ - [https://www.dailywire.com/news/why-you-cannot-be-a-christian-and-a-marxist](https://www.dailywire.com/news/why-you-cannot-be-a-christian-and-a-marxist)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T10:04:29+00:00
+
+The following is a transcript excerpt from one of Dr. Jordan Peterson’s lectures during the 12 Rules for Life Tour. You can listen to or watch the full podcast on DailyWire+. Start time: 43:56 There are only a couple of ways you can be a Christian and a Marxist. One is that you just want ...
+
