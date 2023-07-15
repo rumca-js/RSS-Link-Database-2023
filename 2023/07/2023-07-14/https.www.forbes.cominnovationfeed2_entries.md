@@ -1,5 +1,26 @@
 # Source:Forbs - innovation, URL:https://www.forbes.com/innovation/feed2, language:en-US
 
+## The Perseids Meteor Shower Has Begun: When To See It At Its Best
+ - [https://www.forbes.com/sites/jamiecartereurope/2023/07/14/the-perseids-meteor-shower-has-begun-when-to-see-it-at-its-best/](https://www.forbes.com/sites/jamiecartereurope/2023/07/14/the-perseids-meteor-shower-has-begun-when-to-see-it-at-its-best/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2023-07-14T23:15:00+00:00
+
+Tonight sees the start of the annual meteor shower that brings the most excitement and dependable displays—the Perseids. This year it peaks in moonless skies.
+
+## Viral Video Doesn’t Actually Show Mike Pence Getting Hit With Water Balloon
+ - [https://www.forbes.com/sites/mattnovak/2023/07/14/viral-video-doesnt-actually-show-mike-pence-getting-hit-with-water-balloon/](https://www.forbes.com/sites/mattnovak/2023/07/14/viral-video-doesnt-actually-show-mike-pence-getting-hit-with-water-balloon/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2023-07-14T23:14:54+00:00
+
+Video supposedly showing former vice president Mike Pence getting hit in the head with a water balloon has gone viral. But that’s not Pence getting hit.
+
+## ‘Be Careful’: Ron Perlman Releases Menacing Message Blasting Executive Who Said WGA Strike Will Cause Home Losses
+ - [https://www.forbes.com/sites/antoniopequenoiv/2023/07/14/be-careful-ron-perlman-releases-menacing-message-blasting-executive-who-said-wga-strike-will-cause-home-losses/](https://www.forbes.com/sites/antoniopequenoiv/2023/07/14/be-careful-ron-perlman-releases-menacing-message-blasting-executive-who-said-wga-strike-will-cause-home-losses/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2023-07-14T23:02:05+00:00
+
+Perlman has since deleted the Instagram video in which he slammed a studio executive for callous comments about union writers, saying: “We know who said that and where he f—ing lives.”
+
 ## Gloomhaven Offers A Festival Of New Ways To Play
  - [https://www.forbes.com/sites/robwieland/2023/07/14/gloomhaven-offers-a-festival-of-new-ways-to-play/](https://www.forbes.com/sites/robwieland/2023/07/14/gloomhaven-offers-a-festival-of-new-ways-to-play/)
  - RSS feed: https://www.forbes.com/innovation/feed2

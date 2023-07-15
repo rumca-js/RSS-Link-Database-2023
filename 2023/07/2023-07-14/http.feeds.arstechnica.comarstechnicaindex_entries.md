@@ -1,5 +1,19 @@
 # Source:ArsTechnica, URL:http://feeds.arstechnica.com/arstechnica/index/, language:en-US
 
+## Viasat’s new broadband satellite could be a total loss
+ - [https://arstechnica.com/?p=1954185](https://arstechnica.com/?p=1954185)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2023-07-14T22:49:36+00:00
+
+The mission now in peril is thought to be valued at roughly $700 million.
+
+## Microsoft takes pains to obscure role in 0-days that caused email breach
+ - [https://arstechnica.com/?p=1954171](https://arstechnica.com/?p=1954171)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2023-07-14T22:19:55+00:00
+
+Critics also decry Microsoft's "pay-to-play" monitoring that detected intrusions.
+
 ## Nothing Phone 2 hands-on: Pro-repair styling without the functionality
  - [https://arstechnica.com/?p=1953800](https://arstechnica.com/?p=1953800)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/

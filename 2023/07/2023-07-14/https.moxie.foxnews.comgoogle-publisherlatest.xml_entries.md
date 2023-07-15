@@ -1,5 +1,68 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Super Bowl champion Malik Jackson announces retirement: 'I think I just did enough'
+ - [https://www.foxnews.com/sports/super-bowl-champion-malik-jackson-announces-retirement-i-think-i-just-did-enough](https://www.foxnews.com/sports/super-bowl-champion-malik-jackson-announces-retirement-i-think-i-just-did-enough)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:56:59+00:00
+
+Super Bowl champion and Pro Bowl defensive tackle Malik Jackson announced his retirement Friday after 10 NFL seasons. Jackson played for four teams in his NFL career.
+
+## Newsom threatens to fine school board in dispute over 'banned' books
+ - [https://www.foxnews.com/media/newsom-threatens-fine-school-board-dispute-banned-books](https://www.foxnews.com/media/newsom-threatens-fine-school-board-dispute-banned-books)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:45:25+00:00
+
+Gov. Gavin Newsom released a video threatening to fine the Temecula Valley School District for “censoring&quot; a social studies book that mentioned gay rights activist Harvey Milk.
+
+## Pennsylvania State Police release video of Michael Burham sighting as manhunt continues
+ - [https://www.foxnews.com/us/pennsylvania-state-police-release-video-michael-burham-sighting-manhunt-continues](https://www.foxnews.com/us/pennsylvania-state-police-release-video-michael-burham-sighting-manhunt-continues)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:42:20+00:00
+
+Pennsylvania authorities released home camera footage of a man believe to be Michael Burham as the manhunt for the murder suspect continues.
+
+## Gilgo Beach murders: Suspect Rex Heuermann searched Google for explicit pornography, case-related queries
+ - [https://www.foxnews.com/us/gilgo-beach-murders-suspect-rex-heuermann-searched-google-explicit-pornography-case-related-queries](https://www.foxnews.com/us/gilgo-beach-murders-suspect-rex-heuermann-searched-google-explicit-pornography-case-related-queries)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:41:38+00:00
+
+Gilgo Beach murders suspect Rex Heuermann allegedly made thousands of very explicit Google searches, according to a recently released bail application.
+
+## Aspartame defended by Industry experts after cancer risk warning: 'Limited evidence'
+ - [https://www.foxnews.com/health/aspartame-defended-industry-experts-cancer-risk-warning-limited-evidence](https://www.foxnews.com/health/aspartame-defended-industry-experts-cancer-risk-warning-limited-evidence)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:40:37+00:00
+
+On the heels of a WHO committee&apos;s labeling of aspartame as “possibly carcinogenic to humans,&quot; many industry experts are speaking out in defense of the sweetener.
+
+## 'Jeopardy!' fans continue to express frustration about contestants missing easy questions: 'Should be ashamed'
+ - [https://www.foxnews.com/entertainment/jeopardy-fans-continue-express-frustration-contestants-missing-easy-questions-should-be-ashamed](https://www.foxnews.com/entertainment/jeopardy-fans-continue-express-frustration-contestants-missing-easy-questions-should-be-ashamed)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:35:02+00:00
+
+&quot;Jeopardy!&quot; fans are taking to social media to express their anger with the game show giving &quot;easy&quot; clues to the contestants.
+
+## German soccer star rejects Playboy's offer to pose nude, magazine says
+ - [https://www.foxnews.com/sports/german-soccer-star-rejects-playboys-offer-pose-nude-magazine-says](https://www.foxnews.com/sports/german-soccer-star-rejects-playboys-offer-pose-nude-magazine-says)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:27:07+00:00
+
+Giulia Gwinn will not be playing in the Women&apos;s World Cup with her German national team due to an injury, but she also will not be posing for Playboy while she&apos;s away from the soccer field.
+
+## WNBA's Brittney Griner says she was 'a little shocked' she played well enough to make the All-Star team
+ - [https://www.foxnews.com/sports/wnbas-brittney-griner-says-little-shocked-played-well-enough-make-all-star-team](https://www.foxnews.com/sports/wnbas-brittney-griner-says-little-shocked-played-well-enough-make-all-star-team)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:10:53+00:00
+
+Brittney Griner will take the court at the WNBA All-Star Game as one of the starters. She expressed excitement about being back amongst the best of her peers.
+
+## Kirby claims anti-woke defense bill puts troops, military readiness at 'greater risk'
+ - [https://www.foxnews.com/media/kirby-claims-anti-woke-defense-bill-troops-military-readiness-greater-risk](https://www.foxnews.com/media/kirby-claims-anti-woke-defense-bill-troops-military-readiness-greater-risk)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-07-14T19:07:10+00:00
+
+The Biden administration&apos;s National Security Council representative warned that moves against woke practices in defense bill could damage the military.
+
 ## The rise and fall of gas prices in election years
  - [https://www.foxnews.com/politics/the-rise-and-fall-of-gas-prices-in-election-years](https://www.foxnews.com/politics/the-rise-and-fall-of-gas-prices-in-election-years)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

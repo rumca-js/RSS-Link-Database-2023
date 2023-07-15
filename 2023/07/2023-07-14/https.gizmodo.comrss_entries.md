@@ -126,6 +126,13 @@
 
 <img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--si2dcjSh--/c_fit,fl_progressive,q_80,w_636/52a8109783dd2120e6f474a1f0acc023.jpg" /><p>According to <a href="https://variety.com/2023/film/news/deadpool-3-stops-production-sag-strike-1235668880/" rel="noopener noreferrer" target="_blank">Variety</a>, Deadpool 3 has stopped filming. While many other productions are expected to come to a halt by noon PT, July 14, this is the first major production to officially announce a shut down.</p><p><a href="https://gizmodo.com/deadpool-3-work-stop-no-filming-actors-strike-sag-aftra-1850640496">Read more...</a></p>
 
+## Star Trek Release Dates: When to Expect All the New and Returning Shows
+ - [https://gizmodo.com/star-trek-release-dates-where-to-stream-picard-discover-1848839650](https://gizmodo.com/star-trek-release-dates-where-to-stream-picard-discover-1848839650)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-07-14T14:10:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--Jtc1psvP--/c_fit,fl_progressive,q_80,w_636/68499b11f1a55ba35f799d7b06013124.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--ntprmRUk--/c_fit,fl_progressive,q_80,w_636/68499b11f1a55ba35f799d7b06013124.mp4" type="video/mp4" /></video><p>Trying to keep track of what’s coming in the realm of <a href="https://gizmodo.com/star-trek-just-set-its-all-trek-all-the-time-schedule-1848378385"><em>Star Trek</em></a><em> </em>feels like trying to stop a tribble from procreating.  Before <a href="https://gizmodo.com/paramount-plus-more-star-trek-section-31-show-1848461595">even more new series</a> are announced, here’s our guide of when to expect all the <a href="https://gizmodo.com/io9/television/star-trek">new <em>Star Trek</em> shows</a>, as well as returning <a href="https://gizmodo.com/star-trek-shore-leave-episodes-ranked-strange-new-world-1849017164">familiar favorites</a>, and what <em>else</em> is in the works right now. Engage!<br /></p><p><a href="https://gizmodo.com/star-trek-release-dates-where-to-stream-picard-discover-1848839650">Read more...</a></p>
+
 ## House of the Dragon Will Continue Filming Despite Strikes
  - [https://gizmodo.com/house-of-the-dragon-filming-continue-sag-aftra-strike-1850637519](https://gizmodo.com/house-of-the-dragon-filming-continue-sag-aftra-strike-1850637519)
  - RSS feed: https://gizmodo.com/rss

@@ -1,5 +1,12 @@
 # Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
+## Elon Musk plans Tesla and Twitter collaborations with xAI, his new startup
+ - [https://www.cnbc.com/2023/07/14/elon-musk-plans-tesla-twitter-collaborations-with-xai.html](https://www.cnbc.com/2023/07/14/elon-musk-plans-tesla-twitter-collaborations-with-xai.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-07-14T23:19:25+00:00
+
+The billionaire aims to build a "maximally curious" AI that is not "politically correct," Musk said on a Twitter Spaces session late Friday.
+
 ## U.S. Virgin Islands seeks at least $190 million from JPMorgan Chase in Jeffrey Epstein case
  - [https://www.cnbc.com/2023/07/14/virgin-islands-says-jpmorgan-should-pay-damages-in-epstein-case.html](https://www.cnbc.com/2023/07/14/virgin-islands-says-jpmorgan-should-pay-damages-in-epstein-case.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html

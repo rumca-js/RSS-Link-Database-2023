@@ -1,5 +1,12 @@
 # Source:Aljazeera, URL:http://www.aljazeera.com/xml/rss/all.xml, language:en-US
 
+## Mexico president continues attacks on opposition despite order
+ - [https://www.aljazeera.com/news/2023/7/14/mexico-president-continues-attacks-on-opposition-despite-order](https://www.aljazeera.com/news/2023/7/14/mexico-president-continues-attacks-on-opposition-despite-order)
+ - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2023-07-14T23:12:41+00:00
+
+Electoral officials have ruled Andres Manuel Lopez Obrador has been violating equity and neutrality rules with attacks.
+
 ## US court halts ban on government contact with social media giants
  - [https://www.aljazeera.com/news/2023/7/14/us-court-halts-ban-on-government-contact-with-social-media-giants](https://www.aljazeera.com/news/2023/7/14/us-court-halts-ban-on-government-contact-with-social-media-giants)
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml

@@ -1,5 +1,15 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Fudge: Reverse Tetris
+ - [https://vividfax.itch.io/fudge](https://vividfax.itch.io/fudge)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-07-14T23:04:48+00:00
+
+<p>Article URL: <a href="https://vividfax.itch.io/fudge">https://vividfax.itch.io/fudge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36731131">https://news.ycombinator.com/item?id=36731131</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
 ## Why was the F-117 retired so quickly?
  - [https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/](https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/)
  - RSS feed: https://hnrss.org/frontpage
@@ -19,6 +29,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36729694">https://news.ycombinator.com/item?id=36729694</a></p>
 <p>Points: 16</p>
 <p># Comments: 0</p>
+
+## Polyhedral Splines
+ - [https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-07-14T20:46:25+00:00
+
+<p>Article URL: <a href="https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/">https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36729694">https://news.ycombinator.com/item?id=36729694</a></p>
+<p>Points: 78</p>
+<p># Comments: 4</p>
 
 ## Generate RSS feed for any website using CSS selectors
  - [https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
@@ -49,6 +69,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=36729230">https://news.ycombinator.com/item?id=36729230</a></p>
 <p>Points: 18</p>
 <p># Comments: 3</p>
+
+## The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]
+ - [https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-07-14T20:01:35+00:00
+
+<p>Article URL: <a href="https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf">https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=36729166">https://news.ycombinator.com/item?id=36729166</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
 ## Claude 2 Internal API Client and CLI
  - [https://github.com/Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api)

@@ -1,5 +1,19 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Crime Is Down In This California City. The Police Chief Says More Cops Are To Thank.
+ - [https://www.dailywire.com/news/crime-is-down-in-this-california-city-the-police-chief-says-more-cops-are-to-thank](https://www.dailywire.com/news/crime-is-down-in-this-california-city-the-police-chief-says-more-cops-are-to-thank)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T19:18:45+00:00
+
+Crime may be a persistent issue across California, but residents in one city are enjoying a dip in criminal activity across multiple categories, and the police chief says he has an answer for why. Fresno has seen its crime rate drop dramatically this year. Murders dropped 44% from 34 to 19 murders for January 1 ...
+
+## Nikki Haley Reveals What She’ll Do To Federal Agencies If Elected
+ - [https://www.dailywire.com/news/nikki-haley-reveals-what-shell-do-to-federal-agencies-if-elected](https://www.dailywire.com/news/nikki-haley-reveals-what-shell-do-to-federal-agencies-if-elected)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-07-14T19:16:52+00:00
+
+Republican presidential candidate Nikki Haley said she would gut federal law enforcement agencies and remove problematic officials who politicize and weaponize those agencies if elected to the White House. Haley, a former governor of South Carolina and U.S. ambassador to the United Nations, made the remarks on Friday during The Family Leadership Summit in Iowa ...
+
 ## Iowa Governor Signs Six-Week Abortion Ban
  - [https://www.dailywire.com/news/iowa-governor-signs-six-week-abortion-ban](https://www.dailywire.com/news/iowa-governor-signs-six-week-abortion-ban)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

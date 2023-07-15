@@ -1,5 +1,19 @@
 # Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
+## Thai cave survivor reunites with rescuer at high school graduation 5 years later
+ - [https://abcnews.go.com/International/thai-cave-survivor-reunites-rescuer-high-school-graduation/story?id=101294342](https://abcnews.go.com/International/thai-cave-survivor-reunites-rescuer-high-school-graduation/story?id=101294342)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-14T23:39:34+00:00
+
+Five years after being rescued from a cave in Thailand, Adul Samon has finished high school in America and was reunited with his rescuer at graduation.
+
+## WATCH:  Rehabilitated sea turtle released to join Tour de Turtles
+ - [https://abcnews.go.com/Lifestyle/video/rehabilitated-sea-turtle-released-join-tour-de-turtles-101301074](https://abcnews.go.com/Lifestyle/video/rehabilitated-sea-turtle-released-join-tour-de-turtles-101301074)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-07-14T23:24:01+00:00
+
+A juvenile green sea turtle rehabilitated in Florida was fitted with a satellite-tracking transmitter and released to join an online race that follows long-distance migrations of sea turtles.
+
 ## US to reopen review of Nevada geothermal plant near endangered toad while legal battle is on hold
  - [https://abcnews.go.com/Technology/wireStory/us-reopen-review-nevada-geothermal-plant-endangered-toad-101300249](https://abcnews.go.com/Technology/wireStory/us-reopen-review-nevada-geothermal-plant-endangered-toad-101300249)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories

@@ -1,5 +1,82 @@
 # Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
+## Four children miraculously survived 40 days lost Colombian jungle plane crash RELEASED from hospital
+ - [https://www.dailymail.co.uk/news/article-12301083/Four-children-miraculously-survived-40-days-lost-Colombian-jungle-plane-crash-RELEASED-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301083/Four-children-miraculously-survived-40-days-lost-Colombian-jungle-plane-crash-RELEASED-hospital.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:50:31+00:00
+
+Four children who miraculously survived 40 days lost in a Colombian jungle have been discharged from a military hospital in Bogota just over a month since they were found.
+
+## Vermont grandpa, 63, is named victim of state's huge floods after hitting head and getting trapped
+ - [https://www.dailymail.co.uk/news/article-12300871/Vermont-grandpa-63-named-victim-states-huge-floods-hitting-head-getting-trapped.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12300871/Vermont-grandpa-63-named-victim-states-huge-floods-hitting-head-getting-trapped.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:46:46+00:00
+
+A 63-year-old man has been identified as the first death caused by the state's recent spate of massive floods after he hit his head and got trapped underwater while pumping out his basement.
+
+## Junior doctors crow that their strikes have been 'subsidised' after getting thousands in pay rise
+ - [https://www.dailymail.co.uk/news/article-12301169/Junior-doctors-crow-strikes-subsidised-getting-thousands-pay-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301169/Junior-doctors-crow-strikes-subsidised-getting-thousands-pay-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:46:11+00:00
+
+Rishi Sunak announced doctors would receive a pay award including a 6 per cent salary increase plus a £1,250 lump sum.
+
+## ANDREW PIERCE interviews potential Tory Mayor of London candidate Moz Hossain
+ - [https://www.dailymail.co.uk/news/article-12301159/ANDREW-PIERCE-interviews-potential-Tory-Mayor-London-candidate-Moz-Hossain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301159/ANDREW-PIERCE-interviews-potential-Tory-Mayor-London-candidate-Moz-Hossain.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:37:14+00:00
+
+ANDREW PIERCE: Every night until he was 16, Moz Hossain shared a double bed, sleeping on a sheet hand-woven from water reeds, with his parents Ali Akbar and Ayesha.
+
+## Hospital bosses accused of encouraging doctors to profit from strikes
+ - [https://www.dailymail.co.uk/news/article-12301165/Hospital-bosses-accused-encouraging-doctors-profit-strikes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301165/Hospital-bosses-accused-encouraging-doctors-profit-strikes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:33:37+00:00
+
+Correspondence sent to junior doctors states that staff would 'still be considered to be striking' even if they 'picked up weekend shifts at enhanced rates'.
+
+## Backlash as banking boss branded 'out of touch' for saying mortgage rates should be even HIGHER
+ - [https://www.dailymail.co.uk/news/article-12301123/Backlash-banking-boss-branded-touch-saying-mortgage-rates-HIGHER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301123/Backlash-banking-boss-branded-touch-saying-mortgage-rates-HIGHER.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:32:21+00:00
+
+Chief executive of UK Finance David Postings said he rejected the idea that the biggest banks were ripping off customers claiming individuals could find attractive rates if they 'put some thought into it'.
+
+## Cobra Kai producer slams 'fat cat Hollywood' strikes putting 'blue-collar Americans' out of the job
+ - [https://www.dailymail.co.uk/news/article-12300899/Cobra-Kai-producer-slams-fat-cat-Hollywood-strikes-putting-blue-collar-Americans-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12300899/Cobra-Kai-producer-slams-fat-cat-Hollywood-strikes-putting-blue-collar-Americans-job.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:26:13+00:00
+
+Zach Arnold, associate producer on Netflix hit Cobra Kai, warned the Hollywood strikes could be short-lived if multimillionaire A-list actors become the face of the movement.
+
+## Teachers will have to refer to trans pupils by their preferred pronouns if parents say so
+ - [https://www.dailymail.co.uk/news/article-12301147/Teachers-refer-trans-pupils-preferred-pronouns-parents-say-so.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301147/Teachers-refer-trans-pupils-preferred-pronouns-parents-say-so.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:23:19+00:00
+
+Children will be able to wear the opposite sex's uniform if the school and parents agree with the pupil's wish to socially transition, official guidance to be announced next week will say.
+
+## DeSantis predicts Democrats are stuck with Biden, but wants 'showdown' with Newsom
+ - [https://www.dailymail.co.uk/news/article-12299703/DeSantis-predicts-Democrats-stuck-Biden-wants-showdown-Newsom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12299703/DeSantis-predicts-Democrats-stuck-Biden-wants-showdown-Newsom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:15:49+00:00
+
+Florida Gov. Ron DeSantis said he believed Democrats are stuck with President Joe Biden on the 2024 ticket, but indicated he was itching to run against California Gov. Gavin Newsom.
+
+## The Cold War's most brazen betrayal saw traitor send postcards of the Queen to his handlers
+ - [https://www.dailymail.co.uk/news/article-12300621/The-Cold-Wars-brazen-betrayal-saw-traitor-send-postcards-Queen-handlers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12300621/The-Cold-Wars-brazen-betrayal-saw-traitor-send-postcards-Queen-handlers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:14:06+00:00
+
+Nicholas Burby used his access to UK military air bases and Air Force contacts to provide intelligence about technology and the combat readiness of RAF and US jets.
+
+## Clare Nowland death: New twist in case of cop accused of tasering 95-year-old Cooma grandmother
+ - [https://www.dailymail.co.uk/news/article-12299715/Clare-Nowland-death-New-twist-case-cop-accused-tasering-95-year-old-Cooma-grandmother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12299715/Clare-Nowland-death-New-twist-case-cop-accused-tasering-95-year-old-Cooma-grandmother.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-07-14T23:10:06+00:00
+
+The Director of Public Prosecutions (DPP) is due to make a detention application for Senior Constable Kristian White, who has been living freely in the community since he was charged.
+
 ## Goodwood Festival of Speed is cancelled on Saturday due to severe wind warning
  - [https://www.dailymail.co.uk/news/article-12301045/Goodwood-Festival-Speed-cancelled-Saturday-severe-wind-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12301045/Goodwood-Festival-Speed-cancelled-Saturday-severe-wind-warning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss

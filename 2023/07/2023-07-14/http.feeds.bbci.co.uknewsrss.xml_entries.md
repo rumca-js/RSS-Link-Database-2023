@@ -1,5 +1,33 @@
 # Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## Summer holidays: Will there be more travel chaos this year?
+ - [https://www.bbc.co.uk/news/business-66185864?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-66185864?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T23:48:27+00:00
+
+Last year's summer season was marked by widespread travel disruption. Will this year be any better?
+
+## Can Barbie be the new Iron Man in a Mattel universe?
+ - [https://www.bbc.co.uk/news/business-66072812?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-66072812?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T23:37:23+00:00
+
+Ynon Kreiz, CEO of toymaker Mattel, talks about the future of the Barbie brand.
+
+## Week in pictures: 8-14 July 2023
+ - [https://www.bbc.co.uk/news/in-pictures-66199570?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-66199570?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T23:06:27+00:00
+
+A selection of striking images from around the world, taken over the past seven days.
+
+## How the tide of migration is changing European politics
+ - [https://www.bbc.co.uk/news/world-66202565?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-66202565?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T23:00:02+00:00
+
+A surge in boats carrying migrants from North Africa is changing Europe's politics, says Nick Robinson.
+
 ## Winnipeg can remove blockade over indigenous murders, court rules
  - [https://www.bbc.co.uk/news/world-us-canada-66208470?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-66208470?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -34,6 +62,13 @@ The 3,000-year-old gold torc is the first to be reported to as treasure in Essex
  - date published: 2023-07-14T21:07:09+00:00
 
 Scotland bang in three quick first-half goals to beat Northern Ireland in a friendly at Dens Park.
+
+## Comfort women: Last of Japan's WW2 sex slaves sing 'forget us not'
+ - [https://www.bbc.co.uk/news/world-asia-65594025?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-65594025?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-07-14T21:03:26+00:00
+
+Their own memories fading, former World War Two sex slaves seek justice in their twilight years.
 
 ## Extra energy bill scheme was 'staggering failure', says MP
  - [https://www.bbc.co.uk/news/business-66203677?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-66203677?at_medium=RSS&at_campaign=KARANGA)

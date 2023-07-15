@@ -1,5 +1,12 @@
 # Source:NY times, URL:https://rss.nytimes.com/services/xml/rss/nyt/World.xml, language:en-US
 
+## Putin Says Wagner Can Keep Fighting for Russia, but Without Prigozhin
+ - [https://www.nytimes.com/2023/07/14/world/europe/putin-wagner-prigozhin-ukraine.html](https://www.nytimes.com/2023/07/14/world/europe/putin-wagner-prigozhin-ukraine.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-07-14T23:21:24+00:00
+
+As Russia’s president reasserts control after a failed mutiny, he wants to sideline the Wagner leader while keeping its fighters — who have started training troops in Belarus — working for him.
+
 ## Visitors Briefly Trapped at Former Home of Agatha Christie
  - [https://www.nytimes.com/2023/07/14/world/europe/agatha-christie-greenway-house-visitors-trapped.html](https://www.nytimes.com/2023/07/14/world/europe/agatha-christie-greenway-house-visitors-trapped.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml

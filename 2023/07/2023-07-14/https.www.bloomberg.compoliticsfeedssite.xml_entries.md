@@ -1,5 +1,19 @@
 # Source:Bloomberg - politics, URL:https://www.bloomberg.com/politics/feeds/site.xml, language:en-US
 
+## FTC Loses Appeal Bid to Block Microsoft-Activision Deal
+ - [https://www.bloomberg.com/news/articles/2023-07-14/ftc-loses-appeals-court-bid-to-pause-microsoft-activision-deal](https://www.bloomberg.com/news/articles/2023-07-14/ftc-loses-appeals-court-bid-to-pause-microsoft-activision-deal)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-07-14T23:14:11+00:00
+
+A US appeals court denied a Federal Trade Commission bid to pause Microsoft Corp.’s acquisition of Activision Blizzard Inc. Friday, clearing a path for the companies to close the largest gaming deal ever in the US.
+
+## DeSantis Makes Play for Evangelical Voters to Chip Away at Trump
+ - [https://www.bloomberg.com/news/articles/2023-07-14/desantis-makes-play-for-evangelical-voters-to-chip-away-at-trump](https://www.bloomberg.com/news/articles/2023-07-14/desantis-makes-play-for-evangelical-voters-to-chip-away-at-trump)
+ - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
+ - date published: 2023-07-14T23:13:12+00:00
+
+Florida Governor Ron DeSantis said signing a law restricting abortion in his state had cost him donors and support, defending the decision as he sought to burnish his credentials with evangelical voters in Iowa.
+
 ## Mountain Valley Pipeline Builder Asks Supreme Court to Let Work Resume
  - [https://www.bloomberg.com/news/articles/2023-07-14/mountain-valley-pipe-builder-asks-high-court-to-let-work-resume](https://www.bloomberg.com/news/articles/2023-07-14/mountain-valley-pipe-builder-asks-high-court-to-let-work-resume)
  - RSS feed: https://www.bloomberg.com/politics/feeds/site.xml
