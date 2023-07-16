@@ -1,0 +1,1086 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Best gaming laptops 2023: What to look for and highest-rated models
+ - [https://www.pcworld.com/article/407493/best-gaming-laptops.html](https://www.pcworld.com/article/407493/best-gaming-laptops.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-15T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Are you looking for a new gaming laptop to play all of your favorite triple-A titles on? If so, we&rsquo;ve curated a list of our best picks. With all of the options available nowadays, it can be difficult to know which laptop gives you everything you need for your style of gaming. Do you play fast-paced e-sports titles? Then you&rsquo;ll not only need solid performance, but also a high refresh-rate screen. Or are you more a fan of the beautiful scenery in epic fantasy titles? Then you&rsquo;re in need of a top-of-the-line graphics card and powerful CPU. Either way, we&rsquo;ve got you covered.</p>
+
+
+
+<p>From no-compromises hardware to displays with high refresh rates, these laptops can do pretty much everything a desktop PC can do. During our review process, we put every single one of these laptops through a battery of tests, so we&rsquo;ve got the numbers to back up our recommendations. Whether you&rsquo;re looking for the best 17-inch gaming laptop or the most portable machine, we&rsquo;ve got you covered. Read on to learn more.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>See our roundup of the <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">best laptops</a> for even more recommendations&mdash;premium laptops, ultraportables, Chromebooks, and more.</p>
+</blockquote>
+
+
+
+<p><em><strong>Updated 07/14/2023: </strong>We&rsquo;ve added the <a href="https://www.pcworld.com/article/1934779/asus-rog-zephyrus-m16-review-impressive-performance-and-a-gorgeous-display.html" rel="noreferrer noopener" target="_blank">Asus ROG Zephyrus M16</a></em> <em>as our choice for best 16-inch gaming laptop and the <a href="https://www.pcworld.com/article/1809571/asus-rog-strix-g18-review.html" rel="noreferrer noopener" target="_blank">Asus ROG Strix G18</a> as our choice for best 18-inch gaming laptop. You can read more about these great new picks in the summaries below.</em></p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="alienware-x15-r2-best-15-inch-gaming-laptop">
+							Alienware x15 R2 &ndash; Best 15-inch gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Alienware x15 R2 - Best 15-inch gaming laptop" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/07/Alienware-x15-R2.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Ample power for gaming performance					</li> 
+										<li> 
+					Smooth and gorgeous QHD display					</li> 
+										<li> 
+					Stunning otherworldly design with RGB lighting					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Rear-orientated ports can be hard-to-reach					</li> 
+										<li> 
+					Middling battery life unplugged					</li> 
+										<li> 
+					RAM comes soldered onto the motherboard					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>The Alienware x15 R2 packs much of the same premium hardware as the Blade 17, but in a smaller 15-inch screen form factor. Despite it&rsquo;s smaller size, it can keep up with the best of them due to its 12th-gen Intel i7-12700H CPU and Nvidia RTX 3080 Ti GPU. It also has a beautiful QHD display and a futuristic Tron inspired lighting design. While it has a few quirks such as soldered RAM and hard-to-reach rear ports, these are ultimately dwarfed by other outstanding features.</p>
+
+<p>Just like all high-end gaming laptops though, it doesn&rsquo;t come cheap. But for those who are able to afford the astronomical price tag, the Alienware x15 R2 will deliver an out-of-this-world experience.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/799933/alienware-x15-r2-review-a-15-inch-gaming-laptop-stacked-with-power-and-personality.html" target="_blank">
+						Alienware x15 R2 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="asus-rog-zephyrus-m16-best-16-inch-gaming-laptop">
+							Asus ROG Zephyrus M16 &ndash; Best 16-inch gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Asus ROG Zephyrus M16 - Best 16-inch gaming laptop" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Lead-1.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Upgrades to the CPU and GPU provide very respectable performance					</li> 
+										<li> 
+					The display is both graphically impressive and exceptionally smooth					</li> 
+										<li> 
+					Price-wise it beats some competitors					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The keys feel a bit mushy					</li> 
+										<li> 
+					It lacks a dedicated LAN port relying instead on upgrades to wireless connectivity					</li> 
+										<li> 
+					The styling is quite modest					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-m16-2023-series/wtb/?productName=ROG%20Zephyrus%20M16%20%282023%29%20GU604&amp;levelTagId=207088&amp;xcust=2-3-407493-6-1934735-11291&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">1949.99 at  Asus</a><a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6535501&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6535501%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-3-407493-6-1934735-11291" rel="nofollow" target="_blank">$1949.99 at  Best Buy</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>In the past, Asus has focused on making its Zephyrus line of laptops thinner and lighter with each iteration. That all changed with the M16, which instead added potent performance upgrades, and we are glad for the change. The M16 sports a powerful Core i9-13900H processor and the new Nvidia RTX 4070 graphics card for a one-two punch that should keep you on top of the latest releases and provide a little bit of future-proofing as well. </p>
+
+<p>Asus has also included a gorgeous 16-inch Mini-LED display in the M16, yet again raising the bar for Zephyrus fans. And even with all of these generous performance upgrades, Asus still managed to keep the Zephyrus M16 at only 0.78-inches thick. It&rsquo;s packing a bit more weight, though, so it can no longer be considered one of the most portable gaming rigs, but the extra features make it well worth the additional heft.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1934779/asus-rog-zephyrus-m16-review-impressive-performance-and-a-gorgeous-display.html" target="_blank">
+						Asus ROG Zephyrus M16 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-blade-17-2022-best-17-inch-gaming-laptop">
+							Razer Blade 17 (2022) &ndash; Best 17-inch gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer Blade 17 (2022) - Best 17-inch gaming laptop" class="product-chart-item__image" height="1333" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/Pic-2.jpg?quality=50&amp;strip=all" width="2000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Excellent gaming performance					</li> 
+										<li> 
+					Great selection of ports including 2 x Thunderbolt 4					</li> 
+										<li> 
+					Sturdy robust design					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Poor battery life unplugged					</li> 
+										<li> 
+					Keyboard lacks a numpad					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B09RC6M188?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-3-407493-6-703256-10700&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$3,209.99 at  Amazon</a><a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6504374&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6504374%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-3-407493-6-703256-10700" rel="nofollow" target="_blank">$3299.99 at  Best Buy</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Need some serious gaming power? The Razer Blade 17 (2022) will certainly deliver. Thanks to the Intel 12th-gen i7 CPU and a GeForce RTX 3080 Ti GPU, this laptop is a top performer. In addition to excellent graphics performance, it also has a stunning 240Hz panel and a diverse selection of ports. That said, this top-tier configuration costs thousands of dollars. If you&rsquo;re willing to shell out the big bucks for the best of the best, then the Blade 17 is a phenomenal option. If you&rsquo;re on a more strict budget, check out the Asus VivoBook Pro 15 OLED blurb below. It&rsquo;s our best budget gaming laptop pick. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/703143/razer-blade-17-2022-review-a-large-powerful-gaming-laptop-with-options-galore.html" target="_blank">
+						Razer Blade 17 (2022) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="asus-rog-strix-g18-best-18-inch-gaming-laptop">
+							Asus ROG Strix G18 &ndash; Best 18-inch gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Asus ROG Strix G18 - Best 18-inch gaming laptop" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Lead.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The CPU and GPU produce impressive power					</li> 
+										<li> 
+					The 18-inch QHD+ display is large and brilliantly colorful					</li> 
+										<li> 
+					Aura Sync RGB light bars lighten things up					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Battery life is just average					</li> 
+										<li> 
+					The trackpad is too firm for all-day use					</li> 
+										<li> 
+					A 1080p webcam would have made it more suitable for creators					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.asus.com/us/rog/90nr0cg1-m002e0-g834jy.html&amp;xcust=2-3-407493-6-1809562-11291&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">3899.99 at  Asus</a><a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6531333&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6531333%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-3-407493-6-1809562-11291" rel="nofollow" target="_blank">Not Available at Best Buy</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Looking for something a little bit bigger? The Asus ROG Strix G18 is our favorite large 18-inch gaming laptop on the market. Not only do you get a gorgeous 18-inch 2560x1600p display that maximizes screen real-estate, but you get great performance features as well. It comes complete with a Core i9-13980HX processor, a top-of-the-line RTX 4090 GPU, and a substantial 32GB of DDR5 RAM. In fact, it&rsquo;s stacked with so much power it&rsquo;s likely to become the prized possession in any gamer&rsquo;s household. </p>
+
+<p>Due to its size, the ROG Strix G18 is likely to be more of a desktop replacement than an average everyday portable&mdash;it weighs a hefty 6.61 pounds. But don&rsquo;t let that stop you from enjoying all that it has to offer. This laptop is a beast and swept away all comers in our tests including a surprisingly efficient thermal load benchmark that stands as a testament to the G18&rsquo;s innovative and effective design. If you&rsquo;re after the very best performance on offer and you want a large laptop, the ROG Strix G18 is an absolute gem.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1809571/asus-rog-strix-g18-review.html" target="_blank">
+						Asus ROG Strix G18 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="hp-victus-15-best-budget-gaming-laptop">
+							HP Victus 15 &ndash; Best budget gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="HP Victus 15 - Best budget gaming laptop" class="product-chart-item__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2022/09/hp-victus-15-4.jpg?quality=50&amp;strip=all" width="1500" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Excellent price					</li> 
+										<li> 
+					Good keyboard and touchpad					</li> 
+										<li> 
+					Respectable processor performance					</li> 
+										<li> 
+					Can handle most games at 30 FPS					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Generic design					</li> 
+										<li> 
+					Disappointing build quality					</li> 
+										<li> 
+					Unattractive 144Hz display					</li> 
+										<li> 
+					60 FPS is often out of reach					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0B67521S5?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-3-407493-6-920408-10079&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$632.00 at  Amazon</a><a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6503849&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6503849%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-3-407493-6-920408-10079" rel="nofollow" target="_blank">$799.99 at  Best Buy</a><a class="product-chart-item__pricing-details--link" href="https://www.awin1.com/pclick.php?p=33532763343&amp;a=531979&amp;m=7168&amp;clickref=2-3-407493-6-920408-10079" rel="nofollow" target="_blank">Not Available at HP</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The HP Victus 15 may not be the most powerful gaming laptop we&rsquo;ve ever seen, but it&rsquo;s affordable and one of the cheapest options we&rsquo;ve seen that still offers a discrete graphics card (even though it&rsquo;s an older GTX 1650). Under the hood, you&rsquo;ll find an Intel Core i5-12450H CPU, an &nbsp;Nvidia GTX 1650 GPU, 8GB of RAM, and 512GB of SSD storage. You can play most titles at 30 frames-per-second, but we&rsquo;d recommend lowering the graphics setting. Although the low price is the main draw here, this laptop still has a good keyboard and touchpad. Processor performance is reliable, too. If you&rsquo;re seriously strapped for cash but need the additional oomph from a discrete graphics card, then the HP Victus 15 is the one to pick.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/920328/hp-victus-15-review-a-mediocre-gaming-laptop-at-a-great-price.html" target="_blank">
+						HP Victus 15 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-blade-16-best-4k">
+							Razer Blade 16 &ndash; Best 4K						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer Blade 16 - Best 4K" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Razer-Blade-16-overview.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Ridiculous 3D performance					</li> 
+										<li> 
+					Best-of-both-worlds dual-mode display					</li> 
+										<li> 
+					Gorgeous, understated design					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Switching display modes requires rebooting					</li> 
+										<li> 
+					Case is fingerprint magnet					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>So we need to talk about Razer&rsquo;s dual-mode display option on the Blade 16. Not only does the mini-LED display act as a native 4K panel with 120Hz refresh rate, but you can switch it to be a 1080p panel at 240Hz as well. It&rsquo;s the best of both worlds, it&rsquo;s ludicrous, and we love it. The option to play richly textured games in all of their 4K glory or change it up and play twitchy shooters at a blazing-fast 240Hz is unparalleled in today&rsquo;s laptops. In 4K mode, the display is rated at 1,000 nits and looks stunning with vibrant and bright colors. Plus, the added vertical space of the 16:10 panel compared to a regular widescreen 16:9 display provides more screen real-estate than one would think.</p>
+
+<p>All of this great display potential requires solid performance features to back it up and the Razer Blade 16 doesn&rsquo;t disappoint. It&rsquo;s packing a 13th-gen Core i9-13950HX processor, Nvidia&rsquo;s flagship RTX 4090 GPU, 32GB of RAM, and a giant 2TB M.2 SSD&mdash;those specs will put most gaming desktops to shame. It comes with the classic minimalist design we&rsquo;re used to seeing from Razer and weighs 5.52 pounds, which is about average for this size gaming laptop. While we can&rsquo;t say that the price on this laptop is reasonable, at least with these awesome specs, it&rsquo;s not unreasonable either. Besides, just the 4K dual-mode display on its own makes this laptop stand out from the crowd.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1801763/razer-blade-16-review.html" target="_blank">
+						Razer Blade 16 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="asus-tuf-gaming-a16-advantage-edition-best-battery-life">
+							Asus TUF Gaming A16 Advantage Edition &ndash; Best battery life						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Asus TUF Gaming A16 Advantage Edition - Best battery life" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/20230424_094122.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Outstanding all day battery life					</li> 
+										<li> 
+					Gorgeous and smooth FHD+ 16:10 display					</li> 
+										<li> 
+					Robust chassis with US military grade certification					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Left-side port orientation won&rsquo;t suit left handers					</li> 
+										<li> 
+					Keys feel a bit soft and fatiguing					</li> 
+										<li> 
+					The 720p HD camera isn&rsquo;t the best					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6535499&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6535499%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-3-407493-6-1800827-11291" rel="nofollow" target="_blank">$1099.99 at  Best Buy</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Gaming on a laptop while unplugged can seemingly drain your battery in the blink of an eye. This makes it difficult to game on the go without having to constantly be seeking the nearest outlet. But Asus has done wonders with the battery life in its A16 models and the latest 2023 version is even more efficient. In our battery tests, the A16 ran for a whopping 11.5 hours of continuous use without stopping. Now, intensive gaming will reduce this significantly, but the 90 watt-hour battery should still net you about seven hours of 1080p gaming without having to plug into an AC outlet. That&rsquo;s way better than most of the competitors on this list. </p>
+
+<p>The Asus TUF Gaming A16 Advantage Edition is no slouch when it comes to performance either. It&rsquo;s loaded with a Ryzen 7 processor, AMD Radeon RX 7600S graphics card, 16GB of RAM, and a 1TB SSD. Plus, it&rsquo;s also relatively affordable. All of this makes the A16 an excellent option for 1080p gamers&mdash;especially those who want to take their gaming on the go.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1801913/asus-tuf-gaming-a16-advantage-edition-review.html" target="_blank">
+						Asus TUF Gaming A16 Advantage Edition review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="lenovo-legion-5-pro-2023-best-connectivity-features">
+							Lenovo Legion 5 Pro (2023) &ndash; Best connectivity features 						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Lenovo Legion 5 Pro (2023) - Best connectivity features " class="product-chart-item__image" height="4480" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/784A1127.jpg?quality=50&amp;strip=all" width="6720" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Handsome design					</li> 
+										<li> 
+					Excellent keyboard					</li> 
+										<li> 
+					Lots of connectivity					</li> 
+										<li> 
+					Strong CPU and GPU performance					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Heavy and bulky					</li> 
+										<li> 
+					Mediocre display&nbsp;					</li> 
+										<li> 
+					Short battery life					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>Lenovo&rsquo;s Legion 5 Pro is not only packed with ports, but it also delivers impressive game performance. It sports a Intel Core i7-13700HX processor and the brand new RTX 4060 GPU from Nvidia into its slim design. That pair means you&rsquo;ll get solid performance for both productivity and gaming. But where this laptop really shines is its incredible array of ports. It has a USB-C port with DisplayPort Alternate Mode and 140 watts of Power, another USB-C port with DisplayPort but no power delivery, and three USB-A ports&mdash;that&rsquo;s a total of five USB ports, which is virtually unheard of among today&rsquo;s laptops. They also somehow managed to fid in an HDMI 2.1 port, Ethernet port, and a 3.5mm audio jack&mdash;the designers worked some kind of magic to fit it all in. Seeing as it&rsquo;s meant to be a gaming laptop, it is a bit heavy and unwieldy and the battery life could be better. However, as far as connectivity and price-to-performance, there aren&rsquo;t many better options than the Legion 5 Pro.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1919038/lenovo-legion-5-pro-review.html" target="_blank">
+						Lenovo Legion 5 Pro review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="asus-rog-zephyrus-duo-16-best-dual-screen-gaming-laptop">
+							Asus ROG Zephyrus Duo 16 &ndash; Best dual-screen gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Asus ROG Zephyrus Duo 16 - Best dual-screen gaming laptop" class="product-chart-item__image" height="5000" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/2022_ROG_Zephyrus_Duo_16_Front.png" width="5000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					This laptop has enough high-end CPU and GPU power to run AAA games and creative programs smoothly.					</li> 
+										<li> 
+					The primary display renders images in rich and vivid color and with deep blacks.					</li> 
+										<li> 
+					A new dual screen design provides better visual continuity between the displays.					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The trackpad is small, and its right-handed positioning still feels a bit awkward.					</li> 
+										<li> 
+					There&rsquo;s no space to rest your hands on the laptop&rsquo;s chassis when you&rsquo;re not using the keyboard.					</li> 
+										<li> 
+					This laptop doesn&rsquo;t come cheap.					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>A dual-screen laptop might still not be mainstream, but for enthusiasts who know how to take advantage of one&mdash;whether placing a handy map on the second screen, or being able to quickly look down to reference your discord chat&mdash;it&rsquo;s an excellent choice. And right now there is no dual-screen laptop we like more for gaming than the Asus ROG Zephyrus Duo 16. It packs a Ryzen 9 CPU, RTX 3080 Ti GPU, 32GB of RAM, and a 1TB PCIe 4.0 SSD. That&rsquo;s a ton of firepower in a laptop. Asus even managed to squeeze all of this <em>and</em> a second screen into a chassis no bigger than most single-display gaming laptops. Did we mention that it also comes with a 2560&times;1600 165Hz Mini-LED primary display? The secondary display has also been redesigned from previous versions to tilt up at a 13-degree angle, allowing for simultaneous viewing of both panels.</p>
+
+<p>The main issue with a laptop such as this Zephyrus Duo 16 is the price. At the time of writing, this model will set you back close to $4,000&mdash;that&rsquo;s a lot for any kind of laptop. You have to be an enthusiast and completely sold on a dual display for this to seem like an excellent value. However, the Asus Zephyrus Duo 16 was so good that it made a dual-screen convert out of our reviewer.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1519631/asus-rog-zephyrus-duo-16-2022-review.html" target="_blank">
+						Asus ROG Zephyrus Duo 16 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="msi-titan-gt77-hx-13v-best-high-end-gaming-laptop">
+							MSI Titan GT77 HX 13V &ndash; Best high-end gaming laptop						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="MSI Titan GT77 HX 13V - Best high-end gaming laptop" class="product-chart-item__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/msi-titan-gt77-4-1.jpg?quality=50&amp;strip=all" width="1500" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Excellent mechanical keyboard					</li> 
+										<li> 
+					Class-leading Mini-LED display					</li> 
+										<li> 
+					Incredible CPU and GPU performance					</li> 
+										<li> 
+					2TB of solid state storage with PCIe Gen5 support					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Uninspired design&nbsp;					</li> 
+										<li> 
+					Short battery life					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>If you&rsquo;re on the hunt for the best gaming experience, the MSI Titan GT77 HX 13V is a phenomenally powerful machine. It&rsquo;s packing an Intel Core i9-13980HX CPU, an Nvidia RTX 4090 GPU, 64GB of RAM, and 2TB of PCIe SSD storage. You can pretty much play any game on the Ultra graphics preset. In our testing, the Titan handled <em>Cyberpunk 2077</em>, one of the most technically demanding games out there right now, like a champ. The laptop also has a mechanical keyboard with Cherry MX switches, which is a major plus for gamers. While performance is no doubt fantastic, the Titan has some tradeoffs you should be aware of: It&rsquo;s loud, heavy, and astronomically expensive. That said, if you&rsquo;ve got the budget for it, this thing is an absolute beast.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1561127/msi-titan-gt77-hx-13v-review.html" target="_blank">
+						MSI Titan GT77 HX 13V review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="lenovo-ideapad-5-gaming-chromebook-best-chromebook-for-gaming">
+							Lenovo IdeaPad 5 Gaming Chromebook &ndash; Best Chromebook for gaming						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Lenovo IdeaPad 5 Gaming Chromebook - Best Chromebook for gaming" class="product-chart-item__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/lenovo-chromebook-16-6.jpg?quality=50&amp;strip=all" width="1500" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Large, bright 2560&times;1600 display					</li> 
+										<li> 
+					Ideal wireless and wired connectivity					</li> 
+										<li> 
+					Good display, strong speakers					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Unimpressive design					</li> 
+										<li> 
+					Mediocre keyboard and touchpad					</li> 
+										<li> 
+					Lackluster webcam and microphone					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BFG95SW8?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-3-407493-6-1677660-11281&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$789.46 at  Amazon</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>When you think of Chromebooks, you might not think about gaming. But Lenovo is changing that with its IdeaPad 5 Gaming. The Chromebook comes loaded with a Core i5 processor, 8GB of RAM, a 256GB SSD, and a bright 16-inch 2560&times;1600 display. It also has surprisingly good speakers&mdash;a rarity for any type of laptop.</p>
+
+<p>Sure, you&rsquo;ll need to do most, if not all, of your gaming through a cloud gaming service, since ChromeOS doesn&rsquo;t support most modern games. But if you don&rsquo;t mind paying the monthly fee for a cloud gaming service and you have a reliable internet connection, the IdeaPad 5 Gaming Chromebook is more than up to the task of streaming games from the cloud. In our tests we even found that it could stream AAA games at good resolutions and up to 120Hz. See our roundup of the <a href="https://www.pcworld.com/article/823826/best-cloud-gaming-services.html">best cloud gaming services</a> to learn about options.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1677622/lenovo-ideapad-5-gaming-chromebook-review.html" target="_blank">
+						Lenovo IdeaPad 5 Gaming Chromebook review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="wp-block-heading" id="how-we-test-gaming-laptops">How we test gaming laptops</h2>
+
+
+
+<p>The PCWorld team puts each and every Windows laptop through a series of benchmarks that test GPU and CPU performance, battery life, and so on. The idea is to push the laptop to its limits and then compare it against others we&rsquo;ve tested. Below, you&rsquo;ll find a breakdown of each test and the reasons why we run them:</p>
+
+
+
+<ul>
+<li><strong>PCMark 10</strong>: PCMark 10 is how we determine how well the laptop handles lighter tasks like web browsing, word processing, spreadsheets, and so on.</li>
+
+
+
+<li><strong>HandBrake</strong>: HandBrake is more intensive than PCMark 10. It basically measures how long a laptop&rsquo;s CPU takes to encode a beefy 30GB file. </li>
+
+
+
+<li><strong>Cinebench</strong>: Cinebench is a brief stress test of the CPU cores. It does this by rendering a 2D scene over a short period of time.</li>
+
+
+
+<li><strong>3DMark</strong>: 3DMark checks if 3D performance remains consistent over time by running graphic-intensive clips. </li>
+
+
+
+<li><strong>Gaming tests</strong>: We benchmark each gaming laptop using several titles.</li>
+
+
+
+<li><strong>Video rundown test</strong>: To gauge battery life, we loop a 4K video using Windows 10&rsquo;s Movies &amp; TV app until the laptop dies.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="how-to-pick-the-perfect-gaming-laptop">How to pick the perfect gaming laptop</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2017/05/msi_gs63vr_updated-100724139-orig.jpg" rel="nofollow"><img alt="msi gs63vr updated" src="https://images.idgesg.net/images/article/2017/05/msi_gs63vr_updated-100724139-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption">
+<p>The MSI GS63VR features a 4K resolution panel but not enough GPU to really drive it for today&rsquo;s games.</p>
+</figcaption></figure></div>
+
+
+
+
+<h3 class="wp-block-heading" id="whats-the-best-screen-for-a-gaming-laptop">What&rsquo;s the &lsquo;best&rsquo; screen for a gaming laptop?</h3>
+
+
+
+<p>When you buy a gaming laptop, one of the most important decisions you&rsquo;ll need to make regards the screen. After all, what you get on day one is what you&rsquo;re stuck with until you junk the device. You could run an external monitor but then, what&rsquo;s the point of a laptop?</p>
+
+
+
+<h4 class="wp-block-heading" id="screen-size">Screen size</h4>
+
+
+
+<p>The size of the screen dictates the size of the laptop itself, and thus weight. You can&rsquo;t, for example, get a 17-inch gaming laptop that&rsquo;s four pounds (although MSI&rsquo;s excellent GS75 gets awfully damned close at five), so think long and hard about whether you&rsquo;re willing to take the weight penalty in exchange for the screen real estate.</p>
+
+
+
+<p>If the laptop is going to be your only gaming machine, having a 17-inch screen might be ideal. We should also add that a 17.3-inch screen is easier on weaker eyes than a 15.5-inch screen. This is very much a matter of personal preference.</p>
+
+
+
+<h4 class="wp-block-heading" id="screen-resolution">Screen resolution</h4>
+
+
+
+<p>The buzzword today is &ldquo;4K.&rdquo; That high resolution delivers sharper photo viewing and more space for video editing, but that doesn&rsquo;t mean it&rsquo;s for everyone. Anything not using the panel&rsquo;s native resolution of 3840&times;2180, such as games running at lower-than-4K resolution, won&rsquo;t look quite as sharp unless you exponentially increase the graphics power of the laptop.</p>
+
+
+
+<p>If you&rsquo;re running at 1920&times;1080 resolution because your GPU can&rsquo;t hit 60 fps at 4K, that feature is moot. For many gamers, 1920&times;1080 (1080p) or 2560&times;1440 (1440p) is more optimal.</p>
+
+
+
+<h4 class="wp-block-heading" id="ips-vs-tn-vs-oled">IPS vs. TN vs. OLED</h4>
+
+
+
+<p>The panel technology is also a key feature. IPS (in-plane switching) generally produces much greater color accuracy and superior off-axis viewing, but tends to lag in response times, which can lead to blurring. TN (twisted nematic) panels can offer far higher refresh rates and usually better response times than IPS, but can look washed out or just blah.</p>
+
+
+
+<p>A middle-ground technology that&rsquo;s appearing more often is VA (vertical alignment). VA is sometimes alternately referred to as &ldquo;wide viewing angle&rdquo; technology. (Many assume this to spec to be IPS, but it&rsquo;s not). In our experience, we&rsquo;ve found VA panels to run the gamut from being worthy competitors to IPS to being worse than the better TN panels.</p>
+
+
+
+<p>Generally, if color accuracy is important, go IPS (a trademark of Sharp), and if you want the fastest response times go for a gaming-oriented TN panel. With the variability of VA, we recommend you check feedback from reviewers and users of a particular model.</p>
+
+
+
+<p>The wildcard in all this is OLED. OLED-based panels have been used in phones for years but have recently migrated to larger screens in laptops. IPS, TN, and VA all use LEDs behind the screen or along the edges. &ldquo;Black&rdquo; is produced by a shutter-like mechanism that blocks light from coming through. As you can imagine, there&rsquo;s usually some light leakage, which means the black tends to be gray.</p>
+
+
+
+<p>OLED panels don&rsquo;t rely on edge- or backlighting. Instead, each pixel generates its own light. To produce black, it just switches off the light. This amounts to truly stunning contrast ratios and vibrant colors. OLEDs also boast fantastic response times.</p>
+
+
+
+<p>The negatives include smaller screen sizes (we haven&rsquo;t seen anything larger than 15.6 inches yet), higher cost, and lack of support for variable refresh rate.&nbsp;OLED panels can also use more power than conventional methods if the image is on a white background.</p>
+
+
+
+<h3 class="wp-block-heading" id="g-sync-or-freesync-support">G-Sync or FreeSync support?</h3>
+
+
+
+<p>Okay, we called this section G-Sync and FreeSync, but the reality is, when it comes to beefy gaming laptops, it&rsquo;s a GeForce GPU world. And that means it&rsquo;s a G-Sync world. In a nutshell, Nvidia and AMD&rsquo;s respective variable-refresh-rate technologies help synchronize the monitor and the GPU to greatly reduce screen tearing. Variable refresh rates can make gaming at 40 fps far smoother to your eyes than a screen without it.</p>
+
+
+
+<p>The first variable-refresh-rate panels for laptops maxed out at 75Hz, only marginally better than the standard 60Hz. More recently, we&rsquo;ve begun to see laptop panels that can push 120Hz, 144Hz and even 240Hz.&nbsp;This generally means smoother and sharper gaming to your eyes. It even helps smooth out everyday tasks such as scrolling a browser page or Word document.</p>
+
+
+
+<p>The downside of high-refresh rate panels is the technology it&rsquo;s available on: TN. As we said earlier, TN generally looks less vibrant and less accurate than IPS. The off-axis view is generally inferior, too.&nbsp;You&rsquo;ll also need a far more powerful GPU to feed that high-refresh rate monitor at its native resolution.</p>
+
+
+
+<p>One last very important note: G-Sync screens have to be connected directly to the laptop&rsquo;s discrete GPU, which means a large hit in battery life. In most laptops without G-Sync, the Intel integrated graphics is connected directly to the screen, so the GPU can be turned off when not being used. So while G-Sync is beautiful to behold, the cost in battery life is huge.</p>
+
+
+
+<p>Which is right for you? If it&rsquo;s primarily a gaming laptop&mdash;go for a high refresh rate and G-Sync (or FreeSync, if you can find a laptop that supports it with a Radeon GPU). If you tend to also push pixels in Photoshop or do any color-critical work, skip variable refresh for an IPS panel.</p>
+
+
+
+<h3 class="wp-block-heading" id="what-to-look-for-in-a-keyboard-and-trackpad">What to look for in a keyboard and trackpad</h3>
+
+
+
+<p>A new trend in gaming laptops is the offset trackpad, which is more conducive to gaming than a dead-center trackpad. The concept is sound, but anyone who actually cares about PC gaming will just plug in a mouse. The worst thing about that offset trackpad is when you try to use it for non-gaming purposes.</p>
+
+
+
+<p>As far as keyboards go, the most important gaming feature is n-key rollover. This means the keyboard physically scans each key separately. If you wanted to, you could press 20 keys simultaneously and they&rsquo;d all register, as each is independently wired. That probably sounds excessive, but keyboards that lack this feature can suffer missed keystrokes, which both ruins gameplay and hurts in everyday tasks. Anyone who&rsquo;s used an Adobe product that might require a left-Alt, left-Shift, left-Ctrl plus two more keys to do something may have run into the limitations of non-n-key keyboards.</p>
+
+
+
+<p>Other keyboard considerations include LED backlighting (which adds ambiance but does nothing for gameplay) and mechanical keys vs. membrane. Mechanical keys are excellent&mdash;but are available on only a handful of laptops that usually weigh a ton. We have seen a few designs with low-profile mechanical keyboards, but even we admit they can be an acquired taste.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2017/10/960-pro-2-100698545-orig-100739686-orig.jpg" rel="nofollow"><img alt="960 pro 2 100698545 orig" src="https://images.idgesg.net/images/article/2017/10/960-pro-2-100698545-orig-100739686-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption">
+<p>With the massive size of today&rsquo;s games, make sure the SSD in your laptop is large enough.</p>
+</figcaption></figure></div>
+
+
+
+
+<h3 class="wp-block-heading" id="what-kind-of-storage-is-best-for-a-gaming-laptop">What kind of storage is best for a gaming laptop?</h3>
+
+
+
+<p>Having your games load from an SSD instead of a hard drive significantly cuts down on load times. But beyond that, we haven&rsquo;t found it to matter that much whether it&rsquo;s a super-fast NVMe PCIe drive or a slower SATA SSD.</p>
+
+
+
+<p>What does matter more today is the size of the SSD rather than the interface it uses. With games now topping 50GB and some touching 100GBs, a once-spacious 256GB SSD will feel too small with just four games installed.</p>
+
+
+
+<p>So when spec&rsquo;ing out that gaming laptop, be mindful of just how much total storage you have. If you go for laptop with a small SSD and large hard drive combo, expect to install your games to the hard drive. If the laptop will have an SSD only, choose an absolute minimum of 512GB, with 1TB preferred.</p>
+
+
+
+<h3 class="wp-block-heading" id="how-much-ram-do-you-need-in-a-gaming-laptop">How much RAM do you need in a gaming laptop?</h3>
+
+
+
+<p>When laptop makers spec out gaming laptops, one of the levers they use to try to convince you to buy their product is upping the amount of RAM. It&rsquo;s not hard to find gaming laptops with &ldquo;upgraded&rdquo; configurations that go from 16GB of DDR4 to 32GB.</p>
+
+
+
+<p>While having an adequate amount of RAM is important for gaming, today&rsquo;s games typically top out at 16GB of RAM, and sometimes can run fine with just 8GB of RAM. Anything more than 16GB (our standard recommendation) is usually a waste of money.</p>
+
+
+
+<p>You might want to blame laptop and PC makers for cynically using an erroneous spec to manipulate the public, but the blame actually lies with the average buyer. PC makers have told us for years they only over-spec RAM because the public thinks more is better.</p>
+
+
+
+<h3 class="wp-block-heading" id="dual-channel-or-single-channel-ram">Dual-channel or single-channel RAM?</h3>
+
+
+
+<p>Besides the amount of memory, a couple of other important, but not critical, questions to ask is what clock speed and what mode. Modern CPUs let you run RAM in sets to increase the memory bandwidth.&nbsp;</p>
+
+
+
+<p>More memory bandwidth immediately helps laptops that are running integrated graphics, but the conventional wisdom has long been that discrete GPUs in laptops don&rsquo;t benefit as much because they have their own dedicated, much faster GDDR5 RAM to use. That&rsquo;s typically the case, but the performance of today&rsquo;s GPUs and CPUs can make this conventional wisdom wrong.&nbsp;</p>
+
+
+
+<p>Gaming performance is often about a balance between the CPU and the GPU, and how graphically intensive a game is. With games that are graphically intensive, the GPU is the primary bottleneck on performance. Play a game that isn&rsquo;t graphically intense, though, and the CPU can rapidly become the bottleneck on performance.</p>
+
+
+
+<p>With the power of today&rsquo;s GPUs, a lot of games, especially at a sedate resolution of 1920&times;1080, have shifted more performance to the CPU.&nbsp;The reason we&rsquo;re talking about this now is if you rob the CPU of memory bandwidth, even a decently fast one, you can take a sizable hit in gaming performance.</p>
+
+
+
+<p>The basic lesson is you should opt for dual-channel memory bandwidth configurations when possible. On a laptop spec sheet, you typically would see this expressed as &ldquo;dual-channel&rdquo; or &ldquo;2 x 8&rdquo; to indicate that two 8GB memory modules were used in a laptop.</p>
+
+
+
+<p>Some laptop makers will express memory in clock speed, so you&rsquo;ll see &ldquo;DDR4/2,133 or DDR4/2,400.&rdquo; While a higher memory clock does increase memory bandwidth, the impact isn&rsquo;t quite as great as going from dual-channel to single-channel mode.</p>
+
+
+
+<h3 class="wp-block-heading" id="how-many-cpu-cores-do-you-really-need">How many CPU cores do you really need?</h3>
+
+
+
+<p>How many cores do you need in a gaming laptop? For most people on a budget, a 4-core CPU with Hyper-Threading will function just fine in most games, especially when combined with a lower-cost and lower performance GPU.</p>
+
+
+
+<p>Still, if you have the extra cash, a 6-core CPU with Hyper-Threading is likely the sweet spot for today and tomorrow. If you plan to stream your gaming live or edit it, investing in a 6-core is recommended.</p>
+
+
+
+<p>Intel and AMD&rsquo;s top-end 8-core CPUs will deliver the greatest benefit to those who might do other graphics-intensive tasks, such as 3D animation or video editing. If you also plan to record and stream video, the 8-core will offer a performance benefit there, too.</p>
+
+
+
+<p>If you&rsquo;re thinking, great, let me buy a 4-core Core i5 or Ryzen 5 CPU with a luxury laptop to save money, you usually can&rsquo;t, because PC makers typically only offer budget CPUs with other budget parts. Why? Well, most budget shoppers can&rsquo;t afford any luxury items, and most PC makers like to add in the extras to increase the profit.</p>
+
+
+
+<h3 class="wp-block-heading" id="how-to-pick-a-gpu-for-a-gaming-laptop">How to pick a GPU for a gaming laptop</h3>
+
+
+
+<p>The single most important piece of hardware in a gaming laptop is undoubtedly the GPU. For AMD fans, the situation is as sad as it is in CPUs: It&rsquo;s an Nvidia GeForce world.&nbsp;As with CPUs though, the good news is that the dominating products are top-notch.</p>
+
+
+
+<p>The hardest part will be deciding just how much GPU you need. Our general guidance is to buy as fast a GPU as you can afford and are willing to heft. Generally, the faster the GPU (or GPUs), the larger and heavier the laptop. If you&rsquo;re talking about playing on a higher-resolution panel of 2560&times;1440 at high-refresh rates, then keep increasing the amount of money spent on the GPU.</p>
+
+
+
+<h3 class="wp-block-heading" id="external-graphics-support">External graphics support?</h3>
+
+
+
+<p>The last category you should think about is the burgeoning support for external graphics in gaming laptops. Customers of Alienware have long enjoyed this with its relatively inexpensive (and proprietary) <a href="https://www.pcworld.com/article/2907954/laptop-computers/reviewed-alienwares-amplifier-turbo-boosts-a-laptop-with-titan-x-graphics.html" rel="noopener" target="_blank">Graphics Amplifier</a> technology, but many new laptops support external graphics cabinets using Thunderbolt 3.</p>
+
+
+
+<p>These cabinets let you plug your laptop into a more powerful discrete GPU. The&nbsp;<a href="https://www.pcworld.com/article/3178650/laptop-accessories/akitio-node-cabinet-review-real-affordable-graphics-for-your-laptop.html">Akitio Node</a>&nbsp;(which you can find on <a class="product-link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/product/B06XKKSNTS&amp;xcust=2-3-407493-1-389873-14408&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon for $300</a>) is one such Thunderbolt 3 cabinet that&rsquo;s helped usher in lower prices. Although external graphics are primarily desired by users who run on integrated graphics, a gaming laptop with Thunderbolt 3 support could come in handy when the GPU inside gets too old to play the latest games.</p>
+
+
+
+<h3 class="wp-block-heading" id="battery-life">Battery life</h3>
+
+
+
+<p>The last topic we&rsquo;ll cover is battery life. The best way to understand battery life on a gaming laptop is to accept that it&rsquo;ll be horrible for all things gaming.</p>
+
+
+
+<p>The minute you crank up a GPU on a gaming laptop to play a game, you&rsquo;re basically limiting yourself to an hour or an hour and a half of battery runtime. Period. And in some cases, far less than that.</p>
+
+
+
+<p>The only reason to consider battery life on a gaming laptop is if you want to use your laptop unplugged for non-gaming purposes. In that respect, you&rsquo;ll find a lot of variance, with some&mdash;such as Gigabyte&rsquo;s Aero 15&mdash;offering decent battery life, albeit with a trade-off in gaming performance.</p>
+
+Consumer Electronics, Gaming, Laptops, Technology Industry</div>
+
+## This App Store alternative is a productivity powerhouse
+ - [https://www.pcworld.com/article/1995205/this-app-store-alternative-is-a-productivity-powerhouse.html](https://www.pcworld.com/article/1995205/this-app-store-alternative-is-a-productivity-powerhouse.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-15T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Apple&rsquo;s App Store may have a corner on the market for Mac users, but it&rsquo;s not the only place you can find apps. And for some people, <a href="https://shop.pcworld.com/sales/setapp-personal-mac-plan-1-year-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=setapp-personal-mac-plan-1-year-subscription&amp;utm_term=scsf-574612&amp;utm_content=a0x1P000004IsCTQA0&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Setapp</a> may actually be a better alternative.</p>
+
+
+
+<p>Setapp is a next-gen productivity service that offers a curated collection of more than 240 apps and a personalized app recommendation system to let you self-serve for the right tools for your work. The library includes apps for maintenance, productivity, task management, developer tools, personal finance, creativity, fun, and more. None of the apps have in-app purchases or ads and will always upgrade to the next version absolutely free. Your Setapp membership ensures you always have the latest version fully synced across all of your <a href="https://www.pcworld.com/article/448846/why-you-should-buy-a-refurbished-ipad-from-apple.html" rel="noreferrer noopener" target="_blank">devices</a>.</p>
+
+
+
+<p>TechCrunch calls Setapp the Spotify of Mac apps and CNBC writes, &ldquo;This Ukrainian Mac product has a cult following &mdash; and could hint at Apple&rsquo;s future.&rdquo;</p>
+
+
+
+<p>Streamline your machine with a <a href="https://shop.pcworld.com/sales/setapp-personal-mac-plan-1-year-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=setapp-personal-mac-plan-1-year-subscription&amp;utm_term=scsf-574612&amp;utm_content=a0x1P000004IsCTQA0&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Setapp Personal Mac Plan</a>. Sign up for a year for 29% off $119 at just $84.99.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/setapp-personal-mac-plan-1-year-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=setapp-personal-mac-plan-1-year-subscription&amp;utm_term=scsf-574612&amp;utm_content=a0x1P000004IsCTQA0&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp3.stackassets.com/c92a2bc44720a8d02b2c5725b8cbdc045b100e0d/store/3279a26cc846fd7fc2f0c4409e69733af1584c3f54bd5f35dafd47d096e7/sale_322607_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Setapp Personal Mac Plan: 1-Year Subscription &ndash; $84.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/setapp-personal-mac-plan-1-year-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=setapp-personal-mac-plan-1-year-subscription&amp;utm_term=scsf-574612&amp;utm_content=a0x1P000004IsCTQA0&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices are subject to change.</p>
+
+Mobile Apps</div>
+

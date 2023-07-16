@@ -1,0 +1,112 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## Kamala Harris demands the population be reduced in today's episode of "Freudian Slip or Embarrassing Gaffe?"
+ - [https://www.louderwithcrowder.com/kamala-harris-reduce-population](https://www.louderwithcrowder.com/kamala-harris-reduce-population)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-15T17:37:33+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34339232&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Two things are going on here. One is a possible nod to what critics call the REAL schlimate agenda: Leftists using schlimate warming to control the population. The other is that no one in the White House knows how to speak good. Welcome to today's exciting edition of "Freudian Slip or Embarrassing Gaffe?"</p><p>Our contestant is a San Francisco woman who rose to success <a href="https://www.louderwithcrowder.com/san-fran-mayor-kamala-harris" target="_blank">by smashing a mayor</a> and checking off not one but TWO boxes on the Democrat Party's most marginalized Bingo card. Say hello to vice president Kamala Harris!</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1679988366618624000"></a>
+</blockquote>
+<p>“When we invest in clean energy and electric vehicles <strong><em>and reduce population</em></strong>, more of our children can breath clean air and drink clean water.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="e918a" src="https://www.louderwithcrowder.com/media-library/image.gif?id=34339240&amp;width=980" />
+</p><p>The White House was quick to clean it up and claim what she meant to say was "pollution."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/EndWokeness/status/1679997646197469184"></a>
+</blockquote>
+<p>But was she thinking population? It's a common opinion on the Left. Bill Nye, the former children's entertainer the media claims is a schlimate expert, PRAISED Planned Parenthood <a href="https://www.louderwithcrowder.com/bill-nye-applauds-planned-parenthood-for-population-control" target="_blank">for their contributions to the field of population control</a>. People who have too many children -- typically more than one or two -- <a href="https://www.louderwithcrowder.com/americans-one-fewer-child-climate-change" target="_blank">are the targets of progressive hate and intolerance</a>. "Babies are bad for the Earth" <a href="https://www.louderwithcrowder.com/environmentalists-babies-are-bad-for-earth-no-but-sht-talking-tree-huggers-are" target="_blank">are words that are said out loud</a>. Leftists and the media (but I repeat myself) don't hide their agenda or beliefs. That's on one hand.</p><p>On the other hand, <a href="https://www.louderwithcrowder.com/kamala-harris-essence-festival" target="_blank">Kamala Harris is a nincompoop</a>.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/jason_howerton/status/1677004130273853467"></a>
+</blockquote>
+<p>There is an above-average chance that her brain confused words. It happens. I mean, <a href="https://www.louderwithcrowder.com/joe-biden-philadelphia-john-fetterman" target="_blank">have you met her boss</a>?</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CalebHowe/status/1670156068272349187"></a>
+</blockquote>
+<p>After much consideration and careful analysis, I'm chalking this up to an embarrassing gaffe. It's not that I don't believe eco whackadoodles work in the White House and support reducing the population (of people they don't like). But they are entering election season where they go into "hide what we truly believe" mode. There is no way they would be discussing population control in front of two people (Harris and Biden) not known for their cunning linguistics.</p><p>Feel free to argue that I'm wrong. It's within the realm of possibilities.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Flashback: Leaked audio of Tom Cruise freaking out on people not social distancing while filming "Mission Impossible"
+ - [https://www.louderwithcrowder.com/tom-cruise-mission-impossible](https://www.louderwithcrowder.com/tom-cruise-mission-impossible)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-15T17:18:00+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=24966763&amp;width=1200&amp;height=400&amp;coordinates=0%2C0%2C0%2C294" /><br /><br /><p>The following post was written in December 2020, in the height of SCHMOVID insanity. Audio of Tom Cruise freaking out is making another round around the internets with the release of Mission: Impossible – Dead Reckoning Part One this weekend.</p><p>It was December in 2020. Ava Max ruled the airwaves. And old Bill and Ted attempted to make was laugh again but failed., And we here at the Louder with Crowder Dot Com website wrote the following:</p><p>><p><p><p><p><p><</p><p>'Tis the season! No, not for the holidays or the birth of our Savior. That too! But 'tis the season for people freaking the f*ck out over social distancing guidelines. Lately, we've seen it as <a href="https://www.louderwithcrowder.com/mask-christmas-shopping" target="_blank">people are Christmas shopping</a>. Or yelling at people <a href="https://www.louderwithcrowder.com/mask-screaming-woman" target="_blank">trying to Christmas shop</a>. Now, we have it from Scientology aficionado Tom Cruise, melting down on the set of whatever <em>Mission Impossible</em> they are up to.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1680273775504310273"></a>
+</blockquote>
+
+<blockquote>No apologies! You can tell it to the people that are losing their f*cking homes because our industry is shut down! It's not going to put food on their table or pay for their college education! That's what I sleep with every night! The future of this f*cking industry!</blockquote><p>In this instance, he has something of a point. Also, an unhealthy delusion of grandeur. I doubt Tom Cruise loses sleep over the future of any industry or anything other than how much he's pleasing Xenu. Or <a href="https://www.quora.com/Why-do-people-think-Tom-Cruise-is-gay" target="_blank">if certain rumors</a> come out in the press. But if someone pops positive for COVID, the entire production shuts down. If the entire production shuts down, the crew members can't work. Anyone on the set who has a problem with those guidelines should have dealt with that before taking the job. I can understand Cruise's freakout.</p><p>Now, one could argue the reason for these restrictions is the fearmongering in the media, as well as from Cruise's celebrity colleagues with #WeAreAllInThisTogether in their Instagram bios. But Facebook's "fact" "checkers" have an itchy deplatform finger lately. I'll save that argument for another time.</p><p>Update: Cruise also, allegedly, <a href="https://www.louderwithcrowder.com/tom-cruise-covid-robots" target="_blank">hired robots to enforce guidelines as well</a>. There was also that.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Watch: Woman has a nutty in Walmart, throws merch and screams how black lives - and her p***y - both matter
+ - [https://www.louderwithcrowder.com/black-lives-matter-my-pussy-matters](https://www.louderwithcrowder.com/black-lives-matter-my-pussy-matters)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-15T16:00:07+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=33379435&amp;width=2000&amp;height=1500&amp;coordinates=163%2C0%2C157%2C0" /><br /><br /><p>Walmarts are the Waffle Houses of big box retailers. It's a breeding ground for web content. Though while the Waffle House tends to be more about <a href="https://www.louderwithcrowder.com/waffle-house-grits" target="_blank">throwing hands</a> and/or <a href="https://www.louderwithcrowder.com/waffle-house-cook-shares-story" target="_blank">throwing chairs</a>, Walmart is where people go to have psychotic episodes. Our latest example is this specimen, choosing the pool-noodle aisle to go bowling and make a political statement about both Black-Americans and her vagina.</p><p>I believe this video is from last year, but it's getting a fresh look on Twitter this week.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/NoCapFights/status/1679954840431267841"></a>
+</blockquote>
+
+<p>I'm curious what this specimen's rationale is. What was the thought process or defining incident that led to her making a political statement in the aisle of Walmart?</p><p>For a while, black lives were the only ones that matter. If you said any other lives mattered, you weren't showing equity. And FORGET saying that "all lives matter." That's the most racist thing you can say. It's the hard-R of lives mattering.</p><p>Then trans lives came along, and black lives dropped on the left's pound-for-pound most marginalized rankings. Though black lives still rank above women, who on the regular get told <a href="https://www.louderwithcrowder.com/dylan-mulvaney-university-pittsburgh-speech" target="_blank">by trans lives</a> they <a href="https://www.louderwithcrowder.com/lia-thomas-teammate-speaks-out" target="_blank">don't matter at all</a>.</p><p>This brings us to this lady. Is she saying that black lives DON'T matter? And "my pussy" is her version of a deez nuts joke? Or is it that she dreams of a world where her pussy matters at least as much as black lives? We're at a point in the 2020s where it's hard to tell what is woke progressism and what is unhinged lunacy.</p><p>We're just thankful someone had their camera out. Always remember to do it for the content, folks.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Woke writer tries turning Luke Combs's cover of Tracy Chapman's "Fast Car" into a race and sexuality thing
+ - [https://www.louderwithcrowder.com/washington-post-fast-car](https://www.louderwithcrowder.com/washington-post-fast-car)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-15T12:21:21+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34338837&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C80" /><br /><br /><p>Last year, a lesbian writer shared she was assigned “<a href="https://www.louderwithcrowder.com/jk-rowling-twenty-quotes" target="_blank">20 Transphobic JK Rowling Quotes We’re Done With</a>.” It was our first confirmation that editors assign writers clickbait, and expect them to fill in the holes. Keep that in the back of your mind.</p><p><a href="https://www.louderwithcrowder.com/luke-combs-vancover" target="_blank">Luke Combs</a> (straight/white/male) has a hit with his cover of Tracy Chapman's (black/female/lesbian...or I guess we say "queer" now) hit "Fast Car." As an oldhead who grew up in the 80s and who, unlike millennials and zoomers, knows that America existed prior to Barack Obama in 2009, I can tell you the son was HUGE. It was all over the place. It was such a hit, <a href="https://www.youtube.com/watch?v=ofdl7tQnKwI" target="_blank">it was parodied on sketch comedy shows</a>.</p><p>So of course the journalisming content creators at Washington Post felt it necessary to create racism and homophobia where none existed.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/EmilyYahr/status/1679519177789386752"></a>
+</blockquote>
+
+<p>In 1989, Tracy Chapman won the Grammy for Best New Artist and Best Folk Album and was nominated for Album of the Year.</p><p>"Fast Car," in 1989, won Best Female Pop Performance and was nominated for Record of the Year and Song of the Year. Apropos of nothing, the winner of those awards was another black artist. Bobby McFerrin for "Don't Worry, Be Happy."</p><p>On top of all this? Black, queer, and female Tracy Chapman OWNS the publishing writes and songwriting credits so she is getting a lion's share of the royalties on Combs' hit. A point that was made IN the content WaPo created, where they went searching for -isms and -phobias anyway.</p><p>We could celebrate this. We could be happy that Luke Combs -- yes, even though he's a place dude who is attracted to members of the opposite sex -- is introducing Chapman as an artist to an entire NEW generation of music fans. In normie-America, where people are able to listen to music with each other in peace, this is what's happening.</p><p>WaPo needs to create hate by looking for people who are unhappy. Example #217 of why journalsiming as an institution should shut the f*ck up when they are called an enemy of the people.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Waffle House drama takes place outside for a change as police stop a high-speed green tractor chase with guns drawn
+ - [https://www.louderwithcrowder.com/waffle-house-green-tractor](https://www.louderwithcrowder.com/waffle-house-green-tractor)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-07-15T11:35:03+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/police-stop-a-green-tractor-thief-outside-of-waffle-house.png?id=34336981&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>We here at the Louder with Crowder Dot Com website love ourselves some Waffle House content. <a href="https://www.whiskeyriff.com/2023/07/14/man-on-stolen-tractor-leads-police-on-low-speed-chase-to-waffle-house-parking-lot/" target="_blank">This one remixes the genre</a>. It takes place outside instead of inside. It's in the middle of the afternoon instead of the middle of the night. And while I can guess alcohol was involved, this one boasts cops, guns, and a big green tractor.</p><p>Enjoy. We'll make with the context at the other end.</p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1680174287913725952"></a>
+</blockquote>
+
+<p><a href="https://www.wsbtv.com/news/local/south-fulton-county/man-stolen-tractor-led-metro-police-20-mph-chase-before-hitting-cars-parked-waffle-house/BJMU7JRNJNEU7GR7IRUM6ZLR2I/" target="_blank">WSB-TV has the call</a>. Georgia police got word that a John Deere tractor was stolen and to be on the lookout. Officers spotted a John Deere tractor pulling a John Deer lawnmower behind it (I sware this isn't John Deere sponsored content) and figured that must be their man. Cops were in hot pursuit. Or, lukewarm pursuit. They were barely going 20 mph. You know, what with it being a tractor.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="1fdac" src="https://www.louderwithcrowder.com/media-library/image.gif?id=34337618&amp;width=980" />
+</p>
+<p><br /></p><p>The man ackshually crashed through a Mcdonalds' parking lot first, but no one enjoying their Sausage McGriddle thought to do it for the content. Waffle House employees always have their phones on the ready because you never know when it's going to pop off: </p><ul><li><a href="https://www.louderwithcrowder.com/fight-waffle-house" rel="noopener noreferrer" target="_self" title="view post: Watch: Another unruly customer learns the hard way Waffle House employees are trained to throw down">Watch: Another unruly customer learns the hard way Waffle House employees are trained to throw down</a></li><li><a href="https://www.louderwithcrowder.com/waffle-house-cook-shares-story" rel="noopener noreferrer" target="_self" title="view post: Watch: Our favorite Waffle House employee, the chick with the chair, shares her version of events and it's glorious">Watch: Our favorite Waffle House employee, the chick with the chair, shares her version of events and it's glorious</a></li><li><a href="https://www.louderwithcrowder.com/waffle-house-grits" rel="noopener noreferrer" target="_self" title="view post: Watch: As Waffle House chaos erupts behind him, dude is too busy enjoying his grits to be bothered">Watch: As Waffle House chaos erupts behind him, dude is too busy enjoying his grits to be bothered</a></li><li><a href="https://www.louderwithcrowder.com/waffle-house-sassy-pants" rel="noopener noreferrer" target="_self" title="view post: Watch: Sassy-pants Waffle House customer demands $100, is ready to fight customers while they laugh at him">Watch: Sassy-pants Waffle House customer demands $100, is ready to fight customers while they laugh at him</a></li><li><a href="https://www.louderwithcrowder.com/waffle-house-upside-down" rel="noopener noreferrer" target="_self" title="view post: 'Your t***y is out': The Waffle House remains undefeated as unruly woman is removed upside-down and shoeless">'Your t***y is out': The Waffle House remains undefeated as unruly woman is removed upside-down and shoeless</a></li></ul><p>Police put an end to this man's running. Guns drawn, and as the tractor crashed into a police car, the man was pulled out of the tractor, peppers sprayed, and arrested. No word on what the tractor thief was charged with. Also, no word on the man's motive, so let's make one up.</p><p>Our dude took who he thought was his lady friend for a nice weekend getaway in downtown College Park, Georgia. It was there that he got the "I like you as a friend" speech. Distraught and a six-pack in, he saw the tractor with the keys in it and went for a ride. Singing Jason Aldean's "Big Green Tractor " the entire time. Why? Because down through the woods or out to the pasture, as long as he's with her, it really don't matter.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="51f6b" src="https://www.louderwithcrowder.com/media-library/image.gif?id=34338175&amp;width=980" />
+</p>
+<p>Instead, the girl is back with her ex-boyfriend and he's in county lockup. Life can be so unfair.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+

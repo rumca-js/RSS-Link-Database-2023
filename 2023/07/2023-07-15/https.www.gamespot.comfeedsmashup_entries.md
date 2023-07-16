@@ -1,0 +1,23 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Baldur's Gate 3 Devs Break Down Every Playable Race
+ - [https://www.gamespot.com/videos/baldurs-gate-3-devs-break-down-every-playable-race/2300-6461877/](https://www.gamespot.com/videos/baldurs-gate-3-devs-break-down-every-playable-race/2300-6461877/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-07-15T18:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4166163-interview_bg3_races_site.jpg" width="480" /> We sat down with Swen Vincke (Game Director), Adam Smith (Lead Writer), and Nick Pechenin (Lead Systems Designer) to break down every race in Baldur's Gate 3 including the new hal-orc and dragonborn races.
+
+## Firearms Expert Reacts To BattleBit Remastered’s Guns PART 2
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-battlebit-remastereds-guns-part-2/2300-6461878/](https://www.gamespot.com/videos/firearms-expert-reacts-to-battlebit-remastereds-guns-part-2/2300-6461878/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-07-15T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4166170-battlebit_part2_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down more of the weaponry of BattleBit Remastered, including the Honey Badger, AK15, and a very realistic thermal scope on the AS VAL.
+
+## FTC Is Denied Appeal In Microsoft-Activision Case
+ - [https://www.gamespot.com/articles/ftc-is-denied-appeal-in-microsoft-activision-case/1100-6516009/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ftc-is-denied-appeal-in-microsoft-activision-case/1100-6516009/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-07-15T00:12:00+00:00
+
+<p>The Federal Trade Commission's (FTC) request for injunctive relief in its case against Microsoft has been further denied in appellate court by the Ninth Circuit just two days after the commission <a href="https://www.gamespot.com/articles/ftc-moves-to-appeal-this-weeks-microsoft-activision-blizzard-court-decision/1100-6515931/">filed for the appeal</a>. This caps off an eventful week in the related court drama between Microsoft and the FTC as the tech giant sought to close its deal to acquire Activision-Blizzard that was first announced over a year and a half ago.</p><p>The presiding judge's ruling landed on Tuesday, July 11, and <a href="https://www.gamespot.com/articles/microsoft-wins-court-case-against-ftc-to-buy-activision-blizzard/1100-6515704/">denied the FTC an injunction</a>. A day later, the FTC moved to appeal that ruling and find its injunction in appellate court, but that too has now been denied. It's very likely Microsoft will now close on the deal, perhaps as soon as Monday, July 17.</p><p>Xbox's parent company still needs to work things out with the UK's regulatory body, the CMA, as the regulators had concerns over Microsoft's potential for future cloud monopolization specifically. In an <a href="https://www.theverge.com/2023/7/11/23791355/microsoft-xbox-chief-phil-spencer-ftc-activision-blizzard-internal-memo">internal memo from Xbox lead Phil Spencer</a> earlier this week, Spencer mentioned that his team is already seeking ways to modify the deal "to address the CMA’s concerns in a way that is acceptable to the CMA," so it's likely the two parties have been in close contact all week in the event the FTC's appeal was swiftly denied.</p><a href="https://www.gamespot.com/articles/ftc-is-denied-appeal-in-microsoft-activision-case/1100-6516009/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
