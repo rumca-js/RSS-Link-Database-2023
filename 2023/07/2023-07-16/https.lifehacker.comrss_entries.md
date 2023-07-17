@@ -1,0 +1,23 @@
+# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
+
+## Four Kitchen Items You Should Wash Outdoors
+ - [https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-07-16T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6igjqaZN--/c_fit,fl_progressive,q_80,w_636/7fc2fb8db2af59ba8e22201bc2fb2c37.jpg" /><p>Not only is cleaning your kitchen  time consuming, but washing some of the larger items can create an even bigger mess than the one had in the first place. If you’re fortunate enough to have a sink that’s wide, deep, and durable, this may not pose much of a problem. But for everyone else, washing large pots, pans, and <a href="https://lifehacker.com/all-the-things-in-your-house-you-can-just-clean-outside-1850308195" target="_blank">…</a></p><p><a href="https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873">Read more...</a></p>
+
+## Use Salt to Revive Your Kitchen Sponge
+ - [https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-07-16T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--w37bn-kO--/c_fit,fl_progressive,q_80,w_636/4f4304b69d31e9c922a7f2c50fe68526.jpg" /><p>For a seemingly humble cleaning supply, there has been a lot of discussion about sponges over the years; more specifically, how to clean or <a href="https://lifehacker.com/can-a-microwave-really-sanitize-your-dirty-sponges-1847806658" target="_blank">sanitize them</a>. Various studies, like the one <a href="https://www.nature.com/articles/s41598-017-06055-9?utm_medium=affiliate&amp;utm_source=commission_junction&amp;utm_campaign=3_nsn6445_deeplink_PID100085446&amp;utm_content=deeplink" rel="noopener noreferrer" target="_blank">published in Nature’s Scientific Reports</a> in 2017, found that kitchen sponges were teeming with bacteria—362 different types, to be…</p><p><a href="https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897">Read more...</a></p>
+
+## The Airports Most Likely to Lose or Damage Your Luggage
+ - [https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2023-07-16T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cNyjmk02--/c_fit,fl_progressive,q_80,w_636/47df011c34cd21a9a4d625ae71c368af.jpg" /><p>With all the hassle that comes with air travel, when the wheels of your plane hit the runway at your final destination, it can feel like a minor victory. But the winning feeling may be fleeting if you discover that your luggage was lost or damaged in transit.</p><p><a href="https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885">Read more...</a></p>
+
