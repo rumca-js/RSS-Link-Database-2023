@@ -1,0 +1,1815 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Diablo 4 gets a massive, game-altering patch ahead of its first season
+ - [https://www.pcworld.com/article/1999147/diablo-4-receives-biggest-update-yet-everything-for-the-start-of-season-1.html](https://www.pcworld.com/article/1999147/diablo-4-receives-biggest-update-yet-everything-for-the-start-of-season-1.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T20:38:36+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>While some gamers still haven&rsquo;t completed Diablo 4&rsquo;s campaign, others have already reached the maximum level and have been longing for the first season of Blizzard&rsquo;s epic action RPG for weeks. The time is almost here and we have answers to your most important questions.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="when-does-diablo-4-season-one-start-and-how-long-does-a-season-actually-last">When does Diablo 4 season one start and how long does a season actually last?</h2>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://diablo4.blizzard.com/en-us/season&amp;xcust=2-1-1999147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">first season of Diablo 4 will start on July 20</a>, though an exact time is not yet known. According to the developers, a season should last around 12 weeks, with the first season ending on October 4. In Diablo 3, a season usually lasted 18 to 20 weeks. So unless Blizzard builds in significantly longer breaks between seasons, they will change much more frequently in Diablo 4.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/1986347/diablo-4-interview-how-the-action-rpg-epic-of-the-decade-came-to-be.html">Diablo 4 interview: The inspirations that fueled Blizzard&rsquo;s epic action RPG</a></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading toc" id="whats-new-in-season-1">What&rsquo;s new in season 1?</h2>
+
+
+
+<p>The first season brings a whole range of new content to Diablo 4:</p>
+
+
+
+<ul>
+<li>New quest line</li>
+
+
+
+<li>Over 30 new traits</li>
+
+
+
+<li>New boss fight</li>
+
+
+
+<li>Six new unique items</li>
+
+
+
+<li>Seven new aspects</li>
+
+
+
+<li>Seasonal Journey: Staggered challenges with rewards</li>
+</ul>
+
+
+
+<p>The first season also sees the launch of the controversial Battlepass, which can be used to unlock additional cosmetic content over the course of the season after a one-off purchase.</p>
+
+
+
+<p>But even apart from that, there will be a lot changes in Sanctuary. Depravity is rampant and that&rsquo;s why Blizzard calls this the &ldquo;Season of the Malignant&rdquo;. During the first season, elite enemies can appear as &ldquo;malignant&rdquo; variants and drop malignant hearts. These can then be socketed into items like gems. Similar to the aspects of legendary items, socketed hearts add new properties to your player, with over 30 coming with the update. Boss hearts can be farmed through special dungeons and cannot be removed from items, only replaced with another heart. </p>
+
+
+
+<h2 class="wp-block-heading toc" id="when-is-the-patch-coming-and-is-there-a-preload">When is the patch coming and is there a preload?</h2>
+
+
+
+<p>In preparation for the first season, Blizzard will be performing extended maintenance on the servers and then releasing the patch. The maintenance will take place over three hours on July 18, with the exact time depending on your location. After the work has been completed, you can download the patch and start playing immediately. Even though the season does not officially begin until July 20, you&rsquo;ll be able to access some of the new content once you&rsquo;ve installed the patch. You probably won&rsquo;t be able to create a seasonal character until the official start of the season, however. </p>
+
+
+
+<h2 class="wp-block-heading toc" id="how-big-is-the-patch-and-are-there-any-changes-to-game-balancing">How big is the patch and are there any changes to game balancing?</h2>
+
+
+
+<p>Although there is no official information so far, we assume that the season patch will be several gigabytes in size. It seems obvious given the abundant new content as well as the many bug fixes and changes that come along with the patch &mdash; you can read the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://news.blizzard.com/en-us/diablo4/23964909/diablo-iv-patch-notes?blzcmp=blizzard-news&amp;xcust=2-1-1999147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">full, ginormous patch notes here</a>. No build is safe! </p>
+
+Gaming</div>
+
+## Gmail wants you to turn on Enhanced Safe Browsing mode
+ - [https://www.pcworld.com/article/1999153/gmail-wants-you-to-turn-on-enhanced-safe-browsing-mode.html](https://www.pcworld.com/article/1999153/gmail-wants-you-to-turn-on-enhanced-safe-browsing-mode.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T20:32:10+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If Gmail looks a little different to you right now, you&rsquo;re not mistaken. A new banner message advertising Enhanced Safe Browsing mode began appearing in Gmail recently. Displayed just above your message list, it urges users to turn on the mode for &ldquo;additional protection against dangerous emails&rdquo;&mdash;and for most people, it does provide better protection while surfing the web.</p>
+
+
+
+<p>First launched in 2020, Enhanced Safe Browsing offers additional safeguards in Gmail and Chrome. It checks URLs, downloads, and browser extensions for any risky or dangerous elements like malware and phishing attempts. Unlike Standard Protection mode, which relies on a known list of bad websites, Enhanced Safe Browsing uses the real-time data gathered from your browsing sessions (including info about your PC and samples from pages you visit) for threat assessment.</p>
+
+
+
+<p>Privacy-minded users may find Enhanced Safe Browsing more concerning, since Google gets a direct peek at things like your downloads. It also temporarily associates the data gathered for Enhanced Safe Browsing with your Google account while you&rsquo;re signed in. But for most users, the trade-off is worth the protection against potential headaches of being ensnared by, say, a successful phishing attempt. That&rsquo;s especially so if you&rsquo;re already allowing Google to track and store <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.google.com/websearch/answer/54068?hl=en&amp;co=GENIE.Platform%3DAndroid&amp;xcust=2-1-1999153-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">your Web &amp; App activity</a>, which many people do for convenience. Your online habits are already being monitored.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Enhanced Safe Browsing banner in Gmail" class="wp-image-1999155" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Enhanced-Safe-Browsing.png?w=1200" width="1200" /></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>To turn on Enhanced Safe Browsing, click the link in the Gmail banner to jump directly to the account setting. Then flip the toggle on. If you haven&rsquo;t yet gotten the banner suggestion, you can also navigate to the setting manually as well:</p>
+
+
+
+<ol>
+<li>Open your <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://myaccount.google.com/&amp;xcust=2-1-1999153-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Google Account settings</a></li>
+
+
+
+<li>Choose <em>Security</em></li>
+
+
+
+<li>Scroll down to <em>Enhanced Safe Browsing for your account</em></li>
+
+
+
+<li>Click on <em>Manage Enhanced Safe Browsing</em></li>
+
+
+
+<li>Click on the toggle to turn on the setting</li>
+</ol>
+
+
+
+<p>When Enhanced Safe Browsing is turned on for your account, Enhanced Safe Browsing in Chrome activates as well. However, for it to work in Chrome, you must be signed in, and sync (without a custom passphrase) must be turned on.</p>
+
+
+
+<p>If you later decide that Enhanced Safe Browsing is not for you, you can turn it off in your settings. Google says it can take up to 24 hours to deactivate.</p>
+
+Online Services</div>
+
+## Plugable’s latest USB4 dock can support two 120Hz displays
+ - [https://www.pcworld.com/article/1999051/plugables-latest-usb4-dock-can-connect-to-two-120hz-displays.html](https://www.pcworld.com/article/1999051/plugables-latest-usb4-dock-can-connect-to-two-120hz-displays.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T18:20:47+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Plugable today launched the UD-4VPD, a USB4 docking station that you&rsquo;ll be able to connect a pair of 120Hz displays to, provided that you own the right equipment. The price is also quite noteworthy at under $200.</p>
+
+
+
+<p>Plugable&rsquo;s UD-4VPD includes two HDMI 2.1 ports, allowing your laptop to power a pair of displays at 120Hz or a single display at an 8K resolution. Though it uses USB4, it&rsquo;s essentially the equivalent of a <a href="https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html">Thunderbolt dock</a>. </p>
+
+
+
+<p>Typically, both Thunderbolt docks and their USB counterparts, the USB4 docks, connect to two 60Hz displays, so what Plugable has accomplished is an achievement. But what Plugable promises won&rsquo;t necessarily be what your laptop achieves, owing to the caveats inherent in the docking station market.</p>
+
+
+
+<p>First, your laptop will need to support USB4, the open industry standard of Thunderbolt. Though Intel has said that it has made Thunderbolt licensable to companies like AMD, you&rsquo;ll typically find Ryzen notebooks use USB4 and Intel Core-based notebooks use Thunderbolt. Since the Ryzen notebook market is about the fifth the size of Intel Core-based notebooks, the market for the UD-4VPD would seemingly be smaller. However, Thunderbolt 4 and USB4 are functionally equivalent. A Thunderbolt port can connect to a USB4 dock and vice versa. </p>
+
+
+
+<p>If your laptop has Thunderbolt <em>3</em>, however, it may have problems recognizing and connecting to the USB4 dock. In that case, it will fall back to USB specifications: 10Gbps versus the 40Gbps USB4 and Thunderbolt 4 allow.</p>
+
+
+
+<p>The Ryzen notebook will also have to support HBR3, a high bitrate standard, to achieve the 120Hz capabilities. &ldquo;If your laptop doesn&rsquo;t, it will naturally fall back to whatever it is that&rsquo;s the maximum that your laptop supports,&rdquo; explained Bernie Thompson, Plugable&rsquo;s founder and chief technical officer, in an interview last week.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Plugable UD-4VPD USB4 docking station" class="wp-image-1999070" height="762" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Plugable-UD-4VPD.png?w=1200" width="1200" /></figure><p class="imageCredit">Plugable / Amazon</p></div>
+
+
+
+<p>And that might be support for just 60Hz displays. Because laptop makers typically don&rsquo;t disclose the full I/O capabilities of their expansion ports, all this might be a bit of a crapshoot for users.</p>
+
+
+
+<p>If this is all unexpectedly confusing, Thompson acknowledges it. &ldquo;It&rsquo;s tough for users to separate this stuff out,&rdquo; he said. But the rule of thumb is that newer hardware works best with Thunderbolt and USB, and Thompson called out <a href="https://www.pcworld.com/article/560732/intel-expands-premium-evo-brand-into-desktops-foldables-and-more.html">Intel&rsquo;s Evo program</a> as one that will support the full set of technologies necessary to achieve the dual 120-Hz displays.</p>
+
+
+
+<h2 class="wp-block-heading" id="usb4-can-save-you-money">USB4 can save you money</h2>
+
+
+
+<p>The more tangible benefit of the UD-4VPD, however, is price.  &ldquo;The number one contributor is Thunderbolt is actually a pretty extensive testing requirement to get Thunderbolt certification&hellip;and it has to go through testing through both Intel and Apple or one of their approved test labs,&rdquo; Thompson said. &ldquo;And it adds a lot of costs to every Thunderbolt product.&rdquo;</p>
+
+
+
+<p>Most Thunderbolt docks ship with an Intel chip inside, code-named &ldquo;Goshen Ridge.&rdquo; But the open USB4 specification allows for more competition from various chip vendors, and the UD-4VPD includes a chip that costs less than Goshen Ridge, lowering the dock&rsquo;s overall price.</p>
+
+
+
+<p>Aside from that, the Plugable UD-4VPD includes features that are commonly found on a USB4 or Thunderbolt dock: 100W host charging. This means it will charge your laptop, too. The pair of HDMI 2.1 display ports are complemented by the four USB ports, including one USB-C port to charge your phone with 20W of charging power. The dock also incudes an SD/microSD card reader, 2.5Gbps Ethernet, and an audio port adapter.</p>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0C83ZMZG5&amp;xcust=2-1-1999051-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Plugable UD-4VPD is available today for $199.95 via Amazon</a> and with a $15 launch coupon, to boot. </p>
+
+
+
+<p></p>
+
+Computer Accessories</div>
+
+## Best external drives 2023: Backup, storage, and portability
+ - [https://www.pcworld.com/article/406861/best-external-drives.html](https://www.pcworld.com/article/406861/best-external-drives.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>External USB/Thunderbolt drives are a super convenient way to quickly back up your vital files, as well as store any data that might overflow your internal storage. They&rsquo;re also a handy way to transport said data between locations and devices.</p>
+
+
+
+<p>But backup is the reason your rig is not complete without one (or more). Why? Chances are that you have important data on your PC that you don&rsquo;t want, or can&rsquo;t afford, to lose. To protect that data you&rsquo;ll of course want to <a href="https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html" rel="noreferrer noopener" target="_blank">store it off-site on the cloud</a> if possible and back it up to an external drive for sure. </p>
+
+
+
+<p>Restoring from local storage is generally far, far faster than pulling your data down from the cloud, hence an external drive should be your primary hedge against disaster. </p>
+
+
+
+<p>As to overflow, files continually increase in size and number, especially when it comes to video, so many users are all but guaranteed to eventually need more storage. External drives are the easiest way to expand capacity, in addition to covering your toukus in case of disaster. </p>
+
+
+
+<p>PCWorld constantly tests new external USB/Thunderbolt drives. Comparing the results, we provide expert recommendations for everything from blazing-fast performance, to the most frugal options, to portability, while considering every factor in between. The winners join the curated list below.</p>
+
+
+
+<p>If you want to bone up on the whys and wherefores of external storage shopping, <a href="https://www.pcworld.com/feed#shopping-advice">you&rsquo;ll </a></p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="samsung-t7-shield-best-performance-usb-drive">
+							Samsung T7 Shield &ndash; Best performance USB drive						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Samsung T7 Shield - Best performance USB drive" class="product-chart-item__image" height="1333" src="https://b2c-contenthub.com/wp-content/uploads/2023/01/SamsungT7Shield_Dynamic1_Black-hero.jpg?quality=50&amp;strip=all" width="2000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Fast 1GBps sustained transfers					</li> 
+										<li> 
+					Excellent real world performance					</li> 
+										<li> 
+					Vast 4TB capacity					</li> 
+										<li> 
+					Svelte and handsome					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Not cheap					</li> 
+										<li> 
+					Small 4K performance glitch under CrystalDiskMark 8 writing 4K files					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>We&rsquo;re fans of the original <a href="https://www.pcworld.com/article/626738/samsung-t7-shield-ssd-review-fast-ruggedized-10gbps-usb-storage.html" rel="noreferrer noopener" target="_blank">Samsung T7 Shield</a>, but we&rsquo;re ever bigger fans of the larger capacity 4TB version (See what we did there?). With far more room for stuff than the previous 1TB and 2TB versions, it still plays to the company&rsquo;s excellent track record of speed and durability established by earlier iterations. </p>
+
+<p>The T7&rsquo;s predecessor, the Samsung Touch distinguished itself with a fingerprint reader for data security, but the Shield models lean towards physical protection, with IP65 ratings against particulate matter and water spray. Going hiking with your data? A T7 Shield is a good choice, and you can secure it with software-based password protection in lieu of a fingerprint.</p>
+
+<p>While the 4TB model is capable of handling the largest end-user data sets, it&rsquo;s also a bit pricey. If you don&rsquo;t need that much storage, go with the more affordable 1TB or 2TB capacities&ndash;all T7 Shields boast 10Gbps transfer speeds, which is always a nice speed boost over older 5Gbps external drives.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1484368/samsung-4tb-t7-usb-ssd-review-lots-of-space-excellent-sustained-writes.html" target="_blank">
+						Samsung T7 4TB review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="sandisk-extreme-pro-portable-ssd-best-performance-drive-runner-up">
+							SanDisk Extreme Pro Portable SSD &ndash; Best performance drive runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="SanDisk Extreme Pro Portable SSD - Best performance drive runner-up" class="product-chart-item__image" src="https://m.media-amazon.com/images/I/41CETIRE7LL.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Overall fastest USB SSD currently available					</li> 
+										<li> 
+					Relatively affordable					</li> 
+										<li> 
+					IP55 rated against dust and mild streams of water					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Slightly slower reading files than Samsung&rsquo;s T7					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>While we&rsquo;ve demoted SanDisk&rsquo;s Extreme Pro Portable SSD (1TB)&nbsp;to runner-up status in light of the Samsung T7&rsquo;s newly improved write speeds, make no mistake&ndash;it&rsquo;s still one the fastest, handsomest USB 3.1 Gen 2 (10Gbps) external SSDs we&rsquo;ve tested to date. It&rsquo;s slightly more expensive than the T7 Shield, at $190 for 1GB and $300 for 2GB, and it&rsquo;s rated at &ldquo;only&rdquo; IP55, meaning there&rsquo;s slightly less protection from the elements. But it&rsquo;s still an excellent product.</p>
+
+<p><em><strong>Note:</strong></em> There are faster USB 3.2 2&times;2 (also known as SuperSpeed 20Gbps) SSDs available, such as the <a href="https://www.pcworld.com/article/3543218/wd-black-p50-game-drive-ssd-review.html">WD Black P50</a>&nbsp;and <a href="https://www.pcworld.com/article/3542708/seagate-firecuda-gaming-ssd-review.html">Seagate Barracuda Fast SSD</a>. However, SuperSpeed 20Gbps and USB4 ports are still rare, so it might not matter to you. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/398774/sandisk-extreme-pro-portable-ssd-review.html" target="_blank">
+						SanDisk Extreme Pro Portable SSD review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="wd-black-p50-game-drive-ssd-1tb-best-for-gaming">
+							WD Black P50 Game Drive SSD (1TB) &ndash; Best for gaming						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="WD Black P50 Game Drive SSD (1TB) - Best for gaming" class="product-chart-item__image" src="https://m.media-amazon.com/images/I/41tHjjo6L7L.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Up to 2GBps with SuperSpeed USB 20Gbps					</li> 
+										<li> 
+					Distinctively militaristic styling					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Pricey compared to SuperSpeed 10Gbps drives					</li> 
+										<li> 
+					Requires the extremely rare SuperSpeed USB 20Gbps port for full performance					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>Today&rsquo;s games can soak up 50GB or 100GB of storage and more. If you&rsquo;re looking for a drive to quickly load those larger games (as well as subsequent levels) from your gaming laptop, we recommend WD&rsquo;s Black P50 Game Drive. And no, not <em>just</em> because it&rsquo;s literally called &ldquo;Game Drive,&rdquo; but because we prefer launching games from an SSD to glean every competitive advantage available. Comparatively, hard drives are plodders.</p>
+
+<p>You&rsquo;ll need a 20Gbps USB port for the Black P50 to hit its 2GBps high notes, but it&rsquo;s fast (1GBps) even over 10Gbps USB. (Learn more about how we evaluate <a href="https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html">the best external SSD for gaming</a>.)</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/399150/wd-black-p50-game-drive-ssd-review.html" target="_blank">
+						WD Black P50 Game Drive SSD (1TB) review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="crucial-x6-portable-ssd-2tb-best-budget-option">
+							Crucial X6 Portable SSD (2TB) &ndash; Best budget option						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Crucial X6 Portable SSD (2TB) - Best budget option" class="product-chart-item__image" height="1346" src="https://images.idgesg.net/images/article/2021/03/crucial-x6-portable-usb-ssd-primary-resized-100881988-orig.jpg?quality=50&amp;strip=all" width="2022" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Ergonomic design					</li> 
+										<li> 
+					Good everyday performance					</li> 
+										<li> 
+					Very affordable for an external SSD					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Performance tanks when cache runs out					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>The Crucial X6 Portable SSD is square to be hip (search Huey Lewis). Or placed in your hip pocket, at any rate. In a sea of portable SSDs whose shape and sometimes sharp edges makes them a literal pain when situated in your shirt or trousers, the thin, rounded-edge X6 is a sigh of relief. It&rsquo;s not state-of-the-art fast, but it&rsquo;s fast enough for most users and extremely affordable.  </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/394275/crucial-x6-usb-ssd-review.html" target="_blank">
+						Crucial X6 Portable SSD (2TB) review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="teamgroup-m200-best-budget-speedster">
+							Teamgroup M200 &ndash; Best budget speedster						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Teamgroup M200 - Best budget speedster" class="product-chart-item__image" height="1333" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/T-Force-M200-hero.jpg?quality=50&amp;strip=all" width="2000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Fast everyday performance					</li> 
+										<li> 
+					Available in up to 8TB (eventually) capacity					</li> 
+										<li> 
+					Attractively styled					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					No TBW rating					</li> 
+										<li> 
+					Company will change components if shortages demand					</li> 
+										<li> 
+					Writes slow to 200MBps off cache					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+								Price When Reviewed:									</span>
+									<span class="product-chart-item__information--rrp-value">
+									225 Euro									</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>Rated for 20Gbps and selling for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/TEAMGROUP-T-Force-Portable-Compatible-T8FED9500G0C102/dp/B09Y686TY2&amp;xcust=2-1-406861-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$140</a> with 1TB of storage, the Teamgroup M200 is an attractive (in a military fashion) external drive for the budget conscious performance enthusiast. </p>
+
+<p>It might not be as cheap as the Crucial X6, but for the extra outlay you get outstanding everyday performance&mdash;it&rsquo;s the fastest 20Gbps drive we&rsquo;ve ever tested. At just 4.13-inches long and 2.18-inches wide and weighing under 3 ounces, it&rsquo;s also extremely portable and its slick styling will appeal to gamers.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1794759/teamgroup-m200-portable-usb-ssd-review.html" target="_blank">
+						Teamgroup T-Force M200 20Gbps USB SSD review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="adata-elite-se880-ssd-most-portable-external-drive">
+							Adata Elite SE880 SSD &ndash; Most portable external drive						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Adata Elite SE880 SSD - Most portable external drive" class="product-chart-item__image" height="1333" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/P_SE880_hero.jpg?quality=50&amp;strip=all" width="2000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very fast, over-20Gbps USB connection					</li> 
+										<li> 
+					Extremely small form factor					</li> 
+										<li> 
+					5-year warranty					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Slows considerably during long contiguous writes					</li> 
+										<li> 
+					Somewhat low TBW rating					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.adata.com/adata-premium-se800-series-1tb-black-external-ssd-usb-3-1-xbox-ps4-compatible/&amp;xcust=2-1-406861-6-700853-13259&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$84.99 at  Adata</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>No external SSD we&rsquo;ve seen can match Adata&rsquo;s Elite SE880 for portability. Indeed, measuring only 2.55 inches long, 1.38 inches wide, and 0.48 inches thick, it reminds you more of a USB thumb drive than your standard external SSD. It also weighs a mere 1.1 ounces, so it vanishes from your consciousness in the pocket. </p>
+
+<p>In real-world 48GB transfer tests, the Elite SD880 beat out quite a few of its competitors, though it lost significant ground in the longer 450GB write test. Photo and video pros with large files to transfer might want to consider speedier options.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/700840/adata-elite-se880-ssd-review.html" target="_blank">
+						Adata Elite SE880 SSD review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="kingston-xs200-usb-ssd-most-portable-high-capacity-drive">
+							Kingston XS200 USB SSD &ndash; Most portable high-capacity drive						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Kingston XS200 USB SSD - Most portable high-capacity drive" class="product-chart-item__image" height="1650" src="https://b2c-contenthub.com/wp-content/uploads/2022/06/ktc-product-ssd-sxs2000-500gb-2-zm-lg-cropped.jpeg?quality=50&amp;strip=all" width="2000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Super svelte					</li> 
+										<li> 
+					Good 20Gbps performance					</li> 
+										<li> 
+					Available in up to 4TB in capacity					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Slower than much of the competition					</li> 
+										<li> 
+					Not much of a looker					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.kingston.com/products/xs2000-external-ssd?variant=40686324875456&amp;xcust=2-1-406861-6-786905-11671&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">74.99 at  Kingston</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The Kingston XS2000 is an admirable blend of size, capacity, speed, and affordability. With up to 4TB in capacity, it is one of the most capacious drives that still fits in smaller pockets.</p>
+
+<p>The XS2000 is a 20Gbps USB drive, and while it lagged as a reader compared to most of the 20Gbps competition, it beats the pants off of the 10Gbps drives in synthetic benchmarks and our 48GB transfers. The 450GB write was very slow, but overall, it&rsquo;s a decently fast SSD and a solid product that offers a ton of storage in a very small form factor.</p>
+
+<p><em>Note: Kingston sent us a updated version that solved its slow read performance in synthetic benchmarks. The 450GB write remained slow.</em> </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/785065/kingston-xs2000-20gbps-usb-ssd-review.html" target="_blank">
+						Kingston XS200 USB SSD review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="sandisk-pro-g40-best-usb-thunderbolt-combo">
+							SanDisk Pro-G40 &ndash; Best USB/Thunderbolt combo						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="SanDisk Pro-G40 - Best USB/Thunderbolt combo" class="product-chart-item__image" height="1500" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/Sandisk-G-Drive-Pro-G40-hero.jpg?quality=50&amp;strip=all" width="2000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Both 10Gbps and Thunderbolt 3/4 connectivity					</li> 
+										<li> 
+					Fast, especially over Thunderbolt					</li> 
+										<li> 
+					IP68 weather and dust resistant					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Pricey					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.westerndigital.com/products/portable-drives/sandisk-professional-pro-g40-ssd#SDPS31H-001T-GBCND&amp;xcust=2-1-406861-6-1931775-10049&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$159.99 at  Western Digital</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>For anyone who wants Thunderbolt&rsquo;s scintillating 40Gbps performance as well as the ability to connect via ubiquitous USB (10Gbps), the SanDisk Pro-G40 is the drive to buy&ndash;it&rsquo;s the fastest dual-bus drive that we&rsquo;ve ever tested. The drive dominated the competition when connected via Thunderbolt with outstanding 48GB and 450GB transfers, and via USB was on par with the fastest 10Gbps drives.</p>
+
+<p>The Pro-G40 is also rated at IP68 for weather and dust resistance, meaning it should be able to handle outdoor adventures if you decide to travel with it in your backpack. It&rsquo;s a rather pricey drive, but Thunderbolt drives are never &ldquo;cheap&rdquo;. They are, however, absolutely worth it if pennies don&rsquo;t matter as much as minutes. A fantastic drive.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1931773/sandisk-pro-g40-review.html" target="_blank">
+						SanDisk Pro-G40 SSD review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="wd-my-passport-5tb-best-for-backups">
+							WD My Passport 5TB &ndash; Best for backups						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="WD My Passport 5TB - Best for backups" class="product-chart-item__image" src="https://images-na.ssl-images-amazon.com/images/I/41FUR9vWdlL.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Excellent cost per gigabyte					</li> 
+										<li> 
+					Nice styling					</li> 
+										<li> 
+					Comprehensive software suite					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Slower than average with large files					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>You want to know why we chose WD&rsquo;s My Passport 5TB for backups? It&rsquo;s right there in the name&mdash;that extra 1TB can be invaluable in this age of 4K/8K.  </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/412338/wd-my-passport-4tb-review-a-good-budget-choice-thats-just-a-little-slow.html" target="_blank">
+						WD My Passport 5TB review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="seagate-backup-plus-portable-best-for-backups-runner-up">
+							Seagate Backup Plus Portable &ndash; Best for backups runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Seagate Backup Plus Portable - Best for backups runner-up" class="product-chart-item__image" src="https://images-na.ssl-images-amazon.com/images/I/41uxMYuIv3L.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Up to 5TB in a 2.5-inch package					</li> 
+										<li> 
+					Affordable					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Slow writing small files and folders					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>Like the WD above, Seagate&rsquo;s Backup Plus Portable is a USB 3.1 Gen 1 (5Gbps) drive&mdash;5Gbps is plenty enough bandwidth for the hard drive inside&ndash;about three to four times what the HDD is capable of. Capacity tops out at 5TB, but the drive is also available in 1TB, 2TB, and 4TB capacities.&nbsp;</p>
+
+<p>In our tests of the 4TB version, we found the Backup Plus Portable to be slightly faster than the WD My Passport 5TB with large file transfers (think movies), but slower with small file transfers (think Office documents). All in all, a worthy runner-up. Choose between the two by price.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/412342/seagate-backup-plus-portable-review-a-stunning-5tb-of-space.html" target="_blank">
+						Seagate Backup Plus Portable review 					</a>
+								</div>
+					</div>
+
+		
+
+
+<h2 class="wp-block-heading" id="what-you-need-to-know-before-you-buy">What you need to know before you buy</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2021/05/2880px-certified_usb4_40gbps_logo.svg-100888530-orig.jpg" rel="nofollow"><img alt="2880px certified usb4 40gbps logo.svg" src="https://images.idgesg.net/images/article/2021/05/2880px-certified_usb4_40gbps_logo.svg-100888530-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption"> <p>Yes, USB4 will provide the same massive throughput as Thunderbolt 3 at lower prices eventually, and likely far more products too.</p> </figcaption></figure></div>
+
+
+
+
+<h3 class="wp-block-heading" id="capacity-versus-price">Capacity versus price</h3>
+
+
+
+<p>For most consumers, the primary shopping criteria for external storage are capacity and price. However, while you might think that the lowest-cost drives provide the most value&ndash;they don&rsquo;t. In fact, dollar for dollar, cheaper low-capacity drives have always been the worst deal in terms of price per terabyte.</p>
+
+
+
+<p>You can see the phenomena in the charts below where we compare the popular <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B00ODEGWN8/ref=twister_B08TKKKTPM?_encoding=UTF8&amp;psc=1&amp;xcust=2-1-406861-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">WD Elements desktop hard drive&rsquo;s </a>available capacities and prices. You&rsquo;re paying more than twice as much per terabyte for the lowest-capacity drive versus the next step up. It&rsquo;s almost as bad on the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Western-Digital-Elements-Portable-External/dp/B06W55K9N6&amp;xcust=2-1-406861-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">WD Elements Portable drive</a>. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="comparison tables of price per terabyte and price per gigabyte on portable hard drives and desktop external hard drives." class="wp-image-552646" height="388" src="https://b2c-contenthub.com/wp-content/uploads/2021/11/HDD_Capacity_Price.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>The worst value for an external hard drive is typically the lowest-capacity drive.</p> </figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p>The best &ldquo;value,&rdquo; as you can see, typically means the most capacious hard drives. But it also means higher total cost, and not everyone needs maximum capacity. </p>
+
+
+
+<h3 class="wp-block-heading" id="how-much-capacity-do-you-need">How much capacity do you need?</h3>
+
+
+
+<p>So how much storage do you actually need? For backup, we recommend a drive that&rsquo;s at least twice the capacity of the total amount of data residing on your PC&rsquo;s internal storage. </p>
+
+
+
+<p>If you have 1TB of storage in your PC, a 2TB drive allows you to make a full backup while keeping previous versions, as well as additional differential and incremental backups. I.e., the larger the capacity, the more backups over a longer period of time you can keep, or the more PCs you can back up to the same drive. </p>
+
+
+
+<p>While a desktop hard drive (read 3.5-inch) provides far more capacity (up to 26TB currently if you&rsquo;re a data center), it also requires a power cable, weighs more, and generally won&rsquo;t be as shock resistant as a portable 2.5-inch hard drive. The latter is designed to take bumps in a laptop, even when powered up. Then again, if you really want rugged&ndash;go the SSD route.</p>
+
+
+
+<h3 class="wp-block-heading" id="interface">Interface</h3>
+
+
+
+<p>The vast majority of external drives today are USB drives. However, USB comes in many speeds: 5Gbps, 10Gbps, 20GBps, and&mdash;eventually with USB4&mdash;40Gbps as with Thunderbolt 3/4. Ignore the version number (3.x) and look for the speed. </p>
+
+
+
+<p>The USB Forum has changed its nomenclature to indicate throughput speed&mdash;SuperSpeed USB 5Gbps (formerly USB 3.x gen 1), SuperSpeed USB 10Gbps (formerly USB 3.x gen 2), and SuperSpeed USB 20Gbps (formerly USB 3.2 2&times;2). For the sake of brevity (and our sanity), we generally shorten those to, for example, USB 10Gbps, 10Gbps USB, 10Gbps etc.</p>
+
+
+
+<p>All USB <em>hard drives</em> use a slower standard, typically USB 5Gbps. No hard drive, unless combined with other drives in RAID 0 or above, can saturate even the 5Gbps interface (roughly 500MBps real-world after overhead). Because of that, you&rsquo;ll never see one rated higher.</p>
+
+
+
+<p>Where SuperSpeed 10Gbps/20Gbps, USB4, or Thunderbolt are of value is with the aforementioned RAID hard drive setups, or more likely&mdash;an SSD. USB 10Gbps is fast enough for most users, and getting cheaper by the week. A 10Gbps Samsung T7 Shield can be had for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/SanDisk-1TB-Extreme-Portable-SDSSDE60-1T00-G25/dp/B078SWJ3CF/ref=sr_1_5?s=electronics&amp;ie=UTF8&amp;qid=1536615766&amp;sr=1-5&amp;keywords=sandisk%2Bextreme&amp;th=1&amp;xcust=2-1-406861-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$100 in a 2TB</a> capacity.</p>
+
+
+
+<p>Faster USB 20Gbps (Gen 2&times;2) basically doubles speed but moves you into a higher-price bracket, with the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Seagate-Firecuda-Gaming-500GB-External/dp/B083GH6X5V/ref=sr_1_2?crid=10DW58H43SZ2Y&amp;keywords=seagate+firecuda+gaming+pc+500GB&amp;qid=1689103655&amp;sprefix=seagate+firecuda+gaming+pc+500gb%2Caps%2C134&amp;sr=8-2&amp;ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&amp;xcust=2-1-406861-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Seagate Firecuda Gaming SSD</a> costing $90 for only 500GB of storage. Although far faster than 5/10Gbps, there still aren&rsquo;t a lot of USB 20Gbps/USB4 ports out there.</p>
+
+
+
+<p>Thunderbolt 3 and the newer Thunderbolt 4 (almost exactly the same thing with stricter implementation requirements) are the highest-performing interfaces for external storage. The key negatives are the premium pricing and a general lack of compatibility with the far more popular USB. </p>
+
+
+
+<p>That said, there are dual Thunderbolt/USB SSDs available such as the <a href="https://www.pcworld.com/article/1931773/sandisk-pro-g40-review.html">Sandisk Pro-G40</a>. The G40 is pricey at $160 for 1TB, but a fantastic drive for those who can afford it. Pure Thunderbolt external SSDs can be even pricier, as they&rsquo;re almost all sold by Mac-oriented boutique vendors such as OWC and Sabrent. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2017/07/usb_portable_drives-100729043-orig.jpg" rel="nofollow"><img alt="usb portable drives" src="https://images.idgesg.net/images/article/2017/07/usb_portable_drives-100729043-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption">
+<p>The top drive uses the older, slower Mini-USB interface. The second drive features the connector that replaced it: Micro B SuperSpeed. The Orange drive features both a SuperSpeed Micro B and Thunderbolt 2 (mini DisplayPort connector). The bottom drive features USB-C or USB Type C.</p>
+</figcaption></figure></div>
+
+
+
+
+<h3 class="wp-block-heading" id="ports">Ports</h3>
+
+
+
+<p>External drives come with a variety of ports, though they&rsquo;re gradually (and thankfully) consolidating on the orientation-agnostic Type-C connector. Here&rsquo;s the list of connectors you might see on your drive:</p>
+
+
+
+<p><strong>USB 3 Micro-B </strong>&mdash; This wider, flatter port is still very common&nbsp;on many lower-cost portable and desktop external hard drives. It&rsquo;s actually the same Micro USB port used on your phone, but with more data lines to hit USB 3.0 speeds. It&rsquo;ll do 5Gbps and is fine for hard drives and SATA (internally) SSDs.&nbsp;Micro-B cables are generally Type-A on the PC end.</p>
+
+
+
+<p><strong>USB 3 Type-B</strong>&nbsp;is the larger, squarer version of USB 3.0 Micro B. Type B ports are becoming rare, though you might find one on older 5.25-inch enclosures, printers, and scanners. It supports speeds up to 5Gbps and cables are generally Type-A on the PC side.&nbsp;</p>
+
+
+
+<p><strong>USB Type-C  or simply Type-C </strong>is the latest USB connector and the one the world is standardizing on. It&rsquo;s small, easy to insert, and you don&rsquo;t have to worry about which side faces up as with Type-A.  </p>
+
+
+
+<p>Keep in mind that Type-C refers only to the connector itself. What is carried over the wires varies greatly: USB 2.0 High Speed (480Mbps) to USB 3.2 SuperSpeed 20Gbps, as well as USB4 and Thunderbolt 3 and any combination of them. </p>
+
+
+
+<p><strong>USB Type-A</strong> You won&rsquo;t find this familiar rectangular port on any drive, but you will still find it on plenty of PCs and laptops as well as the male version on the other end of most Type-B and Type-C adapter cables.  </p>
+
+
+
+<p><strong>Thunderbolt 2</strong> is dead at this point. It&rsquo;s found on older Macs, but even Apple put it out to pasture in 2017. There&rsquo;s no need to invest in a Thunderbolt 2 drive unless it&rsquo;s for legacy support issues. That said&hellip;</p>
+
+
+
+<p>&hellip;Apple sells a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Apple-Thunderbolt-USB-C-Adapter/dp/B01MQ26QIY/ref=sr_1_3?dchild=1&amp;keywords=apple+thunderbolt+adapter&amp;qid=1620852408&amp;s=electronics&amp;sr=1-3&amp;xcust=2-1-406861-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">bi-directional Thunderbolt 1/2 to 3 adapter</a> if you need to connect the one generation to the other. The adapter does not, however, carry power, so bus-powered external drives (no power jack) will require a powered dock.</p>
+
+
+
+<p><strong>eSATA</strong> is another legacy port that&rsquo;s disappeared from newer tech. Created for attaching external storage to your computer&rsquo;s SATA bus, eSATA was a cheap way in its day to move beyond the toddling 60MBps performance of USB 2.0. </p>
+
+
+
+<p>5Gbps USB 3.0 put the last nail in eSATA&rsquo;s coffin. As with Thunderbolt 2, the only reason to invest in an eSATA drive is for use with older computers.</p>
+
+
+
+<h2 class="wp-block-heading" id="two-drives-for-backup">Two drives for backup?</h2>
+
+
+
+<p>There&rsquo;s a fundamental maxim in backup, appropriately named the Rule of Three. It states that you should always maintain three copies of your irreplaceable data: the original data, a backup, and a backup of the backup.</p>
+
+
+
+<p>Preferably, the two backups are kept in separate locations, one being offsite (online, or another location). Keeping a copy online is great for smaller amounts of data and certainly meets the offsite criteria. </p>
+
+
+
+<p>However, for vast photo, audio, and/or video collections, external drives in pairs (or more), are a far faster solution. Especially with most broadband still being relatively limited in upstream speed.&nbsp;&nbsp;</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><em>For guidance on building out the best backup plan possible, see our roundups of the <a href="https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html">best cloud backup services</a> and best <a href="https://www.pcworld.com/article/407021/best-windows-backup-software.html">Windows backup software</a>. </em></p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="how-we-test">How we test</h2>
+
+
+
+<p><em>Some of the older reviews you might find here feature results gathered on an Intel Core i7-5820K/X99 motherboard with 64GB of Kingston DDR4 memory running Windows 10.&nbsp;A discrete&nbsp;Gigabyte Alpine Ridge Thunderbolt 3 card and Ableconn USB 3.2 2&times;2 20Gbps card (Asmedia 2142 controller) were used for connecting the external drives. An Asus USB 3.1/10Gbps (Asmedia 1142 controller) card was employed for some of the really old drives on the chart.&nbsp;</em></p>
+
+
+
+<p><em>Subsequently, drives were tested using Windows 11 64-bit running on an MSI MEG X570/AMD Ryzen 3700X combo with four 16GB Kingston 2666MHz DDR4 modules, a Zotac (Nvidia) GT 710 1GB x2 PCIe graphics card, and the Asmedia ASM3242 USB 3.2&times;2 card. Copy tests utilize an ImDisk RAM disk using 58GB of the 64GB total memory.</em></p>
+
+
+
+<p><em>Currently, we&rsquo;re using Windows 11 64-bit running on an X790 (PCIe 4.0/5.0) motherboard/i5-12400 CPU combo with two Kingston Fury 32GB DDR5 4800MHz modules (64GB of memory total). Both 20Gbps USB and Thunderbolt 4 are on the board and Intel integrated graphics are employed. The 48GB transfer tests utilize an ImDisk RAM disk taking up 58GB of the 64GB of total memory. The 450GB file is transferred from a&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://Talking%20to%20Phison,%20it%20seems%20likely%20that%20the%20Micron%20N48%20NAND%20is%20simply%20blazing%20in%20pSLC%20mode%20(pseudo%20Single%20Level%20Cell/1-bit)%20and%20the%20E21T%20improves%20greatly%20on%20HMB%20performance.%20Whatever%20the%20reason,%20you%20get%20real%20world%20sustained%20transfers%20we've%20only%20seen%20with%20the%20latest%20PCIe%205.0%20drives.&amp;xcust=2-1-1931773-1-0-0&amp;sref=https://www.pcworld.com/article/1931773/sandisk-pro-g40-review.html">Samsung 990 Pro 2TB</a>&nbsp;which also runs the OS.</em></p>
+
+
+
+<p><em>We run various synthetic benchmarks including Crystal Disk Mark 6/7/8, AS SSD 2, and Iometer. We also perform real-world transfer tests using a 48GB batch of small files and folders, as well as a large 48GB and 450GB files. The testbed boots from a NVMe drive, but the real-world (Windows) file transfers are performed to and from a 58GB RAM disk.</em></p>
+
+
+
+<p><em>Note that all review charts feature results garnered from the same test bed.</em></p>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="external-drive-faq"> External drive FAQ </h2><hr class="block-horizotal-divider" />
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 class="wp-block-heading" id="what-is-the-difference-between-an-ssd-and-an-hdd">What is the difference between an SSD and an HDD?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>HDDs (hard disk drives) have been around for more than 50 years. They are essentially boxes containing spinning platters with read/write arms that skim across them to detect the orientation of, or re-align particles in, the magnetic material that coats the platters.&nbsp;</p>
+
+
+
+<p>SSDs (solid state drives), on the other hand, use flash memory and have no moving parts inside the drive. Data is instead stored in cells&mdash;aka, voltage traps&mdash;which are interconnected in a matrix. The matrix approach allows for data to be pushed or pulled to/from many different places at once and significantly increases both read and write speed. On the order of 100 times faster these days.</p>
+
+
+
+<p>Generally speaking, SSDs are a better bet for your external drives due to their smaller size, faster speeds, and far superior ruggedness and durability. The main drawback to SSDs is that you pay quite a bit more per terabyte of storage. As technology and production techniques improve, the price of SSDs has and will continue to drop.</p>
+</div>
+</div></div>
+</div>
+
+
+
+Business, Storage</div>
+
+## Microsoft 365 Copilot AI’s steep price is an ill omen for Windows users
+ - [https://www.pcworld.com/article/1997371/microsofts-price-for-its-business-ai-is-insane.html](https://www.pcworld.com/article/1997371/microsofts-price-for-its-business-ai-is-insane.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T15:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you thought that Microsoft wouldn&rsquo;t capitalize on its AI opportunity for businesses, think again.</p>
+
+
+
+<p>Microsoft will tell its corporate partners this week at Microsoft Inspire that it will charge a whopping $30 per user per month for Microsoft 365 Copilot, Microsoft&rsquo;s AI-assisted features for its Microsoft 365 suite &mdash; double what it&rsquo;s charging for Microsoft 365 by itself. Microsoft is also announcing a specialized version of Bing Chat for businesses, Bing Chat Enterprise, that will can be used to ask the AI questions about a company&rsquo;s confidential information without it being leaked outside of corporate firewalls.</p>
+
+
+
+<p>Microsoft is clearly betting that enterprises will value Microsoft 365 Copilot enough that they&rsquo;ll want to pay for the additional features Copilot offers, which vary by Office application. In fact, Microsoft isn&rsquo;t even saying <em>when</em> Microsoft 365 Copilot will be available this week at its Inspire conference &mdash; just preparing those customers (specifically Microsoft 365 E3, E5, Business Standard and Business Premium customers) that they&rsquo;ll have to pay a ton for the additional AI services.</p>
+
+
+
+<p><a href="https://www.pcworld.com/article/1661514/microsoft-365-copilot-is-microsofts-ai-powers-applied-to-work.html">First announced in March</a>, Microsoft 365 Copilot continues to apply intelligence to enterprise data, the portion of Microsoft&rsquo;s customer base most likely to want to invest in smarter decisions. For years, these smarts were reserved for PowerBI, bringing in third-party sources of data to let users and Microsoft analyze the strengths and weaknesses of their businesses.</p>
+
+
+
+<p>Now, AI will be everywhere. We identified <a href="https://www.pcworld.com/article/1661649/forget-bing-microsoft-365-copilot-looks-like-ais-killer-app.html">Microsoft 365 Copilot as Microsoft&rsquo;s killer app</a>, not only because of its AI capabilities but because how <a href="https://www.pcworld.com/article/1811855/microsoft-copilot-ai-helps-you-skip-meetings-zoom-through-email.html">Microsoft 365 Copilot can change your everyday work day</a>: allowing you to actually skip meetings, zip through your email, and author documents and presentations.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Microsoft 365 Copilot for Excel" class="wp-image-1661555" height="540" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/copilot-excel_print.gif" width="960" /><figcaption class="wp-element-caption">How Microsoft 365 Copilot will work in Microsoft Excel.</figcaption></figure><p class="imageCredit">Microsoft</p></div>
+
+
+
+<p>Microsoft clearly believes that businesses will pay up. Microsoft actually <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-d?ef_id=_k_aabcc36dabdf14e63cc6a7d82c2c46e9_k_&amp;OCID=AIDcmmq8c1jdfb_SEM__k_aabcc36dabdf14e63cc6a7d82c2c46e9_k_&amp;msclkid=aabcc36dabdf14e63cc6a7d82c2c46e9&amp;xcust=2-1-1997371-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">charges businesses</a> about what consumers end up paying for Microsoft 365. Microsoft 365 Apps for Business is the most comparable plan, and Microsoft charges $8.25 per user per month for the desktop versions of the Office apps plus a terabyte of OneDrive cloud storage. Microsoft 365 Business Standard ($12.50/user/mo) and Business Premium ($22/user/mo) cost more for additional data controls. Put another way, Microsoft is charging more per user per month for AI &mdash; double, in some cases! &mdash; than Office itself.</p>
+
+
+
+<p>&ldquo;The comparatively high price point for Microsoft 365 Copilot will likely mean that most early adopting customers will focus on equipping employee roles that have high-value use cases for generative AI, such as marketing, sales and customer service, rather than just roll it out enterprise-wide to all Microsoft 365 users,&rdquo; said Jason Wong, a vice president and analyst at Gartner, in an email. &ldquo;With all the hype for generative AI, organizations expect equal value in return.&rdquo;</p>
+
+
+
+<h2 class="wp-block-heading" id="how-much-will-microsoft-charge-consumers-for-microsoft-365">How much will Microsoft charge consumers for Microsoft 365?</h2>
+
+
+
+<p>What Microsoft hasn&rsquo;t done, however, is disclose anything about what the company will charge everyday Windows users for adding AI to its consumer Microsoft 365 subscriptions. Microsoft currently charges $69.99 per year for Microsoft 365 Personal ($6.99 per month), and $99.99 per year (or $9.99 per month) for a Microsoft 365 Family Plan for between two to six people. If Microsoft plans to charge an additional $30/user/mo for Microsoft 365 Copilot, will consumers end up footing a similar bill?</p>
+
+
+
+<p>We don&rsquo;t know. A company representative replied that Microsoft has &ldquo;nothing more to share&rdquo; about what, if anything, it will charge consumers for Microsoft 365 Copilot.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Microsoft 365 Copilot for Word" class="wp-image-1661556" height="540" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/copilot_word_gifs_print.gif" width="960" /><figcaption class="wp-element-caption">Using Microsoft 365 Copilot in Word.</figcaption></figure><p class="imageCredit">Microsoft</p></div>
+
+
+
+<p>We do know, of course, that Microsoft <em>loves</em> subscriptions. Just this week, Microsoft <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/&amp;xcust=2-1-1997371-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">revamped its Games with Gold program</a> (which <em>gave</em> you free Xbox games) to rename it as Game Pass Core, which allows you <em>access</em> to a small subset of games within of the main Game Pass Ultimate subscription. <a href="https://www.pcworld.com/article/694088/nadella-windows-is-the-socket-for-subscriptions.html">Windows is the &ldquo;socket&rdquo; for subscriptions</a>, Microsoft chief executive Satya Nadella has said. Meanwhile, more and more <a href="https://www.pcworld.com/article/1478458/more-windows-apps-are-hiding-subscriptions.html">Windows apps quietly hide subscriptions</a>, and that&rsquo;s before you arrive at Microsoft 365&rsquo;s overt monthly payment. Microsoft wants you paying for Office, and probably AI, like your water bill &mdash; grumble all you want, but just put it on autopay and budget it in.</p>
+
+
+
+<h2 class="wp-block-heading" id="introducing-bing-chat-enterprise">Introducing Bing Chat Enterprise</h2>
+
+
+
+<p>To sweeten the deal, Microsoft is adding the Bing Chat Enterprise to the same Microsoft 365 business plans that are receiving paid access to Microsoft 365 Copilot, but at no additional cost. What Microsoft is doing, however, is making Bing Chat Enterprise available to those businesses who do not want to pay for Microsoft 365 for an optional $5 per user, per month.</p>
+
+
+
+<p>&ldquo;Just like Bing Chat, Bing Chat Enterprise is grounded in web data and provides complete, verifiable answers with citations, along with visual answers that include graphs, charts and images,&rdquo; Microsoft said in a blog post. More importantly, the information a business customer enters is not sent into the Microsoft cloud, but remains protected.</p>
+
+
+
+<p>On Windows, <a href="https://www.pcworld.com/article/1974843/windows-copilot-cant-decide-what-it-is.html">Windows Copilot is essentially a front door to Bing Chat on the Web</a>, a somewhat unimpressive anticlimax to months of <a href="https://www.pcworld.com/article/1930286/heres-what-windows-copilot-can-do-according-to-microsoft.html">Microsoft hype</a>. But it <em>is</em> free, at least for now, and Microsoft is adding a new feature: visual search. That&rsquo;s a response to Google Bard, Google&rsquo;s own AI engine, which <a href="https://www.pcworld.com/article/1992246/googles-major-bard-expansion-now-scans-images-and-talks-to-you.html">added visual search last week</a>. </p>
+
+
+
+<p>In search, though, the race between Google and Microsoft is a tight one. Consumers will benefit as each company tries to entice you with free features. Google&rsquo;s Workspace is fighting to increase its market share in the enterprise, but Microsoft clearly feels that Microsoft 365 has the upper hand &mdash; and will demand businesses pay for the additional AI capabilities. How the company eventually prices Microsoft 365 for consumers, though, will be a major tell in how it believes average users perceive Microsoft 365 versus Google Workspace. Right now, it looks like Microsoft expects you to open your wallet.</p>
+
+Professional Software</div>
+
+## How to find device drivers when Microsoft Windows can’t
+ - [https://www.pcworld.com/article/1998763/to-find-device-drivers-when-the-windows-automatic-fails.html](https://www.pcworld.com/article/1998763/to-find-device-drivers-when-the-windows-automatic-fails.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T15:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In most cases, Windows will recognize new hardware you install in your PC and you can just start using it. This works for internal components, such as a network or graphics card, as well as external devices like a scanner. </p>
+
+
+
+<p>Usually, the operating system will identify the device, then load and install the correct driver. This can be checked in the Windows Device Manager (right-click the Start button &gt; <em>Device Manager</em>), which normally lists all entries without further instructions. </p>
+
+
+
+<p>But what do you do if Windows marks a component with a yellow exclamation mark and attempts to find the right drivers via Windows Update also fails? It is not always immediately clear which hardware is having issues, since a Device Manager entry like as &ldquo;Other devices -Unknown device&rdquo; doesn&rsquo;t immediately help. </p>
+
+
+
+<p>Instead of guessing and trying out possible drivers willy-nilly, you can use Windows as an identification aid. To do so, open the Device Manager, right-click on the marked entry and select &ldquo;Properties&rdquo; in the context menu. Switch to the &ldquo;Events&rdquo; tab, highlight the sometimes cryptic device designation in information section at the bottom of the field, and copy it to the clipboard.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="The Events &gt; Properties tab in Windows Device Manager." class="wp-image-1998803" height="751" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/device-manager.png" width="1024" /><figcaption class="wp-element-caption"><p></p><p>The entry &ldquo;Other devices -&lsquo; Unknown device&rdquo; says little, but the designation in the &ldquo;Information&rdquo; helps with hardware identification</p>. (Note that this image shows a correctly configured device.)</figcaption></figure><p class="imageCredit">Brad Chacos/IDG</p></div>
+
+
+
+<p>From there, paste that information along with the device manufacturer and, if necessary and possible, the specific device name into a Google search. If the search shows you the name of your component, download the corresponding driver from the support site of your PC or device manufacturer.  (Do <em>not</em> download drivers from third-party sites, as they can be hiding malware.)</p>
+
+
+
+<p><em>This article was translated from German to English, and originally appeared on pcwelt.de.</em></p>
+
+Windows</div>
+
+## You can now buy Nvidia’s GeForce RTX 4060 Ti 16GB, but you probably shouldn’t
+ - [https://www.pcworld.com/article/1998691/the-rtx-4060-ti-16gb-is-available-to-buy-and-you-probably-shouldnt.html](https://www.pcworld.com/article/1998691/the-rtx-4060-ti-16gb-is-available-to-buy-and-you-probably-shouldnt.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T14:37:55+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Nvidia didn&rsquo;t send out any review units for the new 16GB variant RTX 4060 Ti graphics card, which hit the streets today. It&rsquo;s a move that indicates a lack of confidence in the product, and one that used to get The Wagging Finger of Shame on <em>Siskel and Ebert</em>. But if you absolutely must get a mediocre, overpriced graphics card with a limited bus interface, the GeForce RTX 4060 Ti 16GB is now available to purchase, starting at around the $500 mark. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/pl?N=100007709%20601408880%20601110192&amp;xcust=2-2-1998691-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Newegg has listings up</a> for Gigabyte, MSI, and Zotac variants &mdash; there is no Founder&rsquo;s Edition for this card. </p>
+
+
+
+<p>Why should you avoid the RTX 4060 Ti 16GB? Well, broadly for the same reason that <a href="https://www.pcworld.com/article/1925928/nvidia-geforce-rtx-4060-ti-8gb-review.html" rel="noreferrer noopener" target="_blank">you shouldn&rsquo;t buy the standard 8GB model</a>, either. The performance for the $400 version of this card is a disappointment in comparison to the last-gen RTX 3060 Ti, restricting you to 1080p graphics for most recent high-end games, even with Nvidia goodies like DLSS 3 support. One of the chief issues is that the memory bus is just 128 bits, half as wide as last-gen, capping performance even on a more powerful graphics processor. The 16GB variant does nothing to address this issue &mdash; it simply doubles the VRAM capacity. So even with more generous memory, the card will start to bog down at 1440p and higher&hellip;which isn&rsquo;t really acceptable for a $500 card in The Year of Our Lord 2023. </p>
+
+
+
+<p>Depending on your build and the games you play, you might even be better off with the nearly three-year-old RTX 3070, which currently has a street price at about the same range. And if that&rsquo;s not an indictment, I don&rsquo;t know what is. </p>
+
+
+
+<p>That doesn&rsquo;t mean that the GeForce RTX 4060 Ti is worthless, either in the original 8GB version or this new 16GB model. Those <a href="https://www.pcworld.com/article/1662185/what-is-dlss-3-nvidia-geforce-rtx-ai-feature-explained.html">new DLSS 3 software tricks</a> are impressive, and it&rsquo;s made big strides in power efficiency over the previous generation. But it does mean you should avoid paying the full retail price for them, and wait for its actual price to come more in line with its position in the market. At the $500 level, we&rsquo;d recommend stepping over the aisle to the <a href="https://www.pcworld.com/article/393729/amd-radeon-rx-6800-rx-6800-xt-review.html" rel="noreferrer noopener" target="_blank">AMD Radeon RX 6800</a> with its better 1440p performance, or you can save some dough with the <a href="https://www.pcworld.com/article/394249/amd-radeon-rx-6700-xt-review.html" rel="noreferrer noopener" target="_blank">Radeon RX 6700 XT</a> or <a href="https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html" rel="noreferrer noopener" target="_blank">Intel Arc A770</a> at around the $350 mark. </p>
+
+
+
+<p>To see all your best options at every price level, be sure to check out the <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html" rel="noreferrer noopener" target="_blank">best graphics cards on the market for 2023</a>. </p>
+
+Graphics Cards</div>
+
+## How to turn off Sticky Keys in Windows
+ - [https://www.pcworld.com/article/1992392/how-to-turn-off-sticky-keys-in-windows-2.html](https://www.pcworld.com/article/1992392/how-to-turn-off-sticky-keys-in-windows-2.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Windows has plenty of buried features&mdash;and a few are tied to keyboard shortcuts that most users stumble across accidentally. For example, take Sticky Keys, which is an accessibility feature. It lets you execute keyboard shortcuts without having to hold down the Alt, Ctrl, Shift, or Windows keys while pressing the other key(s). You can enable it by tapping the Shift key five times; a prompt will open asking if you want to use Sticky Keys.</p>
+
+
+
+<p>This activation shortcut is handy for discovering the feature, but if you accidentally enable it as result (or have what you were doing interrupted by the prompt), it can be a nuisance. Good news is that you can disable Sticky Keys very easily. Here&rsquo;s how.</p>
+
+
+
+<p><em>Looking to dive further into Windows? Be sure to check out our other helpful articles like the <a href="https://www.pcworld.com/article/394412/the-best-windows-keyboard-shortcuts-to-type-and-browse-faster.html">best Windows keyboard shortcuts</a> and these <a href="https://www.pcworld.com/article/1974877/10-overlooked-windows-11-features-you-should-start-using.html">10 overlooked features in Windows 11</a>.</em></p>
+
+
+
+<h2 class="wp-block-heading" id="windows-10">Windows 10</h2>
+
+
+
+<h3 class="wp-block-heading" id="step-1-open-the-ease-of-access-settings">Step 1: Open the Ease of Access settings</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 10 Ease of Access settings" class="wp-image-1992401" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/ease-of-access-2.png?w=1200" width="1200" /></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>Open the Settings app, then click on <em>Ease of Access</em>. In the navigation bar on the left, scroll toward the bottom. Under the <em>Interaction</em> heading, click on <em>Keyboard</em>.</p>
+
+
+
+<h3 class="wp-block-heading">Step 2: Find the <em>Use Sticky Keys</em> section</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 10 Sticky Key settings" class="wp-image-1992402" height="694" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/ease-of-access-keyboard-settings-2.png?w=1200" width="1200" /></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>In the Ease of Access keyboard settings, the second item should be for Sticky Keys. If the feature is currently disabled, you&rsquo;ll see two options. One is a toggle to enable or disable Sticky Keys and the other is a checkbox for <em>Allow the shortcut key to start Sticky Keys</em>.</p>
+
+
+
+<p>If Sticky Keys is currently on and you want it off, flip the toggle. Otherwise, if you like it on, you can leave it as is and instead customize your experience. To disable the automatic prompt that pops up when you spam the Shift key, uncheck the box. You can have Sticky Keys turned on while the prompt is turned off.</p>
+
+
+
+<h2 class="wp-block-heading" id="windows-11">Windows 11</h2>
+
+
+
+<h3 class="wp-block-heading" id="step-1-open-the-accessibility-settings">Step 1: Open the Accessibility settings</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 Accessibility Keyboard settings" class="wp-image-1993070" height="668" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/win-11-sticky-keys.png?w=1200" width="1200" /></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>In the search bar on your taskbar, type <em>accessibility keyboard settings</em>. Choose <em>Accessibility keyboard settings</em> <em>(System settings)</em> in the search results that appear.</p>
+
+
+
+<h3 class="wp-block-heading" id="step-2-change-the-sticky-key-settings">Step 2: Change the Sticky Key settings</h3>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Windows 11 Sticky Key settings" class="wp-image-1993069" height="538" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/win-11-sticky-keys-shift-key.png?w=1200" width="1200" /></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>To turn off Sticky Keys, flip the toggle to off. Click on the setting&rsquo;s block (not the toggle) to customize the feature, which includes disabling the Shift key shortcut to turn it on or off.</p>
+
+Windows</div>
+
+## Google Maps: This free tool shows a heat map of where you’ve been
+ - [https://www.pcworld.com/article/1998666/google-maps-free-tool-shows-heat-map-of-your-location-data-here-you-are-particularly-often.html](https://www.pcworld.com/article/1998666/google-maps-free-tool-shows-heat-map-of-your-location-data-here-you-are-particularly-often.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T14:18:01+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Android smartphones and tablets, but also iPhones and iPads with Google Maps, constantly send their location data to Google servers, unless you&rsquo;ve turned this off in your privacy settings. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.pcwelt.de/article/1149119/tolle-gratis-navi-app-google-maps-navigation-im-test.html&amp;xcust=2-2-1998666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="noreferrer noopener" target="_blank">Google Maps</a> uses this location data for the real-time display of traffic and warnings of traffic jams. You can also see where you were and when on a timeline. </p>
+
+
+
+<h2 class="wp-block-heading" id="free-third-party-tool-shows-heat-map">Free third-party tool shows heat map</h2>
+
+
+
+<p>But with the Google Maps location data from Android smartphones, something else is possible: You can see at a glance where you have been particularly often and where you rarely go. This is made possible by a nifty third-party tool called <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://locationhistoryvisualizer.com/heatmap/&amp;xcust=2-2-1998666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Location History Visualizer</a>, which does <em>not</em> come from Google. Location History Visualizer evaluates and weighs your Google Maps location data and then displays it in the form of a heat map.</p>
+
+
+
+<p>Dark red spots on the heat map are places where you have been very often. Yellow-colored places are places where you have been less frequently, and light-blue places are places where you almost never go. You haven&rsquo;t visited places without coloring (at least not with your Android smartphone/Google Maps switched on). You can zoom in and out on the map for a more detailed look, too.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-to-use-location-history-visualizer-with-google-maps">How to use Location History Visualizer with Google Maps</h2>
+
+
+
+<p>You need to do some legwork before you can use Location History Visualizer. Sign into your Google account, go to the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://takeout.google.com/settings/takeout?pli=1&amp;xcust=2-2-1998666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Google Takeout page</a> that lets you export your Google data, and click on &ldquo;Deselect All&rdquo; in the top right corner above the list. Then scroll down the list to &ldquo;Location history&rdquo; and check the box. Doing so specifies that only your location data will be exported. Then click on &ldquo;Next step.&rdquo; On the next page, specify the details of the file to be exported and then click on &ldquo;Create export.&rdquo; </p>
+
+
+
+<p>Google will now send you an email with a download link to the file with the exported data. It may take a while for the email with the download link to reach you, depending on how large the file is. The exported file may well be over a gigabyte in size if it contains a lot of location data. This depends on how long you have had your location data tracked by Google.</p>
+
+
+
+<p>Download the ZIP archive to your computer via the download link in the email and unpack it. Open the unzipped folder and browse to &ldquo;Location history.&rdquo; You&rsquo;ll find the file LocationHistory.json or Location History.json. Upload this file to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://locationhistoryvisualizer.com/heatmap/&amp;xcust=2-2-1998666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Location History Visualizer</a>, enter your email address, and then click on &ldquo;Launch Heatmap.&rdquo; You can then navigate through the heatmap.</p>
+
+
+
+<p>Location History Visualizer&rsquo;s creators emphasize evaluating your data is only done offline, and none of your location data will be sent to their servers.</p>
+
+
+
+<p>If you&rsquo;ve switched off the recording of your location history, Google will still create a file, but it will be empty.</p>
+
+
+
+<p><em>This article was translated from German to English, and originally appeared on pcwelt.de.</em></p>
+
+Mobile Apps, Online Services</div>
+
+## Nab Keychron’s super lightweight mechanical keyboard for just $66
+ - [https://www.pcworld.com/article/1998408/1998408.html](https://www.pcworld.com/article/1998408/1998408.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T13:59:03+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There&rsquo;s nothing I love more than a well-made mechanical keyboard. From the tactile feedback to the higher levels of responsiveness, they really make for a fantastic typing experience, and <a href="https://www.pcworld.com/article/1966306/best-mechanical-keyboards.html">Keychron makes some of the best around</a>. Good news! Amazon&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Keychron-Ultra-Slim-Mechanical-Low-Profile-Compatible/dp/B09FDZN1FX&amp;xcust=2-2-1998408-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Keychron K1 SE mechanical keyboard for just $65.80</a>, which is 30 percent off of the original $94 price tag. Not only is this peripheral super lightweight at under two pounds, but it&rsquo;s also compatible with Mac and Windows.</p>
+
+
+
+<p>The Keychron K1 SE features a total of 87 keys, a durable aluminum body, RGB LED backlighting, and Gateron Low Profile red switches. According to the manufacturer, these switches should provide a &ldquo;smooth, linear feeling.&rdquo; You can chose between wireless and wired modes by flipping the orange switch on the side of the keyboard. There&rsquo;s even two adjustable feet levels and curved keycaps, making this keyboard comfortable to use for long periods of time.</p>
+
+
+
+<p>This is a phenomenal deal, especially if you work from home. This keyboard wont&rsquo; take up a ton of desk space and the mechanical switches should be relatively quiet.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Keychron-Ultra-Slim-Mechanical-Low-Profile-Compatible/dp/B09FDZN1FX&amp;xcust=2-2-1998408-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Keychron K1 SE mechanical keyboard for $65.80 at Amazon</a></p>
+Keyboards</div>
+
+## Why hard drives fail, and what you can do about it
+ - [https://www.pcworld.com/article/1996965/why-hdds-fail-and-what-you-can-do-about-it.html](https://www.pcworld.com/article/1996965/why-hdds-fail-and-what-you-can-do-about-it.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Mechanical hard drives are sensitive, precise electromechanical devices consisting of a combination of rotating disks and read/write heads floating above them. Despite their complex construction, they have proven themselves worthy as data carriers. Nevertheless, there are various reasons why a mechanical hard drive can fail. </p>
+
+
+
+<p>These include so-called &ldquo;header crashes.&rdquo; These occur when the read/write head of the hard disk comes into contact with the rotating disk. Header crashes can cause physical damage to the disk and head, resulting in data loss and drive failure. </p>
+
+
+
+<p>If the motor fails, nothing will work either. The motor of a hard disk drive (HDD) is responsible for spinning the platters. If it fails, the drive can no longer access the data stored on it. Another reason for HDD failure can be circuit board failure. In this case, the circuit board no longer controls the electrical signals correctly. </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><a href="https://www.pcworld.com/article/407542/best-ssds.html">The best SSDs 2023: Buying advice &amp; tips for every budget</a></p>
+</blockquote>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Harddisk" class="wp-image-1977184" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/pcw07_HDD.jpg?quality=50&amp;strip=all&amp;w=836" width="836" /><figcaption class="wp-element-caption"><p>In an HDD, the rotating magnetic disks contain the data, which is then written to or read from them with the help of the read/write head.</p>
+</figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p>Wear and tear is a natural factor that can contribute to HDD failure. Over time, mechanical components wear out and can fail. This can be due to normal wear and tear or more serious problems such as vibration. </p>
+
+
+
+<p>Physical damage, such as dropping or contact with water or other liquids, can also lead to mechanical failure and data loss. Finally, overheating can also be a major problem for an HDD. If it gets too hot around the drive, failures are often the result. Mostly, however, drive defects do not announce themselves clearly. </p>
+
+
+
+<p>But there are warning signals that can indicate an impending defect. These include unusual noises, which can indicate problems with the read/write heads or bearings. Slow performance can also be a sign of difficulty accessing or transferring data. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="the-best-ssds-dont-suffer-from-mechanical-failures">
+					the best ssds don't suffer from mechanical failures				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="wd-black-sn850x">WD Black SN850X</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="WD Black SN850X" class="product-widget__image" height="696" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/WD_BLACK-SN850X-NVMe-SSD-flat.jpg?quality=50&amp;strip=all" width="2000" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/828399/wd-black-sn850x-ssd-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Error messages from self-monitoring and reporting functions such as SMART, access problems, or frequent blue screens also indicate that something is wrong with your hard drive. </p>
+
+
+
+<p>To prevent HDD failures, it is advisable to take a few precautionary measures. These include keeping the drive cool by placing it in a well-ventilated enclosure and ensuring that <a href="https://www.pcworld.com/article/394965/how-to-set-up-your-pcs-fans-for-maximum-system-cooling.html">air circulation inside the PC is optimized</a>. Avoid exposing the drive to direct sunlight or other sources of heat. </p>
+
+
+
+<p>A surge protector can also help protect your drive (and your PC) from voltage spikes and power fluctuations. They can also cause mechanical failures. Modern power supplies should actually take care of protecting connected drives from such events. Nevertheless, <a href="https://www.techhive.com/article/582703/best-surge-protector.html">a good surge protection strip</a> can&rsquo;t hurt. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Harddisk" class="wp-image-1977185" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/pcw07_HDD-aufmacher.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Although HDDs are sensitive, they are still frequently used in PCs. Often, impending failures and defects can be detected and prevented at an early stage.</p>
+</figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p>It is generally advisable to handle your hardware with care. If possible, avoid dropping a hard drive or subjecting it to strong vibrations, especially during operation. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="the-best-budget-external-ssd">
+					the best budget external ssd				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="crucial-x6-portable-ssd-2tb">Crucial X6 Portable SSD (2TB)</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Crucial X6 Portable SSD (2TB)" class="product-widget__image" height="1346" src="https://images.idgesg.net/images/article/2021/03/crucial-x6-portable-usb-ssd-primary-resized-100881988-orig.jpg?quality=50&amp;strip=all" width="2022" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/394275/crucial-x6-usb-ssd-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p><a href="https://www.pcworld.com/article/407021/best-windows-backup-software.html">Regular data backups</a> are essential in order not to lose your important information irretrievably in the event of a drive failure. Please use <a href="https://www.pcworld.com/article/406861/best-external-drives.html">external drives</a>, network storage, or <a href="https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html">cloud storage solutions</a> to create regular backups of your data. </p>
+
+
+
+<p>Furthermore, always keep your computer clean by regularly cleaning it from dust and dirt. To do this, simply use a compressed air spray or a hoover with special attachments to remove debris inside the PC. Be careful not to damage the sensitive components. </p>
+
+
+
+<p>Also, run regular diagnostic tests with a utility tool such as Crystaldiskinfo to keep an eye on your drive&rsquo;s health and detect potential problems early. Our guide explaining <a href="https://www.pcworld.com/article/393207/how-to-check-and-monitor-your-hard-drives-health.html">how to check and monitor your hard drive&rsquo;s health</a> can point you towards several helpful tools.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Crystaldiskinfo " class="wp-image-1977186" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/pcw07_SMART.jpg?quality=50&amp;strip=all&amp;w=1186" width="1186" /><figcaption class="wp-element-caption"><p>A system tool such as Crystaldiskinfo can be used to read out the SMART values of hard disks to determine the current state of the storage media.</p>
+</figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p>These tools help you detect mechanical failures in their early stages and subsequently take appropriate measures to prevent them. </p>
+
+
+
+<p>Another way to increase the security of your data is to use a RAID array (Redundant Array of Independent Disks). With this array, several drives can be connected together with redundancy. This way, a hard disk can fail without losing your data because the data is mirrored on several data carriers. It is also very unlikely that two drives will fail at the same time, so you always have the option of simply replacing the faulty drive with a new HDD. </p>
+
+
+
+<p>In the event that a mechanical drive does fail, there are several options to recover data and get the drive working again. These include, for example, using data recovery software, sending the drive to a professional data recovery service, replacing the faulty components or, finally, replacing the drive completely. </p>
+
+
+
+<p>However, it is important to note that data recovery is not always successful because the degree of damage is also very important. Therefore, you should always have a backup so that you do not lose important information in the event of a drive failure.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/1992326/3-reasons-you-should-still-buy-a-hard-drive.html">3 reasons you should still buy a hard drive</a></p>
+</blockquote>
+
+
+
+<p><em>This article was translated from German to English, and originally appeared on pcwelt.de.</em></p>
+
+Computer Components, Storage</div>
+
+## Dell Ultrasharp U3824DW review: A monitor that’s all work, no play
+ - [https://www.pcworld.com/article/1992347/dell-ultrasharp-u3824dw-review.html](https://www.pcworld.com/article/1992347/dell-ultrasharp-u3824dw-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-18T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Attractive, sturdy design</li><li>Excellent USB-C connectivity</li><li>IPS panel improves contrast</li><li>Solid color gamut</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Doesn&rsquo;t support HDR</li><li>Only 60Hz refresh rate</li><li>No Adaptive Sync</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Dell Ultrasharp U3824DW is a large, attractive monitor with a laser-like focus on office productivity.</p>
+</div>
+
+
+<p>Big ultrawide monitors often prioritize image quality to satisfy gamers, but Dell&rsquo;s U3824DW takes a different tactic. It&rsquo;s a beefy 38-inch display that combines good image quality with extensive USB connectivity, decent speakers, and easy-to-use image-quality customization. The monitor makes significant sacrifices, but its perks are sure to please shoppers looking to connect many devices and peripherals to a single display.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong>See our roundup of the <a href="https://www.pcworld.com/article/1470449/best-ultrawide-monitors.html">best ultrawide monitors</a> to learn about competing products.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="what-are-the-dell-u3824dw-specs">What are the Dell U3824DW specs?</h2>
+
+
+
+<p>The Dell Ultrasharp U3824DW&rsquo;s connectivity leaps out. The monitor has an incredible range of ports (14 in total), which support numerous display inputs, USB-C, USB-A, and Ethernet. It also has an IPS Black display panel that roughly doubles the contrast ratio of older IPS displays.</p>
+
+
+
+<ul>
+<li>Display size: 38-inch 21:9 ultrawide</li>
+
+
+
+<li>Native resolution: 3840&times;1600</li>
+
+
+
+<li>Panel type: IPS Black LCD</li>
+
+
+
+<li>Refresh rate: 60Hz</li>
+
+
+
+<li>Adaptive Sync: None</li>
+
+
+
+<li>HDR: None</li>
+
+
+
+<li>Ports: 2x HDMI, 1x DisplayPort 1.4, 1x USB-C with 90 watts Power Delivery and DisplayPort 1.4, 1x USB-C 3.2 Gen 2 upstream (data only), 4x USB-A 3.2 Gen 2 downstream, 2x USB-C 3.2 Gen 2 downstream with 15 watts Power Delivery, 3.5mm audio-out, RJ-45 Gigabit Ethernet</li>
+
+
+
+<li>Speakers: Included, dual 9-watt</li>
+
+
+
+<li>Price: $1,529.99</li>
+</ul>
+
+
+
+<p>However, Dell skips numerous entertainment features such as HDR, an enhanced refresh rate, and Adaptive Sync. These omissions are annoying given the monitor&rsquo;s high price, but its perks outweigh its problems.</p>
+
+
+
+<h2 class="wp-block-heading" id="dell-u3824dw-design">Dell U3824DW design</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992359" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-4.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Dell U3824DW (backside).</p>
+</figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>The Dell UltraSharp U3824DW relies on the company&rsquo;s familiar design language to provide a subdued and professional look. A sweeping silver rear panel is paired with white accents and a slim black bezel surrounding the display. It&rsquo;s simple yet classic, and should work well in any home or corporate office. Dell&rsquo;s competitors, such as the Asus ProArt and Viewsonic VP/Elite Series, are attractive but less luxurious, as they tend to rely on black or gray plastic with a rougher feel.</p>
+
+
+
+<p>Though curved, the U3824DW&rsquo;s curve is modest. That makes sense given its focus on productivity. A more pronounced curve can be more immersive in entertainment but distorts the appearance of the image, which can be distracting when editing a photo or video. This is a matter of personal taste, of course, but I think the U3824DW&rsquo;s subtle curve is suited to its purpose.</p>
+
+
+
+<p>Plastic is used across all display panel surfaces, but as with most Dell monitors, the materials feel sturdy and don&rsquo;t allow much flex when the monitor is handled. The monitor is relatively heavy for its size at nearly 20 pounds without the stand, so you&rsquo;ll need a high-quality monitor arm if you intend to use one.</p>
+
+
+
+<p>Fortunately, the bundled stand is excellent. It feels sturdy, keeps the monitor planted, and takes minimal desk space despite the monitor&rsquo;s large overall size. It also adjusts for height, swivel, and tilt, though it doesn&rsquo;t rotate into a vertical orientation. A 100x100mm VESA mount is available for third-party monitor arms and stands.</p>
+
+
+
+<h2 class="wp-block-heading" id="dell-u3824dw-features-and-menus">Dell U3824DW features and menus</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992360" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-5.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>The Dell U3824DW comes with extensive connectivity features.</p>
+</figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Connectivity is arguably the reason to buy the Dell UltraSharp U3824DW over its competitors. The monitor has extensive USB connectivity and plenty of video inputs.</p>
+
+
+
+<p>Let&rsquo;s start with video: The monitor has two HDMI ports, one DisplayPort, and one USB-C with DisplayPort Alternate Mode, for a total of four video inputs&mdash;a healthy number for any monitor.</p>
+
+
+
+<p>The USB-C port also extends connectivity to four additional USB-A downstream ports, as well as two USB-C downstream ports. Gigabit Ethernet and audio out are also available. These downstream ports can be driven by either the USB-C port with DisplayPort Alternate Mode or a second USB-C upstream port. Because of this, the monitor offers a KVM switch mode, which allows you to easily switch between two connected computers.</p>
+
+
+
+<p>One thing the monitor does not have is a USB-B upstream port, and this means that you will need a USB-C port on your computer or an adapter to access the monitor&rsquo;s downstream USB connectivity. This feels like a sign of the times as past Dell UltraSharp monitors have included USB-B.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992363" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-3.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>The Dell U3824DW has a well-designed menu with plenty of image quality options.</p> </figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>The U3824DW offers intuitive, easy-to-use menus controlled by a joystick on the monitor&rsquo;s right flank. Image-quality options span the usual, like brightness and contrast, but also offer several color temperature modes and a custom color mode that allows for customization of color saturation, hue, gain, and offset. The image-customization options here are suitable for most content creators. The monitor also offers a picture-by-picture mode which effectively turns the monitor into two monitors, each displaying a different input.</p>
+
+
+
+<p>While the joystick is smooth and responsive, the monitor can also be controlled with Dell Display Manager, a Windows utility that has access to most of the monitor&rsquo;s features and can change them on the fly. Display Manager is a useful addition, and one not found on most productivity monitors.</p>
+
+
+
+<p>The U3824DW&rsquo;s extensive feature set is rounded out by a pair of 9-watt speakers which are competent, if not amazing. They provide strong, clear audio that can handle podcasts, YouTube, casual gaming, and music at lower volumes. <a href="https://www.pcworld.com/article/832609/benq-ew3880r-monitor-review.html" rel="noreferrer noopener" target="_blank">BenQ&rsquo;s EW3880R</a> has a built-in woofer that beats the Dell U3824DW&rsquo;s audio quality, but the U3824DW is otherwise superior to its competitors.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Those looking for a big ultrawide specifically built for work will find the U3824DW provides a wealth of connectivity and functionality unavailable from most competitors.</p></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading" id="how-is-the-dell-u3824dws-sdr-image-quality">How is the Dell U3824DW&rsquo;s SDR image quality?</h2>
+
+
+
+<p>The Dell UltraSharp U3824DW is a pricey monitor designed to handle both office productivity and content creation, so its SDR image quality needs to be up to par. Fortunately, it has an IPS Black panel that delivers strong results.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992366" height="793" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-brightness.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Admittedly, the monitor doesn&rsquo;t get off to the best start with brightness, as it achieved a maximum of only 239 nits. That&rsquo;s fine for use in a typical office with blinds to control outside light, but it can look a bit dim in bright rooms. Competitors like the <a href="https://www.pcworld.com/article/1346674/asus-proart-pa348cgv-review.html" rel="noreferrer noopener" target="_blank">Asus ProArt PA348CGV</a> and <a href="https://www.pcworld.com/article/1937529/philips-evnia-7000-monitor-review.html" rel="noreferrer noopener" target="_blank">Philips Evnia 34 7000</a> are more capable here.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992367" height="825" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-contrast.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Dell strikes back in contrast thanks to the IPS Black panel, which can reach lower black levels than conventional IPS panels. That translates to an improved contrast ratio of 2080:1. The Philips Evnia 34 can do better, thanks to its Mini-LED backlight, but most IPS monitors lag far behind the U3824DW.</p>
+
+
+
+<p>The monitor&rsquo;s superior contrast provides better results in dark content, where shadowy scenes show more detail. IPS glow, a problem that creates a hazy gray look in dark scenes, is not eliminated but noticeably less visible than with most IPS monitors.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992368" height="793" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-color-gamut.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Dell&rsquo;s color gamut is extremely strong for this category, covering up to 97 percent of DCI-P3 and 90 percent of Adobe RGB. These results are similar to the Philips Evnia 34 7000 and a bit better than most comparable monitors. The monitor&rsquo;s color gamut is suitable for most professional photography, videography, and other content creation tasks, and lends a vivid, vibrant look in day-to-day use.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992369" height="845" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-color-accuracy.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Color accuracy is merely okay out-of-the-box. The U3824DW offers a lot of image customization options, so errors in the monitor&rsquo;s color should be manageable with calibration. Still, I think Dell should step up its game on its factory color calibration. A monitor of this caliber shouldn&rsquo;t be defeated by less expensive alternatives.</p>
+
+
+
+<p>The U3824DW achieved a default gamma of 2.2, which is precisely what we like to see. It indicates content should look about as bright as its creator intended. Color temperature came in at 6300K, which is a bit warm, and the monitor&rsquo;s default image is a tad reddish compared to most of its peers.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					mentioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="asus-proart-pa348cgv">Asus ProArt PA348CGV</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Asus ProArt PA348CGV" class="product-widget__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/asus-proart-PA348CGV-5.jpg?quality=50&amp;strip=all" width="1500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1346674/asus-proart-pa348cgv-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Sharpness is solid, as the monitor&rsquo;s 3840&times;1600 resolution provides a pixel density of 109 pixels per inch. That&rsquo;s essentially identical to a 27-inch 1440p monitor or a 34-inch ultrawide with 3440&times;1440 resolution. Unfortunately, native 4K content remains out of reach, as that requires a resolution of 3840&times;2160, but the U3824DW remains plenty sharp for productivity, web browsing, and gaming.</p>
+
+
+
+<p>The Dell U3824DW&rsquo;s overall image quality is well-suited for both day-to-day office productivity and more demanding content creation tasks. Whether it&rsquo;s good enough to justify the price depends on your needs. Mini-LED monitors, like the Philips Envision 34, will deliver much better brightness and contrast at a comparable price&mdash;but they lack the U3824DW&rsquo;s extensive connectivity.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-is-the-dell-u3824dws-hdr-image-quality">How is the Dell U3824DW&rsquo;s HDR image quality?</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell U3824DW" class="wp-image-1992370" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dell-ultrasharp-u3824dw-2.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Lack of HDR support with the Dell U3824DW may hinder creators who need to work on HDR content.</p>
+</figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>The Dell U3824DW doesn&rsquo;t support HDR. This will prove a problem for content creators who plan to work on HDR content. However, it&rsquo;s clear that this monitor is not well-positioned to provide a good HDR experience, so I don&rsquo;t think the lack of HDR will disappoint most owners. Just keep it in mind when making your selection. If you want HDR, you&rsquo;re going to want to look at a Mini-LED or OLED monitor.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-is-the-dell-u3824dws-motion-performance">How is the Dell U3824DW&rsquo;s motion performance?</h2>
+
+
+
+<p>Gamers should give the U3824DW a pass. It provides a maximum refresh rate of just 60Hz and lacks Adaptive Sync. Games look quite good on the monitor thanks to its wide color gamut and solid sharpness, but fast-paced titles show a lot of motion blur. It&rsquo;s another trade-off for the monitor&rsquo;s extensive connectivity.</p>
+
+
+
+<h2 class="wp-block-heading" id="is-the-dell-u3824dw-worth-it">Is the Dell U3824DW worth it?</h2>
+
+
+
+<p>The Dell Ultrasharp U3824DW aims squarely at office productivity, and that&rsquo;s where it excels. It delivers a one-two punch of great image quality and extensive USB connectivity. These key features are supported by an easy-to-use menu and many image-quality customization options. Some nice-to-have features like HDR, an enhanced refresh rate, and Adaptive Sync are sacrificed, and that limits the monitor&rsquo;s appeal. However, those looking for a big ultrawide specifically built for work will find the U3824DW provides a wealth of connectivity and functionality unavailable from most competitors.</p>
+
+Monitors</div>
+
