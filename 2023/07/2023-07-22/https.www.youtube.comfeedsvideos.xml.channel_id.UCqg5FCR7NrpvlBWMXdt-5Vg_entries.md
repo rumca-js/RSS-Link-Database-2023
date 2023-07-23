@@ -1,0 +1,76 @@
+# Source:The Escapist, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg, language:en-US
+
+## Yahtzee's Handing the Minions Off to Frost for Storytime
+ - [https://www.youtube.com/watch?v=we4Yjm_4kyw](https://www.youtube.com/watch?v=we4Yjm_4kyw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg
+ - date published: 2023-07-22T20:30:50+00:00
+
+Watch the pilot episode for our new series - The Stuff of Legends - featuring Frost telling the minions weird, interesting and funny stories from the games industry. https://youtu.be/TP5-pfBmZss
+
+Join our Patreon for a week of Early Access to all of our Premium video series including Zero Punctuation, Cold Take, Extra Punctuation, Adventure is Nigh and more! Just $2/month with a 7 day free trial. ►► https://www.patreon.com/the_escapist
+
+Join our growing Discord community: https://discord.gg/A6T2gKrDwB
+
+Subscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist
+
+---
+
+
+
+---
+
+The Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store
+Join us on Twitch ►► https://www.twitch.tv/the_escapist_official
+Like us on Facebook ►► http://www.facebook.com/EscapistMag
+Follow us on Twitter ►► https://twitter.com/EscapistMag
+
+## Exoprimal | Game Night with The Escapist
+ - [https://www.youtube.com/watch?v=DmEoTTDbKNk](https://www.youtube.com/watch?v=DmEoTTDbKNk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg
+ - date published: 2023-07-22T19:33:19+00:00
+
+Join YouTube Memberships and support our content for Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vg/join
+
+Join our growing Discord community: https://discord.gg/A6T2gKrDwB
+
+Subscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist
+
+Want to see the next episode a week early? Check out http://www.escapistmagazine.com for the latest episodes of your favorite shows.
+
+---
+
+
+
+---
+
+The Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store
+Join us on Twitch ►► https://www.twitch.tv/the_escapist_official
+Like us on Facebook ►► http://www.facebook.com/EscapistMag
+Follow us on Twitter ►► https://twitter.com/EscapistMag
+
+## Bread & Fred | Today We Play with Frost and Will
+ - [https://www.youtube.com/watch?v=UWdSEXrA2OE](https://www.youtube.com/watch?v=UWdSEXrA2OE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg
+ - date published: 2023-07-22T07:41:34+00:00
+
+Support us on Patreon to get Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.patreon.com/the_escapist
+
+Welcome to Childhood Classics, a new fan-funded streaming series with Amy and Frost where we're going back to play our favorite games from our childhood, starting with a bunch of Disney games.
+
+Join our growing Discord community: https://discord.gg/A6T2gKrDwB
+
+Subscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist
+
+Want to see the next episode a week early? Check out http://www.escapistmagazine.com for the latest episodes of your favorite shows.
+
+---
+
+
+
+---
+
+The Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store
+Join us on Twitch ►► https://www.twitch.tv/the_escapist_official
+Like us on Facebook ►► http://www.facebook.com/EscapistMag
+Follow us on Twitter ►► https://twitter.com/EscapistMag
+
