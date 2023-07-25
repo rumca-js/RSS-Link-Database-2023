@@ -1,0 +1,50 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## Stacey Plaskett Complains That Allowing RFK Jr. To Speak Will Make The Biden Administration “Hesitant” About Stopping “Misinformation”
+ - [https://reclaimthenet.org/stacey-plaskett-complains-rfk-jr-speech](https://reclaimthenet.org/stacey-plaskett-complains-rfk-jr-speech)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-24T18:18:16+00:00
+
+<a href="https://reclaimthenet.org/stacey-plaskett-complains-rfk-jr-speech" rel="nofollow" title="Stacey Plaskett Complains That Allowing RFK Jr. To Speak Will Make The Biden Administration &#8220;Hesitant&#8221; About Stopping &#8220;Misinformation&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/plaskett-censor.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>She then complains that people are accusing her of censorship.</p>
+<p>The post <a href="https://reclaimthenet.org/stacey-plaskett-complains-rfk-jr-speech" rel="nofollow">Stacey Plaskett Complains That Allowing RFK Jr. To Speak Will Make The Biden Administration &#8220;Hesitant&#8221; About Stopping &#8220;Misinformation&#8221;</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Cameroon To Flood Its Largest City With Mass Surveillance
+ - [https://reclaimthenet.org/cameroon-to-flood-its-largest-city-with-mass-surveillance](https://reclaimthenet.org/cameroon-to-flood-its-largest-city-with-mass-surveillance)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-24T17:33:20+00:00
+
+<a href="https://reclaimthenet.org/cameroon-to-flood-its-largest-city-with-mass-surveillance" rel="nofollow" title="Cameroon To Flood Its Largest City With Mass Surveillance"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/cameroon-3289.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>A surveillance city.</p>
+<p>The post <a href="https://reclaimthenet.org/cameroon-to-flood-its-largest-city-with-mass-surveillance" rel="nofollow">Cameroon To Flood Its Largest City With Mass Surveillance</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Child Abuse Survivor Sues Meta For Scanning Messages
+ - [https://reclaimthenet.org/child-abuse-survivor-sues-meta-for-scanning-messages](https://reclaimthenet.org/child-abuse-survivor-sues-meta-for-scanning-messages)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-24T16:56:04+00:00
+
+<a href="https://reclaimthenet.org/child-abuse-survivor-sues-meta-for-scanning-messages" rel="nofollow" title="Child Abuse Survivor Sues Meta For Scanning Messages"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/fb-mes0scan.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Meta scanning private messages is hindering the work of a support group.</p>
+<p>The post <a href="https://reclaimthenet.org/child-abuse-survivor-sues-meta-for-scanning-messages" rel="nofollow">Child Abuse Survivor Sues Meta For Scanning Messages</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## EU Tries To Justify Support For Scanning Private Messages With Manipulative Public Poll Results
+ - [https://reclaimthenet.org/u-tries-to-justify-support-for-scanning-private-messages](https://reclaimthenet.org/u-tries-to-justify-support-for-scanning-private-messages)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-24T16:39:08+00:00
+
+<a href="https://reclaimthenet.org/u-tries-to-justify-support-for-scanning-private-messages" rel="nofollow" title="EU Tries To Justify Support For Scanning Private Messages With Manipulative Public Poll Results"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/graphs-polls.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Leaving the public in the dark about what it entails.</p>
+<p>The post <a href="https://reclaimthenet.org/u-tries-to-justify-support-for-scanning-private-messages" rel="nofollow">EU Tries To Justify Support For Scanning Private Messages With Manipulative Public Poll Results</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Eyeball-Scanning Global ID System Worldcoin Launches
+ - [https://reclaimthenet.org/sam-altmans-eyeball-scanning-global-id-system-worldcoin-launches](https://reclaimthenet.org/sam-altmans-eyeball-scanning-global-id-system-worldcoin-launches)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-24T16:04:40+00:00
+
+<a href="https://reclaimthenet.org/sam-altmans-eyeball-scanning-global-id-system-worldcoin-launches" rel="nofollow" title="Eyeball-Scanning Global ID System Worldcoin Launches"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/world-id.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The dystopian technology is rolling out globally but is facing regulatory scrutiny in the US.</p>
+<p>The post <a href="https://reclaimthenet.org/sam-altmans-eyeball-scanning-global-id-system-worldcoin-launches" rel="nofollow">Eyeball-Scanning Global ID System Worldcoin Launches</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Turkey Bans Companies From Advertising on Twitter
+ - [https://reclaimthenet.org/turkey-bans-companies-from-advertising-on-twitter](https://reclaimthenet.org/turkey-bans-companies-from-advertising-on-twitter)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-07-24T14:52:36+00:00
+
+<a href="https://reclaimthenet.org/turkey-bans-companies-from-advertising-on-twitter" rel="nofollow" title="Turkey Bans Companies From Advertising on Twitter"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/07/turkey-twitter.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>After the platform failed to appoint an official representative.</p>
+<p>The post <a href="https://reclaimthenet.org/turkey-bans-companies-from-advertising-on-twitter" rel="nofollow">Turkey Bans Companies From Advertising on Twitter</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
