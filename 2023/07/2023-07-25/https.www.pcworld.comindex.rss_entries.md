@@ -1,0 +1,1721 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Meta’s Threads finally adds a following feed
+ - [https://www.pcworld.com/article/2007800/threads-adds-a-following-feed-while-tiktok-talks-text.html](https://www.pcworld.com/article/2007800/threads-adds-a-following-feed-while-tiktok-talks-text.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T17:21:51+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Text is hotter than ever. Threads, the &ldquo;Instagram but with a tech focus&rdquo; social media app built by Facebook, now has a feed dedicated to following&hellip;the people you follow. Meanwhile, TikTok, the Chinese social video app, has also followed Threads&rsquo; lead by adding its own text-only posts.</p>
+
+
+
+<p>Meta chief executive Mark Zuckerberg publicly announced the change on Tuesday morning, publicly filling a hole in the application that people have complained about since the <a href="https://www.pcworld.com/article/1981658/meta-threads-how-to-get-started.html">inception of Threads</a> earlier in July. Threads still exists as a mobile app for Android and iOS, but Meta has yet to publish a version for the Web. </p>
+
+
+
+<p>At this point, though, social media has become profoundly weird.</p>
+
+
+
+<p>Just fifteen days after chief executive Linda Yaccarino <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/lindayacc/status/1678508114339848194&amp;xcust=2-1-2007800-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">proclaimed that there was only one Twitter</a>, there is no Twitter at all: Musk renamed the company X.com over the weekend. Though the website reflects the name change, the mobile app still retains the Twitter logo. (Reports that X.com was referring to tweets as &ldquo;xeets&rdquo; appear to be false, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.snopes.com/fact-check/xeet-twitter/&amp;xcust=2-1-2007800-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">according to Snopes</a>). But <s>Twitter </s>X has also quietly proposed or actually moved more features under the paid umbrella of Twitter Blue such as limiting direct messages unless the user subscribes to the $8/mo service.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Threads Following Tab" class="wp-image-2007850" height="901" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Threads-tab.jpg?quality=50&amp;strip=all" width="1024" /><figcaption class="wp-element-caption">You&rsquo;ll see a new Following tab at the top of your Threads page.</figcaption></figure><p class="imageCredit">Jason Cross</p></div>
+
+
+
+<p>Threads, meanwhile, was once seen as the escape hatch for those who wanted to avoid having to scroll past Twitter Blue replies to any post. However, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.forbes.com/sites/willskipworth/2023/07/21/threads-user-engagement-reportedly-plummets-after-explosive-start/?sh=169395c6d1f0&amp;xcust=2-1-2007800-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">reports</a> from Sensor Tower and other sources suggest that Threads daily users has fallen from 44 million to 13 million versus 200 million daily users. </p>
+
+
+
+<p>Though there is now an official following tab at the top of the Threads feed, the app itself had apparently gently transitioned into the new layout. Though my personal feed did include some random accounts (sorry, Rep. Katie Porter), it was primarily accounts I followed&mdash;who were some of the most active on the platform, who would show up on my feed. Ironically, my Threads feed today lacks the &ldquo;Following&rdquo; feature, but is chock-full of random accounts.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Mark Zuckerberg announces Threads following" class="wp-image-2007851" height="1199" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Threads-text.jpg?quality=50&amp;strip=all&amp;w=979" width="979" /><figcaption class="wp-element-caption">Mark Zuckerberg announced the new change on Threads.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>Meanwhile, TikTok jumped on the text craze as well. &ldquo;When you access the Camera page, you&rsquo;ll be able to choose from three options: photo, video, and text,&rdquo; the site <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://newsroom.tiktok.com/en-us/text-posts&amp;xcust=2-1-2007800-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">said</a>, announcing the new text-only posts. &ldquo;By selecting text, you&rsquo;ll be directed to the text creation page, where you can type out the content of your post.&rdquo;</p>
+
+
+
+<p>TikTok is also offering stickers, tags and hashtags, and background colors&mdash;much like Threads and Facebook. </p>
+
+Online Services</div>
+
+## ESRB wants to scan kids’ faces to enforce game ratings
+ - [https://www.pcworld.com/article/2007644/esrb-plans-to-scan-kids-faces-to-enforce-ratings-system.html](https://www.pcworld.com/article/2007644/esrb-plans-to-scan-kids-faces-to-enforce-ratings-system.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T16:04:14+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The Entertainment Software Rating Board, better known as the ESRB, is the self-regulating body for video games in the United States. It&rsquo;s the organization responsible for those E, T,  and M ratings you see on video game boxes. Apparently the Board is preparing to not only rate games to inform parents about their content, but enforce who plays them directly. A new proposal to the FTC will actually scan players&rsquo; faces and determine via software how old they are, keeping &ldquo;M for Mature&rdquo; and &ldquo;Adults Only&rdquo; games out of the hands (or at least the controllers) of minors. </p>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ftc.gov/system/files/ftc_gov/pdf/Application-for-a-new-VPC-method-ESRB-SuperAwesome-Yoti-06-02-2023.pdf&amp;xcust=2-1-2007644-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">24-page proposal</a> is being made in cooperation with SuperAwesome, a software subsidiary of ESRB member Epic Games, along with Yoti, a firm that specialized in age verification. According to a report from <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.gamesindustry.biz/esrb-asks-ftc-to-approve-facial-recognition-age-checker&amp;xcust=2-1-2007644-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">GamesIndustry.biz</a>, the proposed system would ask the user to take a photo of their face (presumably either with a device&rsquo;s built-in camera, like a phone or webcam, or upload one via an app), check for a live human presence, and then submit the photo for &ldquo;estimation&rdquo; of age. </p>
+
+
+
+<p>Why put in such a complex system, when the E-M rating is supposed to inform parents&rsquo; game-buying decisions already? The document says that the system is being built to comply with the Children&rsquo;s Online Privacy Protection (COPPA) rule put in place by the FTC. But that rule was implemented way back in 1998 &mdash; it&rsquo;s the reason most online services require you to affirm your age, checking whether you&rsquo;re at least 13 before using it. While it&rsquo;s legal for some services (notably lacking any adult content) to be marketed to children 13 years old or younger, they have much stricter rules on what can be offered, what data can be collected, and have to affirmatively collect parental consent. </p>
+
+
+
+<p>The ESRB proposal says that the risk is &ldquo;easily outweighed&rdquo; by the benefits. What risk? That&rsquo;s covered by another portion of the document: &ldquo;Images are immediately, permanently deleted, and not used by Yoti for training purposes.&rdquo; Something tells me that parents and privacy groups are going to have an issue with a system that takes thousands or millions of pictures of children&rsquo;s faces, no matter how many platitudes are offered. We&rsquo;ll see whether the FTC will have the same objections. </p>
+
+Video Games</div>
+
+## Best portable power stations 2023: Top picks for preparedness
+ - [https://www.pcworld.com/article/610961/best-portable-power-stations.html](https://www.pcworld.com/article/610961/best-portable-power-stations.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s easy to view power stations as nothing more than really big portable battery packs, but they offer much more than just a way to recharge your devices. A portable power station can light a&nbsp;room by powering lamp, or&nbsp;in some cases keep a fridge running during a power outage. It can be major convenience on camping trips, or a means to a backyard movie night&mdash;running a projector and speakers. </p>
+
+
+
+<p>The point is, a portable power station is as versatile as you need it to be. Below you&rsquo;ll find our top picks for different use cases to help you find the best portable power station for your needs. And below our recommendations you can find helpful buying advice on what features matter most. </p>
+
+
+
+<p>If you&rsquo;re in the market for a more modest power source&mdash;one you can use to charge a laptop or phone&mdash;see our roundup of <a href="https://www.pcworld.com/article/407599/best-power-banks.html">best power banks</a> for our top picks in that category.</p>
+
+
+
+<p><em><strong>Updated 7/25/23</strong> to make the Bluetti AC180 our new runner-up pick for preppers. Scroll down to see why this portable power station is a good choice to have around when disaster strikes.</em></p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="ravpower-portable-power-station-252-7wh-power-house-best-light-duty-power-station">
+							RAVPower Portable Power Station 252.7Wh Power House &ndash; Best light-duty power station						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="RAVPower Portable Power Station 252.7Wh Power House - Best light-duty power station" class="product-chart-item__image" src="https://m.media-amazon.com/images/I/41D0F+4OxIS._SL500_.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Small form factor					</li> 
+										<li> 
+					Plenty of ports					</li> 
+										<li> 
+					Comes with a case and built-in flashlight					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Built for quick trips, not for extended use					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ravpower.com/products/rp-pb187-portable-power-station&amp;xcust=2-1-610961-6-393136-15377&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$189.99 at  RavPower</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Whether you&rsquo;re looking for a power station for weekends off the grid, or you want to be prepared for a power shortage at home, RAVPower&rsquo;s 252.7Wh portable power station can meet the demand. That is, if the demand is mostly recharging phones, laptops, and other lighter-duty items. It features a pure sine wave AC inverter for sensitive devices but is largely limited by a 253 watt-hour capacity. The good news is that for most people, that&rsquo;s plenty and it makes it ultra-portable and relatively light. It&rsquo;s got a nice complement of ports, as well as a carrying handle and a case, and it&rsquo;s affordably priced.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/395119/ravpower-portable-power-station-2527wh-power-house-review.html" target="_blank">
+						RAVPower Portable Power Station 252.7Wh Power House review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="aukey-powertitan-300-best-light-duty-power-station-runner-up">
+							Aukey PowerTitan 300 &ndash; Best light-duty power station runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Aukey PowerTitan 300 - Best light-duty power station runner-up" class="product-chart-item__image" height="424" src="https://b2c-contenthub.com/wp-content/uploads/2021/10/aukey-powertitan-300-ports.jpg?quality=50&amp;strip=all" width="593" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Big bright display					</li> 
+										<li> 
+					Plenty of ports					</li> 
+										<li> 
+					Highly efficient					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Solar panel accessory is a miss					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.aukey.com/products/powertitan-300-portable-power-station-288wh&amp;xcust=2-1-610961-6-541711-15587&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$249.99 at  Aukey</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Aukey&rsquo;s PowerTitan is in a close tie with RAVPower&rsquo;s power station above. It also has high-efficiency, a nice array of ports, a fairly fast re-charge time, and an affordable price. Like the RAVPower, its best purpose is for charging of phones, tablets, and laptops or other lighter tasks as it is still limited by its 300 watt-hour capacity. RAVPower&rsquo;s option is the less expensive of the two, giving it a slight edge. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/395159/aukey-powertitan-300-power-station-review.html" target="_blank">
+						Aukey PowerTitan 300 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="jackery-explorer-1500-pro-best-for-preppers">
+							Jackery Explorer 1500 Pro &ndash; Best for preppers						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Jackery Explorer 1500 Pro - Best for preppers" class="product-chart-item__image" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Jackery_Explorer_Pro_1500_2.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Excellent weight to capacity ratio					</li> 
+										<li> 
+					Very fast charging 					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					No phone app support					</li> 
+										<li> 
+					Battery chemistry not the best suited for full-time off-grid users					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+								Price When Reviewed:									</span>
+									<span class="product-chart-item__information--rrp-value">
+									1599 Euro									</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.jackery.com/products/explorer-1500-pro-portable-power-station?dm_cam=19960497976&amp;dm_grp=&amp;dm_ad=&amp;dm_kw=&amp;dm_net=adwords&amp;gad=1&amp;gclid=Cj0KCQjw9deiBhC1ARIsAHLjR2BK_O5aNxueTDsjHkF09wZtS4yAyeRqts3apVEPHizxJbJfazAjM9QaAv-YEALw_wcB&amp;xcust=2-1-610961-6-1812166-16191&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$1699 at  Jackery</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Whether your idea of prepping is anticipating an unreliable grid, an extended camping trip, or just running a video projector in the backyard, Jackery&rsquo;s Explorer 1500 Pro has got you handled thanks to its very good efficiency, relatively light weight, and 1,500 watt-hours of capacity. That&rsquo;s enough power to get your fridge through the night, and with its fast AC charging, you can actually easily move the Jackery Explorer 1500 Pro somewhere it can be charged and back to your home before the steaks have thawed out. The only odd missing feature is the lack of an app to customize the unit and monitor output from your phone, but we&rsquo;ll overlook that for all of the unit&rsquo;s other outstanding features.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1812156/jackery-explorer-1500-pro-review.html" target="_blank">
+						Jackery Explorer 1500 Pro review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="bluetti-ac180-best-for-preppers-runner-up">
+							Bluetti AC180 &ndash; Best for preppers runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Bluetti AC180 - Best for preppers runner-up" class="product-chart-item__image" height="3000" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/20230412_175541.jpg?quality=50&amp;strip=all" width="4000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very efficient AC operation					</li> 
+										<li> 
+					Plenty of connection options					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Slightly heavy					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+								Price When Reviewed:									</span>
+									<span class="product-chart-item__information--rrp-value">
+									1199 Euro									</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.bluettipower.com/pages/ac180&amp;xcust=2-1-610961-6-1966584-24425&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$1099 at  Bluetti</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Bluetti&rsquo;s AC180 bumps our previous runner-up for preppers based on its price-to-performance ratio, which largely comes down to its class-leading efficiency. Despite it being a 1,152 watt-hour unit, it&rsquo;s able to convert an impressive 87 percent of the stored energy into electricity to run your fridge or electronics. </p>
+
+<p>Combine that efficiency with its long-service life lithium iron phosphate (LFP) batteries and the company&rsquo;s recognized name, and there isn&rsquo;t much to dislike. The AC180 also has a feature-rich app that even lets you access the unit&rsquo;s settings without access to the internet. That&rsquo;s a feature long-requested by serious off-the-grid preppers, who bitterly complain that an app has no use if you effectively can&rsquo;t access it because you&rsquo;re forced to log in to the app every month or two (*cough* Ecoflow). So yeah, preppers, Bluetti has heard your griping.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1966571/bluetti-ac180-power-station-review.html" target="_blank">
+						Bluetti AC180 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="ecoflow-delta-2-best-high-tech-and-expandable-option">
+							 EcoFlow Delta 2 &ndash; Best high-tech and expandable option						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt=" EcoFlow Delta 2 - Best high-tech and expandable option" class="product-chart-item__image" height="3818" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/ecoflow-delta-2.png" width="4500" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Lithium Iron Phophate batteries for longer duty cycles					</li> 
+										<li> 
+					Companion app is handy					</li> 
+										<li> 
+					Impressive recharge rate					</li> 
+										<li> 
+					Can be expanded by adding secondary battery					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Loud fans under heavy and even light loads					</li> 
+										<li> 
+					Expansion battery kinda pricey					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>The new Delta 2 is now one of the most high-tech portable power stations available, with good app support for remote control and the option to augment the unit with a secondary battery. With one of the fastest charge rates around, an 1,800-watt output, a 2,700-watt surge output, and &ldquo;X-Boost&rdquo; output of 2,200W, the Delta 2 is robust and powerful. Our only major complaint is fan noise, which gets excessive under heavy use. We&rsquo;re hopeful EcoFlow will address that in a firmware update.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1381039/ecoflow-delta-2-power-station-review.html" target="_blank">
+						EcoFlow Delta 2 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+<h2 class="wp-block-heading" id="what-to-look-for-in-a-power-station">What to look for in a power station</h2>
+
+
+
+<p>Not all power stations are created equal. For example, some stations have the ability to power a microwave, while others can maybe deal with the power requirements of a desktop gaming computer. When shopping for a power station, there are some important aspects to keep in mind. In the list below, we try not to get too technical.&nbsp;</p>
+
+
+
+<ul>
+<li>Consider what you plan on using the power station for to decide the ideal capacity and physical size of the power station. The stations are filled with batteries to keep your devices powered, and batteries are heavy. When shopping for something you want to take camping, for example, it makes sense to prioritize a lighter weight. But if you want something to use as a backup power source in your home, size and weight may not matter all that much.</li>
+
+
+
+<li>Check the capacity of the power station. Often the capacity of the station is included in its name, but that&rsquo;s not always the case. For example, the Anker 535 PowerHouse may lead you to believe that its capacity is 535Wh, but in reality it&rsquo;s 512Wh. Always read the fine print or spec sheet to see the exact capacity. For reference, a capacity of 512Wh is roughly 7x more than our top pick for best portable battery pack, the&nbsp;<a href="https://www.pcworld.com/article/397876/mophie-powerstation-xxl-power-bank-review.html" rel="noreferrer noopener" target="_blank">Mophie PowerStation XXL</a>.</li>
+
+
+
+<li>While it&rsquo;s not realistic to know how you&rsquo;ll use the power station in the future, try to guesstimate the number of ports and outlets you&rsquo;ll need.</li>
+
+
+
+<li>Here&rsquo;s the technical part. Some power stations list modified sine wave or pure sine wave on their spec sheet. If you plan on using the power station to charge your phone, laptop, or even power a lamp, a station that lists &ldquo;sine wave&rdquo; is perfectly fine. However, if you&rsquo;re going to use the station for medical equipment (like a CPAP machine), a microwave, or anything with a motor, you&rsquo;ll want to opt for a station that can output a pure sine wave signal. These days, it&rsquo;s actually hard to find a higher-capacity power station with anything but pure sine wave.</li>
+
+
+
+<li>Lastly, it&rsquo;s important to check the watt output of the device(s) you need to power and compare it to the power station&rsquo;s rating. Usually a power station will list two different outputs: a standard output and a peak output. The standard output is what it&rsquo;s built to run at for extended amounts of time, while the peak output is what it can handle for brief periods of time &mdash; such as when you first power on a device and it draws more power. You can get a rough estimate of the wattage on a device by multiplying the voltage times the amps. For example, if the power brick says 20 volts at 3 amps, the brick can output up to 60 watts.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="how-we-test">How we test</h2>
+
+
+
+<p>We use two methods to test power stations. Many of the units you see here were tested by connecting a PortaPow power monitor and DROK load tester to a standard USB port and let the battery completely empty. The results are recorded compared to the quoted capacity to get the efficiency of the power station.</p>
+
+
+
+<p>Once that&rsquo;s done, the station is charged with the included power adapter while the time taken is recorded. Some stations leave the screen on while charging so we use a Wyze Camera to create a timelapse of the charging process. Other stations include an estimated time to charge on the display, which times out and turns off after a few minutes. In that case, we check on the station&rsquo;s progress roughly every hour, as well as near the original estimated time to ensure it&rsquo;s accurate.</p>
+
+
+
+<p>Finally, a 4W desk lamp is connected to the 110V wall plug on each power station while a timelapse is created of how long the lamp remains on.</p>
+
+
+
+<p>In another test, we condition the unit by fully discharging it one cycle. The unit is then connected to a 200-watt incandescent lamp plugged into a watt meter, which is then plugged into the power station. The watt meter records the total power consumed by the light bulb expressed in watt hours. We then recharge the unit over AC at its fastest recharge rate with a logging watt meter recording the start and end time. For our final AC test, we also plug in an 800-watt space heater and again record the time it takes and the watts produced using the same watt meter. This gives us an idea of how efficient the power station is under a medium load of 200 watts (the range of many refrigerators) as well as a heavier load of 800 watts (multiple devices or a kitchen appliance.)</p>
+
+
+
+<p>Because the AC efficiency of a power station can differ from its DC efficiency, we also fully discharge the unit using a USB-C load tester set to 60 watts (the typical power consumed by a small laptop on full load) with a USB-PD trigger set to 20 volts DC.</p>
+
+
+
+<p>We also note any excessive fan noise while charging or discharging the unit as well as evaluate the unit based on its port selection, charging input options. We also subject larger portable power stations to a 1,500 watt load for 15 minute, examine the USB ports for charging protocols supported, and inspect the unit&rsquo;s sine wave inverter under a load.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" />
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 class="wp-block-heading" id="is-a-power-station-the-same-as-a-power-bank">Is a power station the same as a power bank?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Yes and no. Both are batteries with ports you can plug your devices into. Typical power banks are very portable and used to charge phones, tablets, and even laptops sometimes. They usually only have USB ports but some do have the familiar AC ports, too, that can power very small devices. A power bank, however, is typically limited to a very small capacity of 100 watt-hours or less, which is the largest you can bring on a plane legally due to fire risks. A power station typically has AC plugs that can support everything from power tools to appliances and can range from petite 250 watt-hours to 3,000 watt-hours and can weigh 70 pounds or more.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 class="wp-block-heading" id="is-a-power-station-the-same-as-a-solar-generator">Is a power station the same as a solar generator?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Yes. This is mostly a semantics discussion but some get irked at use of the term &ldquo;generator&rdquo; for a battery that stores power rather than generates it. The optional solar panels, in fact, generate the electricity, not the power station itself. All you need to know is they are the same and can be used interchangeably so long as you don&rsquo;t mind the occasional brow-beating.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 class="wp-block-heading" id="whats-the-difference-between-a-traditional-generator-and-a-solar-generator-aka-power-station">What&rsquo;s the difference between a traditional generator and a solar generator, aka power station?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The traditional generator you see on a food truck or construction site generates electricity via a small engine no different than what is in your car. It requires gasoline, propane, natural gas, or diesel to run. A solar generator is a battery with a circuit to convert the stored electricity into DC or AC power that your phone or appliances can use, and can usually be charged via a wall outlet or by solar panels.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">4.</span>
+<h3 class="wp-block-heading" id="is-a-power-station-better-than-a-gas-generator">Is a power station better than a gas generator?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Each has its strengths and weaknesses, and it very much depends on how you plan to use the equipment and your requirements. A gas generator must be used outdoors in a well-vented area and can be deadly if not used properly due to the carbon monoxide output and fire hazards. While there are exceptions, gas generators tend to be far noisier. The benefits of a gas generator is in the ability to constantly generate electricity so long as you have the fuel to run it. Gasoline, propane, and natural gas are also very energy dense and a typical 2,200-watt inverter generator would be the equal of a 20,000 watt-hour power station storage, using just five gallons of gasoline. Gas generators tend to be far lower in cost as well.</p>
+
+
+
+<p>The power station&rsquo;s strengths come from the ability to be run inside your home with no carbon monoxide risks. That&rsquo;s a boon for anyone who lives in an apartment, condo, or other place where outdoor space is limited. In stored capacity, the gas generator will win, but access to fuel and safe storage of that fuel can become an issue. This is especially true on an extended outing or during a lengthy outage&mdash;in which case you&rsquo;re better off generating power from solar panel arrays. Fairly minimal maintenance and a minimal learning curve also favor a power station.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">5.</span>
+<h3 class="wp-block-heading" id="how-long-does-a-portable-power-station-last">How long does a portable power station last?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>How long a power station lasts largely depends on how much power you&rsquo;re draining from it and how large it is.</p>
+
+
+
+<p>The power station spec that&rsquo;s most important here is the capacity, typically expressed as watt hours. Think of watt hours similar to your car&rsquo;s capacity for gas. The larger the gas tank, the longer in between fill-ups.</p>
+
+
+
+<p>In a power station, a 1,000 watt-hour power station would last roughly one hour if you ran a space heater that constantly consumed 1,000 watts. If you plugged a 100-watt incandescent light bulb into the power station, it would, in theory, last 10 hours. If you plugged in a CPAP device that uses 50 watts, you could potentially see 20 hours of run time.</p>
+
+
+
+<p>How long it lasts is largely answered by what you&rsquo;re running off it as well as other factors such as efficiency and even the age of the power station.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">6.</span>
+<h3 class="wp-block-heading" id="what-can-a-portable-power-station-run">What can a portable power station run?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The other important spec is the output wattage the circuit that converts DC to AC power (the inverter) supports. This is also expressed in watts but relates to how much power the power station can provide to what is plugged into it. For example, on a Goal Zero Yeti 1000X, each AC plug is rated for 1,500 watts, or 3,500 watt surge (or momentary spikes).&nbsp;</p>
+
+
+
+<p>This is enough to start or run most things found in a typical home: from a refrigerator or chest freezer to power tools to CPAP devices. Remember, when we refer to &ldquo;run&rdquo; this is strictly in reference to what you can run&mdash;it doesn&rsquo;t refer to how <em>long </em>you can run it for. And as we learned earlier, that&rsquo;s mostly influenced by how much capacity or watt hours that power station has.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">7.</span>
+<h3 class="wp-block-heading" id="can-a-portable-power-station-run-a-refrigerator">Can a portable power station run a refrigerator?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>One of the primary reasons people own power stations is to keep a refrigerator running so your expensive groceries don&rsquo;t spoil. Unlike a light bulb that never uses more than its rated wattage, refrigerators have compressors that consume more power when started and then ease back down once started. For example, a refrigerator might use 1,200 watts for less than a second but then mostly consume 150 to 250 watts for the next 45 minutes.</p>
+
+
+
+<p>If you&rsquo;re looking for a power station to run a refrigerator, first you&rsquo;ll want one with an adequate output on the AC ports to support the surge when it starts. Some very small power stations may only support a surge rating of 500 watts, which isn&rsquo;t enough. Your refrigerator will typically have a label inside or on back that lists how many amps it requires. If it, for example, says it needs 9.5 amps, you can simply multiply 9.5 amps x 120 volts to roughly determine how many watts it needs to start, which is 1,140 for the example here. Remember it&rsquo;s just 1,200 watts for a second or two while the compressor motor starts. Most fridges use far less power after the initial start.</p>
+
+
+
+<p>The second important spec to look for is capacity or how many watt hours the power station has. This dictates how long the power station can last between charging.</p>
+
+
+
+<p>We&rsquo;d set the floor at no smaller than 1,000 watt hours if you&rsquo;re intent on running a refrigerator, with a 1,500 or 2,000 watt-hour unit being strongly recommended a if you want to get a full day of use from it. Even then, we&rsquo;d strongly encourage a plan for charging the power station via solar or by lugging it to an available power source if you&rsquo;re expecting a longer outage.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">8.</span>
+<h3 class="wp-block-heading" id="how-important-is-power-station-battery-chemistry">How important is power station battery chemistry?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The vast majority of power stations today are based on lithium ion batteries, but not all lithium ion batteries are the same. Two popular chemistries today are Lithium Nickel Manganese Cobalt (NMC) or Lithium Iron Phosphate (LFP). NMC batteries&rsquo; main advantage is energy density, which means they can pack more into a smaller size. LFP batteries&rsquo; main advantage is in cost (although NMC can also be lower cost), but also lifespan. For example, EcoFlow&rsquo;s original NMC-based Delta was rated for 800 full power cycles before capacity would drop to 60 percent. EcoFlow&rsquo;s new LFP-based Delta 2 is rated for 3,000 full cycles before capacity drops to 80 percent.</p>
+
+
+
+<p>That&rsquo;s a <em>huge </em>difference, but it may be a little overkill depending on your use case. Since most power stations sit on a shelf 95 percent of the time, the average use during emergencies or camping trips is likely to keep an NMC battery lasting for years and years of service.</p>
+
+
+
+<p>Those who use a battery in a full-time off-the-grid situation, however, will likely want as many full cycles as possible, which a properly built LFP battery can provide.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">9.</span>
+<h3 class="wp-block-heading" id="why-dont-i-get-the-full-capacity-of-the-battery">Why don&rsquo;t I get the &ldquo;full capacity&rdquo; of the battery?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>If you buy a portable power station with a 1,000 watt-hour rating, you probably expect to get 1,000 watt hours of capacity but that simply isn&rsquo;t true and it isn&rsquo;t some marketing sleight of hand (at least most of the time.) Portable power stations state the actual capacity of the batteries such as 1,024 watt hours. When you plug in your fan or fridge, the energy in the battery must be converted to usable AC through an inverter that wastes some of the energy during the conversion. Depending on the design of the inverter in a portable power station, as well as the load put on it, the efficiency can vary dramatically. One final reason you&rsquo;ll never get 100 percent of what the label says is to preserve the battery. Lithium ion batteries can suffer damage when stored without any charge so each power station maker will cut off power well before it is empty to preserve battery longevity. Each vendor has different reserve levels, which also means your 1,024 watt hours of power is less than what you expect. So yes, it may seem like false advertising for a power station to state that you have 1,000 watt hours while only giving you 800 watt hours of usable capacity under a 200-watt AC load, but the reasons are technical, not marketing.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">10.</span>
+<h3 class="wp-block-heading" id="how-important-is-efficiency">How important is efficiency?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>This might be one the more important categories to look at if you really want to stretch your dollar. Most companies will market on total capacity of the batteries such as 1,000 watt hours or 2,000 watt hours, which you can think about as the size of the power station&rsquo;s gas tank. If the watt-hour capacity of the battery is the size of the fuel tank, the efficiency is akin to the MPG you get out of it. A higher efficiency means more power for your money. In our testing, under medium load of 200 watts, most units range from 80 percent to 83 percent but we have seen one unit reach 87 percent efficiency, too. Under heavier loads of 800 watts, we&rsquo;ve seen a range of 71 percent to 84 percent. So what does that mean? A 1,024 watt-hour battery with a 71 percent efficiency under an 800-watt load gives you only 725 watt hours out of that 1,024 power station you paid for. A different unit with a 1,152 watt-hour battery and 84 percent efficiency means you can extract an impressive 970 watt hours from it. These results, however, will vary based on the load, as how each power station reacts under a 100-watt, 200-watt, or 500 watt load will be different. </p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">11.</span>
+<h3 class="wp-block-heading" id="can-i-leave-my-power-station-plugged-into-the-wall-all-the-time">Can I leave my power station plugged into the wall all the time?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>While guidance varies from manufacturer to manufacturer, we&rsquo;d say most units don&rsquo;t recommend being left plugged into the wall long term. It&rsquo;s actually one of the features we appreciate about the Goal Zero&rsquo;s Yeti 1000X and 1500X: The company actually wants you to keep it plugged in all of the time to maintain the battery. This means when the lights suddenly go out, the unit will be at 100 percent capacity and ready to go. </p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">12.</span>
+<h3 class="wp-block-heading" id="brand-name-portable-power-station-versus-no-name">Brand-name portable power station versus no-name</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>In the six years since Goal Zero introduced the first lithium-ion portable power station, the competition has exploded with probably a half-dozen &ldquo;big name&rdquo; brands and dozens and dozens of unknowns companies all hawking feature-rich, powerful portable stations that all the look the same to the average consumer.</p>
+
+
+
+<p>While you probably recognize Goal Zero, Jackery, EcoFlow, and Bluetti, we&rsquo;re almost certain many of the small brands won&rsquo;t be on your radar. For many consumers, a confusing list of results on Amazon could give the impression that portable power stations &ldquo;are all the same.&rdquo; In some ways, they are indeed. For example, the batteries inside of the units aren&rsquo;t actually manufactured by even the biggest of the brand-name power station makers. Instead, they are sourced from much larger multi-billion dollar battery companies that make them for everyone from power tool companies to EV car manufacturers as well as other electronics makers. </p>
+
+
+
+<p>Since those battery companies make and sell them to everyone, aren&rsquo;t they all the same? Yes and no. Like all commodity products from diamonds to wood, batteries are also sold in grades. A larger brand may pay for a top-grade battery while a smaller brand may not. That can mean a battery that actually achieves its claimed 3,500+ duty-cycle life in the next 10 years and one that won&rsquo;t.</p>
+
+
+
+<p>Larger brands also offer the promise of better engineering support in their power station design, as well. That can mean everything from the charge circuit, to the cooling and durability of the portable power station in addition to the safety designs.</p>
+
+
+
+<p>The rub in buying higher-grade batteries and having more resources for engineering means the company must make more money to cover those costs, which means higher prices. This is where smaller brands are extremely appealing.</p>
+
+
+
+<p>For example, a 2,000 watt-hour power station from a larger brand maker may cost you $2,000 while a smaller brand might charge you $1,000. That&rsquo;s a significant increase in capacity at a significant savings. Smaller brands also benefit from the fact that off-the-shelf parts to make portable power stations are so common today, it&rsquo;s very easy for small companies to actually make very decent portable power stations while charging significantly less.</p>
+
+
+
+<p>One area big-brands lead small brands though is in support. As you know, a warranty is only as good as the company that stands behind it. The odds are that a larger well-funded company will still be around for the next five years versus a small no-name brand that could decide to exit the business after two years.</p>
+
+
+
+<p>Ultimately you need to weigh your comfort level against your budget to make a decision, but there are pros and cons to both big and small brands.</p>
+</div>
+</div></div>
+</div>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+Mobile</div>
+
+## Asus is actually making those funky RTX graphics cards with no cables
+ - [https://www.pcworld.com/article/2007548/asus-will-make-those-cable-free-gpus-from-computex.html](https://www.pcworld.com/article/2007548/asus-will-make-those-cable-free-gpus-from-computex.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T14:51:30+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The War on Cables rages on! </p>
+
+
+
+<p>The <a href="https://www.pcworld.com/article/1936904/asus-made-a-graphics-card-with-no-power-cables.html" rel="noreferrer noopener" target="_blank">hottest trend from Computex</a> back in May was decreasing, or in some cases eliminating, visible cable connections in the interior of desktop PC builds. And at least one manufacturer is in it for the long haul. According to reports coming out of China this week, Asus is preparing to manufacture graphics cards (and presumably matching motherboards) with extra header slots, allowing all the power your GPU needs to be <a href="https://www.pcworld.com/article/1936904/asus-made-a-graphics-card-with-no-power-cables.html">supplied by the motherboard itself</a>. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>The news comes from <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://wccftech.com/asus-connector-less-geforce-rtx-4070-gpus-mass-production-fall-white-variant-revealed/&amp;xcust=2-1-2007548-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">WCCFTech</a>, translating a video on China&rsquo;s BiliBili video service, showing off a presentation from the BiliBili World trade show. Power is delivered via a conventional 12VHPWR rail, which runs to the back of the motherboard through the case and is delivered via a secondary header placed parallel to the PCIe 5.0 slot. Presumably the first model being prepared is a version of the RTX 4070 shown at Computex, though it isn&rsquo;t clear whether or not more models will be made available. The GPU was paired with a specially designed Intel Z790 motherboard. </p>
+
+
+
+<p>Asus will reportedly begin manufacturing cable-free (or at least cable-hiding) GPUs and motherboards later this year, presumably to hit retailers towards the end of 2023 or in early 2024. Other manufacturers with new cable-hiding tricks include <a href="https://www.pcworld.com/article/1935712/msis-project-zero-continues-the-war-on-motherboard-cables.html" rel="noreferrer noopener" target="_blank">MSI with its similar &ldquo;Project Zero&rdquo;</a> hiding cables on the rear of the motherboard, <a href="https://www.pcworld.com/article/1499073/corsairs-funky-new-power-supply-shorts-diy-pc-build-problems.html" rel="noreferrer noopener" target="_blank">Corsair&rsquo;s RMx Shift</a> series of power supplies that do the same thing, and the iCue Link system that lets you <a href="https://www.pcworld.com/article/1939045/hands-on-with-icue-link-corsairs-one-cable-to-rule-them-all.html" rel="noreferrer noopener" target="_blank">&ldquo;daisy chain&rdquo; power across fans and all-in-one coolers</a> for a single cable going to the PSU. Even <a href="https://www.pcworld.com/article/1940124/silverstone-joins-the-war-on-cables-with-two-new-pc-cases.html" rel="noreferrer noopener" target="_blank">case designs themselves</a> are being rearranged to help.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="asus cable free desktop build" class="wp-image-2007629" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/asus-cable-free-desktop-build.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Asus</p></div>
+
+Graphics Cards</div>
+
+## Ashampoo Privacy Inspector review: An easy, affordable privacy tool
+ - [https://www.pcworld.com/article/2007511/privacy-inspector-in-test-protect-privacy-easily.html](https://www.pcworld.com/article/2007511/privacy-inspector-in-test-protect-privacy-easily.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T14:21:19+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Simple handling</li><li>Saves a lot of time compared to manual deleting your tracks</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Connection to the manufacturer&rsquo;s service</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">If you want to know how much data Windows keeps about your activities, you can find out with this dead-simple tool.</p>
+</div><h3 class="review-price" id="price-when-reviewed">Price When Reviewed</h3><p>19,99 Euro</p>
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ashampoo.com/en-us/privacy-inspector&amp;xcust=2-1-2007511-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Ashampoo&rsquo;s Privacy Inspector</a> only needs a few minutes to collect and compile remnants of all your activities in Windows. Then it lists hundreds of websites visited, thousands of search terms typed in, and tens of thousands of other internet traces. </p>
+
+
+
+<p>And that&rsquo;s just the beginning. Profiles and passwords, apps and files, even the files you have recently deleted from your hard drive are found by Ashampoo&rsquo;s $15 Privacy Inspector. Some of these can be deleted directly. </p>
+
+
+
+<p>The Privacy Inspector also provides access to a number of little-known privacy settings of Windows. Did you know, for example, that Windows collects telemetry data and sends it to Microsoft? Or that Cortana actively tries to get to know Windows users via voice input and handwriting? With a few mouse clicks and a restart, these &ldquo;snitch services&rdquo; can be switched off. Ashampoo&rsquo;s software is dead simple to use.</p>
+
+
+
+<p>Despite all the useful features, however, we also found some superfluous and even questionable options during our time testing the software. For example, Internet Explorer (which is no longer officially available) can have its privacy options tuned, while Amazon&rsquo;s Alexa plug-in (which may be installed but hasn&rsquo;t work for a year) can be deactivated. Both of those seem rather unnecessary. And, more questionably, you can only limit or cut the app&rsquo;s connection to the Ashampoo Service Channel by wading deep into a relatively hidden section in Privacy Inspector&rsquo;s settings. </p>
+
+
+
+<h2 class="wp-block-heading" id="conclusion">Conclusion</h2>
+
+
+
+<p>With a little effort and a lot of time, most of the information that Ashampoo finds can also be gathered manually. If you want to erase your steps with minimal headache, however, the Privacy Browser comfortably and comprehensively lists the information that Windows and your browsers collect, lets you delete those tracks, and makes it easy to switch off some monitoring functions. </p>
+
+
+
+<p><em>This article was translated from German to English, and originally appeared on pcwelt.de.</em></p>
+
+Security Software and Services</div>
+
+## Don’t panic: Ubisoft won’t delete your digital games
+ - [https://www.pcworld.com/article/2007456/dont-panic-ubisoft-wont-delete-your-digital-games.html](https://www.pcworld.com/article/2007456/dont-panic-ubisoft-wont-delete-your-digital-games.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T14:16:39+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Over the last few days, frantic reports about Ubisoft&rsquo;s digital account policies began to appear &mdash; namely, that the company would begin deleting customer accounts if you don&rsquo;t log in often enough. The panic started after a Twitter post highlighted the company&rsquo;s policy that said as much&hellip;and also inferred that you&rsquo;d lose the digital game purchases you&rsquo;d made and associated with your Ubisoft account. It was exacerbated by Ubisoft&rsquo;s support team encouraging the user to log into their account. But to coin a phrase, rumors of your purchased games&rsquo; deletion have been greatly exaggerated. </p>
+
+
+
+<p>Bluntly: No, Ubisoft won&rsquo;t delete the games that you&rsquo;ve purchased, or in any way remove your digital access to them. The policy in question is in place so that Ubisoft can periodically scrub its servers of <em>unused </em>accounts, filled with either no games at all or free-to-play titles that don&rsquo;t lose any value if erased. Said accounts haven&rsquo;t been touched in four years or more. This is a practice put in place to deal with the European Union&rsquo;s General Data Protection Regulation (GDPR), which many tech companies have struggled with since its implementation in 2018. </p>
+
+
+
+<p>Part of the policy clearly states that accounts with purchases associated aren&rsquo;t eligible for automatic deletion, as <a href="https://www.pcworld.com/article/559218/could-gdpr-policy-erase-your-games-it-happened-to-an-ubisoft-customer.html" rel="noreferrer noopener" target="_blank">Ubisoft told PCWorld itself</a> after a similar kerfuffle back in 2021. Ubisoft reiterated the relevant portion of the policy <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.theverge.com/2023/7/24/23805783/ubisoft-delete-game-accounts&amp;xcust=2-1-2007456-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">to The Verge</a> after the recent spat of headlines declaring &ldquo;Ubisoft might delete your purchased games&rdquo; and similar: &ldquo;<em>accounts that include purchased PC games are not eligible for deletion</em>.&rdquo; Accounts with active digital subscriptions are also off the chopping block. </p>
+
+
+
+<p>Even those users who haven&rsquo;t purchased any games at all get a grace period, with an email alerting them of their unused account&rsquo;s possible deletion. All one need do to avert this is log in to a Ubisoft server within 30 days. In video games, as in life, it&rsquo;s a good idea to read the fine print. </p>
+
+Video Games</div>
+
+## This 165Hz, pixel-packed LG gaming monitor is $150 off
+ - [https://www.pcworld.com/article/2007396/2007396.html](https://www.pcworld.com/article/2007396/2007396.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T14:10:10+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>PC gamers, unite! If you&rsquo;re looking to purchase a brand new gaming monitor, you&rsquo;re in luck. Best Buy&rsquo;s currently selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-27-nano-ips-qhd-g-sync-compatible-monitor-with-hdr-black%2F6451081.p%3FskuId%3D6451081&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">LG UltraGear Nano gaming monitor for $299.99</a>, which is a savings of $150. This peripheral has a fast refresh rate of 165Hz, which is important when you&rsquo;re playing fast-paced, competitive titles. It&rsquo;s also well-reviewed on Best Buy. In fact, many buyers claim it&rsquo;s the best monitor they&rsquo;ve ever had! </p>
+
+
+
+<p>The 27-inch LG UltraGear features a resolution of 2560&times;1440, an aspect ratio of 16:9, and a response time of 1ms. Given those specs, the picture should be nice and sharp. Visuals should be smooth, too (the 1ms response time is no joke). As for connectivity options, you&rsquo;re getting two HDMI and one DisplayPort 1.4.  This monitor also comes with FreeSync Premium (AMD Adaptive Sync) and G-Sync compatibility, which syncs up your monitor&rsquo;s refresh rate with your PC&rsquo;s graphics card. This helps prevent screen tearing during games.</p>
+
+
+
+<p>This is a great deal, but I don&rsquo;t expect it to last forever. Don&rsquo;t you think it&rsquo;s time to level up your gaming space?</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-ultragear-27-nano-ips-qhd-g-sync-compatible-monitor-with-hdr-black%2F6451081.p%3FskuId%3D6451081&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">Get the LG UltraGear Nano gaming monitor for $299.99 at Best Buy</a></p>
+Monitors</div>
+
+## Plugable USB4 Dual HDMI dock review: Budget price, tomorrow’s tech
+ - [https://www.pcworld.com/article/1999176/plugable-usb4-dual-hdmi-dock-review.html](https://www.pcworld.com/article/1999176/plugable-usb4-dual-hdmi-dock-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><img alt="Editors' Choice" class="review-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Great price and value, even at MSRP</li><li>4K120 display capabilities open up gaming possibilities</li><li>Stable performance</li><li>Excellent charging capabilities</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Surprisingly warm under load</li><li>Storage tests across the dock were lower than average</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Some minor performance concerns don&rsquo;t mar what is otherwise a very attractively priced USB4 docking station that&rsquo;s designed for the future.</p>
+</div><h3 class="review-price" id="price-when-reviewed">Price When Reviewed</h3><p>199.95</p>
+				<h3 class="review-best-price" id="best-prices-today-plugable-usb4-dual-hdmi-docking-station-ud-4vpd">
+			Best Prices Today: Plugable USB4 Dual HDMI Docking Station (UD-4VPD)		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+		
+		<div class="new_products_tab tabcontent" id="New">
+
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Amazon" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/amazon-logo.svg" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$199.95</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://www.amazon.com/dp/B0C83ZMZG5?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;asc_refurl=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+															<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Newegg" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/newegg-logo.svg" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$199.95</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://click.linksynergy.com/deeplink?id=*l6kYCuH720&amp;mid=44583&amp;ul=2-3-1999176-2-1999173-16848&amp;murl=https://www.newegg.com/p/1DN-000M-000B8" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+															<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<img alt="Walmart" src="https://www.pcworld.com/wp-content/themes/idg-base-theme/dist/static/img/walmart-logo.svg" />
+															</div>
+							<div class="price-comparison__price">
+								<span>$199.95</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://goto.walmart.com/c/321564/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;subid1=2-3-1999176-2-1999173-16848&amp;u=https://www.walmart.com/ip/Plugable-11-in-1-USB-C-Docking-Station-Dual-Monitor-USB4-100W-Laptop-Charging-Dock-Windows-Thunderbolt-4K-HDMI-2-1-120Hz-2-5Gbps-Ethernet-SD-Reader-2/3932066595" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+
+		<div class="refurbished_products_tab tabcontent" id="Refurbished">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div class="refurbished-drop">
+				<select class="price_comparison_condition" name="priceComparisonCondition">
+					
+				</select>
+				</div>
+			</div>
+
+							<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+					Price comparison from Backmarket						</span>
+									</div>
+		</div>
+		</div>
+		
+
+
+<p>Plugable&rsquo;s UD-4VPD, formally known as the USB4 Dual HDMI Docking Station, promises two potentially welcome trends: a push into 120Hz 4K display capabilities, and a startling reduction in price.</p>
+
+
+
+<h2 class="wp-block-heading" id="why-consider-the-plugable-ud-4vpd">Why consider the Plugable UD-4VPD?</h2>
+
+
+
+<p>Most Thunderbolt docks offer the option of connecting to two 4K displays at 60Hz. That&rsquo;s perfectly fine for office use. Higher-rate 120Hz displays, though, are the minimum threshold that gamers favor, opening a potential new world of possibilities for these docks. And this dock drives a pair of 4K displays at 120Hz, according to Plugable! Alternatively, the same dock should drive a single 8K display.</p>
+
+
+
+<p>As we point out in our roundup of the <a href="https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html">best Thunderbolt docks</a>, USB4 and Thunderbolt 4 are functionally equivalent. Because of what we suspect are licensing issues, Thunderbolt docks seem to be common on Intel laptops, while AMD Ryzen laptops use USB4. A Thunderbolt laptop should work just as well with a USB4 dock. Be aware, though, that according to Plugable founder and CTO Bernie Thompson, a laptop with a Thunderbolt 3 connection probably won&rsquo;t work with this dock.</p>
+
+
+
+<p>The Plugable UD-4VPD is still dramatically cheaper than most Thunderbolt or USB4 docks, without trying to cut corners, and shakes up what a &ldquo;budget&rdquo; dock really is. </p>
+
+
+
+<h2 class="wp-block-heading" id="the-plugable-ud-4vpd-specs">The Plugable UD-4VPD specs</h2>
+
+
+
+<p>Unfortunately, we lack the resources to test the dock with a pair of 120Hz 4K monitors at the moment. (Most 4K monitors at 120Hz or above cost about $600 or so.) We do have a 1440p widescreen monitor to test, which can run at up to 144Hz, plus two 4K displays, which is as close as we can get.</p>
+
+
+
+<p>Plugable&rsquo;s UD-4VPD is an 11-in 1 dock, with the two HDMI ports, two 10Gbps USB-A (10Gbps) ports, a legacy 5Gbps USB-A port, and a single 10Gbps USB-C port which can supply up to a rated 20W of charging power for a phone. There&rsquo;s also a microSD and SD slot rated at UHS-II (312MB/s) speeds, plus an audio/mic jack.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Plugable UD-4VPD Dual HDMI USB4 dock" class="wp-image-2000786" height="679" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Plugable-dual-HDMI-USB4-1.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">The front of the Plugable UD-4VPD Dual HDMI USB4 dock includes a power button, headphone jack, USB-A and USB-C ports (with charging), and a dual SD card slot.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>The two HDMI 2.1 display ports reflect HDMI&rsquo;s popularity, but their performance will vary. Here&rsquo;s the problem: Not only do this dock&rsquo;s ports require your laptop to support an HDMI 2.1 output, but the chipset inside it is required to support both HBR3 (High Bitrate 3) and DSC (Display Stream Compression). The latter technology is like a <a href="https://www.pcworld.com/article/801587/why-new-usb-c-displaylink-docks-are-better-and-worse-than-thunderbolt.html">DisplayLink dock</a>: It uses some compression to enable the higher display capabilities. If your laptop lacks both of these latter features, you&rsquo;ll get a more standard 4K60 experience instead. You do not have the option of plugging in an HDMI-to-DisplayPort cable into this dock, either.</p>
+
+
+
+<p>How do you know your laptop includes HBR3 and DSC? Chances are you don&rsquo;t, and your laptop maker may not even tell you. According to Thompson, one clue may be whether it&rsquo;s <a href="https://www.pcworld.com/article/393419/intels-new-evo-brand-will-highlight-updated-premium-project-athena-notebook-pcs.html">Intel Evo</a> certified, as Thompson claims that those all meet the HBR3/DSC requirements. </p>
+
+
+
+<p>Otherwise, the lack of available information makes purchasing this dock a bit of a crapshoot, unfortunately. On the other hand, you can make the argument that investing in this dock is an investment in the future, when 4K120 displays become cheaper and more commonplace.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Plugable UD-4VPD Dual HDMI USB4 dock" class="wp-image-2000787" height="652" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Plugable-dual-HDMI-USB4-2.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">Two  HDMI  2.1 ports sit alongside a pair of USB-A ports, 2.5Gbps Ethernet, plus the connections to and from the laptop and charger.</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<h2 class="wp-block-heading" id="how-did-the-plugable-ud-4vpd-perform">How did the Plugable UD-4VPD perform?</h2>
+
+
+
+<p>We weren&rsquo;t able to test all of the dock&rsquo;s display features, but some of the aspects that we <em>were</em> able to test were a bit disappointing. The first is a nitpick: While Thunderbolt cables are clearly labeled with the lightning-bolt logo and either a &ldquo;3&rdquo; or &ldquo;4&rdquo; to distinguish them, Plugable&rsquo;s 3.3-foot cable was jet black, and connected to the rear of the dock, not the front. It would be handy if the cable community or Plugable could better label these cables.</p>
+
+
+
+<p>Second, the dock warmed surprisingly under load, to the point that it grew a little alarming. But it didn&rsquo;t consistently reach those temperatures, either. (If you&rsquo;re concerned, Plugable&rsquo;s dock ships with a two-year limited parts and labor warranty.)</p>
+
+
+
+<p>Finally, the dock&rsquo;s performance was a bit mixed. When writing to an external test SSD, the drive&rsquo;s bandwidth clocked in at about 122MB/s, about 11 percent less than the 137.51MB/s that rival-dock <a href="https://www.pcworld.com/article/1922334/anker-568-usb-c-docking-station-review.html">Anker 568</a> generated. On the other hand, running the same test while streaming a 4K video &mdash; a task we perform to see if there&rsquo;s any data congestion &mdash; passed with flying colors. Anker&rsquo;s dock also showed occasional instability; the Plugable UD-4VPD was rock-solid in our tests. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="rival-dock">
+					rival dock				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="anker-568-usb-c-docking-station">Anker 568 USB-C Docking Station</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Anker 568 USB-C Docking Station" class="product-widget__image" height="961" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Anker-568-product-shot.jpg?quality=50&amp;strip=all" width="1242" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1922334/anker-568-usb-c-docking-station-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+							Price When Reviewed:								</span>
+								<span class="product-widget__information--rrp-value">
+								$299.99								</span>
+							</div>
+						
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://www.amazon.com/dp/B0BMXPPSG1?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;asc_refurl=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$179.99 at  Amazon</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa8399&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed&amp;u1=2-3-1999176-5-1922319-15070" rel="nofollow" target="_blank">$299.99 at  Anker</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/225513957880&amp;xcust=2-3-1999176-5-1922319-15070&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$299.99 at  eBay</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Plugable basically lived up to its charging claims, too. While the dock&rsquo;s logo claims that the front 10Gbps charging port can deliver 20W of power to charge a smartphone, our tests showed that it delivered about 18.7W under load. That&rsquo;s enough to fast-charge a smartphone.</p>
+
+
+
+<h2 class="wp-block-heading" id="should-you-buy-the-plugable-ud-4vpd">Should you buy the Plugable UD-4VPD?</h2>
+
+
+
+<p>Plugable, though, offers a huge advantage: It&rsquo;s essentially $100 less than the competition, and that&rsquo;s before any discounts. Plugable&rsquo;s Thompson says that the costs of mandatory Thunderbolt testing raise the prices of Thunderbolt docks, and here the reduced costs are passed along to the consumer. The Plugable UD-4VPD is still dramatically cheaper than most Thunderbolt or USB4 docks, without trying to cut corners, and shakes up what a &ldquo;budget&rdquo; dock really is. That&rsquo;s a key selling point, even before you start talking about its advanced display capabilities.</p>
+
+
+
+<p></p>
+
+Computer Accessories</div>
+
+## 6 big home Wi-Fi mistakes, and how to fix them
+ - [https://www.pcworld.com/article/2002677/6-bigt-wi-fi-mistakes-and-their-solutions.html](https://www.pcworld.com/article/2002677/6-bigt-wi-fi-mistakes-and-their-solutions.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The manufacturers of Wi-Fi devices want to do the work for you: That&rsquo;s why they deliver routers and repeaters with numerous presettings so that you don&rsquo;t have to spend time setting them up and adapting them to your home network.</p>
+
+
+
+<p><strong>But what is well-intentioned can have nasty consequences</strong>: For example, preset passwords can jeopardize the security of your network. And the improper placement of routers and repeaters can hinder the fast data transfer in the Wi-Fi.</p>
+
+
+
+<p>If you make such Wi-Fi mistakes, even the best devices can&rsquo;t help you. That&rsquo;s why you shouldn&rsquo;t always rely on the convenient automatic mechanisms, but instead try to improve the speed and security of your Wi-Fi yourself. This article shows you how to do this.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="the-preset-wi-fi-password-is-unchanged">The preset Wi-Fi password is unchanged</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="a-supremely-powerful-gaming-router">
+					A supremely powerful gaming router				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="tp-link-gx90">TP-Link GX90</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="TP-Link GX90" class="product-widget__image" height="1333" src="https://b2c-contenthub.com/wp-content/uploads/2022/03/Power-Supply.png" width="2000" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/624515/tp-link-gx90-review-a-supremely-powerful-gaming-router.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+							Price When Reviewed:								</span>
+								<span class="product-widget__information--rrp-value">
+								$249.99								</span>
+							</div>
+						
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://www.amazon.com/dp/B08TGKX9MT?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;asc_refurl=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$224.99 at  Amazon</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://shop-links.co/link/?url=https%3A%2F%2Flenovo.vzew.net%2Fc%2F321564%2F797408%2F3808%3Fprodsku%3D78157053%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Faccessories-and-software%252Fwireless-and-networking%252Fwireless-router%252F78157053%26intsrc%3DCATF_5733&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed&amp;u1=2-3-2002677-5-624532-14959" rel="nofollow" target="_blank">$224.99 at  Lenovo USA</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shopus.tp-link.com/products/archer-gx90&amp;xcust=2-3-2002677-5-624532-14959&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$224.99 at  TP-Link</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p><strong>Why is this a problem?</strong> With many routers, you don&rsquo;t have to think up a Wi-Fi password. Manufacturers sell them with a pre-configured, individual password that is often written on the bottom of the router box. Often there is also a password card in the router box, which is then placed somewhere near the PC or pinned to the wall.</p>
+
+
+
+<p>This way, everyone in your home can find out the Wi-Fi password: Guests, acquaintances, or friends of your children take a photo of it, for example, with their smartphone. They then have access to your Wi-Fi and your home network&mdash;even outside your home, depending on the range of your Wi-Fi.</p>
+
+
+
+<p>Everything that these people do via your internet access initially falls back on you as the connection owner&mdash;for example, unauthorized downloads. In addition, the unwanted guests can access devices on your home network&mdash;such as NAS, IP camera, and printer.</p>
+
+
+
+<p><strong>How you fix the problem: </strong>You should always change the default Wi-Fipassword of the router&mdash;preferably when you set it up. If you change the password later, you will have to enter the new password again for all Wi-Fi clients that were already connected to the router. </p>
+
+
+
+<p>Avoid keeping your password displayed where others can see it, such as on the router, pinning it to the wall, or similar. </p>
+
+
+
+<p>For friends and visitors, it is best to activate the guest Wi-Fi in the router, through which they can access the internet, but not your home network. You should also secure this additional wireless network with a different password.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="the-access-password-for-the-router-menu-is-unchanged">The access password for the router menu is unchanged</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Erh&ouml;hte Sicherheit: Bei diesem Asus-Router l&auml;sst sich neben dem Zugangspasswort f&uuml;r das Routermen&uuml; auch der Benutzername &auml;ndern." class="wp-image-1998158" height="627" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/rapture_asus_router_einstellungen.jpg?quality=50&amp;strip=all" width="933" /><figcaption class="wp-element-caption"><p>Increased security: With this Asus router, you can change not only the access password for the router menu, but also the user name.</p>
+</figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p><strong>Why is this a problem? </strong>You should definitely secure access to the router menu: This is because the basic settings for network security can be defined there&mdash;or they can be overridden by a third party if they get into the menu. </p>
+
+
+
+<p>However, many manufacturers do not protect the menu access sufficiently: Either they use a standard password for all devices, which can be found quickly with an internet search or even directly on the manufacturer&rsquo;s website. Even if they assign an individual access password for each device, this is usually written on the bottom of the router housing&mdash;similar to the Wi-Fi password. This way, anyone in your home can access the router&rsquo;s menu and change settings.</p>
+
+
+
+<p><strong><strong>How you fix the problem</strong>:</strong> In addition to the Wi-Fi password, you should always change the preset access password for the router menu. If the menu also requires a user name, change it as well, because in many cases it is simply &ldquo;admin.&rdquo;</p>
+
+
+
+<p>Many router models make you aware of this when you first set them up; ideally, you will then not be able to continue the configuration without first assigning a secure password.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="the-wps-function-in-the-router-remains-activated-all-the-time">The WPS function in the router remains activated all the time</h2>
+
+
+
+<p><strong>Why is this a problem?</strong> WPS is the easiest way to connect a Wi-Fi client to the router. But this doesn&rsquo;t just apply to your devices: Anyone who has physical access to your router can use it to get into your home network in a few seconds if they press the WPS button on the router in an unguarded moment.</p>
+
+
+
+<p><strong>How you fix the problem: </strong>Only use the practical WPS function when setting up the router in order to conveniently connect all WPS-enabled Wi-Fi clients to the router. Afterwards, you should switch off WPS in the router settings. If you want to integrate a new Wi-Fi client, you can temporarily switch WPS back on in the router if necessary. This may seem awkward, but it increases network security, especially in households with several people. Especially since it does not happen too often that you integrate a new Wi-Fi device into the home network.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="your-wi-fi-is-open-to-friends-and-visitors">Your Wi-Fi is open to friends and visitors</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Bei diesem D-Link-Router finden sich die Einstellungen f&uuml;r das Gastnetz unter &bdquo;WLAN &ndash;&rsaquo; Gastzone&ldquo;. Hier k&ouml;nnen Sie au&szlig;erdem einen Zeitraum einstellen, in dem es aktiv sein soll." class="wp-image-1998171" height="443" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/dlink_router_einstellungen.jpg?quality=50&amp;strip=all" width="691" /><figcaption class="wp-element-caption"><p>With this D-Link router, the settings for the guest network can be found under &ldquo;Wi-F</p>i<span>-&lsquo; Guest Zone.&rdquo; Here you can also set a time period during which it should be active.</span> </figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<p><strong>Why is this a problem?</strong> It is now standard for visitors to have Wi-Fi access, and not just in hotels and restaurants. Many guests also expect this when they come to your home&mdash;for example, to present holiday photos on their smartphone, to watch a funny YouTube video, or to play their new favorite song. However, if you let the visitors into your Wi-Fi by telling them the password, curious contemporaries can not only take a look at the picture collection on your NAS, for example, but inadvertently smuggle malware onto your network.</p>
+
+
+
+<p><strong><strong>How you fix the problem</strong>: </strong>The safest way to offer visitors internet access at home is to use the guest Wi-Fi. Every Wi-Fi router has this function. This Wi-Fi is secure because it is separate from the home network: The devices in the guest Wi-Fi can access the internet, but cannot access your home network because both networks have a different IP address range.</p>
+
+
+
+<p>Activate the guest Wi-Fi in the router menu and give it a simple but meaningful name&mdash;for example, &ldquo;Wi-Fi for my guests.&rdquo;</p>
+
+
+
+<p>If you want to prevent people outside your home from using this Wi-Fi because your wireless network extends to the outside, encrypt it using the WPA2 standard with a password that is different from that of your home network Wi-Fi.</p>
+
+
+
+<p>Some routers offer additional security measures for the guest Wi-Fi: For example, you can specify how long it should remain switched on or that it should automatically deactivate when no devices are connected to it.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="the-wi-fi-router-is-in-the-cupboard-or-behind-the-shelf">The Wi-Fi router is in the cupboard or behind the shelf</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="an-excellent-mesh-wi-fi-6e-system">
+					An excellent mesh wi-fi 6e system				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="eero-pro-6e">Eero Pro 6E</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Eero Pro 6E" class="product-widget__image" height="718" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/EERO-Pro-6-Mesh-router.jpg?quality=50&amp;strip=all" width="1377" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/693391/eero-pro-6e-mesh-wi-fi-review-more-family-sedan-than-sports-car.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+							Price When Reviewed:								</span>
+								<span class="product-widget__information--rrp-value">
+								1-pack: $299 | 2-pack: $499 | 3-pack: $699								</span>
+							</div>
+						
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://www.amazon.com/dp/B091G65HH6?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;asc_refurl=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$249.99 at  Amazon</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://goto.walmart.com/c/321564/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;subid1=2-3-2002677-5-693393-15927&amp;u=https://goto.walmart.com/c/321564/1285387/9383?prodsku=1454082219&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2Feero-Pro-6E-Wi-Fi-system-3-routers-up-to-6-000-sq-ft-mesh-GigE-2-5-GigE-Wi-Fi-6E-ZigBee-Bluetooth-Thread-Multi-Band%2F1454082219&amp;intsrc=CATF_9768" rel="nofollow" target="_blank">$390 at  Walmart Affiliate Program</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://goto.walmart.com/c/321564/565706/9383?veh=aff&amp;sourceid=imp_000011112222333344&amp;subid1=2-3-2002677-5-693393-15927&amp;u=https://www.walmart.com/ip/eero-Pro-6E-Wi-Fi-system-3-routers-up-to-6-000-sq-ft-mesh-GigE-2-5-GigE-Wi-Fi-6E-ZigBee-Bluetooth-Thread-Multi-Band/1454082219" rel="nofollow" target="_blank">$390 at  Walmart Electronics</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p><strong>Why is this a problem? </strong>Most Wi-Fi routers aren&rsquo;t exactly attractive as furnishing. Therefore, it is not far-fetched to think of banishing them from sight. However, the transmitting/receiving performance of a Wi-Fi router drops significantly if you place the device in an enclosed area such as a cupboard, a desk, or a box, or hide it behind a filled bookshelf.</p>
+
+
+
+<p><strong><strong>How you fix the problem</strong>:</strong> A Wi-Fi router should be placed as freely and elevated as possible&mdash;this way its radio signals can spread undisturbed in all directions of the environment to reach the connected Wi-Fi devices without hindrance. If you don&rsquo;t have this optimal a location, there should at least be no major obstacles in the main radio direction of the router, i.e. where most WLAN clients are located as seen from the router.</p>
+
+
+
+<p>Some routers can also be mounted higher up on the inside of a wall using a suitable wall mount. Many router manufacturers also offer their own smartphone app for setting up the device or for Wi-Fi analysis, which can be used to assess the location of the router.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="the-router-treats-all-wi-fi-clients-equally">The router treats all Wi-Fi clients equally</h2>
+
+
+
+<p><strong>Why is this a problem? </strong>A router normally supplies each active client with the best currently available internet bandwidth. This becomes a problem when many clients transmit data to the internet at the same time. It can happen, for example, that a client that starts an extensive upload or download occupies the entire bandwidth of the internet connection for a short time, so that other clients go empty.</p>
+
+
+
+<p>If you are surfing the internet or writing an email with such a client, you will not notice this at first. However, if you are taking part in a video conference, this can lead to poorer picture and sound quality or even to the termination of the connection.</p>
+
+
+
+<p><strong><strong>How you fix the problem</strong>: </strong>In every home network there are Wi-Fi clients whose transmission performance is more important than that of other devices. Depending on the purpose, this can be the work PC in the home office or the game console for online gaming. To ensure that the router transmits the data of these important Wi-Fi clients faster, use the QoS (Quality of Service) function, also referred to as &ldquo;prioritization&rdquo; in many router menus. </p>
+
+
+
+<p>Depending on the router, you can specify certain devices here that the router should prioritize, or specify applications such as video conferencing, internet telephony or streaming that should have priority. To do this, it is best to create a priority rule in the router menu. </p>
+
+
+
+<p>Prioritization of this type is only possible if the router actually works in router mode and not as an access point, repeater, or so-called IP client.</p>
+
+
+
+<p><em>his article was translated from German to English, and originally appeared on pcwelt.de.</em>&nbsp;<em>As such, some of the screenshots above still appear in German.</em></p>
+
+Networking</div>
+
+## Asus ZenScreen MB16QHG review: A pricey but alluring portable monitor
+ - [https://www.pcworld.com/article/1981699/asus-zenscreen-mb16qhg-review.html](https://www.pcworld.com/article/1981699/asus-zenscreen-mb16qhg-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Useful kickstand with tripod mount</li><li>Excellent brightness</li><li>Good color performance</li><li>120Hz provides better motion clarity</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Build quality doesn&rsquo;t impress</li><li>Contrast ratio falls short of OLED</li><li>Not the best value</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Asus ZenScreen MB16QHG delivers a bright, vibrant image and plentiful features, but its price feels steep next to OLED alternatives.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-asus-zenscreen-mb16qhg">
+			Best Prices Today: Asus ZenScreen MB16QHG		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+		
+		<div class="new_products_tab tabcontent" id="New">
+
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<span>Asus</span>
+															</div>
+							<div class="price-comparison__price">
+								<span>$399</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://shop.asus.com/us/90lm08ng-b011b0-asus-zenscreen-mb16qhg.html&amp;xcust=2-1-1981699-2-1983327-11291&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+
+		<div class="refurbished_products_tab tabcontent" id="Refurbished">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div class="refurbished-drop">
+				<select class="price_comparison_condition" name="priceComparisonCondition">
+					
+				</select>
+				</div>
+			</div>
+
+							<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+					Price comparison from Backmarket						</span>
+									</div>
+		</div>
+		</div>
+		
+
+
+<p>A portable monitor is an excellent travel companion and ideal second monitor for cramped work-from-home setups, but the image quality of budget models can leave something to be desired. Asus ZenScreen MB16QHG provides an upgraded experience with superior brightness, contrast, and color performance&mdash;but the upgrades don&rsquo;t come cheap.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading:</strong> See our roundup of the <a href="https://www.pcworld.com/article/1787210/best-portable-monitors.html">best portable monitors</a> to learn about competing products.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="asus-zenscreen-mb16qhg-specs">Asus ZenScreen MB16QHG specs</h2>
+
+
+
+<p>The Asus ZenScreen MB16QHG is a bit different from most portable monitors available today. It has a 16-inch 16:10 display panel, instead of a 15.6-inch 16:9, and a resolution of 2560&times;1600. Asus also upgrades the refresh rate to 120Hz.</p>
+
+
+
+<ul>
+<li>Display size: 16-inch 16:10 widescreen</li>
+
+
+
+<li>Native resolution: 2560&times;1600</li>
+
+
+
+<li>Panel type: IPS LCD</li>
+
+
+
+<li>Refresh rate: 120Hz</li>
+
+
+
+<li>Adaptive Sync: None</li>
+
+
+
+<li>HDR: Yes, VESA DisplayHDR 400 certified</li>
+
+
+
+<li>Ports: 1x HDMI 2.0, 2x USB-C with DisplayPort Alternate Mode, earphone-out jack</li>
+
+
+
+<li>VESA mount: None, tripod mount available</li>
+
+
+
+<li>Speakers: None</li>
+
+
+
+<li>Price: $399</li>
+</ul>
+
+
+
+<p>The Asus ZenScreen MB16QHG will retail at $399, which feels steep for a portable monitor that lacks an OLED panel. Shoppers may compare it side-by-side with <a href="https://www.pcworld.com/article/1500398/viewsonic-colorpro-vp16-oled-review.html">Viewsonic&rsquo;s ColorPro VP16-OLED</a>, which typically retails for $399 online.</p>
+
+
+
+<h2 class="wp-block-heading" id="asus-zenscreen-mb16qhg-design">Asus ZenScreen MB16QHG design</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983309" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-5.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>The Asus ZenScreen MB16QHG comes with a well-designed and convenient stand.</p>
+</figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>The Asus ZenScreen MB16QHG&rsquo;s kickstand sets it apart from most portable monitors. The stand folds down from the bottom of the monitor and ends up sitting flat on a desk or table. It&rsquo;s somewhat similar to the Viewsonic ColorPro VP16-OLED but, unlike that alternative, Asus&rsquo; stand doesn&rsquo;t increase the height of the monitor. The stand design is stable and allows for a wider range of tilt adjustment than most portable monitors. It also supports use in portrait orientation.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="the-competition">
+					the competition				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="viewsonic-colorpro-vp16-oled">Viewsonic ColorPro VP16-OLED</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Viewsonic ColorPro VP16-OLED" class="product-widget__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/viewsonic-vp16-oled-4.jpg?quality=50&amp;strip=all" width="1500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1500398/viewsonic-colorpro-vp16-oled-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Photo and video editors who want to preview their work will appreciate the monitor&rsquo;s tripod stand, which lurks on the bottom of the kickstand. Unlike many portable monitors, Asus&rsquo; stand doesn&rsquo;t double as a protective display cover, but Asus includes a protective carrying case.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983312" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-3.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>A basic plastic bezel surrounds the Asus ZenScreen MB16QHG.</p></figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>The monitor&rsquo;s form is a bit less impressive than its function. Plastic dominates the chassis, and its rigidity is no better than alternatives sold for half the price. A decorative lip on the lower bezel offers a bit of flair, but it&rsquo;s glossy and may cause glare in bright rooms. I expect better at this price.</p>
+
+
+
+<h2 class="wp-block-heading" id="asus-zenscreen-mb16qhg-features-and-menus">Asus ZenScreen MB16QHG features and menus</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983315" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-4.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Asus ZenScreen MB16QHG connectivity features.</p>
+</figcaption></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Connectivity includes one full-sized HDMI 2.0 port and two USB-C ports with DisplayPort Alternate mode. The USB-C ports power the monitor from either a connected device or the included USB-C power brick. A 3.5mm audio-out jack rounds out the options.</p>
+
+
+
+<p>The ports are typical for a portable monitor, with one exception: the full-sized HDMI port. Many competitors, especially those which are less expensive, use a Mini or Micro-HDMI port. That means you&rsquo;ll need an appropriate cable to connect to the monitor. It&rsquo;s not a huge issue, but a full-size HDMI port makes connecting a tad easier.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The MB16QHG can handle many photography, videography, and digital art workflows, and looks attractive when it&rsquo;s time to kick back and enjoy a game or Netflix.</p></blockquote></figure>
+
+
+
+<p>Asus exceeds expectations with the monitor&rsquo;s on-screen menu system, which provides a wider variety of options than most portable monitors. A quick, responsive joystick on the monitor&rsquo;s right flank is used to navigate the menus.</p>
+
+
+
+<p>Asus provides numerous image-quality modes and adjustments for color, saturation, and color temperature, although some of these settings are only available in specific image-quality modes. Still, Asus&rsquo; menu system far exceeds budget monitors like the <a href="https://www.pcworld.com/article/1532023/arzopa-a1-gamut-portable-monitor-review.html">Arzopa A1 Gamut</a> and comes close to the more expensive Viewsonic VP16-OLED.</p>
+
+
+
+<p>Speakers aren&rsquo;t included. Most portable monitors include speakers, but the quality is inevitably disappointing. I don&rsquo;t think Asus&rsquo; decision to ditch them is a problem.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-is-the-asus-zenscreen-mb16qhgs-sdr-image-quality">How is the Asus ZenScreen MB16QHG&rsquo;s SDR image quality?</h2>
+
+
+
+<p>The Asus ZenScreen MB16QHG is geared towards professionals who frequently travel, but its image quality actually exceeds their needs. It provides a bright, crisp image with good color performance. The monitor can handle many photography, videography, and digital art workflows, and looks attractive when it&rsquo;s time to kick back and enjoy a game or Netflix.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983316" height="805" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-brightness.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Brightness ranks among the monitor&rsquo;s strongest qualities, with a maximum brightness of 479 nits in SDR. As the graph shows, that&rsquo;s higher than any portable monitor we&rsquo;ve tested this year.</p>
+
+
+
+<p>It&rsquo;s not a trivial advantage. Portable monitors are more likely to be used in situations where light control isn&rsquo;t available. The MB16QHG&rsquo;s brightness will make it more comfortable to use in these situations.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983319" height="844" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-contrast.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Contrast is decent, though the MB16QHG&rsquo;s performance depends on your perspective. It&rsquo;s superior to other portable monitors with an IPS LCD panel, such as the Azorpa A1 Gamut and AOC I1601FWUX. But OLED portable monitors, such as the ViewSonic ColorPro VP-16 OLED and the <a href="https://www.pcworld.com/article/1676448/innocn-15k1f-monitor-review.html">Innocn 15K1F</a>, provide a better sense of depth and dimensionality.</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					mentioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="innocn-15k1f">Innocn 15K1F</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Innocn 15K1F" class="product-widget__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/innocn-15k1f-3.jpg?quality=50&amp;strip=all" width="1500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1676448/innocn-15k1f-monitor-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://innocn.com/products/innocn-15-6-portable-monitor-15k1f&amp;xcust=2-1-1981699-5-1676463-24025&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">399.00 at  Innocn</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>The degree to which this matters depends on your use. The MB16QHG looks great when displaying bright, colorful content, as this obscures its relatively weak contrast. OLED, which can dim each pixel individually, is a better choice if you enjoy, or work with, darker images, games, and films.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983321" height="807" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-color-gamut.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>It&rsquo;s a similar story in color gamut. The MB16QHG compares well to other IPS LCD monitors, but not as well against OLED alternatives. Still, the MB16QHG manages to display an impressive 98 percent of the DCI-P3 color gamut, which is enough for most professional photography and videography.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus ZenScreen MB16QHG" class="wp-image-1983322" height="872" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-ZenScreen-MB16QHG-color-accuracy.png?w=1200" width="1200" /></figure><p class="imageCredit">Matt Smith</p></div>
+
+
+
+<p>Color accuracy is complex, as the MB16QHG is merely okay at default settings. It looks attractive, but testing revealed colors were blown out and overly vibrant. The problem is an unfortunate choice of default color mode. The monitor ships in Scenery mode, which ups the color saturation to an unrealistic level.</p>
+
+
+
+<p>Fortunately, the monitor&rsquo;s color accuracy is improved in other modes (Standard Mode provides an average color error of just 1.46), and the menu system offers plenty of opportunities for calibration.</p>
+
+
+
+<p>The monitor does well in color temperature and gamma with a reading of 6500K and 2.2 respectively. Both readings are precisely on our preferred targets. They indicate the monitor&rsquo;s image looks realistic and that content is roughly as bright as its creator intended.</p>
+
+
+
+<p>Sharpness is another perk, as the monitor provides a resolution of 2560&times;1600. That works out to a pixel density of roughly 188 pixels per inch&mdash;higher than a 27-inch 4K monitor. Small fonts look crisp and high-resolution video reveals plenty of detail.</p>
+
+
+
+<p>The Asus ZenScreen MB16QHG isn&rsquo;t the most attractive portable monitor around&mdash;that honor goes to its OLED competitors&mdash;but it earns high marks in brightness, color performance, and sharpness.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-is-the-asus-zenscreen-mb16qhgs-hdr-image-quality">How is the Asus ZenScreen MB16QHG&rsquo;s HDR image quality?</h2>
+
+
+
+<p>The Asus ZenScreen MB16QHG supports HDR input and carries VESA DisplayHDR 400 certification. That might sound promising, but HDR performance doesn&rsquo;t hold up.</p>
+
+
+
+<p>Brightness is a problem. The monitor approaches 500 nits in HDR, but that&rsquo;s still not enough to deliver a quality HDR experience. Complex high-contrast scenes, like the black hole from <em>Interstellar</em>, show that a lot of luminance detail is crushed. Bright areas of a scene appear as a uniform, bright glow that lacks detail. This occurs in part because the monitor isn&rsquo;t bright enough to make the brightest portions of the scene distinct.</p>
+
+
+
+<p>The monitor&rsquo;s HDR support is a perk if you need to view an HDR video or image but lack a laptop with HDR support. Just keep your expectations in check.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-is-the-asus-zenscreen-mb16qhgs-motion-performance">How is the Asus ZenScreen MB16QHG&rsquo;s motion performance?</h2>
+
+
+
+<p>Surprisingly, the Asus ZenScreen MB16QHG delivers a refresh rate of 120Hz. That&rsquo;s comparable to many portable monitors meant for gamers. The enhanced refresh rate improves motion fluidity and clarity in games, but also proves useful when scrolling through text or images.</p>
+
+
+
+<p>Gamers shouldn&rsquo;t get too excited, however, as the monitor sadly lacks Adaptive Sync support. Its absence allows screen tearing in games which don&rsquo;t produce a frame rate equal or above the monitor&rsquo;s 120Hz. To be fair, though, many portable gaming monitors also lack Adaptive Sync, so the MB16QHG isn&rsquo;t at a disadvantage.</p>
+
+
+
+<h2 class="wp-block-heading" id="is-the-asus-zenscreen-mb16qhg-worth-it">Is the Asus ZenScreen MB16QHG worth it?</h2>
+
+
+
+<p>The Asus ZenScreen MB16QHG is a versatile portable monitor for productivity, general use, gaming, and most content creation. The monitor&rsquo;s IPS panel can&rsquo;t compare to OLED portable monitors, however&mdash;a problem, as the MB16QHG is priced to compete with them. Asus strikes back with superior sharpness (most OLED alternatives are 1080p) and a 120Hz refresh rate. I think OLED is better for most people, but the MB16QHG is a solid pick if you need a portable monitor that&rsquo;s brighter, and sharper, than OLED provides.</p>
+
+Monitors</div>
+
+## Save $400 off the world’s top-grossing language learning software
+ - [https://www.pcworld.com/article/2006576/save-400-off-the-worlds-top-grossing-language-learning-software.html](https://www.pcworld.com/article/2006576/save-400-off-the-worlds-top-grossing-language-learning-software.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-07-25T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>These days, there are many reasons to learn a new language. There are also many ways to do it. So, rather than spin your wheels trying to figure out how to learn Spanish before going on that Andalusian vacation, consider the solution chosen by more than ten million people worldwide. Babbel is the world&rsquo;s top-grossing <a href="https://shop.pcworld.com/sales/babbel-language-learning-lifetime-subscription-all-languages?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=babbel-language-learning-lifetime-subscription-all-languages&amp;utm_term=scsf-575398&amp;utm_content=a0x1P000004IvSxQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">language learning software</a> for a reason, and it&rsquo;s on sale for 66% off now.</p>
+
+
+
+<p>Developed by more than 100 expert linguists, Babbel helps you <a href="https://shop.pcworld.com/sales/babbel-language-learning-lifetime-subscription-all-languages?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=babbel-language-learning-lifetime-subscription-all-languages&amp;utm_term=scsf-575398&amp;utm_content=a0x1P000004IvSxQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">learn any of 14 different languages</a> through bite-sized classes that fit into your schedule and focus on practical topics. It&rsquo;s designed so that in just a month, you can communicate confidently about topics like transportation, <a href="https://shop.pcworld.com/sales/100-restaurant-com-egift-card-for-only-11-11?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=100-restaurant-com-egift-card-for-only-11-11&amp;utm_term=scsf-570099&amp;utm_content=a0x1P000004IXHoQAO&amp;scsonar=1" rel="noreferrer noopener" target="_blank">dining</a>, shopping, and more.</p>
+
+
+
+<p>Babbel has earned 4.5/5 stars on the Google Play Store, 4.6/5 stars on the App Store, and was previously named Fast Company&rsquo;s &ldquo;most innovative company in education.&rdquo; Find out why when you get this <a href="https://shop.pcworld.com/sales/babbel-language-learning-lifetime-subscription-all-languages?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=babbel-language-learning-lifetime-subscription-all-languages&amp;utm_term=scsf-575398&amp;utm_content=a0x1P000004IvSxQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Babbel Language Learning: Lifetime Subscription (All Languages)</a> for 66% off $599 at just $199.97.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/babbel-language-learning-lifetime-subscription-all-languages?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=babbel-language-learning-lifetime-subscription-all-languages&amp;utm_term=scsf-575398&amp;utm_content=a0x1P000004IvSxQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp3.stackassets.com/803501534e4f3a75e82d16033fcc6b9a9825fda3/store/ce05162579f37f3f58a112b4e40388fcb2c13ead8ef34dc60c2d72f2a2c2/sale_136716_primary_image.png" /></figure></div>
+
+
+
+<p><strong>Babbel Language Learning: Lifetime Subscription (All Languages) &ndash; $199.97</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/babbel-language-learning-lifetime-subscription-all-languages?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=babbel-language-learning-lifetime-subscription-all-languages&amp;utm_term=scsf-575398&amp;utm_content=a0x1P000004IvSxQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices are subject to change.</p>
+
+Entertainment</div>
+

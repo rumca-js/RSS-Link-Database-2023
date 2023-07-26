@@ -1,0 +1,135 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## The official ChatGPT app for Android finally launches
+ - [https://www.zdnet.com/article/official-chatgpt-app-for-android-finally-launches/#ftag=RSSbaffb68](https://www.zdnet.com/article/official-chatgpt-app-for-android-finally-launches/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T20:21:49+00:00
+
+The new Android flavor of OpenAI's popular chat app works the same as its iOS counterpart, which rolled out in May.
+
+## This handy webcam has a built-in ring light, and it's 50% off right now
+ - [https://www.zdnet.com/article/this-handy-webcam-has-a-built-in-ring-light-and-its-50-off-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-handy-webcam-has-a-built-in-ring-light-and-its-50-off-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T20:05:59+00:00
+
+The Razer Kiyo webcam has been serving me well for a long time and, at a highly discounted price, it could do the same for you.
+
+## How to use ChatGPT: Everything you need to know
+ - [https://www.zdnet.com/article/how-to-use-chatgpt/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-chatgpt/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T19:42:00+00:00
+
+If you want to use the most popular AI chatbot available, we'll walk you through how to get started with ChatGPT, get the most out of it, and learn what the latest updates entail.
+
+## How to run multiple Linux commands at once
+ - [https://www.zdnet.com/article/how-to-run-multiple-linux-commands-at-once/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-run-multiple-linux-commands-at-once/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T19:18:00+00:00
+
+When you finally start working with the Linux command line, you'll find numerous ways to make the process more efficient. By running two or more commands at once, you'll not have to wait until one finishes to start the next.
+
+## How Google's latest AI model is generating music from your brain activity
+ - [https://www.zdnet.com/article/how-googles-latest-ai-model-is-generating-music-from-your-brain-activity/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-googles-latest-ai-model-is-generating-music-from-your-brain-activity/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T17:59:37+00:00
+
+The music you're listening to creates specific brain patterns that AI can use to generate that same sound. Listen for yourself.
+
+## I read the news today, oh bot! AI-generated anchors are making headlines in India
+ - [https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/#ftag=RSSbaffb68](https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T17:34:02+00:00
+
+Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor.
+
+## AI-generated anchors are making headlines in India
+ - [https://www.zdnet.com/article/ai-generated-anchors-are-making-headlines-in-india/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-generated-anchors-are-making-headlines-in-india/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T17:34:00+00:00
+
+Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor.
+
+## Best Apple Watches of 2023: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-apple-watch/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-apple-watch/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T17:26:23+00:00
+
+ZDNET tested the best Apple Watches to help you figure out which model is the best to track your activities, sleep, and more.
+
+## The best iPads for college students in 2023: Expert tested and reviewed
+ - [https://www.zdnet.com/article/best-ipad-for-college/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-ipad-for-college/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T16:50:48+00:00
+
+From taking notes and Zoom calls to completing a graphic design project, these are the best iPads college students can buy, according to ZDNET's testing.
+
+## What is a Linux bash script and how do you create one?
+ - [https://www.zdnet.com/article/what-is-a-linux-bash-script-and-how-do-you-create-one/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-is-a-linux-bash-script-and-how-do-you-create-one/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T16:35:26+00:00
+
+Bash scripts have been around since the humble beginnings of Linux. But what are they and how do you create your first one? Find the answers to those questions here.
+
+## Mix and match MacBook Pro? Patent suggests a modular future for Apple's laptop
+ - [https://www.zdnet.com/article/mix-and-match-macbook-pro-patent-suggests-a-modular-future-for-apples-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/mix-and-match-macbook-pro-patent-suggests-a-modular-future-for-apples-laptop/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T15:58:05+00:00
+
+A newly granted patent describes the base of a computing device that supports multiple components -- such as displays or keyboards -- via magnet attachment.
+
+## 4 ways to avoid clicking malicious links that everyone online should know
+ - [https://www.zdnet.com/article/4-ways-to-avoid-clicking-on-malicious-links-and-the-phishing-and-scams-behind-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/4-ways-to-avoid-clicking-on-malicious-links-and-the-phishing-and-scams-behind-them/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T15:56:00+00:00
+
+Clicking on a single malicious link could lead to malicious software being installed on our your computer. But how do you avoid such a fate? Here are a few tips.
+
+## Don't wait for your iPhone to automatically install this iOS update - do it now
+ - [https://www.zdnet.com/article/dont-wait-for-your-iphone-to-automatically-install-this-ios-update/#ftag=RSSbaffb68](https://www.zdnet.com/article/dont-wait-for-your-iphone-to-automatically-install-this-ios-update/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T15:01:54+00:00
+
+iOS 16.6 contains patches for over two dozen security issues, including two that are currently being exploited by hackers.
+
+## Opera's Battery Saver mode is yet another reason why you should switch to this fantastic browser
+ - [https://www.zdnet.com/home-and-office/work-life/operas-battery-saver-mode-is-yet-another-reason-why-you-should-switch-to-this-fantastic-browser/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/operas-battery-saver-mode-is-yet-another-reason-why-you-should-switch-to-this-fantastic-browser/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T14:38:32+00:00
+
+The latest versions of the Opera web browser include a battery-saver function that can help give your laptop battery an assist in making it through the day (or at least until you can find an outlet).
+
+## Upgrade to Windows 11 Pro and get Microsoft Office bundled in for just $50
+ - [https://www.zdnet.com/article/upgrade-to-windows-11-pro-and-get-microsoft-office-bundled-in-for-just-50/#ftag=RSSbaffb68](https://www.zdnet.com/article/upgrade-to-windows-11-pro-and-get-microsoft-office-bundled-in-for-just-50/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T14:21:15+00:00
+
+This limited-time deal offers a lifetime license to Windows 11 Pro and Microsoft Office Pro to improve your computer's security and work features.
+
+## Bing AI chat expands to Chrome and Safari for select users
+ - [https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/#ftag=RSSbaffb68](https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T14:17:11+00:00
+
+Until now, you could chat with Bing AI only in Microsoft Edge and the Bing app.
+
+## How a UPS strike could impact your Amazon deliveries
+ - [https://www.zdnet.com/article/how-a-ups-strike-could-impact-amazon-deliveries/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-a-ups-strike-could-impact-amazon-deliveries/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T13:59:22+00:00
+
+We explore the ripple effect of UPS's union activities and their potential impact on Amazon.
+
+## Hands-on with the DJI Air 3: The perfect all-rounder drone
+ - [https://www.zdnet.com/home-and-office/hands-on-with-the-dji-air-3-the-perfect-all-rounder-drone/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/hands-on-with-the-dji-air-3-the-perfect-all-rounder-drone/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T13:00:22+00:00
+
+Want a drone that'll do it all? The new DJI Air 3 is as close to an all-rounder as you'll get.
+
+## Windows on Arm redux: Can Microsoft deliver a silicon surprise before year's end?
+ - [https://www.zdnet.com/article/windows-on-arm-can-microsoft-deliver-a-silicon-surprise-before-years-end/#ftag=RSSbaffb68](https://www.zdnet.com/article/windows-on-arm-can-microsoft-deliver-a-silicon-surprise-before-years-end/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-07-25T12:00:20+00:00
+
+It's quiet. Too quiet. To any external observer, Apple appears to have built up an insurmountable lead with its custom silicon. What's Microsoft up to?
+
