@@ -1,0 +1,57 @@
+# Source:The Hated One, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q, language:en-US
+
+## How The Most Corrupt Bank In The World Got Away With Everything
+ - [https://www.youtube.com/watch?v=Nxw3tfISTTA](https://www.youtube.com/watch?v=Nxw3tfISTTA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2023-07-31T17:27:16+00:00
+
+When the biggest bank in the world can get away with everything, what do the rules even mean?
+Support independent research and analysis by joining my Patreon page: https://www.patreon.com/thehatedone 
+
+HSBC wasn't just an unwitting vector. They were proactively implicit in the schemes their clients were accused of. The bank developed several methods to help their clients hide their assets. HSBC actively used strict Swiss secrecy laws to reassure their clients that their assets were safe from the jurisdiction of their local authorities. But this wouldn't be enough for clients with not so legitimate intentions. So the bank came up with a scheme they called "hold mail" accounts. A hold mail account was a service offered to wealthy customers that would function without any correspondence of any kind going between clients and the bank. HSBC was very successful at attracting the highest value clientele from around the world. The list didn't contain just some random millionaires and businessmen. The Swiss bank accommodated the very top of the world's ruling elites. From royalty, through oligarchs to dictators.
+
+Sources (references available in the official transcript)
+[0] https://www.theguardian.com/business/2001/sep/13/3
+[1] https://www.theguardian.com/business/2004/may/31/1
+[2] https://www.telegraph.co.uk/finance/2733877/Ex-HSBC-officer-held-in-Monaco.html
+[3] https://www.newyorker.com/magazine/2016/05/30/herve-falcianis-great-swiss-bank-heist
+[4] https://www.nytimes.com/2013/08/09/business/global/a-whistle-blower-who-can-name-names-of-swiss-bank-account-holders.html
+[5] https://en.wikipedia.org/wiki/Swiss_Leaks
+[6] https://www.lemonde.fr/en/archives/article/2022/03/14/swissleaks-the-backstory-of-a-worldwide-investigation_5978499_113.html
+[7] https://web.archive.org/web/20150218004301/http://www.lemonde.fr/economie/article/2014/01/27/listes-hsbc-la-saga-d-une-enquete-explosive-sur-l-evasion-fiscale_4354981_3234.html
+[8] https://www.theguardian.com/business/2010/mar/11/hsbc-inquiry-stolen-swiss-accounts
+[9] https://www.scmp.com/news/world/article/1933624/panama-papers-hsbc-helped-rich-clients-register-more-2300-shell-companies
+[10] https://indianexpress.com/article/world/world-news/panama-papers-hsbc-ubs-credit-suisse-other-banks-helped-wealthy-hide-assets/
+[11] https://www.reuters.com/article/us-panama-tax-banks-idUSKCN0X208M
+[12] https://www.theguardian.com/news/2016/apr/07/ex-hsbc-boss-michael-geoghegan-panama-papers-tried-to-avoid-tax-kensington-house
+[13] https://www.icij.org/investigations/swiss-leaks/banking-giant-hsbc-sheltered-murky-cash-linked-dictators-and-arms-dealers/
+[14] https://www.lexpress.fr/economie/georgina-mikhael-manipulee-ou-complice-dans-l-affaire-hsbc_856233.html
+[15] https://www.theguardian.com/business/2015/feb/09/hsbc-files-richard-caring-2million-cash-withdrawal
+[16] https://www.nytimes.com/2008/01/31/us/politics/31donor.html?
+[17] https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/DRC%20S%202001%20357.pdf
+[18] https://www.spiegel.de/international/europe/corruption-continues-virtually-unchecked-in-greece-a-861327.html
+[19] https://www.nytimes.com/2012/10/28/world/europe/list-of-swiss-accounts-turns-up-the-heat-in-greece.html?
+[20] https://www.theguardian.com/world/2012/oct/28/greek-editor-court-tax-evaders
+[21] https://www.bbc.co.uk/news/world-europe-20116548
+[22] https://www.nytimes.com/2012/10/05/world/europe/greece-former-government-official-found-dead.html
+[23] https://www.independent.co.uk/news/world/europe/mysterious-death-in-jakarta-hotel-of-second-man-exposed-on-lagarde-list-8204537.html
+[24] https://www.hsgac.senate.gov/imo/media/doc/PSI%20REPORT-HSBC%20CASE%20HISTORY%20(9.6)2.pdf
+[25] https://qz.com/35590/hsbcs-record-1-9-billion-money-laundering-fine-is-the-bank-equivalent-of-a-stiff-speeding-ticket
+[26] https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks
+[27] https://www.ft.com/content/28c5744a-b03f-11e4-92b6-00144feab7de
+[28] https://www.icij.org/investigations/fincen-files/hsbc-moved-vast-sums-of-dirty-money-after-paying-record-laundering-fine/
+[29] https://www.reuters.com/article/hsbc/rpt-insight-u-s-probe-of-hsbc-tangled-up-in-bureaucracy-infighting-idUSL1E8KPME620120926
+[30] https://www.buzzfeednews.com/article/jsvine/fincen-files-explainer-data-money-transactions 
+[31] https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks
+[32] https://www.icij.org/investigations/fincen-files/mining-sars-data/
+[33] https://www.buzzfeednews.com/article/anthonycormier/hsbc-money-laundering-drug-cartels
+
+Credits
+Music by: CO.AG Music and White Bat Audio
+
+Follow me:
+https://twitter.com/The_HatedOne_
+https://www.reddit.com/r/thehatedone/
+
+The footage and images featured in the video were for critical analysis, commentary and parody, which are protected under the Fair Use laws of the United States Copyright act of 1976.
+
