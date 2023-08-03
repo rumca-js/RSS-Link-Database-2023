@@ -1,0 +1,3145 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## This is the killer back-to-school Chromebook deal we hoped for
+ - [https://www.pcworld.com/article/2017476/this-is-the-killer-back-to-school-chromebook-deal-we-hoped-for.html](https://www.pcworld.com/article/2017476/this-is-the-killer-back-to-school-chromebook-deal-we-hoped-for.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T22:54:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Unfortunately, retailers still use back-to-school sales to offload subpar hardware at attractive prices. Not this deal. Best Buy is selling an excellent Chromebook for almost half off, and there&rsquo;s really no reason <em>not</em> to buy it.</p>
+
+
+
+<p>If you&rsquo;ve followed our almost daily roundups of the <a href="https://www.pcworld.com/article/818199/back-to-school-deals.html">best back-to-school deals on laptops, Chromebooks, MacBooks</a>, and other hardware, you know that bargains are often about compromise: Maybe the discounted item uses yesterday&rsquo;s hardware. In the case of Chromebooks, that&rsquo;s common, and the Pentium Silver N6000 chip inside the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-3-15-6-fhd-touch-screen-chromebook-laptop-pentium-silver-n6000-with-8gb-memory-64gb-emmc-abyss-blue%2F6531745.p&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Lenovo Flex 3 on sale for $249.99</a> (48% off!) is still better than most. But from what we can see this Chromebook has no gotchas at all.</p>
+
+
+
+<p>We often warn users to avoid Chromebooks with 4GB of RAM and a 768p screen. But the Flex 3 boasts 8GB RAM and 64GB of storage. The latter&rsquo;s <em>maybe</em> a little skimpy, but this is a Chromebook &mdash; this device is just for primarily working on (and storing) stuff online. But a nice big 15.6-inch 1080p screen? And a Lenovo-quality keyboard? We&rsquo;d advise you to grab this deal now, because we haven&rsquo;t seen anything this good yet for this year&rsquo;s back-to-school sales.</p>
+
+
+
+<p>We even double-checked Google&rsquo;s support window. According to Google, it appears that the Flex 3 line will receive patches until June 2028. As far as we can tell, this is a fantastic deal whose only concern is how long it will last.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-3-15-6-fhd-touch-screen-chromebook-laptop-pentium-silver-n6000-with-8gb-memory-64gb-emmc-abyss-blue%2F6531745.p&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow" target="_blank">Get the Lenovo Flex 3 15.6-inch Chromebook at Best Buy for $249</a></p>
+Chromebooks</div>
+
+## PCI Express breaks ground on PC tech that will run on light
+ - [https://www.pcworld.com/article/2017333/pci-express-breaks-ground-on-pc-tech-that-will-run-on-light.html](https://www.pcworld.com/article/2017333/pci-express-breaks-ground-on-pc-tech-that-will-run-on-light.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T19:53:47+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Anyone who&rsquo;s bought or researched buying a new SSD for their PC understands their limitations: SSDs are often constrained by the PCI Express bus to the rest of the PC, and they generate tons of heat. The architects of PCI Express are thinking about a solution: replacing PCIe&rsquo;s electrical interconnect with one that uses light instead.</p>
+
+
+
+<p>The PCI Special Interest Group (PCI-SIG) is <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.businesswire.com/news/home/20230802715619/en/PCI-SIG%C2%AE-Exploring-an-Optical-Interconnect-to-Enable-Higher-PCIe-Technology-Performance&amp;xcust=2-1-2017333-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">forming a workgroup</a> to develop a standardized optical interconnect that could replace the electrical bus found in PCs. Replacing electrons with photons could save power and heat by reducing resistance, as well as improving the overall performance of the PC itself.</p>
+
+
+
+<p>PCI Express is possibly the most important bus technology within the PC, connecting its most important components: the processor, the external GPU, and the SSD. Any changes to the PCI Express specification dramatically improve the PC&rsquo;s performance. A shift from electricity to light, however, would be revolutionary.</p>
+
+
+
+<p>Don&rsquo;t expect optical PCIe to arrive any time soon, however, either as a specification or as an actual product. For one thing, <a href="https://www.pcworld.com/article/1953221/pcie-7-0-is-coming-sooner-than-you-think.html">the PCI Express 7 specification</a> is currently scheduled to be released in 2025, offering a whopping 128 gigatransfers per second. But as we bemoaned in our <a href="https://www.pcworld.com/article/394512/the-best-pcie-40-ssd.html">roundup of the best internal SSDs</a>, the state of the art is a PCI Express <em>4</em> SSD &mdash; a standard, incidentally, that was finalized in 2017. </p>
+
+
+
+<p>It&rsquo;s also unclear what technology the SIG will adopt, either. In its statement, the SIG described its goals in brief terms: &ldquo;this new optical workgroup will work to make the PCIe architecture more optical-friendly,&rdquo; it said. Traditionally, the SIG&rsquo;s role is to simply publish a standard, ensuring interconnectivity and allowing manufacturers to work to a common standard.</p>
+
+
+
+<h2 class="wp-block-heading" id="why-would-pci-express-use-light">Why would PCI Express use light?</h2>
+
+
+
+<p>Using optics to transmit data has been in the works for over a decade. Intel, for example, first talked about a <a href="https://www.pcworld.com/article/512138/lightpeak-3.html">technology called Light Peak</a> as an optical replacement for USB, a specific goal it later abandoned. But by 2010 Intel had begun <a href="https://www.pcworld.com/article/508149/intel_light_woot.html">showing off optical interconnects inside PCs</a> that could hit 50Gbits per second. The technology, known as silicon photonics, could form the basis for an optical PCIe interconnect. </p>
+
+
+
+<p>Why use light instead of electrons? As one paper summed up, the thought that Moore&rsquo;s Law was coming to an end prompted new approaches. Moore&rsquo;s Law &mdash; which postulates that transistor density on a chip doubles every 12 to 18 months, and which Intel chief executive <a href="https://www.pcworld.com/article/547802/intels-gelsinger-pledges-to-beat-moores-law-over-the-next-decade.html">Pat Gelsinger has vowed to continue and even beat</a> &mdash; forced chip designers to consider multi-core chips instead. But connecting all of those cores requires a sophisticated interconnect, and that interconnection scheme can actually <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8840221/&amp;xcust=2-1-2017333-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">consume more than 80 percent of a chip&rsquo;s power</a>. That justifies a hard look at an optical replacement for that electrical interconnect.</p>
+
+
+
+<p>It&rsquo;s likely that PCI-SIG&rsquo;s work will benefit servers and cloud computing first, which can shoulder the high costs of early hardware. But if the PCI SIG&rsquo;s work comes to fruition, it&rsquo;s possible that someday our PCs will herd photons as well as electrons inside them.</p>
+
+Computer Components</div>
+
+## 6 essential back-to-school gadgets you need in your backpack
+ - [https://www.pcworld.com/article/2015772/6-essential-back-to-school-gadgets-you-need-in-your-backpack.html](https://www.pcworld.com/article/2015772/6-essential-back-to-school-gadgets-you-need-in-your-backpack.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T18:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Heading back to school? You&rsquo;ve probably checked the big items off your list: a new laptop, the latest smartphone, updated clothes, and so on. But don&rsquo;t forget the small essentials that you&rsquo;ll need to make sure all of your gear actually works!</p>
+
+
+
+<p>When you&rsquo;re out walking from class to class, you&rsquo;re going to want to make sure that your electronics are powered up, and that you can connect to any device or display you need to. Keep the big C&rsquo;s in mind: cables, connectors, chargers, and a carrying case to fit them all inside. (And if you haven&rsquo;t purchased a new laptop yet, consider another &ldquo;C&rdquo;: <a href="https://www.pcworld.com/article/818199/back-to-school-deals.html">cheap deals on back-to-school devices</a>.)</p>
+
+
+
+<p>Here are the tech essentials we think you&rsquo;ll need for high school, college, or university, plus somewhere to store them.</p>
+
+
+
+<h2 class="wp-block-heading" id="1-a-usb-c-hub-or-thunderbolt-dock">1.) A USB-C hub or Thunderbolt dock</h2>
+
+
+
+<h3 class="wp-block-heading" id="anker-7-in-1-usb-c-hub-or-belkin-thunderbolt-dock-core">Anker 7-in-1 USB-C Hub or Belkin Thunderbolt Dock Core</h3>
+
+
+
+<p>Chances are your laptop has a USB-C port on it, the same port that your smartphone probably uses to charge. That port is either a standard USB-C (10Gbps) or a more powerful Thunderbolt  (40Gbps) port.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Anker USB C Hub 341 " class="wp-image-1394200" height="893" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Anker-USB-C-Hub-341.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Anker</p></div>
+
+
+
+<p>Either way, you&rsquo;re going to need some way of connecting to an devices that use an older USB-A port, like a printer. Or maybe an SD card used with a photography class. Or plugging in an HDMI cable to display a presentation or use an external display. A USB-C dongle can do all of these.</p>
+
+
+
+<p>Our roundup of <a href="https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html">the best USB-C hubs and dongles</a> recommends the Anker 7-in-1 USB-C hub as the best overall USB-C hub, with additional suggestions for premium offerings that offer even more. The Anker is about $31 on Amazon, which is a solid price for what it delivers.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B07ZVKTP53?ascsubtag=2-2-2015772-7-0-0" rel="nofollow" target="_blank">Get the Anker 7-in-1 USB-C Hub for $31.49 on Amazon</a></p>
+
+
+<p>If your laptop has a more powerful Thunderbolt port installed (check your manual if you&rsquo;re not sure) you can buy a Thunderbolt dock that will do much more. Most of our <a href="https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html">recommended Thunderbolt docks</a> are powered docks, however, which require you to tote around a power brick all day. You don&rsquo;t want that.</p>
+
+
+
+<p>Our best pick for a travel Thunderbolt dock, however, is the <a href="https://www.pcworld.com/article/813324/review-belkins-connect-is-a-great-budget-thunderbolt-dock.html">Belkin Thunderbolt Dock Core (review)</a>, currently on a fantastic 50% off Amazon sale for $99 at press time. This dock allows you to connect to two external displays, Ethernet, and more. Just remember to bring your laptop&rsquo;s charger, however.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Belkin Connect Thunderbolt Dock Core" class="wp-image-814537" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2022/07/20220719_153224.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>This is Thunderbolt dock I choose when I go on vacation or travel, and it often lives in my backpack. It&rsquo;s a mite chunky at 5 inches by 6.5 inches, but doesn&rsquo;t even weigh half a pound.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B08438H4GM?ascsubtag=2-2-2015772-7-0-0" rel="nofollow" target="_blank">Get the Belkin Thunderbolt Dock Core for $99.99 on Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="2-gan-chargers-for-your-gear">2.) GaN chargers for your gear</h2>
+
+
+
+<h3 class="wp-block-heading" id="ugreen-100w-usb-c-charger">UGREEN 100W USB-C Charger</h3>
+
+
+
+<p>Sure, bring your laptop charger away to school. But gallium nitride <a href="https://www.pcworld.com/article/1992261/i-bought-7-new-gan-usb-c-chargers-for-all-my-gear-you-should-too.html">(GaN) chargers are the new hotness</a>, precisely because they&rsquo;re <em>not</em> hot: they&rsquo;re small, lightweight, smart, and keep cool. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="UGreen Nexode 100W 4-Port Charger" class="wp-image-819648" height="821" src="https://b2c-contenthub.com/wp-content/uploads/2022/07/Ugreen-Nexode-100W-USB-C-4-port-Charger.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">UGreen</p></div>
+
+
+
+<p>External chargers ship with various power ratings, and it might be worth spending a moment or two considering what you want. If you want to charge your laptop, look for a laptop charger that puts out the same power (or close to it) as your laptop&rsquo;s charger. Remember that the available power is split between the ports in use, so 100W to a laptop will drop to 75W or so if you&rsquo;re charging a phone, too.</p>
+
+
+
+<p>Our roundup of the <a href="https://www.pcworld.com/article/1915376/best-laptop-usb-c-pd-chargers.html">best external laptop chargers</a> helps break it all down, providing additional options. But we think that the UGREEN 100W USB-C Charger is what you&rsquo;re looking for: just enough power to charge your laptop (provided it uses a USB-C charger) <em>and</em> your phone at the same time. It&rsquo;s <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B091Z6JNX4?ascsubtag=2-2-2015772-1-0-0" rel="nofollow">$74.99 on Amazon</a>, but we&rsquo;ve found a better deal at Walmart, below.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/UGREEN-USB-C-Charger-100W-4Ports-Charger-GaN-II-Wall-Fast-Laptop-Power-Adapter-MacBook-Pro-Air-iPad-Pro-iPhone-14-Galaxy-S23-Ultra-Steam-Deck-Dell-XP/1776125352&amp;xcust=2-2-2015772-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the UGREEN 100W USB-C Charger for $47.29 at Walmart</a></p>
+
+
+<h2 class="wp-block-heading" id="3-a-usb-c-cable-or-two">3.) A USB-C cable or two</h2>
+
+
+
+<h3 class="wp-block-heading" id="anker-333-usb-c-cables">Anker 333 USB-C Cables</h3>
+
+
+
+<p>UGREEN&rsquo;s GaN laptop charger doesn&rsquo;t ship with a USB-C cable, though, so it&rsquo;s a good time to pick up a USB-C cable or two. There&rsquo;s no easier way to make friends with a new roommate or stranger than helping them out with the USB-C cable they forgot when they&rsquo;re trying to charge their phone.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Anker 777 USB-C cables" class="wp-image-2015970" height="772" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/Anker-777-USB-C-cables.png?w=1200" width="1200" /></figure><p class="imageCredit">Anker / Amazon</p></div>
+
+
+
+<p>You&rsquo;ll need to pay a small amount of attention to what you&rsquo;re using the USB-C cable for, though: if it&rsquo;s just to charge a phone, pretty much any cable will do. If it&rsquo;s to charge a laptop, buy one that&rsquo;s rated for the amount of power going through it, like 100W. We&rsquo;d also recommend braided cables (less tangles) and some color besides black, to help you find them in the gloomy depths of a backpack.</p>
+
+
+
+<p>This two-pack of Anker cables is about $18, versus $7 or so for cables than can only charge a phone. We think it&rsquo;s worth it.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Anker-2-Pack-Charging-MacBook-Samsung/dp/B09LCFDTKL/?ascsubtag=2-2-2015772-7-0-0" rel="nofollow" target="_blank">Buy the Anker 333 USB-C Cable (100W) 2-Pack for $17.99 at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="4-an-external-battery-pack">4.) An external battery pack</h2>
+
+
+
+<h3 class="wp-block-heading" id="anker-powercore-iii-elite">Anker PowerCore III Elite</h3>
+
+
+
+<p>Let&rsquo;s face it &mdash; some of you might have opted for a, um, <a href="https://www.pcworld.com/article/820520/best-gaming-laptops-for-students.html">gaming-capable laptop</a>? (We won&rsquo;t tell.) But when you&rsquo;re out on a full day of classes, it&rsquo;s possible that the ancient lecture halls won&rsquo;t have plug-in power handy, either for your laptop or your phone. Laptops with larger screen and dedicated GPUs chew through power more than productivity laptops. What to do?</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Anker PowerCore III Elite" class="wp-image-2015971" height="725" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/Anker-PowerCore-III-Elite.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Anker / Best Buy</p></div>
+
+
+
+<p>An external battery pack is the answer. Like a GaN charger, you can buy one that&rsquo;s designed to power just a phone, but we&rsquo;re recommending one that can power your laptop in a pinch, too. The Anker PowerCore III Elite 25600 supplies up to 87W to your laptop.</p>
+
+
+
+<p>Normally, the additional laptop power is a little pricy, <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fanker-powercore-iii-elite-25600-mah-87w-usb-c-pd-portable-charger-black%2F6433261.p&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">costing $149 at Best Buy</a>. But we found what looks like a solid deal on eBay for the same charger, at just $69.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ebay.com/itm/185376452772&amp;xcust=2-2-2015772-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Buy the Anker PowerCore III Elite for $69 on eBay</a></p>
+
+
+<h2 class="wp-block-heading" id="5-an-external-ssd">5.) An external SSD</h2>
+
+
+
+<h3 class="wp-block-heading" id="sandisk-professional-1tb">SanDisk Professional (1TB)</h3>
+
+
+
+<p>One of the problems laptops often face is a lack of available storage space, so an external SSD is the answer, especially if you game on the side. But as our <a href="https://www.pcworld.com/article/553786/best-external-ssd-for-gaming.html">best SSDs for external gaming roundup</a> points out, most gaming SSDs need a special 20Gbps USB-C interface that hardly any laptops use. So you&rsquo;re stuck with a standard 10Gbps SSD, like a savage.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="SanDisk Professional PRO-G40 press images, on a desk" class="wp-image-1374752" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/en_us-SDKP.PRO-G40..LifeImg.HR_.AH5_7701.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Lifestyle/environment image</p>
+</figcaption></figure><p class="imageCredit">SanDisk</p></div>
+
+
+
+<p>If you&rsquo;re a college student who plans to kick back with some video games on the weekend, consider the SanDisk Professional (1TB) Pro G40. It uses a 40Gbps Thunderbolt 3 interface, which quite a few laptops ship with. The drives are normally expensive, but we found a 47% off deal on Amazon which brings the price down to $159.99.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/SanDisk-Professional-1TB-PRO-G40-SDPS31H-001T-GBCND/dp/B0BGYMJBQF/?ascsubtag=2-2-2015772-7-0-0" rel="nofollow" target="_blank">Get the SanDisk Professional Pro G40 (1TB) on Amazon for $159.99</a></p>
+
+
+<h2 class="wp-block-heading" id="6-a-carrying-case-for-it-all">6.) A carrying case for it all</h2>
+
+
+
+<h3 class="wp-block-heading" id="caoodkdk-nylon-carrying-case">CAOODKDK Nylon Carrying Case</h3>
+
+
+
+<p>Trust us &mdash; you do not want to get in the habit of fishing around in your backpack for your earbuds, cables, SD cards, flash drives&hellip;whatever it is. Things will get lost, and then you&rsquo;ll have to buy them all over again! </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Nylon gadget carrying case" class="wp-image-2015981" height="912" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/Nylon-gadget-carrying-case.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Amazon</p></div>
+
+
+
+<p>Just accept the nerdiness and keep them in a case. We&rsquo;d suggest the Caoodkdk case from Amazon for $6.32, a zipped case with netting all over the place to keep cables and chargers and plugs all secure. One point we considered: This nylon case measures 7.48 x 4.33 x 2.16in., and the Anker charger we highlighted earlier is just a tad smaller all around &mdash; it should squeeze in.</p>
+
+
+
+<p>Again, we&rsquo;d recommend that you pick a distinguishing color (besides black!) to help you find your cable case when you need it. Starting a new school year is hard enough! It&rsquo;s going to take a load of stress off of your mind if you have all of your gear organized and stored in an easy-to-find location.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Electronic-Organizer-Accessories-Waterproof-Earphones/dp/B097BRZJVQ/?ascsubtag=2-2-2015772-7-0-0" rel="nofollow" target="_blank">Get the CAOODKDK Nylon Carrying Case for $6.32 on Amazon</a></p>
+
+
+<p></p>
+
+Accessories, Computer Storage Devices</div>
+
+## Google’s AI search adds multimedia, but its fundamental issues remain
+ - [https://www.pcworld.com/article/2017211/googles-ai-search-goes-multimedia-but-its-fundamental-issues-remain.html](https://www.pcworld.com/article/2017211/googles-ai-search-goes-multimedia-but-its-fundamental-issues-remain.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T17:44:01+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Google is bringing its AI search engine up to par with Google Search, adding images and video to the search results which will bring more context but also continue to take up more space. At least it still doesn&rsquo;t have ads.</p>
+
+
+
+<p>Google&rsquo;s Search Generative Experience (SGE) is problematic. It attempts to synthesize results and provide you with an answer, rather than point you at a sea of links and allow you to arrive to your own decision. And yes, in that it can succeed. Our <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://Search%20Generative%20Experience%20(SGE)&amp;xcust=2-2-2017211-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">hands-on tests of Google&rsquo;s AI search</a>, however, revealed other problems: first, it used information from other sources on the Web without attribution, and second, any links to sources were either shunted up and to the right or pushed way, way down on the page. </p>
+
+
+
+<p>Now, Google is adding integrated video and images to its synthesized answers, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blog.google/products/search/google-search-generative-ai-august-update/&amp;xcust=2-2-2017211-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">it said</a>. To its credit, the videos appear to be directly attributed right underneath the video, so that at least you&rsquo;ll see who created the content. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Google AI search with video" class="wp-image-2017227" height="891" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/goog.gif?w=1200" width="1200" /></figure><p class="imageCredit">Google</p></div>
+
+
+
+<p>Is there a way that Google should handle AI-powered generative search? We attempted to come up with an example via <a href="https://www.pcworld.com/smart-answers">Smart Answers</a>, PCWorld&rsquo;s new generative search that&rsquo;s been trained by a third party on our own data and articles alone. The tool, co-developed with a third party with input from PCWorld editors, synthesizes answers from our own recommendations on topics like &ldquo;What is the best gaming PC?&rdquo; To be fair, though, the tool suffers from the Google SGE problem: while it highlights the source links, they&rsquo;re pushed down on the page. It appears we both have work to do.</p>
+
+Online Services</div>
+
+## Intel releases two new Arc laptop GPUs for budget gaming
+ - [https://www.pcworld.com/article/2017241/intel-quietly-releases-two-new-arc-laptop-gpus-for-budget-gaming.html](https://www.pcworld.com/article/2017241/intel-quietly-releases-two-new-arc-laptop-gpus-for-budget-gaming.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T17:41:34+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Intel has quietly launched the Arc A530M and A570M for laptops, offering another option for low- to mid-range GPUs that won&rsquo;t eat much of your budget.</p>
+
+
+
+<p>While Intel has confirmed the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://ark.intel.com/content/www/us/en/ark/products/232776/intel-arc-a530m-graphics.html&amp;xcust=2-2-2017241-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Arc A530M</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://ark.intel.com/content/www/us/en/ark/products/232777/intel-arc-a570m-graphics.html&amp;xcust=2-2-2017241-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">A570M</a> in its Ark (no relation) parts database, the company made no public announcement. As <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.anandtech.com/show/19991/intel-quietly-launches-new-arc-gpus-for-laptops&amp;xcust=2-2-2017241-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Anandtech surmised</a>, the new parts are a step up from the basic <a href="https://www.pcworld.com/article/698534/tested-intels-arc-a370m-laptops-already-compete-with-nvidia-and-amd.html">Arc A370M that we tested in May 2022</a>, which put Arc at or above the RTX 3050 but below more &ldquo;serious&rdquo; GPUs in game play.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Looking to pick up a new gaming laptop? Check out PCWorld&rsquo;s roundup of the <a href="https://www.pcworld.com/article/407493/best-gaming-laptops.html">best ones</a> available today.</p>
+</blockquote>
+
+
+
+<p>Basically, here&rsquo;s how the lineup breaks down, with the addition of Intel&rsquo;s new Arc parts: as Intel detailed in 2022, the Arc A350M contains eight Xe cores and eight ray tracing units, with a graphics clock of 1550MHz and 4GB of memory. The A530M increases that to 12 Xe cores and 12 ray tracing units, dips the clock speed to 1300MHz, and offers either 4GB or 8GB of memory. The A570M uses 16 Xe cores and 16 ray tracing units, also with a 1300MHz clock speed and 8GB of memory support. </p>
+
+
+
+<p>As Anandtech pointed out, the power of the two parts is between 65W and 95W (the A530M) and 75W to 95W (the A570M). This fills a rather odd hole in the power/performance offerings of the Arc chips Intel detailed previously.</p>
+
+
+
+<p>We don&rsquo;t know how these new chips will fare performance-wise, but <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.notebookcheck.net/Intel-Arc-A550M-GPU-Benchmarks-and-Specs.613042.0.html&amp;xcust=2-2-2017241-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">tests of the A550M</a>, the Arc 5 chip that should be the next performance tier up, showed that that chip should drive 1080p gaming at medium to high levels of detail. In some ways, the new Arc chips remind us of the Nvidia GeForce MX series from a few years back, a bit of graphics oomph, but not much more. Still, our own tests have showed that even the Arc 370M dramatically outperforms the standard integrated graphics inside most Intel laptop CPUs, so these GPUs should allow you to play some older games at more basic settings. </p>
+
+Graphics Cards, Laptops</div>
+
+## Best Thunderbolt docks 2023: Extend your laptop’s capabilities
+ - [https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html](https://www.pcworld.com/article/393714/best-thunderbolt-docks-for-a-laptop-pc.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>A Thunderbolt dock is now nearly a must-have accessory, providing I/O access for legacy mice, keyboards, external drives, and more. It&rsquo;s a key ingredient for a productive office, whether at work or home. </p>
+
+
+
+<p>Thunderbolt docks or docking stations help fill the gaps as laptop makers slim down, cut costs, and eliminate multiple ports in favor of a do-it-all Thunderbolt port instead. That may seem like they&rsquo;re pushing those costs on to you (which they are) but it also means you can pick and choose a dock with exactly the ports you need. </p>
+
+
+
+<p>Why buy a Thunderbolt dock? Because of the bandwidth it provides: 40Gbps, versus the 10Gbps a basic USB-C port offers. (You&rsquo;ll see a small lightning bolt printed on your laptop, the cable, and the dock to signify that they&rsquo;re Thunderbolt capable.) This offers enough bandwidth to connect up to two 4K displays at a comfortable, standard 60Hz refresh rate, plus all the peripherals you need like a printer, mouse, keyboard, and storage. Good Thunderbolt docks can also charge your smartphone.</p>
+
+
+
+<p>This roundup begins with the very best Thunderbolt docks, including budget options. We&rsquo;ll close by recommending our favorite <a href="https://www.pcworld.com/article/801587/why-new-usb-c-displaylink-docks-are-better-and-worse-than-thunderbolt.html">DisplayLink USB-C docks</a>&mdash;simpler, cheaper solutions that have recently emerged. Our <a href="https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html">best USB-C hubs and dongles</a> are covered in a separate story. Confused? Don&rsquo;t be. We&rsquo;ll explain the differences in the FAQ that follows our recommendations, clarifying the terminology to help you understand what to buy and how to save some money, too.</p>
+
+
+
+<p>Note that not every Thunderbolt dock we review appears here, and even favorites can fall off our list to make room for new recommendations, like the <a href="https://www.pcworld.com/article/1922334/anker-568-usb-c-docking-station-review.html">Anker 568</a>, which we named as our favorite USB4 dock. </p>
+
+
+
+<h2 class="wp-block-heading toc" id="best-thunderbolt-docks">Best Thunderbolt docks</h2>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="plugable-tbt3-udz-thunderbolt-3-docking-station-best-overall-thunderbolt-dock">
+							Plugable TBT3-UDZ Thunderbolt 3 Docking Station &ndash; Best overall Thunderbolt dock						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Plugable TBT3-UDZ Thunderbolt 3 Docking Station - Best overall Thunderbolt dock" class="product-chart-item__image" height="1455" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/Plugable-TBT-again.png" width="1240" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Tons of ports					</li> 
+										<li> 
+					Space-saving vertical stand					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Heavy (4.1 lb)					</li> 
+										<li> 
+					Expensive					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+								Price When Reviewed:									</span>
+									<span class="product-chart-item__information--rrp-value">
+									&euro;332									</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>Plugable&rsquo;s TBT3-UDZ is simply one of the best Thunderbolt 3 docks we&rsquo;ve tested, with a boatload of ports. It&rsquo;s expensive, however.</p>
+
+<p>On the front, the TBT3-UDZ includes a 10Gbps USB-C and a 10Gbps USB-A (USB 3.1) port, microSD and SD card slots, plus a headphone jack. On the rear, five USB-A (USB 3.0 ports) and gigabit ethernet complement a pair of DisplayPort 1.4 ports&nbsp;<em>and</em>&nbsp;HDMI 2.0 ports. (It&rsquo;s all based on Intel&rsquo;s Titan Ridge chipset.) A 29-inch 40Gbps Thunderbolt 3 cable connects the dock to your laptop, and is capable of delivering 96W of power. Naturally, this is a powered dock, with a hefty 170W (!) charger.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="iogear-quantum-dual-mode-thunderbolt-3-dock-pro-gtd737-best-budget-thunderbolt-dock">
+							IOGear Quantum Dual Mode Thunderbolt 3 Dock Pro (GTD737) &ndash; Best budget Thunderbolt dock						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="IOGear Quantum Dual Mode Thunderbolt 3 Dock Pro (GTD737) - Best budget Thunderbolt dock" class="product-chart-item__image" height="975" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/GTD737_0.jpg?quality=50&amp;strip=all" width="1800" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Great mix of features					</li> 
+										<li> 
+					Budget price					</li> 
+										<li> 
+					60W of passthrough charging power					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Two DisplayPort ports limit display I/O options					</li> 
+										<li> 
+					Might be difficult to find in stores					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>About the only knock against IOgear&rsquo;s GTD737 is its use of two DisplayPort 1.2 ports on the rear of the dock, which serve as the only dedicated display outputs. (We suspect HDMI is more popular.)</p>
+
+<p>Otherwise, this dock is excellent, providing almost all the features you&rsquo;ll want at an affordable price: a 10Gbps USB-A port on the front for 7.5W smartphone charging; on the rear, two 5Gbps USB-A ports for legacy mice and keyboards and two 10Gbps USB-C ports for further expansion. There&rsquo;s also a gigabit ethernet port and a headphone jack. The 2.3-foot Thunderbolt 3 cable supplies 60W for your laptop via the associated 135W power brick. Performance details can be found in our review.</p>
+
+<p>Note that this dock is essentially identical to the <a href="https://www.pcworld.com/article/918583/kensington-sd5500t-thunderbolt-3-dock-review.html">Kensington SD5500T (review)</a>, which at press time was priced slightly higher. Double-check our review to make sure.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/813295/iogear-thunderbolt-3-dock-pro-review.html" target="_blank">
+						IOGear Quantum Dual Mode Thunderbolt 3 Dock Pro (GTD737) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="plugable-tbt3-udc3-thunderbolt-dock-best-overall-thunderbolt-dock-runner-up">
+							Plugable TBT3-UDC3 Thunderbolt Dock &ndash; Best overall Thunderbolt dock runner-up 						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Plugable TBT3-UDC3 Thunderbolt Dock - Best overall Thunderbolt dock runner-up " class="product-chart-item__image" height="1018" src="https://b2c-contenthub.com/wp-content/uploads/2021/11/Plugable-dock.jpg?quality=50&amp;strip=all" width="1301" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					A less expensive version of the Plugable TBT3-UDZ					</li> 
+										<li> 
+					Supplies 96W of power					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Just two display ports, but an adapter dongle is included					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/Plugable-Thunderbolt-3-USB-C-Docking-Station-96W-Charging-Compatible-Mac-Windows-Laptops-DisplayPort-HDMI-2X-USB-C-3X-3-0-Gigabit-Ethernet-Audio-Jack/995732841&amp;xcust=2-1-393714-6-549717-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$259.95 at  Walmart</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/plugable-tbt3-udc3/p/1DN-000M-000A1?Item=9SIA2XBD690222&amp;Tpk=9SIA2XBD690222&amp;xcust=2-1-393714-6-549717-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$269.99 at  Newegg</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Plugable&rsquo;s TBT3-UDC3 is a smaller, less-expensive version of the TBT3-UDZ, with less I/O flexibility but more focus. The dock includes a pair of USB-A 5Gbps ports on the front for a mouse and keyboard, and then a second USB-A (10Gbps) port on the back. A pair of two 10Gbps USB-C ports sit alongside it for further expansion. There&rsquo;s gigabit ethernet, too. Smartly, Plugable includes one HDMI 2.0 port and a DisplayPort 1.4 port for display connections, <em>plus</em> an HDMI-to-DisplayPort dongle in the box in case you own two HDMI displays.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/814508/plugable-tbt3-udc3-thunderbolt-dock-review-a-great-mainstream-dock.html" target="_blank">
+						Plugable TBT3-UDC3 Thunderbolt Dock review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="belkin-thunderbolt-3-dock-core-best-budget-thunderbolt-dock-runner-up">
+							Belkin Thunderbolt 3 Dock Core &ndash; Best budget Thunderbolt dock runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Belkin Thunderbolt 3 Dock Core - Best budget Thunderbolt dock runner-up" class="product-chart-item__image" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Belkin-Connect-Thunderbolt-dock.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Compact					</li> 
+										<li> 
+					HDMI 2.0 + DisplayPort 1.4 port covers two displays					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Unlabeled USB-A ports look identical					</li> 
+										<li> 
+					Bus-powered					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>Belkin&rsquo;s Thunderbolt 3 Dock Core is a smartly designed &ldquo;powered&rdquo; Thunderbolt 3 travel dock, and an inexpensive one as well.</p>
+
+<p>At a nearly square&nbsp;5.2 x 6.5 x 1.5 inches, the Thunderbolt Dock Core black doesn&rsquo;t take up much room, and the included 8-inch Thunderbolt 3 cord provides ample length for flexibility. Ports are adequately spaced around the flat, black plastic cube, with HDMI 2.0 and DisplayPort 1.4 ports providing a stable 4K/60Hz experience to both of my 4K displays. There&rsquo;s gigabit ethernet and a 3.5mm audio jack, but good luck telling the USB 3.1 and USB 2.0 Type A ports apart&mdash;they&rsquo;re not labeled.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/813324/review-belkins-connect-is-a-great-budget-thunderbolt-dock.html" target="_blank">
+						Belkin Connect Thunderbolt 3 Dock Core review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="hp-thunderbolt-dock-120w-g4-4j0a2aa-best-thunderbolt-dock-for-business">
+							HP Thunderbolt Dock 120W G4 (4J0A2AA) &ndash; Best Thunderbolt dock for business						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="HP Thunderbolt Dock 120W G4 (4J0A2AA) - Best Thunderbolt dock for business" class="product-chart-item__image" height="796" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/HP-Thunderbolt-dock.png" width="1000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Ports aplenty, plus charging					</li> 
+										<li> 
+					Solid performance					</li> 
+										<li> 
+					No thermal concerns					</li> 
+														</ul> 
+								</div>
+																				</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>This squat little Thunderbolt 4 dock feels a lot more solid than its rated 1.68 pounds would indicate, and sprouts ports to all sides: a 10Gbps USB-C port capable of 15W charging on the front, a 5Gbps USB-A port on either side, plus two more on the back, all capable of 7.5W out. The back also houses two DisplayPort 1.4 ports, an HDMI 2.0 port, ethernet, and a USB-C 3.2 Gen 1 port designed for video. We only tested this dock with two 4K/60 external displays, but it&rsquo;s capable of driving three 4K/60 displays provided you have a DisplayPort 1.4-capable laptop with Display Stream Compression, or DSC. </p>
+
+<p>The 4J0A2AA supplies up to 100W to the host laptop via the Thunderbolt cable&mdash;still among the highest we&rsquo;ve seen. Even then, there were no thermal issues at all.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/813347/hp-thunderbolt-dock-120w-g4-review.html" target="_blank">
+						HP Thunderbolt Dock 120W G4 (4J0A2AA) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="kensington-sd5780t-thunderbolt-4-docking-station-best-thunderbolt-4-dock">
+							Kensington SD5780T Thunderbolt 4 Docking Station &ndash; Best Thunderbolt 4 dock   						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Kensington SD5780T Thunderbolt 4 Docking Station - Best Thunderbolt 4 dock   " class="product-chart-item__image" height="960" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Kenisngton-SD5780T-Amazon.png" width="1597" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Solid performance					</li> 
+										<li> 
+					96W (rated) of downstream laptop power					</li> 
+										<li> 
+					Pretty solid mix of ports, including downstream Thunderbolt 4					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					One of the most expensive docks we've tested					</li> 
+										<li> 
+					Rear USB-A ports deliver less power than expected					</li> 
+										<li> 
+					One display port, requiring an additional dongle for two displays					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>The Kensington SD5780T replaces the <a href="https://www.pcworld.com/article/817084/kensington-sd5700t-thunderbolt-4-docking-station-review-2.">Kensington SD5700T</a> as our pick for the best premium Thunderbolt 4 docking station right now, but the price is also extravagantly high. (Amazon knocked 15 percent off the price at the time of our most recent revision, though, lowering the price considerably.)</p>
+
+<p>The SD5780T improves on its predecessor by adding a dedicated HDMI 2.1 port and more laptop charging power. The dock performed excellently in our tests, though the external power was a bit lower in places than we&rsquo;d hoped. (It counts where it matters, however, which includes charging a smartphone.) </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1384482/kensington-sd5780t-review-an-excellent-pricey-thunderbolt-4-dock.html" target="_blank">
+						Kensington Thunderbolt 4 Dual 4K Dock (SD5780T) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="owc-thunderbolt-go-dock-best-thunderbolt-4-dock-runner-up">
+							OWC Thunderbolt Go Dock &ndash; Best Thunderbolt 4 dock runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="OWC Thunderbolt Go Dock - Best Thunderbolt 4 dock runner-up" class="product-chart-item__image" height="1066" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/OWC-Thunderbolt-Go-Dock.jpg?quality=50&amp;strip=all" width="1723" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Power brick is hidden within, removing clutter					</li> 
+										<li> 
+					90W to charge your laptop					</li> 
+										<li> 
+					Supplies a terrific 9.5W for smartphone charging					</li> 
+										<li> 
+					HDMI 2.1 support					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Ethernet is glitchy, and requires a driver					</li> 
+										<li> 
+					Bulky					</li> 
+										<li> 
+					Expensive					</li> 
+										<li> 
+					Limited built-in display options					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://www.kqzyfj.com/click-8200811-11911660?sid=2-1-393714-6-1519550-12028&amp;url=https://eshop.macsales.com/shop/owc-thunderbolt-go-dock" rel="nofollow" target="_blank">$349.99 at  OWC</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>A recent price cut caused us to reconsider naming the Anker Apex (777) the runner-up instead, but <a href="https://www.pcworld.com/article/815647/anker-apex-12-in-1-thunderbolt-4-dock-review-meh.html">our review</a> just reminded us of too many compatibility problems.</p>
+
+<p>OWC&rsquo;s Thunderbolt Go Dock has a unique selling point in its favor: the lack of an external power brick. This helps reduce cable clutter and, in theory, makes it easier to take this Thunderbolt 4 dock on the go. Unfortunately, it doesn&rsquo;t quite achieve its promise.</p>
+
+<p>Read our full <a href="https://www.pcworld.com/article/1519567/owc-thunderbolt-go-dock-review.html"><strong>OWC Thunderbolt Go Dock review</strong></a>.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="plugable-5-in-1-thunderbolt-hub-usb4-hub3a-best-thunderbolt-4-hub">
+							Plugable 5-in-1 Thunderbolt Hub (USB4-HUB3A) &ndash; Best Thunderbolt 4 hub						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Plugable 5-in-1 Thunderbolt Hub (USB4-HUB3A) - Best Thunderbolt 4 hub" class="product-chart-item__image" height="1447" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/Plugable-5-in-1-Thunderbolt-hub.png" width="2092" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Incredibly compact					</li> 
+										<li> 
+					USB-C to HDMI adapter included					</li> 
+										<li> 
+					15W/60W of charging power to phones/PCs					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Limited ports					</li> 
+										<li> 
+					Best for Thunderbolt-attached displays					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=1254808&amp;srkey=42631108&amp;xcust=2-1-393714-6-701938-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$183.99 at  Tiger Direct</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/0J2-00AK-000M9&amp;xcust=2-1-393714-6-701938-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$189.00 at  Newegg</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/Plugable-USB4-Hub-5-in-1-Thunderbolt-4-Hub-with-60W-Charging-Includes-1x-USB-C-to-HDMI-Adapter/260048998?wmlspartner=wlpa&amp;selectedSellerId=7422&amp;xcust=2-1-393714-6-701938-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$189.00 at  Walmart</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The Mac world tends to emphasize Thunderbolt-connected displays far more than the Windows world does, so this might be a niche product for most of you. But this thing is <em>tiny </em>(4.75 x 2.88 x 0.5 inches) even if, unfortunately, the associated power brick isn&rsquo;t. It will send 15W of power via the Thunderbolt/USB-C connections to charge smartphones, and 60W to the host PC.</p>
+
+<p>We lacked a Thunderbolt-connected display at the time of testing. (We have one now, and can confirm it works.) But the box does include a USB-C to HDMI adapter, so you can certainly connect one display natively out of the box, then attach a <a href="https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html">USB-C hub</a> to connect another. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/817152/plugable-5-in-1-thunderbolt-hub-review.html" target="_blank">
+						Plugable 5-in-1 Thunderbolt Hub (USB4-HUB3A) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="anker-568-usb-c-docking-station-best-usb4-docking-station">
+							Anker 568 USB-C Docking Station &ndash; Best USB4 docking station						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Anker 568 USB-C Docking Station - Best USB4 docking station" class="product-chart-item__image" height="961" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Anker-568-product-shot.jpg?quality=50&amp;strip=all" width="1242" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Two ports for fast-charging smartphones					</li> 
+										<li> 
+					Solid value					</li> 
+										<li> 
+					Eighteen-month warranty					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Occasional instability on a second display or connected devices					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>A USB4 docking station is very much like a Thunderbolt 4 docking station&mdash;you can see more explanation following our roundup of best picks. But if you&rsquo;re specifically looking for a USB4 docking station, you should buy the Anker 568 USB-C Dock.</p>
+
+<p>This 11-in-1 docking station favors DisplayPort, with two DisplayPort 1.4 ports, and a single HDMI 2.0 video port. The Anker 568&rsquo;s distinguishing feature, however, is the pair of 10Gbps USB-C ports on the front, with each supplying 30W of power as well as a separate 100W connection to the laptop. That&rsquo;s quite unusual, and the two ports should fast-charge a smartphone and possibly even a tablet. </p>
+
+<p>We noticed a small bit of instability on occasion, but in general the Anker 568 provided a solid connection to a pair of 4K displays and other peripherals.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1922334/anker-568-usb-c-docking-station-review.html" target="_blank">
+						Anker 568 USB-C Docking Station review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="plugable-usb4-dual-hdmi-docking-station-ud-4vpd-best-usb4-docking-station-runner-up">
+							Plugable USB4 Dual HDMI Docking Station (UD-4VPD) &ndash; Best USB4 docking station runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Plugable USB4 Dual HDMI Docking Station (UD-4VPD) - Best USB4 docking station runner-up" class="product-chart-item__image" height="1459" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Plugable-UD-4VPD.png" width="2298" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Great price and value, even at MSRP					</li> 
+										<li> 
+					4K120 display capabilities open up gaming possibilities					</li> 
+										<li> 
+					Stable performance					</li> 
+										<li> 
+					Excellent charging capabilities					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Surprisingly warm under load					</li> 
+										<li> 
+					Storage tests across the dock were lower than average					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/1DN-000M-000B8&amp;xcust=2-1-393714-6-1999173-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$199.95 at  Newegg</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Deciding between the best USB4 dock is a real dilemma. Plugable&rsquo;s dock claims dual 4K120 capability, but Anker&rsquo;s dock edges it out in price and slightly in display flexibility. Right now we&rsquo;re giving the edge to Anker&rsquo;s entry, but that could change in the future.</p>
+
+<p>What we liked about this powered dock was its strong charging capabilities, but the input also power caused the dock to warm up to unexpectedly warm temperatures. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1999176/plugable-usb4-dual-hdmi-dock-review.html" target="_blank">
+						Plugable USB4 Dual HDMI Docking Station (UD-4VPD) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="caldigit-thunderbolt-station-4-ts4-best-for-apple-mac-users">
+							CalDigit Thunderbolt Station 4 (TS4) &ndash; Best for Apple Mac users						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="CalDigit Thunderbolt Station 4 (TS4) - Best for Apple Mac users" class="product-chart-item__image" height="1518" src="https://b2c-contenthub.com/wp-content/uploads/2022/09/CalDigit-TS4-Thunderbolt-dock.png" width="2050" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Thunderbolt 4					</li> 
+										<li> 
+					A whopping 18 ports					</li> 
+										<li> 
+					98W power delivery to your Mac					</li> 
+										<li> 
+					2.5 gigabit ethernet					</li> 
+										<li> 
+					230W power supply					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Only two downstream TB4 ports					</li> 
+										<li> 
+					Pricey					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+								Price When Reviewed:									</span>
+									<span class="product-chart-item__information--rrp-value">
+									&euro;410									</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://shop.caldigit.com/eu/index.php?route=product/product&amp;product_id=219&amp;xcust=2-1-393714-6-664966-11713&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">&euro;385 at  CalDigit</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>This recommendation comes courtesy of our colleagues at Macworld, who have compiled their own list of <a href="https://www.macworld.com/article/668894/best-thunderbolt-3-4-and-usb-c-docking-stations-for-macbook-pro-and-air.html">best Thunderbolt docking stations for the Apple Mac</a> market. &ldquo;All the ports you could want coupled with high-wattage charging justify the price of this full-featured dock,&rdquo; and who are we to argue? We can personally vouch for its progenitor, the <a href="https://www.pcworld.com/article/815567/caldigit-thunderbolt-station-3-plus-review.html">TS3 Plus</a>, which we ranked favorably among other Thunderbolt docks. </p>
+
+<p>While we have yet to review the TS4 ourselves, a simple gander at the price re-affirms our certainty that this is a product for the Mac market.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+<h2 class="wp-block-heading toc" id="best-displaylink-usb-c-dock">Best DisplayLink USB-C dock</h2>
+
+
+
+<p>DisplayLink USB-C docks, which we discuss in <a href="https://www.pcworld.com/article/801587/why-new-usb-c-displaylink-docks-are-better-and-worse-than-thunderbolt.html">more detail in a separate article</a>, don&rsquo;t offer enough bandwidth for high-refresh rate monitors or gaming, but they work admirably well for everyday office work, including watching movies. Anecdotally, they&rsquo;ve often also been more stable than a Thunderbolt dock on older hardware, as sometimes Thunderbolt docks have issues &ldquo;waking up&rdquo; when the host laptop wakes up from standby.</p>
+
+
+
+<p>What we&rsquo;d like to see in a DisplayLink USB-C docking station is a feature set that approaches a full-fledged Thunderbolt dock, but that is priced below what you&rsquo;d pay for Thunderbolt performance. Our current pick does just that.</p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="plugable-usb-c-dual-4k-display-horizontal-docking-station-ud-6950pdh-best-usb-c-displaylink-dock">
+							Plugable USB-C Dual 4K Display Horizontal Docking Station (UD-6950PDH) &ndash; Best USB-C DisplayLink dock						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Plugable USB-C Dual 4K Display Horizontal Docking Station (UD-6950PDH) - Best USB-C DisplayLink dock" class="product-chart-item__image" height="929" src="https://b2c-contenthub.com/wp-content/uploads/2023/01/Plugable-UD-6950PDH.png" width="1322" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Terrific value for office workers					</li> 
+										<li> 
+					Great display flexibility					</li> 
+										<li> 
+					Plenty of USB-A ports					</li> 
+										<li> 
+					SD/microSD card slots, too					</li> 
+										<li> 
+					100W of charging power					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					No USB-C ports					</li> 
+										<li> 
+					No dedicated charging ports					</li> 
+										<li> 
+					DisplayLink doesn&rsquo;t allow for full Thunderbolt bandwidth					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://www.bhphotovideo.com/c/product/1715096-REG/plugable_ud_695pdh_plugable_usb_3_0_dual.html?BI=21883&amp;KBID=28249" rel="nofollow" target="_blank">$199.00 at  B&amp;H</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/1DN-000M-000B2&amp;xcust=2-1-393714-6-1485437-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$199.00 at  Newegg</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.walmart.com/ip/1USZ9K0Z4DDJ&amp;xcust=2-1-393714-6-1485437-16848&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$199.00 at  Walmart</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Plugable&rsquo;s UD-6950PDH doesn&rsquo;t allow the bandwidth for the latest HDMI or DisplayPort interfaces. But the dock preserves what we like about Plugable&rsquo;s docks: two pairs of optional DisplayPort and HDMI connections to choose from, as well as 100W of charging power to your laptop. One omission, however, is a dedicated charging port for powering a smartphone, or any USB-C port at all.</p>
+
+<p>At about $199 MSRP, however, the price is absolutely right. Just don&rsquo;t forget your smartphone charger.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1485491/plugable-ud-6950h-usb-c-dual-4k-dock-review.html" target="_blank">
+						Plugable USB-C Dual 4K Display Horizontal Docking Station (UD-6950PDH) review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="ugreen-usb-c-triple-display-docking-station-best-usb-c-displaylink-dock-runner-up">
+							Ugreen USB-C Triple Display Docking Station &ndash; Best USB-C DisplayLink dock runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Ugreen USB-C Triple Display Docking Station - Best USB-C DisplayLink dock runner-up" class="product-chart-item__image" height="930" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/Ugreen-Triple-Display.png" width="1444" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Compact					</li> 
+										<li> 
+					Excellent port selection					</li> 
+										<li> 
+					Support for three displays					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Name doesn&rsquo;t match what&rsquo;s on the box					</li> 
+										<li> 
+					Quite expensive					</li> 
+										<li> 
+					Drivers are required, and this isn&rsquo;t emphasized enough					</li> 
+										<li> 
+					Charger not included					</li> 
+										<li> 
+					USB-C connection has its limits					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>Weirdly, what you&rsquo;ll buy at Amazon (the Ugreen USB-C Triple Display Docking Station) doesn&rsquo;t match the name on the box (the USB-C Multifunction Docking Station PRO). The other hitch? This is a powered dock&hellip;but you&rsquo;ll need to supply the charger.</p>
+
+<p>These are some odd quirks, set against what is quite a pricy product. Get past those, though, and this is really a solid device &mdash; it actually drives three displays! Just make sure to download the DisplayLink software as detailed in our review, below.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1782854/ugreen-usb-c-triple-display-dock.html" target="_blank">
+						Ugreen USB-C Triple Display Docking Station review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" />
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 class="wp-block-heading" id="how-do-i-know-if-my-laptop-has-thunderbolt">How do I know if my laptop has Thunderbolt?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The short answer: Look at the laptop&rsquo;s published specifications to be sure. A Thunderbolt port may look indistinguishable from a USB-C port, since they both use the same physical USB-C connection. Put another way, all Thunderbolt ports are USB-C, but not all USB-C ports are Thunderbolt-equipped.</p>
+
+
+
+<p>Thunderbolt ports are&nbsp;<em>supposed</em> to have a small lightning-bolt icon to identify them. But some laptop makers use a similar lightning-bolt icon to indicate that a USB-C port can be used for charging your phone, and&nbsp;<em>not</em> for Thunderbolt. Laptop makers sometimes don&rsquo;t want to clutter the clean lines of their products by adding additional logos, it seems.&nbsp;</p>
+
+
+
+<p>Adding to the confusion, you may also see USB-C hubs marketed as &ldquo;Thunderbolt compatible.&rdquo; That&rsquo;s true. You can plug a Thunderbolt dock into a non-Thunderbolt, generic USB-C port. But it will be limited by the available bandwidth that the port provides, so it&rsquo;s somewhat deceptive in that regard.&nbsp;</p>
+</div>
+</div></div>
+</div>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large is-resized"><img alt="Thunderbolt vs USB-C" class="wp-image-1064489" height="762" src="https://b2c-contenthub.com/wp-content/uploads/2022/09/thunderbolt-laptops-one-wrong-one-right-100868077-orig.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Two laptops, both with USB-C ports, and both with lightning-bolt symbols. Which laptop offers Thunderbolt? The top one, though it can be difficult to tell. Consulting the manufacturer&rsquo;s specifications is your safest bet.</p></figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block">
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 class="wp-block-heading" id="i-already-own-a-usb-c-dongle-can-i-use-it-with-thunderbolt">I already own a USB-C dongle. Can I use it with Thunderbolt?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>A USB-C dongle won&rsquo;t replace a Thunderbolt dock, as there&rsquo;s circuitry within the dock that allows it to work your laptop&rsquo;s high-speed Thunderbolt port. However, there&rsquo;s nothing saying that you can&rsquo;t connect the dongle to an available USB-C port on the Thunderbolt dock itself to add even more ports. </p>
+
+
+
+<p>That solution will add more clutter to your desk, but it might allow you to buy a cheaper, budget dock, too. It&rsquo;s up to you!</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 class="wp-block-heading" id="how-fast-is-thunderbolt">How fast is Thunderbolt?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>40Gbps, basically.</p>
+
+
+
+<p>Most USB-C ports are built on the second-generation USB 3.1 data-transfer standard, which transfers data at 10Gbps. Thunderbolt 3 and 4 ports, the most common standard, transfer data at up to 40Gbps. Thunderbolt 4 differs very slightly in that it supports a theoretical maximum of 32Gbps for external storage devices, but you probably won&rsquo;t notice the difference.</p>
+
+
+
+<p>There are very rare exceptions: A new&nbsp;USB 3.2 Gen 2&times;2 spec can pair two 10Gbps channels together, creating an aggregate 20Gbps hub. And while the vast majority of Thunderbolt 3-equipped laptops are designed with four PCIe lanes for a total of 40Gbps, some laptops only ship with two PCIe lanes for a total of 20Gbps. (A <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.dell.com/support/article/en-us/qna44089/thunderbolt-3-40gbps-data-transfer-rate?lang=en&amp;xcust=2-1-393714-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Dell support page</a>, for example, details its four-lane and two-lane laptops.) Essentially, a 20Gbps connection should be enough for a single 4K monitor running at 60Hz, with a bit of extra bandwidth for other data transfers among connected peripherals.</p>
+
+
+
+<p>In the real world, things are slightly more complicated. Essentially, Intel&rsquo;s 10th-gen and 11th-gen Core chips launched in the early days of Thunderbolt, and company representatives say that you can depend on them for 32Gbps of data, not a full 40 Gbps. Intel&rsquo;s 12th-gen and 13th-gen Core chips offer the most consistent Thunderbolt experience, with 40Mbps Thunderbolt 4 speeds, including 32Gbps for data transfers to and from storage devices.</p>
+
+
+
+<p>Our next question describes the difference between Thunderbolt 3, 4, and USB4.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">4.</span>
+<h3 class="wp-block-heading" id="whats-the-difference-between-thunderbolt-3-thunderbolt-4-and-usb4">What&rsquo;s the difference between Thunderbolt 3, Thunderbolt 4, and USB4?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The short answer: Not that much, and we consider Thunderbolt 3 docks and Thunderbolt 4 docks to be functionally equivalent for most users. The longer answer, which we&rsquo;ll describe below, is that there are differences, and parsing the nuances can be confusing. Think of Thunderbolt 4 as the more restrictive version of Thunderbolt 3, with little room for any gotchas.</p>
+
+
+
+<p>Essentially, Thunderbolt 3 and Thunderbolt 4 allow up to 40Gbps maximum bandwidth, enough for two 4K/60 displays. &ldquo;Up to&rdquo; is the key phrase: <strong>Thunderbolt 3</strong> is only <em>required</em> to support a 10Gbps connection, allowing for a <em>single</em> external 4K display (a 16Gbps PCIe connection, paired with USB 3.2). Most manufacturers go beyond this, however, and our recommended docks support the full specification (and two 4K displays) unless noted. Thunderbolt 3 also supports a slower (16Gbps) PCIe connection for connecting to external storage. </p>
+
+
+
+<p>Thunderbolt 3 is also the only specification (not Thunderbolt 4) that we&rsquo;ve seen <a href="https://www.pcworld.com/article/393260/check-out-egpu-benchmarks-in-some-of-2020s-biggest-games.html">connecting to external GPUs</a>, in case you&rsquo;d like to try that approach.</p>
+
+
+
+<p><strong>Thunderbolt 4</strong> doesn&rsquo;t allow for any leeway&mdash;you&rsquo;re getting a full-fledged 40Gbps connection (32Gbps PCIe + USB 3.2), no questions asked. For external storage, Thunderbolt 4 supports 32Gbps of data transfer&mdash;this really only matters for video, external GPU connections, or possibly games. Thunderbolt 4 supports &ldquo;wake on sleep&rdquo; from an external keyboard or mouse, which allows you to tap your external keyboard or wiggle your mouse to wake up your PC, which is handy. Thunderbolt 4 allows for longer cables and more Thunderbolt ports on laptops, too.</p>
+
+
+
+<p><a href="https://www.pcworld.com/article/394176/the-first-usb4-products-are-here-what-to-know-what-to-buy.html"><strong>USB4</strong> is essentially a subset of Thunderbolt 4</a>, mainly designed as an an I/O specification. You&rsquo;ll most often see USB4 appear on AMD laptops, and Thunderbolt on Intel laptops.</p>
+
+
+
+<p>USB4 can only support one display, and manufacturers can choose whether it supports a 20Gbps connection or a 40Gbps connection, according to Thunderbolt<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://plugable.com/blogs/news/what-s-the-difference-between-thunderbolt-3-thunderbolt-4-and-usb4#:~:text=Every%20Thunderbolt%204%20laptop%20supports%20two%204K%20displays,8K%20while%20others%20only%20support%20one%204K%20monitor.&amp;xcust=2-1-393714-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"> dock designer Plugable</a>. As a subset of Thunderbolt 4, a USB4 device will run just fine plugged into a Thunderbolt 4 port. But a Thunderbolt 4 device may not work as expected when plugged into what is specifically a USB4 port. Don&rsquo;t worry about this too much, as it&rsquo;s rare to see a USB4 hub. Instead, most hubs and docks are marketed as Thunderbolt 4, while most devices (like an external SSD) are designed around USB4.</p>
+
+
+
+<p><a href="https://www.pcworld.com/article/919864/usb4-leaps-ahead-of-thunderbolt-with-80gbps-standard.html"><strong>USB4 Version 2</strong></a> is an upcoming standard that will propel USB4 to 80Gbps, which is the only 80Gbps standard yet announced. The first products will debut (as a guess) in early 2023. </p>
+
+
+
+<p>Note that Thunderbolt 3 and 4 require at least 15W to power devices plugged into the Thunderbolt port, such as a bus-powered hard drive. USB4 requires just half that.</p>
+
+
+
+<p>Device maker Anker has a nice summary of all of the technical features associated with Thunderbolt 3, Thunderbolt 4, and USB4, if you <em>really</em> want to get into the fine distinctions (below).</p>
+</div>
+</div></div>
+</div>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Thunderbolt 3 Thunderbolt 4 USB4 comparison chart Anker" class="wp-image-1064488" height="1059" src="https://b2c-contenthub.com/wp-content/uploads/2022/09/Thunderbolt-comparison-chart-Anker.png?w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Thunderbolt dock and I/O hub designer Anker provided this summary of the differences between Thunderbolt 3 and Thunderbolt 4.</p></figcaption></figure><p class="imageCredit">Anker</p></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block">
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">5.</span>
+<h3 class="wp-block-heading" id="what-cable-should-i-use-with-a-thunderbolt-dock">What cable should I use with a Thunderbolt dock?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Virtually every Thunderbolt dock will ship with its own cable. We&rsquo;d recommend that you use Thunderbolt 3 cables with Thunderbolt 3 products, and Thunderbolt 4 cables with Thunderbolt 4 products.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">6.</span>
+<h3 class="wp-block-heading" id="what-differentiates-a-displaylink-usb-c-docking-station-from-a-thunderbolt-dock">What differentiates a DisplayLink USB-C docking station from a Thunderbolt dock? </h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>A DisplayLink USB-C docking station is a new category of docking station. They&rsquo;re often marketed just as a USB-C docking station, unfortunately, though the DisplayLink logo features prominently on the box. The key here is that the DisplayLink technology (now owned by Synaptics) uses software data compression between your PC and the dock to approximate a Thunderbolt experience (a pair of 4K displays at 60Hz, plus additional peripherals) across the narrower, slower USB-C bus. You&rsquo;ll need to install a software driver to make it work.</p>
+
+
+
+<p>The advantage here is twofold. First, DisplayLink allows you to &ldquo;cheat&rdquo; and get a Thunderbolt dock experience on an older laptop. Alternatively, even if you do own a laptop with a Thunderbolt port, you may be able to find a DisplayLink USB-C dock for a cheaper price than Thunderbolt. This is a viable solution, especially if you don&rsquo;t mind not playing PC games. </p>
+
+
+
+<p>Our separate <a href="https://www.pcworld.com/article/801587/why-new-usb-c-displaylink-docks-are-better-and-worse-than-thunderbolt.html">story on DisplayLink docks</a> has more.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">7.</span>
+<h3 class="wp-block-heading" id="are-there-any-other-technologies-that-i-need-to-know-about">Are there any other technologies that I need to know about?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>We&rsquo;re starting to see some USB-C docking stations take advantage of <em>another</em> technology: HBR3 (High Bit Rate 3) with DSC (Display Stream Compression). Think of it as the industry-standard, manufacturer-agnostic version of DisplayLink. It works over the USB-C port, and again provides a dual 4K60 display experience.</p>
+
+
+
+<p>The problem? It&rsquo;s wonky. We&rsquo;ve found that support for the technology was very iffy in 11th-gen hardware, and really seems to work consistently in 12th-gen or 13th-gen Core laptops (and above, when they ship). While we can&rsquo;t really recommend it right now, we&rsquo;re keeping an eye on it.</p>
+</div>
+</div></div>
+</div>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Thunderbolt 3 cable" class="wp-image-1064490" height="875" src="https://b2c-contenthub.com/wp-content/uploads/2022/09/thunderbolt-3-cable-100868063-orig.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>The vast majority of Thunderbolt docks should include a Thunderbolt cable like this one, which indicates that it&rsquo;s specified for Thunderbolt 3.</p></figcaption></figure><p class="imageCredit">IDG</p></div>
+
+
+
+<h2 class="wp-block-heading toc" id="buying-guide-what-to-look-for-in-a-thunderbolt-dock">Buying Guide: What to look for in a Thunderbolt dock</h2>
+
+
+
+<p>Ports, cables, peripherals: Those are the three major considerations when buying a Thunderbolt dock.&nbsp;</p>
+
+
+
+<p>We&rsquo;re beginning to see the Thunderbolt dock market break down in a few different ways. First, there&rsquo;s the budget versus full-featured docks we&rsquo;ve highlighted above. But you also may see something similar to the USB hubs of old: Devices that take Thunderbolt <em>in</em> and then provide several USB-C (including Thunderbolt) ports <em>out</em>. There are a small number of displays with Thunderbolt inputs, which can be plugged directly into these hubs. Do you have an existing cheap USB-C dongle? You can certainly plug that in into a Thunderbolt dock and add even more I/O functionality.</p>
+
+
+
+<p>Basically, consider what you&rsquo;ll want to plug into the dock as a guide for buying one. We prefer devices with ports built in (such as HDMI, USB-A, and so on) as the USB-C device ecosystem is still in its infancy. But ask yourself some questions. Do you want a basic Thunderbolt dock, with just a pair of HDMI ports for connecting two displays? Does an SD card slot matter? How many USB Type A peripherals do you plan to attach? Do you want to use the Thunderbolt cable to charge your laptop, too? </p>
+
+
+
+<p>Cables can be an unexpectedly important consideration, too. Virtually every dock ships with a Thunderbolt cable. But consider the displays you own (typically HDMI or DisplayPort) and consider whether the dock will accommodate them. </p>
+
+
+
+<p>Check your laptop&rsquo;s power supply. Does it plug into your laptop via USB-C? If so, a Thunderbolt dock will likely power it. You&rsquo;ll need to understand how the dock supplies power, though. Check your laptop&rsquo;s charger to learn how much power it supplies, and how much the dock will need to supply to replace it. If your laptop or devices aren&rsquo;t receiving enough power, you may see a warning pop up.</p>
+
+
+
+<p>A &ldquo;bus-powered&rdquo; dock won&rsquo;t come with an external charger in the package, saving some cost, space, and power concerns. A dock with &ldquo;power delivery&rdquo; will supply its own power&nbsp;<em>and</em> charge your laptop and/or a phone via your laptop&rsquo;s existing USB-C charger. (Chances are that it won&rsquo;t offer the quick-charging capabilities premium smartphones offer, though.) The more power your dock supplies, the greater the ability to charge your laptop <em>and</em> any bus-powered devices. This is a gotcha most people don&rsquo;t think about, so if you plan to connect several bus-powered hard drives or SSDs, buy a dock with a hefty power supply. (USB keys, on the other hand, require tiny amounts of power. Don&rsquo;t worry about these.)</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Thunderbolt power supply" class="wp-image-1064501" height="717" src="https://b2c-contenthub.com/wp-content/uploads/2022/09/thunderbolt-power-supply-edited-100868081-orig.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><p>Powered Thunderbolt docks, especially those that power your laptop, can ship with some pretty sizeable power bricks.</p>
+</figcaption></figure><p class="imageCredit">Mark Hachman / IDG</p></div>
+
+
+
+<p>There&rsquo;s one more consideration: the length of the Thunderbolt cable between your laptop and the dock itself. You may have noticed or heard about USB-C ports wearing out on smartphones; a loose or wobbly connector on a Thunderbolt dock can cause a monitor to unexpectedly flicker or lose connection. Consider how much tension will be put on a cable. A Thunderbolt dock that&rsquo;s dangling from a Thunderbolt port will stress the physical connector. You don&rsquo;t want that!</p>
+
+
+
+<p>If you&rsquo;re a Mac user who has stumbled across this article, welcome. But please be aware that early Apple MacBook Pros powered by Intel silicon supported up to two 4K displays. The first MacBook Pros powered by the Apple M1 chip only support a single 4K display. Many Mac users have recently left negative reviews on Thunderbolt docks on shopping sites because of this. Buy a PC!</p>
+
+
+
+<h2 class="wp-block-heading toc" id="how-we-test-thunderbolt-docks">How we test Thunderbolt docks</h2>
+
+
+
+<p>We&rsquo;re working from the premise that you&rsquo;re buying a Thunderbolt dock for its unique ability to connect to two 4K monitors at 60Hz. Lower resolutions should be much easier to run successfully. Our first test simply connected each dock to a pair of 4K/60Hz displays, each of which could accept DisplayPort and HDMI cabling, and made sure there were no visual artifacts at 60Hz resolution.</p>
+
+
+
+<p>Second, we checked to see whether the available ports delivered the bandwidth we&rsquo;d expect, connecting them to an external SSD and transferring a collection of test files over the Thunderbolt cable and port. We also used AJA&rsquo;s System Test tool to double-check our numbers and test whether read and write speeds were consistent.&nbsp;</p>
+
+
+
+<p>Finally, we spot-checked the available power draw of the hubs and ports with a USB power meter, as well as simply connecting them to bus-powered devices to see if they could deliver enough power to allow them to operate. </p>
+
+
+
+<p><em>This story was updated on July 31, 2023 with additional information and recommendations.</em></p>
+
+Computer Accessories, Laptop Accessories</div>
+
+## AMD says new ‘enthusiast’ Radeon 7000 GPUs will be here soon
+ - [https://www.pcworld.com/article/2016950/amd-says-mid-range-radeon-7000-cards-will-be-here-soon.html](https://www.pcworld.com/article/2016950/amd-says-mid-range-radeon-7000-cards-will-be-here-soon.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T15:39:04+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>A few days ago AMD announced the Radeon RX 7900 GRE as <a href="https://www.pcworld.com/article/2011885/amd-launches-radeon-rx-7900-but-you-cant-have-it.html" rel="noreferrer noopener" target="_blank">a China-only retail release</a>. It was significant because even half a year after the initial 7000-series cards released, we still have just three desktop GPUs available: the RX 7900 XTX at $1000, RX 7900 XT at $900, and the significantly less-powerful RX 7600 at $270. That&rsquo;s leaving a pretty huge gap in the middle of the lineup. Where are the RX 7700 and 7800 cards for mid-range gamers? According to a recent statement from AMD, they should be here sometime in the next few months. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="amd-radeon-rx-7600">AMD Radeon RX 7600</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="AMD Radeon RX 7600" class="product-widget__image" height="2000" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/AMD-radeon-rx-7600-2.jpg?quality=50&amp;strip=all" width="3000" />
+						</div>
+					</div>
+				
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>AMD CEO Lisa Su said as much in the company&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://seekingalpha.com/article/4622445-advanced-micro-devices-inc-amd-q2-2023-earnings-call-transcript&amp;xcust=2-1-2016950-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">quarter two earnings call</a> (spotted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.pcgamer.com/amd-confirms-imminent-launch-of-new-enthusiast-class-radeon-7000-series-cards/&amp;xcust=2-1-2016950-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">PC Gamer</a>). &ldquo;We are on track to further expand our RDNA 3 GPU offerings with the launch of new, enthusiast-class Radeon 7000 cards in the third quarter,&rdquo; she said, making a distinction from the <a href="https://www.pcworld.com/article/1928214/amd-radeon-rx-7600-review.html" rel="noreferrer noopener" target="_blank">&ldquo;mainstream&rdquo; RX 7600 launched in March</a>. If the RX 7900 XTX remains the top-of-the-line card, that means something in the mid-range coming before the end of October, assuming no further delays on AMD&rsquo;s part. </p>
+
+
+
+<p>Despite an <a href="https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html" rel="noreferrer noopener" target="_blank">enthusiastic response to the 7000-series cards</a>, which are punching above their weight compared to Nvidia&rsquo;s GPUs at the same price points, AMD has had trouble getting more models out the door. The reasons why aren&rsquo;t entirely clear &mdash; and aren&rsquo;t elucidated in the earnings call &mdash; though rumors point to some hardware bugs in the latest RDNA 3 chip designs. In the same stretch of time AMD has released four mobile GPUs for gaming laptops, the RX 7600S, RX 7600M, RX 7600M XT, and RX 7700S. </p>
+
+
+
+<p>When the Radeon RX 7700 and 7800 GPUs arrive (assuming the naming scheme stays consistent), they&rsquo;ll be competing with the RTX 4060 and 4070 series from Nvidia, both of which have been a disappointment in terms of improvement over the previous generation and total value at the current retail prices. The <a href="https://www.pcworld.com/article/1925928/nvidia-geforce-rtx-4060-ti-8gb-review.html" rel="noreferrer noopener" target="_blank">RTX 4060 Ti</a>, at a former &ldquo;sweet spot&rdquo; of $400, is a particular let-down due to low memory and bus specs. This might offer an opportunity for AMD to hit hard, particularly for gamers looking for performance at the popular 1440p level. </p>
+
+
+
+<p>If you can&rsquo;t wait until October, be sure to check out our roundup of the <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html" rel="noreferrer noopener" target="_blank">best graphics cards for 2023</a>. </p>
+
+Graphics Cards</div>
+
+## Canon printers may keep your Wi-Fi info even after a reset
+ - [https://www.pcworld.com/article/2016863/canon-printers-may-keep-your-wi-fi-info-even-after-a-reset.html](https://www.pcworld.com/article/2016863/canon-printers-may-keep-your-wi-fi-info-even-after-a-reset.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T14:24:29+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>What&rsquo;s the first thing you do when selling or recycling a gadget? Reset your data, of course &mdash; nobody wants their personal info getting into someone else&rsquo;s hands. But a standard reset isn&rsquo;t enough for some Canon printers, apparently. In a recent support post, the company told owners that the standard data reset function doesn&rsquo;t actually get rid of all the printer&rsquo;s stored data, notably leaving your local Wi-Fi SSD and password intact if you&rsquo;ve set them up. Hundreds of models are affected in the E, G, iB, M, T, X, and Pro series of consumer and commercial printers.</p>
+
+
+
+<p>&ldquo;Sensitive information on the Wi-Fi connection settings&hellip;may not be deleted by the usual initialization process,&rdquo; Canon warns in <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://psirt.canon/advisory-information/cp2023-003/&amp;xcust=2-3-2016863-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">a short post</a> (spotted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://arstechnica.com/security/2023/08/canon-warns-printer-users-to-manually-wipe-wi-fi-settings-before-discarding/&amp;xcust=2-3-2016863-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Ars Technica</a>). Users are instructed to use the &ldquo;Reset all&rdquo; function in the Settings menu, then turn on the Wi-Fi connection, then go <em>back </em>into the reset sub-menu and clear it again. The process is slightly different on some models &mdash; if there&rsquo;s no dedicated software reset menu, clear the LAN settings, turn on Wi-Fi, then clear the LAN settings again. </p>
+
+
+
+<p>Based on the somewhat roundabout way of solving this issue, it looks like a software bug rather than an intentional retention of user data. That&rsquo;s something that Canon might be able to fix with a firmware update over Wi-Fi, since, you know, the printer&rsquo;s already connected to the local network.) Just so long as it doesn&rsquo;t brick them, <a href="https://www.pcworld.com/article/1925926/an-hp-firmware-update-is-bricking-printers-and-theres-no-fix-yet.html" rel="noreferrer noopener" target="_blank">like a recent HP firmware update did</a>. </p>
+
+Printers</div>
+
+## Pick up this futuristic-looking Lenovo gaming mouse for $9.49
+ - [https://www.pcworld.com/article/2016847/2016847.html](https://www.pcworld.com/article/2016847/2016847.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T14:17:48+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re on the hunt for an inexpensive gaming mouse, you better hang onto your seats because we&rsquo;ve got a delicious deal on tap for you today. Lenovo&rsquo;s selling the<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/mice/gx30p93886&amp;xcust=2-3-2016847-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"> Lenovo Legion M200 Mouse for just $9.49</a>, which is a whopping 62 percent off of the original $24.99 price. Not only is this peripheral super easy to set up, but it also features seven RGB backlight colors as well as a comfortable ambidextrous design. Not bad for a mouse that&rsquo;s just under $10, huh? Let&rsquo;s dive into the details then.</p>
+
+
+
+<p>The Lenovo Legion M200 has a maximum DPI of 2,400 and a frame rate of 500 fps. It&rsquo;s not the most responsive gaming mouse we&rsquo;ve ever seen, but that&rsquo;s not necessarily a bad thing. Some folks (hi) don&rsquo;t like super high DPI numbers, as it makes the mouse harder to control. The M200&rsquo;s lower DPI number means it won&rsquo;t get away from you. The peripheral also has five buttons with four levels of DPI switch and a braided cable, which helps keep things nice and tidy.</p>
+
+
+
+<p>This is a solid deal. However, we&rsquo;d recommend swooping in sooner rather than later.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lenovo.com/us/en/p/accessories-and-software/keyboards-and-mice/mice/gx30p93886&amp;xcust=2-3-2016847-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Lenovo Legion M200 Mouse for $9.49 at Lenovo</a></p>
+Mice</div>
+
+## How to control Windows PC volume with any keyboard
+ - [https://www.pcworld.com/article/2004620/how-to-control-windows-pc-volume-with-any-keyboard.html](https://www.pcworld.com/article/2004620/how-to-control-windows-pc-volume-with-any-keyboard.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>For reasons that have always been unclear, Windows does not include standard keyboard shortcuts for turning the volume up or down.</p>
+
+
+
+<p>Sure, most laptops have volume buttons on their keyboards, and some external keyboards have their own volume keys. But some of us like to use <a href="https://www.pcworld.com/article/1966306/best-mechanical-keyboards.html">mechanical keyboards</a> without their own volume controls, and would rather not have to fiddle with Windows&rsquo; on-screen volume slider.</p>
+
+
+
+<p>That&rsquo;s where <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.3rvx.com/&amp;xcust=2-1-2004620-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">3RVX</a> comes in. With this free Windows app, you can create your own volume control keyboard shortcuts, complete with an on-screen overlay that shows the current audio level.</p>
+
+
+
+<h2 class="wp-block-heading" id="custom-volume-shortcuts-in-windows">Custom volume shortcuts in Windows</h2>
+
+
+
+<p>To get install 3RVX, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.3rvx.com/&amp;xcust=2-1-2004620-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">head to the developer&rsquo;s website</a> and download the latest installer from under the &ldquo;Downloads&rdquo; heading.</p>
+
+
+
+<p>Once installed, run 3RVX, and you&rsquo;ll see a white volume icon in the system tray. Right-click it and select &ldquo;Settings&rdquo; to open the app&rsquo;s settings menu.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="3RFX Settings menu" class="wp-image-2004622" height="883" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/3rvxsettingsbg.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Jared Newman / Foundry</p></div>
+
+
+
+<p>By default, &ldquo;Run on Windows Startup&rdquo; is not enabled, so check this off if you want 3RVX to launch automatically.</p>
+
+
+
+<p>Now, head to the Hotkeys tab, and use the following steps to create your volume shortcuts:</p>
+
+
+
+<ul>
+<li>Hit the <strong>+</strong> button.</li>
+
+
+
+<li>Click the blank area next to &ldquo;Keys.&rdquo;</li>
+
+
+
+<li>Enter your desired keyboard shortcut for decreasing volume.</li>
+
+
+
+<li>Click the drop-down next to &ldquo;Action&rdquo; and select &ldquo;Decrease Volume.</li>
+
+
+
+<li>Hit the <strong>+</strong> button again.</li>
+
+
+
+<li>Click the blank area next to &ldquo;Keys.&rdquo;</li>
+
+
+
+<li>Enter your desired keyboard shortcut for increasing volume.</li>
+
+
+
+<li>Click the drop-down next to &ldquo;Action&rdquo; and select &ldquo;Increase Volume.</li>
+
+
+
+<li>Click &ldquo;Apply.&rdquo;</li>
+</ul>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="3RFX hotkeys setup" class="wp-image-2004623" height="862" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/3rvxhotkeysbg.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Jared Newman / Foundry</p></div>
+
+
+
+<p>By default, 3RVX&rsquo;s hotkeys will control the volume in 1/16th increments. To change this, check the &ldquo;Amount&rdquo; box, then enter the number of volume increments for each keypress. You can also switch to percentage-level adjustments instead.</p>
+
+
+
+<h2 class="wp-block-heading" id="further-customization">Further customization</h2>
+
+
+
+<p>When you adjust the volume using hotkeys, 3RVX will show a default visual overlay that looks a lot like that of a Mac. If you can&rsquo;t abide this, head back to the &ldquo;General&rdquo; tab and look to the &ldquo;Skin&rdquo; drop-down. Here you&rsquo;ll find a handful of alternate overlays (including, of all things, a throwback to Windows Vista).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Visual overlays in 3RFX" class="wp-image-2004624" height="812" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/3rfxoverlaysbg.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Jared Newman / Foundry</p></div>
+
+
+
+<p>The app&rsquo;s &ldquo;Display&rdquo; tab is also worth a look, as you can change the position of the volume control overlay and decide whether it should appear when other programs are running in fullscreen.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Display options in 3RFX" class="wp-image-2004625" height="805" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/3rfxposition.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Jared Newman / Foundry</p></div>
+
+
+
+<p>Meanwhile, the &ldquo;OSD&rdquo; tab lets you toggle overlays for other things, such as brightness and eject. You can also return to the &ldquo;Hotkeys&rdquo; tab, and create shortcuts for things like media control and screen brightness.</p>
+
+
+
+<p>But even if you only use it for volume control, 3RVX fulfils a longstanding need that&rsquo;s been inexplicably overlooked.</p>
+
+
+
+<p><em>Sign up for Jared&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://advisorator.com/&amp;xcust=2-1-2004620-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Advisorator newsletter</a> to get more helpful tech tips every week.</em></p>
+
+Personal Software</div>
+
+## Lap desk buying guide: Work and game comfortably from your couch
+ - [https://www.pcworld.com/article/2009493/lap-desk-buying-guide-work-and-game-comfortably-from-your-couch.html](https://www.pcworld.com/article/2009493/lap-desk-buying-guide-work-and-game-comfortably-from-your-couch.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Hanging out on the sofa with your laptop is something that many of us do everyday. Everything from checking news and social feeds to mopping up emails is more comfortable from your couch. But even if you have a <a href="https://www.pcworld.com/article/1072047/best-ultraportable-laptops.html">lightweight ultraportable laptop</a>, resting it on your thighs is anything but comfortable, and laptops quickly get hot, especially if you&rsquo;re gaming.</p>
+
+
+
+<p>That&rsquo;s where lap desks come into play. They&rsquo;re designed as a kind of table for your lap and enable much more ergonomic use of your laptop, while also pulling double time as a supportive surface for your keyboard and mouse. A lap desk can be made of materials such as wood, plastic, or metal, and integrate various additional features like extra USB ports and cable management tools, among others. </p>
+
+
+
+<p>Trust us: Once you&rsquo;ve used a lap desk, you won&rsquo;t want to go back to slapping your notebook down on your legs again.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="lap-desk-advantages">Lap desk advantages</h2>
+
+
+
+<ul>
+<li>It improves your posture, reducing neck, shoulder, and back pain that can be caused by sitting in a slouched position for long periods of time.</li>
+
+
+
+<li>It protects your legs from the heat of your laptop, preventing minor burns or skin irritation.</li>
+
+
+
+<li>It increases your productivity and concentration by providing you with a stable and comfortable work surface that adapts to your needs.</li>
+
+
+
+<li>It expands your workspace and gives you more room for your mouse, smartphone, and other accessories you need.</li>
+
+
+
+<li>It&rsquo;s easy to transport and store, so you can take it with you wherever you go.</li>
+</ul>
+
+
+
+<p>We&rsquo;ve taken a closer look at popular lap desks, listing advantages and disadvantages as well as evaluating their price-performance ratio. With our buying guide, you&rsquo;re guaranteed to find the best lap desk for you.</p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="songmics-bamboo-laptop-desk">
+							SONGMICS Bamboo Laptop Desk						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="SONGMICS Bamboo Laptop Desk" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/9-SONGMICS-Laptoptisch-aus-Bambus.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Robust and stable					</li> 
+										<li> 
+					Height adjustable					</li> 
+										<li> 
+					Air vents					</li> 
+										<li> 
+					Large storage area					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Wood can have splinters 					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/SONGMICS-Function-Adjustable-Breakfast-ULLD01N/dp/B0149SD6T0&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy SONGMICS Bamboo Laptop Desk at Amazon for $38</a></p>
+
+<p>The SONGMICS bamboo laptop table is a practical and versatile helper for your home office or  bed. It is made of high-quality and ecological bamboo, which is stable, durable, and easy to clean. The table top can be tilted at five angles to give you optimal viewing pleasure. The table also has an integrated mouse pad, a drawer, and a groove with a mobile phone holder and pen quivers to keep your work tools close at hand. The legs are height adjustable and foldable, so you can easily transport or store the table. The SONGMICS bamboo laptop table is ideal for laptops up to 15 inches, books, magazines, or breakfast trays.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="lapgear-elevation-pro">
+							LapGear Elevation Pro						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="LapGear Elevation Pro" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/7-LapGear-Elevation-Pro.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Large storage area					</li> 
+										<li> 
+					Practical smartphone holder					</li> 
+										<li> 
+					Adjustable incline					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Not suitable for left-handers					</li> 
+										<li> 
+					Wrist rest for the mouse can get in the way					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/LapGear-Elevation-Device-Booster-Cushion/dp/B0B4F96VCD&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy LapGear Elevation Pro at Amazon for $53</a></p>
+
+<p>The LapGear Elevation Pro features an adjustable angle from 0 to 20 degrees, a non-slip surface, and an integrated mouse pad. The stand is made of sturdy plastic and can hold laptops up to 17 inches. It also has a convenient handle for transport and a cable management opening. It&rsquo;s a lot more affordable than the more premium Couchmaster offerings, too.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="couchmaster-lapboard">
+							Couchmaster Lapboard&sup2;						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Couchmaster Lapboard&sup2;" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/5-Couchmaster-Lapboard.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Ergonomic design					</li> 
+										<li> 
+					Cable grommets for keyboard and mouse					</li> 
+										<li> 
+					Six integrated USB 3.0 ports					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Too much plastic, looks cheap					</li> 
+										<li> 
+					Not suitable for left-handers					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Couchmaster-Lapboard%C2%B2-Couch-Gaming-Keyboard/dp/B07WFTN2CC&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy Couchmaster Lapboard&sup2; at Amazon for $139</a></p>
+
+<p>Looking for something a bit simpler? The Couchmaster Lapboard&sup2; consists of a sturdy wooden board that rests on two padded cushions and offers enough space for a keyboard, mouse, and other devices. The Lapboard&sup2; also has an integrated USB hub that facilitates power supply and data transfer. The lap desk also features an ergonomic shape that promotes a healthy posture and prevents neck and back pain. </p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="couchmaster-cyworx">
+							Couchmaster Cyworx						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Couchmaster Cyworx" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/4-Couchmaster-Cyworx.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Elegant and comfortable design					</li> 
+										<li> 
+					High quality					</li> 
+										<li> 
+					Large storage area					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Air vents interfere with the keyboard					</li> 
+										<li> 
+					The mouse pad is glued on					</li> 
+										<li> 
+					Not suitable for left-handers					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Couchmaster-CYWORX-Ergonomic-Notebooks-Equipment/dp/B08DG58NX3&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy Couchmaster Cyworx at Amazon for $151</a></p>
+
+<p>The Couchmaster Cyworx is an ergonomic lap desk for gamers and home office users that offers maximum comfort and flexibility. With the Couchmaster Cyworx, you can operate your laptop or PC from the comfort of your couch without getting neck or back pain. The Couchmaster Cyworx consists of a sturdy wooden board with integrated fans, a padded support for the arms, and a practical compartment for cables and accessories. The Couchmaster Cyworx is compatible with all common laptops and keyboards and is easy to set up and store.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="couchmaster-cybot">
+							Couchmaster Cybot						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Couchmaster Cybot" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/3-Couchmaster-Cybot.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Large mouse area and tablet support groove					</li> 
+										<li> 
+					Robust, comfortable upholstery					</li> 
+										<li> 
+					Large ventilation cutouts					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The mouse pad is glued on					</li> 
+										<li> 
+					Not suitable for left-handers					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Couchmaster%C2%AE-CYBOT-Ergonomic-Notebooks-Equipment/dp/B07KB6XS68&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy Couchmaster Cybot at Amazon for $159</a></p>
+
+<p>The Couchmaster Cybot is an ergonomic and practical laptop rest for the couch or bed. It consists of two cushions with pockets for accessories and a wooden board with ventilation slots and a tablet slot. The Couchmaster Cybot offers enough space for notebooks up to 17 inches and a mouse pad. It&rsquo;s made of sustainable bamboo and has a soft touch surface. </p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="couchmaster-cycon">
+							Couchmaster Cycon&sup2;						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Couchmaster Cycon&sup2;" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/1-Couchmaster-Cycon-Fusion-Grey.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very good processing quality					</li> 
+										<li> 
+					Six integrated USB 3.0 ports					</li> 
+										<li> 
+					Good sized storage area					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					High space requirement					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Couchmaster-CYCON%C2%B2-Black-Keyboard-ergonomic/dp/B00CCHRJ2Q&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy Couchmaster Cycon&sup2; at Amazon for $197</a></p>
+
+<p>The Couchmaster Cycon&sup2; is an innovative product for everyone who likes to game or work from the couch. It consists of an ergonomic support for keyboard and mouse, which is connected to a nifty cable management system. The Couchmaster Cycon&sup2; also offers two side pockets for accessories, an integrated USB 3.0 hub, and a mouse pad extension. With the Couchmaster Cycon&sup2;, you can control your laptop or PC from the comfort of your sofa and enjoy a relaxed and comfortable experience.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-turret">
+							Razer Turret						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer Turret" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/6-Razer-Turret.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Retractable magnetic mouse pad					</li> 
+										<li> 
+					40 hours of battery life					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Expensive					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Razer-Turret-Wireless-Mechanical-Keyboard/dp/B07QXLC24V&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy Razer Turret at Amazon for $249</a></p>
+
+<p>The Razer Turret is a wireless keyboard and mouse combination. It offers a comfortable and immersive gaming experience in the living room, with a battery life of over 40 hours per charge. The keyboard features Razer Green mechanical switches, an ergonomic palm rest, and a retractable mouse mat with magnetic docking station for the mouse. The mouse has a precise 5G optical sensor with 16,000 DPI and mechanical Razer switches. Both devices feature Razer Chroma RGB and Xbox Dynamic Lighting, which sync with the game and offer endless customization options.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="couchmaster-cycon-titan-edition">
+							Couchmaster Cycon&sup2; Titan Edition						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Couchmaster Cycon&sup2; Titan Edition" class="product-chart-item__image" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/06/2-Couchmaster-Cycon-Titan-Edition.png" width="1600" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very good processing quality					</li> 
+										<li> 
+					Six integrated USB 3.0 ports					</li> 
+										<li> 
+					Well-sized storage space					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Expensive due to limited edition					</li> 
+										<li> 
+					High space requirement					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Couchmaster-Keyboard-Ergonomic-lapdesk-Titanium/dp/B077B1WZJT&amp;xcust=2-3-2009493-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Buy Couchmaster Cycon&sup2; Titan Edition at Amazon for $399</a></p>
+
+<p>The Couchmaster Cycon&sup2; Titan Edition is luxurious, limited edition product for couch gaming. It has a large pad with real titanium inlays and two soft cushions made of Nappa leather. It offers six USB 3.0 ports and intelligent cable management inside the unit itself. The lap desk enables an ergonomic and comfortable sitting position on the sofa and is easy to store. The Couchmaster Cycon&sup2; Titan Edition is the ultimate gadget for demanding gamers who want to play with keyboard and mouse.</p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+<h2 class="wp-block-heading toc" id="what-to-look-for-in-a-lap-desk">What to look for in a lap desk</h2>
+
+
+
+<p><strong>Feet or padding:</strong> While some lap desks rest directly on the legs and are padded underneath, others have retractable feet. You then have no weight to bear at all. This design may be better suited for bed and can more easily be used as a screen stand for your desk.</p>
+
+
+
+<p><strong>Inclination:</strong> Look for the natural tilt of the lap desk. Some have padding that is higher at your knees so your laptop is at an angle, while others have flatter padding. A slight tilt is helpful for posture because it brings the screen to a higher level, but it also causes your mouse to slide down when you&rsquo;re not holding it. Therefore, consider a flat surface if you mainly use your laptop with an external mouse.</p>
+
+
+
+<p><strong>Height adjustability:</strong> This is probably the most important decision you need to make. While many lap desks consist of just a flat surface with pads underneath, others offer adjustable height levels.</p>
+
+
+
+<p><strong>Surface material:</strong> If there&rsquo;s one major criticism of some lap desks, it&rsquo;s the use of creaky, grey plastic. Others offer wood-grain surfaces with rounded edges, and some even have patterned fabric cushions underneath that will blend in well with your living room.</p>
+
+
+
+<p><strong>Wrist rest:</strong> Unless your laptop is particularly heavy or has strong rubber grips, it will probably slide down on any lap desk with a tilt. Some models mitigate this by having a lip on the bottom, while others have padded wrist rests instead.</p>
+
+
+
+<p><strong>Extras:</strong> There are lap desks with special recesses or stands for smartphones and tablets, as well as storage space for accessories. Some models even integrate mouse pads and USB hubs.</p>
+
+
+
+<p><em>This article has been translated from German to English and originally appeared on pcwelt.de.</em></p>
+
+Gadgets</div>
+
+## KeePassXC review: The friendlier free offline password manager
+ - [https://www.pcworld.com/article/2010172/keepassxc-password-manager-review.html](https://www.pcworld.com/article/2010172/keepassxc-password-manager-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Full control over login data</li><li>Simple, straightforward interface</li><li>Native support for browser extensions</li><li>Free to use</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Very basic browser extension functionality</li><li>Setting adjustments are necessary to get the most out of the app</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">Whether you&rsquo;re fed up with online password managers or just mistrust them, KeePassXC is a great way to securely self-manage your passwords. It doesn&rsquo;t exactly replicate an online password manager, but that&rsquo;s kind of the point. Overall, it covers the basics, and its ease and flexibility of use make up for its shortcomings.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-keepassxc">
+			Best Prices Today: KeePassXC		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+		
+		<div class="new_products_tab tabcontent" id="New">
+
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<span>KeePassXC</span>
+															</div>
+							<div class="price-comparison__price">
+								<span>$0.00</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://keepassxc.org/&amp;xcust=2-3-2010172-2-2010913-24496&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+
+		<div class="refurbished_products_tab tabcontent" id="Refurbished">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div class="refurbished-drop">
+				<select class="price_comparison_condition" name="priceComparisonCondition">
+					
+				</select>
+				</div>
+			</div>
+
+							<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+					Price comparison from Backmarket						</span>
+									</div>
+		</div>
+		</div>
+		
+
+
+<p>Simplicity is an asset. It&rsquo;s what sells online password managers&mdash;they take the hassle out of managing dozens (if not hundreds) of unique, complex logins. You sign up, install a browser extension, click a few buttons, and the service handles the rest. But online password managers require trusting a third-party with sensitive data. While most are worthy of such faith, it takes just one big slip up (like <a href="https://www.pcworld.com/article/1419901/lastpass-got-hacked-again-and-this-time-your-data-got-taken.html">LastPass&rsquo;s epic failure</a> to strongly safeguard its servers and also <em>fully encrypt</em> all customer data) to prove everyone&rsquo;s worst fears.&nbsp;</p>
+
+
+
+<p>An offline password manager is really the only way to fully control your logins&hellip;yet the most popular of them, <a href="https://www.pcworld.com/article/1668328/keepass-password-manager-review.html">KeePass</a>, is not exactly simple. Learning its ins and outs can be a turn off to all but the very patient, even if you&rsquo;re reasonably tech savvy.</p>
+
+
+
+<p>Fortunately, there&rsquo;s a streamlined alternative to the official KeePass app: <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://keepassxc.org/&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">KeePassXC</a>. It&rsquo;s just as open source and free, but with its more modern interface, it&rsquo;s a far easier program to use. Basic features considered standard for password managers are baked into the software, unlike KeePass. You still need the stomach for maintaining and backing up your entire collection of passwords&mdash;no small responsibility&mdash;but you can be up and running with this app pretty quickly. And once you are, it&rsquo;s a<strong>&nbsp;</strong>great blend of secure password management with lower risk of a stolen password vault.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading:</strong> See our roundup of the best password managers to learn about competing products.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="keepassxc-how-it-works">KeePassXC: How it works</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Save screen for new KeePassXC database" class="wp-image-2010973" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/2023072713474429.png?w=1200" width="1200" /><figcaption class="wp-element-caption">You&rsquo;ll save your database files to your PC&mdash;which can be a local folder or one that&rsquo;s cloud-synced.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>As an offline password manager, KeePassXC saves your login info in a database file. You can open these .kdbx files in any program capable of reading them (including mobile apps and version 2.x of the official KeePass app), as well as visa versa&mdash;it&rsquo;s the same principle as being able to open a .doc file in Word, LibreOffice, Google Docs, etc. KeePassXC ships with built-in browser integration, too.</p>
+
+
+
+<p>Database files can be saved anywhere you wish. You can keep them completely offline, choosing to make copies on every device you want access from. You can put them into the cloud and thus approximate the convenience of an online password manager. You can strike a middle ground and use a service like <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://syncthing.net/&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">SyncThing</a> to keep copies of your database(s) synced across devices without using cloud storage.</p>
+
+
+
+<p>But no matter how many databases you create and how you choose to store them, you&rsquo;re solely responsible for maintaining and backing up your files. You have no safety net. If you forget your master password, there&rsquo;s no recovery option. If your database file corrupts or is accidentally deleted, you&rsquo;ve lost that data unless you made a backup. If you add a keyfile or hardware key as extra protection for your database, it&rsquo;s on you to always keep it on hand. This is the trade-off for having full control over all your login info.</p>
+
+
+
+<h2 class="wp-block-heading" id="keepassxc-the-basics">KeePassXC: The basics</h2>
+
+
+
+<p>Opening the app for the first time drops you into a clean, uncluttered screen designed to get you started quickly. You can choose to create a new database, open an existing one, or import one from a CSV file, 1Password, or an older version of KeePass (1.x). The first two options are straightforward&mdash;even if you&rsquo;re not familiar with encryption settings, the app suggests defaults when creating a fresh database that should work well, especially if you&rsquo;re new to password managers. If you already know your stuff, it&rsquo;s easy to tweak things to your liking.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="KeePassXC starting screen" class="wp-image-2010958" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/2023072713372863.png?w=1200" width="1200" /><figcaption class="wp-element-caption">The startup screen when you first open KeePassXC will later show recent files after you open one&mdash;though you can turn that feature off, if you like.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>What can take longer is switching from a different password manager. You&rsquo;ll first export your vault to a file, then import that into KeePassXC. If your previous service has sloppy CSV exports, you&rsquo;ll have to burn time cleaning up the entries. You may also need to spend time on cleanup if you import multiple files into KeePassXC, merge them into one database, and end up with some duplicate entries.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><em>Tip: If you plan to export your existing password vault to a CSV file, use <a href="https://www.pcworld.com/article/549444/how-to-encrypt-files-in-windows.html#:~:text=If%20you%E2%80%99re%20using%20Windows%20Home%2C%20or%20just%20want%20an%20encrypted%20folder">VeraCrypt</a> to create an encrypted folder (&ldquo;volume&rdquo;), and save your CSV to that secure location. That way, your passwords remain protected at every step of the transition process.</em></p>
+</blockquote>
+
+
+
+<p>Once you&rsquo;ve set up your database (or databases&mdash;you can have more than one open at the same time), using it is easy to figure out. This is largely due to the pared-down number of options you have. KeePassXC does not support plugins, like the official KeePass app does. Instead, it gives you all the basic features you&rsquo;d need from a password manager, and leaves things at that.</p>
+
+
+
+<p>Case in point: You get just one kind of entry meant for logins. No other types like secure notes, credit cards, or identities are available. And when you fill out a password entry, there&rsquo;s just a handful of fields: user ID, password, URL, notes, and tags. You can set up two-factor authentication TOTP tokens as well, plus attach files or create custom attributes (text fields), but that&rsquo;s it. The fundamentals are covered, but you don&rsquo;t get more.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="KeePassXC Add Entry menu" class="wp-image-2010984" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/2023072713530615.png?w=1200" width="1200" /><figcaption class="wp-element-caption">KeePassXC&rsquo;s add-entry screen. There&rsquo;s just one type, and it doesn&rsquo;t offer many fields. You can further customize entries through the settings on the left of the screen.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>Those entries get stored in folders&mdash;either in the default &ldquo;Root&rdquo; directory, or in a subfolder you create&mdash;and you can only interact with them through the left hand navigation bar or the search feature. (The latter is much faster, once you figure out <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://keepassxc.org/docs/KeePassXC_UserGuide#_searching_the_database&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">how to use it efficiently</a>.) Moving entries between folders requires dragging and dropping; you can&rsquo;t also change the assigned folder within the entry itself.</p>
+
+
+
+<p>Even the settings are fairly streamlined&mdash;though they&rsquo;re split up so that you separately adjust them for applications and entries, you can&rsquo;t really go too deep into the menus. You can also usually figure out through context what each setting is for, and whatever isn&rsquo;t clear can be quickly looked up in the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://keepassxc.org/docs/KeePassXC_UserGuide&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">user guide</a> (or answered through a fast online search).</p>
+
+
+
+<p>One such thing I had to look up myself was auto-type&mdash;KeePassXC&rsquo;s equivalent of auto-fill. It&rsquo;s very smooth, and helps bypass the risk of copying passwords to your clipboard (which can be viewed by other apps on your PC) or using the browser extension (a practice that in general can expose a password database or vault to a little more risk). You load the website, click in one of the login fields, then switch to KeePassXC and choose the info you want to auto-type into the webpage. You can even create custom auto-type commands for individual entries, if their login page layout doesn&rsquo;t match the default auto-type options.</p>
+
+
+
+<h2 class="wp-block-heading" id="keepassxc-the-stuff-youll-want-to-tweak">KeePassXC: The stuff you&rsquo;ll want to tweak</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="KeePassXC browser extension options" class="wp-image-2010990" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/2023072713565541.png?w=1200" width="1200" /><figcaption class="wp-element-caption">KeePassXC natively supports browser extensions, but you&rsquo;ll have to first enable the feature for it to work.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>By default, KeePassXC sticks to the most basic experience&mdash;and while that&rsquo;s good enough, you can make the program even better if you dig into the settings.</p>
+
+
+
+<p>For users who want an experience closer to that of an online password manage, you&rsquo;ll need to flip on the built-on browser integration in the application settings. Installing the native KeePassXC <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://keepassxc.org/docs/KeePassXC_GettingStarted#_setup_browser_integration&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">browser extensions</a> won&rsquo;t work otherwise. You can limit it to specific browsers, and even turn access to certain entries on or off in each one&rsquo;s settings.</p>
+
+
+
+<p>For folks who need to share their passwords with others, you&rsquo;ll want to set up KeeShare. It basically creates a separate database with passwords that get synced between you and other people, as well as your main database. It&rsquo;s how you can securely share your Netflix password with your household members. Any changes made to those shared entries will be seen by everyone with access.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="YubiKey 5 on a light gray tabletop" class="wp-image-2010995" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/PXL_20230727_210728297-1.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">Adding a YubiKey to my database&rsquo;s password was a mild pain in the butt.</figcaption></figure><p class="imageCredit">Alaina Yee / Foundry</p></div>
+
+
+
+<p>For those who want stronger protection for their database files, you can add a keyfile or a hardware key to your login process. (This can be done when first creating a database, or set up afterward.) A keyfile is a separate file that must be provided along with a password to unlock your database, while a hardware key must be physically inserted into your PC and detected by KeePassXC when you enter your password. It&rsquo;s not exactly two-factor authentication (you can read why in <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://keepassxc.org/docs/#:~:text=Does%20KeePassXC%20support%20two%2Dfactor%20authentication%20(2FA)%20with%20YubiKeys%20or%20OnlyKeys%3F&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">this explanation</a> in KeePassXC&rsquo;s FAQ), but it does strengthen your password. It also can create a holy headache if you lose the keyfile or hardware key, or if you&rsquo;re dealing with mobile apps that don&rsquo;t have good support for hardware keys.</p>
+
+
+
+<p>And for anyone who wants to access their database file (either via a local copy or a cloud save) on mobile, you&rsquo;ll have to pick a third-party mobile app. Obviously, this isn&rsquo;t a setting to adjust&mdash;but because KeePassXC lacks a native mobile app, you&rsquo;ll have to do a little extra work to find a compatible Android or iOS app that you like. Currently, the most popular options are<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://play.google.com/store/apps/details?id=keepass2android.keepass2android&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"> KeePass2Android</a> or <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">KeePassDX</a> for Android, and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://apps.apple.com/us/app/strongbox-password-manager/id897283731&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Strongbox</a> or <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://apps.apple.com/us/app/keepassium-keepass-passwords/id1435127111&amp;xcust=2-3-2010172-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">KeePassium</a> for iOS, but you may find your tastes don&rsquo;t run in those directions.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="KeePass2Android download page" class="wp-image-2010997" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/image-1.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">To access your database on a smartphone, you&rsquo;ll need to choose a third-party app to read your database file(s). KeePassXC does not offer native mobile apps.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>There are other smaller settings you may want to play with, too. For example, the database doesn&rsquo;t automatically lock after a period of inactivity&mdash;I changed that right away. I also decided to clear search queries after several minutes, and lengthen the automatic clearing of the clipboard from 10 seconds to 15. And you may want to keep your entries&rsquo; usernames, passwords, and notes hidden from view. These details may seem small, but adjusting them and others to your exact liking can go a long way toward feeling comfortable using KeePassXC on a daily basis.</p>
+
+
+
+<h2 class="wp-block-heading" id="keepassxc-whats-missing-compared-to-online-services">KeePassXC: What&rsquo;s missing compared to online services</h2>
+
+
+
+<p>As good as KeePassXC is as a self-contained password manager, its online competition still outdoes it in a few key areas.</p>
+
+
+
+<p>Its biggest weakness: The browser extension is more of a way to autofill login info already in your database. Oh, it <em>can</em> capture and save new login info as you create it for a website, but it doesn&rsquo;t always recognize those situations. And when it does, the dialog banner often disappears incredibly fast&mdash;I had to be very fast on the draw to save my passwords.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="KeePassXC browser extension difficulties" class="wp-image-2011017" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/2023072714362260.png?w=1200" width="1200" /><figcaption class="wp-element-caption">The browser extension doesn&rsquo;t work as well as those for online services, but I found I didn&rsquo;t really need it.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>KeePassXC also lacks features like password auditing, where it automatically checks if your passwords have been compromised in a data breach, as well as dark web monitoring. You&rsquo;re on your own on this front.</p>
+
+
+
+<p>Setting up a hardware key (like a Yubikey) is more complicated, too. For starters, you have to first configure it to work with KeePassXC. I also spent a lot more time troubleshooting mine than I expected&mdash;especially when I didn&rsquo;t initially realize that you have to start KeePassXC in Windows&rsquo; administrator mode for it to recognize a hardware key. Add in the difficulties with the third-party mobile apps I tried, and I eventually just stripped it from my database to finish this review. If you use a strong, unique password at least 24 characters long, you should have enough protection, but I still wanted it to work anyway.</p>
+
+
+
+<h2 class="wp-block-heading" id="should-you-use-keepassxc">Should you use KeePassXC?</h2>
+
+
+
+<p>If you&rsquo;re fed up with online password managers, or you just have never trusted them to begin with, KeePassXC is an excellent way to securely self-manage your passwords. You need far less elbow grease to get up and running (unlike with the official KeePass app), as most modern password-manager features are baked in. It doesn&rsquo;t exactly replicate an online password manager, but it adequately covers the basics. Overall, its ease and flexibility of use make up for its shortcomings.</p>
+
+Personal Software</div>
+
+## Get 20TB of cloud storage for just $100 during our BTS sale
+ - [https://www.pcworld.com/article/2016031/get-20tb-of-cloud-storage-for-just-100-during-our-bts-sale.html](https://www.pcworld.com/article/2016031/get-20tb-of-cloud-storage-for-just-100-during-our-bts-sale.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>It&rsquo;s back-to-school season, and even if you&rsquo;re not physically headed back to campus, it&rsquo;s a good time to assess your technology needs. For instance, how&rsquo;s the onboard storage looking on your devices? If you&rsquo;re running low, you need a viable cloud storage solution, and right now is a great time to get one. During our Back-To-School Sale, we&rsquo;re offering a lifetime subscription to 20TB of <a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-20tb-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=prism-drive-secure-cloud-storage-20tb-lifetime-subscription&amp;utm_term=scsf-576060&amp;utm_content=a0x1P000005Orx6QAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Prism Drive Secure Cloud Storage</a> for just $99.99.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/collections/back-to-school?utm_source=PCWorld&amp;utm_campaign=back-to-school-collection" rel="noreferrer noopener" target="_blank"><strong>More:</strong> Check out all of our Back-to-School sales!</a></p>
+
+
+
+<p>This deal is the last cloud storage you&rsquo;ll ever need. With an astonishing 20TB of space, all stored under AES 256-bit and HTTPS encryption, you&rsquo;ll have a secure place to organize your entire digital life.<br /><br />Prism Drive offers cross-platform compatibility so you can access your vault from anywhere and supports file uploads up to 10GB, giving you greater flexibility with the files you keep in the cloud. Organizing everything is simple with the drag-and-drop feature while quick previews allow you to view popular file types without actually downloading them to your device.</p>
+
+
+
+<p>User Alfonso Marks writes, &ldquo;Great value and tech support was superb. I&rsquo;d recommend them highly for your cloud needs.&rdquo;</p>
+
+
+
+<p>Check off all of your cloud storage needs with one purchase. Between July 28 and August 13, you can get a <a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-20tb-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=prism-drive-secure-cloud-storage-20tb-lifetime-subscription&amp;utm_term=scsf-576060&amp;utm_content=a0x1P000005Orx6QAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Prism Drive Secure Cloud Storage 20TB: Lifetime Subscription</a>&nbsp;for just $99.99 during our Back-to-School sale.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-20tb-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=prism-drive-secure-cloud-storage-20tb-lifetime-subscription&amp;utm_term=scsf-576060&amp;utm_content=a0x1P000005Orx6QAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp1.stackassets.com/dc222c14847c69f1a3ecb91ed7343b88d02e2b86/store/bcb641fd2c59799544d7e77d5c4cd0a600550288228b3b3c48ba7afeac14/sale_322844_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Prism Drive Secure Cloud Storage 20TB: Lifetime Subscription &ndash; $99.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/prism-drive-secure-cloud-storage-20tb-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=prism-drive-secure-cloud-storage-20tb-lifetime-subscription&amp;utm_term=scsf-576060&amp;utm_content=a0x1P000005Orx6QAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices are subject to change.</p>
+
+</div>
+
+## Best antivirus 2023: Keep your Windows PC safe from spyware, malware, and more
+ - [https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html](https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-02T07:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Antivirus software has become a necessary tool in today&rsquo;s online world. Even the most tech-savvy and cautious among us can drop their guard at times or be tricked into exposing themselves to a malware vulnerability. Antivirus protection is an essential backup against such threats.&nbsp;</p>
+
+
+
+<p>We&rsquo;re not suggesting that PC security software is fool-proof, but it does a great job of protecting your computer against harmful malware and ransomware. Most systems come with security software baked into the OS, but this is often the bare minimum you need. Choosing to purchase more robust antivirus software will provide you with features such as an advanced firewall, sandbox environments for suspicious programs, and multi-device protection, among other things. Choosing to pay for these additional features will benefit anyone who actively uses email, clicks on links, and downloads programs.</p>
+
+
+
+<p>When testing antivirus suites, we look for software that strikes a balance between excellent protection, a worthwhile selection of features, and minimal performance impact on your PC. For more information, you can read about how we test antivirus suites below our picks.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="norton-360-deluxe-best-antivirus-for-pc-overall">
+							Norton 360 Deluxe &ndash; Best antivirus for PC overall						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Norton 360 Deluxe - Best antivirus for PC overall" class="product-chart-item__image" height="864" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/norton.png" width="1536" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Many extra features					</li> 
+										<li> 
+					Very good protection					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Performance impact was surprisingly higher this time around					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://software.pcworld.com/p37061-norton_360_deluxe_2022_3-d_1-yr" rel="nofollow" target="_blank">$19.99 at  PCWorld Software Store</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Norton Security Premium is no more, but our pick for best AV has stayed in the family, with Norton 360 Deluxe.&nbsp;There aren&rsquo;t a lot of fundamental changes to the suite compared to previous iterations, which also means its just as solid. The pricing now covers fewer devices, a total of five, but you get a good number of extra features such as Dark Web Monitoring and VPN access, making for an overall excellent value. &nbsp; </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/393283/norton-360-deluxe-antivirus-review.html" target="_blank">
+						Norton 360 Deluxe review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="avast-one-best-overall-runner-up">
+							Avast One &ndash; Best overall runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Avast One - Best overall runner-up" class="product-chart-item__image" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2022/03/AvastLogo-2.png" width="1200" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Good new design					</li> 
+										<li> 
+					Well priced					</li> 
+										<li> 
+					Excellent performance					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Smart scan requires too much user intervention					</li> 
+										<li> 
+					Avast asks to install Google Chrome					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>Avast really upped its game with this top-tier product. The Avast One suite offers an improved design, excellent performance, and even more features to help offset its premium price. The individual plan covers five devices.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/548703/avast-one-review-its-new-well-priced-and-looks-good.html" target="_blank">
+						Avast One review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="avg-internet-security-best-budget-antivirus-suite">
+							AVG Internet Security &ndash; Best budget antivirus suite						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="AVG Internet Security - Best budget antivirus suite" class="product-chart-item__image" height="1400" src="https://images.idgesg.net/images/article/2017/09/avg-internet-security-2016-digital-boxshot-download-1000x1400-100736374-orig.jpg?quality=50&amp;strip=all" width="1000" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Highly-rated antivirus protection					</li> 
+										<li> 
+					Vastly improved interface					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Some PCs may see a performance impact during heavy workloads					</li> 
+										<li> 
+					Network Inspector is a little rudimentary					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://software.pcworld.com/p37020-avg_internet_security_2022_10-d_1-yr" rel="nofollow" target="_blank">$18.99 at  PCWorld Software Store</a><a class="product-chart-item__pricing-details--link" href="https://www.kqzyfj.com/click-8200811-14358821?sid=2-2-407277-6-390253-11625" rel="nofollow" target="_blank">$59.99 at  AVG</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>AVG Internet Security does an excellent job of protecting your PC, even if its interface could stand a polish. Nevertheless, with unlimited installs for $70 per year, it&rsquo;s hard to beat this popular security solution when it comes to value.  </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/407275/avg-internet-security-review.html" target="_blank">
+						AVG Internet Security review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="trend-micro-maximum-security-best-antivirus-for-beginners">
+							Trend Micro Maximum Security &ndash; Best antivirus for beginners						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Trend Micro Maximum Security - Best antivirus for beginners" class="product-chart-item__image" height="834" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/trend-micro-max-security.png" width="1200" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Mute Mode is an excellent feature for power users					</li> 
+										<li> 
+					PC Health Checkup helps clean-up your PC					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Some of the privacy features didn&rsquo;t work reliably					</li> 
+										<li> 
+					Data theft prevention not as robust as it could be					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="http://www.anrdoezrs.net/links/8200811/type/dlg/sid/2-2-407277-6-391834-10131/https://www.jdoqocy.com/click-8200811-11554133?url=https%3A%2F%2Fwww.trendmicro.com%2Fen_us%2FforHome%2Fproducts%2Fmaximum-security.html%3FPID%3D100098975" rel="nofollow" target="_blank">$49.95 at  Trend Micro</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Many antivirus suites create an interface that&rsquo;s as simple as possible for users to understand&mdash;but sometimes the software becomes <em>too</em>&nbsp;stripped down. That&rsquo;s why our recommendation for novices is Trend Micro Maximum Security.</p>
+
+<p>This antivirus suite, which provides highly rated protection, strikes a nice balance between complexity and simplicity: Four category icons at the top let you dive deeper into the suite, but if all you need to do is a scan, that option is right there in the center of interface. You can&rsquo;t miss it.&nbsp;</p>
+
+<p>Overall, no matter what you need to get done in Maximum Security, the interface doesn&rsquo;t leave you with any guesswork.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/402063/trend-micro-maximum-security-antivirus-review.html" target="_blank">
+						Trend Micro Maximum Security review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="mcafee-total-protection-best-for-privacy">
+							McAfee Total Protection &ndash; Best for privacy						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="McAfee Total Protection - Best for privacy" class="product-chart-item__image" height="450" src="https://images.idgesg.net/images/article/2017/09/mcafeelogo-100737049-orig.jpg?quality=50&amp;strip=all" width="700" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Good protection					</li> 
+										<li> 
+					Nice features like file shredder and home network analyzer					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Mixed impact on performance					</li> 
+										<li> 
+					New app design is a little scattered					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://mcafee-consumer-affiliate.evyy.net/c/321564/176355/3165&amp;xcust=2-2-407277-6-390434-10157&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$89.99 at  McAfee</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>With its latest version, McAfee puts an emphasis on identity and privacy. While still offering its trademark malware protection, features like Identity Protection Service and a VPN for obscuring your online tracks, as well as app update checker address today&rsquo;s added concerns.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/407405/mcafee-total-protection-review.html" target="_blank">
+						McAfee Total Protection review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="panda-dome-complete-most-feature-rich-offering">
+							Panda Dome Complete &ndash; Most feature-rich offering						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Panda Dome Complete - Most feature-rich offering" class="product-chart-item__image" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2022/03/PandaDomeHero1.png" width="1200" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very easy-to-understand mobile-like interface					</li> 
+										<li> 
+					Contains some basic smart home network monitoring					</li> 
+										<li> 
+					Month-to-month pricing option					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Good performance results but currently limited in third-party testing					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.pandasecurity.com/usa/homeusers/&amp;xcust=2-2-407277-6-391932-10505&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$30.10 at  Panda Security </a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>All of the deluxe antivirus suites offer extra tools as part of their package, but if we had to pick one that stands out in this respect, it&rsquo;d be Panda Dome Complete. It has the usual PC maintenance utilities such as a disk defragmenter for hard drives and a startup apps manager. But it also has a VPN, Wi-Fi network scanning, a process monitor, a virtual keyboard, an application control feature, and more.</p>
+
+<p>It also makes it very easy to find everything since it uses a tiled interface on a single screen, and the protection is good too. Granted, you&rsquo;ll pay more for Panda Dome Complete than some other worthwhile AV programs, but it offers lots of value for power users.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/402196/panda-dome-antivirus-review.html" target="_blank">
+						Panda Dome Complete review 					</a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="windows-security-best-free-antivirus">
+							Windows Security &ndash; Best free antivirus						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Windows Security - Best free antivirus" class="product-chart-item__image" height="800" src="https://images.idgesg.net/images/article/2019/11/windowsdefenderbig-100819059-orig.jpg?quality=50&amp;strip=all" width="1280" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Built into Windows 10 and 11					</li> 
+										<li> 
+					Settings are easy to review and customize					</li> 
+										<li> 
+					Integrates with other security aspects of Windows					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Tends toward false positives, especially with SmartScreen					</li> 
+										<li> 
+					Lacks the advanced features found in third-party products					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+										<div class="product-content">
+						
+<p>If Windows is already working, why add anything else? If its built-in security suite, Windows Security, performs on par with the best of the free AV options&mdash;as we discovered in our&nbsp;<a href="https://www.pcworld.com/article/3518990/best-free-antivirus.html">roundup of the best free antivirus</a>&mdash;why add the extra baggage of a third-party program? Sure other AV programs might offer marginally better protection, but not enough to outweigh the convenience of rolling with Microsoft&rsquo;s home-grown offering. Windows Security also has ransomware protection, which many free options don&rsquo;t. Plus, you avoid the nuisance of a third-party suite&rsquo;s regular upgrade notifications. To learn more, see our video on <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?v=F88OW2bKYFg&amp;feature=emb_logo&amp;ab_channel=PCWorld&amp;xcust=2-2-407277-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">How to use Windows Security</a>.</p>
+
+<p>However, if you&rsquo;re looking for more features, such as online privacy tools, a VPN, or encrypted cloud backup, you may want to use a third-party program instead as these are not currently available in Windows Security. Nonetheless, it&rsquo;s a free program that already comes pre-installed in most Windows machines and it does a good job of keeping you protected from most threats.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/398361/windows-security-av-review.html" target="_blank">
+						Windows Security review 					</a>
+								</div>
+					</div>
+
+		
+
+
+<h2 class="wp-block-heading" id="what-to-look-for-in-an-antivirus-suite">What to look for in an antivirus suite</h2>
+
+
+
+<p>There are three basic requirements that an antivirus suite needs:</p>
+
+
+
+<ul>
+<li>High detection rate for malware and other threats</li>
+
+
+
+<li>Low impact on system resources</li>
+
+
+
+<li>An easy-to-use interface</li>
+</ul>
+
+
+
+<p>That&rsquo;s not all to consider, however. These days, many security suites come with extras such as a backup service for your most essential files, Android apps for mobile security, a more advanced firewall, family protection (read: child restriction) features, and the right to use the program on multiple PCs. Whether you need those extras depends on your personal situation.</p>
+
+
+
+<h2 class="wp-block-heading" id="how-we-test">How we test</h2>
+
+
+
+<p>First, we take a look at the interface to determine how easy or complicated it is.&nbsp;Does the interface make it easy to get at essential tools like PC scans and password managers, for example, or is everything buried under multiple clicks? Are there elements that look like they should be clickable but aren&rsquo;t?&nbsp;Are alerts interactive or purely informational, and does that make sense in context?</p>
+
+
+
+<p>We also examine&nbsp;the features on offer.&nbsp;Every good antivirus&nbsp;suite should have the basics like scanning and real-time protection, but many vendors offer&nbsp;elements that go beyond basic security like password managers or firewalls. We try to discern whether any of these extra features are particularly useful, or just frills that look nice but don&rsquo;t serve a practical purpose.</p>
+
+
+
+<p>To test the suite&rsquo;s demand on system resources, we run two benchmarks. The first is PCMark 8&rsquo;s Work Conventional test, which simulates a variety of workloads including editing spreadsheets, browsing the web, and running video chat.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined">
+<figure class="wp-block-image large"><a class="zoom" href="https://images.idgesg.net/images/article/2017/10/pcm8wc_screencap-100737906-orig.jpg" rel="nofollow"><img alt="PCMark 8 Work Conventional Screenshot" src="https://images.idgesg.net/images/article/2017/10/pcm8wc_screencap-100737906-large.jpg" /></a></figure>
+</div>
+
+
+<p>We run the benchmark before the security suite is installed. Then we install the software, have it run a full scan on our Windows 10 test machine, and start a second run of the benchmark at the&nbsp;same time. Then we compare the overall scores to see if the decline between the two benchmarks is significant.</p>
+
+
+
+<p>As a harsher stress test, we also use Handbrake to transcode a video before and after installing the A/V. On most home PCs, this encoding task utilizes 100 percent of the CPU. We then compare transcoding times to see if there&rsquo;s any significant decline.</p>
+
+
+
+<p>Our test machine is an Acer Aspire E15 with an Intel Core i3-7100U, 4GB RAM, and a 1TB hard drive. Each security suite is tested on a clean install of Windows 10 Home.</p>
+
+
+
+<p>As for the antivirus suite&rsquo;s detection capabilities, we&rsquo;ll rely on the opinions of security researchers dedicated to this task. We&rsquo;ll take into consideration reports from outlets such as A-V Comparatives, A-V Test and SE Labs.&nbsp;</p>
+
+
+
+<p>We&rsquo;ll also take pricing into account and what you get for it.&nbsp;</p>
+
+
+
+<p>Whenever possible we&rsquo;ll review security suites using a free trial to get a sense of what consumers see when they first try out a new product.</p>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" />
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 class="wp-block-heading" id="will-antivirus-software-slow-down-my-computer">Will antivirus software slow down my computer?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The short answer is maybe, but probably not. Antivirus software scans files and programs to ensure there is no malware or other harmful threat present. The longer the time frame between each scan, the more files the program will need to check. These intensive scans may have some noticeable effect on your computer speed. It&rsquo;s therefore recommended that you schedule your scans to run more frequently or even at night so as to not impact your computer usage.</p>
+
+
+
+<p>While antivirus software can affect the speed of your computer, it is most likely not the only factor&mdash;or even the most prominent. Other factors such as unnecessary startup and background programs, insufficient RAM, or even undiagnosed malware can have more drastic effects on your computer speed than a simple antivirus scan.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 class="wp-block-heading" id="should-you-pay-for-antivirus">Should you pay for antivirus?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>It really comes down to what features are most important to you in an antivirus software. Do you just need a program that will scan, detect, and remove malware? Then go with a free version. But if you are looking for more advanced features such as the ability to block webcam hacking, run suspicious apps in a sandbox environment, and permanently delete sensitive files, then you should seriously consider upgrading to a paid premium antivirus service.&nbsp;</p>
+
+
+
+<p>Overall, premium antivirus software is better suited to more complete coverage against threats&mdash;especially for inexperienced users. Children and seniors are particularly vulnerable to modern threats and therefore paid antivirus apps, which allow for multiple-device protection, may be a better option for families.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 class="wp-block-heading" id="what-should-i-do-if-my-antivirus-detects-a-threat">What should I do if my antivirus detects a threat?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>In a perfect world, your antivirus software will halt and clean the infected files for you. However, this largely depends on which antivirus program you are using.</p>
+
+
+
+<p>In general, the antivirus will send a warning to you and try to quarantine the infected file in order to keep it from spreading. Once isolated, the software will give you the option to try to remove the infection or delete the file altogether.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">4.</span>
+<h3 class="wp-block-heading" id="what-is-the-difference-between-a-full-scan-and-a-quick-scan">What is the difference between a full scan and a quick scan?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>A full scan performs a comprehensive and thorough check of your whole system. It usually checks your system memory, startup programs, system backup, email databases, hard drives, and any removable storage drives.</p>
+
+
+
+<p>A quick scan only checks a few areas including startup programs, system memory, and boot sectors. It may not detect all malware, but it can usually give you an idea if your computer has a virus.</p>
+
+
+
+<p>As to when you should do either, we recommend a full scan once per week, during computer usage downtime (such as late at night). A quick scan can be done anytime you like; however, it is usually only necessary if you notice suspicious activity on your PC.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">5.</span>
+<h3 class="wp-block-heading" id="do-i-need-to-update-my-antivirus-software">Do I need to update my antivirus software?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Absolutely! Keeping your antivirus software up-to-date is crucial in helping you to avoid the most recent threats.</p>
+
+
+
+<p>That being said, most antivirus software today&mdash;whether free or paid&mdash;will default to automatic updates. This way you don&rsquo;t need to worry about manually updating your software. It may still be worth checking to confirm that your antivirus is running the most up-to-date version from time to time.</p>
+</div>
+</div></div>
+</div>
+
+
+
+Business, Desktop PCs, Professional Software, Security Software and Services, Technology Industry</div>
+
