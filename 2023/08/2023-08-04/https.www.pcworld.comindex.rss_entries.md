@@ -1,0 +1,2922 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## 88% off 12 months of AVG Secure VPN 2023 – just $9.99
+ - [https://www.pcworld.com/article/2020961/88-off-12-months-of-avg-secure-vpn-2023-just-9-99.html](https://www.pcworld.com/article/2020961/88-off-12-months-of-avg-secure-vpn-2023-just-9-99.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T19:41:44+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Privacy is an ever-increasing problem when it comes to accessing the internet. One way to ensure your connection is private is to employ the services of a VPN, and <a href="https://software.pcworld.com/p36561-avg_secure_vpn_2023_10-d_1-yr" rel="noreferrer noopener" target="_blank">AVG Secure VPN</a> can be deployed across all your connected devices &ndash; mobile and desktop &ndash; to keep you safe and private wherever you are.</p>
+
+
+
+<p>Better still, we&rsquo;ve teamed up with AVG to secure you an incredible deal that will give you 12 months&rsquo; VPN protection for up to 10 devices <a href="https://software.pcworld.com/p36561-avg_secure_vpn_2023_10-d_1-yr" rel="noreferrer noopener" target="_blank">for just $9.99</a>.</p>
+
+
+
+<p>What makes AVG Secure VPN stand out from the competition? First, it can be installed across all your devices &ndash; Windows, Mac, Android, and iOS &ndash; and used on up to 10 of them simultaneously, allowing you to cover your entire family&rsquo;s needs.</p>
+
+
+
+<p>Second, you can select servers from over 50 locations, allowing you to mask your true location plus bypass certain geo-restrictions by appearing to be at home while abroad, for example.</p>
+
+
+
+<p>Third, there&rsquo;s an optional kill switch to ensure your connection isn&rsquo;t compromised should you be disconnected for any reason.</p>
+
+
+
+<p>Fourth, AVG Secure VPN uses the latest VPN protocols &ndash; including Wireguard and OpenVPN &ndash; to ensure your connection is as fast, secure and stable as it can be, all backed up by industry standard 256-bit AES encryption.</p>
+
+
+
+<p>Finally, AVG Secure VPN is incredibly easy to use. Once installed and set up, simply flick the VPN switch to On to immediately encrypt your connection through the fastest available server, or click the Change button to select your country and &ndash; if applicable &ndash; specific server within that country. There are 16 US locations, plus 2-3 locations in Spain, the UK, Canada, Germany, and Australia. You&rsquo;ll also see recommendations for countries where anonymous peer-to-peer transfers can be conducted without attracting any attention.</p>
+
+
+
+<p>Ordinarily, AVG Secure VPN would set you back $79.99 a year for this comprehensive protection, but we&rsquo;ve secured a great deal, so you only have to <a href="https://software.pcworld.com/p36561-avg_secure_vpn_2023_10-d_1-yr" rel="noreferrer noopener" target="_blank">pay $9.99 for a 12-month, 10-device subscription</a>, saving you 88% on the MSRP.</p>
+
+
+
+<p><strong>How to protect your family</strong><br />Start by downloading and installing AVG Secure VPN on your Windows PC and/or Mac &ndash; you can also download it through the Android and iOS app stores. Once installed, purchase your license, then open the app, log into your AVG account (or set up a free one when prompted), then either click &lsquo;Enter activation code&rsquo; from the sign-in screen or access the option from the menu screen to input the code you received after purchase</p>
+
+VPN</div>
+
+## Google now alerts you if your contact info appears online
+ - [https://www.pcworld.com/article/2020950/google-now-alerts-you-if-your-contact-info-appears-online.html](https://www.pcworld.com/article/2020950/google-now-alerts-you-if-your-contact-info-appears-online.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T19:41:13+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Back in September, Google launched a way to remove search results showing personal contact info&mdash;details like your home address, phone number, and email address. You could make the request<strong> </strong>from any method of accessing Google search, then monitor the status of your request(s) from its new Results About You tool. But you still had to stay on top of search results about you. Now the company has rolled out some updates to the tool to alleviate some of that work (and stress)&mdash;as well as introducing a further way to protect your privacy online.</p>
+
+
+
+<p>Promised to arrive in &ldquo;the coming days,&rdquo; the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blog.google/products/search/new-privacy-tools/&amp;xcust=2-1-2020950-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Results About You&rsquo;s new dashboard</a> will both show you existing search results containing your contact info and also automatically alert you if those personal details again pop up later on. You&rsquo;ll still need to manually submit removal requests, however. And as noted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.bleepingcomputer.com/news/google/google-makes-it-easier-to-remove-your-info-explicit-images-from-search/&amp;xcust=2-1-2020950-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Bleeping Computer</a>, the company will still screen requests to make sure it doesn&rsquo;t take down results tied to information that is &ldquo;broadly useful,&rdquo; like in news articles.</p>
+
+
+
+<p>You can access the Results About You tool in the Google app by clicking on your Google account photo and choosing &ldquo;Results about you.&rdquo; Alternatively, you can visit <em>goo.gle/resultsaboutyou</em>. This update will only be available in English and within the U.S. to start, but other languages and locations are &ldquo;soon&rdquo; to follow.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage center"><figure class="wp-block-image aligncenter size-full is-resized"><img alt="Results about you animated gif " class="wp-image-2020958" height="435" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/Results_about_you.gif" width="275" /></figure><p class="imageCredit">Google</p></div>
+
+
+
+<p>Non-consensual explicit imagery is also becoming easier to remove from search. Google says it&rsquo;s streamlined <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://support.google.com/websearch/answer/6302812?sjid=4513421796172596113-NA&amp;xcust=2-1-2020950-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">the process for making such requests</a>, though as part of the announcement, VP of Trust Danielle Romain stressed that the policy still does not extend to commercialized images. (Though presumably, the redistribution of such material would fall under copyright protection if you created the content.)</p>
+
+
+
+<p>Google also will begin handling explicit images in a different manner&mdash;by default, these images will be blurred if they come up in search results. The company says this change, which will launch in August, is to help protect families from &ldquo;accidentally encountering&rdquo; adult or graphic violent images while searching online. Parental controls can now be directly found by typing in a search like &ldquo;google parental controls&rdquo; or &ldquo;google family link&rdquo; into the search box, too.</p>
+
+
+
+<p>As before, removing search results linking to explicit material&mdash;or your personal contact info&mdash;doesn&rsquo;t actually take it off the web. Removal of the search info does limit how easily it&rsquo;s found, however.</p>
+
+Online Services</div>
+
+## Linux overtakes Macs on Steam thanks to the Steam Deck
+ - [https://www.pcworld.com/article/2020796/linux-overtakes-mac-os-among-steam-players.html](https://www.pcworld.com/article/2020796/linux-overtakes-mac-os-among-steam-players.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T17:07:52+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>No, Macs have never been a serious gamer&rsquo;s first choice. But when even Linux-based systems are climbing past Apple&rsquo;s computers on Steam&rsquo;s hardware list, you start to wonder.</p>
+
+
+
+<p>Steam&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/hwsurvey/&amp;xcust=2-1-2020796-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">monthly hardware report</a> shows that more gamers are using Linux devices than Apple Macs, to the tune of 1.96 versus 1.84 percent (the vast majority of course run Windows PCs). The explanation? Probably Valve&rsquo;s own <a href="https://www.pcworld.com/article/1501480/master-your-steam-deck-with-these-22-tips-and-tricks.html">Steam Deck gaming handheld</a>. The breakout device runs on Valve&rsquo;s custom Linux-based Steam OS and intensely marketed (and praised) over the past year.</p>
+
+
+
+<p>Perhaps we shouldn&rsquo;t make too much of these tiny overall numbers, but it&rsquo;s not an understatement to say that Apple has a long way to go when it comes to gaming. Even though Apple&rsquo;s home-grown M1 and M2 chips offer decent gaming performance, the company needs to speed up the number of games released for Mac OS if it wants to make some serious inroads with gamers. Until then, there&rsquo;s always <a href="https://www.pcworld.com/article/630335/geforce-now-review.html">Nvidia&rsquo;s GeForce Now streaming service</a>.</p>
+
+
+
+<p><strong>Further Steam Deck reading</strong></p>
+
+
+
+<ul>
+<li><a href="https://www.pcworld.com/article/394895/what-is-valve-proton-steam-deck-games-software-explained.html">What is Valve Proton? The Steam Deck&rsquo;s live-or-die Linux software, explained</a></li>
+
+
+
+<li><a href="https://www.pcworld.com/article/1501480/master-your-steam-deck-with-these-22-tips-and-tricks.html">Master your Steam Deck with these 22 tips and tricks</a></li>
+
+
+
+<li><a href="https://www.pcworld.com/article/1981383/how-to-use-steam-deck-as-a-desktop-pc.html">How to use Steam Deck as a desktop PC</a></li>
+</ul>
+
+
+
+<p><em>This story was translated from Swedish to English, and originally appeared on m3.se.</em></p>
+
+Gaming</div>
+
+## Video and Audio Downloader Pro 2 review: Save YouTube videos and more
+ - [https://www.pcworld.com/article/2012328/review-video-and-audio-downloader-pro-2.html](https://www.pcworld.com/article/2012328/review-video-and-audio-downloader-pro-2.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T16:46:51+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Resolutions up to 8K possible, direct extraction of MP3 files</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>No downloading of videos behind paywalls</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Video and Audio Downloader Pro 2 is easy to use and useful, especially for users of public service media libraries.</p>
+</div><h3 class="review-price" id="price-when-reviewed">Price When Reviewed</h3><p>19,99 Euro</p>
+
+
+<p>Watching videos offline has evolved from the rule to the exception in recent years. But there are a number of scenarios where it makes sense to download videos for later viewing. If you want to watch a video on the train or bus, for example, or if films threaten to disappear from a media library. The <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Video-Audio-Downloader-software-YouTube/dp/B0C46GX5J4?ascsubtag=2-1-2012328-1-0-0" rel="nofollow">$19.99 Video and Audio Downloader Pro 2 software</a> was made for just those cases.</p>
+
+
+
+<p>The software can download audio and videos not just from YouTube, but also from all public media libraries and save them on your local storage. In our testing, this worked smoothly even while downloading several videos simultaneously, and even with 8K resolution videos. </p>
+
+
+
+<p>Downloading media is not possible if the videos are behind a paywall, however; Video and Audio Downloader Pro 2 cannot download Netflix or Disney Plus videos, for example. This is also explained in the documentation.</p>
+
+
+
+<p>Downloading playlists from YouTube is a new function in version 2 of the software and worked without any problems in our testing. </p>
+
+
+
+<p>Operating the software couldn&rsquo;t be any simpler. You simply surf to a video (or playlist) in your browser, copy the link from its address bar, and paste it into the input field of the software.</p>
+
+
+
+<h2 class="wp-block-heading" id="conclusion">Conclusion</h2>
+
+
+
+<p><a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Video-Audio-Downloader-software-YouTube/dp/B0C46GX5J4?ascsubtag=2-1-2012328-1-0-0" rel="nofollow">Video and Audio Downloader Pro 2</a> offers a simple download option for free streaming videos that are not behind a paywall.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Video-Audio-Downloader-software-YouTube/dp/B0C46GX5J4?ascsubtag=2-1-2012328-7-0-0" rel="nofollow" target="_blank">Get Video and Audio Downloader Pro 2 at Amazon for $19.99</a></p>
+Personal Software</div>
+
+## Best budget gaming mice 2023: Top performers, best for esports, and more
+ - [https://www.pcworld.com/article/917138/best-budget-gaming-mice.html](https://www.pcworld.com/article/917138/best-budget-gaming-mice.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T16:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When your K/D tally is at stake it&rsquo;s pretty tempting to buy a premium gaming mouse with all the latest bells and whistles. But that can be a costly move that can see you paying upwards of $150 USD&mdash;that&rsquo;s coin that could go towards a brand-new processor instead.</p>
+
+
+
+<p>The truth is you won&rsquo;t lose much performance going for a cheaper option. In fact, you can get a top-performing mouse that&mdash;barring the sensor, which is usually more modest than in premium devices&mdash;is virtually identical in build quality and styling and with equally quick buttons.</p>
+
+
+
+<p>That&rsquo;s not to say all budget gaming mice are alike. Admittedly, at the lower end of the market there tends to be more variation in the build quality, weight, and button configuration than at the top end, so you&rsquo;ll still want to do your homework before you buy.</p>
+
+
+
+<p>Or, you could just peruse our list of best budget gaming mice (below). We&rsquo;ve already done the research on your behalf by extensively testing a cohort of mice, sorting the wheat from the chaff, so that what&rsquo;s left is the best of the best. We&rsquo;ll keep updating our chart as we review more mice and find even better products. </p>
+
+
+
+<p>For the criteria we use to review budget gaming mice and some useful buying advice, read our postscript explainer below. For even more options, see our complete roundup of the <a href="https://www.pcworld.com/article/452384/best-gaming-mice.html">best gaming mice</a>, featuring both wired and wireless picks at various prices points.</p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="logitech-g502x-best-wired-budget-gaming-mouse-best-overall">
+							Logitech G502X &ndash; Best wired budget gaming mouse / Best overall						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Logitech G502X - Best wired budget gaming mouse / Best overall" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/Lead.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The 25K Hero sensor is very proficient event at high DPI settings					</li> 
+										<li> 
+					The button are extremely well placed for accessibility					</li> 
+										<li> 
+					The rubber thumb rest provides plenty of grip					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Not including swappable trigger buttons seems like a missed opportunity					</li> 
+										<li> 
+					There's no RGB lighting except a small DPI indicator light					</li> 
+										<li> 
+					The mouse wheel is quite noisy					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.logitechg.com/en-us/products/gaming-mice/g502-x-wired-lightforce.910-006144.html&amp;xcust=2-1-917138-6-1666961-17250&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$69.99 at  Logitech G</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The G502X sports a number of nice upgrades over its predecessor the G502&mdash;which in its own right was a big hit with gamers&mdash;including a super-quick and accurate 25,600 DPI sensor. But what really sets this mouse apart is its button configuration&mdash;which is near perfect. It features 13 programmable button options in all, including highly sought-after DPI up/down buttons and a four-button mouse wheel. But the gem in its crown is a trigger button near your thumb, which makes letting off that must-hit command or macro just that much quicker in fast-paced games. </p>
+
+<p>On top of that, the G502X sports a refreshed design that makes it eminently more comfortable and easier to move. I especially like a new, improved rubber thumb grip that replaces the plastic one from the G502, and the mouse&rsquo;s longer dimensions that make it a much better fit for large hands.  </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1666963/logitech-g502x-mouse-review.html" target="_blank">
+						Logitech G502X review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="roccat-kone-pro-best-wired-budget-gaming-mouse-runner-up">
+							Roccat Kone Pro &ndash; Best wired budget gaming mouse runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Roccat Kone Pro - Best wired budget gaming mouse runner-up" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/lead-image-1.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The 19,000 DPI sensor is very precise, and the buttons are quick and clicky					</li> 
+										<li> 
+					An ingenious design elevates your index finger ready to fire					</li> 
+										<li> 
+					A lightweight body adds to its speed and precision and prevents fatigue					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					No dedicated DPI button means you can't as easily switch DPI settings					</li> 
+										<li> 
+					Wired connectivity only, so you'll need to plug it in to play					</li> 
+										<li> 
+					The mouse wheel lacks lateral left / right clicks					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.roccat.com/products/kone-pro&amp;xcust=2-1-917138-6-1434528-14628&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$39.99 at  ROCCAT</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The wired Roccat Kone Pro is designed for precise targeting thanks to its lightweight design and formidable 19,000 Owl-Eye DPI sensor, which in our playtesting proved an excellent performer in fast-paced FPS games. Clicks are also extremely quick thanks to Titan optical switches in the buttons and a slight left-to-right slant on top that perfectly poises your index finger on the left main button ready to fire.</p>
+
+<p>A thin plastic outer layer keeps the Kone Pro&rsquo;s weight down to just 66 grams, so that it glides across your mouse mat smoothly and with minimal effort. While the Kone Pro doesn&rsquo;t have a dedicated DPI button, you can still change DPI on the fly in games by assigning this function to one of its other buttons in the supporting Roccat Swarm software app.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1434534/roccat-kone-pro-gaming-mouse-review.html" target="_blank">
+						ROCCAT Kone Pro review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="keychron-m3-best-wireless-gaming-mouse">
+							Keychron M3 &ndash; Best wireless gaming mouse						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Keychron M3 - Best wireless gaming mouse" class="product-chart-item__image" height="960" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/thumbnail_20230228_144718.jpg?quality=50&amp;strip=all" width="1280" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very fast and precise 26,000 DPI sensor					</li> 
+										<li> 
+					Well-proportioned and very comfortable					</li> 
+										<li> 
+					The quickest buttons I've ever used					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					It would have been more convenient for the DPI button to be placed where the RGB button currently sits					</li> 
+										<li> 
+					Mac users will have to wait on the software app					</li> 
+										<li> 
+					The M3 is currently only sold through Keychron's online retailer					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.keychron.com/products/keychron-m3-wireless-mouse&amp;xcust=2-1-917138-6-1525654-17202&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$49 at  Keychron</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>With a flawless 26,000 DPI sensor, a timeless and comfortable design, responsive buttons and swish RGB lighting, the Keychron M3 is the complete package, worth every bit of its $49 price tag and possibly even a dime more. For a mouse with all three connectivity types&mdash;wired connectivity via a USB cable, 2.4GHz Wi-Fi, and Bluetooth wireless connectivity&mdash;it&rsquo;s also exceptionally light, weighing in at just 79 grams. </p>
+
+<p>All this value would have come to nada without some decent performance, which is just what the M3 Keychron delivered in our playtesting. From spinning around to catch foes from behind, to zipping up our cursor to flush out snipers dug into camping spots, the Keychron M3 handled every movement smoothly and without a hint of lag. It also came bundled with a few extras in the box, including not one but two separate dongles (one for USB-A and another for USB-C) so that we could connect up to just about all our devices. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1525656/keychron-m3-gaming-mouse.html" target="_blank">
+						Keychron M3 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="hyperx-pulsefire-haste-2-wireless-best-for-esports">
+							HyperX Pulsefire Haste 2 Wireless &ndash; Best for esports						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="HyperX Pulsefire Haste 2 Wireless - Best for esports" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Lead.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The solid top back is comfortable and stylish					</li> 
+										<li> 
+					Its 26,000 DPI sensor can target at lightning speeds					</li> 
+										<li> 
+					Bluetooth functionality makes it one of the most versatile esports mice you can get					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The compact buttons can feel a bit cramped at times					</li> 
+										<li> 
+					There's just the one RGB zone to play with					</li> 
+										<li> 
+					It's more expensive than its predecessor					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://hyperx.com/collections/gaming-mice/products/hyperx-pulsefire-haste-2-wireless-gaming-mouse?variant=43416225153181&amp;xcust=2-1-917138-6-1987745-15520&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$89.99 at  HyperX</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The 6-button HyperX Pulsefire Haste 2&rsquo;s symmetrical design and 26,000 DPI sensor give it laser-like pinpoint precision in games, a fact which in itself doesn&rsquo;t make it anything special. What sets it apart is that it weighs just 61 grams&mdash;that&rsquo;s a few grams less than more expensive pro-grade esports mice like the Razer DeathAdder V3 Pro and Logitech G X Pro Superlight. Suffice to say it&rsquo;s super quick off the mark. </p>
+
+<p>Achieving such a lightweight design is quite an extraordinary feat by HyperX for two reasons: The Pulsefire Haste 2 has a hard top back rather than the perforated one we saw in its predecessor the Haste 1, which also means it&rsquo;s better suited to claw grippers. It also sports Bluetooth as well as 2.4GHz Wi-Fi connectivity, the extra Bluetooth functionality being still a rarity among pro-grade esports mice. All these factors make it one of the best value esports mice you can buy right now. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1987896/hyperx-pulsefire-haste-2-wireless-review.html" target="_blank">
+						HyperX Pulsefire Haste 2 Wireless review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="hyperx-pulsefire-haste-wireless-best-for-esports-runner-up">
+							HyperX Pulsefire Haste Wireless &ndash; Best for esports runner-up 						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="HyperX Pulsefire Haste Wireless - Best for esports runner-up " class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/06/HyperX.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Weighs just 61 grams					</li> 
+										<li> 
+					Has a highly accurate sensor					</li> 
+										<li> 
+					Design is comfortable and aids performance					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Lacks Bluetooth					</li> 
+										<li> 
+					Button configuration is dull					</li> 
+										<li> 
+					Has only one RGB lighting zone					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6500796&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6500796%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-917138-6-792408-15520" rel="nofollow" target="_blank">$59.99 at  Best Buy</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://hyperx.com/products/hyperx-pulsefire-haste-wireless?variant=42010625638557&amp;xcust=2-1-917138-6-792408-15520&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$59.99 at  HyperX</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p><span>The HyperX Pulsefire Haste Wireless is built on the back of its wired counterpart&rsquo;s esports pedigree so it&rsquo;s ideal for competitive gaming, but with the bonus of being tether-free and portable. It sports an efficient six-button, ambidextrous design and powerful 16,000 DPI sensor. In our review we found the Pulsefire Haste Wireless&rsquo;s sensor suitable for first-person shooters where it proved highly accurate for crosshair aiming when the DPI setting was set to low.</span> </p>
+
+<p><span>The Pulsefire Haste Wireless is also exceptionally stylish, with internal RGB lighting that lights up its futuristic honeycomb body like a firecracker. The perforated back also provides plenty of airflow, keeping your hand cool even during long gaming sessions.</span> </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/792405/hyperx-pulsefire-haste-wireless-gaming-mouse-review.html" target="_blank">
+						HyperX Pulsefire Haste Wireless review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="logitech-g203-lightsync-best-ultra-budget-gaming-mouse">
+							Logitech G203 LightSync &ndash; Best ultra-budget gaming mouse						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Logitech G203 LightSync - Best ultra-budget gaming mouse" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/20220805_080455.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					A comfortable design that resembles more expensive esports mice					</li> 
+										<li> 
+					Sturdy and well-built					</li> 
+										<li> 
+					The RGB lighting really pops					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Some sensor lag was experienced with large, fast movements					</li> 
+										<li> 
+					The sensor's lift-off distance is higher than some mice					</li> 
+										<li> 
+					The RGB logo on the top isn't customizable					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6420867&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6420867%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-917138-6-827657-10006" rel="nofollow" target="_blank">$29.99 at  Best Buy</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The G203 proves gaming on a budget needn&rsquo;t be glum, combining style, performance, and comfort for a shoestring price. This wired mouse sports a small ambidextrous body and familiar six-button configuration that resembles premium esports mice, except it has a more rounded back end that gives palm grippers a high level of precision.</p>
+
+<p>In terms of hardware performance, the G203&rsquo;s buttons feel quick and clicky. Its 8,000 DPI proprietary gaming sensor may not be as quick as some rival sensors, but it&rsquo;s still highly accurate and performs decently in just about every casual gaming scenario.</p>
+
+<p>In our review, we heaped praise on the G203 for its dazzling RGB lighting band and Logitech logo that light up your mouse pad with pops of color, the band of which also splits into three lighting zones customizable in the Logitech G Hub app.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/827659/logitech-g203-lightsync-gaming-mouse-review.html" target="_blank">
+						Logitech G203 LightSync review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-deathadder-v2-x-hyperspeed-best-dual-purpose-budget-mouse-for-gaming-and-productivity">
+							Razer DeathAdder V2 X Hyperspeed &ndash; Best dual-purpose budget mouse for gaming and productivity						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer DeathAdder V2 X Hyperspeed - Best dual-purpose budget mouse for gaming and productivity" class="product-chart-item__image" height="2442" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/Razer-DeathAdder-V2-X-Hyperspeed-beauty-shot.jpg?quality=50&amp;strip=all" width="3335" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Comfortable, ergonomic design					</li> 
+										<li> 
+					Dual Wi-Fi and Bluetooth connectivity					</li> 
+										<li> 
+					Long battery life					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					No RGB lighting					</li> 
+										<li> 
+					Slightly slower than top-shelf gaming mice					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6482626&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6482626%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-917138-6-632201-10700" rel="nofollow" target="_blank">Not Available at Best Buy</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p><span>A stealthy profile is this wireless mouse&rsquo;s biggest advantage&mdash;it sports an entirely matte-black body with no RGB lighting, meaning your work colleagues will be none the wiser about the gaming power that rests beneath your palm. </span></p>
+
+<p><span>The V2 X Hyperspeed packs a very capable 14,000 DPI sensor that performs a treat in AAA games like </span><em>Metro Exodus</em><span>. Its seven buttons sport Razer second-generation mechanical switches, which Razer says makes them last up to 60 million clicks.</span></p>
+
+<p><span>The V2 X Hyperspeed offers the convenience of dual wireless connectivity, allowing you to switch between 2.4GHz Wi-Fi and Bluetooth with the flick of a button. It&rsquo;s also highly portable thanks to a long battery life, which provides approximately 235 hours in Wi-Fi mode and up to 615 hours in Bluetooth mode on a single AA battery.</span></p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/632192/razer-deathadder-v2-x-hyperspeed-review.html" target="_blank">
+						DeathAdder V2 X Hyperspeed review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="roccat-kone-xp-best-for-mmo-rpg-and-rts-gaming">
+							Roccat Kone XP &ndash; Best for MMO, RPG, and RTS gaming						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Roccat Kone XP - Best for MMO, RPG, and RTS gaming" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/20220818_142046.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Stunning RGB lighting that lights up the whole top section					</li> 
+										<li> 
+					The Owl-Eye sensor is highly accurate and powerful					</li> 
+										<li> 
+					The 15 buttons can be customized with up to 29 functions					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The button layout can be confusing before you get the hang of it					</li> 
+										<li> 
+					Some gamers may not like the bold RGB					</li> 
+										<li> 
+					The supporting Swarm software could do with an update					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p><span>The Kone XP is the flashiest mouse we&rsquo;ve had the pleasure of testing, featuring no less than eight customizable RGB &ldquo;pipelines&rdquo; illuminated by 22 LED lights, yet it&rsquo;s also a solid performer. With an impressive contingent of 15 buttons&mdash;customizable to 29 functions&mdash;the Kone XP is especially suited for MMO, RPG, and RTS games that require players to quickly deploy a high number of commands or macros.</span></p>
+
+<p><span>Under the hood, the Kone XP sports a 19,000 DPI Owl-Eye sensor based on the flawless PixArt PMW3370, which has proven its worth among competitive gamers. </span></p>
+
+<p><span>In our PCWorld review we found it to be precise and accurate in games like </span><em>Cyberpunk 2077</em><span>. We also liked the Kone XP&rsquo;s four-directional scroll wheel, which felt sturdy and responsive.</span></p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/833406/roccat-kone-xp-gaming-mouse-review.html" target="_blank">
+						ROCCAT Kone XP review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-basilisk-v3-most-ergonomic-and-comfortable">
+							Razer Basilisk V3 &ndash; Most ergonomic and comfortable 						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer Basilisk V3 - Most ergonomic and comfortable " class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/20220811_152624.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The Razer Focus + sensor gives faultless performance					</li> 
+										<li> 
+					Scrolling is made simpler with the HyperScroll Tilt Wheel					</li> 
+										<li> 
+					The RGB lighting looks fantastic					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					It's quite heavy and bulky					</li> 
+										<li> 
+					You're limited to wired connectivity only					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+											</div>
+										<div class="product-content">
+						
+<p>Thanks to its extremely comfortable design, this right-handed mouse is a pleasure to use for extended gaming periods. Among the features that make it so comfy are an ergonomic thumb rest that elevates your thumb off the surface you&rsquo;re playing on, two highly tactile injection-molded grips on either side, and 11 well-placed, easy-to-reach buttons. </p>
+
+<p>The Razer Basilisk V3&rsquo;s hardware also performs handsomely. In our review we thought its 24,000 DPI sensor tracked flawlessly, and the buttons, which feature second-generation Razer Optical Switches, responded very quickly. The Basilisk V3 also has one of the best scroll wheels of any budget mouse we&rsquo;ve come across, allowing you to switch between additional scroll modes, including a Free-Spin Mode and Tactile mode with the touch of a button. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/830050/razer-basilisk-v3-gaming-mouse-review.html" target="_blank">
+						Razer Basilisk V3 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+<h2 class="wp-block-heading" id="what-to-look-for-in-a-budget-gaming-mouse">What to look for in a budget gaming mouse</h2>
+
+
+
+<h3 class="wp-block-heading" id="how-much-should-i-spend">How much should I spend?</h3>
+
+
+
+<p>When it comes to what you should pay, there&rsquo;s really no one price that fits every gamer. Although, as a general guide, you shouldn&rsquo;t pay more than $90 for a budget gaming mouse&mdash;that being the absolute maximum cost of the most feature-stacked budget gaming mice you can get.</p>
+
+
+
+<p>Traditional wired gaming mice with six-button configurations tend to be some of the most affordable these days, with excellent value-for-money options like the <a href="https://www.pcworld.com/article/827659/logitech-g203-lightsync-gaming-mouse-review.html">Logitech G203 Lightsync</a>, providing gamers with just about everything they&rsquo;d want for casual gaming for around $25. Expect to pay a little more for a wireless mouse, such as the $50 USD <a href="https://www.pcworld.com/article/1525656/keychron-m3-gaming-mouse.html">Keychron M3 Wireless</a>, whose tetherless design makes it a much more portable device.</p>
+
+
+
+<h3 class="wp-block-heading" id="what-shape-mouse-do-i-need">What shape mouse do I need?</h3>
+
+
+
+<p>Many budget gaming mice share the same design as their premium counterparts, so chances are you may already be familiar with a design you like that feels comfortable. If you&rsquo;re starting from scratch, first off you&rsquo;ll want to find a mouse with a shape that fits your dominant gaming hand. There are three main shapes: left-handed, right-handed, and ambidextrous.</p>
+
+
+
+<p>Left and right-handed mice are just what their names suggest&mdash;mice designed to accommodate left or right hands. These mice come with design characteristics that provide advantages to left- or right-handed users, including curves to follow the contours of their hands and button configurations that can be more easily reached.</p>
+
+
+
+<p>Alternatively, ambidextrous mice are designed to be used by either hand. These mice sport a more neutral shape, which is usually quite symmetrical. Ambidextrous mice are quite often favored by competitive gamers who like the predictable way they move</p>
+
+
+
+<h3 class="wp-block-heading" id="what-size-mouse-is-right-for-me">What size mouse is right for me?</h3>
+
+
+
+<p>Just like a new pair of sneakers, you&rsquo;re going to be spending a lot of time with your gaming mouse, so if it&rsquo;s a lousy fit you&rsquo;re not going to be comfortable and that&rsquo;s going to affect your performance. Mice tend to fit into three main size categories, small, medium, and large. To find a mouse that best fits your hand size you can use this simple size guide: </p>
+
+
+
+<ul>
+<li><strong>Small gaming mouse: </strong>Length: Less than 6.7 inches; width: 2.9 to 3.3 inches </li>
+
+
+
+<li><strong>Medium gaming mouse:</strong> Length: 6.7 to 7.9 inches; width: 3.9 to 4.3 inches </li>
+
+
+
+<li><strong>Large gaming mouse:</strong> Length: 7.9 inches; width; 3.9 to 4.3 inches</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="what-mouse-suits-my-grip-style">What mouse suits my grip style?</h3>
+
+
+
+<p>The way you hold your mouse should fit into one of three main grip styles: a palm grip, claw grip, or fingertip grip. While you can essentially ignore your grip style altogether and play with any gaming mouse you choose, if you&rsquo;re looking to maximize performance, you&rsquo;ll want a mouse that gives you the most control for your grip. Here&rsquo;s a guide for what to look for:</p>
+
+
+
+<ul>
+<li><strong>Palm grip:</strong> Long, flat mice tend to be a better fit and more comfortable</li>
+
+
+
+<li><strong>Claw grip:</strong> Narrower and smaller mice tend to suit this grip style</li>
+
+
+
+<li><strong>Fingertip grip:</strong> Lighter mice are often preferred by fingertip grippers to reduce strain</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="how-many-buttons-do-i-need">How many buttons do I need?</h3>
+
+
+
+<p>Your mouse&rsquo;s button count will limit the number of commands and macros you can apply in-game, and it can also affect the mouse&rsquo;s weight, which can ultimately impact gaming performance.</p>
+
+
+
+<p>Ideally, the number of buttons you need should be informed by the types of games you like to play. For example, if you play a lot of first-person shooters, then keeping your mouse&rsquo;s weight to an absolute minimum with a small button count is of paramount importance. In this case a standard six-button mouse is perfect, providing enough functionality for at least six commands, but optimizing weight for movement and targeting.</p>
+
+
+
+<p>On the other hand, if you predominately play role-playing games (RPGs), or massively multiplayer online games (MMOs), a mouse with from 10 to 18 buttons is preferable since you&rsquo;ll have more options for the myriad commands these games require. These days you can also get mice like the Roccat Kone XP that allow you to customize buttons with extra functions, which greatly increases the number of commands you can deploy.</p>
+
+
+
+<h3 class="wp-block-heading" id="what-dpi-sensor-should-i-look-for">What DPI sensor should I look for?</h3>
+
+
+
+<p>When it comes to performance a lot of emphasis is placed on the DPI (dots per inch) resolution of a gaming mouse&rsquo;s sensor, with manufacturers touting the benefits of top-of-the-line mice with sensors between 20,000 to 30,000 DPI.</p>
+
+
+
+<p>With some exceptions, budget gaming mice tend to have sensors that are much lower in DPI resolution than premium models, which by the same thinking should mean they&rsquo;re a lot less capable. But that&rsquo;s simply not the case. In fact, budget gaming mice with sensors as low as 8,000 to 12,000 DPI can still track movement faster than what the human eye can perceive, and, with the exception of some competitive gaming scenarios, can be just as capable performers.</p>
+
+
+
+<p>The takeaway is, while it doesn&rsquo;t hurt to purchase a mouse with the highest DPI sensor as your budget will allow, you should also place just as much importance on other factors like the mouse&rsquo;s weight and its button configuration, which can be just as important as your mouse&rsquo;s sensor when it comes to performance.</p>
+
+
+
+<h3 class="wp-block-heading" id="how-light-should-my-mouse-be">How light should my mouse be?</h3>
+
+
+
+<p>Weight comes down to personal preference. <span style="font-size: revert; color: initial;">Some gamers (especially those that play FPS games) swear by lightweight mice for quicker movement and aiming and to prevent soreness in long gaming sessions, while others prefer the consistent feeling of a heavier mouse.</span></p>
+
+
+
+<p><span style="font-size: revert; color: initial;">That said, manufacturers continue to make lighter mice each year. This year we&rsquo;ve seen a bucket load of new releases that weigh much less than their predecessors&mdash;some six-button mice are even breaking the previously unheard of 60-gram mark.</span></p>
+
+
+
+<p><span style="font-size: revert; color: initial;">You may find it difficult to find a budget mouse that light, since the lightest mice usually carry the most premium price tags. A more realistic weight is anything below 100 grams, it being kind of an unspoken benchmark for optimal mouse weight among serious gamers.</span> The <a href="https://www.pcworld.com/article/1987896/hyperx-pulsefire-haste-2-wireless-review.html">HyperX Pulsefire Haste 2</a> is one mouse that is extremely lightweight for its $89.99 price tag weighing just 61 grams. </p>
+
+
+
+<h3 class="wp-block-heading" id="whats-the-best-budget-gaming-mice-for-kids">What&rsquo;s the best budget gaming mice for kids?</h3>
+
+
+
+<p>Most kids have smaller hands than adults, so if you have kids, you&rsquo;d be best advised to get a compact gaming mouse like the Razer Viper Mini, Corsair Scimitar Pro, or Logitech G203 Lightsync. </p>
+
+
+
+<p>In addition to moderately sized dimensions, these mice pack gaming-grade sensors and quick switches in their buttons so your kids won&rsquo;t miss out on any performance advantage in games. If you have older teenagers, any medium-sized gaming mouse like the <a href="https://www.pcworld.com/article/1987896/hyperx-pulsefire-haste-2-wireless-review.html">HyperX Pulsefire Haste 2</a> will do just fine, since older teenager&rsquo;s hands tend to be proportionally as big as most adults. </p>
+
+
+
+<h3 class="wp-block-heading"> <strong>    </strong></h3>
+
+Gaming, Mice</div>
+
+## Asus Zenbook 15 OLED (2023) review: Gorgeous, light, and packed with ports
+ - [https://www.pcworld.com/article/2020666/asus-zenbook-15-oled-2023-review-2.html](https://www.pcworld.com/article/2020666/asus-zenbook-15-oled-2023-review-2.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T15:52:15+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Lightweight and compact</li><li>Great OLED display</li><li>Lots of ports, including fast USB4</li><li>Good overall performance</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Mediocre battery life</li><li>Noisy fans</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The  Zenbook 15 OLED is a well-built, attractive laptop with decent performance, an excellent display and good connectivity. It&rsquo;s also reasonably priced, but you&rsquo;ll have to contend with underwhelming battery life.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-asus-zenbook-15-oled-2023">
+			Best Prices Today: Asus Zenbook 15 OLED (2023)		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+		
+		<div class="new_products_tab tabcontent" id="New">
+
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+											<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+
+		<div class="refurbished_products_tab tabcontent" id="Refurbished">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div class="refurbished-drop">
+				<select class="price_comparison_condition" name="priceComparisonCondition">
+					
+				</select>
+				</div>
+			</div>
+
+							<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+					Price comparison from Backmarket						</span>
+									</div>
+		</div>
+		</div>
+		
+
+
+<p>The Asus Zenbook 15 OLED (UM3504) is a powerful laptop that&rsquo;s great for basic office and photo work, watching content, and even a spot of light gaming.&nbsp;</p>
+
+
+
+<p>While it doesn&rsquo;t have dedicated GPU, the USB4 port means that you can connect to an external GPU if you need extra grunt in that department. Asus says the 15in OLED display covers the entire sRGB and DCI-P3 color spaces, so for budding creators looking to get started with content creation, this could be the one.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook 15 OLED laptop, screen on, viewed from the front" class="wp-image-2012708" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-front.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<p>While not a <a href="https://www.pcworld.com/article/699203/the-best-laptops-under-500-best-overall-best-for-oled-fans-and-more.html">budget laptop</a>, the Zenbook 15 OLED isn&rsquo;t priced exorbitantly either. But how does it stack up to the competition?</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Looking for more options? Check out PCWorld&rsquo;s roundup of the&nbsp;<a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">best laptops</a>&nbsp;available today.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading toc" id="design-build">Design &amp; build</h2>
+
+
+
+<ul>
+<li>Thin and light chassis</li>
+
+
+
+<li>Still feels sturdy and durable</li>
+
+
+
+<li>Attractive dark blue finish</li>
+</ul>
+
+
+
+<p>Picking up the Zenbook 15 OLED for the first time, you&rsquo;ll notice how thin it both looks and feels. Thin frame, thin bezel, thin keycaps.&nbsp;</p>
+
+
+
+<p>You would expect a 15in laptop to be a bit unwieldy, but, at 3.1 pounds, the Zenbook 15 OLED is reasonably lightweight. There are less heavy ultrabooks out there &ndash; most of the <a href="https://www.pcworld.com/article/1357810/microsoft-surface-laptop-5-review-for-surface-fans-only.html">Microsoft Surface Laptop 5 variants</a> are a touch lighter at around 2.86 pounds &ndash; but this doesn&rsquo;t feel like it&rsquo;s going to break your back carrying it between meetings.&nbsp;</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Picking up the Zenbook 15 OLED for the first time, you&rsquo;ll notice how thin it both looks and feels</p></blockquote></figure>
+
+
+
+<p>It feels sturdy as well, with hardly any flex anywhere in the chassis. The display does wobble when you tilt it, which is the only thing that spoils the otherwise high-end look and feel.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="The Type-A USB port on the left hand edge of the Asus Zenbook 15 OLED" class="wp-image-2012711" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-left-side-ports.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<p>While this shade of dark blue has been the norm for Asus Zenbooks for a while, in a sea of bland black &lsquo;n silver laptop conformity, it&rsquo;s refreshing to see something a bit different. </p>
+
+
+
+<p>It follows on from the design reboot of last year&rsquo;s Zenbook 14 (UX3402) in that the Asus &lsquo;A&rsquo; logo is etched into the back, but while the 180&deg; hinge is slightly raised, the display isn&rsquo;t lifted off the desk as much as previous models.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="ports-connectivity">Ports &amp; connectivity</h2>
+
+
+
+<ul>
+<li>Two USB-C (one USB4), one USB-A</li>
+
+
+
+<li>USB4 port can be combined with Ethernet adapter</li>
+
+
+
+<li>HDMI 2.1 supports 4K video up to 120fps</li>
+
+
+
+<li>Wi-Fi 6E (802.11ax), Bluetooth 5.2</li>
+</ul>
+
+
+
+<p>Despite the super-slim dimensions, Asus has been able to pack in more than just a couple of ports here. There&rsquo;s an old-school Type-A USB 3.2 port, plus two Type-C USBs (one USB 3.2, one USB4) and an HDMI 2.1 port.&nbsp;</p>
+
+
+
+<p>While you also get a 3.5mm audio jack, there&rsquo;s no dedicated port for the mains adapter, but both of those Type-C USBs support power delivery. In case you need to expand storage, there are plenty of <a href="https://www.pcworld.com/article/402858/the-best-usb-c-hubs-for-your-laptop-tablet-or-2-in-1.html">docks and hubs</a> (and <a href="https://www.pcworld.com/article/395115/the-best-usb-c-cables-for-charging-and-transferring-data.html">cables</a>) out there, so you can put that USB4 port to good use.&nbsp;</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Asus has been able to pack in more than just a couple of ports here</p></blockquote></figure>
+
+
+
+<p>Neither of the USB-C ports support Thunderbolt 4 though, so keep that in mind if you&rsquo;re also looking to connect to Thunderbolt monitors or external GPUs.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="The Type-C USB, 3.5mm, and HDMI 2.1 ports of the Asus Zenbook 15 OLED (2023)" class="wp-image-2012707" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-right-side-ports.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<p>A key point about the USB4 port is that it can, with an Ethernet adapter, support wired internet connections. For times when you&rsquo;re nowhere near a wired access point, you&rsquo;ve got a Wi-Fi 6E unit sitting under the hood, allowing you to enjoy some of the fastest Wi-Fi speeds currently going.&nbsp;</p>
+
+
+
+<p>Finally, you have an HDMI 2.1 port, a nice uptick from the HDMI 2.0b port from last year&rsquo;s Zenbook 14. It means you can connect to a monitor and play 4K video at 120fps or 8K video at 60fps.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="A hand pressing the W and A keys of the Asus Zenbook 15 OLED laptop" class="wp-image-2012712" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-keyboard-detail.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<h2 class="wp-block-heading toc" id="keyboard-trackpad">Keyboard &amp; trackpad</h2>
+
+
+
+<ul>
+<li>Good keyboard overall</li>
+
+
+
+<li>Some of the key positions and sizes feel awkward</li>
+
+
+
+<li>Trackpad is large and super-responsive</li>
+</ul>
+
+
+
+<p>The typing experience is impressive, with each letter key providing nice springy feedback and exhibiting travel of just under 2mm. It feels a lot deeper than you might expect, given the laptop&rsquo;s dimensions. </p>
+
+
+
+<p>That said, the row of number keys require a bit more force to action than the letter keys do, making for a slightly inconsistent feel. The keycaps also feel a little thin, which could impact their effectiveness long term.</p>
+
+
+
+<p>A number pad has been included, but whether this is a good thing or not is subjective. Generally, I don&rsquo;t like having number pads on laptop keyboards. I don&rsquo;t feel like they&rsquo;re a good use of space and tend to feel cramped, as is the case here.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>The typing experience is impressive, with each letter key providing nice springy feedback</p></blockquote></figure>
+
+
+
+<p>But I have fairly larger hands, so it might not be an issue for some people. But the function keys at the very top are too small, to the extent that I would sometimes find myself accidentally raising the volume instead of dimming the brightness.</p>
+
+
+
+<p>I would also prefer it if navigation keys (home, page up, page down, end) weren&rsquo;t mapped onto the arrow keys, requiring you to hold the Fn key to action those commands. But this isn&rsquo;t unique to the Zenbook by any means.</p>
+
+
+
+<p>The trackpad is a nice size (measuring 5.8in) and very responsive, allowing you to easily sweep through menus and execute precise gestures. Asus has done away with its ScreenPad here, a cool-but-confusing feature which saw a secondary display incorporated into the trackpad. Here, the trackpad is just a trackpad.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="The Asus Zenbook 15 OLED's keyboard" class="wp-image-2012715" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-keyboard.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<h2 class="wp-block-heading toc">Display &amp; speakers<strong>&nbsp;</strong></h2>
+
+
+
+<ul>
+<li>2.8K (2880 x 1620) 16:9 120Hz 15.6in OLED&nbsp;</li>
+
+
+
+<li>Full coverage of the sRGB and DCI-P3 colour space</li>
+
+
+
+<li>Almost full coverage of DCI-P3 space&nbsp;</li>
+</ul>
+
+
+
+<p>There are two display versions of the Asus Zenbook 15 available this year, one with an OLED screen and another with the more common IPS LCD panel. </p>
+
+
+
+<p>The model I&rsquo;m testing here is the OLED version, which has a resolution of 2880 x 1620. Asus calls this uncommon resolution 2.8K, but you might see displays with this resolution listed elsewhere as 3K.&nbsp;</p>
+
+
+
+<p>We&rsquo;re promised peak brightness of 550 nits, full coverage of the standard RGB (sRGB) color space, and the DCI-P3 space.&nbsp;That, combined with the rich contrast available from the OLED display means that websites, photos, games, and video content all look pretty fantastic.&nbsp;</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Websites, photos, games and video content all look pretty fantastic</p></blockquote></figure>
+
+
+
+<p>While true, testing with a colorimeter isn&rsquo;t quite as impressive. The max recorded brightness is just 376 nits, which is enough to comfortable work in most lighting conditions, but well short of Asus&rsquo; claims.</p>
+
+
+
+<p>An OLED screen means any black areas are essentially unlit pixels &ndash; things don&rsquo;t get much darker than that.</p>
+
+
+
+<p>Recorded color temperatures were close to 6500 Kelvin &ndash; the color temperature that mimics natural daylight. At 25% and 50% brightness, the color temperature was 6600K, while at 75% and 100% brightness, it was 6500K.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook 15 OLED laptop, screen on, viewed from the front, tilted slightly to the left" class="wp-image-2012709" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-front-right-side.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<p>DCI-P3 coverage hit 99% in testing, which isn&rsquo;t quite what was advertised but very good nonetheless. It means colors on websites and games look vibrant and rich, but are still brimming with detail.</p>
+
+
+
+<p>Laptop speakers generally aren&rsquo;t worth writing home about, but the two Harman Kardon-certified ones here aren&rsquo;t bad. Bass and treble are both decent, while there&rsquo;s good separation on songs such as Radiohead&rsquo;s <em>The National Anthem</em>, which has lots of layers to the sound.</p>
+
+
+
+<p>However, both speakers are downward-firing, so your desktop will inevitably soak up a lot of that noise.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="The Asus Zenbook 15 OLED laptop fully opened" class="wp-image-2012714" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-180-hinge.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<h2 class="wp-block-heading toc" id="specs-performance">Specs &amp; performance</h2>
+
+
+
+<ul>
+<li>Capable for regular computing tasks and some gaming</li>
+
+
+
+<li>Loud fan noise</li>
+
+
+
+<li>Around 8-10 hours of battery life</li>
+</ul>
+
+
+
+<p>The Asus Zenbook 15 OLED models come with either the AMD Ryzen 5 7535U or AMD Ryzen&nbsp; 7 7735U processors, 16- or 32GB of RAM, and 512GB or 1TB of storage.</p>
+
+
+
+<p>The version I was sent for testing featured the more powerful Ryzen 7 7735U chip, 16GB of RAM (15.2GB of which is usable), and a 512GB SSD (475GB of which is usable).&nbsp;</p>
+
+
+
+<p>As expected, for daily computer use such as writing, emailing and browsing the web, the Zenbook 15 OLED practically sailed through everything. It took just over two minutes (2:15) to open 500MB worth of photos in image editing tool GIMP, which is pretty speedy. Mundane tasks such as firing off emails to colleagues and contacts felt slightly decadent.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Mundane tasks such as firing off emails to colleagues and contacts felt slightly decadent</p></blockquote></figure>
+
+
+
+<p>While the Zenbook 15 OLED is not a gaming laptop, I was pleased to be able to run an entire game of <em>Civ 6</em> on this (albeit on the lowest settings) without encountering any slowdown or crashes &ndash; not bad for a laptop without dedicated graphics. Then again, <em>Civ 6</em> isn&rsquo;t exactly a new game, so don&rsquo;t expect to be playing any recent titles with shading and texture settings cranked up.&nbsp;</p>
+
+
+
+<p>Sadly, the fans have a tendency to kick in if you find yourself doing anything more advanced than browsing the web, and they&rsquo;re certainly not quiet. Luckily, there are plenty of great noise-cancelling headphones out there. </p>
+
+
+
+<p>Compared with the Asus Zenbook 14X OLED, which uses an Intel Core i7-13700H processor, the Zenbook 15 OLED isn&rsquo;t as good when it comes to Geekbench 6 &ndash; 9469 vs 12024 on multi-core.</p>
+
+
+
+<p>Looking at PC Mark 10, which simulates a range of real-world PC tasks, it&rsquo;s a different story, with the Zenbook 15 beating its counterpart. The Zenbook 15 OLED has the Microsoft Surface Laptop 5 beaten in this regard.</p>
+
+
+
+<p>The Zenbook 15 OLED also fared better when running the 3DMark Night Raid graphics test, returning an average score of 22560 &ndash; the Zenbook 14X OLED and Surface Laptop 5 scored 14151 and 16031 respectively.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Asus Zenbook 15 OLED rear cover" class="wp-image-2012713" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Asus-Zenbook-15-OLED-2023-review-rear.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"> </figcaption></figure><p class="imageCredit">Thomas Newton / Foundry</p></div>
+
+
+
+<p>For context, the <a href="https://www.pcworld.com/article/2002573/asus-tuf-gaming-a15-2023-review-this-laptop-oozes-value.html">Asus TUF Gaming A15 2023</a>, equipped with Nvidia GeForce RTX 3060 dedicated graphics scored 47569 in the same test.&nbsp;</p>
+
+
+
+<p>Battery life is average. Running a looped 720p video with the display at 120 nits brightness saw it last 10 hours and 3 minutes.</p>
+
+
+
+<p>Day to day, I could expect to get 8-10 hours off of the battery, doing simple office tasks, and having YouTube on in the background. For simple PC tasks, that&rsquo;ll get you through, but for anything more demanding, forget about it. </p>
+
+
+
+<p>After an hour of <em>Civ 6</em>, I was left with 41% in the tank.&nbsp;In other words, don&rsquo;t expect MacBook Air levels of battery longevity.</p>
+
+
+
+<p>It charges back up quickly, or at least, as quick as most other laptops in this category do. Expect 30% from empty after half an hour, an 65% after an hour, and 95% after two hours.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="price-availability">Price &amp; availability</h2>
+
+
+
+<p>The Asus Zenbook 15 OLED is available to buy now in the US, UK, and many other countries around the world, although a full breakdown of which models were available in which markets isn&rsquo;t currently available.</p>
+
+
+
+<p>At the time of writing, it&rsquo;s not possible to buy the Zenbook 15 OLED directly from <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.asus.com/uk/laptops/for-home/zenbook/asus-zenbook-15-oled-um3504/&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Asus in the UK</a> or the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-15-oled-um3504/&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Asus in the US</a>.&nbsp;</p>
+
+
+
+<p>Buyers in the US can snap up Zenbook 15 OLED with the Ryzen 7 processor, 1TB of storage and 32GB of RAM from Amazon for <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/ASUS-Zenbook-Display-Graphics-UM3504DA-DS76/dp/B0C27VZK87/?ascsubtag=2-1-2020666-1-0-0" rel="nofollow">$1299.99</a>.&nbsp;Microcenter has the same model on for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.microcenter.com/product/666870/asus-zenbook-15-oled-um3504da-ds76-156-laptop-computer-basalt-grey&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">$1299.99</a>, as do Newegg, for a bit more at <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/basalt-grey-asus-zenbook-15-oled-um3504da-ds76-home-personal/p/N82E16834236463&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">$1495.82</a>.</p>
+
+
+
+<p>In the UK, AO has both the Ryzen 5 and Ryzen 7 versions of the Zenbook 15 OLED with 512GB storage and 16GB of RAM on for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://ao.com/product/um3504danx013w-asus-zenbook-15-laptop-blue-97427-251.aspx&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">&pound;929</a> and <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://ao.com/product/um3504danx015w-asus-zenbook-15-laptop-blue-97428-251.aspx&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">&pound;1029</a>.&nbsp; Elsewhere, Scan is selling the Ryzen 7 512+16GB edition of the Zenbook 15 OLED for <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.scan.co.uk/products/156-asus-zenbook-15-oled-um3504-28k-r7-7735u-16gb-lpddr5-512gb-nvme-ssd-radeon-graphics-usb-40-type&amp;xcust=2-1-2020666-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">&pound;1198.99</a>.</p>
+
+
+
+<p>While this is a premium device, there are certainly more <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">expensive laptops</a> out there.</p>
+
+
+
+<h2 class="wp-block-heading toc" id="verdict">Verdict</h2>
+
+
+
+<p>The Asus Zenbook 15 OLED is fantastic in pretty much every way, with battery life the only real exception. Consider <a href="https://www.pcworld.com/article/1915376/best-laptop-usb-c-pd-chargers.html">investing in a spare charger</a>, just in case you leave your main one at home.&nbsp;</p>
+
+
+
+<p>Think of this as a bigger version of the company&rsquo;s Zenbook 14X OLED, just with an AMD processor instead of an Intel one and USB4 rather than Thunderbolt 4 support. If any of those are important to you, your decision between the two is made. </p>
+
+
+
+<p>It&rsquo;s a worthwhile alternative to the Surface Laptop 5, but the 15in MacBook Air might be more to your liking if you can do without Windows.</p>
+
+
+
+<h3 class="wp-block-heading" id="specs">Specs</h3>
+
+
+
+<ul>
+<li>Display: 15.6in 16:9 2.8K (2880 x 1620) 120Hz OLED / 15.6in 16:9 Full HD (1920 x 1080) IPS LCD</li>
+
+
+
+<li>Processor: AMD Ryzen 5 7535U / Ryzen 7 7735U processor</li>
+
+
+
+<li>Graphics: AMD Radeon graphics</li>
+
+
+
+<li>Memory:&nbsp; 16, 32GB LPDDR5 6400 MHz</li>
+
+
+
+<li>Storage: 512, 1TB SSD PCIe 4.0 x4</li>
+
+
+
+<li>Ports: 2 x Type-C USB with USB4, USB 3.2 (Gen 1), 1 x Type-A USB 3.2 (Gen 1), HDMI 2.1, 3.5mm audio jack&nbsp;</li>
+
+
+
+<li>Camera: 1080p webcam</li>
+
+
+
+<li>Wireless: Wi-Fi 6E, Bluetooth 5.2</li>
+
+
+
+<li>Battery: 67Whr</li>
+
+
+
+<li>Operating system: Windows 11 Home&nbsp;</li>
+
+
+
+<li>Dimensions: 354.8 x 226.6 x 14.9 mm</li>
+
+
+
+<li>Weight: 1.4kg</li>
+</ul>
+
+Laptops</div>
+
+## AMD’s unannounced Radeon RX 7800 XT detailed by PowerColor
+ - [https://www.pcworld.com/article/2020523/powercolor-spills-the-beans-on-the-unannounced-radeon-rx-7800-xt.html](https://www.pcworld.com/article/2020523/powercolor-spills-the-beans-on-the-unannounced-radeon-rx-7800-xt.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T15:31:04+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re having a tough day at work, consider that it could always be worse. For example, someone over at AMD licensee PowerColor is in a heap of hurt right now, because the company accidentally posted a full listing for the Radeon RX 7800 XT graphics card, complete with specifications. Does that GPU sound unfamiliar? That&rsquo;s probably because the Radeon RX 7800 XT doesn&rsquo;t officially exist yet. Oops. </p>
+
+
+
+<p>There&rsquo;s been a mid-range hole in AMD&rsquo;s Radeon 7000 series since it launched last year, with the <a href="https://www.pcworld.com/article/1928214/amd-radeon-rx-7600-review.html" rel="noreferrer noopener" target="_blank">low-end RX 7600 at $270</a> being the only other card besides the <a href="https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html" rel="noreferrer noopener" target="_blank">$900 RX 7900 XT and $1000 RX 7900 XTX</a>. AMD has confirmed that new &ldquo;enthusiast&rdquo; cards are coming <a href="https://www.pcworld.com/article/2016950/amd-says-mid-range-radeon-7000-cards-will-be-here-soon.html" rel="noreferrer noopener" target="_blank">before the end of October</a>, presumably in between those two price points and at the 7700/7800 level. But PowerColor&rsquo;s full-page listing, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/All_The_Watts/status/1687167660839325697&amp;xcust=2-1-2020523-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">shared on Twitter almost immediately</a> and since taken down, is more or less an official confirmation of its existence. </p>
+
+
+
+<p>According to the page, the PowerColor RX 7800 XT &ldquo;Red Devil&rdquo; will use a new Navi 32 GPU design with 3840 stream processors, 60 compute units, a 256-bit memory interface with 576GB/s bandwidth (the same as the <a href="https://www.pcworld.com/article/2011885/amd-launches-radeon-rx-7900-but-you-cant-have-it.html" rel="noreferrer noopener" target="_blank">China-only RX 7900 GRE</a>). 16GB of GDDR6 memory puts it a bit below the RX 7900 XT in hardware power, though it&rsquo;s using a slightly faster 2.565GHz boosted clock. There&rsquo;s no word on a price or release date (except &ldquo;third quarter&rdquo; from the AMD earnings call), and if there&rsquo;s an RX 7700 card out there, we don&rsquo;t know about it yet. </p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://videocardz.com/newz/powercolor-leaks-radeon-rx-7800-xt-red-devil-navi-32-with-3840-cores-and-16gb-confirmed&amp;xcust=2-1-2020523-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">VideoCardz.com</a> recorded the text and images before they disappeared, noting that you&rsquo;ll want at least an 800-watt power supply to run the card even though there&rsquo;s no figure for peak power draw. The images show a standard dual-slot design, though it could be chunkier (possibly 2.5 slots or a little more) with a triple-fan cooling setup and dual 8-pin power connections. </p>
+
+
+
+<p>Though we don&rsquo;t have an official price, we can extrapolate based on the card level and previous releases. Since the Radeon RX 6800 XT launched at a retail price of $650 in 2020, I would budget at least $600 if you&rsquo;re hoping to buy an RX 7800 XT when it comes out. When? Sometime in the next three months, if Lisa Su&rsquo;s announced timetable holds. PowerColor&rsquo;s leak indicates it might be sooner than later.</p>
+
+Graphics Cards</div>
+
+## The best back-to-school HP laptop deals in 2023
+ - [https://www.pcworld.com/article/2018848/2018848.html](https://www.pcworld.com/article/2018848/2018848.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T15:07:49+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Much to the bemoan of students everywhere in the United States, back-to-school season is in full swing. Whether you&rsquo;re shopping for an elementary student or a college freshman, the number one item on your list is (most likely) a good laptop. HP is known for producing some of the most lightweight and portable laptops around as well as some powerful gaming machines. Fortunately, HP is holding its back-to-school sale right now, where you can save up to 67 percent off of specific laptops. There&rsquo;s no better time than now to dive in and take advantage of those scrumptious deals.</p>
+
+
+
+<p>If you&rsquo;re not sure where to begin your shopping adventure, don&rsquo;t sweat it. Instead of scrolling through page after page of deals, we did the hard work by meticulously curating a list of the best HP back-to-school laptop sales right now. We&rsquo;ve also made sure to include a variety of different machines such as Chromebooks, gaming rigs, 2-in-1&rsquo;s, and more. If you have any lingering questions, be sure to check out our FAQ section at the end of this article. </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Looking for the best of the best? Check out PCWorld&rsquo;s roundup of the <a href="https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html">best laptops</a> available today.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="back-to-school-everyday-laptop-deals">Back to school everyday laptop deals</h2>
+
+
+
+<p>Sometimes all you need is a basic laptop for day-to-day tasks like writing papers and doing research on the web. After all, there&rsquo;s nothing wrong with a straightforward laptop designed to handle straightforward workloads. If your college major doesn&rsquo;t require a very powerful system (hey, English majors!), then you should pick up one of these everyday HP laptops listed below. </p>
+
+
+
+<ul>
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-pavilion-laptop-15t-eg300-156-7p418av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Pavilion Laptop 15t</a>, Intel Core i7-1355U CPU/Intel Iris Xe graphics/16GB RAM/256GB SSD/15.6-inch 1080p display, <strong>$599.99 ($400 off at HP)</strong></li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17t-cr0000-6m7n3av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Envy Laptop 17t</a>, Intel Core i7-1260P CPU/Intel Iris Xe graphics/16GB RAM/512GB SSD/17.3-inch 1080p display, <strong>$799.99 ($490 off at HP) </strong></li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-pavilion-aero-laptop-13z-be200-133-78f88av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Pavilion Aero Laptop</a>, AMD Ryzen 5 7535U CPU/AMD Radeon graphics/8GB RAM/256GB SSD/13.3-inch 1200p display, <strong>$499.99 ($430 off at HP)</strong></li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-pavilion-plus-laptop-14t-eh100-14-77p01av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Pavilion Plus Laptop</a>, Intel Core i5-13500H CPU/Intel Iris Xe graphics/16GB RAM/256GB SSD/14-inch 1400p display, <strong>$599.99 ($250 off at HP) </strong></li>
+</ul>
+
+
+
+<p>The HP Pavlion Laptop 15t deserves its own call-out because of the price and combination of hardware. Not only are you getting a 1080p display and 16GB of memory, but also a powerful Intel Core i7-1355U CPU. For just $599.99, that&rsquo;s a damn good buy.</p>
+
+
+
+<h2 class="wp-block-heading" id="back-to-school-gaming-laptop-deals">Back to school gaming laptop deals</h2>
+
+
+
+<p>Many students often moonlight as serious (sometimes competitive) gamers when they leave the classroom (myself included when I was in school). That&rsquo;s why it&rsquo;s always important to take hobbies into account when shopping around for a student, whether they&rsquo;re in high school or college. You&rsquo;re going to need a powerful machine for those late-night gaming sessions, especially if you plan on playing some intensive titles. </p>
+
+
+
+<ul>
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/victus-by-hp-gaming-laptop-16t-r000-156-7n4k9av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Victus Gaming Laptop</a>, Intel Core i5-13500HX CPU/Nvidia GeForce RTX 4050 GPU/16GB RAM/512GB SSD/16.1-inch 1080p display, <strong>$949.99 ($350 off at HP) </strong></li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/omen-by-hp-transcend-gaming-laptop-16t-u000-161-765s5av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Omen Transcend Gaming Laptop</a>, Intel Core i7-13700HX&nbsp;CPU/Nvidia GeForce RTX 4050 GPU/16GB RAM/512GB SSD/16-inch 1200p display, <strong>$1,249.99 ($450 off at HP)</strong></li>
+</ul>
+
+
+
+<p>The HP Victus Gaming Laptop is a good option for the entry-level gamer. Between the Intel Core i5-13500HX CPU and the RTX 4050 GPU, this laptop should be able to whiz right through most games on medium to high graphics. The 16.1-inch display also has a refresh rate of 144Hz, which is important when things get blazing hot during an intensive match.</p>
+
+
+
+<h2 class="wp-block-heading" id="back-to-school-chromebook-deals">Back to school Chromebook deals</h2>
+
+
+
+<p>Here at PCWorld, it&rsquo;s common knowledge that we have some serious Chromebook fans on staff (hi). It&rsquo;s easy to see why, as battery life is crazy long and they&rsquo;re largely virus-free. Although they&rsquo;ve been popular in the education market for quite some time, they&rsquo;ve gotten powerful enough to attract mainstream appeal. If you prefer ChromeOS over Windows or macOS, you should definitely check out the recommendations below. </p>
+
+
+
+<ul>
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-chromebook-15a-na0047nr&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Chromebook 15a</a>, Intel Pentium Silver N6000 CPU/UHD graphics/8GB RAM/64GB eMMC/15.6-inch 1080p display, <strong>$319.99 ($80 off at HP)</strong></li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14b-cb0097nr&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Chromebook x360</a>, Intel Pentium Silver Silver N6000 CPU/UHD graphics/8GB RAM/128GB eMMC/14-inch 768p touch display, <strong>$359.99 ($130 off at HP</strong>)</li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-elite-dragonfly-135-inch-chromebook&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Elite Dragonfly Chromebook</a>, Intel Core i3-1215U CPU/UHD graphics/8GB RAM/128GB SSD/13.5-inch 1504p touch display, <strong>$999 ($150 off at HP) </strong></li>
+</ul>
+
+
+
+<p>Out of all the deals above, the best bang is the first option, the HP Chromebook 15a. The Intel Pentium Silver N6000 isn&rsquo;t the fastest CPU we&rsquo;ve ever played around with, but it&rsquo;s good enough for everyday tasks like responding to e-mail and researching topics. Plus, the 1080p display is plenty sharp for watching your favorite Netflix shows and YouTube channels.</p>
+
+
+
+<h2 class="wp-block-heading" id="back-to-school-2-in-1-deals">Back to school 2-in-1 deals</h2>
+
+
+
+<p>If you&rsquo;re not the kind of person that travels light, you should probably skip this section. However, if portability is at the top of your priority list, then you best stick around. Most older students will likely take their laptop to classes with them, so it&rsquo;s important to travel light. If you&rsquo;re in the market for such a machine, then 2-in-1 laptops are your best bet. Convertibles make such versatile machines because you can swing the screen around 360 degrees. Read on to check out our picks below.</p>
+
+
+
+<ul>
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-pavilion-x360-2-in-1-laptop-14t-ek1000-14-742j3av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Pavilion x360</a>, Intel Core i3-1315U CPU/UHD graphics/8GB RAM/256GB SSD/14-inch 1080p touch display, <strong>$479.99 ($220 off at HP)</strong></li>
+
+
+
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/hp-spectre-x360-16-2-in-1-laptop-16t-f2000-74r53av-1&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Spectre x360</a>, Intel Core i7-13700H CPU/Intel Iris Xe graphics/16GB RAM/512GB SSD/16-inch 1920p touch display, <strong>$1,099.99 ($600 off at HP)</strong></li>
+</ul>
+
+
+
+<p>If you&rsquo;re in the market for a convertible laptop with a really nice display, we&rsquo;d recommend picking up the HP Spectre x360, which you can find in the bulleted list above. According to HP,  the touch display has a maximum brightness of 400 nits and a sharp resolution of 3072&times;1920, which is impressive given the price and hardware. This machine also comes with an HP Rechargeable MPP2.0 Tilt Pen, which means you don&rsquo;t have to worry about the extra cost. </p>
+
+
+
+<h2 class="wp-block-heading" id="back-to-school-content-creation-laptop-deals">Back to school content creation laptop deals</h2>
+
+
+
+<p>If you&rsquo;re studying to become a photo editor or graphic designer, you&rsquo;ll need a powerful laptop with a good screen and plenty of storage. For content creation laptops, we always recommend ones with discrete graphics, which is important for editing (trust me you definitely want more oomph in the graphics department). To help narrow things down for you, we found a great deal on a laptop with a beastly RTX 4070 GPU inside.</p>
+
+
+
+<ul>
+<li><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/pdp/omen-by-hp-laptop-17-cm2047nr&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Omen Laptop 17</a>, Intel Core i7-13700HX CPU/Nvidia GeForce RTX 4070 GPU/16GB RAM/1TB SSD/17.3-inch 1440p display, <strong>$,1,549.99 ($400 at HP)</strong></li>
+</ul>
+
+
+
+<p>Sure, if you want to get technical, the HP Omen Laptop 17 is a straight-up gaming rig. However, given the powerful components inside, it&rsquo;s actually perfect for content creation. The RTX 4070 GPU is more than capable of handling photo or video editing tasks as well as running modern titles on the High or Ultra graphics preset. The display is also quite spacious at 17.3-inches, which is important for getting those minute details just right.</p>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" />
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 class="wp-block-heading" id="when-does-the-hp-back-to-school-sale-begin">When does the HP back-to-school sale begin?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The HP back-to-school sale has been going since July, but you&rsquo;ll start seeing quite a few steeper discounts from August onward. In some cases, you can save up to 67 percent on specific devices and products. You can even earn an additional 20 percent off on HyperX and Poly accessories when you buy them with a PC or monitor. Make sure you check out <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hp.com/us-en/shop/slp/back-to-school-sale&amp;xcust=2-1-2018848-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP&rsquo;s back-to-school sale landing page</a>, where you can navigate to whichever category you desire.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 class="wp-block-heading" id="when-does-the-hp-back-to-school-sale-end">When does the HP back-to-school sale end?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>HP doesn&rsquo;t specify when the sale will end, but we suspect sometime in September when the school year is in full-swing. That&rsquo;s why we&rsquo;d recommend hopping on this bandwagon sooner rather than later, as the end of August will be here before you know it. Whether you&rsquo;re a teacher or a student, it helps to be as prepared as possible before the school year begins. Trust me, you don&rsquo;t want to be scrambling to buy a laptop the last-minute. </p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 class="wp-block-heading" id="window-machines-vs-chromebooks">Window machines vs. Chromebooks</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Ah, my favorite debate of all time. When it comes to Windows machines and Chromebooks and which one is better than the other, it really just boils down to personal preference and lifestyle. Some (like me) prefer the Chrome ecosystem, where everything is in one place in the cloud. That said, if you need something more powerful for gaming or content creation, or need the ability to install traditional desktop programs, you should probably spring for a Windows machine. </p>
+</div>
+</div></div>
+</div>
+
+Laptops</div>
+
+## 12 back-to-school gadgets you didn’t know you needed
+ - [https://www.pcworld.com/article/2008219/12-back-to-school-tech-gadgets-student.html](https://www.pcworld.com/article/2008219/12-back-to-school-tech-gadgets-student.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T15:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Some tech purchases are no-brainers when getting ready for a fresh school year, like <a href="https://www.pcworld.com/article/818199/back-to-school-deals.html">buying a new laptop or Chromebook</a>. But other back-to-school products aren&rsquo;t quite as obvious. They might seem purely optional&mdash;stuff you buy if you have money to throw around.</p>
+
+
+
+<p>But don&rsquo;t be so quick to ignore tech accessories, especially if you&rsquo;re often zigzagging across a college campus. Add in part-time work and the demands of a social life, and the right gear can help you keep your sanity.</p>
+
+
+
+<h2 class="wp-block-heading" id="laptop-stand">Laptop stand</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Lululook Foldable Rotating Laptop Stand" class="wp-image-1530650" height="804" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/Lululook-Foldable-Rotating-Laptop-Stand.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Lululook</p></div>
+
+
+
+<p>A laptop stand will not only free up desk space, but improve the ergonomics of your setup. You want your laptop screen at a height that prevents hunching or bad posture, especially if you often have long study and homework sessions. It also makes a dual-screen setup with a separate monitor less awkward. The great thing is that <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/s?k=laptop+stand&amp;crid=3VBISLOEU3AGJ&amp;sprefix=laptop+sta%2Caps%2C287&amp;ref=nb_sb_noss_2&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">laptop stands aren&rsquo;t expensive</a>, and you can even pick up <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Adjustable-Silicone-Foldable-Ventilated-Tablet-Black/dp/B08G84P8ZX/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">an ultra compact one</a> that travels well. Take it from an old person&mdash;caring for yourself now is wise, because your body adds up your discomfort over time and hands you a fat bill later on.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Adjustable-Silicone-Foldable-Ventilated-Tablet-Black/dp/B08G84P8ZX/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Tonmom Foldable and Portable Laptop Stand, $10</a></p>
+
+
+<h2 class="wp-block-heading" id="bluetooth-keyboard">Bluetooth keyboard</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Logitech Pop Keys and MX Mechanical Mini" class="wp-image-1677574" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/DSC00478.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>Cable clutter can be a real downer&mdash;especially if you&rsquo;re stuck in a tiny room shared with another person. A Bluetooth keyboard with multi-device support streamlines your desk space and also lets you hop quickly between a PC, tablet, and phone. A good lightweight option like the <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B098JPSVKY?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Logitech MX Keys Mini</a> can also be taken on the go, too. Not planning to head anywhere? A heftier model with mechanical switches (<a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/s?k=keychron+bluetooth+keyboard&amp;crid=3VI2AIRNQGB4E&amp;sprefix=keychron+bluetooth+keyboar%2Caps%2C144&amp;ref=nb_sb_noss_2&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">like those from Keychron</a>) is better for gaming and long typing sessions.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B098JPSVKY?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Logitech MX Keys Mini Bluetooth Keyboard, $100</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Keychron-Swappable-Mechanical-Bluetooth-PC-Version/dp/B08LSCSVJH/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Keychron K4 96% Wireless Keyboard, $100</a></p>
+
+
+<h2 class="wp-block-heading" id="noise-canceling-headphones">Noise-canceling headphones</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Bose QuietComfort 45" class="wp-image-1672488" height="450" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/bose_quietcomfort_45_review_wired_thumb.jpg?quality=50&amp;strip=all" width="800" /></figure><p class="imageCredit">Chris Martin</p></div>
+
+
+
+<p>A good pair of noise-canceling headphones can help you keep focused as you study, while also maintaining the peace inside a crowded home or dorm. (No need to argue if everyone&rsquo;s content.) Over-the-ear cans have longer battery life&mdash;the top models like the <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Bose-QuietComfort-45-Bluetooth-Canceling-Headphones/dp/B098FKXT8L?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Bose QuietComfort 45</a> and <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH/ref=sr_1_3?crid=M4Y5K51QXSL2&amp;keywords=wh-1000xm5&amp;qid=1690351274&amp;s=electronics&amp;sprefix=wh-1000xm5%2Celectronics%2C133&amp;sr=1-3&amp;ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&amp;th=1&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Sony WH-1000XM5</a> get between 20 to 30 hours runtime&mdash;making them better for long playback sessions and situations where you can&rsquo;t charge as often. Even models that cost half as much, like <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Soundcore-Cancelling-Headphones-Comfortable-Bluetooth/dp/B0B5VHRX7F/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Anker&rsquo;s Soundcore Space Q45</a>, will run as long and still sound pretty good.</p>
+
+
+
+<p>Meanwhile, ANC earbuds travel extremely well, making them easy to tote around for shorter but more frequent trips out of the house. And you have no end of choice, with the <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Bose-QuietComfort-Cancelling-Personalized-Cancellation/dp/B0B4PSQHD5/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Bose QuietComfort Earbuds II</a>, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://wf-1000xm5&amp;xcust=2-1-2008219-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Sony WF-1000XM5</a>, and <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0BDHWDR12/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Apple AirPods Pro</a> just a few excellent options at the top end.&nbsp;</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Soundcore-Cancelling-Headphones-Comfortable-Bluetooth/dp/B0B5VHRX7F/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Anker Soundcore Space Q45 Noise-Cancelling Headphones, $150</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0BDHWDR12/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Apple AirPods Pro, $200</a></p>
+
+
+<h2 class="wp-block-heading" id="tablet">Tablet</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="9.7-inch iPad Pro with Apple Pencil" class="wp-image-1796162" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/9.7-inch-ipad-pro-with-apple-pencil.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Foundry</p></div>
+
+
+
+<p>A dedicated tablet can be put to use in a number of different ways&mdash;a <a href="https://www.pcworld.com/article/1526926/how-to-turn-tablet-into-a-second-pc-monitor.html">second screen for your PC</a>, a digital notepad for keeping up with class lectures, a comfortable way to read textbooks. It&rsquo;s a great complement to a PC, especially if you have a desktop computer. The <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Apple-2022-10-9-inch-iPad-Wi-Fi/dp/B0BJLT98Q7/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Apple iPad</a> is a perennial favorite for such multitasking, as is <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/s?k=galaxy+tab+s&amp;i=electronics&amp;crid=1I4ZS01K2SIG1&amp;sprefix=galaxy+tab+s&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Samsung&rsquo;s rival Galaxy Tab S line</a>, but if you want to lean hard into notetaking while putting less strain on your eyes, you can opt instead for a model like the <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/BOOX-Note-Magnet-ePaper-Tablets/dp/B09ZTKJNSC/ref=sr_1_1?keywords=onyx+boox+note+air+2&amp;qid=1690352132&amp;s=electronics&amp;sprefix=onyx+boox+note+%2Celectronics%2C141&amp;sr=1-1&amp;ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Onyx Boox Note Air 2</a>, which still runs Android but has an E-Ink screen.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Apple-2022-10-9-inch-iPad-Wi-Fi/dp/B0BJLT98Q7/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Apple iPad (10th gen), $400</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Productivity-Qualcomm-Snapdragon-Included-Graphite/dp/B09NQMJ5XG/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Samsung Galaxy Tab S8, $565</a></p>
+
+
+<h2 class="wp-block-heading" id="chromecast">Chromecast</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Google Chromecast on a stack of books on a table" class="wp-image-2019175" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/chromecast.png?w=1200" width="1200" /></figure><p class="imageCredit">Google</p></div>
+
+
+
+<p>You&rsquo;re going to have people visiting you to hang out, and sometimes they&rsquo;ll want to share a video or something else on their phone or PC. If you&rsquo;re fortunate enough to have a television with a built-in Chromecast, they&rsquo;ll able to easily mirroring whatever&rsquo;s on their device to the bigger display&mdash;but if your TV doesn&rsquo;t have it (or you&rsquo;ve only got your PC monitor as the lone screen in your place), you can easily add a <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Google-Nest-GA01919-GA01919-US-Chromecast/dp/B08KRV7S22/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Chromecast dongle</a> to a secondary HDMI port. It&rsquo;s less of a logistical hassle than having to AirDrop a local video or letting someone use your PC to copy a file or load a link.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Google-Nest-GA01919-GA01919-US-Chromecast/dp/B08KRV7S22/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Google Chromecast 4K, $50</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Google-Nest-GA01919-GA01919-US-Chromecast/dp/B0B9HS6DLZ/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Google Chromecast HD, $30</a></p>
+
+
+<h2 class="wp-block-heading" id="bluetooth-tracker">Bluetooth tracker</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Airtags" class="wp-image-987171" src="https://bilder.macwelt.de/4332307_original.jpg?quality=50&amp;strip=all" /></figure><p class="imageCredit">Apple</p></div>
+
+
+
+<p>One of the worst feelings in the world is losing your keys or other vital items while out and about. Not because someone took them, but because you got distracted while visiting many different locations in a day and you can&rsquo;t remember where your stuff went. For high-priority gear, attach a Bluetooth tracker like an <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Apple-MX532AM-A-AirTag/dp/B0933BVK6T/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Apple AirTag</a> or <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B09B2WLRWX/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">Tile Pro</a>. It&rsquo;ll save a lot of time and headache when you&rsquo;re too stressed to recall your movements with crystal clarity.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Apple-MX532AM-A-AirTag/dp/B0933BVK6T/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Apple AirTag, $29</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B09B2WLRWX/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Tile Pro, $32</a></p>
+
+
+<h2 class="wp-block-heading" id="external-hard-drive">External hard drive</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="wd_my_passport_ssd__2020__review.jpg" class="wp-image-721720" src="https://images.techadvisor.com/cmsdata/reviews/3796746/wd_my_passport_ssd__2020__review.jpg?quality=50&amp;strip=all" /></figure><p class="imageCredit">Tech Advisor</p></div>
+
+
+
+<p>Most everything gets saved to cloud storage these days, but as antiquated as it may seem, having a local backup can save your bacon. You can accidentally delete a file unknowingly&mdash;either off your PC or in the cloud (or both, if they sync with one another). You need a backup, and while you can use a <a href="https://www.pcworld.com/article/407149/online-cloud-backup-services-carbonite-idrive-backblaze-livedrive.html">cloud service specifically meant for that purpose</a>, an <a href="https://www.pcworld.com/article/406861/best-external-drives.html">external hard drive</a> is cheaper over time <em>and</em> readily accessible, even when your internet&rsquo;s out. Even a <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Passport-Portable-External-Drive-Black/dp/B07VP5X239/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">smaller 5TB drive</a> is worth the investment.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Passport-Portable-External-Drive-Black/dp/B07VP5X239/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the WD My Passport 5TB portable external hard drive, $115</a></p>
+
+
+<h2 class="wp-block-heading" id="power-bank">Power bank</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Lexon Fine Tube Power Bank 2" class="wp-image-2003575" height="701" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/8-Fine-tube-power-bank-2-LL130X-Gun-Lifestyle-03.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Lexon</p></div>
+
+
+
+<p>You&rsquo;ll sometimes end up away from an outlet longer than expected&mdash;plans can change rapidly during a day, either due to school and work obligations, or because social opportunities come up suddenly. Having even a small, pocketable power bank (like this <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">5000mAh lipstick style charger</a>) can keep your phone alive when you&rsquo;re out more than usual. Pick one up that can also serve as a charger (<a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Anker-Portable-Charger-PowerCore-Delivery/dp/B09NR1SPBV/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">like the Anker 511</a>) and you&rsquo;ll be adequately covered whenever you&rsquo;re on the go.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Anker-Portable-Charger-PowerCore-Delivery/dp/B09NR1SPBV/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Anker 511 5000mAh power bank and charger, $20</a></p>
+
+
+<h2 class="wp-block-heading" id="hdmi-switcher">HDMI switcher</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Fosmon 1080p 3 port HDMI Switcher" class="wp-image-2008236" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/71VV27Nao2L._AC_SL1500_.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Fosmon / Amazon</p></div>
+
+
+
+<p>Switching between a PC, streaming stick, gaming console(s), and other devices hooked up to your TV or PC monitor can become tiresome if you do it often enough. Plus, you usually have only a limited number of HDMI ports to start with, especially on budget displays. An HDMI switcher can eliminate these problems&mdash;everything routes through the switcher, which takes just one port on your display and usually auto-switches between active devices. If your gear is older, a <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Fosmon-Switcher-Intelligent-Selector-Splitter/dp/B008GVOVK0?ref_=ast_sto_dp&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">cheaper 1080p model</a> is fine, but for future-proofing, you may want to spend a little more on a <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/SGEYR-Switcher-Selector-Control-Support/dp/B07MMRTS4S/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">4K model</a>.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/SGEYR-Switcher-Selector-Control-Support/dp/B07MMRTS4S/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the SGEYR 5-port HDMI Switcher (with IR remote and auto switching), $30</a></p>
+
+
+<h2 class="wp-block-heading" id="phone-stand">Phone stand</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="iPhone on a black phone stand" class="wp-image-2008241" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/michael-soledad-D12XjlsIoEM-unsplash.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Soledad / Unsplash</p></div>
+
+
+
+<p>If you live in cramped quarters, having a dedicated spot for everything helps avoid clutter and chaos. Getting things off the surface of your desk can do a lot to reduce visual noise, too. A <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/s?k=phone+stand&amp;ascsubtag=2-1-2008219-1-0-0" rel="nofollow">phone stand</a> helps with both these goals, while also letting you easily see incoming notifications at a glance. If you get a stand that also <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">doubles as a charger</a>, you can keep the battery topped up too.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Anker-Qi-Certified-Compatible-Fast-Charging-PowerWave/dp/B07DBXZZN3?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Anker 313 Wireless Charging Stand, $15</a></p>
+
+
+<h2 class="wp-block-heading" id="printer">Printer</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="HP Smart Tank 5105 All-in-One Printer output tray" class="wp-image-1673740" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/HP-Smart-Tank-5105_DSC8032.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Mark Pickavance</p></div>
+
+
+
+<p>Yeah, printing documents may seem a relic of the past these days, but you&rsquo;ll still have to occasionally&mdash;and hiking over to a campus computer room can be logistically challenging, especially if you need to print something at the last minute or during off hours. Plus, paying per sheet at one of the campus computer rooms can add up depending on how big your print job is. Keeping a printer on hand can stave off such headaches, and if you get a <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Canon-TR150-Wireless-Airprint-Compatible/dp/B085VMW9YD/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">portable unit</a> or even <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/HP-3755-Wireless-Printing-Replenishment/dp/B01LAK6JVW/?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">a compact model</a>, it won&rsquo;t take much space. But even if you get <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/gp/product/B010A7TZ76?ascsubtag=2-1-2008219-1-0-0" rel="nofollow">the cheapest printer available</a>, you usually can tuck it away in a drawer or in your closet.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/HP-3755-Wireless-Printing-Replenishment/dp/B01LAK6JVW/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the HP DeskJet 3755 Compact All-in-One Wireless Printer, $80</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/gp/product/B010A7TZ76/?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Canon Pixma MG3620 Wireless All-in-One Printer, $60</a></p>
+
+
+<h2 class="wp-block-heading" id="e-reader">e-Reader</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Kobo Libra 2 e-reader in standby mode" class="wp-image-1507332" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/IMG_3383_primary.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Alaina Yee / Foundry</p></div>
+
+
+
+<p>From one bookworm to another: You don&rsquo;t want to bring a collection of books with you to the dorms. I mean, you probably do. But the joy of being surrounded by old favorites and new acquisitions is going pale against the royal pain of taking them home at the end of the year. If you&rsquo;ve never had to move frequently, books are their own special torture. They&rsquo;re heavy and hard to carry when packed up, but you won&rsquo;t want to give any up.</p>
+
+
+
+<p>The better option: Invest in an e-reader, like a <a href="https://www.pcworld.com/article/552166/amazon-kindle-vs-kindle-paperwhite.html">Kindle</a> or <a href="https://www.pcworld.com/article/1507317/kobo-libra-2-review.html">Kobo</a>. You&rsquo;ll still give your eyes a break from staring at LCD screens, but you won&rsquo;t have to worry about physical shelf space. Will it feel as good as having paper in your hands? No, but being able to store hundreds of books in a slim, pocketable device is a decent trade-off. Plus, if you sign up for your local library&rsquo;s Overdrive service, you can gorge on the written word for free.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B08KTZ8249?ascsubtag=2-1-2008219-7-0-0" rel="nofollow" target="_blank">Get the Kindle Paperwhite (ad-supported), $140</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://us.kobobooks.com/products/kobo-libra-2&amp;xcust=2-1-2008219-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Kobo Libra 2, $190</a></p>
+Consumer Electronics, Laptop Accessories</div>
+
+## The AI boom could create a new crypto-style GPU shortage
+ - [https://www.pcworld.com/article/2020375/the-ai-boom-could-create-a-new-gpu-shortage.html](https://www.pcworld.com/article/2020375/the-ai-boom-could-create-a-new-gpu-shortage.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T14:34:02+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>In the immortal words of CJ, &ldquo;Ah, s#$%, here we go again.&rdquo; If you&rsquo;ve been keeping up with the tech news in the last year, you no doubt know that &ldquo;Artificial Intelligence&rdquo; is the next big thing &mdash; heck, you can even use it to <a href="https://www.pcworld.com/smart-answers" rel="noreferrer noopener" target="_blank">search for info from PCWorld&rsquo;s archives</a>. That kind of growth potential has investors salivating and engineers scrambling for hardware. Unfortunately, it looks like consumer-grade GPUs are a great way to boost your processing power for AI computations&hellip;just like they were for crunching numbers for cryptocurrency. </p>
+
+
+
+<p>If that sounds familiar, it&rsquo;s because the crypto boom in the late 2010s and the start of the pandemic in 2020 <a href="https://www.pcworld.com/article/394292/a-perfect-storm-why-graphics-cards-cost-so-much-now.html" rel="noreferrer noopener" target="_blank">created an absolute nightmare</a> for anyone who wanted to buy a GPU. Graphics card street prices ballooned to double or even triple their retail value, with scalpers and buyer bots making it all but impossible for regular old PC gamers to get a new card. Fortunately that&rsquo;s died down and GPU prices have normalized, but plenty of PC gamers are still smarting from the bad times, like Dust Bowl migrants hanging on to their trauma. </p>
+
+
+
+<p>The new boom in AI is causing big investments in companies like Nvidia, which <a href="https://www.pcworld.com/article/1935564/nvidia-passes-1-trillion-market-cap-as-investors-fall-in-love-with-ai.html" rel="noreferrer noopener" target="_blank">recently had its best quarter <em>ever</em></a><em> </em>largely on strong sales to AI firms. Twitter and Tesla&rsquo;s eXuberant CEO Elon Musk has reportedly <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://arstechnica.com/information-technology/2023/04/elon-musk-reportedly-purchases-thousands-of-gpus-for-generative-ai-project-at-twitter/&amp;xcust=2-1-2020375-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">purchased thousands of GPUs for a new AI project</a>. This shift in the market has reportedly led Nvidia to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.extremetech.com/gaming/report-nvidia-has-practically-stopped-production-of-its-40-series-gpus&amp;xcust=2-1-2020375-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">all but halt production of the RTX 4000 series</a> (which is experiencing less demand from gamers anyway, thanks to poor bang-to-buck ratios on cards like the <a href="https://www.pcworld.com/article/1925928/nvidia-geforce-rtx-4060-ti-8gb-review.html" rel="noreferrer noopener" target="_blank">RTX 4060 Ti</a>) in favor of &ldquo;Hopper&rdquo; cards for B2B sales to corporate AI firms. </p>
+
+
+
+<p>So between startups bootstrapping consumer-grade graphics cards to make new AI services, and larger companies taking up all the manufacturing throughput of companies to make GPUs in the first place, analysts are anxious that we <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.tomshardware.com/news/evidence-shows-ai-driven-companies-are-buying-up-gaming-gpus&amp;xcust=2-1-2020375-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">might see yet another card shortage</a> just a year or two after the last one finally ended. The idea started spreading after an executive for Comma, the maker of AI-powered self-driving software, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/realGeorgeHotz/status/1686165811386597377&amp;xcust=2-1-2020375-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">tweeted a photo</a> of dozens of freshly-purchased RX 7900 XTX graphics cards. </p>
+
+
+
+<p>Fears of a new shortage haven&rsquo;t played out in the market so far. If anything, GPU prices are slightly below retail at the moment, with <a href="https://www.pcworld.com/article/1929783/intels-arc-a750-gpu-is-now-down-to-just-200.html" rel="noreferrer noopener" target="_blank">Intel coming on strong</a> with several excellent bargain options and AMD poised to <a href="https://www.pcworld.com/article/2016950/amd-says-mid-range-radeon-7000-cards-will-be-here-soon.html" rel="noreferrer noopener" target="_blank">introduce new mid-range cards</a> later this year. But if you&rsquo;re planning a new gaming PC build or upgrade with <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html" rel="noreferrer noopener" target="_blank">the best GPUs</a>, you might want to get a purchase in sooner rather than later. </p>
+
+Graphics Cards</div>
+
+## Viofo A119 Mini 2 dash cam review: Small but feature-packed
+ - [https://www.pcworld.com/article/1981452/viofo-a119-mini-2-dash-cam-review.html](https://www.pcworld.com/article/1981452/viofo-a119-mini-2-dash-cam-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Small and innocuous (minimal thief bait!)</li><li>Integrated GPS and Wi-Fi</li><li>Good quality day and night captures</li><li>Voice control and phone app</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>GPS didn&rsquo;t set time zone correctly</li><li>Non-adjustable mount</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The smallish A119 Mini 2 is a worthy competitor to Garmin&rsquo;s small-fry dash cams, with good captures, plus integrated GPS and Wi-Fi.</p>
+</div>
+				<h3 class="review-best-price" id="best-prices-today-viofo-a119-mini-2-dash-cam">
+			Best Prices Today: Viofo A119 Mini 2 dash cam		</h3>
+				<div class="wp-block-price-comparison price-comparison ">
+		
+		<div class="new_products_tab tabcontent" id="New">
+
+			<div class="price-comparison__record price-comparison__record--header">
+				<div>
+					<span>Retailer</span>
+				</div>
+				<div class="price-comparison__price">
+					<span>Price</span>
+				</div>
+			</div>
+
+														<div class="price-comparison__record">
+							<div class="price-comparison__image">
+																	<span>Viofo</span>
+															</div>
+							<div class="price-comparison__price">
+								<span>$129.99</span>
+							</div>
+							<div>
+								<a class="price-comparison__view-button" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://viofo.com/dash-cam/318-viofo-a119-mini-2-voice-control-2k-60fps-5ghz-wifi-dash-camera-with-sony-starvis-2-image-sensor-hdr-super-night-sensibility.html&amp;xcust=2-1-1981452-2-1981455-15905&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View Deal</a>							</div>
+						</div>
+												<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+													Price comparison from over 24,000 stores worldwide												</span>
+									</div>
+						</div>
+
+		<div class="refurbished_products_tab tabcontent" id="Refurbished">
+			<div class="price-comparison__record price-comparison__record--header">
+				<div class="refurbished-drop">
+				<select class="price_comparison_condition" name="priceComparisonCondition">
+					
+				</select>
+				</div>
+			</div>
+
+							<div class="price-comparison__record price-comparison__record--footer">
+					<span class="price-comparison__footer-text">
+					Price comparison from Backmarket						</span>
+									</div>
+		</div>
+		</div>
+		
+
+
+<p>Small dash cams block less of your view, and are just generally easier to deal with. Viofo&rsquo;s $150 A119 Mini 2, as you might guess from the name, is a small dash cam. It&rsquo;s also one of the best.  </p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading:</strong> See our roundup of the <a href="https://www.pcworld.com/article/428348/best-dash-cam-reviews.html">best dash cams</a> to learn about competing products.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading" id="a119-mini-2-design-and-features">A119 Mini 2 design and features</h2>
+
+
+
+<p>The A119 Mini 2 measures approximately 1.82 inches wide, 2.8-inches high, and 1.9-inches at its thickest. Add a hair to that thickness if you have the optional $13.50 polarizing filter installed. Either way, it&rsquo;s smaller than most.</p>
+
+
+
+<p>The camera is a single-channel (front-only) unit sporting an Sony STARVIS IMX335 sensor, which renders the camera capable of up to 2560&times;1600 resolution at 30 frames per second. The field of view is 140 degrees, and there&rsquo;s both GPS and 2.4GHz/5GHz Wi-Fi on board. </p>
+
+
+
+<p>Unlike phone-reliant cameras, the A119&rsquo;s sharp 1.5-inch color display allows you to access settings without needing another device. Situated underneath the display are the power, record, mic, and Wi-Fi status lights, as well as the menu, record, microphone on/off, and Wi-Fi enable buttons. </p>
+
+
+
+<p>The buttons pull double-duty as navigation controls, though the A119 Mini 2 supports a number of voice commands such as &ldquo;Take photo,&rdquo; &ldquo;Video start/stop,&rdquo; &ldquo;Turn off Wi-Fi,&rdquo; etc.</p>
+
+
+
+<p>The left side of the unit is occupied solely by ventilation grills, while the right side is home to a Type-C power connector and the SD card slot. The A119 Mini 2 can handle up to 512GB cards. Nice.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>With Wi-Fi on board, there&rsquo;s of course an app, which offers a live view, access to your videos and images, and all the settings in an easier-to-browse format.</p></blockquote></figure>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2007843" height="852" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/viofo-a119-mini-rear.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure></div>
+
+
+
+<p>Note that the Type-C port on the camera is a bit of a blind alley used primarily for computer connectivity. You must use the second Type-C port located on the top of the GPS  mount to power both the camera and the GPS.</p>
+
+
+
+<p>The mount comes attached out of the box, and looks to be part of the camera. It also uses semi-permanent adhesive and offers no adjustment post facto. Read up on <a href="https://www.pcworld.com/article/394463/how-to-install-a-dash-cam.html" rel="noreferrer noopener" target="_blank">how to install a dash cam</a> before you commit to its placement. </p>
+
+
+
+<p>Once in place on the windshield, if you slide the camera to the right, the main body will separate from the mount so you can put it in your bag or backpack. A good thing if you park on the streets, unless of course you want to use the surveillance (parking) mode.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2007844" height="900" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/viofo-a119-side.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure></div>
+
+
+
+<p>Viofo states on the product web page that the HK4 hardwiring kit is required for the parking mode; however, my inquiry revealed that you can utilize an OBDII power source&mdash;the camera only needs to sense that voltage is present.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2012575" height="843" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/a119-mini-2-app.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">The Viofo app offers a live view, access to captures, and, of course, settings.</figcaption></figure></div>
+
+
+
+<p>With Wi-Fi on board, there&rsquo;s of course an app (shown above). It offers a live view, access to your videos and images, and all the settings in an easier to browse format.</p>
+
+
+
+<p>Generally speaking, the only thing the A119 Mini 2 can&rsquo;t do is save videos online. And that&rsquo;s not a feature everyone wants or can afford, though if I&rsquo;m going to leave a dash cam in a car overnight, I&rsquo;d prefer it had the ability. </p>
+
+
+
+<h2 class="wp-block-heading" id="a119-mini-2-captures">A119 Mini 2 captures</h2>
+
+
+
+<p>The A119 Mini 2&rsquo;s captures were generally top-notch. However, optimizing them required installing the optional polarizing filter for day use, and removing it for night use. This is a pain, and not something the average user will want to do. I&rsquo;d opt for leaving it on, as the benefits during the day outweigh the slight reduction in brightness at night.</p>
+
+
+
+<p>Note that the time shown in these captures is off. The camera managed to grab the correct date, but didn&rsquo;t select the correct time zone. Why it can&rsquo;t set the time according to GPS info is unknown. Viofo should fix that.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2007711" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Viofo-A119-Mini-24.png?w=1200" width="1200" /><figcaption class="wp-element-caption">With the polarizing filter on, the A119 Mini 2 handles bright conditions very well. Detail in bright areas can suffer a bit without one.</figcaption></figure></div>
+
+
+
+<p>While the day captures shown above and below are very good, they slightly favor smooth over sharp. Tastes vary, but there there&rsquo;s plenty of detail for legal purposes.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2007712" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Viofo-A119-Mini-23.png?w=1200" width="1200" /><figcaption class="wp-element-caption">A second day time shot with filter. Note that the date was automatically set, but the time is off by a number of zones. GPS should make automatically setting the correct time easy. This is actually 11:30 on the 22nd.</figcaption></figure></div>
+
+
+
+<p>The low-light, early evening capture below is with the polarizing filter on. It affects the brightness of the image, but only slightly.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2007713" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Viofo-A119-Mini-22.png?w=1200" width="1200" /><figcaption class="wp-element-caption">I included this early evening shot to show the A119 Mini 2 before the GPS had kicked in.</figcaption></figure></div>
+
+
+
+<p>Next up is the night capture; but this was with the polarizing filter removed. I also lost it in the interior of my car. Darn.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="" class="wp-image-2007714" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Viofo-A119-Mini-21.png?w=1200" width="1200" /><figcaption class="wp-element-caption">This evening shot was taken without the polarizing filter on. It shows good color and detail as well as a decent handling of headlight flare.</figcaption></figure></div>
+
+
+
+<p>Overall, the A119 Mini 2&rsquo;s captures are excellent in terms of color, handling headlight flare, and overall view-ability. I&rsquo;d opt for a bit sharper detail, but that&rsquo;s being picky.</p>
+
+
+
+<h2 class="wp-block-heading" id="should-you-buy-the-viofo-a119-mini-2">Should you buy the Viofo A119 Mini 2?</h2>
+
+
+
+<p>I enjoyed my time with the A119 Mini 2. It&rsquo;s got all the latest features, and takes good captures. The only thing I&rsquo;d say Garmin&rsquo;s small cameras have over it is their fully adjustable mount. Carefully align the A119 Mini 2 during install, and that&rsquo;s a non-issue. Good stuff from Viofo.</p>
+
+Dash Cams</div>
+
+## Save $300 on this RTX 4060-loaded HP gaming laptop
+ - [https://www.pcworld.com/article/2020293/2020293.html](https://www.pcworld.com/article/2020293/2020293.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T13:56:44+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Nothing excites me more quite like a well-priced gaming laptop. If you&rsquo;ve been on the hunt for an affordable yet powerful machine, you&rsquo;re in luck. Costco&rsquo;s online store is currently selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.costco.com/.product.1009781.html&amp;xcust=2-1-2020293-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HP Victus for $1,099.99</a>, which is a whopping $300 off the original $1,399.99 price. This rig comes loaded with an RTX 4060 and a 13th-gen Intel Core CPU. That&rsquo;s a good amount of power right there, especially for $300 off. It also has a full-sized backlit keyboard that includes a number pad, which is useful for both gaming and office work. </p>
+
+
+
+<p>The HP Victus features an Intel Core i7-13700HX CPU, an Nvidia GeForce RTX 4060 GPU, 32GB of DDR5 RAM, and 1TB of PCIe NVMe SSD storage. You should be able to zip right through most games on the High or Ultra graphics preset. The display, which has a resolution of 1920&times;1080 and a refresh rate of 144Hz, is rather spacious at 16.1-inches. Given those specs, you should feel totally immersed in whatever game you&rsquo;re playing. </p>
+
+
+
+<p>This is a fantastic deal, but we don&rsquo;t expect it to last long (it&rsquo;s just too good). You better kick it into high gear and jump on it sooner rather than later.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.costco.com/.product.1009781.html&amp;xcust=2-1-2020293-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the HP Victus gaming laptop for $1,099.99 at Costco</a></p>
+Laptops</div>
+
+## Seeing endless ‘Outlook closed while you had items open’ prompts? Here’s a fix
+ - [https://www.pcworld.com/article/2020344/microsoft-solution-for-annoying-outlook-problem.html](https://www.pcworld.com/article/2020344/microsoft-solution-for-annoying-outlook-problem.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T13:50:13+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Many users of the desktop version of Outlook are being confronted with an annoying problem: When you open Outlook, the mail program included in Microsoft 365, it repeatedly asks whether you want to restore previously closed sessions. Specifically, the dialogue window says &ldquo;Outlook closed while you had items open. Reopen items from last session?&rdquo;</p>
+
+
+
+<p>Whether Outlook is closed by a crash, a system update or manually, it doesn&rsquo;t matter: Outlook asks at every restart whether old windows should be restored. Clicking &ldquo;Yes&rdquo; restores draft e-mails and opens all e-mail windows or appointments that were open during the last session.</p>
+
+
+
+<p>For many users, the setting responsible for whether you should see those prompts cannot be found in the Outlook options, even though a selection should appear that lets you choose whether Outlook should restore previous contents. If that&rsquo;s the case for you, the annoying prompt can&rsquo;t be permanently deactivated in the program. The responsible feature was introduced with Outlook for Windows on Beta Channel Version 2006 (Build 13006.20002) a good three years ago. Now, however, it&rsquo;s causing problems because it&rsquo;s activated by default.</p>
+
+
+
+<h2 class="wp-block-heading" id="temporary-workaround">Temporary workaround</h2>
+
+
+
+<p>The team behind Outlook is still looking for the cause of this annoying behavior. Until a final solution is found, however, Microsoft is offering a temporary fix that disables recovery and thus bypasses the constant prompting. Open the Windows registry editor (Regedit) and navigate to &ldquo;HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Preferences&rdquo;. There, right-click, hover over &ldquo;New,&rdquo; and create a new DWORD value called &ldquo;ReopenWindowsOption&rdquo;. Give it the value &ldquo;1&rdquo;. Boom!. After closing Regedit and reopening Outlook, the annoying prompt should no longer appear.</p>
+
+Personal Software, Professional Software, Windows</div>
+
+## 9 essential back-to-school laptop accessories for under $100
+ - [https://www.pcworld.com/article/2017152/back-to-school-laptop-accessories-for-under-100.html](https://www.pcworld.com/article/2017152/back-to-school-laptop-accessories-for-under-100.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>So, you&rsquo;ve got your college kid a brand new laptop, and they&rsquo;re all set to conquer the academic world. Well, not so fast. As any computer user knows, plenty of extra accessories should complement a new PC to make it more useful, efficient, or just plain comfy. And since your student is going to be spending a <em>lot </em>of time on that computer, either at work or play, it&rsquo;s a good idea to make sure they&rsquo;re well-equipped to use it to the fullest.</p>
+
+
+
+<p>We&rsquo;ve rounded up the best affordable add-ons for a dorm room laptop setup, each one under $100 at the time of writing. We&rsquo;re talking obvious stuff like a mouse, keyboard, and speakers, as well as some less-obvious extras, like a secondary monitor for long work sessions and a big mouse pad that doubles as a ramen shield. Mix and match what your new student needs to make the ultimate frugal laptop setup. </p>
+
+
+
+<h2 class="wp-block-heading" id="a-perfect-laptop-mouse-logitech-mx-anywhere-2s-46">A perfect laptop mouse: Logitech Mx Anywhere 2S &mdash; $46</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Logitech MX Anywhere 2S" class="wp-image-2017318" height="787" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/6170mJHIsYL._AC_SL1500_.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Logitech</p></div>
+
+
+
+<p>Long work sessions absolutely demand a mouse, and for laptops, you won&rsquo;t find a better option than Logitech&rsquo;s MX Anywhere line. Normally, it&rsquo;s pretty pricey, but this slightly older <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B08P2JFPQC/?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">MX Anywhere 2S is just $46</a>. It&rsquo;s lightweight but powerful, with a comfortable sculpted shape, super-smooth scrolling, and it can easily fit in a pocket or bag. Bluetooth and 2.4GHz options let you switch between devices easily, and best of all, it&rsquo;ll last for 70 days on a single charge. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B08P2JFPQC/?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Logitech MX Anywhere 2S at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="a-keyboard-for-long-papers-g-skill-km250-40">A keyboard for long papers: G.Skill KM250 &mdash; $40</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="G.Skill KM250 hero image" class="wp-image-1801792" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/DSC01383.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/Foundry</p></div>
+
+
+
+<p>Laptop keyboards are serviceable, but when it&rsquo;s time to really buckle down and get some serious writing done, you need a dedicated keyboard. For those on a budget and/or short on space, PCWorld&rsquo;s go-to pick is <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B0BSLCT417?ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">the G.Skill KM250 at just $40</a>. It has tons of extras like RGB lighting and a rotary volume dial, plus high-quality switches and keycaps, and even built-in foam dampening to keep roommate disturbances to a minimum. You can <a href="https://www.pcworld.com/article/1801607/g-skill-km250-keyboard-review.html" rel="noreferrer noopener" target="_blank">read our review here</a>. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B0BSLCT417?ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the G.Skill KM250 keyboard at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="a-productivity-boosting-monitor-sceptre-r1500-90">A productivity-boosting monitor: Sceptre R1500 &mdash; $90</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Sceptre R1500 24-inch monitor" class="wp-image-2017319" height="1089" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/71PB0Cg1y3L._AC_SL1500_.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Sceptre</p></div>
+
+
+
+<p>The great thing about using a monitor with a laptop is that you can get a dual-screen setup right away, giving you a bigger desktop space and less eye strain. Finding a decent monitor for under a hundred bucks is tough, but <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B07KXSR99Y/?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">this Sceptre R1500 model for just $90</a> fits the bill, with a 24-inch 1080p panel and an easy HDMI connection. It even has a slight curve for a bit of style, and an extra HDMI port can handle a game console, too. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B07KXSR99Y/?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Sceptre R1500 monitor at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="a-comfy-desk-mat-corsair-mm350-pro-30">A comfy desk mat: Corsair MM350 Pro &mdash; $30</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Corsair MM350 desk mat" class="wp-image-2017320" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/91P8NEqqziL._AC_SL1500_.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Corsair</p></div>
+
+
+
+<p>Your student is going to need a mouse pad, or else their desk will look like a scoured field after a semester or two. And let&rsquo;s be honest: They&rsquo;re going to be eating and drinking at their desk constantly. So, why not solve two problems at once with this massive <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B08JH89XLF/?ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">36-inch wide Corsair desk mat for $30</a>, which works as both a mousepad and a waterproof, stain-resistant tablecloth? It&rsquo;s even washable, with a stitched edge to keep it from fraying. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B08JH89XLF/?ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Corsair MM350 Pro desk mat at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="speakers-for-jamming-out-creative-pebble-v3-35">Speakers for jamming out: Creative Pebble V3 &mdash; $35</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Creative pebble bluetooth speakers" class="wp-image-2017321" height="713" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/51zJaBsn1jL._AC_SL1500_.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">Creative</p></div>
+
+
+
+<p>Laptop speakers leave a lot to be desired, so for better music and movies, set your student up with these space-saving <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B09F9GTKL8?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">Creative Pebble speakers for $35</a>. A USB connection makes it easy to set them up with a laptop, and extra Bluetooth means they can stream audio right from a phone or tablet too. They don&rsquo;t even need a power cord. 16 watts won&rsquo;t exactly rattle the windows, but it&rsquo;s perfect for a dorm or bedroom. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B09F9GTKL8?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Creative Pebble V3 speakers at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="headphones-for-jamming-out-quietly-anker-soundcore-q20i-60">Headphones for jamming out, quietly: Anker Soundcore Q20i &mdash; $60</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Anker Soundcore Q20i headphones" class="wp-image-2017323" height="804" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/610NdWdTLiL._AC_SL1500_.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Anker</p></div>
+
+
+
+<p>Of course, speakers aren&rsquo;t always a practical option. These active noise cancellation cans will help your student focus on a lecture or music, whether they&rsquo;re in the dorm room or outside on a busy quad. With a portable fold-flat design, easy USB-C charging, and up to 60 hours of battery life, they&rsquo;re a perfect companion for a laptop just about anywhere. Normally headphones with active noise cancellation tech are super pricey, but the <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B0C3HCD34R/?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">Anker Soundcore Q20i is just $60</a>.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B0C3HCD34R/?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Anker Soundcore Q20i ANC headphones at Amazon </a></p>
+
+
+<h2 class="wp-block-heading" id="a-desk-lamp-for-late-nights-melifo-monitor-light-39">A desk lamp for late nights: Melifo Monitor Light &mdash; $39 </h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Melifo LED monitor light" class="wp-image-2017328" height="575" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/monitor-light.jpg?quality=50&amp;strip=all" width="758" /></figure><p class="imageCredit">Melifo</p></div>
+
+
+
+<p>Your student&rsquo;s dorm desk might have limited space available, which is why this <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B09TNL2558/?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">Melifo USB monitor lamp for $39</a> is a perfect fit. It shines right on the workspace without getting in your eyes or reflecting off the screen, and features color temperature adjustments to reduce eyestrain. This model even includes a handy wireless controller. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B09TNL2558/?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Melifo USB monitor light at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="a-charger-to-keep-everything-running-ugreen-65w-35">A charger to keep everything running: UGreen 65W &mdash; $35</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="UGreen 65-watt GaN charger" class="wp-image-2017331" height="901" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/61Vi-xaxRL._AC_SL1500_.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">UGreen</p></div>
+
+
+
+<p>The charger that comes with your student&rsquo;s laptop is probably a heavy brick that only charges one thing at a time. Replace it with <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B091BGMKYS?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">this $35 UGreen gallium nitride USB-C charger</a>, and they can charge their laptop, phone, and headphones all at the same time. Plus it&rsquo;s tiny and folds down, perfect for throwing in a backpack for those extended times away from the dorm. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B091BGMKYS?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the UGreen 65-watt GaN charger at Amazon</a></p>
+
+
+<h2 class="wp-block-heading" id="tying-it-all-together-anker-7-in-1-usb-c-hub-32">Tying it all together: Anker 7-in-1 USB-C Hub &mdash; $32</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="anker 7-in-1 usb c dock" class="wp-image-2017334" height="890" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/anker-7-in-1-usb-c-dock.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Anker</p></div>
+
+
+
+<p>It&rsquo;s essential for your student&rsquo;s laptop setup to be both powerful and portable. Throw in this <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B07ZVKTP53?th=1&amp;ascsubtag=2-1-2017152-1-0-0" rel="nofollow" target="_blank">Anker 7-in-1 USB-C hub for $32</a>, and they can connect every wired item on this list &mdash; monitor, keyboard, speakers, plus a flash drive and a camera card &mdash; with just one cable. That makes it easy to disconnect the laptop and head to class. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/dp/B07ZVKTP53?th=1&amp;ascsubtag=2-1-2017152-7-0-0" rel="nofollow" target="_blank">Buy the Anker 7-in-1 USB-C dock at Amazon</a></p>
+Accessories</div>
+
+## 4 reasons why I switched from AMD to Nvidia
+ - [https://www.pcworld.com/article/2017022/4-reasons-why-i-switched-from-amd-to-nvidia.html](https://www.pcworld.com/article/2017022/4-reasons-why-i-switched-from-amd-to-nvidia.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T10:45:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Recently, my colleague Kris Wallburg broke his long-lived relationship with <a href="https://www.pcworld.com/article/1997360/4-reasons-why-i-switched-from-nvidia-to-amd.html">Nvidia&rsquo;s GeForce GPUs and bought an AMD Radeon 7000 graphics card</a>. But like so many things in life, the question of <a href="https://www.pcworld.com/article/416006/the-best-graphics-cards-for-pc-gaming.html">which graphics card is the &ldquo;best&rdquo;</a> isn&rsquo;t so simple to answer, because the specifics are highly individual and dependent on one&rsquo;s own computing requirements. As someone who dared to make the leap from Radeon to Nvidia&rsquo;s Green Team with the GeForce 40-series, I wanted to explain why. </p>
+
+
+
+<h2 class="wp-block-heading toc" id="only-nvidia-offers-the-highest-performance">Only Nvidia offers the highest performance</h2>
+
+
+
+<p>This point is only relevant for a small group so I&rsquo;m only going to briefly to touch on it: If you are looking for the maximum possible performance, in gaming and creative applications alike, you cannot ignore. Nvidia.</p>
+
+
+
+<p>The <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">GeForce RTX 4090</a> is <strong>absolutely unrivalled</strong> and offers both gamers and creative users a performance leap over the previous generation that we haven&rsquo;t seen since the <a href="https://www.pcworld.com/article/412313/nvida-geforce-gtx-1080-ti-review-the-monster-graphics-card-4k-gamers-have-been-waiting-for.html">legendary GTX 1080 Ti</a>. For the first time ever, it is possible to achieve incredible ray tracing fidelity and performance (like in Cyberpunk 2077) even without DLSS&rsquo; AI upscaling in 4K at playable frame rates. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="geforce-rtx-4090-founders-edition">GeForce RTX 4090 Founders Edition</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="GeForce RTX 4090 Founders Edition" class="product-widget__image" height="1667" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Nvidia-GeForce-RTX-4090-1.jpg?quality=50&amp;strip=all" width="2500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" />							<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>The RTX 4090 is an absolute computing monster that makes the entire competition look old. In terms of rasterization performance, the <a href="https://www.pcworld.com/article/1431755/amd-radeon-rx-7900-xtx-radeon-rx-7900-xt-review-rdna-3.html">Radeon RX 7900 XTX</a> &mdash; currently AMD&rsquo;s fastest GPU &mdash; is already beaten by around 25 percent in 4K resolution. When ray tracing is activated, the lead increases to over 60 percent, and in some games, the RTX 4090 is even twice as fast.</p>
+
+
+
+<p>Don&rsquo;t forget the topic of efficiency, because Nvidia&rsquo;s GPU is clearly ahead of the competition here as well. You also pay a premium price for the RTX 4090, but in return you get the <strong>best graphics card the market currently has to offer</strong>.</p>
+
+
+
+<h2 class="wp-block-heading" id="power-efficiency-matters-especially-now">Power efficiency matters, especially now</h2>
+
+
+
+<p>When comparing two graphics cards with roughly the same performance, price is often the deciding factor. What is often not taken into account, however, is how the efficiency of the products affects the price over time.</p>
+
+
+
+<p>It&rsquo;s a very simple calculation: In addition to the purchase price, you pay for the electricity your graphics card consumes every year. If a card is a little more expensive to buy, but works much more efficiently, you can compensate for the higher initial costs after a few years and end up saving money. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="GPU Preis mit Folgekosten f&uuml;r Bestandskunden - 2160p" class="wp-image-2008105" height="823" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/GPU-Preis-mit-Folgekosten-fur-Bestandskunden-in-2160p-1.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">The cheaper graphics card is not necessarily the better choice if it consumes significantly more electricity for the same performance. (Data from PCWelt.)</figcaption></figure><p class="imageCredit">Sebastian Schenzinger</p></div>
+
+
+
+<p>An example: <a href="https://www.pcworld.com/article/393729/amd-radeon-rx-6800-rx-6800-xt-review.html">AMD&rsquo;s Radeon RX 6800 XT</a> has roughly the same rasterization performance as an <a href="https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html">RTX 4070 from Nvidia</a> and currently costs around $100 less, depending on pricing fluctuations. So if you don&rsquo;t place much value on ray tracing, the AMD card is the better choice, right?</p>
+
+
+
+<p>Not necessarily, because the RTX 4070 consumes almost 100 watts less when gaming. Depending on your electricity prices and how much you play every day or use the card to its full capacity, you will make up the $100 surcharge in about two years. As you can see, the purchase price is only one aspect of the cost calculation, especially if you live in Europe. </p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/MSI-GeForce-RTX-4070-12G/dp/B0BZB7DS7Q?ascsubtag=2-1-2017022-7-0-0" rel="nofollow" target="_blank">MSI GeForce RTX 4070 Ventus at Amazon</a></p>
+
+
+<h2 class="wp-block-heading toc" id="nvidia-is-the-innovation-driver">Nvidia is the innovation driver</h2>
+
+
+
+<p>DLSS, ray tracing, <a href="https://www.pcworld.com/article/393646/tested-how-nvidia-reflex-can-make-you-a-better-esports-gamer.html">Nvidia Reflex</a>, <a href="https://www.pcworld.com/article/423202/g-sync-vs-freesync-amd-nvidia-monitor.html">G-Sync</a>: these are just a few of the Nvidia-driven innovations that shook up the PC gaming world in recent years. <strong>Team Green sets the trends and the competition follows suit</strong>, without (at least so far) being able to achieve the same quality.</p>
+
+
+
+<p>This is not to say that <a href="https://www.pcworld.com/article/919457/amd-fsr-1-0-vs-fsr-2-0.html">AMD&rsquo;s FSR</a> or <a href="https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html">Intel&rsquo;s XeSS</a> upscaling technologies, for example, cannot also deliver impressive results. AMD in particular is doing a lot right with its DLSS alternative and the<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/watch?t=1866&amp;v=jKWwMY2qvlo&amp;feature=youtu.be&amp;xcust=2-1-2017022-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow"> information provided for FSR 3 so far</a> sounds promising. But until that happens, we have to compare <a href="https://www.pcworld.com/article/1662185/what-is-dlss-3-nvidia-geforce-rtx-ai-feature-explained.html">Nvidia&rsquo;s DLSS 3</a>, including its performance-skyrocketing frame generation, with AMD&rsquo;s FSR 2 &mdash; and this duel is clearly decided in favor of Nvidia both in terms of both the performance gained and the image quality.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/1662185/what-is-dlss-3-nvidia-geforce-rtx-ai-feature-explained.html">DLSS 3: How Nvidia&rsquo;s RTX-infused AI technologies turbocharge PC gaming</a></p>
+</blockquote>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="geforce-rtx-4070">GeForce RTX 4070</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="GeForce RTX 4070" class="product-widget__image" height="1667" src="https://b2c-contenthub.com/wp-content/uploads/2023/04/DSC02116.jpg?quality=50&amp;strip=all" width="2500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1781139/nvidia-geforce-rtx-4070-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6539358&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6539358%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-1-2017022-5-1781203-11566" rel="nofollow" target="_blank">$599.99 at  Best Buy</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>And even though ray tracing is still in its infancy and will probably make great leaps in the next few years, there are already games (<a href="https://www.pcworld.com/article/1782490/cyberpunk-2077-overdrive-mode-benchmarks-nvidia-rtx-path-tracing.html">such as Cyberpunk 2077</a>) in which I no longer want to miss the graphical upgrade ray tracing provides. Since I play in 1440p and with high settings, this requires a lot of ray tracing power and high-performance AI upscaling &mdash; both points in which Nvidia is currently ahead. </p>
+
+
+
+<p>This does not have to remain so. AMD will continue to work hard to catch up. And AMD&rsquo;s technologies also have some arguments in their favor, as my colleague <a href="https://www.pcworld.com/article/1997360/4-reasons-why-i-switched-from-nvidia-to-amd.html">very rightly explains in his article</a>. But the lead that Nvidia currently still enjoys convinced me to make the switch to Team Green. </p>
+
+
+
+<h2 class="wp-block-heading toc" id="creative-users-are-better-off-with-nvidia">Creative users are better off with Nvidia</h2>
+
+
+
+<p>CG Director, a hardware website with a special focus on creative applications, has <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.cgdirector.com/nvidia-geforce-vs-amd-radeon-gpus/&amp;xcust=2-1-2017022-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">compiled a list of twelve graphics cards</a> that are best suited for creative work, taking both small and large budgets into account. The list is no longer completely up-to-date, but the fact that only Nvidia GPUs are on the list shows Nvidia&rsquo;s position in the creative scene. </p>
+
+
+
+<p>An important factor here is CUDA, a software interface developed by Nvidia in which the graphics card can support the CPU as a co-processor. The highly specialized chip can thus perform all kinds of calculations. Processes that can be run in parallel, i.e. do not have to be processed sequentially, can be processed much faster than with a CPU. AMD, on the other hand, relies on the open source OpenCL, which often does not deliver the same performance as CUDA and is more difficult for developers to implement.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Premiere Pro - GPU" class="wp-image-1924332" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2023/05/Adobe-Premiere-Pro.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption">In our benchmarks for creative applications, AMD hardly gives the competition a chance.</figcaption></figure><p class="imageCredit">Sebastian Schenzinger</p></div>
+
+
+
+<p>CUDA is a proprietary interface, developed by and only compatible with Nvidia GPUs. Since many creative applications use the CUDA interface, graphics cards from other manufacturers often suffer from poorer performance or are even not supported at all.</p>
+
+
+
+<p>With the introduction of the RT cores on the RTX GPUs, Nvidia has another ace up its sleeve: Optix. Optix is also a prorietary framework from Nvidia, which aims to accelerate the calculation of ray tracing. And ray tracing is not only used to make games look more realistic, but can also significantly speed up creative applications, a vivid example of which is the open-source 3D renderer Blender.</p>
+
+
+
+<p>Nvidia&rsquo;s NVENC, a technology for faster encoding of videos, is also indispensable for many creative pros. Nvidia even provides different drivers for gamers and creatives: the Game Ready drivers and the Studio drivers.</p>
+
+
+
+<p>When I bought my last graphics card, creative applications were hardly an issue for me. However, that has changed in the past few years and applications like Adobe&rsquo;s Premiere Pro and After Effects are part of my daily tools. And so my switch to Nvidia was already decided. </p>
+
+
+
+<h2 class="wp-block-heading toc" id="a-few-final-words">A few final words</h2>
+
+
+
+<p>Having explained in detail why I ultimately decided to buy an Nvidia graphics card (<a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/s?k=rtx+4070&amp;crid=WHAQM6L123HH&amp;sprefix=rtx+4070&amp;ascsubtag=2-1-2017022-1-0-0" rel="nofollow">a GeForce RTX 4070</a>, to be precise), you might get the impression that the decision was easy for me. But a new graphics card is an expensive investment that should ideally last a few years and should therefore be well considered. </p>
+
+
+
+<p>You know best what your hardware requirements are and what aspects you value. Still undecided? <a href="https://www.pcworld.com/article/1997360/4-reasons-why-i-switched-from-nvidia-to-amd.html">Read my colleague&rsquo;s article</a>, which explains exactly why he ultimately opted for an AMD Radeon graphics card. After that, you will know the pros and cons of both manufacturers and can decide for yourself.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/s?k=rtx+4070&amp;crid=WHAQM6L123HH&amp;sprefix=rtx+4070&amp;ascsubtag=2-1-2017022-7-0-0" rel="nofollow" target="_blank">View GeForce RTX 4070 graphics cards on Amazon</a></p>
+
+
+<p><em>This article was translated from German to English and originally appeared on pcwelt.de.</em></p>
+
+Gaming, Graphics Cards</div>
+
+## HDMI vs. DisplayPort: Which display interface reigns supreme?
+ - [https://www.pcworld.com/article/457147/hdmi-vs-displayport-which-display-interface-reigns-supreme.html](https://www.pcworld.com/article/457147/hdmi-vs-displayport-which-display-interface-reigns-supreme.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The HDMI audio/video interface standard is everywhere: TVs, set-top boxes, media streamers, Blu-ray players, A/V receivers, gaming consoles, camcorders, digital cameras, and even a few smartphones. You&rsquo;ll also find an HDMI output port in most consumer desktop and laptop computers, as well as an <em>input</em> port on many all-in-one PCs, to enable a gaming console or a set-top box for use with the internal display.</p>
+
+
+
+<p>Given HDMI&rsquo;s ubiquity, you might have forgotten about the <em>other</em> digital audio/video standard: DisplayPort. Though you&rsquo;ll find it alongside HDMI on most discrete graphics cards, Macs, and business laptops, it&rsquo;s less common in consumer PCs. It&rsquo;s also rare as hen&rsquo;s teeth in consumer electronics devices.</p>
+
+
+
+<p>Both HDMI and DisplayPort can deliver high-definition digital video and high-resolution audio from a source device to a display, so you might be wondering: What&rsquo;s the difference? Why might you want DisplayPort when HDMI is so common? And how do USB Type-C port fit into the picture?  We&rsquo;ll answer those questions and more, but first, the tale of how the two standards came to be, and which entities control them.</p>
+
+
+
+<h2 class="wp-block-heading" id="hdmi-and-displayport-origins">HDMI and DisplayPort origins</h2>
+
+
+
+<p>The HDMI (High Definition Multimedia Interface) specification was conceived in 2002 by six consumer electronics giants: Hitachi, Panasonic, Philips, Silicon Image, Sony, and Toshiba. Today, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=http://www.hdmi.org/&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">HDMI Licensing, LLC</a>, a wholly owned subsidiary of Silicon Image, controls the spec, but some 80-odd vendors are members of the HDMI Forum. Member or not, manufacturers must pay a royalty for including HDMI in their products. They of course pass that cost along to you.</p>
+
+
+
+<p>The <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.displayport.org&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">DisplayPort</a> specification was developed by (and remains under the control of) the Video Electronics Standards Association (VESA), a large consortium of manufacturers ranging from AMD to ZIPS Corporation&mdash;nearly all of which <em>also</em> belong to the HDMI Forum. You&rsquo;ve likely heard the name VESA in relationship to video before. Most TV manufacturers, for instance, adhere to the organization&rsquo;s wall-mount standard.</p>
+
+
+
+<p>DisplayPort debuted in 2006 as part of an effort to replace two older standards used primarily for computer displays: VGA (Video Graphics Array, an analog interface first introduced in 1987) and DVI (Digital Video Interface, introduced in 1999). DisplayPort is a royalty-free product, but HDMI&rsquo;s four-year head start was tough competition. It made the most inroads with PCs, which have shorter technology cycles and often greater display needs.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Fun fact: Of the six companies responsible for the creation of HDMI, only Hitachi and Philips are not also member companies of VESA.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Best-Sellers-HDMI-Cables/zgbs/electronics/202505011&amp;xcust=2-1-457147-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View HDMI cables on Amazon</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/displayport-cable/s?k=displayport+cable&amp;xcust=2-1-457147-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View DisplayPort cables on Amazon</a></p></blockquote>
+
+
+
+<h2 class="wp-block-heading" id="hdmi-and-displayport-capabilities">HDMI and DisplayPort capabilities</h2>
+
+
+
+<p>HDMI, recently revised to version 2.1a, is capable of supporting bit rates up to <a href="https://www.techhive.com/article/3239084/hdmi-21-has-arrived-heres-everything-you-need-to-know.html">48Gbps</a>. VESA even more recently announced <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.displayport.org/pr/vesa-publishes-displayport-2-0-video-standard-enabling-support-for-beyond-8k-resolutions-higher-refresh-rates-for-4k-hdr-and-virtual-reality-applications/&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">DisplayPort 2.1</a>, which can handle raw throughput up to 80Gbps. However, DisplayPort 2.1 isn&rsquo;t supported by many devices currently, and HDMI 2.1a, which makes some of its features optional, is still being adopted. Not that it matters too significantly&mdash;DisplayPort 2.1 is more of a <a href="https://www.pcworld.com/article/1355415/displayport-2-1-announced-for-pcs.html">tightening up of the 2.0 spec</a>, and HDMI 2.1a only adds improved support for high-dynamic range displays. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2019/10/bandwidth2-01-100814005-orig.jpg" rel="nofollow"><img alt="bandwidth2 01" src="https://images.idgesg.net/images/article/2019/10/bandwidth2-01-100814005-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption"> <p>HDMI 2.1 and 2.1a allow higher-resolution video and audio than previous versions.</p> </figcaption></figure></div>
+
+
+
+
+<p>As you can see from the images above and below, HDMI and DisplayPort both have widened their pipes tremendously over the years.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2019/11/vesa_displayport_2.0_chart-100816523-orig.jpg" rel="nofollow"><img alt="vesa displayport 2.0 chart" src="https://images.idgesg.net/images/article/2019/11/vesa_displayport_2.0_chart-100816523-medium.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption"> <p>DisplayPort&rsquo;s bandwidth has increased significantly over the year<span>s. Version 2.1 keeps version 2.0&rsquo;s maximum bandwidth but tightens up the spec while adding a few more features.</span></p></figcaption></figure></div>
+
+
+
+
+<p>HDMI and DisplayPort are similar when it comes to practical applications, and the industry largely views them as complimentary standards. Indeed, HDMI 2.1a offers VESA&rsquo;s Display Stream Compression. DisplayPort&rsquo;s raw specs are certainly more impressive, but HDMI&rsquo;s capabilities have always been more than adequate for the mainstream A/V market.</p>
+
+
+
+<p>Note that both standards can drive older display types, both via adapters and adapter cables: HDMI to VGA and DVI; and DisplayPort to VGA, DVI, and HDMI. Both standards are also backward compatible, falling back to the oldest revision used in a connection.</p>
+
+
+
+<p>Here is a chart showing major features and specs for each standard. You can right-click and open the image a new tab to expand to a readable size.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="HDMI &amp; DisplayPort features" class="wp-image-2017866" height="328" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/features-100817366-orig.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /><figcaption class="wp-element-caption"><strong>Definitions:&nbsp;</strong>bpp is bits per pixel. 24bpp/3 subpixels = 8-bit color; 30bpp/3 = 10-bit color. 4:4:4 means full color and luminance data is being delivered. 60Hz and 60fps are equivalent. HDMI supports a second video stream, which can be used for a second display or for picture-in-picture/picture-by-picture, but it&rsquo;s rarely implemented. The DisplayPort cable spec allows for power transmission on pin 20, but these days, only Thunderbolt 1 and 2 support power carriage.</figcaption></figure><p class="imageCredit">PCWorld</p></div>
+
+
+
+<p>HDMI and DisplayPort do the same things, but in very different ways, and there are features unique to each. HDMI explicitly supports CEC (Consumer Electronics Control) for controlling entire A/V setups, and an HDMI cable can carry ethernet information. Ethernet requires a purpose-built cable as described in Cables section below. DisplayPort supports CEC over an auxiliary channel, but it&rsquo;s rarely if ever implemented, due simply to DisplayPort&rsquo;s faint footprint in the consumer electronics world.</p>
+
+
+
+<h2 class="wp-block-heading" id="using-multiple-displays-on-hdmi-and-displayport">Using multiple displays on HDMI and DisplayPort</h2>
+
+
+
+<p>Probably the biggest practical difference between the two standards is that DisplayPort can drive four daisy-chained displays and HDMI can drive just two, with implementations of the latter being extremely scarce.</p>
+
+
+
+<p>Note that the 48Gbps per second and the 80Gbps quoted above are the raw HDMI 2.1a and DisplayPort delivery speeds respectively. DisplayPort 2.1 has four lanes that can deliver approximately 77.37Gbps (19.34Gbps per lane) of actual data, while DisplayPort 1.4a can deliver 32.4Gbps (6.48Gbps per lane). HDMI 2.0 delivers 14.4Gbps, and the older HDMI 2.1 offers 42.6Gbps.</p>
+
+
+
+<p>To determine if a resolution will work, use the following calculation and compare it to the available bandwidth: <em>Horizontal resolution * vertical resolution * bits per pixel (i.e., color depth) * frames per second</em>. For example: 3840 * 2160 (4K UHD resolution) * 24bpp (8-bit color depth) * 60fps (refresh rate).</p>
+
+
+
+<p>Divide the standard&rsquo;s total data rate by your result to see how many displays you can use at that resolution with DisplayPort. There&rsquo;s a handy calculator at <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://k.kramerav.com/support/bwcalculator.asp&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">KV Audio</a>, although it misidentifies bits per cell (sub-pixel) as bits per pixel in the color depth field. (8bpc = 24bpp, etc.). Just to give you an idea, DisplayPort 1.4a and 2.1 can drive four daisychained 4K UHD displays with 8-bit color depth and a 60Hz refresh rate. You&rsquo;ll need the newer standard for 10-bit (30bpp) color&mdash;or use <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://vesa.org/vesa-display-compression-codecs/dsc/&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">DSC (Display Stream Compression)</a>.</p>
+
+
+
+<p>Alternatively, use the chart from the HDMI Forum showing resolutions and their approximate bandwidth. These correlate roughly to DisplayPort.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2018/02/formatdataratetable-100750471-orig.jpg" rel="nofollow"><img alt="formatdataratetable" src="https://images.idgesg.net/images/article/2018/02/formatdataratetable-100750471-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption">
+<p>This chart is for HDMI, but the bandwidths also translate to DisplayPort.</p>
+</figcaption></figure></div>
+
+
+
+
+<h2 class="wp-block-heading" id="hdr-support-on-hdmi-and-displayport">HDR Support on HDMI and DisplayPort</h2>
+
+
+
+<p>Both standards support HDR (High Dynamic Range), with its wider brightness and color gamuts, but HDMI 2.0x only supports static metadata (HDR10), while HDMI 2.1 and DisplayPort 1.4a/2.1 both support dynamic metadata (HDR10+, etc).</p>
+
+
+
+<p>Static metadata means TV adjustment-for-content data is sent once at that start of a video. Dynamic metadata means adjustment data is sent throughout the video and allows finer adjustments. Dolby Vision is embedded into the older stream protocols and will work with any recent version of both standards.</p>
+
+
+
+<h2 class="wp-block-heading" id="audio-transmission-on-hdmi-and-displayport">Audio transmission on HDMI and DisplayPort</h2>
+
+
+
+<p>HDMI and DisplayPort handle 192Hz/24-bit audio, but with HDMI, that&rsquo;s only over a single cable connection. That&rsquo;s fine for high-resolution audio buffs with an HD audio player and an A/V receiver. But to pass audio from a TV tuner or pass it through from a device attached to the TV to an A/V receiver, HDMI 1.4 and 2.0 use ARC (Audio Return Channel), which is limited to two channels of 44.1Hz/16-bit uncompressed audio.</p>
+
+
+
+<p>ARC supports highly compressed 5.1 surround, but uncompressed 5.1 and 7.1 audio, as well as sample rates up to 192kHz/24-bit are now possible via HDMI 2.1&rsquo;s <a href="https://www.techhive.com/article/3445045/hdmi-arc-and-hdmi-earc-explained.html">eARC (enhanced ARC) standard</a>.</p>
+
+
+
+<p>DisplayPort 1.4 and greater has no such issues and can pass uncompressed 7.1, 192Hz/24-bit audio audio to as many as four displays should you ever have the need for such a setup. Previous versions supported this on only a single display or receiver.</p>
+
+
+
+<h2 class="wp-block-heading" id="hdmi-connectors">HDMI connectors</h2>
+
+
+
+<p>HDMI connectors have 19 pins and are most commonly seen in three sizes: Type A (standard), Type C (mini), and Type D (micro). Of these, Type A is what you&rsquo;ll find on TVs, Blu-ray players, soundbars, and other large A/V components; Type C is often found on smaller devices, such as dash cams; and you&rsquo;ll typically encounter Type D on phones and tablets. A fourth category of HDMI connector, Type E, is used for automotive applications.</p>
+
+
+
+<p>Most HDMI connectors rely on friction to stay in place, although some vendors have developed proprietary locking mechanisms designed to prevent the cable from pulling loose.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://images.techhive.com/images/article/2013/03/hdmi_plugs-100028824-large.jpg?auto=webp&amp;quality=85,70" /><figcaption class="wp-element-caption">The three types of HDMI connectors you&rsquo;re most likely to encounter are (from left to right) standard, mini, and micro. A fourth connector type, for automotive applications, is not shown here.</figcaption></figure></div>
+
+
+
+
+<h2 class="wp-block-heading" id="displayport-connectors">DisplayPort connectors</h2>
+
+
+
+<p>DisplayPort connectors have 20 pins and are available in two sizes: DisplayPort and Mini DisplayPort (the latter is the port of choice for Microsoft&rsquo;s Surface Pro tablet, as well as Macs prior to Apple&rsquo;s adoption of USB Type-C/Thunderbolt 3). <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/s/ref=nb_sb_ss_i_1_9?url=search-alias%3Delectronics-accessories&amp;field-keywords=displayport+cable&amp;sprefix=displaypo%2Celectronics-accessories%2C204&amp;crid=L795MMVBO7G2&amp;rh=i%3Aelectronics-accessories%2Ck%3Adisplayport+cable&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Find one on Amazon</a>. Interestingly, Intel&rsquo;s Thunderbolt interfaces use the Mini DisplayPort connector for PCIe communications, but it can function as a DisplayPort port as well. </p>
+
+
+
+<p>Most full-size DisplayPort connectors have a locking mechanism, though the official spec does not require it.</p>
+
+
+
+<h2 class="wp-block-heading" id="hdmi-cables-explained">HDMI cables explained</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="a-reliable-upgrade-option">
+					A reliable upgrade Option				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="monoprice-8k-certified-ultra-high-speed-hdmi-2-1-cable-6-ft">Monoprice 8K Certified Ultra High Speed HDMI 2.1 Cable (6 ft)</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Monoprice 8K Certified Ultra High Speed HDMI 2.1 Cable (6 ft)" class="product-widget__image" height="800" src="https://images.idgesg.net/images/article/2021/05/monopricehdmi-100889710-orig.jpg?quality=50&amp;strip=all" width="1210" />
+						</div>
+					</div>
+				
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B08X6C4MY9?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-1-457147-5-392984-13392&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$10.49 at  Amazon</a>											<span class="amp-bar"> | </span>
+																		<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.monoprice.com/product?p_id=42674&amp;xcust=2-1-457147-5-392984-13392&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$14.99 at  Monoprice</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>One thing to know about HDMI cables is that while there is a layout specification (i.e., the number or wires, pin connections, etc.), and the cable type is category 3 (twisted pairs with no shielding required), there isn&rsquo;t a spec for the <em>materials</em> used in the cable&rsquo;s construction. Hence, HDMI signals can also be run over CAT5 or CAT6 cable (with a maximum resolution of 1080p), or over fiber-optic cable, according to HDMI Licensing LLC. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/s/ref=nb_sb_noss?url=node%3D202505011&amp;field-keywords=active+hdmi+type+a+cable&amp;rh=n%3A172282%2Cn%3A281407%2Cn%3A172532%2Cn%3A172540%2Cn%3A464418%2Cn%3A202505011%2Ck%3Aactive+hdmi+type+a+cable&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Active cables</a> with signal-booster circuitry, meanwhile, can be longer and thinner (up to 130 feet, compared to 65 feet for passive cables). Thinner cables are less likely to fail when forced to make hard bends.</p>
+
+
+
+<p>That&rsquo;s all great, but it does muddy the waters a bit for users as to which cables will work with which devices. There is a <a href="https://www.techhive.com/article/2988931/a-new-hdmi-certification-program-will-make-it-easier-to-avoid-crappy-cables.html">testing and certification program</a> if you want a logo, but an overbuilt cable from the early days will quite likely work with the more recent standards; i.e., higher resolutions and color depths.</p>
+
+
+
+<p>There are currently three bandwidth standards and logos you might see, with a variant of each that re-tasks two wires to carry ethernet. That&rsquo;s including the new Ultra cables from the <a href="https://www.pcworld.com/article/3239026/components-graphics/hdmi-21-spec-10k-resolution-dynamic-hdr.html">HDMI 2.1 spec</a>.</p>
+
+
+
+<ul>
+<li><strong> Standard HDMI Cable:</strong> Provides sufficient bandwidth for only 720p and 1080i resolution video. The ethernet variant can carry 100Mbps.</li>
+
+
+
+<li><strong> High Speed HDMI Cable:</strong> These are good for up to 2160p (4K or 4K UHD), but only at a 24Hz refresh rate. Again, the ethernet variant carries 100Mbps.</li>
+
+
+
+<li><strong> Ultra High Speed HDMI Cable:</strong> These cables are capable of carrying HDMI 2.1a&rsquo;s full 48Gbps, which is good for 8K, 8K UHD, as well as flavors of 10K if the video is compressed. As three wires have been re-tasked, this might send some lesser cables to the bench. The ethernet cable variant remains at 100Mbps, according to the HDMI Forum&rsquo;s feature table.</li>
+</ul>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2019/05/high-speed-hdmi-cable-100797927-orig.jpg" rel="nofollow"><img alt="high speed hdmi cable" src="https://images.idgesg.net/images/article/2019/05/high-speed-hdmi-cable-100797927-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption">
+<p>If your current cables don&rsquo;t pass muster, buy replacements that meet the spec of the video resolution you intend to watch. Given reasonably good build quality, many cables you now own will function fine, even as you step up from 720 to 1080 to 2160 (4K UHD) to 4320 (8K UHD).</p>
+</figcaption></figure></div>
+
+
+
+
+<p>We&rsquo;ve used any number of HDMI cables, from many eras, without encountering any issues, including passive 25-footers carrying 4K UHD signals. That said, <a href="https://www.techhive.com/article/3252040/the-hdmi-21-low-down-dont-dump-your-legacy-cables.html">8K might be different; or it might not.</a> The upshot is that you should try the cables you own with your new devices, and only upgrade them if you run into problems. (If it turns out you do need to upgrade, you can <a href="https://www.pcworld.com/article/394589/best-hdmi-cables-for-monitors.html">consult our HDMI cable suggestions</a> for what to get.)</p>
+
+
+
+<h2 class="wp-block-heading" id="displayport-cables-explained">DisplayPort cables explained</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="an-upgrade-option">
+					An upgrade option				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="displayport-2-1-cable">DisplayPort 2.1 Cable</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="DisplayPort 2.1 Cable" class="product-widget__image" height="1500" src="https://b2c-contenthub.com/wp-content/uploads/2023/08/71lfRhW6VKL._SL1500_.jpg?quality=50&amp;strip=all" width="1200" />
+						</div>
+					</div>
+				
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B0BDL5NPHX?tag=pcworld02-20&amp;linkCode=ogi&amp;th=1&amp;psc=1&amp;xcust=2-1-457147-5-2017923-24518&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$19.50 at  Amazon</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>The story on DisplayPort cables is a bit simpler in that there&rsquo;s one basic 5-meter (16 feet) cable design, and only two connectors: full and mini; but as with HDMI, there are types and certification levels, as shown below.</p>
+
+
+
+<ul>
+<li><strong>RBR DisplayPort cable</strong> (Reduced Bit Rate) 6.48Gbps (DisplayPort 1.0)</li>
+
+
+
+<li><strong>Standard DisplayPort cable</strong> for HBR (High Bit Rate) 10.80Gbps and HBR2 (High Bit Rate 2) 21.60Gbps</li>
+
+
+
+<li><strong>DP8K cable</strong> for HBR3 (High Bit Rate 3) 32.40Gbps (DisplayPort 1.3) and UHBR 10 (Ultra High Bit Rate 10) 40Gbps (DisplayPort 2.0)</li>
+</ul>
+
+
+
+<p>Again, try your cable before you opt for something more expensive, whether it has a label or not. Also, practical experience has shown that VESA&rsquo;s length specs are very conservative, depending on resolution.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://images.techhive.com/images/article/2013/03/displayport_cables_1160-100028851-large.jpg?auto=webp&amp;quality=85,70" /><figcaption class="wp-element-caption">The two types of DisplayPort connectors are Standard (left) and Mini. These images are decidedly not to scale&mdash;the Mini (right) is half the width of the full-sized connector.</figcaption></figure></div>
+
+
+
+
+<p>Active copper DisplayPort cables draw power from the DisplayPort connector to operate a signal amplifier embedded in the connector, and they can be considerably longer than passive cables.</p>
+
+
+
+<p>Pin 20 in the DisplayPort spec is used for power over Thunderbolt, and was originally used with DisplayPort. However, it caused issues and was dropped from cables if not the connectors. That&rsquo;s the reason there are both Thunderbolt and DisplayPort cables, rather than one type. Older non-certified DisplayPort cables might have pin 20 connected. Be careful with them, or sell them to someone with a Thunderbolt setup.</p>
+
+
+
+<p>As to cable lengths, the shortest you can get away with is the best. Active will be required for very long runs, but what you&rsquo;ll find for sale at this point in development is a good indication of what&rsquo;s possible. Again, the story with the latest standards has yet to be written, so after trying your old cables, buy one with the appropriate logo.</p>
+
+
+
+<h2 class="wp-block-heading" id="is-usb-c-the-future">Is USB-C the future?</h2>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="the-best-budget-usb-c-monitor">
+					the best budget usb-c monitor				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="nzxt-canvas-27q">NZXT Canvas 27Q</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="NZXT Canvas 27Q" class="product-widget__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2022/08/nzxt-canvas-27q-4.jpg?quality=50&amp;strip=all" width="1500" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/828353/nzxt-canvas-27q-monitor-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+												<div class="product-widget__information--rrp-wrapper">
+									<span class="product-widget__information--rrp-label">
+																	</span>
+									<span class="product-widget__information--rrp-value">
+																		</span>
+								</div>
+								
+											<div class="product-widget__pricing-details  ">
+															<span class="product-widget__pricing-details--label">
+									Best Prices Today:
+								</span>
+														<span class="product-widget__pricing-details--links-wrapper">
+								<a class="product-widget__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://nzxt.com/product/canvas-27q&amp;xcust=2-1-457147-5-828357-14418&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$249.99 at  NZXT</a>							</span>
+						</div>
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>When USB 3.1 showed up, a corollary standard for a new, updated connector was also introduced: USB Type-C, or USB-C (as it&rsquo;s been officially dubbed by the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.usb.org/about&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">USB Implementers Forum</a>). That&rsquo;s a good thing as a feature called &ldquo;Alternate Mode&rdquo; allows Type-C ports and cables to be used for other transport protocols, including Thunderbolt, DisplayPort, MHL (Mobile High-definition Link, for cell phones), VirtualLink (for VR headsets), and HDMI.</p>
+
+
+
+<p>So far, however, alternate mode is being used almost exclusively for Thunderbolt (which embeds DisplayPort), DisplayPort, and of course USB. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.hdmi.org/spec/typec&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Alt-mode HDMI</a>, though available, has yet to show up en masse.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p><strong>Further reading: </strong><a href="https://www.pcworld.com/article/1377172/best-usb-c-monitors.html">Best USB-C monitors</a></p>
+</blockquote>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><a class="zoom" href="https://images.idgesg.net/images/article/2019/02/usb-c-cable-orange-100789529-orig.jpg" rel="nofollow"><img alt="usb c cable orange" src="https://images.idgesg.net/images/article/2019/02/usb-c-cable-orange-100789529-large.jpg?auto=webp&amp;quality=85,70" /></a><figcaption class="wp-element-caption">
+<p>USB-C features an alternate mode that allows the use of alternative transport protocols, such as DisplayPort and HDMI.</p>
+</figcaption></figure></div>
+
+
+
+
+<p>Captains of industry rarely play champion of humanity; however, if the stars align, and they all wake up in a particularly good mood one day, maybe all your consumer electronics and computer vendors will decide on a single cable type. That would be nice for both your pocketbook and the the environment.</p>
+
+
+
+<p>Note that DisplayPort 2.1 and HDMI 2.1a might be constrained, as <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.usb.org/sites/default/files/2022-10/USB-IF%20USB%2080Gbps%20Announcement_FINAL_v2.pdf&amp;xcust=2-1-457147-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">the latest USB spec</a> allows for &ldquo;only&rdquo; 80Gbps of bandwidth. (Though that still supports all the way up to 8K resolutions at 60fps.)</p>
+
+
+
+<h2 class="wp-block-heading" id="which-display-interface-is-best-right-now">Which display interface is best right now?</h2>
+
+
+
+<p>Technically, DisplayPort sounds like HDMI&rsquo;s awesome big brother, but HDMI can easily stand up for itself in average practical applications. If you&rsquo;re talking TVs, A/V receivers, and the like, as well as budget computing, HDMI is what you&rsquo;re going get 99.9 percent of the time, and it&rsquo;s more than adequate.</p>
+
+
+
+<p>On the other hand, if you&rsquo;re looking to create a robust monitor setup (i.e., use of a high-resolution display with a high-refresh rate), you&rsquo;re talking DisplayPort. That generally requires a discrete graphics card, but with the growing acceptance of USB Type-C ports as a standard, hopefully DisplayPort will become significantly more widespread in all sectors of the market.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/Best-Sellers-HDMI-Cables/zgbs/electronics/202505011&amp;xcust=2-1-457147-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View HDMI cables on Amazon</a></p>
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/displayport-cable/s?k=displayport+cable&amp;xcust=2-1-457147-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">View DisplayPort cables on Amazon</a></p>
+HDTVs, Laptop Accessories, Laptops, Monitors, Technology Industry</div>
+
+## These award-winning translation earbuds are now just $100
+ - [https://www.pcworld.com/article/2019222/2019222.html](https://www.pcworld.com/article/2019222/2019222.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-04T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>When you&rsquo;re a citizen of the world, you want to be able to speak with as many people as possible. As someone who never stops learning, you&rsquo;re probably not interested in back-to-school sales, but you should pay attention to this one. That&rsquo;s because globetrotters can pick up the CES Innovation Awardee, <a href="https://shop.pcworld.com/sales/mymanu-clik-s-award-winning-translation-earbuds?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=mymanu-clik-s-award-winning-translation-earbuds&amp;utm_term=scsf-576090&amp;utm_content=a0x1P000005OryxQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Mymanu CLIK S Translation Earbuds</a> for an extra $50 off.</p>
+
+
+
+<p>The truly wireless CLIK S earbuds enable you to converse in 37 languages in real-time, thanks to the proprietary translation app, MyJuno. You&rsquo;ll be able to enjoy your music in HD clarity and then, when it&rsquo;s time to speak to someone, use the app to translate 1-on-1 or group conversations by speech or chat. It works incredibly fast and helps you learn the language via a phrasebook and dictionary for practice.</p>
+
+
+
+<p><strong>MORE:</strong> <a href="https://shop.pcworld.com/collections/back-to-school?utm_source=PCWorld&amp;utm_campaign=back-to-school-collection" rel="noreferrer noopener" target="_blank">Check out all of our Back-to-School sales</a></p>
+
+
+
+<p>Travel smarter when you take advantage of this Back-to-School deal. Now through August 13, you can get the <a href="https://shop.pcworld.com/sales/mymanu-clik-s-award-winning-translation-earbuds?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=mymanu-clik-s-award-winning-translation-earbuds&amp;utm_term=scsf-576090&amp;utm_content=a0x1P000005OryxQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Mymanu CLIK S Translation Earbuds</a> for 36% off $157 at just $99.97.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/mymanu-clik-s-award-winning-translation-earbuds?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=mymanu-clik-s-award-winning-translation-earbuds&amp;utm_term=scsf-576090&amp;utm_content=a0x1P000005OryxQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp2.stackassets.com/384200a07c3852a641959e95dcf3c0fae1d3c20f/store/dd452bd65980475e21be264d8e65c0361aaa243c6a63f3dbe178ca86c27c/sale_27171_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Mymanu CLIK S: Award-Winning Translation Earbuds &ndash; $99.97</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/mymanu-clik-s-award-winning-translation-earbuds?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=mymanu-clik-s-award-winning-translation-earbuds&amp;utm_term=scsf-576090&amp;utm_content=a0x1P000005OryxQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">See Deal</a></p>
+
+
+
+<p>Prices are subject to change.</p>
+
+Accessories</div>
+

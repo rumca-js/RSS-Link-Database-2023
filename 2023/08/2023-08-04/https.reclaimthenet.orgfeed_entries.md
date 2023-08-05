@@ -1,0 +1,58 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## California Is Testing Controversial Digital ID, Starting With Driver’s Licenses
+ - [https://reclaimthenet.org/california-is-testing-controversial-digital-id](https://reclaimthenet.org/california-is-testing-controversial-digital-id)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T16:57:45+00:00
+
+<a href="https://reclaimthenet.org/california-is-testing-controversial-digital-id" rel="nofollow" title="California Is Testing Controversial Digital ID, Starting With Driver&#8217;s Licenses"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/newsom-drive.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Major privacy and civil liberties questions are still unanswered.</p>
+<p>The post <a href="https://reclaimthenet.org/california-is-testing-controversial-digital-id" rel="nofollow">California Is Testing Controversial Digital ID, Starting With Driver&#8217;s Licenses</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Jim Jordan Demands Answers From Pro-Censorship Activist Group
+ - [https://reclaimthenet.org/jim-jordan-demands-answers-from-pro-censorship-activist-group](https://reclaimthenet.org/jim-jordan-demands-answers-from-pro-censorship-activist-group)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T16:54:46+00:00
+
+<a href="https://reclaimthenet.org/jim-jordan-demands-answers-from-pro-censorship-activist-group" rel="nofollow" title="Jim Jordan Demands Answers From Pro-Censorship Activist Group"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/jim-jordan-censor.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Jordan alleges that the Biden administration used a report from the group as a basis to justify censorship pressure.</p>
+<p>The post <a href="https://reclaimthenet.org/jim-jordan-demands-answers-from-pro-censorship-activist-group" rel="nofollow">Jim Jordan Demands Answers From Pro-Censorship Activist Group</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Meta Will Unmask Anonymous Dutch Facebook User Accused of “Defamation”
+ - [https://reclaimthenet.org/meta-will-unmask-anonymous-dutch-facebook-user-accused-of-defamation](https://reclaimthenet.org/meta-will-unmask-anonymous-dutch-facebook-user-accused-of-defamation)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T16:48:15+00:00
+
+<a href="https://reclaimthenet.org/meta-will-unmask-anonymous-dutch-facebook-user-accused-of-defamation" rel="nofollow" title="Meta Will Unmask Anonymous Dutch Facebook User Accused of &#8220;Defamation&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/fb-nether.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>A new court ruling out of The Netherlands.</p>
+<p>The post <a href="https://reclaimthenet.org/meta-will-unmask-anonymous-dutch-facebook-user-accused-of-defamation" rel="nofollow">Meta Will Unmask Anonymous Dutch Facebook User Accused of &#8220;Defamation&#8221;</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## How The UN’s Cybercrime Convention Draft Is a Threat To Free Speech and Privacy Online
+ - [https://reclaimthenet.org/how-the-uns-cybercrime-convention-draft-is-a-threat-to-free-speech-and-privacy-online](https://reclaimthenet.org/how-the-uns-cybercrime-convention-draft-is-a-threat-to-free-speech-and-privacy-online)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T16:38:33+00:00
+
+<a href="https://reclaimthenet.org/how-the-uns-cybercrime-convention-draft-is-a-threat-to-free-speech-and-privacy-online" rel="nofollow" title="How The UN’s Cybercrime Convention Draft Is a Threat To Free Speech and Privacy Online"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/un-7557.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Unchanged, the new treaty will curb civil liberties.</p>
+<p>The post <a href="https://reclaimthenet.org/how-the-uns-cybercrime-convention-draft-is-a-threat-to-free-speech-and-privacy-online" rel="nofollow">How The UN’s Cybercrime Convention Draft Is a Threat To Free Speech and Privacy Online</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Controversial Eyeball-Scanning Worldcoin To Allow Governments To Use Its Digital ID System
+ - [https://reclaimthenet.org/controversial-eyeball-scanning-worldcoin-to-allow-governments-to-use-its-digital-id-system](https://reclaimthenet.org/controversial-eyeball-scanning-worldcoin-to-allow-governments-to-use-its-digital-id-system)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T16:31:14+00:00
+
+<a href="https://reclaimthenet.org/controversial-eyeball-scanning-worldcoin-to-allow-governments-to-use-its-digital-id-system" rel="nofollow" title="Controversial Eyeball-Scanning Worldcoin To Allow Governments To Use Its Digital ID System"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/world-c.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Allowing state actors to use the dystopian technology.</p>
+<p>The post <a href="https://reclaimthenet.org/controversial-eyeball-scanning-worldcoin-to-allow-governments-to-use-its-digital-id-system" rel="nofollow">Controversial Eyeball-Scanning Worldcoin To Allow Governments To Use Its Digital ID System</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Fauci Successor, Dr. Jeanne Marrazzo, Said There Should Be “Consequences” For “Misinformation,” But Spreads It Herself
+ - [https://reclaimthenet.org/marrazzo-said-there-should-be-consequences-for-misinformation](https://reclaimthenet.org/marrazzo-said-there-should-be-consequences-for-misinformation)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T16:21:27+00:00
+
+<a href="https://reclaimthenet.org/marrazzo-said-there-should-be-consequences-for-misinformation" rel="nofollow" title="Fauci Successor, Dr. Jeanne Marrazzo, Said There Should Be &#8220;Consequences&#8221; For &#8220;Misinformation,&#8221; But Spreads It Herself"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/Marrazzo.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>More pro-censorship hypocrisy.</p>
+<p>The post <a href="https://reclaimthenet.org/marrazzo-said-there-should-be-consequences-for-misinformation" rel="nofollow">Fauci Successor, Dr. Jeanne Marrazzo, Said There Should Be &#8220;Consequences&#8221; For &#8220;Misinformation,&#8221; But Spreads It Herself</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Robert F Kennedy Jr. Sues Google and YouTube Over Constant Censorship
+ - [https://reclaimthenet.org/robert-f-kennedy-jr-sues-google-and-youtube-over-censorship](https://reclaimthenet.org/robert-f-kennedy-jr-sues-google-and-youtube-over-censorship)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-08-04T01:33:33+00:00
+
+<a href="https://reclaimthenet.org/robert-f-kennedy-jr-sues-google-and-youtube-over-censorship" rel="nofollow" title="Robert F Kennedy Jr. Sues Google and YouTube Over Constant Censorship"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/08/rfk-jr-sue-youtube.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Kennedy uses the findings of collusion between the government and Big Tech to allege First Amendment violations.</p>
+<p>The post <a href="https://reclaimthenet.org/robert-f-kennedy-jr-sues-google-and-youtube-over-censorship" rel="nofollow">Robert F Kennedy Jr. Sues Google and YouTube Over Constant Censorship</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

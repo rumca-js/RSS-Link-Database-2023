@@ -1,0 +1,495 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Zuck says Threads will add search and web ‘in the next few weeks’
+ - [https://www.theverge.com/2023/8/4/22381931/threads-web-search-next-few-weeks](https://www.theverge.com/2023/8/4/22381931/threads-web-search-next-few-weeks)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T23:31:43+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/Tb-mk2J9UQJLB7dIkmUH63fTH10=/5x0:1126x747/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515836/threads_web.0.jpg" />
+        <figcaption><a class="ql-link" href="http://Threads.net" target="_blank"><em>Threads.net</em></a><em>, as of August 2023.</em> | Image by Meta; Screencap by Sean Hollister / The Verge</figcaption>
+    </figure>
+
+  <p id="m2ZZpV">If you go to <a href="http://Threads.net">Threads.net</a> to access Meta’s popular Twitter clone, you’ll still find a spinning placeholder galaxy — but that should change in the next few weeks, according to <a href="https://www.threads.net/@zuck/post/Cviggu9PdPx/">a new post from CEO Mark Zuckerberg</a>. </p>
+<p id="xs61gU">“Search and web coming in the next few weeks,” he writes, saying he’s “excited about the team’s pace of shipping.”</p>
+<div id="iYUard">
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 100%;"><a href="https://www.threads.net/@zuck/post/Cviggu9PdPx"></a></div></div>
+
+</div>
+<p id="pGG8Az">Meta took a gamble on launching a barebones Twitter alternative at breakneck speed while Twitter <a href="https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates">continued to crumble</a>, and it may have paid off — my colleague Alex Heath <a href="https://www.theverge.com/2023/7/26/23809080/mark-zuckerberg-meta-q2-earnings-threads-one-billion-users">recently wrote</a> that Threads hit 100 million signups faster than any consumer software product in history. </p>
+<div class="c-float-left c-float-hang"><aside id="yB11mn"><div></div></aside></div>
+<p id="ElAIjV">But more than half of those users didn’t stick around, <a href="https://www.reuters.com/business/media-telecom/meta-plans-retention-hooks-threads-more-than-half-users-leave-app-2023-07-28/">according to <em>Reuters</em></a>, and while that may be expected for <em>any </em>software product, much...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/22381931/threads-web-search-next-few-weeks">Continue reading&hellip;</a>
+  </p>
+
+## Your Android phone may soon read QR codes from across the room
+ - [https://www.theverge.com/2023/8/4/23820353/android-gms-qr-code-scanner-auto-zoom-api-machine-learning](https://www.theverge.com/2023/8/4/23820353/android-gms-qr-code-scanner-auto-zoom-api-machine-learning)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T23:02:53+00:00
+
+<figure>
+      <img alt="three phone screenshots, showing camera looking at a distant QR code, then one with the QR code zoomed into, and then the interpreted information from the scan." src="https://cdn.vox-cdn.com/thumbor/hp3F2DxqupfNZ582SswPQRzIIX4=/0x0:4480x2987/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515790/Screenshot_2023_08_04_at_3.28.06_PM.0.jpeg" />
+        <figcaption><em>Google’s sample of the code scanner API auto-zoom.</em> | Image: Google</figcaption>
+    </figure>
+
+  <p id="KIpmA4">You might soon not have as much trouble reading far away QR codes on your Android phone. Google is working on a new code scanner that automatically detects a QR code in the camera frame, zooms in, and reads it. The feature isn’t quite making its way to devices just yet — but <a href="https://developers.google.com/ml-kit/vision/barcode-scanning/code-scanner">it’s in the latest APIs</a> Google is making available to developers.</p>
+<p id="d0R3ga">Specifically, it's Google’s code scanner API that’s been updated with the new ability. It works in Google’s QR Code Scanner system app, but can also be implemented into other apps.</p>
+<p id="zNzMRP">If developers implement the code scanner API, users won’t have to grant camera permissions — saving developers time by not having to build a custom experience. The API leverages Google’s on-device machine learning to...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820353/android-gms-qr-code-scanner-auto-zoom-api-machine-learning">Continue reading&hellip;</a>
+  </p>
+
+## Judge dismisses major arguments in Google antitrust case
+ - [https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed](https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T21:35:51+00:00
+
+<figure>
+      <img alt="Image of the Google “G” logo on a blue, black, and purple background." src="https://cdn.vox-cdn.com/thumbor/0HYRz8SoW4VbSMZdjkmkfAegozk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515551/STK093_Google_03.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="rRrdlF">The government’s antitrust case against Google just got significantly smaller. In <a href="https://www.documentcloud.org/documents/23897767-usa-v-google?responsive=1&amp;title=1">a filing on Friday</a>, a US district court judge dismissed several of the claims that the Department of Justice and a coalition of states brought against the company, including allegations that Google Search harms competing services.</p>
+<p id="Tdp6s5">The decision stems from a pair of lawsuits that the DOJ and a group of 38 state attorneys general <a href="https://www.theverge.com/2020/12/17/22186994/google-search-antitrust-lawsuit-colorado-nebraska-state-ags">filed against Google in 2020</a>. While the DOJ and states originally filed separately, the suit has since become mostly consolidated. The suit accuses Google of anti-competitive behavior on a number of fronts, including designing its search engine to disadvantage competitors like Yelp, Expedia, and Tripadvisor.</p>
+<p id="DJCBuH">However, Judge Amit Mehta...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820538/google-antitrust-lawsuit-claims-dismissed">Continue reading&hellip;</a>
+  </p>
+
+## Twitch streamer Kai Cenat taken into custody after chaotic giveaway in NYC’s Union Square
+ - [https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square](https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T21:04:19+00:00
+
+<figure>
+      <img alt="An image of NBC 4’s coverage of the Kai Cenat giveaway." src="https://cdn.vox-cdn.com/thumbor/MzrZorDUd8CakFJTwIKpLE82jzw=/53x0:3404x2234/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515441/SCR_20230804_mpgd.5.jpeg" />
+        <figcaption>Image: NBC 4</figcaption>
+    </figure>
+
+  <p id="Mi2Eew">On Friday, a massive gathering of people showed up at New York City’s Union Square for a giveaway hosted by two social media influencers, mega-popular Twitch streamer Kai Cenat and another streamer, Fanum. Cenat and “a few other people” have been arrested, <a href="https://www.nbcnewyork.com/news/local/twitch-streamers-giveaway-event-sparks-chaos-in-manhattan-police-try-to-contain/4565539/">NBC 4 reports</a>. </p>
+<p id="CLFZTX">Cenat and Fanum have continued posting to social media, sharing and deleting images on their Instagram stories, including one with the text, “I love you guys to the fullest you guys are amazing, THE LOVE FROM HOME BASE IS REAL, Please be safe.”</p>
+  <figure class="e-image">
+        
+      <cite>Image: Kai Cenat / Fanum (Instagram)</cite>
+  </figure>
+<p id="VoCwmZ">Cenat is the most-subscribed streamer on Twitch, <a href="https://twitchtracker.com/subscribers">according to TwitchTracker</a>. The giveaway was set to take place <a href="https://twitter.com/KaiCenat/status/1687520704487419904">at Union Square Park at 4PM ET</a>. Cenat posted <a href="https://www.twitch.tv/videos/1890167340">a nearly...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820637/kai-cenat-ps5-giveaway-nyc-union-square">Continue reading&hellip;</a>
+  </p>
+
+## Corner Office could be a clever nightmare about main character syndrome if it weren’t so stuck in its own head
+ - [https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm](https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T20:33:52+00:00
+
+<figure>
+      <img alt="A mustachioed man wearing glasses and a suit looking up and to his right with a look of concern on his face." src="https://cdn.vox-cdn.com/thumbor/Vqz2_VcV-0yjkoQRuTTlT3IEceY=/471x0:3021x1700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515353/KxoqfZ1w.0.jpeg" />
+        <figcaption><em>Jon Hamm as Orson.</em> | Image: Lionsgate</figcaption>
+    </figure>
+
+
+  		 <p>Lionsgate’s new dark comedy from director Joachim Back plays more like a lengthy ASMR video starring Jon Hamm.</p>
+  <p>
+    <a href="https://www.theverge.com/23820232/lionsgate-corner-office-review-jon-hamm">Continue reading&hellip;</a>
+  </p>
+
+## YouTube’s ‘enhanced’ 1080p for Premium subscribers is now available on desktop web
+ - [https://www.theverge.com/2023/8/4/23820482/youtube-enhanced-bitrate-1080p-premium-desktop-web-living-room](https://www.theverge.com/2023/8/4/23820482/youtube-enhanced-bitrate-1080p-premium-desktop-web-living-room)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T20:21:20+00:00
+
+<figure>
+      <img alt="YouTube’s logo with geometric design in the background" src="https://cdn.vox-cdn.com/thumbor/5bLxsLH4JSHBg8Ze9i0dJm7QCvQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515302/acastro_STK092_04.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="xmMK1p">YouTube’s higher-quality 1080p option is now available for all Premium subscribers on desktop globally, spokesperson Paul Pennington confirmed to <em>The Verge</em>. The company officially launched the “enhanced bitrate” 1080p <a href="https://www.theverge.com/2023/2/23/23612647/youtube-1080p-premium-subscription-bitrate">in April on iOS</a> after <a href="https://www.theverge.com/2023/2/23/23612647/youtube-1080p-premium-subscription-bitrate">an earlier test</a>.</p>
+<p id="cLhQIH">I don’t pay for Premium, but I’ve seen the enhanced bitrate option on a handful of videos on Friday as I browsed YouTube in Chrome on my MacBook Air. When I try to click the enhanced bitrate, YouTube prompts me to subscribe to Premium to be able to use it. (If you decide to subscribe to Premium to get the better bitrate, you should know that the service <a href="https://www.theverge.com/2023/7/20/23801390/youtube-premium-music-price-increase">is a bit more expensive than it used to be</a>.)</p>
+  <figure class="e-image">
+        
+      <cite>Screenshot by Jay Peters / The Verge</cite>
+      <figcaption>
+<em>An ad </em><a class="ql-link" href="https://www.youtube.com/watch?v=5AKl_cEB26c" target="_blank"><em>for the Meta Quest 3...</em></a></figcaption></figure>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820482/youtube-enhanced-bitrate-1080p-premium-desktop-web-living-room">Continue reading&hellip;</a>
+  </p>
+
+## Overwatch 2’s newest cinematic is the next big step in the game’s journey
+ - [https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion](https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T19:54:42+00:00
+
+<figure>
+      <img alt="Screenshot from Overwatch 2 featuring the hero Sojourn, a female African Canadian hero with a fully cybernetic body" src="https://cdn.vox-cdn.com/thumbor/1f6oK5TuRCSqwD1sX0S2eAi5Xos=/0x0:1920x1280/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515227/sojourn__1_.0.png" />
+        <figcaption>Image: Blizzard</figcaption>
+    </figure>
+
+
+  		 <p>Calling reintroduces Overwatch fans to Sojourn, a central figure in Overwatch’s expanding narrative.</p>
+  <p>
+    <a href="https://www.theverge.com/23820453/overwatch-2-new-cinematic-sojourn-overwatch-invasion">Continue reading&hellip;</a>
+  </p>
+
+## VanMoof is for sale — here’s who’s interested in buying the bankrupt e-bike brand
+ - [https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer](https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T19:28:36+00:00
+
+<figure>
+      <img alt="VanMoof S3 Electric Bicycle" src="https://cdn.vox-cdn.com/thumbor/UhEpQYj4rc17JzaP4PKzxxizdX0=/6x0:5783x3851/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515137/1537848781.0.jpg" />
+        <figcaption>Photo by Sjoerd van der Wal / Getty Images</figcaption>
+    </figure>
+
+  <p id="p6TKlP">VanMoof, the e-bike company that <a href="https://www.theverge.com/2023/7/18/23798584/vanmoof-e-bikes-is-bankrupt">declared bankruptcy in the Netherlands last month</a>, is for sale. A number of buyers are rumored to be circling the popular Dutch brand, but the one potential bidder making the most noise is also the one least likely to be successful. </p>
+<p id="GTCwLq">The two administrators who were chosen by the Dutch court as trustees for VanMoof are telling the local press that several bids have been made. “In the coming days, the bids will be compared with each other and discussed with the stakeholders,” said curators Jan Padberg and Robin de Wit, <a href="https://www.bright.nl/nieuws/1145748/vanmoof-doorstart-van-moof-overname-elektrische-fiets.html">according to <em>Bright</em></a>. The aim is to reach a final agreement within a few days. </p>
+<div class="c-float-left c-float-hang"><aside id="P9FMdD"><q>“In the coming days, the bids will be compared with each other and discussed with the stakeholders.”</q></aside></div>
+<p id="PxLdZS">The...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820106/vanmoof-sale-buyers-bid-micromobility-offer">Continue reading&hellip;</a>
+  </p>
+
+## The former Canoo CEO hired by Apple is facing a lawsuit from the SEC
+ - [https://www.theverge.com/2023/8/4/23820329/canoo-former-ceo-apple-ulrich-kranz-sec-lawsuit](https://www.theverge.com/2023/8/4/23820329/canoo-former-ceo-apple-ulrich-kranz-sec-lawsuit)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T19:14:44+00:00
+
+<figure>
+      <img alt="A photo showing a Canoo EV" src="https://cdn.vox-cdn.com/thumbor/YrLuAOzL-crJeYONM44ZGsw2WOs=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72515096/canoo_van_photo.0.jpeg" />
+        <figcaption>Image: Canoo</figcaption>
+    </figure>
+
+  <p id="sgEbql">Ulrich Kranz, the Apple car executive who served as the former CEO of the EV startup Canoo, is facing some legal trouble. On Friday, the Securities and Exchange Commission filed a lawsuit against Kranz and former Canoo chief financial officer Paul Balciunas over claims they provided “unreasonable revenue projections” to investors, as first <a href="https://www.bloomberg.com/news/articles/2023-08-04/senior-apple-car-executive-is-sued-by-sec-over-spac-dealings?sref=ExbtjcSG">reported by <em>Bloomberg</em></a>.</p>
+<p id="WCua22">As <a href="https://www.documentcloud.org/documents/23897615-sec-v-kranz-and-balciunas?responsive=1&amp;title=1">outlined in the lawsuit</a>, the SEC states that Kranz and Balciunas told investors Canoo would make $120 million in 2021 and $250 million in 2022. However, the SEC alleges that the pair “should have known that these projections were unreasonable” because the projects it used to calculate these amounts “were unlikely to materialize.” The SEC also claims that Kranz failed to...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820329/canoo-former-ceo-apple-ulrich-kranz-sec-lawsuit">Continue reading&hellip;</a>
+  </p>
+
+## How to use Nearby Share for Windows
+ - [https://www.theverge.com/23668186/nearby-share-windows-android-how-to](https://www.theverge.com/23668186/nearby-share-windows-android-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T19:05:47+00:00
+
+<figure>
+      <img alt="Laptop graphic" src="https://cdn.vox-cdn.com/thumbor/JspQQpUxsmcSVwD9ujaDazoJp4A=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72150204/HT030_windows_0003.0.jpg" />
+        <figcaption>Illustration: Samar Haddad / The Verge</figcaption>
+    </figure>
+
+  <p id="4bnQMk">While my personal computers have mostly been Windows and my phones Android, I do use a Mac for work, and I’ve always been envious of the ease with which people in the Apple ecosystem can move files from one device to another using AirDrop. Google introduced a similar feature called Nearby Share <a href="https://www.theverge.com/2020/8/4/21353020/android-nearby-share-file-sharing-feature-launch-airdrop">in 2020</a>, but it only shared files between Google products. Now, Windows has finally introduced <a href="https://www.theverge.com/2023/4/3/23667778/google-nearby-share-windows-app-beta-android-feature">its version of Nearby Share</a>, allowing you to easily move files between Windows and Android systems.</p>
+<div class="c-float-left c-float-hang"><aside id="ZOCk4A"><div></div></aside></div>
+<p id="8RS3rh">When it first appeared, I installed the beta of Nearby Share to a Windows 11 system and used it to move photos between that and my Pixel 6, and it worked like a charm. Now that it’s official, here are some step-by-step instructions on how to set up Nearby...</p>
+  <p>
+    <a href="https://www.theverge.com/23668186/nearby-share-windows-android-how-to">Continue reading&hellip;</a>
+  </p>
+
+## Let’s all play the Phone Challenge
+ - [https://www.theverge.com/23820251/phone-screen-time-log-off](https://www.theverge.com/23820251/phone-screen-time-log-off)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T17:53:42+00:00
+
+<figure>
+      <img alt="An illustration of an image of a phone and watch, with hearts on them." src="https://cdn.vox-cdn.com/thumbor/HioU5DoawT1D5P77vKtXQ9kcm3w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514814/acastro_220318_STK020_0003.0.jpg" />
+        <figcaption><em>That’s right, my phone and I have had an important relationship talk.</em> | Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="WU7CNu">Lately, I have been playing a game with myself, and I’d like to invite all of you to play with me. It’s called the Phone Challenge.</p>
+<p id="nQOFgi">As readers of this fine blog establishment know, I spend all day reading the entire internet and writing some of it. During what I think of as the High Pandemic Era (2020–2021), I was surprised to discover that despite gazing at my laptop screen all day and rarely leaving the house, I was still somehow <a href="https://www.theverge.com/22518869/ios-iphone-screen-time-downtime">spending four hours a day on my phone</a>.</p>
+<p id="NkJNNp">Seemed like a lot, to be honest.</p>
+<p id="z10wqP">Since then, I’ve been trying to see how low I can go without sacrificing my social relationships. Sure, I have internet friends — or, as I think of them, the people who live inside my phone. But I also stare at a laptop all day! And yes, I...</p>
+  <p>
+    <a href="https://www.theverge.com/23820251/phone-screen-time-log-off">Continue reading&hellip;</a>
+  </p>
+
+## The Galaxy Watch 6’s Thermo Check app is a solution looking for a problem
+ - [https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature](https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T17:41:43+00:00
+
+<figure>
+      <img alt="Samsung Galaxy Watch 6 showing the Thermo Check app on a Gudetama plushie." src="https://cdn.vox-cdn.com/thumbor/fFtHtbQeKxoWtFZCOahZ4eFrlS8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514773/thermocheck.0.jpg" />
+        <figcaption><em>My Gudetama plushie is 76 degrees Fahrenheit. Supposedly.</em> | Photo by Victoria Song / The Verge</figcaption>
+    </figure>
+
+  <p id="WhUwwg">Have you ever wondered what the temperature of your desk surface is? Me neither, but the <a href="https://www.theverge.com/23802972/samsung-galaxy-watch-6-bezels-unpacked">Samsung Galaxy Watch 6</a> says it’s a balmy 81 degrees Fahrenheit. The other day, it said my cat’s fluffy belly was 88 degrees. My arm was apparently 86 degrees, and a cup of <a href="https://www.youtube.com/watch?v=R2IJdfxWtPM">tea, Earl Grey, hot,</a> was roughly 112 degrees. Just before I sat down to write this, it said my stainless steel fridge door was 79 degrees. The inside of the fridge was merely “Low.” </p>
+<p id="XXr7Io">Why am I telling you this? Well, last year, Samsung introduced an infrared temperature sensor on its <a href="https://www.theverge.com/2022/8/10/23297111/samsung-galaxy-watch-5-specs-price-features-battery#:~:text=New%20this%20time,and%20wellness%20features.">Galaxy Watch 5 lineup</a> but didn’t really do anything with it at launch. This year, <a href="https://news.samsung.com/us/samsung-wallet-thermo-check-whatsapp-coming-to-galaxy-watch-series?nrtv_cid=f927ef5939d2e355119cb3a23976d97684191f9e322ef69d9275139a6d04b563&amp;cid=opmc-ecomm-nrtiv-pc-042720-142005-verge-17815524&amp;nrtv_as_src=1">it’s promoting Thermo Check</a> — a third-party app that lets you check the temperature of various things — as a way to...</p>
+  <p>
+    <a href="https://www.theverge.com/23819912/samsung-galaxy-watch-6-thermo-check-skin-temperature">Continue reading&hellip;</a>
+  </p>
+
+## The LK-99 ‘superconductor’ went viral — here’s what the experts think
+ - [https://www.theverge.com/23820077/lk-99-superconductor-experts](https://www.theverge.com/23820077/lk-99-superconductor-experts)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T17:26:36+00:00
+
+<figure>
+      <img alt="A screen shot of a fragment of dark gray rocky material partially floating over a round magnet. One side of the fragment is raised in the air while the other is touching the magnet." src="https://cdn.vox-cdn.com/thumbor/ropZ0X6FoFfoUC1McI5zAfC_n7I=/70x0:2719x1766/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514698/Screenshot_2023_08_04_at_11.15.45_AM.0.png" />
+        <figcaption><em>A screenshot of a video showing LK-99 partially levitating. A group of researchers who developed the material say it’s evidence that LK-99 is the world’s first room temperature superconductor. Experts are skeptical. </em> | Image: A screenshot taken of a video uploaded to ScienceCast by <a class="ql-link" href="https://sciencecast.org/casts/suc384jly50n" target="_blank">Hyun-Tak Kim</a></figcaption>
+    </figure>
+
+
+  		 <p>If LK-99 is the real deal, it could be a game-changer for everything from quantum computing and medical imaging to energy and transportation. But there are a lot of red flags. </p>
+  <p>
+    <a href="https://www.theverge.com/23820077/lk-99-superconductor-experts">Continue reading&hellip;</a>
+  </p>
+
+## Cadillac’s bespoke Celestiq EV will cost $340,000
+ - [https://www.theverge.com/2023/8/4/23820185/cadillac-celestiq-luxury-ev-price-custom](https://www.theverge.com/2023/8/4/23820185/cadillac-celestiq-luxury-ev-price-custom)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T17:07:12+00:00
+
+<figure>
+      <img alt="2024 Cadillac Celestiq" src="https://cdn.vox-cdn.com/thumbor/C92jC2w21atCf354NLEJW4ml5ag=/0x168:4032x2856/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514634/IMG_2802.0.jpg" />
+        <figcaption>Image: Emme Hall</figcaption>
+    </figure>
+
+  <p id="ly9HhY">Cadillac’s attempt to dethrone Rolls-Royce as the top dog in ultra-luxury vehicles now has its own price tag. </p>
+<p id="1SwLMZ"><a href="https://www.theverge.com/2022/10/17/23409687/cadillac-celestiq-electric-ev-price-specs-range">The 2024 Cadillac Celestiq</a>, the automaker’s bespoke, customizable, electric fastback sedan, will start — start! — at $340,000. And that’s before all the pricy options and add-ons that one may consider, meaning the Celestiq will very likely sell for beyond $400,000 in most cases. </p>
+<p id="prCsqq">Hey, if you want to challenge Rolls-Royce, you best come with Rolls-Royce-level prices!</p>
+<div class="c-float-left c-float-hang"><aside id="cpfP5N"><q>Hey, if you want to challenge Rolls-Royce, you best come with Rolls-Royce-level prices!</q></aside></div>
+<p id="n9JwBO">Cadillac said the first round of Celestiq customers are already at work customizing their orders. As with other hand-built vehicles, customers can opt for custom paint, leather,...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820185/cadillac-celestiq-luxury-ev-price-custom">Continue reading&hellip;</a>
+  </p>
+
+## Apple’s AirTags are on sale for $25 a pop at Amazon and Walmart
+ - [https://www.theverge.com/2023/8/4/23820184/apple-airtag-bluetooth-location-tracker-deal-sale](https://www.theverge.com/2023/8/4/23820184/apple-airtag-bluetooth-location-tracker-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T17:03:55+00:00
+
+<figure>
+      <img alt="A close-up image depicting a set of hands holding a selection of Apple AirTags." src="https://cdn.vox-cdn.com/thumbor/AYbMN9L-7WxaHlUx6pcKETDtRXA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514624/vpavic_4547_20210421_0131.0.jpg" />
+        <figcaption><em>Apple’s AirTags remain the best Bluetooth trackers you can get if you’re an iPhone user.</em> | Photo by Vjeran Pavic / The Verge</figcaption>
+    </figure>
+
+  <p id="cF4G5D">Whether you often travel for work or are college-bound, <a href="https://www.theverge.com/2021/4/22/22396693/apple-airtag-location-tracker-hands-on-find-my-privacy-safety"><strong>Apple’s AirTags</strong></a> are a useful gadget that can help you keep track of your belongings. Unfortunately, we don’t often see them dip below their full MSRP of $29, which is why today’s deal is such a standout. Right now, you can buy a single AirTag for just <a href="https://www.amazon.com/Apple-MX532AM-A-AirTag/dp/B0933BVK6T/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">$25 at Amazon</a> and <a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-AirTag%2F475634131%2F&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank">Walmart</a>. If you require more, retailers (<a href="https://www.amazon.com/gp/product/B0932QJ2JZ/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">Amazon</a> / <a href="https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-AirTag-4-Pack%2F408992127&amp;sharedid=theverge.com" rel="sponsored nofollow noopener" target="_blank">Walmart</a>) are also selling a four-pack for $88.99 ($11 off).</p>
+<div class="c-float-left c-float-hang"><aside id="TVwzTP"><div></div></aside></div>
+<p id="rnJAK4">We <a href="https://www.theverge.com/23769840/best-bluetooth-trackers">highly recommend</a> AirTags over other Bluetooth trackers for iPhone owners. That’s because AirTags are equipped with Apple’s Ultra Wideband (UWB) chip and tap into Apple’s vast Find My Network system, which allows for exceptionally precise tracking. Plus, <a href="https://www.theverge.com/2023/6/6/23751614/apple-airtag-find-my-sharing-ios-17-feature">once iOS 17 officially launches this fall</a>, you’ll be...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820184/apple-airtag-bluetooth-location-tracker-deal-sale">Continue reading&hellip;</a>
+  </p>
+
+## Meta’s Quest 3 headset might be coming out sometime soon
+ - [https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc](https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T16:47:54+00:00
+
+<figure>
+      <img alt="A person wearing the Meta Quest 3." src="https://cdn.vox-cdn.com/thumbor/jmeS1NlnRLS7_sZhWCplGQL01G8=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514538/Introducing_Meta_Quest_3___Coming_This_Fall_____Introducing_Meta_Quest_3___Coming_This_Fall_2023_8_4_93325.584_1080p_streamshot.0.png" />
+        <figcaption>Image: Meta</figcaption>
+    </figure>
+
+  <p id="DrwEUr">Meta’s Quest 3 VR headset might be available to purchase sometime soon. A new Meta-made VR headset has <a href="https://fccid.io/2AGOZ-S3A">just shown up</a> in the Federal Communications Commission’s (FCC) database, meaning the device can be sold in the US.</p>
+<p id="050dxe"><a href="https://www.uploadvr.com/meta-quest-3-fcc-6ghz-wi-fi/">As noted by <em>UploadVR</em></a>, <a href="https://fccid.io/2AGOZ-S3A/Label/2AGOZ-S3A-Label-Label-Location-6639591">an image of the FCC label</a> on this device doesn’t actually include the words “Quest 3.” But given that Meta has <a href="https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details">already announced the Quest 3</a>, promised to share more about the device at its September Connect event, and that this new headset has its FCC label in basically the same spot as the Quest 2, it seems like a pretty safe bet that this listing is for the Quest 3. And one improvement we can already tell from the filings? The new headset will support Wi-Fi 6E.</p>
+<div class="c-float-left c-float-hang"><aside id="U4eUqp"><div></div></aside></div>
+<p id="wk7Vxe">Meta is promising that the Quest 3...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820170/meta-quest-3-headset-fcc">Continue reading&hellip;</a>
+  </p>
+
+## Google’s $99 a night company hotel advertises ‘no commute’ as a perk
+ - [https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office](https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T16:42:49+00:00
+
+<figure>
+      <img alt="Google logo and black swirls" src="https://cdn.vox-cdn.com/thumbor/hDMWcDMJSUxXpNliuSe1fUhHyNY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514512/STK093_Google_05.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="tB65Qy">Google is offering its employees a new incentive to come into its Mountain View, California office: discounted hotel stays. The company is promoting $99 per night rates for its on-campus hotel to help remote employees transition into a hybrid working schedule, <a href="https://www.cnbc.com/2023/08/04/google-offers-on-campus-hotel-special-to-lure-workers-back-in.html">according to a report from CNBC</a><em>.</em></p>
+<p id="I0qiIH">Materials sent to Google employees, which were viewed by CNBC, paint a rosy picture of having no commute with “an extra hour of sleep and less friction” when getting to work.</p>
+<div class="c-float-left c-float-hang"><aside id="Yhe1Lx"><div></div></aside></div>
+<p id="1P2Rl7"><a href="https://www.theverge.com/2022/3/2/22958702/google-bay-area-employees-return-to-office-april-hybrid">Google started requiring workers to return</a> to the office for three days per week last year and has continued pushing for employees to adopt hybrid work schedules since then. In June, <a href="https://www.cnbc.com/2023/06/13/google-rto-crackdown-gets-backlash-check-my-work-not-my-badge.html">CNBC reported that Google updated</a> its policy to include badge tracking and said in-person...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23820061/google-hotel-bay-view-campus-return-to-office">Continue reading&hellip;</a>
+  </p>
+
+## Evo 2023: how (and what) to watch
+ - [https://www.theverge.com/2023/8/4/23819158/evo-2023-twitch-live-stream-how-to-watch](https://www.theverge.com/2023/8/4/23819158/evo-2023-twitch-live-stream-how-to-watch)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T16:05:46+00:00
+
+<figure>
+      <img alt="EVO World Championships 2018 - Day 3" src="https://cdn.vox-cdn.com/thumbor/7hS3Zj5clw33DMI9qR-PcwmxdW0=/0x0:6720x4480/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514405/1011731190.0.jpg" />
+        <figcaption>Photo by Joe Buglewicz/Getty Images</figcaption>
+    </figure>
+
+  <p id="yzwb8L">Evo 2023 — the world’s premier fighting game tournament — kicks off today at 1PM ET and lasts until Sunday night. This year is shaping up to be the tournament’s biggest year ever, with several games, including <em>Street Fighter 6,</em> breaking their all-time records for number of participants. Whether you’re watching from home or live in Las Vegas, here’s when, where, and, most importantly, what to watch at Evo 2023.</p>
+<p id="ht96fa">As in previous years, Evo’s tournaments are split between several stages and Twitch / YouTube channels. Typically, a game’s first, second, and third rounds are broadcast from smaller stages, while a game’s finals take place on the main stage and broadcast from the main Evo <a href="https://www.twitch.tv/evo">Twitch</a> and <a href="https://www.youtube.com/@evo2kvids/streams">YouTube</a> channels. You can see the full schedule <a href="https://www.evo.gg/schedule">h...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819158/evo-2023-twitch-live-stream-how-to-watch">Continue reading&hellip;</a>
+  </p>
+
+## The best mechanical keyboards to buy right now
+ - [https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T15:19:00+00:00
+
+<figure>
+      <img alt="Several keyboards floating on an illustrated background." src="https://cdn.vox-cdn.com/thumbor/hDLTe5_C4MG9vow17eIgwejRWjQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71457663/H_Herrera_keyboard_buying_guide.5.jpg" />
+        <figcaption>Image: Hugo Herrera / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>Whether wired, wireless, or low profile, here are our picks for the best readily available boards.</p>
+  <p>
+    <a href="https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth">Continue reading&hellip;</a>
+  </p>
+
+## The Google Pixel Tablet is discounted for the very first time, saving you $60
+ - [https://www.theverge.com/2023/8/4/23819994/google-pixel-tablet-android-nest-hub-dock-deal-sale](https://www.theverge.com/2023/8/4/23819994/google-pixel-tablet-android-nest-hub-dock-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T14:25:05+00:00
+
+<figure>
+      <img alt="A Google Pixel Tablet on its speaker stand, sitting on a kitchen counter." src="https://cdn.vox-cdn.com/thumbor/8-QggKtw0M9NHjN8rW_ZFHxtqLQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514052/236705_Google_Pixel_Tablet_DSeifert_0018.0.jpg" />
+        <figcaption>Photo by Dan Seifert / The Verge</figcaption>
+    </figure>
+
+  <p id="R4AU0C">It seems to be a day of Google deals. In addition to <a href="https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale">sales on the Pixel Watch and Pixel Buds Pro</a>, the recently launched <a href="https://www.theverge.com/23765921/google-pixel-tablet-review"><strong>Google Pixel Tablet</strong></a> is seeing its first discount. You can get Google’s 11-inch tablet, complete with its included magnetic charging / speaker dock, for $439 ($60 off) at <a href="https://www.amazon.com/Google-Pixel-Tablet-Charging-Speaker/dp/B0C1SLD1PK/?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">Amazon</a>, <a href="https://howl.me/ckiQG2KBejL?u1=vergeroundupdeals080423">Best Buy</a>, and <a href="https://store.google.com/us/config/pixel_tablet?hl=en-US">Google</a>.</p>
+<div class="c-float-left c-float-hang"><aside id="fTjVgO"><div></div></aside></div>
+<p id="CndIlr">The Pixel Tablet has the same processor as the flagship Pixel 7 phones, Google’s Tensor G2 chip, which is powering an 11-inch slab-style tablet here. There are no foldable displays or folio cases and keyboards to speak of, just a fine LCD screen with 2560 x 1600 resolution. The tablet’s big trick is that its magnetic charging dock has speakers to turn it into a smart display (sort of). It doesn’t turn into a full <a href="https://www.theverge.com/2019/9/9/20855944/google-nest-hub-max-review-assistant-smart-display-price-specs-features">Nest Hub...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819994/google-pixel-tablet-android-nest-hub-dock-deal-sale">Continue reading&hellip;</a>
+  </p>
+
+## How to take control of your Windows notifications
+ - [https://www.theverge.com/23819943/windows-pc-notification-control-change-how-to](https://www.theverge.com/23819943/windows-pc-notification-control-change-how-to)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T14:19:19+00:00
+
+<figure>
+      <img alt="Laptop graphic" src="https://cdn.vox-cdn.com/thumbor/XDFFP3lPwA2bpLu1VChjnoldyeY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72514037/HT030_windows_0003.0.jpg" />
+        <figcaption>Illustration by Samar Haddad / The Verge</figcaption>
+    </figure>
+
+  <p id="mCD7tw">Most of us are used to managing notifications (<a href="https://www.theverge.com/2022/8/5/23293924/push-notifications-ios-android-daily-digest-time-sensitive">or trying to</a>) on our smartphones, but Windows can throw up plenty of pings and alerts of its own as well. Some of those will be useful and necessary, but if you’re trying to get stuff done, regular interruptions are likely to throw you off track and get in the way. So it’s worth exploring the notification controls that Microsoft’s operating system offers — and there are quite a few of them.</p>
+<div class="c-float-left c-float-hang"><aside id="ihvqnR"><div></div></aside></div>
+<p id="l8Tm5x">Spend a few minutes tailoring Windows notifications to suit your requirements, and you can get yourself a much calmer and less disjointed computing experience while still ensuring you don’t miss out on any vital alerts.</p>
+<h2 id="GPbbo1">App notifications</h2>
+<p id="WofnNK">Like <a href="https://www.theverge.com/2022/3/17/22981999/google-android-13-notification-opt-in-default-developer-preview">Android</a>, <a href="https://www.theverge.com/2022/6/6/23151443/ios-16-notification-features-apple-wwdc">iOS</a>, and <a href="https://www.theverge.com/21284515/apple-macos-notifications-manage-alert-on-off-how-to">macOS</a>, Windows lets you control notification...</p>
+  <p>
+    <a href="https://www.theverge.com/23819943/windows-pc-notification-control-change-how-to">Continue reading&hellip;</a>
+  </p>
+
+## A summer binge-watching guide
+ - [https://www.theverge.com/23811117/best-shows-watch-binge-summer](https://www.theverge.com/23811117/best-shows-watch-binge-summer)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T14:00:00+00:00
+
+<figure>
+      <img alt="A still photo from The Haunting of Hill House." src="https://cdn.vox-cdn.com/thumbor/sRRldbPnkEWAf2-mxhhKpuTyfhY=/1x0:4500x2999/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513949/HOHH_105_Unit_01251R_1_2.0.jpg" />
+        <figcaption>The Haunting of Hill House | Image: Netflix</figcaption>
+    </figure>
+
+
+  		 <p>Our curated list of 10 series that are either complete or have a promising future ahead of them. Perfect for those long, hot summer nights.</p>
+  <p>
+    <a href="https://www.theverge.com/23811117/best-shows-watch-binge-summer">Continue reading&hellip;</a>
+  </p>
+
+## Coinbase argues it doesn’t trade securities, so the SEC’s lawsuit should be dismissed
+ - [https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed](https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T13:45:59+00:00
+
+<figure>
+      <img alt="Illustration of the Coinbase wordmark on a teal, blue, and black background with circular patterns." src="https://cdn.vox-cdn.com/thumbor/amU_nZZrAjTX7sD7unXAN5DpWd0=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513877/acastro_STK019_02.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="TrbxKo">Coinbase is asking a judge to dismiss the Securities and Exchange Commission’s lawsuit against it. In <a href="https://www.documentcloud.org/documents/23897368-sec-v-coinbase?responsive=1&amp;title=1">a motion filed on Friday</a>, Coinbase maintains that it doesn’t trade securities, rendering the SEC’s arguments invalid.</p>
+<p id="1z4YLD"><a href="https://www.theverge.com/2023/6/6/23750745/coinbase-sec-lawsuit-unregistered-securities-crypto">The SEC sued Coinbase in June</a>, alleging that the crypto exchange broke securities laws by operating as an unregistered broker, exchange, and clearing agency. It also accused the company of selling unregistered securities through its staking-as-a-service program, which rewards users with crypto by participating in the proof-of-stake process on the blockchain.</p>
+<div class="c-float-left c-float-hang"><div id="I0GlIm">
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">By ignoring that precedent, the SEC has violated due process, abused its discretion, and abandoned its own earlier interpretations of the securities laws.  By...</p>
+</blockquote>
+</div></div>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819919/coinbase-securities-sec-lawsuit-dismissed">Continue reading&hellip;</a>
+  </p>
+
+## How the Kids Online Safety Act puts us all at risk
+ - [https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger](https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T13:30:00+00:00
+
+<figure>
+      <img alt="A stock privacy image of an eye." src="https://cdn.vox-cdn.com/thumbor/cCJvL2VBuzSBa1209nUH5Hrr0IU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513823/acastro_190204_1777_privacy_0001.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="uzwzvb"><em>This is </em>Platformer<em>, a newsletter on the intersection of Silicon Valley and democracy from Casey Newton and Zoë Schiffer. </em><a href="https://www.platformer.news/"><em>Sign up here</em></a><em>.</em></p>
+<hr class="p-entry-hr" id="CUQi73" />
+<p id="oJUQ0J">Today let’s talk about a right we currently take for granted that may soon disappear: the ability to browse and post to most websites anonymously.</p>
+<p id="cnQ5dd">In May, Utah <a href="https://apnews.com/article/porn-age-verification-utah-8f8f4960ad1ec4afc5d59fd7d34c3b9d">became the second state to enact a law requiring adult websites to verify the identities of their users</a>. <a href="https://le.utah.gov/~2023/bills/static/SB0287.html">The law</a> requires websites that host porn to use one of several methods to ensure visitors are 18 years or older, including state-issued digital IDs and third-party age verification services. Those services use <a href="https://www.yoti.com/business/age-verification/">a range of verification tools</a>, including age estimation based on the user’s face and uploading a government ID.</p>
+<p id="jpDSsX">The law originated from...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819578/kosa-kids-online-safety-act-privacy-danger">Continue reading&hellip;</a>
+  </p>
+
+## Google’s Pixel Watch and Pixel Buds Pro are $60 off for Verge readers
+ - [https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale](https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T13:26:53+00:00
+
+<figure>
+      <img alt="Pixel Watch on top of a Pixel 7 and Pixel 7 Pro" src="https://cdn.vox-cdn.com/thumbor/LU8a3RRmnAoF_aBdbKXv4z-yAEc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513769/226336_Pixel_Watch_AKrales_0058.0.jpg" />
+        <figcaption><em>The Google Pixel Watch is a terrific smartwatch for Android users, with Fitbit integration and a beautiful display.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="LRDxSG">Yes, there’s a new and improved Android smartwatch in town: the <a href="https://www.theverge.com/23802972/samsung-galaxy-watch-6-bezels-unpacked">Samsung Galaxy Watch 6</a>. It’s a good wearable, but because certain features like EKGs are limited to Samsung phone owners, it’s not the best option for everybody. Thankfully, if you’re looking for a terrific Android watch that doesn’t require you to chain yourself to Samsung’s ecosystem, the <a href="https://www.theverge.com/23400779/google-pixel-watch-review-wear-os-smartwatch-wearable-fitbit"><strong>Google Pixel Watch</strong></a> is on sale in the base configuration at <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.wellbots.com%2Fproducts%2Fgoogle-pixel-watch&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2023%2F8%2F4%2F23818586%2Fgoogle-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale" rel="sponsored nofollow noopener" target="_blank">Wellbots</a> for $289.99 ($60 off) when you use offer code <strong>VERGEPIX60</strong>.</p>
+<div class="c-float-left c-float-hang"><aside id="JmhliD"><div></div></aside></div>
+<p id="JILg7x">Google’s first-gen wearable can’t measure body composition, skin temperature, or irregular heart rhythms like Samsung’s can; however, unlike Samsung’s newest watch, the Pixel Watch offers health and fitness-tracking features powered by Fitbit. As a result, you can...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23818586/google-pixel-watch-buds-pro-apple-macbook-air-13-blink-mini-deal-sale">Continue reading&hellip;</a>
+  </p>
+
+## TikTok’s algorithm will be optional in Europe
+ - [https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking](https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T12:45:57+00:00
+
+<figure>
+      <img alt="A TikTok logo surrounded by jazzy lines and colorful accents" src="https://cdn.vox-cdn.com/thumbor/aX1Kqn69fLHL6SuZ5IYjIQ4JCJU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513579/STK051_VRG_Illo_N_Barclay_5_tiktok.0.jpg" />
+        <figcaption>Illustration by Nick Barclay / The Verge</figcaption>
+    </figure>
+
+  <p id="09y1Uw">TikTok users in Europe will be able to <a href="https://newsroom.tiktok.com/en-eu/fulfilling-commitments-dsa-update">switch off the personalized algorithm</a> behind its For You and Live feeds as the company makes changes to comply with the EU’s <a href="https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising">Digital Services Act</a> (DSA). According to TikTok, disabling this function will show users “popular videos from both the places where they live and around the world” instead of content based on their personal interests.</p>
+<p id="eKUwnc">These changes relate to <a href="https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348">DSA rules</a> that require very large online platforms to allow their users to opt out of receiving personalized content — which typically relies on tracking and profiling user activity — when viewing content recommendations. To comply, TikTok’s search feature will also show content that’s popular in the user’s region, and videos under the...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819878/tiktok-fyp-algorithm-eu-dsa-personalization-data-tracking">Continue reading&hellip;</a>
+  </p>
+
+## Fisker shows off ambitious EV lineup, starting at $29,900
+ - [https://www.theverge.com/2023/8/4/23819813/fisker-electric-car-startup-pear-alaska-ronin-ocean-price-release-date](https://www.theverge.com/2023/8/4/23819813/fisker-electric-car-startup-pear-alaska-ronin-ocean-price-release-date)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T11:43:28+00:00
+
+<figure>
+      <img alt="Four electric vehicles lined up on stage." src="https://cdn.vox-cdn.com/thumbor/aFYvPousmyYGAJULYNyqYMwufz8=/0x2:7952x5303/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513388/20230823_Product_Vision_Day_05.0.jpeg" />
+        <figcaption>Image: Fisker</figcaption>
+    </figure>
+
+  <p id="ubHydc">Fisker <a href="https://investors.fiskerinc.com/news/news-details/2023/Fisker-Showcases-Future-Vehicle-Lineup-at-First-ever-Product-Vision-Day/default.aspx">showed off a series of prototype vehicles</a> at its first “Product Vision Day” event, outlining the EV startup’s wide-ranging roadmap for the coming years. These included the sub-$30,000 Pear SUV, the Ronin sports car, Alaska pickup truck, and a new off-road package for the Ocean SUV that Fisker just started delivering <a href="https://investors.fiskerinc.com/news/news-details/2023/Fisker-Delivers-First-All-Electric-Fisker-Ocean-SUV/default.aspx">a few short months ago</a>.</p>
+<p id="Gtlsfy">Although the company had teased a few of these vehicles beforehand (and even opened <a href="https://electrek.co/2022/02/15/fisker-opens-reservations-for-second-ev-the-pear-starting-below-30k-before-taxes-or-incentives/">reservations for the Pear last year</a>), <a href="https://techcrunch.com/2023/08/03/fisker-reveals-all-electric-alaska-pickup-three-other-ev-prototypes/"><em>TechCrunch</em> notes</a> the event marked the first time they were all shown off in prototype form. Fisker hopes to put more than one of the cars into production within the next couple of years — an ambitious target given, as <a href="https://www.reuters.com/business/autos-transportation/fisker-unveils-electric-pickup-truck-even-supply-chain-bottleneck-lingers-2023-08-04/"><em>Reuters </em>notes</a>, the supply chain disruptions the small...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819813/fisker-electric-car-startup-pear-alaska-ronin-ocean-price-release-date">Continue reading&hellip;</a>
+  </p>
+
+## The Google Inbox email successor is finally ready for Android
+ - [https://www.theverge.com/2023/8/4/23819814/shortwave-android-email-app-gmail-google-inbox-release](https://www.theverge.com/2023/8/4/23819814/shortwave-android-email-app-gmail-google-inbox-release)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-04T10:39:40+00:00
+
+<figure>
+      <img alt="A smartphone displaying Shortwave’s Android app beside text that says it can be downloaded on Google Play." src="https://cdn.vox-cdn.com/thumbor/uWsi2jhbvd5SVElIz5mtTj-8nlE=/125x0:1475x900/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72513285/android_launch_2x__1_.0.jpg" />
+        <figcaption><em>Great news for Android users who are still mourning the loss of Google Inbox.</em> | Image: Shortwave</figcaption>
+    </figure>
+
+  <p id="V5iUag">Shortwave — an email app for iOS and the web that serves as the spiritual successor to <a href="https://www.theverge.com/2014/10/22/7039391/google-inbox">Google Inbox</a> — has fully <a href="https://www.shortwave.com/blog/android-launch-best-of-google-inbox-reincarnated/">arrived on Android devices</a> following 18 months of beta testing. Version 1.0 of Shortwave is available to download <a href="https://play.google.com/store/apps/details?id=com.shortwave.android">via Google Play</a>. The basic version is free to use, though you’ll need to pay a $9 monthly subscription to unlock premium features.</p>
+<p id="91O41f">Shortwave was specifically developed by a group of former Google employees to fill the gap left after Google shut down its innovative Gmail alternative <a href="https://www.theverge.com/2018/9/12/17848500/google-inbox-shut-down-sunset-snooze-email-march-2019">in 2019</a>. Inbox was fairly radical for its time compared to rival email clients, providing features like Bundles (which automatically organized your email by type) and Delivery Schedules to control when those Bundles would arrive in your...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/4/23819814/shortwave-android-email-app-gmail-google-inbox-release">Continue reading&hellip;</a>
+  </p>
+
