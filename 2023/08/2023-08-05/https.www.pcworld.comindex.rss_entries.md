@@ -1,0 +1,1127 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Best wireless gaming mice 2023: Tested and approved
+ - [https://www.pcworld.com/article/559298/best-wireless-gaming-mice.html](https://www.pcworld.com/article/559298/best-wireless-gaming-mice.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-05T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Now that wireless gaming mice are just as fast and feature-packed as their wired counterparts, going wireless can be a smart move, giving you greater flexibility as a gamer. But before you cut loose and buy one, it&rsquo;s worth noting they&rsquo;re not all alike. You&rsquo;ll still need to consider factors like weight, dots per inch (DPI), and battery life which can be telling factors in how your gaming mouse performs and ultimately how you will perform in games. </p>
+
+
+
+<p>Our expert reviewers have put these mice through their paces, testing them across a range of scenarios, and over extended periods of time. Below are the results of that effort. While these are the current best wireless gaming mice available, for a no holds barred list, including both wired and wireless models, be sure to check out PCWorld&rsquo;s all-inclusive selection of the <a href="https://www.pcworld.com/article/452384/best-gaming-mice.html#toc-7">best gaming mice</a>.</p>
+
+
+
+<p><em><strong>Updated 8/01/23</strong> to add the Razer Cobra Pro and HyperX Pulsefire Haste 2 Wireless to our list of recommendations. Besides a flawless 30,000 DPI optical sensor, and dual wireless connectivity, the Razer Cobra Pro allows you to set the mouse&rsquo;s lift-off distance up to 26 levels of adjustment. It also has 11 mesmerizing RGB zones. The HyperX Pulsefire Haste 2 is one of the best value esports mice you can buy, costing just $89.99 yet sporting a very comprehensive list of features. Read more about these two great picks below.</em></p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-cobra-pro-best-overall">
+							Razer Cobra Pro &ndash; Best overall  						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer Cobra Pro - Best overall  " class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Lead-2.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Its Razer Focus Pro 30K sensor is superb					</li> 
+										<li> 
+					Dedicated DPI up/down buttons makes switching DPI on the fly easy					</li> 
+										<li> 
+					Having all 11 zones of RGB is brilliant					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The dimensions won't suit large hands					</li> 
+										<li> 
+					Buying the Cobra Pro with a Hyper polling dongle costs extra					</li> 
+										<li> 
+					It's a little heavier than its stablemate the Razer DeathAdder V3 Pro					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6548182&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6548182%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-2-559298-6-2006581-10700" rel="nofollow" target="_blank">$129.99 at  Best Buy</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.razer.com/gaming-mice/razer-cobra-pro&amp;xcust=2-2-559298-6-2006581-10700&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$129.99 at  Razer</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>While some mice have fantastic sensors but fall short in the connectivity department, the Razer Cobra Pro seemingly has it all. It sports both a very high-resolution 30,000 DPI sensor as well as dual wireless connectivity. Not only is its 30K Razer Focus Pro sensor exceptionally smooth and accurate it also allows you to set your preferred lift-off distance from a total of up to 26 granular settings&mdash;that&rsquo;s 23 more than most mice with this functionality. </p>
+
+<p>There&rsquo;s little to fault about the Cobra Pro&rsquo;s design either&mdash;it&rsquo;s symmetrical and feels balanced and you also get the benefit of dedicated DPI up/down buttons, which is a rare luxury in pro-grade mice. This allows you to change DPI settings on the fly so you can get the drop on opponents in an instant. To top all that off, the Razer Cobra Pro looks fantastic thanks to 11 programmable RGB lighting zones.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/2006590/razer-cobra-pro-review-a-small-feature-packed-all-around-gaming-mouse.html" target="_blank">
+						Razer Cobra Pro review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="logitech-g502-lightspeed-best-overall-runner-up">
+							Logitech G502 Lightspeed &ndash; Best overall runner up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Logitech G502 Lightspeed - Best overall runner up" class="product-chart-item__image" height="2272" src="https://images.idgesg.net/images/article/2019/05/g502_lightspeed_1-100795745-orig.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very comfortable design 					</li> 
+										<li> 
+					Weighs less than the wired version					</li> 
+										<li> 
+					Compatible with Powerplay wireless charging mouse pad					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Scroll wheel feels less substantial 					</li> 
+										<li> 
+					Weight customization is hampered by Powerplay					</li> 
+										<li> 
+					Expensive					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.logitechg.com/en-us/products/gaming-mice/g502-lightspeed-wireless-gaming-mouse.html&amp;xcust=2-2-559298-6-390755-10006&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$149.99 at  Logitech</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The Logitech G502 Hero was a hit with PCWorld reviewers before it went wireless because of its comfortable design, well-thought-out button layout and convenient dual-mode scroll. Thankfully all these features return in the update, but the G502 now has Powerplay compatibility&mdash;a feature we can&rsquo;t speak highly enough of.  </p>
+
+<p>The Powerplay system trickle-charges the mouse as you play, freeing you from having to charge it manually, and ensuring you&rsquo;re never without power (read more about <a href="https://www.pcworld.com/article/407423/logitech-powerplay-review-wireless-charging-mouse-pad.html">Logitech&rsquo;s Powerplay Wireless Charging System</a>.) The redesigned wireless G502 also sports a new rubber coated wheel instead of the metal one we saw in the wired version. This change reduces its weight down to just 114 grams, making it the lightest version you can get. </p>
+
+<p>This mouse&rsquo;s 11-button selection places it in-between mice like the 18-button SteelSeries Aerox 9 and the smaller 6-button HyperX Pulsefire Haste, which makes it ideal as a do-it-all mouse that doesn&rsquo;t shirk on functionality but won&rsquo;t overwhelm you with having to remember too many commands.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/397404/logitech-g502-lightspeed-review.html" target="_blank">
+						G502 Lightspeed review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="keychron-m3-most-affordable">
+							Keychron M3 &ndash; Most affordable						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Keychron M3 - Most affordable" class="product-chart-item__image" height="960" src="https://b2c-contenthub.com/wp-content/uploads/2023/02/thumbnail_20230228_144718.jpg?quality=50&amp;strip=all" width="1280" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Very fast and precise 26,000 DPI sensor					</li> 
+										<li> 
+					Well-proportioned and very comfortable					</li> 
+										<li> 
+					The quickest buttons I've ever used					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					It would have been more convenient for the DPI button to be placed where the RGB button currently sits					</li> 
+										<li> 
+					Mac users will have to wait on a software app					</li> 
+										<li> 
+					It's currently only being sold at Keychron's store online					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.keychron.com/products/keychron-m3-wireless-mouse&amp;xcust=2-2-559298-6-1525654-17202&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$49 at  Keychron</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Every once in a while a gaming mouse pops up that blows my mind with how good a value it is. In 2023 that&rsquo;s definitely Keychron&rsquo;s M3 gaming mouse that costs just $49. Not only does it sport dual wireless connectivity in the form of low-latency 2.4GHz and Bluetooth 5.1, it also has wired connectivity via a USB cable. Adding to that is a very powerful 26,000 DPI sensor with flawless tracking and some of the quickest buttons I&rsquo;ve ever used. </p>
+
+<p>But alas there&rsquo;s more: The M3 also shows off a comfortable, well-proportioned design that weighs just 79 grams, which is exceptionally light considering all that useful wireless connectivity on board. The nine buttons all feel very clean and clicky, but what&rsquo;s arguably even better is that Keychron has dedicated four of them to various settings, allowing you to change DPI, polling rates, RGB effects, and connectivity modes mid-game without having to go into the mouse&rsquo;s companion software app. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1525656/keychron-m3-gaming-mouse.html" target="_blank">
+						Keychron M3 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="hyperx-pulsefire-haste-2-wireless-best-value-for-money">
+							HyperX Pulsefire Haste 2 Wireless &ndash; Best value for money						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="HyperX Pulsefire Haste 2 Wireless - Best value for money" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/07/Lead.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The solid top back is comfortable and stylish					</li> 
+										<li> 
+					Its 26,000 DPI sensor can target at lightning speeds					</li> 
+										<li> 
+					Bluetooth functionality makes it one of the most versatile esports mice					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The compact buttons can feel a bit cramped at times					</li> 
+										<li> 
+					There's just the one RGB zone to play with					</li> 
+										<li> 
+					It's more expensive than its predecessor					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://hyperx.com/collections/gaming-mice/products/hyperx-pulsefire-haste-2-wireless-gaming-mouse?variant=43416225153181&amp;xcust=2-2-559298-6-1987745-15520&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$89.99 at  HyperX</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Shipping for $89.99 the HyperX Pulsefire 2 Wireless isn&rsquo;t so much a cheap mouse as it is an excellent value-for-money proposition. By that I mean you&rsquo;d be very hard pressed to find an esports mouse that weighs just 61 grams, with a 26,000 DPI sensor, dual wireless functionality, RGB lighting, and a compact symmetrical shape for this price. But beyond that, the Haste 2 Wireless is just a stellar performer that will handle even the fastest FPS action with ease.</p>
+
+<p>Additionally, the HyperX Pulsefire Haste 2 Wireless boasts a DPI switch button so you can toggle through DPIs while you play. In regard to its sizing, it&rsquo;s quite a versatile mouse, easily fitting small, right through to large hands. Although, medium-sized hands will undoubtedly feel the most comfortable on its moderate-sized body. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1987896/hyperx-pulsefire-haste-2-wireless-review.html" target="_blank">
+						HyperX Pulsefire Haste 2 Wireless review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-naga-v2-pro-best-for-mmo-moba-games">
+							Razer Naga V2 Pro &ndash; Best for MMO / MOBA games						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer Naga V2 Pro - Best for MMO / MOBA games" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/20230311_090202.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					The Swappable button plates let you tailor your button setup to your game's command load					</li> 
+										<li> 
+					The sensor is very accurate and without a hint of lag					</li> 
+										<li> 
+					There's tons of comfort and the build quality is excellent					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The Razer Gen 3 Optical Switches are a little stiff at first and need wearing in					</li> 
+										<li> 
+					It weighs 134 grams which is quite heavy even for an MMO mouse					</li> 
+										<li> 
+					It's currently very expensive					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6521042&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6521042%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-2-559298-6-1654717-10700" rel="nofollow" target="_blank">$179.99 at  Best Buy</a><a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.razer.com/gaming-mice/razer-naga-v2-pro/RZ01-04400100-R3U1&amp;xcust=2-2-559298-6-1654717-10700&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$179.99 at  Razer</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The Razer Naga V2 Pro follows in the footsteps of the <a href="https://www.pcworld.com/article/402529/razer-naga-trinity-review.html">Razer Naga Trinity</a>, featuring magnetic swappable side-button plates that let you customize your button setup to match your gameplay. The side-button plates include a 12-, 6-, and 2-button option. With the 12-button plate attached you get a maximum of 22 programable commands, which is just ideal for MMO and MOBA gaming. It&rsquo;s also stacked with upgrades such as a sporty 30,000 DPI pro-grade Optical Sensor, wireless connectivity, and Razer Gen 3 Optical Switches for lighting-fast button responses.</p>
+
+<p>Admittedly, at 134 grams the Razer Naga V2 Pro does weigh a lot even for an MMO mouse. But in my playtesting, I found the weightiness provided a nice authenticity to weapons play that I scarcely ever get from wireless gaming mice.  At its current price of $180 USD, it&rsquo;s also not cheap. But considering how well it performed for me, it&rsquo;s unlikely you will regret shelling out for such a capable mouse. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1654724/razer-naga-v2-pro-gaming-mouse-review.html" target="_blank">
+						Razer Naga V2 Pro review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="steelseries-aerox-9-best-for-mmo-moba-games-runner-up">
+							SteelSeries Aerox 9 &ndash; Best for MMO / MOBA games runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="SteelSeries Aerox 9 - Best for MMO / MOBA games runner-up" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/05/SteelSeries-Aerox-9-Wireless-hero-image.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					18 easily programmable buttons					</li> 
+										<li> 
+					Weighs only 89 grams 					</li> 
+										<li> 
+					Dual Bluetooth 5.0 and 2.4GHz wireless					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Some buttons on the side grid are hard to reach					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6501463&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6501463%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-2-559298-6-701187-13872" rel="nofollow" target="_blank">$110.99 at  Best Buy</a><a class="product-chart-item__pricing-details--link" href="https://adorama.rfvk.net/c/321564/1175784/1036?prodsku=SS62618&amp;u=https%3A%2F%2Fwww.adorama.com%2Fss62618.html&amp;intsrc=CATF_9102&amp;subid1=2-2-559298-6-701187-13872" rel="nofollow" target="_blank">$149.99 at  Adorama</a><a class="product-chart-item__pricing-details--link" href="https://www.kqzyfj.com/click-8200811-13502820?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fsteelseries-aerox-9-mouse-ergonomic-right-handed-optical-18-buttons-wireless-wired-usb-24-ghz-bluetooth-50-usb-c-wireless-receiver-matte-black%2Fapd%2Fac077695%2Fpc-accessories?sid=2-2-559298-6-701187-13872" rel="nofollow" target="_blank">$149.99 at  Dell Home</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>SteelSeries Aerox 9 is a rare find among wireless gaming mice in that it packs a whopping 18 programmable buttons but weighs just 89 grams. That makes it an excellent option if you like to tinker with commands and macros in MOBA and MMO games but don&rsquo;t want to compromise on speed. We also like the Aerox 9 for its fast 18,000 CPI sensor and dual Wi-Fi and Bluetooth connectivity that we found super convenient for switching between laptops in an instant.</p>
+
+<p>With an open top honey-comb design and internal RGB lighting, the Aerox 9 sports a slick, futuristic look that won&rsquo;t go unnoticed in any group gaming session. It also has the added benefit of being extremely comfortable on hot days, circulating plenty of cool air for your hand.  </p>
+
+<p>Although punctuated by a multitude of holes, this mouse is also very sturdy: The top mesh didn&rsquo;t show any give during our most frantic gameplay. According to SteelSeries, the mouse&rsquo;s internal hardware is protected against dust and spillage by an IP54-rated Aquabarrier, which is reassuring for gamers like me who like to keep hot beverages close at hand. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/701156/steelseries-aerox-9-wireless-gaming-mouse-review.html" target="_blank">
+						SteelSeries Aerox 9 Wireless review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="logitech-g903-best-ambidextrous-grip">
+							Logitech G903 &ndash; Best ambidextrous grip						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Logitech G903 - Best ambidextrous grip" class="product-chart-item__image" src="https://images-na.ssl-images-amazon.com/images/I/41j0pkLjL3L.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Excellent wireless performance					</li> 
+										<li> 
+					Lightweight construction, glides smoothly					</li> 
+										<li> 
+					Suitable for ambidextrous gamers					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					The ambidextrous shape is not very ergonomic					</li> 
+										<li> 
+					If you're not using Powerplay there's not much improvement over the old G900					</li> 
+										<li> 
+					Expensive					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://www.dpbolvw.net/click-8200811-13513947?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flogitech-g903-hero-lightspeed-wireless-gaming-mouse-black%2Fapd%2Faa698024%2Fpc-accessories" rel="nofollow" target="_blank">$89.99 at  Dell Small Business</a><a class="product-chart-item__pricing-details--link" href="https://bestbuy.7tiv.net/c/321564/633495/10014?prodsku=6333839&amp;u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6333839%2Fpdp&amp;intsrc=CATF_4831&amp;subid1=2-2-559298-6-390272-10006" rel="nofollow" target="_blank">$94.99 at  Best Buy</a><a class="product-chart-item__pricing-details--link" href="https://www.anrdoezrs.net/click-8200811-13502820?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flogitech-g903-hero-lightspeed-wireless-gaming-mouse-black%2Fapd%2Faa698024%2Fpc-accessories?sid=2-2-559298-6-390272-10006" rel="nofollow" target="_blank">$99.99 at  Dell Home</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Like the G502 Hero, the G903 makes use of Logitech&rsquo;s Powerplay system that conveniently charges the mouse wirelessly as you play. However, the G903&rsquo;s biggest point of difference is its ambidextrous design that lends itself equally to left- and right-handed gaming. </p>
+
+<p>There are 10 buttons in all, and you can set up the outer edge buttons to match your dominant hand. For example, you can choose to make either the two left-side edge buttons or two right-side edge buttons appear or disappear by swapping out a magnetic filler piece to either side. In games, this mouse&rsquo;s premium PWM3366 sensor is very precise. Additionally, the left and right buttons fire on a hair trigger with the slightest amount of pressure, so if firing off commands quickly is important to you, this mouse has you covered. </p>
+
+<p>In our full PCWorld review, we found the G903 to have a slightly flared back that meant it nestled comfortably against our palm. With most of the support being located towards the mouse&rsquo;s rear. We also found the G903 was best suited to gamers that like to use a claw grip.   </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/407424/logitech-g903-review.html" target="_blank">
+						Logitech G903 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="razer-deathadder-v3-pro-best-pro-grade-gaming-mouse">
+							Razer DeathAdder V3 Pro &ndash; Best pro-grade gaming mouse						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Razer DeathAdder V3 Pro - Best pro-grade gaming mouse" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2023/03/20230318_081159.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Ultra light and quick off the mark					</li> 
+										<li> 
+					Perfectly chiseled to the contours of your hand					</li> 
+										<li> 
+					The 30,000 DPI sensor is very impressive					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					It'll cost you extra to upgrade to 4000Hz hyper polling					</li> 
+										<li> 
+					Has fewer buttons than its predecessor					</li> 
+										<li> 
+					DPI button is located on the underside					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.razer.com/gaming-mice/Razer-DeathAdder-V3-Pro/RZ01-04630200-R3U1&amp;xcust=2-2-559298-6-1663583-10700&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$149.99 at  Razer</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>The Razer DeathAdder V3 Pro has everything you need to perform at your best in quick, competitive matches, including a comfortable ultra-lightweight 63-gram design that&rsquo;s perfectly chiseled to the contours of your hand, a flawless 30,000 DPI optical sensor, and very quick Razer Gen 3 Optical Switches in the buttons, which incidentally are some of the quickest I&rsquo;ve used.</p>
+
+<p>Better still, the V3 Pro incorporates a few sweetener technologies that can provide big performance boosts if you&rsquo;re willing to take the time to apply them. Two of these are, Asymmetric Cut-off distance, and hyper polling. The former lets you set a very precise landing distance up to 26 granular levels of adjustment&mdash;that&rsquo;s 23 levels more than what you get in some pro-grade gaming mice. The latter, ramps up the V3&rsquo;s default 1,000Hz polling rate to a lightning-quick 4,000Hz, although you will need to shell out an extra $29.99 for a HyperPolling dongle for the privilege.  </p>
+
+<p>And, therein lies the biggest drawback with the V3 Pro&mdash;its cost. It&rsquo;s currently wearing a $150 USD price tag which makes it quite an investment. Still, if you&rsquo;re looking for the very best performance you can get, it&rsquo;s totally worth it. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1663595/razer-deathadder-v3-pro-gaming-mouse-review.html" target="_blank">
+						Razer DeathAdder V3 Pro review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="logitech-g-pro-x-superlight-best-pro-grade-gaming-mouse-runner-up">
+							Logitech G Pro X Superlight &ndash; Best pro-grade gaming mouse runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Logitech G Pro X Superlight - Best pro-grade gaming mouse runner-up" class="product-chart-item__image" height="7560" src="https://b2c-contenthub.com/wp-content/uploads/2023/01/Lead.jpg?quality=50&amp;strip=all" width="10081" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					It's very lightweight and effortless to move					</li> 
+										<li> 
+					The Hero sensor is a dream performer in games and tracks well					</li> 
+										<li> 
+					You've be hard pressed to find a gaming mouse that looks more elegant					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					There are only five buttons which limits the number of commands you can deploy					</li> 
+										<li> 
+					It lacks Bluetooth connectivity					</li> 
+										<li> 
+					It's quite compact and won't suit gamers with large hands					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.910-005878.html&amp;xcust=2-2-559298-6-1474582-17250&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$149.99 at  Logitech G</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>Like a fine leather wallet or designer bow tie, the Logitech G Pro X Superlight feels exceptionally well made, and despite having no RGB lighting, it&rsquo;s one of the best-looking wireless mice we&rsquo;ve seen. Weighting a mere 63 grams all up, it&rsquo;s also one of the lightest, feeling barely perceptible in your hand and gliding over surfaces with ease. </p>
+
+<p>The classy looks and lightweight design are backed up by excellent performance hardware in the form of an impressive 25,600 DPI Logitech G Hero sensor. The sensor tracks your movements precisely in games, allowing you to swap out large hand movements for small precise ones that allow you to target quicker in games. The buttons also feel light and airy, and they actuate with the lightest possible pressure, challenging you to increase your own clicking speed to keep up. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1475704/logitech-g-pro-x-superlight-wireless-gaming-mouse-review.html" target="_blank">
+						Logitech G Pro X Superlight review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="roccat-burst-pro-air-best-rgb-lighting">
+							Roccat Burst Pro Air &ndash; Best RGB lighting						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Roccat Burst Pro Air - Best RGB lighting" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Lead.jpg?quality=50&amp;strip=all" width="4032" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Owl-Eye sensor is very precise and quick					</li> 
+										<li> 
+					You won't find a mouse with more stunning RGB lighting					</li> 
+										<li> 
+					Dual wireless as well as wired connectivity					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					81-gram weight can feel heavy if you're used to a lighter mouse					</li> 
+										<li> 
+					Mouse wheel lacks left and right lateral clicks 					</li> 
+										<li> 
+					Pricey compared to some rivals					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.roccat.com/products/burst-pro-air?variant=41502004215966&amp;xcust=2-2-559298-6-1418255-14628&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">79.99 at  ROCCAT</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>While some gaming mice only have limited RGB lighting around their buttons or periphery, the ROCCAT Burst Pro goes all out with four dedicated programmable RGB lighting zones that light up the whole mouse like a firecracker. Suffice to say, with 16.8 million color options in Roccat&rsquo;s Swarm software app to play with, you can get some dazzling lighting effects on this mouse.</p>
+
+<p>But while the Pro Air is genuinely stunning to look at, it&rsquo;s equally as proficient in games, thanks to its comfortable eight-button configuration, powerful 19,000 DPI Owl-Eye optical sensor, and low-latency switches, which have a 100-million click durability rating.</p>
+
+<p>The Pro Air is also an extremely versatile mouse, thanks to its multiple connectivity options, which include a low-latency 2.4GHz Wi-Fi, Bluetooth 5.2, and a USB-A to USB-C cable for wired connectivity.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/1418294/roccat-burst-pro-air-wireless-gaming-mouse-review.html" target="_blank">
+						ROCCAT Burst Pro Air review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="steelseries-rival-650-fastest-recharging">
+							SteelSeries Rival 650 &ndash;  Fastest recharging  						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="SteelSeries Rival 650 -  Fastest recharging  " class="product-chart-item__image" src="https://images-na.ssl-images-amazon.com/images/I/318dXXGbdsL.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Gets 10 hours of charge in only 15 minutes					</li> 
+										<li> 
+					Comfortable and attractive design 					</li> 
+										<li> 
+					Removable weight system provides plenty of options					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Heavier than some might like 					</li> 
+										<li> 
+					Expensive 					</li> 
+										<li> 
+					Third thumb button is small and awkwardly placed					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://steelseries.com/gaming-mice/rival-650-wireless&amp;xcust=2-2-559298-6-390452-13872&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$79.99 at  SteelSeries</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>On the surface, the SteelSeries Rival 650 could be any other wireless gaming mouse, but dig a little deeper and you&rsquo;ll find it has two big advantages over rivals&mdash;its dual sensor hardware configuration and its fast charging capability. </p>
+
+<p>To improve your accuracy, the Rival 650 pairs a primary sensor, the PWM3360 TrueMove 3, with a dedicated depth sensor whose job is solely to cease input when your mouse leaves your mousepad. If you mainly keep your mouse flat on your mouse pad or table top, chances are you won&rsquo;t notice much difference in your gaming accuracy. However, if you<em> do</em> lift your mouse a lot, this feature should make aiming a tad easier. </p>
+
+<p>SteelSeries claims 15 minutes fast charging is all the Rival 650 needs to run for 10 hours straight. We put this claim to the test and found it to be mostly true; 15 minutes or sometimes just a few minutes more was enough to power it through more than a day of gaming, which made us very fond of this mouse.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/402966/steelseries-rival-650-gaming-mouse-review.html" target="_blank">
+						SteelSeries Rival 650 review 					</a>
+								</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>			<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="logitech-g603-best-replaceable-battery-option">
+							 Logitech G603 &ndash; Best replaceable-battery option						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt=" Logitech G603 - Best replaceable-battery option" class="product-chart-item__image" src="https://images-na.ssl-images-amazon.com/images/I/31V7xra0dOL.jpg?quality=50&amp;strip=all" />
+							</div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list">
+															<li> 
+					Slim design makes it easy to pack					</li> 
+										<li> 
+					Double AA batteries give 500 hours of battery life					</li> 
+										<li> 
+					Hero sensor performs as well as the famed PWM3366 					</li> 
+														</ul> 
+								</div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list">
+														<li> 
+					Weight distribution is a bit awkward because of the battery					</li> 
+										<li> 
+					Undersized and a bit too flat for comfort					</li> 
+													</ul> 
+							</div>
+													</div>
+					</div>
+														</div>
+						
+					<div class="product-chart-item__information ">
+														<div class="product-widget__information--rrp-wrapper">
+										<span class="product-widget__information--rrp-label">
+																			</span>
+										<span class="product-widget__information--rrp-value">
+																				</span>
+									</div>
+									
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+																			<span class="not-amp">
+										<a class="product-chart-item__pricing-details--link" href="https://www.anrdoezrs.net/click-8200811-13513947?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flogitech-g603-bluetooth-wireless-mouse%2Fapd%2Fa9951481%2Fpc-accessories?sid=2-2-559298-6-392531-10006" rel="nofollow" target="_blank">$39.99 at  Dell Small Business</a>										</span>
+																		</span>
+							</div>
+											</div>
+										<div class="product-content">
+						
+<p>If you travel a lot with your wireless gaming mouse, you&rsquo;ll want to make sure it has two things: a long battery life so you can skip the constant charging, and a superb sensor that performs as well as what you&rsquo;d find in a decent wired gaming mouse. The Logitech G603 hits the mark for both of these features, sporting a respectable 500 hours of battery life from two AA batteries and a capable 12,000 DPI Logitech Hero sensor. </p>
+
+<p>The Hero sensor is the key to this mouse&rsquo;s travel worthiness, it being many more times as power efficient as the famed PWM3366 sensor that Logitech uses in wireless gaming mice like the G703 and G903, but with the same kind of high-end performance that eliminates smoothing, acceleration, or interference in your gameplay. </p>
+
+<p>Read our full <a href="https://www.pcworld.com/article/402449/logitechs-wireless-g305-and-g603-mice-review.html">Logitech G603 review</a></p>
+						</div>
+									</div>
+			<div class="ad page-ad has-ad-prefix ad-article"></div>		</div>
+
+		
+
+
+<h2 class="wp-block-heading" id="how-we-test-wireless-gaming-mice">How we test wireless gaming mice</h2>
+
+
+
+<p><br />To make sure our wireless gaming mice picks are the best of the best, the PCWolrd team puts them through a legion of tests. We look at everything from how well they&rsquo;ve been designed and perform in games, to the suite of software that helps you personalize them. Here&rsquo;s a list of the main categories our tests fall under:<br /></p>
+
+
+
+<ul>
+<li><strong>Design and ergonomics: </strong>Here we factor in the mouse&rsquo;s physical characteristics, including its shape, styling, buttons, and RGB lighting (if any). We also consider how comfortable it is, what size hands it fits and, importantly, what grip type it will ideally suit (palm, fingertip, or claw). Last of all, we consider how tough it is, including how likely it is to survive the rigors of gaming life.</li>
+
+
+
+<li><strong>Wireless performance:</strong> This is the fun part of our testing where we get to try out our mouse in a bunch of games, while at the same time evaluating factors like its tracking accuracy, sensitivity, and how fast it reacts to our movements. We&rsquo;re testing the mouse&rsquo;s sensor in a big way here, but also our mouse&rsquo;s wireless, and or Bluetooth connectivity.</li>
+
+
+
+<li><strong>Software support:</strong> What you can actually achieve with your wireless gaming mouse sometimes comes down to what its supporting software allows. When testing our mouse&rsquo;s software app we consider how easy it is to navigate, change settings, program buttons, set up profiles for games, and make changes to RGB lighting (if any).</li>
+</ul>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" />
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 class="wp-block-heading" id="does-having-a-gaming-mouse-really-matter">Does having a gaming mouse really matter?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>If you plan on doing any gaming, it absolutely is better to opt for a gaming mouse over a regular office mouse. That&rsquo;s simply because gaming mice boast hardware and design benefits over regular office mice that make them eminently faster, more comfortable, and more accurate. The sensor and the buttons are the two most obvious features that have been enhanced in gaming mice. </p>
+
+
+
+<p>For example, while the average office mouse is lucky to have just a measly 8,000 DPI resolution sensor, we&rsquo;re now seeing gaming mice with sensors that have resolutions of more than 26, 000 DPI, which makes them a lot faster and more accurate. </p>
+
+
+
+<p>In mice like the <a href="https://www.pcworld.com/article/1663595/razer-deathadder-v3-pro-gaming-mouse-review.html">Razer DeathAdder V3 Pro</a> the buttons feature 3rd-generation Razer Optical Switches, which actuate in less than 0.2 milliseconds&mdash;much less than the typical 1 millisecond average in office mice. What&rsquo;s more, gaming mice are usually more customizable, allowing you to program specific commands to your buttons so that you can just fire them off at will in games.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 class="wp-block-heading" id="connectivity-wireless-or-bluetooth-or-both">Connectivity: Wireless or Bluetooth or both?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Some wireless gaming mice have Bluetooth as well as 2.4GHz wireless connectivity and let you switch between the two. Having Bluetooth is considered a luxury that gives you the versatility of being able to use your mouse with more devices, like your tablet or gaming console. It also offers you the advantage of a dongle-less connection on the go, which can be very handy for school or work. </p>
+
+
+
+<p>Still, there are at least two good reasons why you might still opt for a mouse with only Wi-Fi connectivity. Number one is Bluetooth-capable gaming mice tend to be slightly heavier than mice with just Wi-Fi connectivity alone. Also, a Wi-Fi connection is ultimately a lot faster and more stable, so if you do a lot of competitive gaming, Bluetooth won&rsquo;t be the best option for that. </p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 class="wp-block-heading" id="do-esports-players-use-wireless-mice">Do esports players use wireless mice?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>At one time it would have been unheard of for an esports players to use wireless mice because of the slight millisecond or so lag that they used to have compared to conventional wired options. Nowadays, however, thanks to 2.4GHz Wi-Fi connectivity, any such latency difference has all but been eradicated. That said, it&rsquo;s now not uncommon for most professional esports teams to have at least one player using a wireless mouse. </p>
+
+
+
+<p>One example is team Natus Vincere that includes Ukrainian professional <em>CounterStrike: Global Offensive</em> player Oleksandr Kostyliev, aka S1mple, who has achieved spectacular results with his wireless <a href="https://www.pcworld.com/article/1475704/logitech-g-pro-x-superlight-wireless-gaming-mouse-review.html">Logitech G Pro X Superlight</a>.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">4.</span>
+<h3 class="wp-block-heading" id="are-there-any-disadvantages-to-using-a-wireless-mouse">Are there any disadvantages to using a wireless mouse?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>While the difference in latency between top-level and wireless mice is almost imperceptible these days, there can still be disadvantages to choosing wireless gaming mice over wired ones. One is that the lightest wireless gaming mice tend to be slightly heavier than the lightest wired gaming mice. This weight difference is usually only a few grams. Still, for esports professionals even a few grams can make a difference to their overall performance. </p>
+
+
+
+<p>The other obvious thing worth noting, is you&rsquo;ll need to ensure you don&rsquo;t lose the mouse&rsquo;s wireless dongle. Wireless dongles can be small and easy to misplace. Losing your dongle could render your gaming mouse essentially useless&mdash;something that you needn&rsquo;t worry about in wired gaming mice. </p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">5.</span>
+<h3 class="wp-block-heading" id="is-my-mouses-sensor-really-important">Is my mouse&rsquo;s sensor really important?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>A gaming mouse&rsquo;s sensor is the number one hardware component that determines how well a mouse performs in games. The sensor decides the mouse&rsquo;s tracking speed and accuracy, two factors we scrutinize in our tests. The main spec to look for in any sensor is dpi (dots per inch), which tells you how well the mouse&rsquo;s sensor reports movement per inch of physical movement. The newest wireless gaming mice have dpi ranging from 12,000 to 30,000, with higher numbers indicating mice with greater sensitivity. </p>
+
+
+
+<p>While a lot of fuss is made about dpi in manufacturer brochures, there&rsquo;s really no perfect dpi for gaming, it being largely a personal choice. While it can&rsquo;t hurt to have the best, unless you&rsquo;re a professional esports gamer you probably won&rsquo;t need a 30,000 dpi sensor. In reality, even 12,000 dpi provides decent performance in games. </p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">6.</span>
+<h3 class="wp-block-heading" id="orientation-right-left-or-ambidextrous">Orientation: right, left, or ambidextrous?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Are you left or right-handed, or ambidextrous? For practicality&rsquo;s sake the answer to this question should inform your choice when buying a wireless gaming mouse. That way you&rsquo;ll get a better fit for your hand shape and the buttons will be within reach of your fingers. While most of our wireless gaming mice reviews are of right-handed mice, simply because that&rsquo;s what most people use, we&rsquo;ll endeavor to bring you left-handed and ambidextrous mice reviews when possible.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">7.</span>
+<h3 class="wp-block-heading" id="what-grip-type-do-i-use">What grip type do I use?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>How you grip your mouse is not something you&rsquo;ve probably given much thought to&mdash;just like you don&rsquo;t give much thought to how you hold your fork when you eat. Still, it can be important since you&rsquo;ll want to get a mouse that fits your specific grip type. The three main grip types are:<br /></p>
+
+
+
+<p><strong>Palm grip: </strong>This is the most common type of mouse grip among gamers. It&rsquo;s also the most comfortable for long gaming sessions since it puts more of your hand in contact with your mouse and prevents tension in your wrist. For palm grippers, long, flat mice tend to be a better fit and more comfortable.</p>
+
+
+
+<p><strong>Claw grip: </strong>If you use a claw grip, you&rsquo;re arching your palm over the mouse to make a claw shape. This grip is popular in the e-sports community, especially among FPS players, since it allows you to make quick wrist movements&mdash;useful for sweeping attacks on targets. It does however clench the wrist and cause some tension there. Narrower and smaller mice suit a claw grip.</p>
+
+
+
+<p><strong>Fingertip grip:</strong> This grip provides you the least amount of control but the most dexterity for aiming. Gamers who use this grip mainly use just their fingertips on the left and right clicks, putting a lot of strain on their wrists. Because of the added strain, lighter mice are often preferred by fingertip grippers.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">8.</span>
+<h3 class="wp-block-heading" id="should-i-buy-a-light-or-heavy-mouse">Should I buy a light or heavy mouse?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>A mouse&rsquo;s weight can have a big impact on how accurately you can target and position its curser or crosshairs. Gamers these days tend to go for the lightest mice available since they require less effort to move and are also naturally faster. </p>
+
+
+
+<p>Lighter mice also lend themselves to longer gaming sessions, since gamer hands (and arms) aren&rsquo;t as easily fatigued by them. Wireless gaming mice are among the lightest available because they are unencumbered by wires. </p>
+
+
+
+<p>One thing to note about a mouse&rsquo;s weight is that whether it&rsquo;s considered light is relative to how many buttons it has. For example, the 18-button SteelSeries Aerox 9 Wireless might seem like a heavyweight at 89 grams compared to the six-button / 61-gram HyperX Pulsefire Haste, yet for an 18-button mouse it&rsquo;s considered exceptionally lightweight.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">9.</span>
+<h3 class="wp-block-heading" id="how-many-buttons-do-i-need">How many buttons do I need?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The type of games you play should help you decide how many buttons you need. If you&rsquo;re mainly into FPS (first-person shooters) a wireless gaming mouse with six buttons&mdash;which tends to be the minimum number we see in wireless gaming mice these days&mdash;should be more than enough.</p>
+
+
+
+<p>On the other hand, if you play games where you need to quickly deploy lots of commands&mdash;like MOBA and MMO games&mdash;a mouse with between 6 and 18 buttons will provide you with more versatility.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">10.</span>
+<h3 class="wp-block-heading" id="why-is-software-so-important">Why is software so important?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>If your mouse is your weapon in games, then the mouse&rsquo;s support software is its armory. The best software apps for wireless gaming mice allow you to change and customize settings like your mouse&rsquo;s sensitivity and acceleration and deceleration. They also let you set commands and macros and save your preferences in profiles that you can easily switch to when you want to play specific games.</p>
+</div>
+</div></div>
+</div>
+
+Technology Industry</div>
+
+## Get a lifetime of Microsoft Office and MBA training for $40 during Back To School Sale
+ - [https://www.pcworld.com/article/2020993/get-a-lifetime-of-microsoft-office-and-mba-training-for-40-during-back-to-school-sale.html](https://www.pcworld.com/article/2020993/get-a-lifetime-of-microsoft-office-and-mba-training-for-40-during-back-to-school-sale.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-08-05T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Four out of every five Fortune 500 companies use Microsoft Office. And with 1.4 billion people and businesses worldwide using Microsoft products and services, it&rsquo;s safe to say Office&rsquo;s dominance among productivity apps seems poised to remain unchallenged.</p>
+
+
+
+<p>If you don&rsquo;t know Office &mdash; or don&rsquo;t know it as well as you should &mdash; a <a href="https://shop.pcworld.com/sales/microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course&amp;utm_term=scsf-576167&amp;utm_content=a0x1P000005Os7sQAC&amp;scsonar=1">lifetime license to Microsoft Office Pro 2021</a> should help shore up all your Office knowledge.</p>
+
+
+
+<p>All the key Office perennials are included, like Word, Excel, PowerPoint, Outlook, Teams, and more. With just a little work, you&rsquo;ll be up to speed on everything from <a href="https://www.pcworld.com/article/1683094/this-26-course-cybersecurity-bundle-is-an-extra-40-off-now.html" rel="noreferrer noopener" target="_blank">data</a> organization and presentations to publishing and video conferencing.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Knowing how to use office productivity tools is one thing, but the knowledge that comes from a top-flight business course takes everything to another level. So this collection also features <a href="https://shop.pcworld.com/sales/microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course&amp;utm_term=scsf-576167&amp;utm_content=a0x1P000005Os7sQAC&amp;scsonar=1">The Entire MBA in 1 Course</a> training as well.</p>
+
+
+
+<p>Led by award-winning business school professor Chris Haroun, this seven-hour distillation of a full MBA program touches all the bases. Students go over critical concepts and skills like creating financial models, understanding business plans and projections, and even how to do full qualitative and quantitative analyses to help you figure out how any business is running and improve it.</p>
+
+
+
+<p>Now through August 13th, you can get a&nbsp;<a href="https://shop.pcworld.com/sales/microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course&amp;utm_term=scsf-576167&amp;utm_content=a0x1P000005Os7sQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Microsoft Office Pro 2021 for Windows: Lifetime License + A Free Entire MBA in 1 Course</a> for only $39.97. You can also check out <a href="https://shop.pcworld.com/collections/back-to-school?utm_source=PCWorld&amp;utm_campaign=back-to-school-collection">all of the killer Back to School deals</a> available in the PCWorld Shop right now.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course&amp;utm_term=scsf-576167&amp;utm_content=a0x1P000005Os7sQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp3.stackassets.com/49ae3cda5e0622f64e84c7dea1206e4dbb2e44c0/store/c1acc7d06938916cbe183fd10477ba410667a7ca9dfc42a6c15db5e5cffd/sale_320905_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>Microsoft Office Pro 2021 for Windows: Lifetime License + A Free Entire MBA in 1 Course &ndash; $39.97</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=microsoft-office-pro-2021-for-windows-lifetime-license-a-free-entire-mba-in-1-course&amp;utm_term=scsf-576167&amp;utm_content=a0x1P000005Os7sQAC&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Get it now for $39.97</a></p>
+
+
+
+<p><em>Prices subject to change.</em></p>
+
+Windows</div>
+
