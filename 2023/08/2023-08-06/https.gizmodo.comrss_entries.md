@@ -1,0 +1,44 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Fantasy Author Brandon Sanderson is Getting a Deckbuilding Game
+ - [https://gizmodo.com/brandon-sanderson-fantasy-author-deckbuilding-game-2024-1850711806](https://gizmodo.com/brandon-sanderson-fantasy-author-deckbuilding-game-2024-1850711806)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-06T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YiPr4inj--/c_fit,fl_progressive,q_80,w_636/f277f6412a548857d0262778bee3a2dd.jpg" /><p>Since 2005's <em>Elantris, </em><a href="https://gizmodo.com/brandon-sanderson-s-message-to-publishing-is-mostly-a-m-1848673821">Brandon Sanderson</a> has gradually risen in prominence as one of the biggest (and <a href="https://gizmodo.com/brandon-sanderson-41-million-kickstarter-meaning-for-a-1848800172">busiest</a>) fantasy authors working today. And like other authors of similar status, Sanderson’s reach is gradually expanding outside of books over to other industries such as games. Though he’s stepped into the video…</p><p><a href="https://gizmodo.com/brandon-sanderson-fantasy-author-deckbuilding-game-2024-1850711806">Read more...</a></p>
+
+## Open Channel: What's Your Favorite Ninja Turtles Version?
+ - [https://gizmodo.com/open-channel-ninja-turtles-favorite-version-1850711700](https://gizmodo.com/open-channel-ninja-turtles-favorite-version-1850711700)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-06T18:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--x5P6i2hw--/c_fit,fl_progressive,q_80,w_636/5c79645d6b43ad3526ff906128c18dc7.jpg" /><p>Paramount’s <a href="https://gizmodo.com/tmnt-mutant-mayhem-review-seth-rogen-ninja-turtle-movie-1850675903"><em>Teenage Mutant Ninja Turtles: Mutant Mayhem</em></a><em> </em>is the first movie version of the comic book characters since the two live-action films nearly a decade ago. The Heroes in a Half Shell have had an <a href="https://gizmodo.com/ninja-turtles-movies-ranked-tmnt-teenage-mutant-films-1850683019">off-and-on relationship</a> with movies, but <em>Mutant Mayhem </em>is shaping up to be one of the better received incarnations.…</p><p><a href="https://gizmodo.com/open-channel-ninja-turtles-favorite-version-1850711700">Read more...</a></p>
+
+## Barbie Is Now a $1 Billion Hit
+ - [https://gizmodo.com/barbie-greta-gerwig-billion-dollar-box-office-mattel-1850707921](https://gizmodo.com/barbie-greta-gerwig-billion-dollar-box-office-mattel-1850707921)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-06T16:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--oAI7j2ei--/c_fit,fl_progressive,q_80,w_636/37f91a582780de54d1b07de754dcd5bc.jpg" /><p>Two weeks after release, <a href="https://gizmodo.com/barbie-review-margot-robbie-greta-gerwig-ryan-gosling-1850660597">Greta Gerwig’s </a><a href="https://gizmodo.com/barbie-review-margot-robbie-greta-gerwig-ryan-gosling-1850660597"><em>Barbie</em></a><em> </em>is part of the billion-dollar club.<br /></p><p><a href="https://gizmodo.com/barbie-greta-gerwig-billion-dollar-box-office-mattel-1850707921">Read more...</a></p>
+
+## Alex Borstein Loved Watching SNL Growing Up | First Fandoms
+ - [https://gizmodo.com/alex-borstein-loved-watching-snl-growing-up-first-fan-1850361957](https://gizmodo.com/alex-borstein-loved-watching-snl-growing-up-first-fan-1850361957)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-06T16:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--xvrQzKsL--/c_fit,fl_progressive,q_80,w_636/d8873dbab5f9b3bbe8f634bd06ef0b62.jpg" /><p><a href="https://gizmodo.com/alex-borstein-loved-watching-snl-growing-up-first-fan-1850361957">Read more...</a></p>
+
+## The Incredible Hulk's Sequel Would've Brought More Hulks Into the Fray
+ - [https://gizmodo.com/incredible-hulk-2008-sequel-plans-louis-leterrier-1850711297](https://gizmodo.com/incredible-hulk-2008-sequel-plans-louis-leterrier-1850711297)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-06T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--fOhgq-rc--/c_fit,fl_progressive,q_80,w_636/e8b5be28c43c9f01121ed1f75a14dd53.jpg" /><p>2023 is a <a href="https://gizmodo.com/the-dark-knight-anniversary-christopher-nolan-batman-1850642054">big year</a> for superhero movies, as it’s when many of them from years past are hitting big milestones. Along with the MCU overall, <a href="https://gizmodo.com/marvel-iron-man-15th-anniversary-tony-stark-avengers-1850395992">the original </a><a href="https://gizmodo.com/marvel-iron-man-15th-anniversary-tony-stark-avengers-1850395992"><em>Iron Man</em></a><em> </em>turned 15 this year, and it’s not the only one—<a href="https://gizmodo.com/oh-so-thats-why-marvel-hasnt-made-any-more-hulk-movies-1697783814"><em>The Incredible Hulk</em></a><em>, </em>which released months later, is similarly a decade and a half old. But unlike Tony Stark,…</p><p><a href="https://gizmodo.com/incredible-hulk-2008-sequel-plans-louis-leterrier-1850711297">Read more...</a></p>
+
+## This Borges-Inspired AI Model Can Create Poems Based on iPhone Photos
+ - [https://gizmodo.com/ai-pamera-poems-iphone-photos-new-york-city-1850709381](https://gizmodo.com/ai-pamera-poems-iphone-photos-new-york-city-1850709381)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-06T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--UvDTRYAr--/c_fit,fl_progressive,q_80,w_636/d7735db2782ec46dccf59eeb10c71f9f.png" /><p>By now, just about everyone has seen the <a href="https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263">digital art</a> and prose of generative AI models like Midjounrey and <a href="https://gizmodo.com/chat-gpt-openai-ai-finance-ai-everything-we-know-1850018307">ChatGPT</a>. In a reversal of the text-to-image format of Midjourney, a New York-based technologist and artist has released a new app that flips those concepts on their head, having AI models conjure up poems based…</p><p><a href="https://gizmodo.com/ai-pamera-poems-iphone-photos-new-york-city-1850709381">Read more...</a></p>
+
