@@ -1,0 +1,9 @@
+# Source:Seth's Blog, URL:https://seths.blog/feed, language:en-US
+
+## The low-stakes argument
+ - [https://seths.blog/2023/08/the-low-stakes-argument/](https://seths.blog/2023/08/the-low-stakes-argument/)
+ - RSS feed: https://seths.blog/feed
+ - date published: 2023-08-07T08:25:00+00:00
+
+It&#8217;s tempting and fun to argue about the logo. About the way the toilet paper is hung. About how to load the trunk of the car. These sorts of arguments work precisely because they don&#8217;t matter. At all. And they distract us from the incredibly difficult work of discussing the things that actually do matter. [&#8230;]
+
