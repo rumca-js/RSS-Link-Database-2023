@@ -1,0 +1,163 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## ChatGPT answers more than half of software engineering questions incorrectly
+ - [https://www.zdnet.com/article/chatgpt-answers-more-than-half-of-software-engineering-questions-incorrectly/#ftag=RSSbaffb68](https://www.zdnet.com/article/chatgpt-answers-more-than-half-of-software-engineering-questions-incorrectly/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T23:23:48+00:00
+
+You may want to stick to Stack Overflow for your software engineering assistance.
+
+## WhatsApp is adding a screen-sharing feature during video calls
+ - [https://www.zdnet.com/article/whatsapp-is-adding-a-screen-sharing-feature-during-video-calls/#ftag=RSSbaffb68](https://www.zdnet.com/article/whatsapp-is-adding-a-screen-sharing-feature-during-video-calls/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T23:19:11+00:00
+
+Could 'Catch you on WhatsApp' be the new 'See you on Zoom'?
+
+## Get a Babbel subscription for 50% off to learn a new language
+ - [https://www.zdnet.com/article/get-a-babbel-subscription-for-50-off-to-learn-a-new-language/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-babbel-subscription-for-50-off-to-learn-a-new-language/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T20:00:21+00:00
+
+This back-to-school Babbel deal gets you lifetime access to lessons for 14 languages.
+
+## DBS Bank uncovers big data challenges with AI use - and solutions, too
+ - [https://www.zdnet.com/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/#ftag=RSSbaffb68](https://www.zdnet.com/article/dbs-bank-uncovers-big-data-challenges-with-ai-use/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T19:52:11+00:00
+
+The Singapore bank opens up about the hurdles it had to overcome applying artificial intelligence to its operations and why success goes beyond getting the models right.
+
+## The best Bluetooth turntables of 2023: Audio-Technica, Sony, and more compared
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-bluetooth-turntable/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-bluetooth-turntable/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T19:28:37+00:00
+
+Bluetooth turntables offer a wireless listening experience. ZDNET spoke to experts and tested some of the best Bluetooth turntables available to help you find the best one for you.
+
+## The best TV and accessories deals in August 2023: Sony, Samsung, LG, and more
+ - [https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T19:18:53+00:00
+
+These awesome TV and TV accessories deals make it more affordable than ever to upgrade to top brands like Samsung, Sony, LG, and TCL in your home.
+
+## Google is using AI to make multiplatform programming easier with Project IDX
+ - [https://www.zdnet.com/article/google-is-using-ai-to-make-programming-easier-with-project-idx/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-is-using-ai-to-make-programming-easier-with-project-idx/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T19:10:14+00:00
+
+Google built Project IDX to make multiplatform software development as accessible as going to Google Docs on your web browser.
+
+## Zoom adds an asynchronous video tool to help you avoid unnecessary meetings
+ - [https://www.zdnet.com/article/zoom-adds-asynchronous-video-tool-to-help-you-avoid-unnecessary-meetings/#ftag=RSSbaffb68](https://www.zdnet.com/article/zoom-adds-asynchronous-video-tool-to-help-you-avoid-unnecessary-meetings/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T18:41:05+00:00
+
+If you're over video meetings at work, Zoom Clips lets you send short video clips instead.
+
+## Learn to create a ChatGPT AI bot with this course bundle
+ - [https://www.zdnet.com/article/learn-to-create-a-chatgpt-ai-bot-with-this-course-bundle/#ftag=RSSbaffb68](https://www.zdnet.com/article/learn-to-create-a-chatgpt-ai-bot-with-this-course-bundle/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T18:23:35+00:00
+
+Level up your AI skills with this back-to-school ChatGPT and Python coding bundle deal.
+
+## The best home EV chargers of 2023: Top picks compared
+ - [https://www.zdnet.com/article/best-home-ev-charger/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-home-ev-charger/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T17:50:03+00:00
+
+If you own an electric vehicle, you're going to need a home EV charger. We compared the top Level 2 EV charger models based on amperage, durability, and smart features.
+
+## Brace yourself for Slack's biggest ever redesign
+ - [https://www.zdnet.com/article/brace-yourself-for-slacks-biggest-ever-redesign/#ftag=RSSbaffb68](https://www.zdnet.com/article/brace-yourself-for-slacks-biggest-ever-redesign/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T17:47:16+00:00
+
+Here's what to expect and when you might see it.
+
+## Samsung Galaxy Z Flip 5 breaks records, accounts for 70% of preorders
+ - [https://www.zdnet.com/article/samsung-galaxy-z-flip-5-breaks-records-accounts-for-70-of-preorders/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsung-galaxy-z-flip-5-breaks-records-accounts-for-70-of-preorders/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T17:22:23+00:00
+
+Foldable phones are hotter than ever. Are they here to stay?
+
+## I tested a water-resistant power station, and it's as game-changing as it sounds
+ - [https://www.zdnet.com/home-and-office/i-tested-a-water-resistant-power-station-and-its-as-game-changing-as-it-sounds/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/i-tested-a-water-resistant-power-station-and-its-as-game-changing-as-it-sounds/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T16:26:00+00:00
+
+I've tended to keep power stations, which are essentially boxes filled with electricity, away from water and moisture. The Bluetti AC60 changes that.
+
+## Hyper's new hubs, docks, and SSD enclosures aim to help creative pros 'go beyond'
+ - [https://www.zdnet.com/article/hypers-new-hubs-docks-and-ssd-enclosures-aim-to-help-creative-pros-go-beyond/#ftag=RSSbaffb68](https://www.zdnet.com/article/hypers-new-hubs-docks-and-ssd-enclosures-aim-to-help-creative-pros-go-beyond/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T15:54:21+00:00
+
+If you're looking for professional accessories that won't break the bank, the HyperDrive Next line is worth exploring.
+
+## Google Messages just got a major security upgrade
+ - [https://www.zdnet.com/article/google-messages-just-got-a-major-security-upgrade/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-messages-just-got-a-major-security-upgrade/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T15:16:12+00:00
+
+This update enables end-to-end encryption by default on your Google Messages conversations between Android devices. Here's what that means for you.
+
+## Everything you need to start a podcast: The best microphones, headphones, and software
+ - [https://www.zdnet.com/home-and-office/home-entertainment/everything-you-need-to-start-a-podcast/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/everything-you-need-to-start-a-podcast/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T15:12:00+00:00
+
+If you're ready to start a podcast, ZDNET has rounded up all the equipment you'll need.
+
+## These are my go-to headphones for all-day listening, and they're not AirPods
+ - [https://www.zdnet.com/article/these-are-my-go-to-headphones-for-all-day-listening-and-theyre-not-airpods/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-are-my-go-to-headphones-for-all-day-listening-and-theyre-not-airpods/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T15:06:00+00:00
+
+The Bose QuietComfort 45 headphones feature superior audio quality, a clean design, and all-day comfort, and are on sale right now.
+
+## The 5 best cheap laptops of 2023: Lenovo, HP, Asus, and more
+ - [https://www.zdnet.com/article/best-cheap-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-cheap-laptop/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T15:02:00+00:00
+
+Buying a new laptop for work, home, or school doesn't mean you have to spend a fortune -- get features like long battery life, a high-resolution display, and more for less with our picks.
+
+## Zoom is entangled in an AI privacy mess
+ - [https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/#ftag=RSSbaffb68](https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T14:57:50+00:00
+
+The popular video conferencing platform's recent privacy and AI policy changes have exploded in the company's face. Here's what to know.
+
+## Sign up for a Costco membership and get a free $30 gift card right now
+ - [https://www.zdnet.com/home-and-office/home-entertainment/sign-up-for-a-costco-membership-and-get-a-free-30-gift-card-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/sign-up-for-a-costco-membership-and-get-a-free-30-gift-card-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T14:30:53+00:00
+
+Shopping at Costco can help you save money on groceries, electronics, gadgets, and more. This deal effectively gets you an annual Costco membership for 50% off.
+
+## We're not ready for the impact of generative AI on elections
+ - [https://www.zdnet.com/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/#ftag=RSSbaffb68](https://www.zdnet.com/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T14:15:36+00:00
+
+ZDNET's resident presidential scholar takes a deep dive into political campaign deepfakes in the time of generative AI. This affects much more than the national contests. AI will transform local politics, too.
+
+## Apple may unveil your next iPhone on September 12: What we're expecting
+ - [https://www.zdnet.com/article/apple-may-unveil-your-next-iphone-on-september-12-what-were-expecting/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-may-unveil-your-next-iphone-on-september-12-what-were-expecting/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T13:58:44+00:00
+
+Industry experts suggest September 12 to be Apple's launch event date for the iPhone 15, Apple Watch Series 9, and more.
+
+## The best rugged phones of 2023, tested and reviewed
+ - [https://www.zdnet.com/article/best-rugged-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-rugged-phone/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-09T10:00:22+00:00
+
+The best rugged phones can withstand shocks, drops, and rough weather, but still include newer processors, big batteries, and other features you want most.
+

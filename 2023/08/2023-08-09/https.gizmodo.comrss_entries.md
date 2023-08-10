@@ -1,0 +1,233 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Disney's Bob Iger Joins the Camp of Wanting the Strikes to End 'Quickly'
+ - [https://gizmodo.com/disney-ceo-bob-iger-strikes-end-quickly-sag-aftra-1850723163](https://gizmodo.com/disney-ceo-bob-iger-strikes-end-quickly-sag-aftra-1850723163)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T23:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cZOmkeka--/c_fit,fl_progressive,q_80,w_636/17dda1b04dbe1bf22dc15dad9f5fbefc.jpg" /><p>After 100 days of the writers’ strike, and nearly a month of the actors’ strike, Disney has realized it needs <a href="https://gizmodo.com/haunted-mansion-disneyland-premiere-strike-1850645440">writers and actors to celebrate the company’s 100 years, which were made possible by those very artists</a>.<br /></p><p><a href="https://gizmodo.com/disney-ceo-bob-iger-strikes-end-quickly-sag-aftra-1850723163">Read more...</a></p>
+
+## A New Alien Tradition Emerges in Exclusive Solar Opposites Season 4 Clip
+ - [https://gizmodo.com/a-new-alien-tradition-emerges-in-exclusive-solar-opposi-1850712493](https://gizmodo.com/a-new-alien-tradition-emerges-in-exclusive-solar-opposi-1850712493)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T22:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Gu09llj_--/c_fit,fl_progressive,q_80,w_636/cd9bf1c244d9b2698abcd8fcbba9f4eb.jpg" /><p><a href="https://gizmodo.com/a-new-alien-tradition-emerges-in-exclusive-solar-opposi-1850712493">Read more...</a></p>
+
+## Pirate Borg Is a Grimdark Undead Nightmare Fueled by Sea Shanties
+ - [https://gizmodo.com/pirate-borg-luke-stratton-interview-ttrpg-gen-con-1850720436](https://gizmodo.com/pirate-borg-luke-stratton-interview-ttrpg-gen-con-1850720436)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--AbBU1UpN--/c_fit,fl_progressive,q_80,w_636/9ca48681285b6401d1ac8fe67c53f65d.png" /><p>It’s an incredibly busy day at <a href="https://gizmodo.com/gaming-shelf-reap-gila-rpgs-gen-con-recap-vaesen-1850717845">Gen Con</a>—the annual tabletop gaming convention held in Indianapolis—and the <a href="https://gizmodo.com/sci-hub-pirate-elbakyan-receives-eff-award-1850686878"><em>Pirate Borg</em></a><em> </em>table is full of books, dice, and, off to the side, a galleon figurine. The galleon is suitably manned by skeletons, half-dead pirates, and I think I spotted a shark or two shadowing the water.<br /></p><p><a href="https://gizmodo.com/pirate-borg-luke-stratton-interview-ttrpg-gen-con-1850720436">Read more...</a></p>
+
+## Gen Con Heist: Retailer Confirms Magic Cards Stolen in $300K Haul
+ - [https://gizmodo.com/magic-the-gathering-cards-stolen-gen-con-heist-lorcana-1850722316](https://gizmodo.com/magic-the-gathering-cards-stolen-gen-con-heist-lorcana-1850722316)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0WsWQ8z---/c_fit,fl_progressive,q_80,w_636/fe6c91ceb8e94cfabe8162dd6950739c.jpg" /><p><a href="https://gizmodo.com/baldurs-gate-3-neil-newbon-interview-astarion-d-and-d-1850721859"><em>Magic: The Gathering</em></a> cards worth an estimated $<a href="https://gizmodo.com/gencon-2023-convention-card-theft-lorcana-ravensburger-1850710603">300,000 were stolen</a> from Pastimes, an Indiana gaming company, last week during Gen Con in Indianapolis—one of the largest gaming conventions in the world. Zack Reiter, a manager at Pastimes, confirmed via email to io9 that it was his store that was affected by the theft. <a href="https://www.wrtv.com/news/local-news/crime/impd-seeking-publics-help-in-identifying-2-people-of-interest-who-stole-300-000-worth-of-gaming-cards" rel="noopener noreferrer" target="_blank">…</a></p><p><a href="https://gizmodo.com/magic-the-gathering-cards-stolen-gen-con-heist-lorcana-1850722316">Read more...</a></p>
+
+## Yes, Marvel Really Is Revisiting the Spider-Man Story About Radioactive Semen
+ - [https://gizmodo.com/spider-man-reign-2-marvel-comics-mary-jane-2024-1850722470](https://gizmodo.com/spider-man-reign-2-marvel-comics-mary-jane-2024-1850722470)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8JKlw6c---/c_fit,fl_progressive,q_80,w_636/cce0d92f394cb890c8dab99364d46e42.png" /><p>The House of Ideas’ latest is something that indeed could diplomatically be described as an “idea:” Marvel has confirmed after a brief period of teasing that Spider-Man hasn’t gotten enough attention for <a href="https://gizmodo.com/amazing-spider-man-26-spoilers-ms-marvel-death-mcu-1850491227">all the wrong reasons</a> lately.<br /></p><p><a href="https://gizmodo.com/spider-man-reign-2-marvel-comics-mary-jane-2024-1850722470">Read more...</a></p>
+
+## Fewer Than 10,000 Steps a Day Needed to Keep Death at Bay, Study Finds
+ - [https://gizmodo.com/study-less-10-000-steps-day-death-mortality-health-1850722379](https://gizmodo.com/study-less-10-000-steps-day-death-mortality-health-1850722379)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T20:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ZzOyW7d2--/c_fit,fl_progressive,q_80,w_636/1c08fe1b7ae2956259ef6ef091c82d6b.jpg" /><p>Getting enough steps in to stay healthy might be easier than expected, a new review of the evidence suggests. The study found that walking just under 4,000 steps a day is associated with a reduced risk of early death, while even less than 2,500 steps a day could cut your risk of dying from cardiovascular disease.…</p><p><a href="https://gizmodo.com/study-less-10-000-steps-day-death-mortality-health-1850722379">Read more...</a></p>
+
+## Code Orange: Spirit Halloween Unleashes Horror Film Fan Decor, Props, and Toys
+ - [https://gizmodo.com/spirit-halloween-horror-decor-klowns-chainsaw-scream-1850719662](https://gizmodo.com/spirit-halloween-horror-decor-klowns-chainsaw-scream-1850719662)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--u0QCEhRc--/c_fit,fl_progressive,q_80,w_636/5d719fa6ddcbc6e7e1ee5eb1733dcbd8.jpg" /><p><a href="https://gizmodo.com/halloween-theme-parks-disney-hhn-six-flags-knotts-scary-1850705800">Halloween is starting now</a>, and if that thought makes you groan like a zombie, you’ve clearly forgotten how early things begin to sell out at your local <a href="https://www.spirithalloween.com/" rel="noopener noreferrer" target="_blank">Spirit Halloween</a>. Yeah, pretty much as soon as doors open and hordes of horror fiends descend into the aisles. <br /></p><p><a href="https://gizmodo.com/spirit-halloween-horror-decor-klowns-chainsaw-scream-1850719662">Read more...</a></p>
+
+## The ISS Has Higher Levels of Potentially Harmful Contaminants Than Most Homes
+ - [https://gizmodo.com/the-iss-has-higher-levels-of-potentially-harmful-contam-1850721572](https://gizmodo.com/the-iss-has-higher-levels-of-potentially-harmful-contam-1850721572)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T19:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_h24KE1M--/c_fit,fl_progressive,q_80,w_636/275775b2bf8f984a4759ee100a3db44b.jpg" /><p>The International Space Station (ISS) has been home to more than 250 astronauts who have lived and worked on board the orbiting lab for months at a time. Unlike homes on Earth, however, the space station has been discovered to have higher levels of chemical contamination lingering in dust.</p><p><a href="https://gizmodo.com/the-iss-has-higher-levels-of-potentially-harmful-contam-1850721572">Read more...</a></p>
+
+## Should You Flip Out for This Samsung Phone? | Gizmodo Review
+ - [https://gizmodo.com/should-you-flip-out-for-this-samsung-phone-1850722263](https://gizmodo.com/should-you-flip-out-for-this-samsung-phone-1850722263)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--dU96gmDh--/c_fit,fl_progressive,q_80,w_636/74e18bbd1b005c39c28d91f1df991d72.jpg" /><p><a href="https://gizmodo.com/should-you-flip-out-for-this-samsung-phone-1850722263">Read more...</a></p>
+
+## Saudi Arabia Passes Law Requiring USB-C Charging on New iPhones, Androids, and Laptops
+ - [https://gizmodo.com/saudi-arabia-iphones-androids-usb-c-law-1850721752](https://gizmodo.com/saudi-arabia-iphones-androids-usb-c-law-1850721752)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T19:22:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--kWWGtOBW--/c_fit,fl_progressive,q_80,w_636/c13a6e72cb183028bfddbb49ecfb0246.jpg" /><p> Apple has once again had a wrench thrown in its plans for smartphone hardware, though it won’t affect the <a href="https://gizmodo.com/apple-acknowledges-a-smartphone-slowdown-as-iphone-15-a-1850712536">hotly anticipated autumnal release of the iPhone 15</a>. Saudi Arabia had passed a law requiring all future smartphones sold in the country to have USB-C ports beginning in 2025.</p><p><a href="https://gizmodo.com/saudi-arabia-iphones-androids-usb-c-law-1850721752">Read more...</a></p>
+
+## Hear More From Dan Stevens' Solar Opposites Debut in This Exclusive Clip
+ - [https://gizmodo.com/solar-opposites-hulu-clip-dan-stevens-justin-roiland-1850713210](https://gizmodo.com/solar-opposites-hulu-clip-dan-stevens-justin-roiland-1850713210)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--D0-xGgub--/c_fit,fl_progressive,q_80,w_636/182c88745c12498fe047f24c1a4d08df.jpg" /><p><a href="https://gizmodo.com/solar-opposites-hulu-sci-fi-animation-dan-stevens-1850649479"><em>Solar Opposites</em> season four</a> arrives August 14 on Hulu, bringing a new cast member (<a href="https://gizmodo.com/justin-roiland-solar-opposites-dan-stevens-replacing-1850557951">Dan Stevens, replacing Justin Roiland</a>) and a new set of adventures for <a href="https://gizmodo.com/solar-opposites-s3-hulu-mike-mcmahan-on-queer-aliens-1849154820">its alien characters</a>, who always manage to entangle themselves in plots that are somehow both mundane <em>and</em> potentially apocalyptic. io9 has an exclusive clip to share…</p><p><a href="https://gizmodo.com/solar-opposites-hulu-clip-dan-stevens-justin-roiland-1850713210">Read more...</a></p>
+
+## CNET Deletes Thousands of Old Articles to Game Google Search
+ - [https://gizmodo.com/cnet-deletes-thousands-old-articles-google-search-seo-1850721475](https://gizmodo.com/cnet-deletes-thousands-old-articles-google-search-seo-1850721475)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T18:38:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8MTeFt9b--/c_fit,fl_progressive,q_80,w_636/4e14ebb6d0d8a53e56144ca9c843e062.jpg" /><p>Tech news website CNET has deleted thousands of old articles over the past few months in a bid to improve its performance in Google Search results, Gizmodo has learned.</p><p><a href="https://gizmodo.com/cnet-deletes-thousands-old-articles-google-search-seo-1850721475">Read more...</a></p>
+
+## Baldur's Gate 3's Astarion Talks D&D, Acting, and Yes, Bear Sex
+ - [https://gizmodo.com/baldurs-gate-3-neil-newbon-interview-astarion-d-and-d-1850721859](https://gizmodo.com/baldurs-gate-3-neil-newbon-interview-astarion-d-and-d-1850721859)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--y99Tvusa--/c_fit,fl_progressive,q_80,w_636/de4f6fec2d3a19dc5e8f950c12ba3998.png" /><p>After six years of development, <a href="https://gizmodo.com/baldur-s-gate-3-has-the-nerdiest-eula-1850708078"><em>Baldur’s Gate 3</em></a>—Larian Studio’s highly anticipated successor to the legendary <em>Dungeons &amp; Dragons</em> CRPG series—finally hit PC last week. Players have been gathering a party and venturing forth to chaos, heroics, and a motley <a href="https://gizmodo.com/show-us-your-baldurs-gate-3-characters-d-and-d-1850708781">crew of characters</a>. But for one of those “heroes” in particular,…</p><p><a href="https://gizmodo.com/baldurs-gate-3-neil-newbon-interview-astarion-d-and-d-1850721859">Read more...</a></p>
+
+## Meet the 'Event Horizon Explorer', Which Aims to See Light Rings Around Black Holes
+ - [https://gizmodo.com/event-horizon-explorer-black-hole-light-rings-1850721209](https://gizmodo.com/event-horizon-explorer-black-hole-light-rings-1850721209)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--fhmOdN-f--/c_fit,fl_progressive,q_80,w_636/b0081e59e12f51e75f8ecb704fc68473.png" /><p>Astronomers transfixed the public in April 2019 when they released the <a href="https://gizmodo.com/this-is-the-first-photo-of-a-black-hole-1833923659">first-ever image of a black hole</a>, produced by radio wave data from a collaboration of telescopes around the world known collectively as the Event Horizon Telescope.</p><p><a href="https://gizmodo.com/event-horizon-explorer-black-hole-light-rings-1850721209">Read more...</a></p>
+
+## Apple Is Moving the iPhone's End Call Button
+ - [https://gizmodo.com/apple-iphone-move-end-call-ios-17-beta-1850721425](https://gizmodo.com/apple-iphone-move-end-call-ios-17-beta-1850721425)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T18:01:42+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Fk69nYwH--/c_fit,fl_progressive,q_80,w_636/01012653aa0c7ad8e1ce6b574a2e875c.jpg" /><p>Do I actually use my iPhone to call people? Yes, yes I do, as it so happens. The thing about calls is that their function hasn’t changed in any major way since the first iPhone started the whole smartphone craze, despite the addition of extra features like Facetime. Now Apple’s latest iOS 17 beta has changed the…</p><p><a href="https://gizmodo.com/apple-iphone-move-end-call-ios-17-beta-1850721425">Read more...</a></p>
+
+## Twitter Fined $350,000 for Delaying Search of Trump's Account in Jan. 6 Prosecution
+ - [https://gizmodo.com/twitter-fined-delay-search-donald-trump-account-1850721718](https://gizmodo.com/twitter-fined-delay-search-donald-trump-account-1850721718)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T17:46:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RRwosul9--/c_fit,fl_progressive,q_80,w_636/3e9957a4d29454d8ac4436d2357c1559.jpg" /><p>The special counsel investigating Donald Trump’s attempt to overturn the 2020 election tried, failed, and ultimately succeeded in accessing the former president’s Twitter account, documents published Wednesday show. According to the courts, Twitter was late in producing all the information investigators wanted on…</p><p><a href="https://gizmodo.com/twitter-fined-delay-search-donald-trump-account-1850721718">Read more...</a></p>
+
+## Watch Spider-Man: Across the Spider-Verse's Riveting Ghost Spider Opening
+ - [https://gizmodo.com/spider-man-across-spider-verse-opening-scene-youtube-1850721669](https://gizmodo.com/spider-man-across-spider-verse-opening-scene-youtube-1850721669)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T17:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SIcUak9I--/c_fit,fl_progressive,q_80,w_636/dd364ca31a7759e897cbf173925ea4b6.png" /><p>Get hooked back into the Spider-Verse with the opening sequence from the hit <a href="https://gizmodo.com/spider-man-across-the-spider-verse-digital-and-blu-ray-1850697283">Sony Pictures Animation superhero film</a>. </p><p><a href="https://gizmodo.com/spider-man-across-spider-verse-opening-scene-youtube-1850721669">Read more...</a></p>
+
+## Epic Games Loses Supreme Court Appeal to Force Apple to Change App Store Right Now
+ - [https://gizmodo.com/fortnite-epic-games-apple-iphone-app-store-scotus-1850721523](https://gizmodo.com/fortnite-epic-games-apple-iphone-app-store-scotus-1850721523)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T17:14:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--DrYqjIli--/c_fit,fl_progressive,q_80,w_636/458bcad176c5aca08574bdd0cc36427b.jpg" /><p>The U.S. Supreme Court denied Epic Games’ appeal against Apple on Wednesday, which would have required the iPhone maker change its App Store’s payment options. Epic Games, the owner of the popular video game “Fortnite,” filed an antitrust lawsuit against Apple in 2020 accusing the company of holding a monopoly over…</p><p><a href="https://gizmodo.com/fortnite-epic-games-apple-iphone-app-store-scotus-1850721523">Read more...</a></p>
+
+## Can AI Fix America's Cybersecurity Woes? The White House Thinks So.
+ - [https://gizmodo.com/white-house-announces-ai-cyber-challenge-blackhat-aixcc-1850718972](https://gizmodo.com/white-house-announces-ai-cyber-challenge-blackhat-aixcc-1850718972)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--c_ANcCLi--/c_fit,fl_progressive,q_80,w_636/3aba48b6b84842d66ed1555361b8e350.jpg" /><p>The White House has announced a contest incentivizing the development of new artificial intelligence systems designed to hunt for software vulnerabilities in critical infrastructure. The “<a href="https://aicyberchallenge.com/about/" rel="noopener noreferrer" target="_blank">AI Cyber Challenge</a>” will be a two-year government-sponsored competition designed to spur the creation of new automated security…</p><p><a href="https://gizmodo.com/white-house-announces-ai-cyber-challenge-blackhat-aixcc-1850718972">Read more...</a></p>
+
+## Depression and Anxiety Won't Raise Your Risk of Cancer, Study Finds
+ - [https://gizmodo.com/study-depression-anxiety-cancer-risk-1850721287](https://gizmodo.com/study-depression-anxiety-cancer-risk-1850721287)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--TK3Q6xtC--/c_fit,fl_progressive,q_80,w_636/e888ae54815aa8a9b524179464e7c338.jpg" /><p>Here’s some potentially happy news: Depression and anxiety might not raise the chances of cancer after all, new research this week has found. The study, a review of existing research, found no significant link between either condition and an increased risk of cancer in general, or many of the most common types of…</p><p><a href="https://gizmodo.com/study-depression-anxiety-cancer-risk-1850721287">Read more...</a></p>
+
+## The Witcher Season 3's Big Fight Was Meant to Make Up for a Season 1 'Plot Hole'
+ - [https://gizmodo.com/witcher-season-3-vilgefortz-plot-hole-cahir-netflix-1850721377](https://gizmodo.com/witcher-season-3-vilgefortz-plot-hole-cahir-netflix-1850721377)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T16:41:47+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ismr_WSb--/c_fit,fl_progressive,q_80,w_636/6ff416b693b709bed7847693a4ab0715.png" /><p><a href="https://gizmodo.com/netflix-witcher-season-3-henry-cavill-liam-hemsworth-ad-1850605994"><em>The Witcher</em></a>’s long, curious road through <a href="https://gizmodo.com/witcher-new-novel-2024-andrzej-sapkowski-netflix-1850709011">Andrzej Sapkowski’s fantasy novels</a> has led to a lot of frustration for some fans—even before the series’ <a href="https://gizmodo.com/witcher-season-3-ending-geralt-henry-cavill-netflix-1850687708">messy downward spiral</a> by the back half of season three. But according to a new documentary about the season from Netflix, the team behind the show wanted to patch up one…</p><p><a href="https://gizmodo.com/witcher-season-3-vilgefortz-plot-hole-cahir-netflix-1850721377">Read more...</a></p>
+
+## Slack Drops a Big Redesign to Change How You Chat
+ - [https://gizmodo.com/slack-ui-redesign-messages-later-channels-1850720963](https://gizmodo.com/slack-ui-redesign-messages-later-channels-1850720963)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T16:26:34+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--IDY-NRIv--/c_fit,fl_progressive,q_80,w_636/caf9017bf4aa703a84aa47194054708b.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--EgDUFbFp--/c_fit,fl_progressive,q_80,w_636/caf9017bf4aa703a84aa47194054708b.mp4" type="video/mp4" /></video><p>Your work chats are going to look very different very soon. On Wednesday, Slack said it would update its interface for the first time in three years, adding new ways to quickly gauge who’s screaming for your attention across multiple channels and chats and mark conversations for followup.<br /></p><p><a href="https://gizmodo.com/slack-ui-redesign-messages-later-channels-1850720963">Read more...</a></p>
+
+## Massive Maui Wildfires Fueled by Hurricane Dora Cut Power and 911 Service for Thousands
+ - [https://gizmodo.com/maui-wildfires-power-outage-911-service-1850721097](https://gizmodo.com/maui-wildfires-power-outage-911-service-1850721097)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T15:56:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--F5bxHHXT--/c_fit,fl_progressive,q_80,w_636/ea1897e37ec5b7da16dc38de5b98a44b.jpg" /><p>Wildfires are raging throughout the Hawaiian island of Maui, forcing evacuations, emergency service outages, power outages, and downed trees. The flames have spread quickly, and Maui residents have had to throw themselves into the ocean to escape the fires, CNN <a href="https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html" rel="noopener noreferrer" target="_blank">reported</a>.</p><p><a href="https://gizmodo.com/maui-wildfires-power-outage-911-service-1850721097">Read more...</a></p>
+
+## Neil Gaiman Won't Let Good Omens' Story End Like That
+ - [https://gizmodo.com/neil-gaiman-good-omens-s3-prime-video-cliffhanger-1850721013](https://gizmodo.com/neil-gaiman-good-omens-s3-prime-video-cliffhanger-1850721013)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--V-KSg_f4--/c_fit,fl_progressive,q_80,w_636/26d9a20db0ff5bd528c714641bb59293.jpg" /><p>It’s been a few weeks since <a href="https://gizmodo.com/good-omens-s2-review-sheen-tennant-gaiman-prime-video-1850623680"><em>Good Omens</em> season two</a> dropped on Prime Video, and let me tell you the <a href="https://gizmodo.com/sdcc-2023-good-omens-bloopers-season-2-amazon-1850665069">Aziracrow</a> girlies (non-gendered) have been eating good and also <a href="https://gizmodo.com/good-omens-s2-interview-queer-characters-neil-gaiman-1850623376">sobbing</a> into their meals for the past two weeks. I’m not going to spoil it, as the entire season <a href="https://gizmodo.com/good-omens-michael-sheen-david-tennant-interview-prime-1850620126">dropped at once</a> and I would like more people to watch the…</p><p><a href="https://gizmodo.com/neil-gaiman-good-omens-s3-prime-video-cliffhanger-1850721013">Read more...</a></p>
+
+## The Mic Cardi B Threw at a Fan Just Sold for Nearly $100,000 on eBay
+ - [https://gizmodo.com/mic-cardi-b-threw-sold-100-000-ebay-1850720889](https://gizmodo.com/mic-cardi-b-threw-sold-100-000-ebay-1850720889)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T15:28:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--4MJ3R1vL--/c_fit,fl_progressive,q_80,w_636/eae52918f849d72ff73e68bd108a9f79.jpg" /><p>The saga of Cardi B’s microphone retaliation in Las Vegas has come to an end. <a href="https://gizmodo.com/microphone-cardi-b-threw-fan-on-ebay-100k-1850703739">After an audio technician began an auction last week for the mic the rapper threw at a fan</a>, it’s now sold for almost $100,000 on eBay, with the proceeds being split between two charities.  </p><p><a href="https://gizmodo.com/mic-cardi-b-threw-sold-100-000-ebay-1850720889">Read more...</a></p>
+
+## Google Says It Will Scrape Publishers’ Data for AI Unless Forced Not To
+ - [https://gizmodo.com/google-bard-ai-scrape-websites-data-australia-opt-out-1850720633](https://gizmodo.com/google-bard-ai-scrape-websites-data-australia-opt-out-1850720633)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--y9kTAEho--/c_fit,fl_progressive,q_80,w_636/a803adfff16d59ebb11b93159f87a97f.jpg" /><p>Google hungers for all that content produced by the wealth of digital publishers creating text, video, and images on a daily basis. To deal with the sticky copyright issues at the heart of AI training, Google is proposing that all those companies who don’t want their content gobbled up will need to “opt-out” to ensure…</p><p><a href="https://gizmodo.com/google-bard-ai-scrape-websites-data-australia-opt-out-1850720633">Read more...</a></p>
+
+## NASA's Mars Helicopter Just Won't Quit, Resuming Flights After an Untimely Landing
+ - [https://gizmodo.com/nasas-mars-helicopter-just-wont-quit-resuming-flights-1850720589](https://gizmodo.com/nasas-mars-helicopter-just-wont-quit-resuming-flights-1850720589)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--6pcK0gLX--/c_fit,fl_progressive,q_80,w_636/3dc7181c045baafcc0f4f7d6b69475c4.jpg" /><p>NASA’s Ingenuity helicopter has had a rough few months, first losing communication with its home planet and later suffering a glitch that interrupted its flight. But you can’t keep a good chopper down. Ingenuity soared above the Martian terrain once again as its team on Earth tries to figure out what went wrong with…</p><p><a href="https://gizmodo.com/nasas-mars-helicopter-just-wont-quit-resuming-flights-1850720589">Read more...</a></p>
+
+## The 5 Best VPNs for the Back to School 2023 Season
+ - [https://gizmodo.com/the-5-best-vpns-for-the-back-to-school-2023-season-1850717495](https://gizmodo.com/the-5-best-vpns-for-the-back-to-school-2023-season-1850717495)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T14:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8VS6bfvl--/c_fit,fl_progressive,q_80,w_636/035bf005f9b54b6eb764f5819516b6b6.jpg" /><p>Virtual Private Networks, better known as VPNs, are services that route your traffic through a sort of encrypted tunnel, hiding your online activities from your internet service provider and anyone else who manages your network. That makes VPNs a tool you should definitely not consider using them when you land at your…</p><p><a href="https://gizmodo.com/the-5-best-vpns-for-the-back-to-school-2023-season-1850717495">Read more...</a></p>
+
+## WeWork Offices Could Close As The Company Struggles To Stay Afloat
+ - [https://gizmodo.com/wework-offices-could-close-as-the-company-struggles-to-1850720843](https://gizmodo.com/wework-offices-could-close-as-the-company-struggles-to-1850720843)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T14:38:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Gl_SfPRu--/c_fit,fl_progressive,q_80,w_636/febc2602a0431b665e2f17284323dae2.jpg" /><p>WeWork, the company that offers flexible co-working spaces, said in a Securities and Exchange Commission (SEC) filing on Tuesday that it is at risk of bankruptcy. The business has struggled since the beginning of the COVID-19 pandemic, when offices shuttered their doors and moved to remote work, resulting in WeWork…</p><p><a href="https://gizmodo.com/wework-offices-could-close-as-the-company-struggles-to-1850720843">Read more...</a></p>
+
+## Updates From DC's Creature Commandos, Archer, and More
+ - [https://gizmodo.com/dc-creature-commandos-david-harbor-james-gunn-frankenst-1850717827](https://gizmodo.com/dc-creature-commandos-david-harbor-james-gunn-frankenst-1850717827)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--MFyeRtNt--/c_fit,fl_progressive,q_80,w_636/3f0303510d3394a1ed3263cc03c0eeb6.png" /><p>Peter Dinklage welcomes you to The Academy in a new <em>Ballad of Songbirds and Snakes</em> teaser. Universal’s live-action <em>How to Train Your Dragon</em> has been hit with indefinite delays. Plus, more behind the scenes on <em>Last Voyage of the Demeter</em>. Spoilers now!<br /></p><p><a href="https://gizmodo.com/dc-creature-commandos-david-harbor-james-gunn-frankenst-1850717827">Read more...</a></p>
+
+## How to Watch Apple Unveil the iPhone 15
+ - [https://gizmodo.com/apple-iphone-15-how-to-watch-1850719532](https://gizmodo.com/apple-iphone-15-how-to-watch-1850719532)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T13:48:04+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vmsquQdb--/c_fit,fl_progressive,q_80,w_636/0b677e8b82fce5d7022d4b437f8b97e4.jpg" /><p>No, Apple hasn’t officially declared it iPhone time. We’re still waiting for the company to create a splashy signature graphic to usher in the event. But until that happens, we have rumors and reports to reference on when we can expect the <a href="https://gizmodo.com/iphone-15-usb-c-camera-price-size-design-colors-release-1850174580">iPhone 15</a> to launch. </p><p><a href="https://gizmodo.com/apple-iphone-15-how-to-watch-1850719532">Read more...</a></p>
+
+## How to Watch This Year’s Promising Perseid Meteor Shower
+ - [https://gizmodo.com/how-to-watch-this-year-s-promising-perseid-meteor-showe-1850720574](https://gizmodo.com/how-to-watch-this-year-s-promising-perseid-meteor-showe-1850720574)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T13:42:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cSMbxfbt--/c_fit,fl_progressive,q_80,w_636/085a6c9f13aa9b5085afe7f4cf66a14d.jpg" /><p>This year’s Perseid meteor shower is set to be a good one, and it’ll reach its peak this coming weekend. Here’s what you need to know about the Perseids and the best way for you to catch this dazzling display. <br /></p><p><a href="https://gizmodo.com/how-to-watch-this-year-s-promising-perseid-meteor-showe-1850720574">Read more...</a></p>
+
+## Lyft CEO on Surge Pricing: 'We're Trying to Really Get Rid of It'
+ - [https://gizmodo.com/lyft-ceo-on-surge-pricing-were-trying-to-really-get-ri-1850720559](https://gizmodo.com/lyft-ceo-on-surge-pricing-were-trying-to-really-get-ri-1850720559)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-09T13:29:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--WtgowcO0--/c_fit,fl_progressive,q_80,w_636/720e1f31187ddecce2e616325995c8f7.jpg" /><p>The days of sky-high carshare rates could be behind us—at least if Lyft is your app of choice. The Uber competitor announced during a quarterly earnings call yesterday that phasing out surge pricing is on its list of priorities moving forward.</p><p><a href="https://gizmodo.com/lyft-ceo-on-surge-pricing-were-trying-to-really-get-ri-1850720559">Read more...</a></p>
+

@@ -1,0 +1,167 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## Watch: Joe Biden flips out on Doocy for asking him to his face about calling into Hunter Biden's business meetings
+ - [https://www.louderwithcrowder.com/joe-biden-snaps-at-peter-doocy](https://www.louderwithcrowder.com/joe-biden-snaps-at-peter-doocy)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-09T22:34:53+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34810774&amp;width=600&amp;height=600&amp;coordinates=286%2C0%2C274%2C0" /><br /><br /><p>Doocy is back! He had a few months off for paternity leave, but he's back and is being welcomed by Joe Biden. With an old man meltdown over Doocy having the stones to do his job as a journalist. Doocy walked up to Biden and asked him a question. He just... walked up to him and asked. RUDE!</p><p>Of course, it was a question about Hunter Biden's shady business dealings and how Joe would ALLEGEDLY call into his second favorite son's meetings with foreign business partners. <a href="https://www.louderwithcrowder.com/jen-psaki-hunter-biden-reporter" target="_blank">The White House has rules against such nonsense</a>.</p><p>DOOCY:  Your son's former business associate is claiming that you were on speakerphone a lot with them talking business. </p><p>BIDEN: I never talked business with anybody! I knew you'd have a lousy question.</p><p>(You know your man is working hard, he's worth the) DOOCY: Why is that a lousy question?</p><p>BIDEN: Because it's not true!</p><p><br /></p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1689382875345358849"></a>
+</blockquote>
+
+<p>Quick sidebar: The goalposts on how much shady money Joe Biden made has moved again.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/themarketswork/status/1689355737691205639"></a>
+</blockquote>
+
+<p><br /></p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/redsteeze/status/1689356298796806144"></a>
+</blockquote>
+
+<p>DOOCY's question though was about Devon Archer's testimony he and Hunter Biden sold access to Joe AND that Hunter put Jow on the phone with clients over two dozen times. Weird, but I think this is the first time Joe Biden has ever been asked about it be a reporter. Weird, right?</p><p>This part of Devon's testimony about the Ukrainian energy company that paid Hunter a ludicrous amount of money for a job he had no experience in was of particular interest.</p><blockquote>While they were sitting outside at the bar, Vadym Pozharskyi, a senior Burisma executive, phoned to ask where they were because Burisma’s owner, Mykola Zlochevsky, needed to speak to Hunter urgently. Soon afterward, the two Ukrainians joined Hunter and Archer at the Four Seasons bar and Pozharskyi asked Hunter: “Can you ring your dad?”</blockquote><p>Atcher's testimony came on the heels of a confidential FBI source stepping forward to say <a href="https://dailycaller.com/2023/07/20/joe-biden-hunter-both-told-ukrainian-oligarch-burisma-board/" target="_blank">Joe and Hunter BOTH told the CEO of Burisma to retain the president’s son</a>.</p><p>...which came on the heels of confirmation <a href="https://www.washingtontimes.com/news/2023/jul/20/fbi-told-twitter-hunter-biden-laptop-was-real-soon/" target="_blank">the FBI knew that Hunter's laptop was real the entire time</a>.</p><p>...which came on the heels of a whistleblower testifying before Congress that, as someone who worked on the Hunter Biden tax investigation, there were a lot of people in Joe Biden's government <a href="https://www.louderwithcrowder.com/whistleblower-x-testimony" target="_self">who didn't want anyone working on the Hunter Biden tax investigation</a>.</p><p>Doocy is still getting readjusted to being back at work. Let's give him some time.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## "That's game over": Joe Rogan exposes reason behind leftist elite push for government digital currency
+ - [https://www.louderwithcrowder.com/joe-rogan-post-malone-digital-currency](https://www.louderwithcrowder.com/joe-rogan-post-malone-digital-currency)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-09T17:47:51+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34808745&amp;width=1200&amp;height=800&amp;coordinates=200%2C0%2C0%2C0" /><br /><br /><p>The latest theory that is a conspiracy today so it can become mainstream Democrat policy tomorrow is digital currency. Is the Left saying verbatim, "We are going to use digital currency to control what you are allowed to buy?" No. Would any of you put it past them? Also no. Joe Rogan isn't falling for it. And neither is Post Malone.</p><p>Last time it was <a href="https://www.louderwithcrowder.com/joe-rogan-post-malone" target="_blank">government mandates</a>. Malone, who looks like lost his pandemic weight, was hoping for Rogan to opine on the idea of a government digital currency. Rogan opined his ass off.</p><p>“No f*cking way. No way. That’s what I think. I think that’s checkmate. That’s game over. Because if they apply that to a social credit score — if they decide somehow or another that you need some social credit score system and it’s for the benefit of society, and they outline that, they can track your behavior and your tweets and all your things ... They just decided you fucked up, and the rules are the rules.”</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/VigilantFox/status/1689015119764672514"></a>
+</blockquote>
+
+<p>Apropos of nothing, put Post Malone's cut with Noah Kahan "Dial Drunk" on one of your playlists:</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/ExtraPosty/status/1681095338596212737"></a>
+</blockquote>
+
+<p>The idea of a "cashless" society is a controversial one. The Associated Press has issued a "fact" "check" claiming a video showing an elitist telling you the coming digital cashless society will be regulated and undesirable purchases will be controlled <a href="https://apnews.com/article/fact-check-world-economic-forum-cashless-society-false-cbdc-592718364311" rel="noopener noreferrer" target="_blank">is misleading and out of context</a>. They also claimed Democrats didn't want to ban gas stoves. The fact that these words are even being said out loud is the problem.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/Raymond82310289/status/1677217424842653696"></a>
+</blockquote>
+
+<p>Republican presidential candidate Ron DeSantis <a href="https://justthenews.com/politics-policy/elections/fridesantis-vows-rein-fed-ban-central-bank-digital-currency-cash-king?utm_source=mux&amp;utm_medium=social" rel="noopener noreferrer" target="_blank">promises on day one</a>, he is banning central bank digital currencies. "I think it's a huge threat to freedom. I think it's a huge threat to privacy ... it will allow [elitists] to block what they consider to be undesirable purchases, like too much fuel, ... they just won't let the transaction go through. [Or on] ammunition."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/NesaraGesara0/status/1682905839622045698"></a>
+</blockquote>
+
+<p>Remember, there is no evidence Democrats are going to this. Only the words that progressives say out loud saying it could be a good idea. And conservatives seizing on those words.</p><p>Global corporations are getting in on it too. Amazon has a new service, Amazon One, <a href="https://www.louderwithcrowder.com/woman-buys-things-waving-hand" target="_blank">where they scan your hand</a>, tie your credit card to your hand, then let you buy groceries simply by waving your hands on a scanner. Please remember, this is the same Amazon that <a href="https://www.louderwithcrowder.com/amazon-smart-home-shut-down">shut a man's Amazon smart home down</a> when he was accused of using a racial slur. The man wasn't home at the time, therefore he didn't. It took days before he could speak to a human to get his devices -- that he thought he owned -- restored.</p><p>So again, is the Democrat Party admitting out loud, word for word, "We are going to use digital currency to control what you are allowed to buy?" No. <a href="https://www.louderwithcrowder.com/hot-water-heater" target="_self">Would any of</a> you <a href="https://www.louderwithcrowder.com/car-loan-bank-gas-poweered" target="_self">put it past them</a>? <a href="https://www.louderwithcrowder.com/paypal-terms-changed" target="_self">Also no</a>. After the past few years, YOU'D be the conspiracy theorist if you trusted them.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Ron DeSantis removes another woke Soros-backed prosecutor after two police officers were shot: "Dereliction of duty"
+ - [https://www.louderwithcrowder.com/ron-desantis-state-attorney](https://www.louderwithcrowder.com/ron-desantis-state-attorney)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-09T16:56:07+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34808419&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Ron DeSantis tweeted the words "LAW AND ORDER" in all caps at 3:00 in the morning today. Ok, so he didn't achkshually do that. But he did remove another week on crime Soros-backed prosecutor from office after two cops were shot by someone who should have been in jail.</p><p>Via executive order, Ninth Judicial Circuit State Attorney Monique Worrell, who was backed by a <a href="https://www.dailywire.com/news/desantis-throws-another-woke-soros-prosecutor-out-of-office" target="_blank">group tied to Democrat benefactors George Soros</a>, was removed from her post for dereliction of duty. The governor's office said in a statement: "The practices and policies of her office have allowed murderers, other violent offenders, and dangerous drug traffickers to receive extremely reduced sentences and escape the full consequences of their criminal conduct. In some cases, these offenders have evaded incarceration altogether."</p><p>The final straw may have been this past weekend. A man who was arrested in March 2023 for sexual battery on a minor and Lewd and Lascivious Molestation, who was already on probation for a past offense, was allowed out on bail by Worrell. He then shot two police officers.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/KurtSchlichter/status/1689282593651339264"></a>
+</blockquote>
+
+<p>But that was more of a final straw thing. Her equity agenda is like a laundry list of every stereotypical woke Democrats attorney:</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/willchamberlain/status/1689292514228891648"></a>
+</blockquote>
+
+<p><br /></p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/willchamberlain/status/1689292517424918528"></a>
+</blockquote>
+
+<p><br /></p>
+<blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/willchamberlain/status/1689292523204644864"></a>
+</blockquote>
+
+<p>And while a serious topic, any day we get Sheriff Grady Judd content is a great day to be alive.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1689305664177184768"></a>
+</blockquote>
+
+<p>Worrell is being replaced with former judge Andrew Bain.</p><p>This comes a year after DeSantis kicked another anti-enforcing laws Soros-back attorney, State Attorney Andrew Warren,  for not enforcing the laws. Which, you know, is kinda in the job description. “We are not going to allow this pathogen of ignoring the law to get a foothold in the state of Florida.”</p><p>Since there are any number of reoccurring storylines going on right now, I'm sure we know what comes next: Media cries about DeSantis being a "dictator," accusations of antisemitism because the name Koch Brothers... err, I mean "Soros" was uttered, and DeSantis not giving a shit.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Watch: 7-11 takes drastic measure to deal with LA's homeless problem... chasing them away by blasting yacht rock 24/7
+ - [https://www.louderwithcrowder.com/7-11-toto-africa](https://www.louderwithcrowder.com/7-11-toto-africa)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-09T13:55:53+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=34806630&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>California has a homeless problem. And a crime problem. And a progressive voter electing progressive politicians for decades to enact progressive policies and wondering why their state is such a craphole problem. But today, we're discussing the <a href="https://www.louderwithcrowder.com/sacramento-homelessness-crime-skyrockets" target="_blank">homeless problem</a> and one 7-11's desperate measures to prevent being overrun with encampments outside their store. Blasting yacht rock.</p><p>Toto's "Africa," to be precise. Shout out fellow <a href="https://redstate.com/jenvanlaar/2023/08/08/watch-los-angeles-7-11-proprietor-uses-totos-africa-to-keep-homeless-encampments-away-from-the-store-n789782" target="_blank">yacht rock enthusiast Jen Van Laar</a>.</p><p>Los Angelino Damon Packard was out for a walk by his local 7-11, when he found himself singing "something, something, something, <em>drag me away from youuuuuu.</em>" He documented the event on <a href="https://www.facebook.com/PackardFilm/posts/10159097265275614?ref=embed_post" target="_blank">Facebook</a> saying, "The 7/11 right next to my building (the one across the street from the Nuart theater) has nothing but Toto’s AFRICA playing 24hrs a day over their loudspeakers (no joke). I don’t know if the owner had the idea that song on endless repeat would scare off the homeless but it worked.”</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1689266113652158466"></a>
+</blockquote>
+
+<p>Other 7-11's have taken similar measures, <a href="https://www.louderwithcrowder.com/711-austin-opera-music" target="_blank">only with less enjoyable music</a>. It's an interesting idea, but the 7-11 is playing a dangerous game. They are forgetting it was music that first attracted homeless from all across America to California. Well, California also makes it more affordable to be <a href="https://www.louderwithcrowder.com/san-francisco-homeless-guy-moves" target="_blank">a homeless drug addict than in states not run by Democrats</a>. But music still played a major part.</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">♪ California Love ♪ South Park Song - Lyrics karaoke</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=NFNaRGcZ28Y" target="_blank">www.youtube.com</a>
+</small>
+</p>
+<p>The other potential problem is that while it might shoo away the homeless from setting up shop, it might attract loitering middle-aged Americans who are getting lost in the vibe. I know this for a fact because I can smell my own. </p><p>Don't get me wrong, unlike a homeless person I have a job and am an asset to society. I'd buy a Big Gulp, a bag of Sun Chips, and one of those cheeseburger Big Bites. But I also might be swayed into grabbing a lawn chair and hanging out outside.</p><p>Especially if the 7-11 changed up the playlist. ASIA's "Heat of Moment." The Outfield's "Your Love." "I'd Really Love to See You Tonight" by England Dan & John Ford Coley. Bring a friend.</p><p>Some 7-11 employees need to take more of a "whoop that ass" mentality -- which thankfully, the DA announced <a href="https://www.louderwithcrowder.com/sikh-711-worker-under-investigation" target="_blank">our stickfighting Sikh friends are NOT under investigation</a> -- to deal with the homeless. Others a Spotify account and the "repeat" button.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Watch: Jake Tapper can't understand why so many Americans hate Joe Biden, his guest stumbles on the perfect reason
+ - [https://www.louderwithcrowder.com/joe-biden-low-approval](https://www.louderwithcrowder.com/joe-biden-low-approval)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-09T12:49:28+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34806428&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C199%2C0" /><br /><br /><p>Nobody likes Joe Biden and nobody thinks the economy is doing as well as the media tells us it is. They didn't think that in 2022 either, but Democrats were able to con zoomers into thinking they were going to have their <a href="https://www.louderwithcrowder.com/joe-briden-student-loan-unconstitutional" target="_blank">student loans paid off</a> and unmarried women that only being allowed to <a href="https://www.louderwithcrowder.com/nbc-news-desantis-abortion" target="_blank">choose an abortion</a> up until twelve weeks was a human rights violation. But as the saying goes, "It's the economy, stupid." And CNN's Jake Tapper can't figure out why more Americans still shun Biden.</p><p>The latest CNN polls:</p><ul><li>Job approval: 41%</li><li>Handling of economy: 37%</li></ul><p>Tapper thinks he's Bill Murray trying to drown Punxsutawney Phil: "I feel like I've been noting this for three years — President Biden is out there heralding such and such, and the American people disapprove overwhelmingly! Three years in, we're still having this conversation!"</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/RNCResearch/status/1689008776655859712"></a>
+</blockquote>
+<p>NPR's Ayesha Rascoe, doing the broken clock thing, brought up two excellent points. Even if she may have stumbled upon them on accident:</p><blockquote>Biden is not the type of candidate that gets people all worked up.</blockquote><p>Correct. People don't wear Biden hats while standing on the highway corner waving their Biden Pride flags.</p><blockquote>I think part of it is that, when you had inflation, that’s such a pocketbook issue. It really hit people where they hurt. You’ve got interest rates up. It’s just a lot.</blockquote><p>See, that's the point elitists like <a href="https://www.realclearpolitics.com/video/2023/08/04/joy_behar_the_economy_is_booming_inflation_is_down_people_are_having_an_easier_time_putting_bread_on_the_table.html" target="_blank">Joy Behar don't get</a> and elitists like <a href="https://www.foxnews.com/media/anti-trump-nyt-writer-shocks-column-bashing-elite-self-dealing-jerks-were-the-bad-guys" target="_blank">David Brooks almost get, but not quite</a>. It's easy to rely on statistics to justify your candidate when you have so much money you don't feel any pain yourself. Clueless Behar can claim Americans are having an easy time "putting bread on the table" because she doesn't know where everything from her panty came from or how it got there.</p><p>To other people, while inflation may have "come down" it's still higher than it was. Low employment rates don't matter when you struggle to support your family with the job -- or jobs -- you do have. And Biden's agenda (that he still on occasion blames Russia for) is the key reason why things are so unaffordable.</p><p>The only statistic that matters to voters is what I call the "everyone I know" metric. Assign a number to yourself based on your job status and how expensive you find everything (food, gas, utilities, etc.). Plus one for everyone you know who is doing okay. Minus one for everyone you know who is not. That's the only number that matters to people when they vote, and it is how they judge the people they vote for.</p><p>For elitists who work in the media, everyone they know is doing fine. They also didn't struggle to make ends meet during the pandemic either.</p><p>For Normie-Americans, that is not the case, no matter what monthly statistics Joe Biden's government comes up with. Hence why people who work for CNN (<a href="https://www.louderwithcrowder.com/mika-attacks-joe-biden-staff" target="_blank">or MSNBC</a>) not understanding why so many Americans don't slurp Biden as much as they do.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Watch: Mike Pence's new ad brings so much cringe, it's like if Bud Light made a GOP commercial
+ - [https://www.louderwithcrowder.com/mike-pence-truck-ad](https://www.louderwithcrowder.com/mike-pence-truck-ad)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-09T11:51:37+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34803436&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Mike Pence. My Dude. Just... no.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/brodigan/status/1658896597818679296"></a>
+</blockquote>
+<p>Whoops! Wrong Mike Pence fail. The new fail is his latest ad that looks like it was pitched and crafted by people <a href="https://www.louderwithcrowder.com/anheuser-busch-layoffs" target="_blank">who no longer have a job working for Bud Light</a>. Either that or his new co-campaign managers are Matt Stone and Trey Parker from <em>South Park</em>. And they bought in Seth MacFarlane from <em>Family Guy</em> to run comms. There is no way anyone who likes Mike Pence thinks THIS is a good ad for 2023. I just don't mean 2023's GOP electorate. I mean 2023 as a point in time. </p><p>Folksy Mike Pence driving a pickup truck, filling it up with gas, and pining for the good ol' days when he could afford gasoline. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/Mike_Pence/status/1689014062305128448"></a>
+</blockquote>
+<p>I haven't seen such a fail in an ad like this since a North Carolina Democrat tried to pander to BBQ fans in North Carolina... <a href="https://www.louderwithcrowder.com/bbq-cal-cunningham" target="_blank">by cooking on a gas grill</a>. Worse, he sullied the name of BBQing political Cunninghams (shout out RedState's Joe Cunningham).</p><p>To believe Mike Pence is filling up his pick-up truck requires you to believe Pence drives or pumps his own glass. He is the former vice president who was a governor before that and a congressman before that. This is the video equivalent of "a how do you do, fellow midwesterners" meme.</p><p>Also, as Daily Caller <a href="https://dailycaller.com/2023/08/08/mike-pence-error-energy-gas-station-video/" target="_blank">was quick to point out</a>, "...the gasoline pump can be heard making a beeping noise, which typically prompts the user to select a fuel grade before beginning to fill up. Pence also does not pretend to pull the trigger on the handle, which would start the flow of gasoline if he had selected a type of fuel and paid for gas."</p><p>It is every cheesy, corny, conservative, middle-America trope they can squeeze into a minute. The only thing missing is an American Flag flying in the background for no reason whatsoever and a Jason Aldean song. It is one thing when <a href="https://www.louderwithcrowder.com/bud-light-chicken-fried-commercial" target="_blank">a company like Bud Light thinks so little of its audience</a> they think THIS appeals to anyone. You should expect more from actual conserva... ok, I think I see my error there. The people working on Pence's campaign need to be blacklisted.</p><p>Adding to the fail, I guess Pence is using this video to announce his energy plan. Everyone has been too busy taking the piss out of it. Also, any GOP candidate's energy plan needs to include only one point.</p><p>1. Do the exact opposite that Joe Biden has done.</p><p>This is the point on the primary where I start to get stabby because you have people who have a role to play and then you have interlopers. Ron DeSantis has his role, as does the former president. Like them or not, Chris Christie, Tim Scott, and Nikki Haley all have their "one early state can change it all" roles. It's Joseph Campbell's "A Candidate of 1000 Faces." We see the same storylines play out every four years.</p><p>Mike Pence plays no role other than to be the guy who doesn't realize it's not 2009 anymore. I don't even think he takes votes away from the other candidates. He's there just because he's Mike Pence and has nothing else to do.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
