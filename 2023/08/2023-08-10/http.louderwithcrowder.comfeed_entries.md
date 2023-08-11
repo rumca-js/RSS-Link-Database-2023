@@ -1,0 +1,120 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## "Lawful, but awful": X (Twitter) CEO Linda Yaccarino validates all our free speech concerns about her
+ - [https://www.louderwithcrowder.com/linda-yaccarino-lawful-but-awful](https://www.louderwithcrowder.com/linda-yaccarino-lawful-but-awful)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-10T16:56:27+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34855195&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>When Elon Musk named Linda Yaccarino as the CEO of X (then Twitter), conservatives had a number of free speech-related concerns. She was the "Chairman of the WEF's Taskforce on Future of Work and sits on the WEF's Media, Entertainment and Culture Industry Governors Steering Committee." Also, in an interview with Elon BEFORE he gave her the job, <a href="https://www.louderwithcrowder.com/elon-musk-new-ceo-interview" target="_blank">she came out in full support of MOAR content moderation</a>.</p><p>Elon said to give her a chance. After hearing her talk to CNBC today about the new content tools that have never before existed in the history of the Internet... nope.</p><p>"If you are going to post something that is lawful but it’s awful, you get labeled. You get deamplified, which means it cannot be shared. ... [Brands] are protected from the risk of being next to that content. And it’s also why it’s really important to note that once a post is labeled and it can’t be shared and the user sees that, 30% of the time they take it down themselves."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1689675106086264834"></a>
+</blockquote>
+
+<p>I think we figured out who tried to <a href="https://www.louderwithcrowder.com/elon-musk-response-daily-wire" target="_blank">throttle the Matt Walsh documentary "What is a Woman?"</a> After the company struck a deal with Twitter to promote it. </p><p>Being involved with the WEF should have been a red flag alone. <a href="https://www.louderwithcrowder.com/jacinda-ardern-free-speech-un" target="_self">WEF members</a> are full of elitists <a href="https://www.louderwithcrowder.com/wef-five-moments" target="_self">don't hide</a> their <a href="https://www.louderwithcrowder.com/brian-stelter-wef" target="_self">disdain for free speech</a>. Something Elon claims is the most important thing in the world, and what Twitter is supposed to be -- <em>SUPPOSED to be</em> -- about. Now is CEO says they are going to decide what is "awful" even if it's "lawful" and throttle that.</p><p>What does X consider "awful?" Saying that it's wrong for biological boys to steal athletic opportunities from our daughters? Wondering if maybe there isn't enough oversight in the money we give to Ukraine? Questioning what we're being told by whatever pharmaceutical company is a featured BRAND on X that week? Sharing an article that implies our election may not be as secure as the media tells us they are?</p><p>I'll bet you case of Bud Light the people deciding are going to be the same people who decided the last time.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Finally! The full Tiffany Gomas "that motherf*cker's not real" freak-out video has been revealed
+ - [https://www.louderwithcrowder.com/tiffany-gomas-full-not-real-video](https://www.louderwithcrowder.com/tiffany-gomas-full-not-real-video)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-10T15:23:51+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34317243&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C200%2C0" /><br /><br /><p>Tiffany Gomas won July. She's the "that motherf*cker's not real" freak-out lady. And while there is still an unanswered question or two, the full video of her meltdown has been revealed.</p><p>To recap how we got here, "Everyone can either believe it or they can not believe it. I don’t give two f*cks. But I am telling you right now, that motherf*cker back there is not real. And you can sit on this plane and you can f*cking die with them or not. I’m not going to."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/Bornakang/status/1675841612709089281"></a>
+</blockquote>
+<p>Turns out there was someone in between who had their phone out faster. They only get a 4/10 for this. This is NOT what we consider "doing it for the content." There wasn't even an attempt to get good footage. And we still don't know who this not real motherf*cker is.</p><p>Though, we did get to see flight attendants attempt to reason with Tiffany. They even looked for a volunteer to sit between her and the "not real" mystery man.</p><p>It wasn't enough. She needed to get off the plane right then, and <a href="https://www.louderwithcrowder.com/woman-american-airlines-freak-out" target="_blank">nuts to everyone else who was stuck in Dallas for three hours</a>.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;">\u201cTiffany Gomas: The extended director\u2019s cut.\u201d</div> — Louder with Crowder Dot Com (@Louder with Crowder Dot Com)
+        <a href="https://twitter.com/LWCnewswire/status/1689655561720369154">1691680252</a>
+</blockquote>
+
+<p>The video doesn't reveal who the specific not real motherf*cker was. SPOILER: It wasn't this guy. Though this video did crack me up.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/CatchUpFeed/status/1677135471288389632"></a>
+</blockquote>
+<p><a href="https://www.louderwithcrowder.com/not-real-airplane-lady-identified" target="_blank">We have some answers</a>, or at least a backstory. Tiffany, a marketing executive in Dallas, fell out with relatives she was traveling with, accusing them of stealing her AirPods. She then started claiming the aircraft was not safe and did not want the aircraft to leave due to her believing it would not make it to its destination. </p><p>Why she thought that is something we the content still need to know. As do we the answer of who exactly the not real motherf*cker was, and what makes them not real.</p><p>Tiffany appears done with it, so I think we'll all have to get used to disappointment. This is kinda badass:</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/HeidiBriones/status/1688973334632079360"></a>
+</blockquote>
+
+<p>Two million dollar home. If I was the motherfucker, I'd be apologizing for not being real.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Police overwhelm autistic teen girl, arrest her for telling cop, "you look like my nana, who's a lesbian"
+ - [https://www.louderwithcrowder.com/police-arrest-autistic-teen](https://www.louderwithcrowder.com/police-arrest-autistic-teen)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-10T14:21:00+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34854167&amp;width=600&amp;height=600&amp;coordinates=560%2C0%2C0%2C0" /><br /><br /><p>Mark the date. We have the worst example of UK police arresting someone for a "hate crime" yet. An austic teen was dragged out of her home for, in her own home, telling a cop she looked like her nana... who was a lesbian.</p><p>I should say ALLEGEDLY, according to a now-viral video from the teen's mom. "This is what police do when dealing with autistic children. My daughter told me the police officer looked like her nana, who is a lesbian."</p><p>The cop -- who you'll see in the video a) did, and b) looked like an angry and bitter one -- accused the girl of being homophobic. Saying mean words is illegal in the UK. So it took an entire TEAM of cops to drag the teenage autistic girl out of the closet she was hiding in (that wasn't a pun) and out of the house. </p><p>The mother tried pleading with the police. Yet the -- officer with short, Meghan Rapinoe-looking hair -- said "I don't care. She's being arrested."</p><p>"You're going to remove her for what, she said the word lesbian? Her nana is a lesbian, she's married to a woman. She's not homophobic."</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/TPointUK/status/1689358946992017408"></a>
+</blockquote>
+
+<p>Oh, and the sixteen-year-old autistic girl also suffers from scoliosis. It took a team of cops to drag her out of the house. And the one RBF-looking cop with short hair to watch.</p><p><a href="https://www.dailymail.co.uk/news/article-12392871/Autistic-girl-16-arrested-dragged-screaming-home-Leeds-12-officers-saying-female-cop-looked-like-lesbian-nana.html" target="_blank">The Daily Mail reports</a> the reason police were at the house was because a relative had called to say the teen was intoxicated in the city center. A statement from West Yorkshire Police says: "'We are aware of a video circulating on social media which, as is often the case, only provides a very limited snapshot of the circumstances of this incident. Officers had their body-worn video cameras activated during their wider involvement with this young girl which provides additional context to their actions. We have received a complaint in relation to this incident which is currently being assessed by West Yorkshire Professional Standards Directorate."</p><p>Please allow that this video is not exactly what this video looks like. It is difficult to do because we've seen this out of the UK before. More people <a href="https://www.louderwithcrowder.com/uk-arrest-social-media-posts" target="_blank">get arrested in the UK for "hate speech"</a> than in Russia.</p><p>In 2022, a man was arrested for a social media post that, quote, "<a href="https://www.louderwithcrowder.com/man-arrested-for-social-media-post" target="_blank">caused someone anxiety.</a>" Seriously. That was the excuse he was given.</p><p>In 2023, the UK started arresting people for <a href="https://www.louderwithcrowder.com/prayer-army-vet-fined" target="_blank">praying in public</a>. No, seriously. <a href="https://www.louderwithcrowder.com/praying-arrested-silence" target="_blank">Praying in public</a>. That's illegal when it's done to close to an abortion clinic.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p><p><br /></p>
+
+## Lady Gaga's elitist dad is upset about all the illegals in NYC. Hey, remember when she wanted to "turn Texas blue?"
+ - [https://www.louderwithcrowder.com/lady-gaga-dad-migrants](https://www.louderwithcrowder.com/lady-gaga-dad-migrants)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-10T13:14:24+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34853838&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>"I'm hoping that [Texas] is going to go blue. I don't know that this is about what you believe... sometimes we have to put aside what we believe." - Lady Gaga, 2022</p><p>"I guess Greg Abbott was right." - <a href="https://www.breitbart.com/clips/2023/08/10/nbcs-todd-i-guess-greg-abbott-was-right-that-dems-would-turn-on-biden-when-they-had-to-deal-with-migrants/" target="_blank">NBC's Chuck Todd</a>, 2023</p><p>"Where the f*ck did all these illegals come from?" - Lady Gaga's posh, NYC dad</p><p>Progressives who dominate blue states and brag about being "sanctuary cities" -- remember, no human being is illegal -- have been boasting how intolerant border states like Texas are for not welcoming illegal immigrants. After two years of a border crisis that Joe Biden created and has no interest in doing something about, Texas Governor Gregg Abbott said, "Fine, <a href="https://www.louderwithcrowder.com/jared-kushner-ron-desantis" target="_blank">you love illegal migrant seeker asylums so much</a>... <a href="https://www.louderwithcrowder.com/public-school-gyms-migrants" target="_blank">they are yours</a>."</p><p>He started bussing them from the small towns along the border to New York City, where we were to believe they'd be welcome. Suddenly, NYC elitists have a problem with being overrun by migrants. One leading the charge is Gaga's dada, Joe Germanotta.</p><p>Take a look at NYC right now:</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/bud_cann/status/1687631943628898304"></a>
+</blockquote>
+
+<p>Germanotta, who is compiling a list of local residents’ concerns from his ritzy Upper West Side neighborhood, is mortified <a href="https://nypost.com/2023/08/09/lady-gagas-dad-rallies-nyc-neighbors-over-migrants-at-stratford-arms-hotel/" target="_blank">according to the New York Post</a>.</p><p>"If it was like this when my girls were growing up, I wouldn’t be living in New York," laments the restaurateur about the constant stream of hookers and other bad behavior. "The worst part’s at night. The noise. It starts at about 10 o’clock, and it’ll go until 4 in the morning. Playing music and racing their motocross and motorbikes up and down the streets."</p><p>Germanotta insists he, quote, "doesn't mind them there" but that it needs to be managed better. “They’re guests in our neighborhood, and they have basically taken over.”</p><p>New York City residents, who lecture the rest of America to deal with it, do not like dealing with it.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" id="714ff" src="https://www.louderwithcrowder.com/media-library/image.gif?id=34853915&amp;width=980" />
+</p>
+<p>Where I find this story hilarious is <a href="https://www.louderwithcrowder.com/lady-gaga-texas" target="_blank">JUST LAST YEAR</a> Stefani Joanne Angelina Germanotta, aka Lady Gaga aka Joe's daughter, was outspoken about Democrats taking control of Texas politics. The same Democrats who support the Biden border crisis that has since delivered illegal migrant undocumented seekers to the front door of her dad's posh restaurant.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1689625074477699072"></a>
+</blockquote>
+
+<p>We have ourselves a tag team title match. In the blue corner, the team of Consequences and F*cking Around. In the red corner, Your Actions and Finding Out. Ding, ding.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+
+## Enjoy: Robin Williams wrecks Joe Biden on his cognitive decline ... fourteen years ago (Biden is president now)
+ - [https://www.louderwithcrowder.com/robin-williams-joe-biden](https://www.louderwithcrowder.com/robin-williams-joe-biden)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-08-10T12:15:35+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=34853588&amp;width=600&amp;height=600&amp;coordinates=0%2C0%2C732%2C0" /><br /><br /><p>Robin Williams would make a more coherent president than Joe Biden. Even though he is a comedian. He's Canadian. And he has also been dead for nine years. <a href="https://www.youtube.com/watch?v=3qbhKVxPEzs" target="_blank">We almost had Willams as a president once</a>... but we are no longer allowed to discuss how it almost happened. Something about voting machines that run on electricity.</p><p>When Biden was elected leader of the free world in 2020, we can generously say he boasted a brain that was 51% to 49% cerebellum-to-tapioca pudding. Now if his brain were the 1984 election (that's an oldhead reference Zoomers, Google it) the tapioca would be Ronald Reagan and what's left of noggin would be Walter Mondale. Yet when faced with Kamala Harris as an alternative, Leftists are still propping up Joe for another run. Senior abuse, schmenior abuse.</p><p>Dems have no one to blame but themselves because even when he still had his wits about him (barely), Biden would randomly spit out things that didn't make sense. As this resurfaced 2009 Robin Williams bit points out.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/LWCnewswire/status/1689599610723987456"></a>
+</blockquote>
+
+<blockquote>What the f*ck? Joe says sh!t that even people with Tourette's go, "No, no. What is going on?"<br /><br />"Joe is like your uncle who is on a new drug and hasn't got the dosage right."</blockquote><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img class="rm-shortcode" id="dee55" src="https://www.louderwithcrowder.com/media-library/image.gif?id=23548136&amp;width=980" />
+</p><p>This is how comedians viewed Joe Biden in 2009, at the start of his being the Vice-Presdient of the United States... and after his second failed presidential primary run.</p><p>Here is how Americans view Joe Biden in 2023:</p><p>- <a href="https://www.louderwithcrowder.com/joe-biden-israeli-president" target="_blank">Watch: Joe Biden mumbles his way through a meeting so badly, even the Israeli president is like "Dude, what the hell?"</a></p><p>- <a href="https://www.louderwithcrowder.com/joe-biden-nato" target="_blank">Joe Biden confuses Ukraine for Russia, Zelenskyy for Putin in another derptastic appearance on the world stage</a></p><p>- <a href="https://www.louderwithcrowder.com/joe-biden-walks-away-msnbc" target="_blank">Watch: Joe Biden awkwardly walks off MSNBC after butchering and confusing America's founding documents</a></p><p>- <a href="https://www.louderwithcrowder.com/joe-biden-california" target="_blank">Watch: Joe Biden needs to be led like a child after saying he'll solve the existential crisis of our time... by 2020</a></p><p>- <a href="https://www.louderwithcrowder.com/joe-biden-philadelphia-john-fetterman" target="_blank">Watch: Joe Biden bombs so bad making a joke about sleeping with his wife, he has to explain it to the press</a></p><p>It has gotten so bad, Joe Biden now attempts to do Robin WIlliams material.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/conncarroll/status/1600276139683254273"></a>
+</blockquote>
+
+<p>President Joe Biden. What a concept.</p><p>Also, I miss Robin Williams.</p><p>><p><p><p><p><p><
+<p>
+<em>Brodigan is Grand Poobah of this here website and when he isn't writing words about things enjoys day drinking, pro-wrestling, and country music. You can find him <a href="https://twitter.com/brodigan" target="_blank">on the Twitter</a> too.</em>
+</p>
+<p>
+<em><strong>Facebook doesn't want you reading this post or any others lately. </strong>Their algorithm hides our stories and shenanigans as best it can. The best way to stick it to Zuckerface? <strong>Bookmark </strong><a href="https://www.louderwithcrowder.com" target="_blank"><strong>LouderWithCrowder.com</strong></a> and check us out throughout the day! </em><em>Also, follow us on <a href="https://www.instagram.com/lwcnewswire/" target="_blank">Instagram</a> and <a href="https://www.twitter.com/lwcnewswire/" target="_blank">Twitter</a>.</em>
+</p></p>
+

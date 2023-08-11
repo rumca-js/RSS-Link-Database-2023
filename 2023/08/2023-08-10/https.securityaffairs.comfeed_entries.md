@@ -1,0 +1,42 @@
+# Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
+
+## Statc Stealer, a new sophisticated info-stealing malware
+ - [https://securityaffairs.com/149405/hacking/statc-stealer-info-stealer.html](https://securityaffairs.com/149405/hacking/statc-stealer-info-stealer.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-08-10T23:30:01+00:00
+
+<p>Experts warn that a new info-stealer named&#160;Statc Stealer&#160;is infecting Windows devices to steal a broad range of sensitive information. Zscaler ThreatLabz researchers discovered a new information stealer malware, called Statc Stealer, that can steal a broad range of info from Windows devices. The malware can steal sensitive information from various web browsers, including login data, [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/149405/hacking/statc-stealer-info-stealer.html" rel="nofollow">Statc Stealer, a new sophisticated info-stealing malware</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## CISA discovered a new backdoor, named Whirlpool, used in Barracuda ESG attacks
+ - [https://securityaffairs.com/149392/hacking/whirlpool-backdoor-barracuda-esg-attacks.html](https://securityaffairs.com/149392/hacking/whirlpool-backdoor-barracuda-esg-attacks.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-08-10T17:28:55+00:00
+
+<p>The U.S. Cybersecurity &#38; Infrastructure Security Agency (CISA) observed a new backdoor, named Whirlpool, in attacks on Barracuda ESG appliances. The U.S. Cybersecurity &#38; Infrastructure Security Agency (CISA) has discovered a new backdoor, named Whirlpool, that was employed in attacks targeting Barracuda ESG devices. At the end of May, the network security solutions provider Barracuda&#160;warned [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/149392/hacking/whirlpool-backdoor-barracuda-esg-attacks.html" rel="nofollow">CISA discovered a new backdoor, named Whirlpool, used in Barracuda ESG attacks</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## CISA adds actively exploited flaw in .NET, Visual Studio to its Known Exploited Vulnerabilities catalog
+ - [https://securityaffairs.com/149382/security/cisa-known-exploited-vulnerabilities-catalog-cve-2023-38180.html](https://securityaffairs.com/149382/security/cisa-known-exploited-vulnerabilities-catalog-cve-2023-38180.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-08-10T08:28:02+00:00
+
+<p>US CISA added zero-day vulnerability CVE-2023-38180 affecting .NET and Visual Studio to its Known Exploited Vulnerabilities catalog. US Cybersecurity and Infrastructure Security Agency (CISA) added an actively exploited zero-day vulnerability CVE-2023-38180 (CVSS score 7.5) affecting .NET and Visual Studio to its Known Exploited Vulnerabilities Catalog. The vulnerability can be exploited to trigger a denial-of-service (DoS) condition, [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/149382/security/cisa-known-exploited-vulnerabilities-catalog-cve-2023-38180.html" rel="nofollow">CISA adds actively exploited flaw in .NET, Visual Studio to its Known Exploited Vulnerabilities catalog</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## US Govt launches Artificial Intelligence Cyber Challenge
+ - [https://securityaffairs.com/149372/security/us-govt-artificial-intelligence-cyber-challenge.html](https://securityaffairs.com/149372/security/us-govt-artificial-intelligence-cyber-challenge.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-08-10T07:57:04+00:00
+
+<p>The US Government House this week launched an Artificial Intelligence Cyber Challenge competition for creating a new generation of AI systems. On Wednesday, the United States Government House introduced an Artificial Intelligence Cyber Challenge competition. The two-year competition aims to foster the development of innovative AI systems that can protect critical applications from cyber threats. [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/149372/security/us-govt-artificial-intelligence-cyber-challenge.html" rel="nofollow">US Govt launches Artificial Intelligence Cyber Challenge</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## Data of all serving police officers Police Service of Northern Ireland (PSNI) mistakenly published online
+ - [https://securityaffairs.com/149359/data-breach/psni-data-leak.html](https://securityaffairs.com/149359/data-breach/psni-data-leak.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-08-10T06:40:02+00:00
+
+<p>Police Service of Northern Ireland (PSNI) mistakenly shared sensitive data of all 10,000 serving police officers in response to a FOI request. The Police Service of Northern Ireland (PSNI) has mistakenly shared sensitive data of all 10,000 serving police officers in response to a Freedom of Information (FOI) request. The request aimed at determining the [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/149359/data-breach/psni-data-leak.html" rel="nofollow">Data of all serving police officers Police Service of Northern Ireland (PSNI) mistakenly published online</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
