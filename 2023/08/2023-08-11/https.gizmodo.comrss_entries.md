@@ -1,0 +1,191 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Jurassic Park Celebrates Turning 30 by Stomping Into RealD 3D Theaters
+ - [https://gizmodo.com/jurassic-park-30th-3d-theatrical-rerelease-spielberg-1850730625](https://gizmodo.com/jurassic-park-30th-3d-theatrical-rerelease-spielberg-1850730625)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T23:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--qN6hb3Us--/c_fit,fl_progressive,q_80,w_636/e8ef87d8be3876cb3b8216a15e1c68bd.jpg" /><p>Back in 1993, <a href="https://gizmodo.com/jurassic-park-30-year-anniversary-1850527386"><em>Jurassic Park</em></a> mined agonizing tension from the simple image of water rippling in a glass. Those heavy T-rex footsteps are going to make an even more menacing impact when Steven Spielberg’s sci-fi tale—<a href="https://gizmodo.com/jurassic-park-30th-anniversary-merch-spielberg-amblin-1850371257">which has been enthusiastically marking</a> <a href="https://gizmodo.com/sdcc-2023-jurassic-park-toilet-t-rex-booth-gallery-1850665952">its 30th anniversary all year</a>—hits theaters in RealD 3D.</p><p><a href="https://gizmodo.com/jurassic-park-30th-3d-theatrical-rerelease-spielberg-1850730625">Read more...</a></p>
+
+## Blue Beetle Reactions Blast Low Expectations With Resounding Praise
+ - [https://gizmodo.com/blue-beetle-social-reactions-dc-studios-james-gunn-wb-1850730702](https://gizmodo.com/blue-beetle-social-reactions-dc-studios-james-gunn-wb-1850730702)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T22:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--yVgeJBq---/c_fit,fl_progressive,q_80,w_636/795210ba8e8e3e530e55db74be919391.png" /><p>Social reactions for <a href="https://gizmodo.com/assembling-the-blue-beetle-cast-1850720726"><em>Blue Beetle</em></a> buzz with excitement, marking an auspicious future for <a href="https://gizmodo.com/james-gunn-dc-slate-revealed-batman-superman-green-lant-1850050974/slides/2">DC Studios’ clean cinematic start</a> for its upcoming <a href="https://gizmodo.com/james-gunn-dc-slate-info-flash-aquaman-justice-league-1850051467">James Gunn and Peter Safran-led superhero slate</a>.<br /></p><p><a href="https://gizmodo.com/blue-beetle-social-reactions-dc-studios-james-gunn-wb-1850730702">Read more...</a></p>
+
+## See the Flying Cities of Landscape With Invisible Hand
+ - [https://gizmodo.com/see-the-flying-cities-of-landscape-with-invisible-hand-1850719436](https://gizmodo.com/see-the-flying-cities-of-landscape-with-invisible-hand-1850719436)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--HPTaTohb--/c_fit,fl_progressive,q_80,w_636/bc172796ddba28abe671b093289f034e.jpg" /><p><a href="https://gizmodo.com/see-the-flying-cities-of-landscape-with-invisible-hand-1850719436">Read more...</a></p>
+
+## OnePlus Claims Its New Screens Can Work Even in a Downpour
+ - [https://gizmodo.com/oneplus-claims-its-new-screens-can-work-even-in-a-downp-1850730721](https://gizmodo.com/oneplus-claims-its-new-screens-can-work-even-in-a-downp-1850730721)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T21:10:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--Wfph1pUv--/c_fit,fl_progressive,q_80,w_636/ae4df466ba55719d86d69b305f44ed93.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--KXoTE4v8--/c_fit,fl_progressive,q_80,w_636/ae4df466ba55719d86d69b305f44ed93.mp4" type="video/mp4" /></video><p>Modern smartphones have become incredibly water resistant, so much so that even foldables are boasting they can survive a 30-minute bath without crapping out. The one issue is that wet touchscreens are still a pain to control, and holding a phone out in the rain guarantees you’re not scrolling until you dry it off.…</p><p><a href="https://gizmodo.com/oneplus-claims-its-new-screens-can-work-even-in-a-downp-1850730721">Read more...</a></p>
+
+## Disney Illusion Island Won't Let You Choose Violence, Only Cute Vibes
+ - [https://gizmodo.com/review-disney-illusion-island-cute-non-combat-nintendo-1850730021](https://gizmodo.com/review-disney-illusion-island-cute-non-combat-nintendo-1850730021)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--ubae32pq--/c_fit,fl_progressive,q_80,w_636/7dea093ef2ac0b35f39df1d35d13d7f0.jpg" /><p><a href="https://gizmodo.com/disney-mickey-mouse-shorts-steamboat-silly-1850688719">Mickey and friends</a> are summoned to the rabbit-filled land of Monoth in <em>Disney Illusion Island</em>, a new game for Nintendo Switch. They answer the call to protect it from impending doom because they’re the heroes from all the <a href="https://gizmodo.com/disney100-cinematic-experiences-disneyland-disney-parks-1850049090">journeys we’ve seen them on</a>—no matter that Donald points out all those adventures were just <em></em>…</p><p><a href="https://gizmodo.com/review-disney-illusion-island-cute-non-combat-nintendo-1850730021">Read more...</a></p>
+
+## Judge Throws Bankman-Fried Back in Jail
+ - [https://gizmodo.com/sam-bankman-fried-bail-revoked-thrown-in-jail-ftx-1850730583](https://gizmodo.com/sam-bankman-fried-bail-revoked-thrown-in-jail-ftx-1850730583)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T20:21:40+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3rwa9aqk--/c_fit,fl_progressive,q_80,w_636/ee3e6c0a7a26814e514b841c2ad64a64.jpg" /><p>Once the lord of a multibillion-dollar crypto empire under the FTX brand name, Sam Bankman-Fried will now have to prepare himself for his upcoming trial from a cell. A New York federal judge revoked Bankman-Fried’s bail and sent the crypto wiz to jail Friday to await trial later this year.<br /></p><p><a href="https://gizmodo.com/sam-bankman-fried-bail-revoked-thrown-in-jail-ftx-1850730583">Read more...</a></p>
+
+## Futurama Has Fun With Dune in Clips From Next Week's Episode
+ - [https://gizmodo.com/futurama-dune-homage-hulu-parasites-regained-clips-1850730346](https://gizmodo.com/futurama-dune-homage-hulu-parasites-regained-clips-1850730346)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--fPrUzg_f--/c_fit,fl_progressive,q_80,w_636/3ce746d47d68e4ebee17db9a3a0d0a69.jpg" /><p><a href="https://gizmodo.com/futurama-season-11-hulu-premiere-july-matt-groening-1850450018"><em>Futurama</em></a><em> </em>may have debuted over 30 years after <em>Dune</em> was published, but its homage to the classic sci-fi tale feels like another way <a href="https://gizmodo.com/futurama-hulu-review-matt-groening-bender-sci-fi-robots-1850642374">the current revival season is tipping its cap to the pop culture of 2023</a>. While we wait for <a href="https://gizmodo.com/dune-part-2-trailer-timothee-chalamet-zendaya-sandworm-1850591347">Timothée Chalamet to mount a sandworm</a> on the big screen, <a href="https://gizmodo.com/futurama-hulu-new-ep-3-clips-bitcoin-crypto-wild-west-1850708869">the Hulu series</a> is sending <a href="https://gizmodo.com/futurama-new-hulu-clips-amy-and-kif-kids-20-years-later-1850687352">team Planet…</a></p><p><a href="https://gizmodo.com/futurama-dune-homage-hulu-parasites-regained-clips-1850730346">Read more...</a></p>
+
+## Scientists Just Discovered a ‘Strawberry-Like’ Antarctic Invertebrate With 20 Arms
+ - [https://gizmodo.com/antarctic-strawberry-feather-star-20-arms-discovered-1850730199](https://gizmodo.com/antarctic-strawberry-feather-star-20-arms-discovered-1850730199)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T19:51:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Jkz4Gg8f--/c_fit,fl_progressive,q_80,w_636/480372d9020b01cd0026cf5f68588e45.jpg" /><p>Another day, another terrifying sea creature for our fragile human minds to process. A team of marine scientists say they’ve confirmed the existence of a bevy of new species living around Antarctica. One of these apparent discoveries is an invertebrate that somewhat resembles a strawberry, albeit with 20 arms.<br /></p><p><a href="https://gizmodo.com/antarctic-strawberry-feather-star-20-arms-discovered-1850730199">Read more...</a></p>
+
+## Zoom Backtracks on Training AI on Your Calls
+ - [https://gizmodo.com/zoom-backtracks-on-training-ai-on-your-calls-1850729996](https://gizmodo.com/zoom-backtracks-on-training-ai-on-your-calls-1850729996)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--iJshx-Mh--/c_fit,fl_progressive,q_80,w_636/ef02fefaae32ff5e2df797cede248658.jpg" /><p>After massive backlash over its wishy-washy communication regarding <a href="https://gizmodo.com/zoom-ai-privacy-policy-train-on-your-data-1850712655">training artificial intelligence with customer data</a>, Zoom wants to set the record straight. Today, Zoom issued an update to its previous announcement on its plans for AI to formally claim that the company will not use audio, video, chat, or similar…</p><p><a href="https://gizmodo.com/zoom-backtracks-on-training-ai-on-your-calls-1850729996">Read more...</a></p>
+
+## At Gen Con, Independent TTRPGs Got Their Spotlights Too
+ - [https://gizmodo.com/gen-con-indie-ttrpgs-games-designers-wanderhome-1850729940](https://gizmodo.com/gen-con-indie-ttrpgs-games-designers-wanderhome-1850729940)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T19:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--_sSmi90F--/c_fit,fl_progressive,q_80,w_636/6fe8803e5c839c831911a9a298be714c.jpg" /><p>As a parliament of nerds (affectionate) walked up and down the lanes of <a href="https://gizmodo.com/lorcana-gen-con-line-tcg-disney-trading-card-game-1850707898">Gen Con</a>, the annual tabletop gaming convention in Indianapolis, there seemed to be a never-ending supply of new games to try—and <a href="https://gizmodo.com/zine-month-indie-games-ttrpgs-horror-fantasy-scifi-1850082416">independent outfits</a> were giving con-goers a massive variety to choose from. </p><p><a href="https://gizmodo.com/gen-con-indie-ttrpgs-games-designers-wanderhome-1850729940">Read more...</a></p>
+
+## Baldur's Gate 3 Has Taught Me D&D's Eldritch Blast Memes Were True
+ - [https://gizmodo.com/baldurs-gate-3-eldritch-blast-warlocks-d-n-d-game-1850729638](https://gizmodo.com/baldurs-gate-3-eldritch-blast-warlocks-d-n-d-game-1850729638)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--cc_SSxAs--/c_fit,fl_progressive,q_80,w_636/c2cd0941800198fde024361e991cf325.png" /><p>In the rare times I’ve had, well, the time to actually play <a href="https://gizmodo.com/dnd-ogl-dungeons-dragons-new-products-new-books-dm-1850466122"><em>Dungeons &amp; Dragons</em></a>, I’ve never played a Warlock. I usually go for some form of Ranger, or a more traditional caster class. But in my many years adjacent to the biggest TTRPG around, I’ve heard the rumors about Eldritch Blast being the <em>D&amp;D</em> equivalent of…</p><p><a href="https://gizmodo.com/baldurs-gate-3-eldritch-blast-warlocks-d-n-d-game-1850729638">Read more...</a></p>
+
+## See 17 Years of an Exoplanet’s Orbit in One Captivating GIF
+ - [https://gizmodo.com/see-17-years-of-an-exoplanet-s-orbit-in-one-captivating-1850729475](https://gizmodo.com/see-17-years-of-an-exoplanet-s-orbit-in-one-captivating-1850729475)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T17:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--GVhpNUZe--/c_fit,fl_progressive,q_80,w_636/c15a6018129ee56a6d33fece4db2bbed.jpg" /><p>Beta Pictoris b is a young exoplanet about 12 times as massive as Jupiter, with an orbit nearly twice as long. Now, a timelapse video of the planet’s nearly 23-year orbit lets you see most of that journey in just ten seconds.</p><p><a href="https://gizmodo.com/see-17-years-of-an-exoplanet-s-orbit-in-one-captivating-1850729475">Read more...</a></p>
+
+## Daryl Dixon Clip Teases The Walking Dead's Grim Take on Post-Apocalyptic France
+ - [https://gizmodo.com/walking-dead-daryl-dixon-norman-reedus-france-amc-clip-1850729290](https://gizmodo.com/walking-dead-daryl-dixon-norman-reedus-france-amc-clip-1850729290)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--S5-0sxa9--/c_fit,fl_progressive,q_80,w_636/f5586277f9ae2bdc113c07e6865cd1e6.jpg" /><p>We still don’t know exactly how <a href="https://gizmodo.com/walking-dead-daryl-dixon-spin-off-norman-reedus-image-1849848630">Daryl Dixon</a> (Norman Reedus) made it from zombie-infested America to <a href="https://gizmodo.com/daryl-dixon-walking-dead-france-mystery-1850185147">zombie-infested France</a>, but as this new teaser for <a href="https://gizmodo.com/walking-dead-daryl-dixon-trailer-normal-reedus-sdcc-23-1850652977">his <em>Walking Dead</em></a> spin-off informs us, “a bunch of bad decisions” had a lot to do with it.<br /></p><p><a href="https://gizmodo.com/walking-dead-daryl-dixon-norman-reedus-france-amc-clip-1850729290">Read more...</a></p>
+
+## Rosario Dawson Talks Preparing For Ahsoka in This Star Wars Insider Excerpt
+ - [https://gizmodo.com/ahsoka-star-wars-insider-220-excerpt-rosario-dawson-1850728934](https://gizmodo.com/ahsoka-star-wars-insider-220-excerpt-rosario-dawson-1850728934)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--vXAmIlcV--/c_fit,fl_progressive,q_80,w_636/f79d506d6265f5ea096ca42da9352337.png" /><p><a href="https://gizmodo.com/in-praise-of-the-growth-of-ahsoka-tano-the-star-wars-h-1823682030">Ahsoka Tano</a> has been a part of the <em>Star Wars</em> galaxy <a href="https://gizmodo.com/how-clone-wars-ahsoka-tano-made-the-star-wars-franchis-1537984315">for 15 years now</a>, but she’s on the precipice of even greater prominence in <em>Ahsoka</em>. The live-action continuation of the character’s journey across animation and now the live-action world of <em>The Mandalorian</em> hits <a href="https://disneyplus.bn5x.net/c/379647/564546/9358?subId1=GO-&amp;u=https%3A%2F%2Fwww.disneyplus.com%2Fseries%2Fahsoka%2Fpdpjs2TO4zJ4" rel="noopener noreferrer" target="_blank">Disney+</a> in <a href="https://gizmodo.com/new-ahsoka-trailer-star-wars-rebels-hera-jacen-disney-1850707742">a few weeks</a>. But how is the star behind this…</p><p><a href="https://gizmodo.com/ahsoka-star-wars-insider-220-excerpt-rosario-dawson-1850728934">Read more...</a></p>
+
+## Russia Launches Its First Moon Landing Mission in 47 Years
+ - [https://gizmodo.com/luna-25-russia-launches-first-moon-mission-in-47-years-1850728668](https://gizmodo.com/luna-25-russia-launches-first-moon-mission-in-47-years-1850728668)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T16:24:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--apnlEek6--/c_fit,fl_progressive,q_80,w_636/b2e3630918f317bd586259faf3ba69d3.jpg" /><p>Russia has successfully launched its Luna-25 mission to the Moon, which will attempt to land on the lunar south pole later this month. If it sticks the landing, Russia will become the first country to pull off a soft landing on the south polar region of the Moon.</p><p><a href="https://gizmodo.com/luna-25-russia-launches-first-moon-mission-in-47-years-1850728668">Read more...</a></p>
+
+## 8 Things We Liked (and 2 We Didn't) About Hulu's Solar Opposites Season 4
+ - [https://gizmodo.com/hulu-solar-opposites-s4-review-dan-stevens-aliens-1850704335](https://gizmodo.com/hulu-solar-opposites-s4-review-dan-stevens-aliens-1850704335)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--reWwt45Q--/c_fit,fl_progressive,q_80,w_636/af9d1d34a1b7717e78ced77991bef900.jpg" /><p><a href="https://gizmodo.com/solar-opposites-hulu-sci-fi-animation-dan-stevens-1850649479"><em>Solar Opposites</em> is back</a> with 11 new episodes, featuring <a href="https://gizmodo.com/justin-roiland-solar-opposites-dan-stevens-replacing-1850557951">the debut of Dan Stevens as Korvo</a>, as well as the returning Thomas Middleditch (Terry), Mary Mack (Jesse), and Sean Giambrone (Yumyulack). The Shlorpians remain stuck on Earth—more assimilated than ever before, but still dealing with fish-out-of-water scenarios…</p><p><a href="https://gizmodo.com/hulu-solar-opposites-s4-review-dan-stevens-aliens-1850704335">Read more...</a></p>
+
+## Get a Peek at Landscape With Invisible Hand's Surreal Sci-Fi Setting
+ - [https://gizmodo.com/landscape-with-invisible-hand-clip-tiffany-haddish-alie-1850715574](https://gizmodo.com/landscape-with-invisible-hand-clip-tiffany-haddish-alie-1850715574)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--TmeePsV_--/c_fit,fl_progressive,q_80,w_636/f47760599d8ff3342a575e44cb4e7503.png" /><p>There are so many weird, awesome things to see in the upcoming sci-fi film <a href="https://gizmodo.com/landscape-with-invisible-hand-review-alien-invasion-fil-1850030310"><em>Landscape With Invisible Hand</em></a>. There’s a <a href="https://gizmodo.com/independence-day-has-aged-beautifully-after-25-years-1847190549">world subjugated by aliens</a>, and there are <a href="https://gizmodo.com/landscape-with-invisible-hand-trailer-tiffany-haddish-1850534197">the aliens themselves</a>—aliens living with humans, with a creepy alien way of communicating. And there are the very exclusive alien cities that float above the…</p><p><a href="https://gizmodo.com/landscape-with-invisible-hand-clip-tiffany-haddish-alie-1850715574">Read more...</a></p>
+
+## American Suicides Reached All-Time High Last Year, CDC Data Shows
+ - [https://gizmodo.com/suicides-us-cdc-data-all-time-high-2022-1850728583](https://gizmodo.com/suicides-us-cdc-data-all-time-high-2022-1850728583)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T14:55:31+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8RE3DHS3--/c_fit,fl_progressive,q_80,w_636/a0746723d7c11f0b315299144872e1b7.jpg" /><p>Suicides have risen in the United States for the second straight year, new data from the Centers for Disease Control and Prevention shows. In 2022, there were nearly 50,000 estimated deaths attributed to suicide in the U.S. An increase in suicide was found across most demographics, but numbers did decline for Native…</p><p><a href="https://gizmodo.com/suicides-us-cdc-data-all-time-high-2022-1850728583">Read more...</a></p>
+
+## Sorry, Chief, Microsoft Cortana Is Finally Dead
+ - [https://gizmodo.com/sorry-chief-microsoft-cortanas-finally-dead-1850728819](https://gizmodo.com/sorry-chief-microsoft-cortanas-finally-dead-1850728819)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T14:43:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--OaWfQ8i2--/c_fit,fl_progressive,q_80,w_636/f68459b0a6e3199ff73aa9823b663b84.jpg" /><p>You can now visit the gravestone of Microsoft’s virtual assistant app Cortana in the growing <a href="https://gizmodo.com/microsoft-failures-windows-vista-cortana-zune-internet-1849071697">mortuary of failed products</a>. The company ended support for the Bing search-based voice control engine on Windows to help make room for its continuing AI-ization of Bing and its bevy of other digital products and services.</p><p><a href="https://gizmodo.com/sorry-chief-microsoft-cortanas-finally-dead-1850728819">Read more...</a></p>
+
+## Olivia Rodrigo Unveils Instagram's New Musical Carousel Feature
+ - [https://gizmodo.com/olivia-rodrigo-instagram-musical-carousel-feature-1850728552](https://gizmodo.com/olivia-rodrigo-instagram-musical-carousel-feature-1850728552)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T14:41:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SpuHSjgT--/c_fit,fl_progressive,q_80,w_636/5972358f9cf7f2e036b4d50e2aa0220d.png" /><p>Capitalism may breed innovation, but Instagram is no stranger to ripping off TikTok. The social network’s newest feature is a rotating carousel of images set to music, delightfully similar to TikTok’s own.<br /></p><p><a href="https://gizmodo.com/olivia-rodrigo-instagram-musical-carousel-feature-1850728552">Read more...</a></p>
+
+## Updates From Deadpool 3, Loki Season 2, and More
+ - [https://gizmodo.com/deadpool-3-delay-wolverine-marvel-disney-sag-wga-strike-1850725542](https://gizmodo.com/deadpool-3-delay-wolverine-marvel-disney-sag-wga-strike-1850725542)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--s7Zkd13z--/c_fit,fl_progressive,q_80,w_636/4982b3e28677cdb6b0c410cab596ef8c.png" /><p>David Gordon Green talks casting Pazuzu in <em>The Exorcist: Believer</em>. <em>Rick &amp; Morty </em>executive producer Steve Levy talks about the show’s life after Justin Roiland. Plus, get a glimpse at the finale, inevitably bonkers episodes of <em>Riverdale</em>. Spoilers get!<br /></p><p><a href="https://gizmodo.com/deadpool-3-delay-wolverine-marvel-disney-sag-wga-strike-1850725542">Read more...</a></p>
+
+## California Lets Self-Driving Taxis Loose In San Francisco All Day and Night
+ - [https://gizmodo.com/california-lets-self-driving-taxis-loose-in-san-francis-1850728535](https://gizmodo.com/california-lets-self-driving-taxis-loose-in-san-francis-1850728535)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--UEiZDpxj--/c_fit,fl_progressive,q_80,w_636/6ea6f71c52e7a5daa2f57dba34acc0b1.jpg" /><p>Nascent robotaxi services Waymo and Cruise are going to be out in force on the Streets of San Francisco like rambunctious, autonomous, teenaged hooligans after a state public utilities body granted the companies license to drive out at all hours of the day and night, even without a safety driver behind the wheel.</p><p><a href="https://gizmodo.com/california-lets-self-driving-taxis-loose-in-san-francis-1850728535">Read more...</a></p>
+
+## Check Out This Year's Harvey Award Nominees
+ - [https://gizmodo.com/harvey-awards-2023-nominees-chainsaw-man-lore-olympus-1850726961](https://gizmodo.com/harvey-awards-2023-nominees-chainsaw-man-lore-olympus-1850726961)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T13:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--pzHlfloT--/c_fit,fl_progressive,q_80,w_636/ebbd580352cc8da19d41bbf63ceab627.png" /><p>The year 2023 marks the 35th anniversary of the <a href="https://www.harveyawards.com/" rel="noopener noreferrer" target="_blank">Harvey Award</a>s, one of the most <a href="https://gizmodo.com/eisner-award-winners-2023-image-dc-lore-olympus-marvel-1850667157#:~:text=One%20of%20io9's%20favorite%20WEBTOONs,and%20having%20won%20in%202022.">prestigious ceremonies in comics</a>—and a celebration of the myriad forms they’ve inspired across the world and across mediums. To mark the occasion, io9 has teamed up with the organization to lift the lid on this year’s nominees, ahead of the…</p><p><a href="https://gizmodo.com/harvey-awards-2023-nominees-chainsaw-man-lore-olympus-1850726961">Read more...</a></p>
+
+## Elon Musk Wants to Brawl with Mark Zuckerberg in Ancient Rome
+ - [https://gizmodo.com/elon-musk-wants-to-brawl-with-mark-zuckerberg-in-ancien-1850728291](https://gizmodo.com/elon-musk-wants-to-brawl-with-mark-zuckerberg-in-ancien-1850728291)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T12:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--JOnDJfmd--/c_fit,fl_progressive,q_80,w_636/8eccb01089b90ef6bea66dddef7e7cc8.jpg" /><p>Are you not entertained?! Mark Zuckerberg and Elon Musk’s will they/won’t they continues, and it appears that the long awaited fight between the two tech billionaires could take place in Italy. </p><p><a href="https://gizmodo.com/elon-musk-wants-to-brawl-with-mark-zuckerberg-in-ancien-1850728291">Read more...</a></p>
+
+## The Maui Fires Have Killed 55 People
+ - [https://gizmodo.com/the-maui-fires-have-killed-55-people-1850728431](https://gizmodo.com/the-maui-fires-have-killed-55-people-1850728431)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T12:24:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--f3vLODam--/c_fit,fl_progressive,q_80,w_636/d2f0cb48fc80387d035d41b1b0bfdff9.jpg" /><p>The ongoing fires in Hawaii that have burned homes, trees, and historic sites to the ground have killed over 50 people as of Friday, according to officials. The reported death toll this Wednesday was 6 people, but yesterday <a href="https://gizmodo.com/maui-fire-death-toll-rises-structures-burned-1850724335">it climbed to 36</a>, and as of today the <a href="https://www.mauicounty.gov/CivicAlerts.aspx?aid=12671&amp;utm_source=dlvr.it&amp;utm_medium=twitter" rel="noopener noreferrer" target="_blank">official report is 55</a> dead due to the fires. Officials…</p><p><a href="https://gizmodo.com/the-maui-fires-have-killed-55-people-1850728431">Read more...</a></p>
+
+## GM's New $130,000 Cadillac Escalade IQ Won't Have Apple CarPlay or Android Auto
+ - [https://gizmodo.com/cadillac-escalade-iq-gm-no-apple-carplay-android-auto-1850726095](https://gizmodo.com/cadillac-escalade-iq-gm-no-apple-carplay-android-auto-1850726095)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T10:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--wPkQqvoG--/c_fit,fl_progressive,q_80,w_636/bca8c0bd8cdd5d9235a58382b0209668.jpg" /><p>Bad news for iPhone and Android users looking to snag a luxury car. GM just confirmed that Cadillac’s upcoming Escalade IQ—which boasts a hefty price tag of $130,000—will not have CarPlay or Android Auto support.</p><p><a href="https://gizmodo.com/cadillac-escalade-iq-gm-no-apple-carplay-android-auto-1850726095">Read more...</a></p>
+
+## Twitter's CEO Makes New Excuses for Musk's Dumb 'X' Rebranding
+ - [https://gizmodo.com/linda-yaccarino-twitter-elon-musk-justify-x-rebrand-1850726989](https://gizmodo.com/linda-yaccarino-twitter-elon-musk-justify-x-rebrand-1850726989)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-11T10:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--gLO5nUpt--/c_fit,fl_progressive,q_80,w_636/97df7966f1ede21c666f095b82fb301c.jpg" /><p>Twitter—the site that owner Elon Musk has desperately tried to convince users is now “X”—has a CEO, but based merely off public pronouncements, you’d still think the billionaire tech mogul is still its  head. <a href="https://gizmodo.com/trolls-hijack-twitter-ceo-linda-yaccarino-old-username-1850695667">CEO Linda Yaccarino</a> <a href="https://gizmodo.com/twitter-elon-musk-linda-yaccarino-first-day-ad-revenue-1850505474">stepped up to the plate to take over Twitter’s mess</a> back in June, but since then we’ve…</p><p><a href="https://gizmodo.com/linda-yaccarino-twitter-elon-musk-justify-x-rebrand-1850726989">Read more...</a></p>
+

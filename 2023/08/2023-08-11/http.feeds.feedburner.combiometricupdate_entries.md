@@ -1,0 +1,306 @@
+# Source:Biometric Update, URL:http://feeds.feedburner.com/biometricupdate, language:en-US
+
+## Gartner graduates OAuth 2.0 and OpenID Connect to the ‘Plateau of Productivity’
+ - [https://www.biometricupdate.com/202308/gartner-graduates-oauth-2-0-and-openid-connect-to-the-plateau-of-productivity](https://www.biometricupdate.com/202308/gartner-graduates-oauth-2-0-and-openid-connect-to-the-plateau-of-productivity)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T21:38:07+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/22114740/market-report-scaled.jpg" width="2048" />
+		Digital ID protocols OAuth 2.0 and OpenID Connect have matured to the point of readiness for mainstream adoption, according to <a href="https://www.gartner.com/en/about">Gartner</a>’s recently-released <a href="https://www.gartner.com/en/documents/4569999">2023 Hype Cycle for Digital Identity</a> report. The Gartner Hype Cycle charts the progression of new tech innovations, offering insights to avoid premature adoption or missed opportunities.
+
+The report is presented in five stages. An “Innovation Trigger” is a significant event, such as a tech breakthrough, that generates initial buzz. Then there is the “Peak of Inflated Expectations,” the “Trough of Disillusionment,” and the “Slope of Enlightenment,” in which early adopters see benefits, and others begin to understand the potential the given technology offers. At the “Plateau of Productivity” the tech achieves mainstream acceptance and delivers broad-based benefits.
+
+By understanding these phases, businesses can better time their tech investments. The report indicates marked changes in technology expectations. Continuous access evaluation profile (CAEP), a technology promoting the sharing of risk signals and enabling adaptive access, is still an innovation trigger. Meanwhile, technologies like zero-knowledge proofs, IoT authentication, decentralized identity, machine identity management, and identity wallets have transitioned from peak hype to the trough of disillusionment. Conversely, systems for cross-domain identity management (SCIM) rose from the trough to enlightenment on the cycle. OAuth 2.0 and OpenID Connect have settled into the plateau of productivity. Social identities were removed from plateau status due to their maturity and broad market penetration.
+
+The report underscores an uptick in cross-organizational use of identities, such as federation and portable identities, spanning over two decades. A surge in identity wallets, promoting selective data sharing while preserving privacy, is anticipated to sustain this trend.
+
+Digital identity today transcends physical presence, spanning multiple systems and entities. A significant challenge for companies is overseeing machine identities. Gartner emphasizes the burgeoning ecosystem where people, machines, and organizations share and safeguard identity fragments using trusted infrastructures to access resources or validate assertions. This landscape is ripe for ongoing innovation, facilitating novel business models.
+
+A transformative wave in this year's Hype Cycle revolves around DCIs and verifiable claims (VCs). These tools foster trust in digital identities while granting users control over their virtual personas. Although maturing, the scalability and practicality of these technologies remain topics of debate, with competing specifications. Establishing trust mandates a mediator, emphasizing business models where third parties validate identity data.
+
+Digital identity management of machines, encompassing devices and workloads, emerges as a universal concern. Achieving harmony between trust levels and user experience remains paramount. Alternatives to traditional passwords, such as biometric-enhanced FIDO methods, offer superior authentication experiences. CAEP further exemplifies this by facilitating risk signal sharing, paving the way for adaptive access and ongoing session management in distributed frameworks.
+
+## Apple files patents to enhance iris biometrics authenticator, let systems read lips
+ - [https://www.biometricupdate.com/202308/apple-files-patents-to-enhance-iris-biometrics-authenticator-let-systems-read-lips](https://www.biometricupdate.com/202308/apple-files-patents-to-enhance-iris-biometrics-authenticator-let-systems-read-lips)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T21:20:51+00:00
+
+<img alt="apple" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="700" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/27135458/apple.jpg" width="1440" />
+		<a href="https://www.biometricupdate.com/tag/apple">Apple</a> has had three patent applications published that could enhance its biometric authenticator Optic ID feature and equip its devices to reads lips.
+
+The first two patent filings could be used in its mixed-reality headset Vision Pro, <a href="https://www.patentlyapple.com/2023/08/two-apple-vision-pro-patents-surface-in-europe-detailing-optic-id-apples-latest-form-of-biometric-identification.html">according</a> to trade publication Patently Apple.
+
+The <a href="https://worldwide.espacenet.com/publicationDetails/description?CC=EP&amp;NR=4217919A1&amp;KC=A1&amp;FT=D&amp;ND=&amp;date=20230802&amp;DB=&amp;locale=en_EP">first patent</a> published describes a multi-camera biometric imaging system while the <a href="https://worldwide.espacenet.com/publicationDetails/description?CC=EP&amp;NR=4217920A1&amp;KC=A1&amp;FT=D&amp;ND=&amp;date=20230802&amp;DB=&amp;locale=en_EP">second one</a> describes the “automatic selection of biometric based on the quality of acquired image.” Both patents are designed for biometric authentication and eye tracking. The two patent documents were published by the European patent office last week.
+
+The Vision Pro was <a href="https://www.biometricupdate.com/202306/apple-vision-pro-headset-to-have-optic-id-biometrics-built-in">revealed</a> in June at the company’s annual developers’ conference. It uses the iris-identifiying Optic ID, enabling owners to unlock the Vision Pro by putting it on. Eye tracking is performed by two infrared cameras and a ring of LEDs in the mask. The headset is expected to ship early next year for US$3,499.
+
+Apple's <a href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230245657">third patent</a> filing was published by the U.S. patent office and describes how devices, and presumably its digital assistant Siri, could use motion sensors to detect a user’s mouth. The "Keyword Detection Using Motion Sensing" patent could save power as accelerometers and gyroscopes expend relatively little power compared to audio sensors such as microphones. The patent was <a href="https://appleinsider.com/articles/23/08/03/apple-is-teaching-siri-how-to-read-lips">unearthed</a> last week by Apple Insider.
+
+Other recent Apple patents <a href="https://www.biometricupdate.com/202306/apple-looks-to-protect-ip-on-biometrics-for-vision-correction-and-headset-authentication">include</a> innovations in facial recognition software that could help combat poor eyesight in its mixed-reality headsets. In May,<a href="https://www.biometricupdate.com/202305/apple-patents-multi-function-digital-id-with-liveness-other-security-features"> Apple was also awarded a U.S.</a> patent for binding a person to their digital ID with selfie biometrics.
+
+## US cyber safety board wants feds more involved in eliminating passwords
+ - [https://www.biometricupdate.com/202308/us-cyber-safety-board-wants-feds-more-involved-in-eliminating-passwords](https://www.biometricupdate.com/202308/us-cyber-safety-board-wants-feds-more-involved-in-eliminating-passwords)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T20:19:16+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1544" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/20160147/passwordless-authentication-enterprise-scaled.jpg" width="2048" />
+		A U.S. cybersecurity agency has issued a full-throated endorsement of private – namely <a href="https://www.biometricupdate.com/companies/fido-alliance">FIDO Alliance</a> -- and government standards-making to end the use of passwords once and for all.
+
+It is calling for a significant change in how government has interacted with the data industry since at least the birth of the public internet.
+
+<a href="https://www.cisa.gov/cyber-safety-review-board-csrb-members">Members</a> of the Cyber Safety Review Board have published a far-reaching <a href="https://www.cisa.gov/sites/default/files/2023-08/CSRB_Lapsus%24_508c.pdf">report</a> calling for, among other things, national rules to safeguard identity. They are calling for a "secure authentication roadmap."
+
+A lack of universally adopted standards is a situation that U.S. government and businesses can no longer tolerate. The review board is a body with the Cybersecurity &amp; Infrastructure Security <a href="https://www.cisa.gov/">Agency</a>.
+
+The board writes that the "roadmap should include standards and frameworks, guidance, tools, and technology specific to organizations’ needs and circumstances that account for size, industry, threat profile, as well as privacy and civil liberties considerations."
+
+While the federal government creates or adopts all kinds of standards for industry – for drinkable water, for instance – it has largely left the information technology industry to compete its way to effective digital identity standards. That's especially true with foundational matters requiring coordination.
+
+It's doubtful the executive, legislative or even judicial branches will go along with the proposed activist role in an age when state and local governments are buffeted by fractious electorates who do not even agree on the danger of Covid.
+
+That probably leaves CISA officials doing what they can to support the FIDO Alliance and like organizations.
+
+The review board calls for application developers to make consumer devices FIDO2 compliant with hardware-backed components by default, for example.
+
+Another guideline mentioned, this one aimed at reducing social engineering, is to make it a requirement to create an explicit authentication process using FIDO2-compliant tokens or other phishing-resistant multi-factor authentication methods.
+
+## Japan trying to get it right with national digital ID, public losing faith
+ - [https://www.biometricupdate.com/202308/japan-trying-to-get-it-right-with-national-digital-id-public-losing-faith](https://www.biometricupdate.com/202308/japan-trying-to-get-it-right-with-national-digital-id-public-losing-faith)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T19:45:57+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/22211640/japan-my-number-card-scaled.jpg" width="2048" />
+		After a series of high-profile data leaks and registration errors in Japan’s digital IDs, the program is undergoing a government inspection to prevent further problems and public backlash.
+
+Tuesday, government officials issued an interim report that found 1,000 new cases in which the <a href="https://www.biometricupdate.com/tag/my-number">My Number national identification cards</a> were mistakenly linked with the medical information of others. Kyodo News <a href="https://english.kyodonews.net/news/2023/08/c71f87aebf48-japan-pm-calls-for-review-of-all-my-number-card-data-by-end-of-nov.html">reports</a> that 7,400 cases have already been made public, .
+
+Prime Minister Fumio Kishida instructed ministers to examine all data on My Number cards by the end of November.
+
+The troubled digital ID system, which provides citizens and foreign residents with a 12-digit number linked to their personal data, has been one of the factors behind a significant drop in Kishida’s cabinet's approval in recent months, <a href="https://www.bloomberg.com/news/articles/2023-08-04/japan-pm-apologizes-for-id-card-problems-as-he-backs-its-use#xj4y7vzkg">according</a> to Bloomberg. Last week, the prime minister apologized for problems with ID cards but said that he wouldn’t necessarily back down on plans for integrating them into the healthcare system.
+
+“What Japan is aiming for is to become the world’s most advanced, smart government,” said Kishida. “To that end, we must work on digital infrastructure and government systems.”
+
+My Number includes data such as photo and names and can be used to access government services, including tax and social security records, as well as some bank accounts. Citizens can choose to use face biometrics <a href="https://www.biometricupdate.com/202110/japanese-government-selects-safr-face-biometrics-for-in-person-service-access">provided by RealNetworks</a>.
+
+As of late July, 77 percent of the population, 89 million people, had applied for the cards. But the system has met resistance, especially among Japan’s aging population.
+
+To kickstart use of the cards and a larger digital transformation, the government came up with a plan to merge health insurance cards with the My Number cards last October. Digital Minister Taro Kono proposed integrating national insurance certificates with My Number cards by fall 2024.
+
+That plan, however, has caused a backlash. In February, doctors <a href="https://www.biometricupdate.com/202302/doctors-in-japan-challenge-govt-mandatory-use-of-digital-id-for-health-services">took the government to court</a> over My Number use. The Japan Times <a href="https://www.japantimes.co.jp/podcast/2023/08/10/deep-dive/my-number-digitalization/">cited</a> a June survey of medical and dental practitioners that found nearly 60 percent of Japanese medical institutions had experienced problems, including insurance data linked to the wrong card.
+
+Many of the issues with erroneous linking are connected with manual data entry. Parents, for instance, have been applying for cards for their children, but then registering their own bank accounts with their children's accounts, in an effort to state benefits directly. Some residents, however, have discovered<a href="https://www.biometricupdate.com/202306/mixed-progress-for-digital-ids-linked-to-payments-in-japan-australia-and-india"> their ID cards are linked to unrelated personal information</a>. While 55 million people have linked their cards to their bank accounts, at least 130,000 cases resulted in someone other than the cardholder being linked.
+
+This week’s interim report also showed that 20 percent of prefecture and major cities have registered My Number cards with someone else's personal information on disability certificates.
+
+Polls conducted in July by media outlets Yomiuri and NNN also showed that 58 percent of respondents were against using ID cards for healthcare purposes, while 80 percent said they did not believe that the government could fix the problem. Kishida’s approval was at 35 percent, the lowest since winning election in 2021.
+
+Despite the setbacks, government officials say they will continue merging the My Number system with health insurance cards by the deadline. They want to neutralize criticism that they lag behind peer countries in digitalization. Kishida said that those who do not complete the My Number merge will receive a separate certificate that could be used for a maximum of five years.
+
+## eConnect and CasinoTrac integrate facial recognition to improve casino experiences
+ - [https://www.biometricupdate.com/202308/econnect-and-casinotrac-integrate-facial-recognition-to-improve-casino-experiences](https://www.biometricupdate.com/202308/econnect-and-casinotrac-integrate-facial-recognition-to-improve-casino-experiences)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T19:07:38+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/econnect">eConnect</a> has collaborated with <a href="https://www.casinotrac.com/">CasinoTrac</a>, integrating real-time casino data with facial recognition. This joint venture, recently rolled out in what the partners describe as a major Native American casino in Texas, promises heightened Anti-Money Laundering (AML) and security measures, streamlined surveillance, and an improved experience for valued patrons.
+
+While many casinos heavily invest in surveillance, they often lack a consolidated facial recognition system. Conventionally, venues have had to match individuals with reference pictures manually. This process is time-consuming and lacks comprehensive data correlation with identity databases in disparate areas of the casino.
+
+eConnect’s facial recognition system integrates with all major casino systems, automating the identification process and collating all the data into a central database, according to the announcement. This allows for speedy and automatic recognition of employees, VIPs, and bad actors. This system provides immediate alerts to staff in the event of suspicious activity. Additionally, when high-stake players arrive, the system instantly notifies the host, enabling casinos to provide tailored services, from personal greetings to complimentary offers.
+
+Henry Valentino III, eConnect's CEO, describes the partnership as transformative for the gaming and hospitality sectors. "The integration of real-time data from CasinoTrac's CMS amplifies our facial recognition capabilities. We can now swiftly identify high-value patrons, bolstering security and simplifying surveillance operations," stated Valentino.
+
+Chad Hoehne, President of Table Trac Inc., which designs, develops, and sells CasinoTrac, praises the swift market introduction of the project, adding, "Making real-time data accessible to operators and third-party associates should be the norm, and we're thrilled to pave the way."
+
+This collaboration showcases the potential of harnessing facial recognition technology to provide patrons with a secure, tailored experience while bolstering the gaming industry’s security and operational effectiveness, according to the announcement.
+
+Konami’s facial recognition for <a href="https://www.biometricupdate.com/202303/australian-gambling-machine-maker-licenses-konami-facial-recognition">player identification and loyalty programs</a> was licensed by an Australian gaming machine supplier earlier this year.
+
+## Biometrics enrollment partners of Nigeria’s digital ID project claim payment backlog
+ - [https://www.biometricupdate.com/202308/biometrics-enrollment-partners-of-nigerias-digital-id-project-claim-payment-backlog](https://www.biometricupdate.com/202308/biometrics-enrollment-partners-of-nigerias-digital-id-project-claim-payment-backlog)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T17:37:00+00:00
+
+<img alt="NIMC Nigeria digital ID card" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="549" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/03132114/NIMC-Nigeria-digital-ID-card.png" width="976" />
+		Some private partners licensed by the National Identity Management Commission of Nigeria (NIMC) to enroll citizens for the country’s national identification number (NIN) program have reached out to President Ahmed Bola Tinubu for help over unpaid debts.
+
+In an <a href="https://dailytrust.com/president-tinubu-nin-enrolment-partners-are-being-suffocated/">open letter</a> published by Nigeria’s Daily Trust newspaper on August 8, one of the agents, Ibrahim Usman, writing from Kaduna, says he is among those who have not been paid by the NIMC for the past one year and eight months.
+
+In the letter addressed to Tinubu, Usman says they toiled in villages, towns and cities of the country to enroll citizens for the NIN, but their claims for payment for their services, for nearly two years now, have yet to be paid by the NIMC. The agency blames the delay on an ongoing wait for funds to be disbursed by Nigeria’s Ministry of Finance.
+
+Per the letter, the NIMC entered into an agreement with some agents in 2020 to carry out NIN enrollment at the cost of $1 per successful registration, and the partners were expected to prefinance some of the cost by procuring biometric equipment for the exercise.
+
+“We have contributed immensely to the realization of over 100 million NINs captured in the NIMC database, which was widely celebrated by the then Minister of Communications and Digital Economy without finding it necessary to settle the real foot soldiers that carried out the exercise,” Usman writes.
+
+He adds that many of the agents are young graduates who underwent training for the enrollment using their own funds. “Individuals sourced loans from banks, relations and other financial institutions and purchased the necessary equipment and spent lots on logistics for the success of the exercise, but we are being abandoned with no any communication from both licensees and NIMC,” a portion of Usman’s letter reads.
+
+“We have lodged several complaints with the NIMC, Ministry of Communication and Digital Economy and other identified stakeholders to consider our plight but to no avail. Your Excellency, we now find it difficult or almost impossible to continue with the exercise due to backlogs of financial burden and our debtors are now in legal battles with us.”
+
+The NIMC recently reported that the NIN enrollment had reached 101.6 million as of July, with a <a href="https://www.biometricupdate.com/202308/nigeria-signs-mou-on-biometric-cards-for-payments-in-healthcare-agriculture">drop in the monthly enrollment figure</a> to below one million for that month. It is not clear if the drop is linked to the grumbling by the unpaid licensed agents.
+
+In his letter, Usman is beseeching the president to use his good offices to call for an acceleration of the payment.
+
+Ibrahim Usman, the letter writer, tells <em>Biometric Update</em> that there are more than 200 <a href="https://nimc.gov.ng/docs/Approved_Data_Capturing_Agents.pdf">licensed agents</a> seeking delayed payments. Those payments, he says, amount to 20 billion naira (US$26 million) or more, depending on the exchange rate used.
+
+<em>Biometric Update</em> reached out to the NIMC via email for comments on these claims, but had yet to receive a response at the time of publishing this article.
+
+## AuthID, Enacomm, 1Password, Microsoft and Videosign announce executive appointments
+ - [https://www.biometricupdate.com/202308/authid-enacomm-1password-microsoft-and-videosign-announce-executive-appointments](https://www.biometricupdate.com/202308/authid-enacomm-1password-microsoft-and-videosign-announce-executive-appointments)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T17:34:11+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="947" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/28142030/appointments-new-jobs-scaled.jpg" width="2048" />
+		Businesses providing identity verification and biometrics have added c-suite leaders and high-ranking executives to help build up their customer bases. Prominent among them is a voice biometrics pioneer switching to the company that acquired his last one.
+
+<a href="https://www.biometricupdate.com/companies/authid-ai">AuthID</a> is continuing its hiring spree as it strives to <a href="https://www.biometricupdate.com/202307/authid-reaches-for-daylight-with-a-big-reverse-stock-split-secures-a-token-customer-commitment">avoid being delisted</a> from the Nasdaq. The company announced its new Chief Financial Officer <a href="https://www.linkedin.com/in/edsellitto/">Ed Sellitto</a>, who will succeed current CFO Annie Pham. Selitto will join the biometric authentication and verification company after serving as vice president of revenue operations at Zero Hash, a company that provides infrastructure for digital assets.
+
+In March, AuthID <a href="https://www.biometricupdate.com/202303/new-ceos-named-by-authid-nec-america">named</a> Rhon Daguro its new CEO. Daguro previously worked alongside Selitto at digital identity verification firm <a href="https://www.biometricupdate.com/companies/socure">Socure</a>. The company also <a href="https://www.biometricupdate.com/202307/authid-zwipe-clear-and-identos-welcome-new-identity-and-security-leaders">appointed</a> three new sales VPs focusing on providing authentication services to enterprises.
+<h2>Enacomm CRO</h2>
+Fintech solution provider <a href="https://www.biometricupdate.com/companies/enacomm">Enacomm</a> has named its new chief revenue officer, <a href="https://www.linkedin.com/in/staceyzuniga/">Stacey Zuniga</a>, who will be tasked with striking strategic partnerships among financial institutions. This includes promoting Enacomm’s artificial intelligence (AI)-backed virtual assistant with voice authentication for banking applications called Emerie <a href="https://www.biometricupdate.com/202305/enacomm-unveils-ai-based-virtual-assistant-for-financial-applications">launched</a> in May.
+
+This is Zuniga’s second stint at the Tulsa, Oklahoma-headquartered company after leaving his former position to join fintech-focused Iridium Payments Group. Enacomm says that Zuniga will focus on developing technology partnerships and channel relationships and play a key role in driving a strategic vision for the firm’s financial suite of products.
+<h2>1Password CMO</h2>
+After <a href="https://www.biometricupdate.com/202307/1password-microsoft-move-to-biometric-authentication">announcing its foray</a> to biometric authentication, <a href="https://www.biometricupdate.com/tag/1password">1Password</a> has appointed a new chief marketing officer, <a href="https://www.linkedin.com/in/meltonlittlepage/">Melton Littlepage</a>. Littlepage will bring his experience to the password manager software maker from its executive roles at sales execution platform Outreach and cybersecurity firm Tenable.
+
+“Melton is the perfect fit for Chief Marketing Officer at a pivotal moment in the 1Password growth story," says CEO of 1Password Jeff Shiner as the firm plans to broaden its product offerings to serve increasingly complex customer needs. In July, 1Password announced a private beta test for biometric passkey account access on iOS and iPadOS with plans for rollouts on other platforms.
+<h2>Microsoft GM of security and biometrics</h2>
+Microsoft is also <a href="https://www.biometricupdate.com/202307/face-biometrics-liveness-capabilities-launched-by-docusign-presentid-microsoft">continuing</a> its push into biometrics by naming <a href="https://www.linkedin.com/in/bberanek/">Brett Beranek</a> its new general manager for security and biometrics. The executive is taking a new position with the tech giant after more than a decade at <a href="https://www.biometricupdate.com/companies/nuance-communications-inc">Nuance Communications</a>. Nuance was <a href="https://www.biometricupdate.com/202203/microsoft-finishes-19-7b-acquisition-of-nuance">acquired by Microsoft</a> in a $19.7 billion deal completed last year.
+
+Beranek <a href="https://www.linkedin.com/posts/bberanek_im-happy-to-share-that-im-starting-a-new-activity-7092085820194443264-kQGH/?utm_source=share&amp;utm_medium=member_android">said</a> in a LinkedIn post that his mission will be to “hyper-scale” Microsoft’s voice biometrics authentication. In July, Microsoft also <a href="https://www.biometricupdate.com/202307/face-biometrics-liveness-capabilities-launched-by-docusign-presentid-microsoft">outlined</a> how its Azure AI Face can provide face biometrics services and technologies across the verification industry.
+<h2>Videosign head of business growth</h2>
+Finally, UK-based digital signature software company <a href="https://www.biometricupdate.com/tag/videosign">Videosign</a> has announced it will be expanding its sales and marketing division which will be led by <a href="https://www.linkedin.com/in/nina-hinton-a1689689/">Nina Hinton</a> as its new head of business growth.
+
+Videosign provides an online meeting platform with the built-in ability to sign and witness documents remotely and verify identities using facial recognition, preventing fraud and identity theft. The expansion plans come after the firm raised around <a href="https://www.biometricupdate.com/202204/tech5-videosign-raise-millions-in-funding-for-biometric-solutions">$1.4 million</a> from investors in April to develop its online security platform.
+
+“Videosign was created for signing documents, but we’re interested in how else we can use it - for instance, we have seen a trend of clients using Videosign for exam invigilation,” says Hinton.
+
+## Accessible face biometrics can boost financial inclusion, iProov argues
+ - [https://www.biometricupdate.com/202308/accessible-face-biometrics-can-boost-financial-inclusion-iproov-argues](https://www.biometricupdate.com/202308/accessible-face-biometrics-can-boost-financial-inclusion-iproov-argues)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T16:31:17+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/24151730/selfie-biometric-verification-scaled.jpg" width="2048" />
+		Identity verification through video calls is susceptible to attacks, and like CAPTCHAs risks limiting accessibility for certain groups, according to a report from <a href="https://www.biometricupdate.com/companies/iproov-limited">iProov</a>. It makes the case that biometrics and liveness detection are the technologies that can enable secure and accessible digital identity.
+
+“<a href="https://go.iproov.com/rs/891-TPZ-847/images/Unlocking%20Financial%20Inclusion%20EUDIW%20Whitepaper%20iProov.pdf">Unlocking Financial Inclusion with Digital Identity and Biometric Verification: European Digital Identity Wallet Use Case</a>” is a 14-page paper that starts with explanations of why legal identity is important, and how digital identity can boost financial inclusion. It proceeds to a review of the EU Digital Identity Wallet (EUDIW) and the pilots being conducted with it.
+
+Any financial inclusion project takes on the risk of onboarding people new to the financial system, providing ideal cover for fraudsters, the paper points out. That means strong binding to the official document used as Personal Identification Data (PID) is necessary.
+
+iProov goes on to explain why liveness detection is more secure than video call verification, which can be spoofed with generative AI and a forged ID document. Presentation attacks and digital injection attacks are compared, and the imbalance in testing regimes explained.
+
+The final section applies these observations to the challenge of increasing the inclusivity of digital identity in the European Union. iProov notes that 24 percent of EU citizens have some form of disability, and 10 percent belong to racial or ethnic minorities, while technology literacy varies heavily from country to country.
+
+This makes the convenience and ease-of-use of face biometrics and liveness detection appealing, the company argues.
+
+The Web Content Accessibility Guidelines (WCAG) already provides a best practice standard for making digital interactions accessible to all that biometrics vendors can use to improve their software.
+
+Compliance with WCAG and other accessibility standards plus strong defense against injection attacks will allow the EU to meet its inclusivity goals with face biometrics, iProov concludes.
+
+Ajay Amlani, President and head of Americas for iProov, discussed the need to <a href="https://www.biometricupdate.com/202308/california-tests-iowa-launches-digital-ids-while-michigan-considers-legislation">protect against injection attacks</a> in a recent email to <em>Biometric Update</em>.
+
+## Aware, Signzy and iDenfy strike deals to deploy face biometrics for gambling compliance
+ - [https://www.biometricupdate.com/202308/aware-signzy-and-idenfy-strike-deals-to-deploy-face-biometrics-for-gambling-compliance](https://www.biometricupdate.com/202308/aware-signzy-and-idenfy-strike-deals-to-deploy-face-biometrics-for-gambling-compliance)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T16:17:49+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/11121342/online-gambling-scaled.jpg" width="2048" />
+		Companies providing gambling both <a href="https://www.biometricupdate.com/202305/uk-government-says-online-age-verification-is-effective">online</a> and <a href="https://www.biometricupdate.com/202303/australian-gambling-machine-maker-licenses-konami-facial-recognition">in-person</a> are embracing biometrics as a tool for complying with regulations and preventing fraud, and new agreements have been reached by Aware, Signzy and iDenfy to extend face biometrics to more betters.
+
+Las Vegas-based online gambling and casino advisory SCCG Management has agreed to a distribution deal with <a href="https://www.biometricupdate.com/companies/aware-inc">Aware</a> to bring the latter’s face biometrics enrollment, authentication, and identity verification to the gaming industry.
+
+The strategic partnership announcement notes the potential of biometrics for seamless transactions and easier logins.
+
+"From identity verification to frictionless logins, Aware is excited to help gaming operators improve their player's experience while ensuring the best in compliance and security with simplified biometrics,” says Aware CFO Dave Barcelo.
+
+SCCG Management Founder and CEO Stephen Crystal refers to Aware’s biometric software as “best-in-class.”
+
+“SCCG Management is perfectly positioned to distribute these advanced KYC solutions to our extensive network of industry operators,” he adds. “This partnership aligns with our mission to provide cutting-edge solutions that not only improve the user experience but also uphold the highest standards of security and compliance."
+
+<a href="https://www.biometricupdate.com/companies/signzy">Signzy</a> has signed a strategic partnership with Slots Temple, a popular website for virtual slot machines and online tournaments. Under the agreement, Signzy’s APIs for identity verification with selfie biometrics and <a href="https://www.signzy.com/fintech-apis/liveness-check-api/">liveness</a> detection will be integrated into Slots Temple’s gaming platform.
+
+The collaboration includes location verification, age verification and identity verification to mitigate the risk of fraud and unauthorized users.
+
+"By utilizing our AI-driven verification solutions, Slots Temple demonstrates its commitment to player safety, responsible gaming practices and meeting compliance requirements,” says Signzy CEO Ankit Ratan.
+
+Bulgaria-based online casino and sportsbook operator Alphawin has signed up with <a href="https://www.biometricupdate.com/companies/idenfy">iDenfy</a> to ensure compliance with know your customer (KYC) regulations.
+
+iDenfy will perform identity verification and age checks as part of a fully automated customer onboarding process for Alphawin. The process includes iDenfy’s four-step identity verification with selfie biometrics and liveness detection, which the company says can catch fraud attempts with pre-recorded videos, deepfakes and masks, as well as manual review by iDenfy’s in-house KYC experts.
+
+“Our mission is to help Alphawin proactively prevent fraudulent attacks before they happen with our automated identity verification solution,” notes iDenfy CEO Domantas Ciulde. “At the same time, we ensure compliance while maintaining a user-first approach, which is an emerging trend and a new industry standard for their industry.”
+
+## Arizona nonprofit, DoT work to provide homeless with state IDs
+ - [https://www.biometricupdate.com/202308/arizona-nonprofit-dot-work-to-provide-homeless-with-state-ids](https://www.biometricupdate.com/202308/arizona-nonprofit-dot-work-to-provide-homeless-with-state-ids)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T15:44:04+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="521" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/11114338/homeless-id-project.png" width="1232" />
+		U.S. states are continuing their piecemeal introduction of state-issued identity cards with a new project in the state of Arizona attempting to provide IDs to homeless people.
+
+The Arizona Department of Transportation will open a new Motor Vehicle Division (MVD) office at the Human Services Campus in Phoenix, which assists people living on the street with access to housing, employment, health services and more.
+
+The initiative was launched by <a href="https://www.homelessidproject.org/">Homeless ID</a>, a nonprofit whose mission is to get as many homeless people a state-issued ID as possible, Arizona’s Family <a href="https://www.azfamily.com/2023/08/08/how-adot-is-working-make-sure-phoenixs-homeless-can-get-id-cards/">reports</a>.
+
+In the United States, identity documents are typically issued by a patchwork of offices, with most citizens relying on regional state-issued driver's licenses or identity cards. This also means that the country has seen a <a href="https://www.biometricupdate.com/202306/another-us-state-tentatively-steps-up-to-digital-id">wide variety of digital ID projects</a> with several U.S. states <a href="https://www.biometricupdate.com/202305/digital-id-projects-in-the-us-continue-to-dribble-out">launching pilots​​</a> to explore mobile driver licenses. Federal efforts have been <a href="https://www.biometricupdate.com/202307/agencies-move-on-digital-id-while-critics-say-biden-plan-misses-it">limited</a>.
+
+Lacking an ID card, however, is a significant barrier for people who are on the streets and need to access government social services and regain their self-sufficiency, according to Homeless ID. The organization has so far helped provide 8,000 state-issued IDs and is hoping to increase this figure to more than 17,000 ID’s this year.
+
+“You can’t get a job, you can’t get housing, can’t cash a check, can’t open a bank account, can’t enter rehab programs,” says Rick Mitchell, executive director of the Homeless ID Project. “You’ve got to have an ID if you want to change your life.”
+
+Similar efforts have also been seen in some developing nations where many people lack identification documents. In the Philippines, the government has <a href="https://www.biometricupdate.com/202307/philippines-connects-homeless-to-government-services-with-biometrics-id-cards">launched a central database</a> of homeless individuals that relies on biometrics.
+
+The Philippines Department of Social Welfare and Development’s (DSWD) Oplan Pag-Abot Project aims to issue its own ID cards which will not have the status of “government-issued” IDs but can be used to connect people with social workers and essential services such as medical and financial assistance, food, transport and work opportunities.
+
+The country has launched its digital identity scheme, the Philippines Identification System (PhilSys), and plans to use it alongside its identity card PhilID to <a href="https://www.biometricupdate.com/202308/philippines-id-system-expands-across-government-agencies-and-social-benefit-programs">fast-track the distribution of social benefits</a> and the digital transformation of government services.
+
+## ROC.ai scores high mark with fingerprint segmentation algorithm in NIST evaluation
+ - [https://www.biometricupdate.com/202308/roc-ai-scores-high-mark-with-fingerprint-segmentation-algorithm-in-nist-evaluation](https://www.biometricupdate.com/202308/roc-ai-scores-high-mark-with-fingerprint-segmentation-algorithm-in-nist-evaluation)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T00:05:22+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="858" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/08130132/digital-identity-fingerprint-scaled.jpg" width="2048" />
+		A tenprint fingerprint segmentation algorithm from <a href="https://www.biometricupdate.com/companies/rank-one-computing-corporation">Rank One Computing</a> has topped the results of an evaluation by the U.S. National Institute of Standards and Technology for accurate segmentation of biometrics, and placed the company in the top 3 worldwide, according to an announcement.
+
+The Slap Fingerprint Segmentation (<a href="https://www.nist.gov/itl/iad/image-group/slap-fingerprint-segmentation-evaluation-iii">SlapSeg</a>) Evaluation performed on ROC.ai’s algorithm on July 5 showed 95.7 percent accuracy for detecting 8 fingers with three-inch identification flats. Seven other vendors have scored accuracy between 95.2 percent and 95.6 percent for the same task.
+
+Fingerprint segmentation is a process in which an image of the friction ridge structure of a subject’s hand is separated into individual images of the tops of each finger. <a href="https://pages.nist.gov/slapseg/results/slapsegiii/rankone+0001/rankone+0001.pdf">NIST’s evaluation</a> also covers two-inch, five-inch and eight-inch scans
+
+The result demonstrates ROC.ai’s status as a developer of advanced biometric software and leadership in the domestic market, the company says.
+
+"We're elated with the standout results we've achieved with this nascent capability," says ROC.ai CEO Scott Swann. "The commendations we've received both domestically and internationally speak volumes about the precision and dependability of our fingerprint segmentation algorithm. It's a tribute to our team's incredible skill, commitment, and trailblazing ethos."
+
+The algorithm tested by NIST is the one provided in ROC SDK v2.5.0.
+
+ROC.ai says it will enhance the SDK this year, along with its live video biometrics and analytics platform, ROC Watch.
+
+Benji Hutchinson was hired by ROC.ai as its <a href="https://www.biometricupdate.com/202307/roc-ai-adds-prominent-biometrics-industry-veteran-hutchinson-as-revenue-chief">chief revenue officer</a> in July.
+
+## Biometrics firms caught in data privacy complaints turn to arbitration
+ - [https://www.biometricupdate.com/202308/biometrics-firms-caught-in-data-privacy-complaints-turn-to-arbitration](https://www.biometricupdate.com/202308/biometrics-firms-caught-in-data-privacy-complaints-turn-to-arbitration)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-11T00:00:27+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1161" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/16182516/biometric-data-privacy-lawsuit-scaled.jpg" width="2048" />
+		Short of actually winning a biometrics privacy lawsuit in the U.S. states of Illinois and California there seems only one avenue for avoiding <a href="https://www.biometricupdate.com/202307/historic-penalty-decision-in-bipa-case-shows-the-need-to-take-biometric-privacy-seriously">scary-sized damages</a> – and it isn't available to all companies.
+
+It's not insurance. Insurers do their best to avoid paying on privacy claims, and <a href="https://www.biometricupdate.com/202307/historic-penalty-decision-in-bipa-case-shows-the-need-to-take-biometric-privacy-seriously">damages</a> can <a href="https://madisonrecord.com/stories/648267885-il-supreme-court-denies-bipa-rehearing-overstreet-dissents-calling-excessive-liability-an-absurd-result-of-the-law">overtop</a> maximum policy payouts.
+
+There is another <a href="https://www.biometricupdate.com/202306/bipa-might-be-changing-but-not-soon-enough-for-some-class-action-defendants">better-than-nothing</a> option. Executives accused of playing loose with consumers' biometric information can ask judges to force plaintiffs into binding arbitration agreements – if buyers have, in fact, agreed to them.
+
+Arbitration, generally, is more favorable to business defendants and, even cumulative, damages are smaller than in class actions.
+
+Voice biometrics vendor <a href="https://www.biometricupdate.com/companies/nuance-communications-inc">Nuance</a> is <a href="https://www.law360.com/cybersecurity-privacy/articles/1706432?nl_pk=c2d44e76-eba3-4fda-86d5-89fc1643fd3e&amp;utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=cybersecurity-privacy&amp;utm_content=2023-08-02&amp;read_main=1&amp;nlsidx=0&amp;nlaidx=11">asking</a> a federal judge in the Northern District of California to force a putative class action (case <a href="https://ecf.cand.uscourts.gov/cgi-bin/DktRpt.pl?443067360761788-L_1_0-1">4:22-cv-05827</a>) into arbitration.
+
+JPMorgan Chase Bank hired Nuance to authenticate customers and spot fraud based on a person's <a href="https://www.biometricupdate.com/202305/voiceprint-bipa-case-filed-against-cerence-plaintiffs-include-a-minor-riding-in-a-car">voice</a> when they call Chase. Plaintiffs say they did not consent to this, making it a violation of California's Invasion of Privacy Act by Nuance.
+
+The plaintiffs are fighting Nuance’s binding arbitration strategy. Nuance maintains that they knowingly signed agreements with Chase spelling out its dispute resolution rules, which lawyers for the software company say cover their client.
+
+A hearing on the question has been scheduled for October 26.
+
+An arbitration hearing has already been held in an Illinois Biometric Information Privacy Act case filed against app maker Prisma Labs, and Prisma prevailed.
+
+A federal judge also sitting in the Northern District of California has stayed a putative class action while plaintiffs are first forced into arbitration.
+
+Prisma makes Lensa, software consumers can use create AI-augmented face photos. The plaintiffs accuse Prisma in case <a href="https://ecf.cand.uscourts.gov/cgi-bin/iqquerymenu.pl?408418">23-cv-00680</a> of storing users' face templates without consent, in violation of BIPA.
+
+The judge sided with the vendor, saying that the plaintiffs agreed to take any dispute to arbitration.
+
