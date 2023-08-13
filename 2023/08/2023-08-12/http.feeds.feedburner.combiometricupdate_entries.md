@@ -1,0 +1,34 @@
+# Source:Biometric Update, URL:http://feeds.feedburner.com/biometricupdate, language:en-US
+
+## Biometrics talk gets real
+ - [https://www.biometricupdate.com/202308/biometrics-talk-gets-real](https://www.biometricupdate.com/202308/biometrics-talk-gets-real)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-12T16:06:11+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/12143955/face-biometric-close.jpg" width="2048" />
+		Biometrics support digital identity in various forms that stakeholders are trying to make clearer in the most-read articles on <em>Biometric Update </em>this week. Biometric enrollments in two countries show MOSIP’s broad appeal, Worldcoin is facing an uncomfortable mix of ignorance and concern, and Thales lauds the TSA for getting people through airport security more quickly. Readers were also interested in communication on age verification between NIST and rights groups, Yoti and the AVPA.
+<h2>Top biometrics news of the week</h2>
+MOSIP implementations proceeded quite differently in the Philippines and Morocco, the first countries to build the platform into their identity ecosystems. As two leaders with MOSIP explained in an interview, dissimilarities in size and geography were <a href="https://www.biometricupdate.com/202308/a-tale-of-two-mosip-implementations-philippines-and-morocco">factors in the countries’ approaches</a> to biometric enrollment and service delivery.
+
+<a href="https://www.biometricupdate.com/202308/world-id-changing-the-world-or-sci-fi-dystopia">World ID</a> is one of the most ambitious biometrics projects anywhere, as a digital ID intended for everyone, and it continued generating headlines this week. Analyst Alan Goode draws on an analysis of Worldcoin’s technical implementation white paper to break down how it works, the enrollment process and perceptions of the Orb.
+
+The terms of service people agree to when their iris biometrics are collected also drew attention this week, along with a <a href="https://www.biometricupdate.com/202308/worldcoin-biometric-enrollment-frenzy-sparks-raid-concerns">raid of the company’s warehouse</a> in Nairobi, Kenya. Co-founder Alex Blania defended Worldcoin from some of the claims of detractors in a podcast appearance, noting that it is committed to privacy and security, and that incentives for people to sell the credentials it provides have fallen.
+
+Mobile driver’s licenses are already benefiting Americans as a form of digital ID accepted at airports by the TSA, Thales’ Neville Pattinson writes in a <em>Biometric Update</em> guest post. The <a href="https://www.biometricupdate.com/202308/mobile-drivers-license-adoption-represents-win-for-tsa">TSA’s leadership in adopting and adapting to mDLs</a> is encouraging states to issue them, which will lead to more use cases and ultimately easier transactions for people, Pattinson writes.
+
+Human Rights Watch and 5Rights Foundation argue in feedback on NIST’s proposal for a <a href="https://www.biometricupdate.com/202308/rights-groups-weigh-in-on-nists-evaluation-metrics-for-facial-age-estimation">facial age estimation track</a> to its facial recognition assessments that the age groupings used should change, and an indicator should be added for the direction of errors. NIST’s Patrick Grother tells <em>Biometric Update</em> the agency received 49 submitted comments, and Paravision’s Joey Pritikin weighs in on the importance of the project.
+
+Comments from <a href="https://www.biometricupdate.com/202308/yoti-and-avpa-call-for-bias-measurement-in-nist-age-estimation-assessments">Yoti and the AVPA to NIST</a> shared with <em>Biometric Update</em> show agreement that measurements of bias should be included, and back the rights groups in seeking different age thresholds. Other recommendations include releasing training data and adding a comprehensive ROC metric.
+
+Wells Fargo is being taken to court by a certified fraud examiner in a potential class action alleging the bank created thousands of <a href="https://www.biometricupdate.com/202308/wells-fargo-accused-of-scam-involving-racketeering-synthetic-identity-fraud">fraudulent accounts with synthetic identities</a>. Credit and risk assessment company Early Warning has been drawn into the case with allegations of fraudulent identity verification.
+
+The U.S. GSA is holding a pre-solicitation event for digital identity vendors this weekend, ahead of a tender to improve and <a href="https://www.biometricupdate.com/202308/washington-prepares-to-tender-remote-id-proofing-upgrade-for-login-gov">extend the reach of its Login.gov</a> single-sign on service. The government wants to improve document authentication, while also targeting access for Americans without IDs through biometrics and other technologies.
+
+A third false arrest based at least in part on a facial recognition match has been discovered in Detroit, the same number as has been found in the rest of the country altogether. In all six cases the <a href="https://www.biometricupdate.com/202308/black-woman-matched-by-facial-recognition-alleges-police-misconduct-in-lawsuit">innocent person arrested</a> was Black. Police misconduct is again alleged, and questions have been sparked about the reliability of facial recognition and photo lineups.
+
+<a href="https://www.biometricupdate.com/202308/rwandas-planned-digital-id-could-both-increase-and-decrease-exclusion">Rwanda’s digital ID</a> project carries the opportunity for improved public services, particularly in rural areas, but risks as well, said guests from the Tony Blair Institute, NYU’s Center for Human Rights and Justice and news outlet The New Times on the latest episode of the APRI podcast ‘<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kOWYwOGJjYy9wb2RjYXN0L3Jzcw/episode/N2I5ZWQyMzktOWQ1Ny00MzRmLWI5YmEtNTI3NjkxNzk0YjJl?sa=X&amp;ved=0CAUQkfYCahcKEwiI99uT1cqAAxUAAAAAHQAAAAAQAg">The Africa Hour</a>.’ They note that increased exclusion is a common problem with new digital identity schemes, which Rwanda’s government seems sensitive to.
+
+Advancing legislation sets out what details will be captured on <a href="https://www.biometricupdate.com/202308/details-of-guyanas-biometric-digital-id-cards-veridos-35-4m-contract-amount-revealed">Guyana’s national digital ID cards</a>, which will be produced by Veridos under a $35.4 million contract. The cards will have embedded face and fingerprint biometrics, and be backed by a registry administered by the country’s Data Protection Commissioner.
+
+Please let us know about any reports, interviews or other content you think we should share with the people who work in biometrics and the digital identity community, either in the comments below or through social media.
+
