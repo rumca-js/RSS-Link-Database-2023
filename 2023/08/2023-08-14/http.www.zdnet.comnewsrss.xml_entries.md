@@ -1,0 +1,135 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## Google is reportedly working on a Continuity-like feature for Android
+ - [https://www.zdnet.com/article/google-is-reportedly-working-on-an-apple-continuity-like-feature-for-android/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-is-reportedly-working-on-an-apple-continuity-like-feature-for-android/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T20:56:23+00:00
+
+Apple's seamless cooperation of devices in its own ecosystem has been a big selling point, but Android could soon be catching up.
+
+## Google Health expands AI-powered breast cancer screenings integration
+ - [https://www.zdnet.com/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-health-expands-ai-powered-breast-cancer-screenings-integration/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T20:31:06+00:00
+
+In a 2020 study, Google's mammography AI system outperformed radiologists.
+
+## Unlike iPhone, this new OnePlus device works when your hands are wet
+ - [https://www.zdnet.com/article/unlike-iphone-this-new-oneplus-device-works-when-your-hands-are-wet/#ftag=RSSbaffb68](https://www.zdnet.com/article/unlike-iphone-this-new-oneplus-device-works-when-your-hands-are-wet/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T19:34:32+00:00
+
+This phone's screen isn't confused by water droplets.
+
+## The best satellite phones and devices of 2023: Garmin, Motorola and more compared
+ - [https://www.zdnet.com/article/best-satellite-phone/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-satellite-phone/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T18:57:00+00:00
+
+The the best satellite phones and gadgets to match your off-grid lifestyle offer features like SOS, SMS, and global coverage.
+
+## Could Apple products get a smart ring to control objects with hand gestures?
+ - [https://www.zdnet.com/article/could-apple-products-get-a-smart-ring-to-control-objects-with-hand-gestures/#ftag=RSSbaffb68](https://www.zdnet.com/article/could-apple-products-get-a-smart-ring-to-control-objects-with-hand-gestures/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T18:25:44+00:00
+
+Apple has filed a patent for a smart ring able to identify gestures and 'initiate an operation' based on these hand movements. How will it affect Vision Pro?
+
+## How to send password-protected emails in Gmail
+ - [https://www.zdnet.com/article/how-to-send-password-protected-emails-in-gmail/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-send-password-protected-emails-in-gmail/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T18:17:00+00:00
+
+Gmail includes a handy feature that helps protect sensitive information. Here's how easy it is to use Confidential Mode.
+
+## Google starts warning users about potential inactive account deletions
+ - [https://www.zdnet.com/article/google-starts-warning-users-about-potential-inactive-account-deletions/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-starts-warning-users-about-potential-inactive-account-deletions/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T17:16:20+00:00
+
+Here's what you need to know to keep your accounts from disappearing.
+
+## Most Americans want federal regulation of AI, poll shows
+ - [https://www.zdnet.com/article/most-americans-want-federal-regulation-of-ai-poll-shows/#ftag=RSSbaffb68](https://www.zdnet.com/article/most-americans-want-federal-regulation-of-ai-poll-shows/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T17:03:10+00:00
+
+86% of Americans believe AI could accidentally cause a catastrophic event.
+
+## The best Chromebook laptops of 2023: Top picks for students
+ - [https://www.zdnet.com/article/best-chromebook-laptop/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-chromebook-laptop/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T16:02:00+00:00
+
+Chromebooks have come a long way since they were first introduced in 2011, and we've tested and researched the best for students, travel, and even gaming.
+
+## Low-code and no-code: Meant for citizen developers, but embraced by IT
+ - [https://www.zdnet.com/article/low-code-and-no-code-meant-for-citizen-developers-but-embraced-by-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/low-code-and-no-code-meant-for-citizen-developers-but-embraced-by-it/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T15:53:03+00:00
+
+These tools mean more development work can get done, and IT can spend more time on other priorities.
+
+## Threads app usage plummets 79% in just one month
+ - [https://www.zdnet.com/article/threads-app-usage-plummets-79-in-just-one-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/threads-app-usage-plummets-79-in-just-one-month/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T15:50:34+00:00
+
+Peaking at more than 49 million on July 7, the number of daily active Threads users sunk to 10 million by August 7, says Similarweb.
+
+## Apple reportedly planning major Watch X upgrade for 2024 or 2025
+ - [https://www.zdnet.com/article/apple-reportedly-planning-major-watch-x-upgrade-for-2024-or-2025/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-reportedly-planning-major-watch-x-upgrade-for-2024-or-2025/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T15:14:41+00:00
+
+Marking the 10th anniversary of the Apple Watch, the Watch X could offer a microLED display, a thinner case, and blood pressure monitoring, says Bloomberg's Mark Gurman.
+
+## Get 20TB of cloud storage for life for just $100 right now
+ - [https://www.zdnet.com/article/get-20tb-of-cloud-storage-for-life-for-just-100-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-20tb-of-cloud-storage-for-life-for-just-100-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T15:00:21+00:00
+
+Stop worrying about running out of space or losing your files with this lifetime cloud storage deal.
+
+## LG unveils its first wireless television, with a stunning 95-inch screen and price
+ - [https://www.zdnet.com/home-and-office/home-entertainment/lg-unveils-its-first-wireless-television-a-stunning-95-inch-screen-with-the-price-to-match/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/lg-unveils-its-first-wireless-television-a-stunning-95-inch-screen-with-the-price-to-match/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T14:50:05+00:00
+
+If you're tired of cables behind your television, LG has a wireless answer. But it doesn't come cheap.
+
+## These $26 earbuds sound great, and offer a stunning 140 hours of total runtime
+ - [https://www.zdnet.com/home-and-office/these-26-earbuds-sound-great-and-offer-a-stunning-140-hours-of-total-runtime/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/these-26-earbuds-sound-great-and-offer-a-stunning-140-hours-of-total-runtime/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T14:37:17+00:00
+
+For this price, they're a steal, and a solid choice as your main earbuds, your backup, or the sacrificial earbuds you use at the gym.
+
+## How to find out if an AirTag is tracking you
+ - [https://www.zdnet.com/article/how-to-find-out-if-an-airtag-is-tracking-you/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-find-out-if-an-airtag-is-tracking-you/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T14:18:00+00:00
+
+Apple and Google are working together to prevent the misuse of Bluetooth trackers. Here's what to know.
+
+## You can build your own customer service AI chatbot with this drag-and-drop tool
+ - [https://www.zdnet.com/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-build-your-own-customer-service-ai-chatbot-with-this-drag-and-drop-tool/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T14:15:47+00:00
+
+We try out Botpress, a tool that helps you create powerful AI-based chatbots.
+
+## 5 things I learned while building my smart home
+ - [https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T14:05:25+00:00
+
+Integrating smart devices into your home is still more complicated than it needs to be, but the technology is improving. Here are a handful of lessons I've learned along the way.
+
+## Sign up for a Costco membership and get a $30 gift card, free
+ - [https://www.zdnet.com/home-and-office/home-entertainment/sign-up-for-a-costco-membership-and-get-a-30-gift-card-free/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/sign-up-for-a-costco-membership-and-get-a-30-gift-card-free/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-08-14T13:00:21+00:00
+
+Shopping at Costco can help you save money on groceries, electronics, gadgets, and more. This deal effectively gets you an annual Costco membership for 50% off.
+

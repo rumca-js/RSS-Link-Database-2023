@@ -1,0 +1,198 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Georgia Court Website Publishes, Then Deletes, List of Charges Against Donald Trump
+ - [https://gizmodo.com/fulton-county-courthouse-website-donald-trump-charges-1850736267](https://gizmodo.com/fulton-county-courthouse-website-donald-trump-charges-1850736267)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T22:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--uFz_hgPU--/c_fit,fl_progressive,q_80,w_636/0ae6876c8334834910024e2fc86bb9f6.jpg" /><p>The Georgia courthouse where grand jurors are currently <a href="https://www.theguardian.com/us-news/live/2023/aug/14/donald-trump-indictment-latest-updates-georgia-election-charges-fulton-county" rel="noopener noreferrer" target="_blank">mulling charges</a> against former President Donald Trump weirdly posted what looked a whole helluva lot like evidence of an indictment to its website on Monday. However, the document was swiftly taken down and the court later told news outlets that no charges had…</p><p><a href="https://gizmodo.com/fulton-county-courthouse-website-donald-trump-charges-1850736267">Read more...</a></p>
+
+## Even Peter Jackson Got Spooked by That Terrifying Talk to Me Hand
+ - [https://gizmodo.com/peter-jackson-a24-talk-to-me-horror-lord-of-the-rings-1850737139](https://gizmodo.com/peter-jackson-a24-talk-to-me-horror-lord-of-the-rings-1850737139)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T22:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0fre3h8b--/c_fit,fl_progressive,q_80,w_636/92caf6f1e5f467c4718f96bc9be2f3b8.jpg" /><p>Peter Jackson became an A-list powerhouse thanks to <em>The Lord of the Rings</em>’ blockbuster and Oscar-winning reign, but he’s also the guy whose first feature was low-budget splatter movie <a href="https://gizmodo.com/20-sci-fi-directorial-debuts-that-became-genre-classics-1842380988"><em>Bad Taste</em></a>, and whose Hollywood debut was supernatural tale <a href="https://gizmodo.com/the-frighteners-peter-jacksons-precursor-to-lord-of-th-1825891383"><em>The Frighteners</em></a>. All this is to say, the guy’s a bona fide horror nerd, and…</p><p><a href="https://gizmodo.com/peter-jackson-a24-talk-to-me-horror-lord-of-the-rings-1850737139">Read more...</a></p>
+
+## Images From Studio Ghibli's The Boy and the Heron Tease the Secretive Film's Mysteries
+ - [https://gizmodo.com/studio-ghibli-boy-and-the-heron-secretive-film-images-1850736628](https://gizmodo.com/studio-ghibli-boy-and-the-heron-secretive-film-images-1850736628)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T21:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0QMaCsQN--/c_fit,fl_progressive,q_80,w_636/11fa36930da1bb8a7885eaca7b3e7153.png" /><p>Set to make its North American debut at the Toronto International Film Festival, <a href="https://gizmodo.com/studio-ghibli-hayao-miyazaki-new-movie-us-release-2023-1850641526"><em>The Boy and the Heron</em></a> marks what’s said to be <a href="https://gizmodo.com/miyazaki-ghibli-how-do-you-live-poster-trailer-anime-1850499515">Hayao Miyazaki’s last animated film</a> <a href="https://gizmodo.com/hayao-miyazaki-ghibli-how-do-you-live-release-date-1849887285">for  Studio Ghibli</a>.<br /></p><p><a href="https://gizmodo.com/studio-ghibli-boy-and-the-heron-secretive-film-images-1850736628">Read more...</a></p>
+
+## Fake Claim That OpenAI Has a New Billion Dollar Investor Mysteriously Appears on Stock Exchange Website
+ - [https://gizmodo.com/open-ai-fake-claim-london-stock-exchange-1850736730](https://gizmodo.com/open-ai-fake-claim-london-stock-exchange-1850736730)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T21:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--A-7J2Mmn--/c_fit,fl_progressive,q_80,w_636/0cfe5cf61f37cf55fc7246505484dee8.jpg" /><p>A fake press release claiming that investment firm Ripplewood is putting $1 billion into <a href="https://gizmodo.com/a-new-class-action-lawsuit-adds-to-openais-growing-lega-1850593431">OpenAI</a> appeared on the website of the London Stock Exchange on Monday. The false press release claimed the 28-year-old New York-based company would benefit from investing in OpenAI, saying it would be a “giant valuable asset” in…</p><p><a href="https://gizmodo.com/open-ai-fake-claim-london-stock-exchange-1850736730">Read more...</a></p>
+
+## I Am (No) Jedi
+ - [https://gizmodo.com/ahsoka-tano-jedi-star-wars-disney-plus-lucasfilm-1850736393](https://gizmodo.com/ahsoka-tano-jedi-star-wars-disney-plus-lucasfilm-1850736393)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--wY8qPRFv--/c_fit,fl_progressive,q_80,w_636/cdd990e37692212d6ae0301664601691.png" /><p>“Warrior. Outcast. Rebel. <em>Jedi</em>,” the first trailer for <em>Ahsoka</em> <a href="https://gizmodo.com/star-wars-ahsoka-star-wars-2023-trailer-1849521183">blares at us</a>, trying to distill the life of one of <em>Star Wars</em>’ modern success stories—across mediums and eras as the titular heroine now finds herself on the precipice of her own live-action series—into just four words. But such a task is never going to be…</p><p><a href="https://gizmodo.com/ahsoka-tano-jedi-star-wars-disney-plus-lucasfilm-1850736393">Read more...</a></p>
+
+## Gene Therapy Rewired Monkey's Brains to Treat Alcohol Use Disorder, Study Finds
+ - [https://gizmodo.com/gene-therapy-treats-alcohol-use-disorder-in-monkeys-1850736150](https://gizmodo.com/gene-therapy-treats-alcohol-use-disorder-in-monkeys-1850736150)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--NYfHb6sY--/c_fit,fl_progressive,q_80,w_636/ff562002f8d593cba73701b2e08413a6.jpg" /><p><a href="https://gizmodo.com/will-there-ever-be-a-cure-for-addiction-1848539939">Alcohol addiction</a> could become a thing of the past with a new gene therapy that appears to significantly reduce <a href="https://gizmodo.com/even-moderate-drinking-might-shrink-your-brain-study-f-1848635529">alcohol cravings</a> in monkeys, according to a <a href="https://www.nature.com/articles/s41591-023-02463-9.epdf?sharing_token=vXe3cbmmFqcjbZft7eBu4dRgN0jAjWel9jnR3ZoTv0MXXjqJAddFqQoVsYfpAwRTgdwXv_aGcNBeq9DTL7PR5vbylfdUM5CFrJfvuvNcgzlAlJGaadP8WUwD51PPQAPcDUsYF9sBj_qUb7r9_l__3KvSIlZ7SQ8vn3SAYXsPraLMBbc1O19jCf8CnIUZnx0kSedeNRNYYo3mLYZnomi35bwy_gYxWUyAHhVSuhGcOeWSHE-mhIez7gITHPse7v0XEhIb8eypyzDzDe3_tuHA-BcsHqAF4T2akq5fy_4lY2EXt2lgN50S1ssq3odXNeYf&amp;tracking_referrer=www.wired.com" rel="noopener noreferrer" target="_blank">new study</a> published on Monday in the journal <em>Nature Medicine</em>. The gene therapy was tested on macaque monkeys over 12 months, revealing promising results. </p><p><a href="https://gizmodo.com/gene-therapy-treats-alcohol-use-disorder-in-monkeys-1850736150">Read more...</a></p>
+
+## Exclusive Clip From Babylon 5 Animated Film Emphasizes the Perils of Phasing
+ - [https://gizmodo.com/babylon-5-road-home-animated-exclusive-clip-boxleitner-1850722385](https://gizmodo.com/babylon-5-road-home-animated-exclusive-clip-boxleitner-1850722385)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s---TDA5nxS--/c_fit,fl_progressive,q_80,w_636/40d3a2c21a069b1ff89810c001500e24.jpg" /><p>While fans eagerly await more <a href="https://gizmodo.com/babylon-5-blu-ray-complete-series-price-release-date-1850651890"><em>Babylon 5</em></a> in live-action, <a href="https://gizmodo.com/everything-you-need-to-know-about-babylon-5-5876320">the  sci-fi series</a>, which marks its 30th anniversary this year, makes its return—<a href="https://gizmodo.com/babylon-5-animated-movie-release-date-cast-details-1850424457">in animated form</a>—with <a href="https://gizmodo.com/babylon-5-the-road-home-trailer-animated-movie-1850541869"><em>Babylon 5: The Road Home</em></a>, releasing this week on digital and on 4K Ultra HD and Blu-ray. io9 has an exclusive clip to share today!</p><p><a href="https://gizmodo.com/babylon-5-road-home-animated-exclusive-clip-boxleitner-1850722385">Read more...</a></p>
+
+## Judge Rules Montana Fossil Fuel Law Violated Young Plaintiffs' Right to a Clean and Healthful Environment
+ - [https://gizmodo.com/judge-rules-montana-fossil-fuel-law-violated-rights-1850736439](https://gizmodo.com/judge-rules-montana-fossil-fuel-law-violated-rights-1850736439)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T20:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--2Am2HtCk--/c_fit,fl_progressive,q_80,w_636/9a34036c5fc56b122be403ff04c0525b.jpg" /><p>The Montana judge who heard the United States’ first constitutional climate trial has officially ruled in favor of the young plaintiffs who argued that the state’s officials had violated their rights in favor of fossil fuel interests.</p><p><a href="https://gizmodo.com/judge-rules-montana-fossil-fuel-law-violated-rights-1850736439">Read more...</a></p>
+
+## Stephen Amell Admits He 'Put His Foot in His Mouth' About Strike
+ - [https://gizmodo.com/stephen-amell-arrow-sag-strike-picket-line-comments-1850735994](https://gizmodo.com/stephen-amell-arrow-sag-strike-picket-line-comments-1850735994)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--VLzQyuAa--/c_fit,fl_progressive,q_80,w_636/8cfa96dc5b458f8f8fa98d823ed91f50.jpg" /><p>Stephen Amell, former star of <a href="https://gizmodo.com/arrowverse-reunion-stephen-amell-oliver-queen-the-flash-1849949162">the CW DC series <em>Arrow</em></a>, <a href="https://gizmodo.com/stephen-amell-strike-wga-sag-arrow-unions-galaxycon-1850695812">stepped into sticky stuff  recently</a> when he made comments at a fan convention saying that while he supports his union, SAG-AFTRA, he is not in support of its strike action. He soon took to social media to clarify his comments—and then last week <a href="https://variety.com/2023/tv/news/stephen-amell-pickets-anti-strike-statements-arrow-reunion-1235694526/" rel="noopener noreferrer" target="_blank">was spotted on the…</a></p><p><a href="https://gizmodo.com/stephen-amell-arrow-sag-strike-picket-line-comments-1850735994">Read more...</a></p>
+
+## New York Times Bars AI Companies From Using Its Content for Algorithm Training
+ - [https://gizmodo.com/nyt-no-ai-data-scraping-terms-of-service-chatgpt-1850734918](https://gizmodo.com/nyt-no-ai-data-scraping-terms-of-service-chatgpt-1850734918)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T19:12:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--VQ6Ml-rT--/c_fit,fl_progressive,q_80,w_636/e57150fe5e8e2a726fcf207534ea0cd8.jpg" /><p>The New York Times is making it clear that the AI industry won’t be given free rein to pilfer the newspaper’s content  to train algorithms. In <a href="https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-Service" rel="noopener noreferrer" target="_blank">a recent change</a> to its Terms of Service policy, the Times has explicitly forbidden the use of its vast media archives for the purposes of training “any software program,…</p><p><a href="https://gizmodo.com/nyt-no-ai-data-scraping-terms-of-service-chatgpt-1850734918">Read more...</a></p>
+
+## Netflix Will Finally Let You Access Its Mobile Games on a TV
+ - [https://gizmodo.com/netflix-brings-access-to-mobile-game-catalog-on-a-tv-1850736059](https://gizmodo.com/netflix-brings-access-to-mobile-game-catalog-on-a-tv-1850736059)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Lx61dkDV--/c_fit,fl_progressive,q_80,w_636/9c17f615c6bc6a11aab6a9856004ca56.jpg" /><p>Finally, Netflix is offering something truly new for its subscriber base beyond <a href="https://gizmodo.com/netflix-password-sharing-streaming-1850466800">ordering them to stop sharing passwords</a>. The company has finally <a href="https://gizmodo.com/netflix-games-tv-ios-android-phone-controller-mobile-1850282240">followed up on rumors</a> and announced it’s testing out the ability for users to stream some of its mobile game catalog right from the main Netflix app.</p><p><a href="https://gizmodo.com/netflix-brings-access-to-mobile-game-catalog-on-a-tv-1850736059">Read more...</a></p>
+
+## Persons of Interest in Gen Con Card Theft Are Card Game Designers
+ - [https://gizmodo.com/gen-con-card-theft-magic-gathering-persons-of-interest-1850734744](https://gizmodo.com/gen-con-card-theft-magic-gathering-persons-of-interest-1850734744)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--XXyuSRAa--/c_fit,fl_progressive,q_80,w_636/2d967c678e734ae9068316625e8ecdd0.png" /><p>At Gen Con earlier this month, a pallet of <em>Magic: The Gathering</em> cards worth $<a href="https://gizmodo.com/gencon-2023-convention-card-theft-lorcana-ravensburger-1850710603">300,000</a> was stolen from the convention center; the product belonged to <a href="https://gizmodo.com/magic-the-gathering-cards-stolen-gen-con-heist-lorcana-1850722316">Pastimes</a>, a gaming shop and <em>MTG</em> vendor. In an update from <a href="https://www.wthr.com/article/news/local/300000-worth-of-gaming-cards-stolen-impd-asking-for-help-identifying-suspects-pallet/531-2090dd94-7e4e-4915-bfb2-79b368e4e1ee" rel="noopener noreferrer" target="_blank">Indianapolis news station WTHR 13</a>, police have identified two people of interest in the case: Thomas J. Dunbar…</p><p><a href="https://gizmodo.com/gen-con-card-theft-magic-gathering-persons-of-interest-1850734744">Read more...</a></p>
+
+## Maui’s Death Toll Rises to 96 After Days of Devastating Fires
+ - [https://gizmodo.com/maui-s-death-toll-rises-to-96-after-devastating-fires-1850734849](https://gizmodo.com/maui-s-death-toll-rises-to-96-after-devastating-fires-1850734849)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--UhUrZl7b--/c_fit,fl_progressive,q_80,w_636/501dcdafcdc81e212138270f035e7e56.jpg" /><p>The devastating wildfires that have destroyed homes have now officially killed almost 100 people. The official reported death toll last Wednesday was 6 people. By Friday the <a href="https://gizmodo.com/the-maui-fires-have-killed-55-people-1850728431">count had risen to 55 dead</a>. As of today, official reports say that <a href="https://www.mauicounty.gov/CivicAlerts.aspx?aid=12694&amp;utm_source=dlvr.it&amp;utm_medium=twitter" rel="noopener noreferrer" target="_blank">96 people have died</a>.</p><p><a href="https://gizmodo.com/maui-s-death-toll-rises-to-96-after-devastating-fires-1850734849">Read more...</a></p>
+
+## The Newest Look at Loki Season 2 Asks if You Want Fries With That
+ - [https://gizmodo.com/loki-season-2-marvel-mcdonalds-ad-with-tom-hiddleston-1850735341](https://gizmodo.com/loki-season-2-marvel-mcdonalds-ad-with-tom-hiddleston-1850735341)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--XdVVv5yv--/c_fit,fl_progressive,q_80,w_636/dc9fd1dc844ea309d9415541918a514b.png" /><p>No other burger chain has permeated pop culture like McDonald’s in film and television, and the fast-food chain is here to prove it. </p><p><a href="https://gizmodo.com/loki-season-2-marvel-mcdonalds-ad-with-tom-hiddleston-1850735341">Read more...</a></p>
+
+## New Law Forces Parents to Share Cash With Their ‘Kidfluencers’
+ - [https://gizmodo.com/kids-influencers-youtube-instagram-illinois-law-1850734987](https://gizmodo.com/kids-influencers-youtube-instagram-illinois-law-1850734987)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T17:02:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0OZ5-lcS--/c_fit,fl_progressive,q_80,w_636/18edcbfad3d6f386205bd318e4aba62e.jpg" /><p>Illinois governor J.B. Pritzker on Friday signed into law a <a href="https://gizmodo.com/kidfluencers-influencers-social-media-tiktok-1850437316">first-of-its-kind bill </a>entitling young social media influencers to a percentage of earnings for monetized videos they appear in. The law, which could accelerate interest for similar legislation in other states, marks one of the first known examples of…</p><p><a href="https://gizmodo.com/kids-influencers-youtube-instagram-illinois-law-1850734987">Read more...</a></p>
+
+## Final Landscape With Invisible Hand Trailer Puts Its Aliens on Full Display
+ - [https://gizmodo.com/landscape-with-invisible-hand-new-trailer-aliens-scifi-1850735367](https://gizmodo.com/landscape-with-invisible-hand-new-trailer-aliens-scifi-1850735367)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--lE76aYJ6--/c_fit,fl_progressive,q_80,w_636/e1b7baaf3c8c2a193ac3d46403a12c0a.jpg" /><p>Last week, io9 shared a glimpse of <a href="https://gizmodo.com/landscape-with-invisible-hand-clip-tiffany-haddish-alie-1850715574">the floating cities occupied by Earth’s invaders</a> in <a href="https://gizmodo.com/landscape-with-invisible-hand-trailer-tiffany-haddish-1850534197">new sci-fi film</a> <em>Landscape With Invisible Hand</em>. (<a href="https://gizmodo.com/landscape-with-invisible-hand-review-alien-invasion-fil-1850030310">Read our Sundance review here</a>.) Today’s final trailer reveals exactly what those extraterrestrial occupiers look like—and “surprising” doesn’t even begin to cover it. No wonder…</p><p><a href="https://gizmodo.com/landscape-with-invisible-hand-new-trailer-aliens-scifi-1850735367">Read more...</a></p>
+
+## Listen to Werner Herzog Read a Book of AI Poetry
+ - [https://gizmodo.com/werner-herzog-openai-ai-poetry-davinci-1850734891](https://gizmodo.com/werner-herzog-openai-ai-poetry-davinci-1850734891)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T16:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--fthdNkNS--/c_fit,fl_progressive,q_80,w_636/3e736b9e9c9e627862fc808cce874a9c.jpg" /><p>An AI chatbot wrote a collection of poetry, and when its human co-authors needed someone to narrate the audio-book, Werner Herzog was the only reasonable option. It’s the only saving grace of our dull, slow-moving apocalypse: sometimes, as we stare into the abyss, Herzog stares back. </p><p><a href="https://gizmodo.com/werner-herzog-openai-ai-poetry-davinci-1850734891">Read more...</a></p>
+
+## I Want to Understand the 368 People Who Finished Baldur's Gate 3 in a Single Weekend
+ - [https://gizmodo.com/baldurs-gate-3-player-stats-completion-class-choice-1850734927](https://gizmodo.com/baldurs-gate-3-player-stats-completion-class-choice-1850734927)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--3g4_b_nT--/c_fit,fl_progressive,q_80,w_636/a82ef27103f0d11ba25efe27989cc16c.jpg" /><p><em>Baldur’s Gate 3</em>, <a href="https://gizmodo.com/baldurs-gate-3-translation-credits-localization-larian-1850724994">Larian Studio’s</a> epic <a href="https://gizmodo.com/baldur-s-gate-3-has-the-nerdiest-eula-1850708078">new <em>Dungeons &amp; Dragons</em> game</a>, has consumed a not-insignificant amount of my free time since it launched earlier this month. An amount that even I, who had been waiting half a decade to play it, thought was a little extreme. So shout out to the absolutely unhinged folks who…</p><p><a href="https://gizmodo.com/baldurs-gate-3-player-stats-completion-class-choice-1850734927">Read more...</a></p>
+
+## CoinDesk Cuts a Reported 45% of Staff Ahead of Potential Sale
+ - [https://gizmodo.com/coindesk-cuts-45-percent-of-staff-ahead-of-sale-1850734550](https://gizmodo.com/coindesk-cuts-45-percent-of-staff-ahead-of-sale-1850734550)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Pa9XxEvy--/c_fit,fl_progressive,q_80,w_636/2129be3c71a383f69f1e8800c086f0b6.jpg" /><p>The finger-on-the-pulse and Polk Award-winning crypto news media company CoinDesk is in dire straits. The website has reportedly laid off 45% of its staff as parent company Digital Currency Group explores a sale.</p><p><a href="https://gizmodo.com/coindesk-cuts-45-percent-of-staff-ahead-of-sale-1850734550">Read more...</a></p>
+
+## Indiana Jones and the Dial of Destiny Heads Home This Month
+ - [https://gizmodo.com/indiana-jones-dial-of-destiny-home-release-date-digital-1850734736](https://gizmodo.com/indiana-jones-dial-of-destiny-home-release-date-digital-1850734736)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--B3eiV1rj--/c_fit,fl_progressive,q_80,w_636/3b84c89b5675febecaa0050bc33b6095.png" /><p>After a <a href="https://gizmodo.com/indiana-jones-dial-of-destiny-box-office-1850600198">complicatedly muted run</a> at the box office, Lucasfilm and Disney have announced that the fifth and <a href="https://gizmodo.com/harrison-ford-conan-obrien-han-solo-star-wars-podcast-1850608748">seemingly final <em>Indiana Jones</em> movie</a>, <em>Dial of Destiny</em>, will begin its home release launch at the end of the month.<br /></p><p><a href="https://gizmodo.com/indiana-jones-dial-of-destiny-home-release-date-digital-1850734736">Read more...</a></p>
+
+## Astronomers Spot a Massive Brown Dwarf Hotter Than the Sun
+ - [https://gizmodo.com/astronomers-spot-a-massive-brown-dwarf-hotter-than-the-1850734800](https://gizmodo.com/astronomers-spot-a-massive-brown-dwarf-hotter-than-the-1850734800)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T14:54:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--nfn3uT1F--/c_fit,fl_progressive,q_80,w_636/49ee0fab0eb74a7d394b7dacd91cb925.jpg" /><p>Astronomers recently spotted one of the most massive brown dwarfs known, an object between 75 and 90 times the mass of Jupiter with a beyond-scalding dayside temperature of 8,000 K (13,940° Fahrenheit.)</p><p><a href="https://gizmodo.com/astronomers-spot-a-massive-brown-dwarf-hotter-than-the-1850734800">Read more...</a></p>
+
+## Amazon to Use AI to Summarize All of Those Totally Real Product Reviews
+ - [https://gizmodo.com/amazon-to-use-ai-to-summarize-users-product-reviews-1850734600](https://gizmodo.com/amazon-to-use-ai-to-summarize-users-product-reviews-1850734600)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T14:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--Gg_GJKJw--/c_fit,fl_progressive,q_80,w_636/d351033a8868bf6ec542bead1f0ffa87.jpg" /><p>Amazon is rolling out a new generative AI tool that will summarize customer reviews for each product, the company announced Monday. Instead of sifting through hundreds, possibly thousands of personalized reviews, the <a href="https://gizmodo.com/tech/artificial-intelligence">AI-powered tool</a> will sum up the most frequently mentioned product features and customer opinions that…</p><p><a href="https://gizmodo.com/amazon-to-use-ai-to-summarize-users-product-reviews-1850734600">Read more...</a></p>
+
+## Updates From Ahsoka, Uncharted, and More
+ - [https://gizmodo.com/ahsoka-trailer-baylan-skoll-star-wars-disney-plus-1850734056](https://gizmodo.com/ahsoka-trailer-baylan-skoll-star-wars-disney-plus-1850734056)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--RazIY0xM--/c_fit,fl_progressive,q_80,w_636/3e1b0e307c9a5247dc6ed7edd62bf5cd.png" /><p>Go behind the scenes of <em>Invasion</em> season 2. <em>Outlander</em> teases its return for next year. <em>House of the Dragon</em> is casting an intriguing character for season 2. Plus, <em>Thirteen Ghosts</em> could be heading to television. Spoilers, away!<br /></p><p><a href="https://gizmodo.com/ahsoka-trailer-baylan-skoll-star-wars-disney-plus-1850734056">Read more...</a></p>
+
+## NASA Tests the First Rocket to Launch From the Surface of Another Planet
+ - [https://gizmodo.com/nasa-tests-the-first-rocket-to-launch-from-the-surface-1850734545](https://gizmodo.com/nasa-tests-the-first-rocket-to-launch-from-the-surface-1850734545)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T13:56:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--0b8jMWEW--/c_fit,fl_progressive,q_80,w_636/ff778b58a7cd5bd4c3fdd700cc323640.jpg" /><p>NASA’s Perseverance rover has been diligently <a href="https://gizmodo.com/nasa-rovers-newest-rock-sample-is-a-gift-from-an-ancien-1850659345">collecting rocky samples from Mars</a> to stow them away on the planet’s dusty surface while engineers work to develop a rocket that can launch  off of another world as a crucial step in the process of <a href="https://gizmodo.com/mars-sample-return-new-timeline-2033-1848713024">retrieving the samples</a>.</p><p><a href="https://gizmodo.com/nasa-tests-the-first-rocket-to-launch-from-the-surface-1850734545">Read more...</a></p>
+
+## The Next Apple Watch Update May Be Boring as Hell, but Watch Out for 2024
+ - [https://gizmodo.com/apple-watch-getting-big-update-in-2024-1850734417](https://gizmodo.com/apple-watch-getting-big-update-in-2024-1850734417)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T13:36:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--rzlvLPFZ--/c_fit,fl_progressive,q_80,w_636/eb1c43aa01ea19b42f300c0f58d7e898.jpg" /><p>Apple is set to release its next Apple Watch Series 9 set of smartwatches, but the company is reportedly offering little to no reason for any current users to upgrade from <a href="https://gizmodo.com/apple-watch-ultra-series-8-se-2-reveal-price-and-mor-1849504872">the Series 8</a>. Current reports suggest the best thing to do if you’re excited about the next evolution in wearables is to wait a year for the big…</p><p><a href="https://gizmodo.com/apple-watch-getting-big-update-in-2024-1850734417">Read more...</a></p>
+
+## Engine Recall Forces Major Airlines to Ground Planes and Cancel Flights
+ - [https://gizmodo.com/engine-recall-forces-major-airlines-to-ground-planes-1850734352](https://gizmodo.com/engine-recall-forces-major-airlines-to-ground-planes-1850734352)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T13:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--8zmwXZaH--/c_fit,fl_progressive,q_80,w_636/3d8c4ba3e97782418ab88ee3b9fb3a63.jpg" /><p>What’s a plane without an engine? After aerospace company Pratt &amp; Whitney issued a recall on some of its engine models, airline companies in the U.S. and Europe are scrounging for parts, and doing anything they can to prevent canceled flights. </p><p><a href="https://gizmodo.com/engine-recall-forces-major-airlines-to-ground-planes-1850734352">Read more...</a></p>
+
+## Researcher Proposes Space Umbrella Attached to Asteroid to Mitigate Climate Change
+ - [https://gizmodo.com/asteroid-space-umbrella-climate-change-1850696646](https://gizmodo.com/asteroid-space-umbrella-climate-change-1850696646)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T10:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--SvhQJMkY--/c_fit,fl_progressive,q_80,w_636/39b0e9d9de42ab49beb7b38938c4d1b4.jpg" /><p>The solution for protecting the planet from some of the sun’s rays could be a space “umbrella.” A study published the <a href="https://www.pnas.org/doi/full/10.1073/pnas.2307434120" rel="noopener noreferrer" target="_blank">scientific journal PNAS</a> in June outlines a  University of Hawai’i researcher’s plan for hitching an umbrella or shield onto an asteroid to block some of the sun’s rays.</p><p><a href="https://gizmodo.com/asteroid-space-umbrella-climate-change-1850696646">Read more...</a></p>
+
+## Zuck Says It's Time to "Move On" from Fight with Musk, Blames Elon for Dodging Plans
+ - [https://gizmodo.com/mark-zuckerberg-time-to-move-on-elon-musk-fight-1850733887](https://gizmodo.com/mark-zuckerberg-time-to-move-on-elon-musk-fight-1850733887)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-08-14T00:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/s--YfTssAX9--/c_fit,fl_progressive,q_80,w_636/5e50a85af7ff433b967cd9f7a9eba578.jpg" /><p>Noooooooooooooooooo...!!! [screams into the  abyss]</p><p><a href="https://gizmodo.com/mark-zuckerberg-time-to-move-on-elon-musk-fight-1850733887">Read more...</a></p>
+
