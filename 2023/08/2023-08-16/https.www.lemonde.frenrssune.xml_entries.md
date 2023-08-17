@@ -1,0 +1,135 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## France charges four people over migrant boat tragedy in English Channel
+ - [https://www.lemonde.fr/en/immigration/article/2023/08/17/france-charges-four-people-over-migrant-boat-tragedy-in-english-channel_6095697_144.html](https://www.lemonde.fr/en/immigration/article/2023/08/17/france-charges-four-people-over-migrant-boat-tragedy-in-english-channel_6095697_144.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T22:56:25+00:00
+
+French prosecutors charged four suspects, two Iraqis and two Sudanese, over the deaths of at least six migrants whose boat sank last weekend.
+
+## Manchester City beats Sevilla to win the UEFA Super Cup
+ - [https://www.lemonde.fr/en/europe/article/2023/08/16/manchester-city-beats-sevilla-to-win-the-uefa-super-cup_6095663_143.html](https://www.lemonde.fr/en/europe/article/2023/08/16/manchester-city-beats-sevilla-to-win-the-uefa-super-cup_6095663_143.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T21:59:10+00:00
+
+The English side marked its first appearance in the UEFA Super Cup by beating Sevilla 5-4 in a penalty shootout on Wednesday to add another piece of silverware to its vast haul under manager Pep Guardiola.
+
+## Dominican Republic: Death toll rises to 27 people after explosion
+ - [https://www.lemonde.fr/en/international/article/2023/08/16/dominican-republic-death-toll-rises-to-27-people-after-explosion_6095595_4.html](https://www.lemonde.fr/en/international/article/2023/08/16/dominican-republic-death-toll-rises-to-27-people-after-explosion_6095595_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T21:10:28+00:00
+
+Firefighters still have not been able to fully put out the fires in a building where the explosion occurred Monday at a bakery in the city of San Cristobal, which lies just west of the capital of Santo Domingo.
+
+## US appeals court places restrictions on abortion pill
+ - [https://www.lemonde.fr/en/health/article/2023/08/16/us-appeals-court-places-restrictions-on-abortion-pill_6095561_14.html](https://www.lemonde.fr/en/health/article/2023/08/16/us-appeals-court-places-restrictions-on-abortion-pill_6095561_14.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T20:37:05+00:00
+
+The ruling by a three-judge panel of the New Orleans-based 5th Circuit Court of Appeals would limit the use of mifepristone to the first seven weeks of pregnancy, instead of 10. The Supreme Court will have the final say.
+
+## Over 60 people died after migrant boat capsizes off Cape Verde: UN agency
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/over-60-people-died-after-migrant-boat-capsizes-off-cape-verde-un-agency_6095494_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/over-60-people-died-after-migrant-boat-capsizes-off-cape-verde-un-agency_6095494_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T18:40:49+00:00
+
+UN migration agency says 38 refugees and migrants were rescued, but 63 others are believed to have died after their wooden boat capsized.
+
+## The contrasting fates of Japan's migrant workers
+ - [https://www.lemonde.fr/en/international/article/2023/08/16/the-contrasting-fates-of-japan-s-migrant-workers_6095461_4.html](https://www.lemonde.fr/en/international/article/2023/08/16/the-contrasting-fates-of-japan-s-migrant-workers_6095461_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T18:30:05+00:00
+
+The number of foreign workers is constantly increasing in the archipelago, which has a growing need for labor. The satisfaction of those who are better integrated does not disguise many workers' dashed hopes.
+
+## Italian opera diva Renata Scotto dies aged 89
+ - [https://www.lemonde.fr/en/culture/article/2023/08/16/italian-opera-diva-renata-scotto-dies-aged-89_6095427_30.html](https://www.lemonde.fr/en/culture/article/2023/08/16/italian-opera-diva-renata-scotto-dies-aged-89_6095427_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T17:40:26+00:00
+
+Scotto, famously a soprano of uncommon intensity who became a successful director after her singing career, died on Wednesday in her hometown of Savona, Italy.
+
+## Libya: Death toll rises to at least 45 after clashes between rival militia
+ - [https://www.lemonde.fr/en/international/article/2023/08/16/libya-death-toll-rises-to-at-least-45-after-clashes-between-rival-militia_6095393_4.html](https://www.lemonde.fr/en/international/article/2023/08/16/libya-death-toll-rises-to-at-least-45-after-clashes-between-rival-militia_6095393_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T17:04:00+00:00
+
+Clashes between rival militias in Libya's capital killed dozens of people and left residents trapped in their homes, unable to escape the violence, medical authorities said.
+
+## The mechanics of Donald Trump's 'enterprise' laid bare
+ - [https://www.lemonde.fr/en/international/article/2023/08/16/the-mechanics-of-donald-trump-s-entreprise-laid-bare_6095315_4.html](https://www.lemonde.fr/en/international/article/2023/08/16/the-mechanics-of-donald-trump-s-entreprise-laid-bare_6095315_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T15:00:02+00:00
+
+A grand jury in Georgia has indicted the former president and 18 people from his inner circle for attempting to overturn the result of the 2020 presidential election.
+
+## Senegal: Teacher accused of multiple rapes in latest Koranic school abuse scandal
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/senegal-teacher-accused-of-multiple-rapes-in-latest-koranic-school-abuse-scandal_6095279_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/senegal-teacher-accused-of-multiple-rapes-in-latest-koranic-school-abuse-scandal_6095279_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T14:00:13+00:00
+
+A religious teacher been accused of rape by 28 girls. Many NGOs say what happened in Keur Gol is an opportunity to reopen the debate on abuse in Koranic schools and religious circles.
+
+## 'Who'll Stop the Rain' by Creedence Clearwater Revival, a song as a metaphor for disaster
+ - [https://www.lemonde.fr/en/summer-reads/article/2023/08/16/who-ll-stop-the-rain-by-creedence-clearwater-revival-a-song-as-a-metaphor-for-disaster_6095242_183.html](https://www.lemonde.fr/en/summer-reads/article/2023/08/16/who-ll-stop-the-rain-by-creedence-clearwater-revival-a-song-as-a-metaphor-for-disaster_6095242_183.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T13:00:02+00:00
+
+'The Art of Rain' (10/12). The California band's leader, John Fogerty, wrote this track after their appearance at the Woodstock festival in August 1969.
+
+## Women's World Cup: England beats Australia to reach final
+ - [https://www.lemonde.fr/en/sports/article/2023/08/16/women-s-world-cup-england-beats-australia-to-reach-final_6095236_9.html](https://www.lemonde.fr/en/sports/article/2023/08/16/women-s-world-cup-england-beats-australia-to-reach-final_6095236_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T12:11:30+00:00
+
+The Lionesses won 3-1 against the co-hosts. They will face Spain in the final on Sunday.
+
+## Uruguayans told to drink saline tap water amid country's worst-ever water crisis
+ - [https://www.lemonde.fr/en/environment/article/2023/08/16/uruguay-urges-population-to-drink-saline-tap-water-as-the-country-experiences-its-worst-ever-water-crisis_6095169_114.html](https://www.lemonde.fr/en/environment/article/2023/08/16/uruguay-urges-population-to-drink-saline-tap-water-as-the-country-experiences-its-worst-ever-water-crisis_6095169_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T11:10:39+00:00
+
+In early May, the government approved the use of saline water for everyday consumption. Despite public concern, authorities maintained for weeks that the water was safe to drink.
+
+## Niger: 17 troops killed in suspected jihadist attack
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/niger-17-troops-killed-in-suspected-jihadist-attack_6095099_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/niger-17-troops-killed-in-suspected-jihadist-attack_6095099_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T09:44:19+00:00
+
+The attack on Tuesday took place near the border with Burkina Faso. It was the deadliest since the coup that overthrew President Bazoum on July 26.
+
+## The global water crisis is already affecting 4 billion people
+ - [https://www.lemonde.fr/en/environment/article/2023/08/16/the-global-water-crisis-is-already-affecting-4-billion-people_6095060_114.html](https://www.lemonde.fr/en/environment/article/2023/08/16/the-global-water-crisis-is-already-affecting-4-billion-people_6095060_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T09:01:01+00:00
+
+According to the World Resources Institute, almost half of the world's population faces 'high' water stress for at least one month a year. Without a significant and proactive policy response, water shortages will only get worse.
+
+## Niger junta exposes division between France and United States
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/niger-junta-exposes-division-between-france-and-united-states_6094959_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/08/16/niger-junta-exposes-division-between-france-and-united-states_6094959_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T07:51:27+00:00
+
+Washington is taking a softer line than Paris on the coup leaders, notably on the question of military intervention by West African countries.
+
+## Non-English-speaking researchers face significant disadvantages in scientific publications
+ - [https://www.lemonde.fr/en/science/article/2023/08/16/non-english-speaking-researchers-face-significant-disadvantages-in-scientific-publications_6094809_10.html](https://www.lemonde.fr/en/science/article/2023/08/16/non-english-speaking-researchers-face-significant-disadvantages-in-scientific-publications_6094809_10.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T03:31:18+00:00
+
+An Australian-American study highlights the inequalities faced by scientists whose mother tongue is not English. A high cost for their careers, but also for innovation.
+
+## A French Islamic school in Burgundy strives for acceptance amid suspicion
+ - [https://www.lemonde.fr/en/france/article/2023/08/16/a-french-islamic-school-in-burgundy-strives-for-acceptance-amid-suspicion_6094808_7.html](https://www.lemonde.fr/en/france/article/2023/08/16/a-french-islamic-school-in-burgundy-strives-for-acceptance-amid-suspicion_6094808_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T03:30:21+00:00
+
+Some 200 students attend the European Institute of Social Sciences, which opened in 1990. Founded with the help of the Muslim Brotherhood, the school, which claims to comply with the laws of the French Republic, remains controversial.
+
+## North Korea confirms custody of US soldier who they claim is seeking refuge
+ - [https://www.lemonde.fr/en/united-states/article/2023/08/16/north-korea-confirms-custody-of-us-soldier-who-they-claim-is-seeking-refuge_6094737_133.html](https://www.lemonde.fr/en/united-states/article/2023/08/16/north-korea-confirms-custody-of-us-soldier-who-they-claim-is-seeking-refuge_6094737_133.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-16T02:16:02+00:00
+
+North Korea asserted that Travis King defected to North Korea after being disillusioned with the inequality of American society and racial discrimination in its Army. The Pentagon has refuted this claim as propaganda.
+
