@@ -1,0 +1,20 @@
+# Source:China Insights, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug, language:en-US
+
+## China's new movement: everyone to catch spies! U.S. issues travel warning: Hong Kong-level 2 alert
+ - [https://www.youtube.com/watch?v=sVhPa_p81FM](https://www.youtube.com/watch?v=sVhPa_p81FM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2023-08-17T00:59:48+00:00
+
+#Chinainsights#Chinanews
+As a foreigner, you need to be more careful if you plan to go to China now. On August 1st, 2023 China's Ministry of State Security called for the entire society to rally against espionage. It means the entire Chinese society is mobilized to catch spies. 
+If a dual U.S. and Chinese citizen enter Hong Kong with a U.S. passport and is detained or arrested, the Chinese authorities are obligated to notify the U.S. Embassy or the U.S. Consulate General of the detention and allow American diplomats access to the subject. In practice, however, American consular officials may not be able to provide consular assistance, even to individuals entering Hong Kong on U.S. passports. Macau has been placed on a "Level 3 Travel Alert" with a recommendation to "Reconsider travel". 
+
+Have questions? Do you have something to share with us about China? We want to hear from you! 
+Email: Cinsights.subscription@gmail.com
+Facebook www.facebook.com/EyesOnChina.
+
+Your support allows us to produce more high-quality videos. 
+Consider donating at https://www.paypal.com/paypalme/ChinaInsights
+
+Copyright @ China Insights 2021. Any illegal reproduction of this content in any form will result in immediate action against the person(s) concerned.
+
