@@ -1,0 +1,23 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## 20 MORE Things You Didn't Know in Baldur's Gate 3
+ - [https://www.gamespot.com/videos/20-more-things-you-didnt-know-in-baldurs-gate-3/2300-6462120/](https://www.gamespot.com/videos/20-more-things-you-didnt-know-in-baldurs-gate-3/2300-6462120/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-08-19T16:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4180188-bg3_thingstoknow_site.jpg" width="480" /> Baldur's Gate 3 is a dense and detailed adventure. So much so that it's easy to miss stuff. Here are 20 more things you probably didn't know you could do in Baldur's Gate 3.
+
+## Firearms Expert Reacts To Cyberpunk 2077 Guns PART 3
+ - [https://www.gamespot.com/videos/firearms-expert-reacts-to-cyberpunk-2077-guns-part-3/2300-6462135/](https://www.gamespot.com/videos/firearms-expert-reacts-to-cyberpunk-2077-guns-part-3/2300-6462135/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-08-19T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4180452-cyberpunk_part3_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down more of the weaponry of Cyberpunk 2077, including the ridiculous Slaught-O-Matic, the VST-37 Pozhar shotgun and the Senkoh LX submachine gun
+
+## Baldur's Gate 3's Biggest Shortcoming Is Delivering A Purely Evil Experience
+ - [https://www.gamespot.com/articles/baldurs-gate-3-shortcoming-purely-evil-experience/1100-6516975/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/baldurs-gate-3-shortcoming-purely-evil-experience/1100-6516975/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-08-19T13:00:00+00:00
+
+<p>Picture this: You see a crowd milling about, entertained by a character playing a musical instrument, all while another party member pickpockets them. Dastardly, right? In another instance, you might whisper sweet nothings to a companion, only to sleep with someone else so you can break your other companion's heart. Sounds vile, no? Indeed, <a href="https://www.gamespot.com/games/baldurs-gate-3/">Baldur's Gate 3</a> offers many opportunities for misdeeds and general assholery. Unfortunately, it also fails to deliver on a purely evil experience, at least one where you aren't severely punished.</p><p dir="ltr">Don't get me wrong: Baldur's Gate 3 is an amazing game--the reactivity and multiple outcomes are overwhelming and impressive. Well-written dialogue, character personalities, and memorable quests kept me engaged for roughly 270 hours, from early access until the present.</p><p dir="ltr">Although I did start out as an evil character (via the <a href="https://www.gamespot.com/articles/baldurs-gate-3-dark-urge-guide/1100-6516503/">Dark Urge origin</a>), I approached the campaign as a redemption arc of sorts. With countless backups for save-scumming, I was able to check different results based on key decisions throughout the campaign. That's when I realized how being purely evil in Baldur's Gate 3 didn’t just mean dealing with the harsher consequences of my actions, but also how there’s very little to gain in return. In effect, what could’ve been an interesting or compelling role-playing hook leads to a rather unrewarding conclusion. Also, it goes without saying that <strong>this article contains major spoilers</strong>.</p><a href="https://www.gamespot.com/articles/baldurs-gate-3-shortcoming-purely-evil-experience/1100-6516975/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

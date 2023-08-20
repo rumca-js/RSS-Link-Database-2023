@@ -1,0 +1,34 @@
+# Source:Biometric Update, URL:http://feeds.feedburner.com/biometricupdate, language:en-US
+
+## Biometrics broad use shows importance of defending against deepfakes
+ - [https://www.biometricupdate.com/202308/biometrics-broad-use-shows-importance-of-defending-against-deepfakes](https://www.biometricupdate.com/202308/biometrics-broad-use-shows-importance-of-defending-against-deepfakes)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-08-19T14:38:12+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="650" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/20143038/deepfake-detection.png" width="1059" />
+		A wide range of biometrics applications are featured in the week’s top stories on <em>Biometric Update</em>, with the common theme of huge scale. Kenya's new national ID system now has a name, hundreds of biometric devices have been ordered to secure a European country’s borders, and a vape-maker is implementing selfie biometrics to resume selling to millions of consumers. Clear and Idemia are on opposite sides in a dispute over airport ID verification, and iProov’s CEO says the fraud threat from generative AI is beyond the common current understanding.
+<h2>Top biometrics news of the week</h2>
+Kenya’s new unique personal identifier will be known as <a href="https://www.biometricupdate.com/202308/kenya-signs-digital-id-support-deal-with-undp-introduces-a-new-namba">Maisha Namba</a>, and will be accompanied by a separate digital ID. These and other details were revealed during the announcement of an MoU between the government and the United Nations Development Programme to support the overall program. A public unveiling is slated for the beginning of October.
+
+Across the border in Uganda, <a href="https://www.biometricupdate.com/202308/rate-of-foreigners-acquiring-ugandan-national-id-is-alarming-govt-official-warns">foreigners have been obtaining national ID cards</a> in troubling numbers; as many as 10,000, according to an Internal Affairs Ministry spokesman. The lack of a central database and bribery are cited as causes, and the official expressed concern over potential impact in the 2026 elections.
+
+France has ordered <a href="https://www.biometricupdate.com/202308/france-orders-biometric-tablets-kiosks-in-prep-for-eu-entry-exit-system">hundreds of biometric kiosks and tablets</a> for deployment at its borders ahead of the implementation of the new EU EES protocols. While automated systems are often presented as time-saving improvements, many in France are worried the new system will take longer, after problems with Eurostar gates.
+
+A newly published <a href="https://www.biometricupdate.com/202308/new-apple-patents-for-emotion-recognition-and-macbook-face-authentication">Apple patent</a> application describes the use of emotion analysis to create expressive avatars. The estimation would rely on video data, but also a range of demographic and health data. The company has also had a patent granted for a hardware module that would bring Face ID to MacBooks.
+
+The Philippines has <a href="https://www.biometricupdate.com/202308/filipino-lawmakers-deplore-missed-target-for-biometric-id-card-production">missed its target for issuance of national ID cards</a> – by 56 million. The country has issued 36 million of the biometric cards so far, and the PSA head blames changes to the information contained in the cards’ QR code for delaying the rollout.
+
+Japan’s troubled digital ID program drew an apology from the Prime Minister, but the government plans to <a href="https://www.biometricupdate.com/202308/japan-trying-to-get-it-right-with-national-digital-id-public-losing-faith">continue integrating the My Number system</a> with healthcare and other public services. Data entry has been identified as a weakness in the system, and ministers have been instructed to search out the errors it contains. The country’s Digital Minister has offered to refund three months of his salary, and acknowledged the responsible agency was slow to address the registration errors, <a href="https://www.japantimes.co.jp/news/2023/08/15/japan/politics/kono-my-number-salary-return/">The Japan Times</a> reports.
+
+Juul has turned to an age verification app in an attempt to get a ban by U.S. regulators lifted. The app will use selfie biometrics and a government ID scan to <a href="https://www.biometricupdate.com/202308/juul-plans-to-re-enter-us-with-age-verification-e-cigarettes">prevent underage vaping</a>. Juul uses Jumio and Veratad for age verification to prevent underage online buyers.
+
+Idemia has reportedly been prodding American lawmakers to require more ID checks for Clear members. The two companies are effectively becoming <a href="https://www.biometricupdate.com/202308/idemia-lobbies-tsa-over-clear-identity-checks-amid-airport-market-share-competition">competitors for TSA PreCheck enrollment</a>. Six more airports in India and dozens of gates at Miami International are also getting biometrics.
+
+India’s central bank is setting up a platform to enable financial service providers to find the data they need to carry out <a href="https://www.biometricupdate.com/202308/indian-central-bank-to-pilot-open-banking-platform-using-aadhaar-kyc">automated rule-based lending</a> more easily. The system, which will be piloted soon, is reminiscent of open banking, with Aadhaar providing the KYC and e-signature functions.
+
+iProov CEO Andrew Bud urges biometrics industry participants to <a href="https://www.biometricupdate.com/202308/align-liveness-detection-with-cybersecurity-best-practices-to-stop-generative-ai">take an adaptive, process-oriented approach</a> to defending against the threat of spoofs made with generative AI in an interview with <em>Biometric Update</em>. He also asserts that the GSM half rate codec of 12.5 kbps is not enough data to protest against sophisticated fraud attacks.
+
+Liveness detection is proving highly effective at detecting deepfakes, by for instance <a href="https://www.biometricupdate.com/202308/unleashing-the-power-of-liveness-detection-a-game-changer-in-the-battle-against-deepfakes">identifying anomalies that reflect anatomic impossibilities</a>, Pindrop CEO and Co-founder Vijay Balasubramaniyan writes in a <em>Biometric Update</em> guest post. The 8,000 pieces of data each second provided by any audio channel are plenty, he argues.
+
+Please let us know about any opinion pieces, podcasts or other content you think we should share with the people who work in biometrics and the broader digital identity community through the comments below or social media.
+
