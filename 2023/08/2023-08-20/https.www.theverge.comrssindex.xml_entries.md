@@ -1,0 +1,116 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Russia’s Luna-25 space craft ‘ceased to exist’ after colliding with the Moon.
+ - [https://www.theverge.com/2023/8/20/23839240/russias-luna-25-space-craft-ceased-to-exist-after-colliding-with-the-moon](https://www.theverge.com/2023/8/20/23839240/russias-luna-25-space-craft-ceased-to-exist-after-colliding-with-the-moon)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T20:43:12+00:00
+
+<figure>
+      <img alt="A picture of a rocket just as it begins to launch on a cloudy day." src="https://cdn.vox-cdn.com/thumbor/IXRs3xnWo-EuAKC61J7csCHRqpU=/300x0:3540x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72561655/1593481765.0.jpg" />
+        <figcaption><em>Luna-25 launching from Russia earlier this month.</em> | Photo by Xinhua via Getty Images</figcaption>
+    </figure>
+
+  <p id="SsmXEm">Russia’s Luna-25 spacecraft <a href="https://www.reuters.com/business/aerospace-defense/russias-moon-mission-falters-after-problem-entering-pre-landing-orbit-2023-08-20/">failed to land on the Moon</a>, Roscosmos, Russia’s state-run space corporation, announced today. In a statement, the organization reported that the lander “ceased to exist as a result of a collision with the surface of the Moon.” It would’ve been the country’s first Moon landing since 1976.</p>
+<p id="Z9aO7L">Luna-25 <a href="https://www.reuters.com/technology/space/russias-luna-25-spacecraft-enters-lunar-orbit-space-agency-2023-08-16/">entered orbit</a> around the Moon last week, and was meant to orbit for just five days before landing on Monday, August 21st, but over the weekend, Roscosmos said it was analyzing a “technical glitch” that occurred <a href="https://www.reuters.com/technology/space/russias-luna-25-spacecraft-produces-first-results-space-agency-says-2023-08-19/">as it was preparing the craft</a> to move to a pre-landing orbit. Now the organization says Luna-25 has been lost.</p>
+<p id="TjB1yl">Russia was pushing to beat India’s Chandrayaan-3 mission to land on the Moon. That spacecraft <a href="https://www.theverge.com/2023/8/7/23823484/hello-there-moon">also...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/20/23839240/russias-luna-25-space-craft-ceased-to-exist-after-colliding-with-the-moon">Continue reading&hellip;</a>
+  </p>
+
+## Adobe co-founder Dr. John Warnock has died — he was 82
+ - [https://www.theverge.com/2023/8/20/23839212/adobe-co-founder-dr-john-warnock-has-died-he-was-82](https://www.theverge.com/2023/8/20/23839212/adobe-co-founder-dr-john-warnock-has-died-he-was-82)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T18:33:12+00:00
+
+<figure>
+      <img alt="An image of Dr. John Warnock, smiling and looking at someone out of frame. He is wearing glasses, has a short beard, and is wearing a black suit with a blue shirt and black tie." src="https://cdn.vox-cdn.com/thumbor/HilZ7o9wfcC-ZfutOM_gLQ_m-tw=/0x0:2400x1600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72561493/1314099276.0.jpg" />
+        <figcaption><em>Dr. John Warnock in 2009.</em> | Photo by Patrick Tehan/MediaNews Group/The Mercury News via Getty Images</figcaption>
+    </figure>
+
+  <p id="TQSNeg">Adobe co-founder <a href="https://news.adobe.com/news/news-details/2023/Adobe-Co-Founder-Dr.-John-Warnock-Passes-at-82/default.aspx">Dr. John Warnock passed away</a> on Saturday at the age of 82, Adobe announces today. A cause of death has not been released; he is survived by his wife, graphic designer Marva Warnock, and his three children.</p>
+<p id="Fky471">Warnock founded the revolutionary software company Adobe with his partner, the now-<a href="https://www.theverge.com/2021/4/18/22390452/charles-geschke-cofounder-adobe-inventor-pdf-obituary">late Dr. Charles Geschke</a>, in 1982. Marva Warnock <a href="https://www.theverge.com/2023/6/29/23778307/adobe-logo-wordmark-ai-marketing">designed the company’s original logo</a>, and Adobe released its first program, the desktop publishing software Adobe PostScript, two years later. Warnock served mostly as the company’s CEO until 2000 and was co-chairman of the board along with Geschke until 2017. Warnock remained on the company board of directors afterward. </p>
+<p id="GPzEWC">Warnock was “one of the greatest inventors in our generation with...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/20/23839212/adobe-co-founder-dr-john-warnock-has-died-he-was-82">Continue reading&hellip;</a>
+  </p>
+
+## SwitchBot says its new smart curtain controller is stronger and quieter
+ - [https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger](https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T16:11:19+00:00
+
+<figure>
+      <img alt="A picture of a person’s hands installing the SwitchBot 3 on a telescoping curtain rod." src="https://cdn.vox-cdn.com/thumbor/6F7u32AHrnazCqsXdVzTWe4lImg=/0x10:1066x721/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72561274/curtain_3_main_image.0.png" />
+        <figcaption><em>The SwitchBot Curtain 3 on a telescoping rod.</em> | Image: SwitchBot</figcaption>
+    </figure>
+
+  <p id="TZGhBJ">SwitchBot <a href="https://blog.switch-bot.com/its-now-even-better-than-ever-before-switchbot-curtain-3-is-here/">has announced the Curtain 3</a>, a smart curtain controller it says will be quieter than the Curtain 2, and twice as strong. The company also claims a new, improved (and separately available) solar panel will offer “true unlimited battery power,” something the previous panel didn’t quite achieve. The Curtain 3 and the SwitchBot Solar Panel 3 will retail for $89.99 (£89.99 / €89.99) and $25.99 (£25.99 / €25.99), respectively, when they release on August 25th.</p>
+<p id="zL8xjt">The Curtain 3 is, as the name suggests, the third iteration of the company’s smart curtain controller. It can now pull up to 36 pounds (16kg), according to the company, which is more than double the Curtain 2’s 17lb weight limit. Like the Curtain 2, the new curtain controller...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/20/23838496/switchbot-curtain-3-matter-apple-home-solar-panel-stronger">Continue reading&hellip;</a>
+  </p>
+
+## In Good Omens, diversity is divine
+ - [https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation](https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T13:00:00+00:00
+
+<figure>
+      <img alt="Promotional imagery for Good Omens season 2." src="https://cdn.vox-cdn.com/thumbor/_umWjPds3DVxLOtm1WMIwNdyYAs=/0x20:1920x1300/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72560930/Good_Omen_2_hed.0.jpg" />
+        <figcaption><em>Good Omens second season highlights how good queer and disabled representation could be in the fantasy genre.</em> | Image: Amazon</figcaption>
+    </figure>
+
+  <p id="kvdIGK"><em><strong>Warning: Spoilers ahead for season 2 of Amazon Prime’s Good Omens</strong></em></p>
+<p id="EPMh9e">With the release of <a href="https://www.theverge.com/23807387/good-omens-season-2-review-amazon-prime-video">the second season of <em>Good Omens</em> on July 28th</a>, writer Neil Gaiman has officially (and rather devastatingly) put any accusations of queerbaiting to bed. Leaving very little room for interpretation, Crowley and Aziraphale — the respectively demonic and angelic main characters of the Amazon fantasy-comedy series — engaged in some distressingly emotional snogging during the last moments of this season’s final episode, thereby ending over 30 years of speculation about the nature of their relationship. The fight is over. The shippers have won.</p>
+<p id="YScTUj">Well, not <em>just</em> the shippers.</p>
+<p id="OmJtyr">I’ll provide some context for those of you who aren’t chronically online: “shipping”...</p>
+  <p>
+    <a href="https://www.theverge.com/2023/8/20/23837230/good-omens-season-2-diversity-lgbtq-queer-disabled-representation">Continue reading&hellip;</a>
+  </p>
+
+## X glitch wipes out most pictures and links tweeted before December 2014
+ - [https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T12:04:17+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/NKH-MNfJFaiGCgS-foiRNI5UQzw=/0x0:3001x2001/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72560899/STK160_X_Twitter_006.0.jpg" />
+        <figcaption>The Verge</figcaption>
+    </figure>
+
+  <p id="zgZDfV">X, which was formerly known as Twitter until its recent rebranding, is having a problem displaying old posts that came with images attached or any hyperlinks converted through Twitter’s built-in URL shortener. It’s unclear when the problem started, but it was <a href="https://twitter.com/tomcoates/status/1692922211416334597">highlighted on Saturday afternoon in a post by Tom Coates</a>, and a Brazilian vtuber, <a href="https://twitter.com/DaniloTakagi/status/1692256500700299436">@DaniloTakagi,</a> had pointed it out a couple of days earlier. </p>
+<p id="n5UAsT">As it is, it appears to affect tweets published prior to December 2014, judging by posts visible on my own account. No videos are affected (Twitter only added native image support <a href="https://www.theverge.com/2012/12/11/3756054/twitter-in-house-image-hosting-blobstore">in 2011</a> and built-in videos in 2016), but links to YouTube, for example, are now just text with a t.co URL that doesn’t work.</p>
+<div class="c-float-left c-float-hang">  <figure class="e-image">
+        
+      <cite>Image: Screenshot...</cite></figure>
+</div>
+  <p>
+    <a href="https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener">Continue reading&hellip;</a>
+  </p>
+
+## Installer: An AI search engine and the coolest speakers ever
+ - [https://www.theverge.com/23837263/ai-search-perplexity-section-230-tech-documentaries-installer](https://www.theverge.com/23837263/ai-search-perplexity-section-230-tech-documentaries-installer)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T12:00:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/4aS9llK7l9Pu9LIHnb2I5hgFRqw=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72560887/Installer_Site_Post_01.0.jpg" />
+        <figcaption>Image: William Joel / The Verge</figcaption>
+    </figure>
+
+  <p id="MUkCMx">Hi, friends! Welcome back to issue No. 2 of <em>Installer</em>, your guide to all the best and <em>Verge</em>-iest stuff in the world. Thanks so much to everyone who’s been emailing, commenting, sending feedback, and telling me what you want to see in this series going forward. I love chatting with you all about what you’re building, what you’re binge-watching, and everything else. </p>
+<p id="lgJv0b">Two housekeeping things: first, a bunch of you told me you didn’t like the whole “(link)” thing, both for aesthetic and accessibility reasons. Fair and fair! So we’re just scrapping it. From now on, it’ll be simpler: I’ll <strong>bold </strong>the most important link – the direct link to the thing we’re talking about — and regular link everything else. Thanks to everyone who emailed and...</p>
+  <p>
+    <a href="https://www.theverge.com/23837263/ai-search-perplexity-section-230-tech-documentaries-installer">Continue reading&hellip;</a>
+  </p>
+
+## LG Gram Style review: a beautiful mess
+ - [https://www.theverge.com/23837288/lg-gram-style-2023-review-price-specs-features](https://www.theverge.com/23837288/lg-gram-style-2023-review-price-specs-features)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-08-20T12:00:00+00:00
+
+<p>I’ve never seen a laptop that looks quite like this. I’ve also never seen a laptop with its particular set of problems.</p>
+  <p>
+    <a href="https://www.theverge.com/23837288/lg-gram-style-2023-review-price-specs-features">Continue reading&hellip;</a>
+  </p>
+
