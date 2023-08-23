@@ -1,0 +1,9 @@
+# Source:Seth's Blog, URL:https://seths.blog/feed, language:en-US
+
+## Childish or childlike?
+ - [https://seths.blog/2023/08/childish-or-childlike/](https://seths.blog/2023/08/childish-or-childlike/)
+ - RSS feed: https://seths.blog/feed
+ - date published: 2023-08-22T08:06:00+00:00
+
+Childlike involves wonder. It&#8217;s the ability to see the world with fresh eyes and create magic. Childish, on the other hand, is living as if there are no consequences. Over time, we&#8217;ve gotten very good at meauring the long and short-term consequences of our actions. And good at ignoring them. Adults do well when they [&#8230;]
+
