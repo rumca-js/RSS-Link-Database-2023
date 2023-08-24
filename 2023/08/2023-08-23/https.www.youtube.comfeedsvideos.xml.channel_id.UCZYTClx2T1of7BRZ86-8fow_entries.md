@@ -1,0 +1,175 @@
+# Source:SciShow, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow, language:en-US
+
+## How Can Microbes Protect Crops From Drought?
+ - [https://www.youtube.com/watch?v=37teLcOjHrs](https://www.youtube.com/watch?v=37teLcOjHrs)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2023-08-23T21:11:36.145955+00:00
+
+Solving food shortages caused by droughts is a big challenge that may benefit from a tiny ally. Turns out that the microbes living in the soil around plants can give them a boost when water's scarce, which means more food for us, which is a big win!
+
+Hosted by: Hank Green (he/him)
+
+Support for this video provided by Gates Ventures.
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Adam Brainard, Alex Hackman, Ash, Bryan Cloer, charles george, Chris Mackey, Chris Peters, Christoph Schwanke, Christopher R Boucher, Dr. Melvin Sanicas, Harrison Mills, Jaap Westera, Jason A Saslow, Jeffrey Mckishen, Kevin Bealer, Matt Curls, Michelle Dove, Piya Shedden, Rizwan Kassim, Sam Lutfi, Silas Emrys
+----------
+Looking for SciShow elsewhere on the internet?
+SciShow Tangents Podcast: https://scishow-tangents.simplecast.com/
+TikTok: https://www.tiktok.com/@scishow 
+Twitter: http://www.twitter.com/scishow
+Instagram: http://instagram.com/thescishow
+Facebook: http://www.facebook.com/scishow
+
+#SciShow #science #education #learning #complexly
+----------
+Sources:
+https://iopscience.iop.org/article/10.1088/1748-9326/abf004
+https://www.cgiar.org/innovations/climate-smart-maize/
+https://pubmed.ncbi.nlm.nih.gov/37212977/
+https://www.sciencedirect.com/science/article/pii/S2666916121000190
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7911879/
+https://iopscience.iop.org/article/10.1088/1748-9326/abf004/meta
+https://iopscience.iop.org/article/10.1088/1748-9326/abd970
+https://www.pnas.org/doi/full/10.1073/pnas.1717308115
+https://link.springer.com/protocol/10.1007/978-1-4939-7136-7_4
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5269684/
+https://pubmed.ncbi.nlm.nih.gov/24571749/
+
+Image Sources:
+https://www.gettyimages.com/detail/photo/young-corn-growing-in-dry-environment-royalty-free-image/695939380?phrase=drought+crop&amp;adppopup=true
+https://www.gettyimages.com/detail/illustration/cartoon-bacteria-and-virus-under-a-royalty-free-illustration/1365359792?phrase=microbe&amp;adppopup=true
+https://www.gettyimages.com/detail/video/earth-global-warming-stock-footage/542424306?adppopup=true
+https://www.gettyimages.com/detail/video/sunflower-fields-are-affected-by-drought-stock-footage/1309088258?adppopup=true
+https://www.gettyimages.com/detail/video/close-up-shot-of-ripe-corn-heads-with-corn-whiskers-and-stock-footage/1480547231?adppopup=true
+https://www.gettyimages.com/detail/video/dying-green-plant-time-lapse-in-pot-no-rain-no-water-no-stock-footage/1369186477?adppopup=true
+https://www.gettyimages.com/detail/video/sunken-boat-stock-footage/1456428870?adppopup=true
+https://www.gettyimages.com/detail/video/dead-corn-field-row-hd-stock-footage/473047071?adppopup=true
+https://www.gettyimages.com/detail/video/wilted-garden-plant-stock-footage/1354552417?adppopup=true
+https://www.gettyimages.com/detail/photo/cornfield-with-corn-crop-damage-and-cracked-soil-royalty-free-image/1339849066?phrase=drought+&amp;adppopup=true
+https://www.gettyimages.com/detail/video/4k-video-footage-showing-an-aerial-view-of-a-large-crowd-stock-footage/1424184696?adppopup=true
+https://www.gettyimages.com/detail/photo/barren-land-royalty-free-image/984020220?phrase=grain+drought&amp;adppopup=true
+https://www.gettyimages.com/detail/video/withered-plants-in-the-field-wasted-crops-destroyed-stock-footage/1423053227?adppopup=true
+https://www.gettyimages.com/detail/video/corn-field-stock-footage/1395804301?adppopup=true
+https://commons.wikimedia.org/wiki/File:Microbiome_in_plant_ecosystem.jpg
+https://www.gettyimages.com/detail/photo/intestinal-microbiome-medical-concept-royalty-free-image/1196631894?phrase=microbiome&amp;adppopup=true
+https://commons.wikimedia.org/wiki/File:The_plant_microbiome.jpg
+https://www.gettyimages.com/detail/video/bacterium-closeup-stock-footage/1200978722?adppopup=true
+https://www.gettyimages.com/detail/video/growing-vegetable-seed-in-timelapse-lone-concept-sprouts-stock-footage/1318445020?adppopup=true
+https://www.gettyimages.com/detail/photo/sunny-plantation-with-growing-soya-royalty-free-image/1405435576?phrase=agriculture&amp;adppopup=true
+https://www.gettyimages.com/detail/photo/corn-crops-suffer-as-drought-continues-corn-field-royalty-free-image/1262433851?phrase=drought+field&amp;adppopup=true
+https://commons.wikimedia.org/wiki/File:گل_خارشتر_روییده_در_آبپخش.jpg
+https://www.gettyimages.com/detail/video/wheat-crop-field-swaying-though-wind-stock-footage/1051196760?adppopup=true
+https://www.gettyimages.com/detail/video/capia-peppers-on-the-greenhouse-stock-footage/1381571335?adppopup=true
+https://www.gettyimages.com/detail/photo/tractor-spray-fertilizer-on-green-field-royalty-free-image/1249522339?phrase=fertilizer&amp;adppopup=true
+https://www.gettyimages.com/detail/video/close-up-of-a-farmer-legs-goes-with-rubber-boots-along-stock-footage/1406054154?adppopup=true
+
+## How to germinate plants in a drought. #shorts #science #stem #scishow
+ - [https://www.youtube.com/watch?v=rqOFmMZinoc](https://www.youtube.com/watch?v=rqOFmMZinoc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2023-08-23T20:06:32.015135+00:00
+
+Getting plants to sprout takes more than just a green thumb. And researchers are working to crack the code on how to get more plants to germinate faster, to help farms do better!
+
+Hosted by: Hank Green (he/him)
+Emma Dauster: Writer
+Rachel Garner: Fact Checker
+Amy Peterson: Script Editor
+Madison Lynn: Videographer
+Hiroka Matsushima: Script Supervisor
+Stefan Chin: Editor
+Daniel Comiskey: Editorial Director
+Savannah Geary: Producer
+Nicole Sweeney: Executive Producer
+Hank Green: Executive Producer
+
+Sources: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8513799/  
+
+Images:
+https://www.gettyimages.com/detail/video/seed-germination-and-time-lapse-with-lens-flare-macro-stock-footage/1164177646?adppopup=true
+https://www.gettyimages.com/detail/video/sunflower-fields-are-affected-by-drought-stock-footage/1309088258?adppopup=true
+https://www.gettyimages.com/detail/photo/planting-seeds-royalty-free-image/527229644?phrase=plant+seed&amp;adppopup=true
+https://www.gettyimages.com/detail/video/timelapse-video-of-overground-view-of-three-soybeans-stock-footage/1395203331?adppopup=true
+https://www.gettyimages.com/detail/photo/dry-field-royalty-free-image/186794056?phrase=drought+crops&amp;adppopup=true
+
+## 5 Animals That Have Bone Skin
+ - [https://www.youtube.com/watch?v=58zfIvyPYLU](https://www.youtube.com/watch?v=58zfIvyPYLU)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+ - date published: 2023-08-23T00:37:11.610405+00:00
+
+From the long extinct Stegosaurus, to tiny modern mice, all sorts of animals grow bits of bones inside their skin. These structures are called osteoderms, and they're often more than just a suit of armor.
+
+Hosted by: Savannah Geary (they/them)
+
+Learn more about ancient crocs: https://youtu.be/vh2wRYQPCPk
+----------
+Support SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow
+----------
+Huge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Adam Brainard, Alex Hackman, Ash, Bryan Cloer, charles george, Chris Mackey, Chris Peters, Christoph Schwanke, Christopher R Boucher, Dr. Melvin Sanicas, Harrison Mills, Jaap Westera, Jason A Saslow, Jeffrey Mckishen, Kevin Bealer, Matt Curls, Michelle Dove, Piya Shedden, Rizwan Kassim, Sam Lutfi, Silas Emrys
+----------
+Looking for SciShow elsewhere on the internet?
+SciShow Tangents Podcast: https://scishow-tangents.simplecast.com/
+TikTok: https://www.tiktok.com/@scishow 
+Twitter: http://www.twitter.com/scishow
+Instagram: http://instagram.com/thescishow
+Facebook: http://www.facebook.com/scishow
+
+#SciShow #science #education #learning #complexly
+----------
+Sources:
+https://onlinelibrary.wiley.com/doi/10.1111/j.1469-7580.2008.01043.x 
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/jmor.10575 
+https://onlinelibrary.wiley.com/doi/10.1111/brv.12788 
+https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.12414 
+https://hal-mnhn.archives-ouvertes.fr/mnhn-02557596/file/S0944200618300795.pdf , https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.23695 
+https://www.sciencedirect.com/science/article/pii/S1751616117302448?via%3Dihub https://royalsocietypublishing.org/doi/10.1098/rspb.2012.0558, https://doi.org/10.1098/rstb.2019.0131 
+https://link.springer.com/article/10.1007/s00015-010-0021-5 
+https://pubs.geoscienceworld.org/paleobiol/article-abstract/31/2/291/86455/The-evolution-and-function-of-thyreophoran
+https://newsarchive.berkeley.edu/news/media/releases/2005/05/16_stego.shtml 
+https://www.nature.com/articles/ncomms1578 , https://doi.org/10.1080/02724634.2014.905791
+https://hal-mnhn.archives-ouvertes.fr/mnhn-02557596/file/S0944200618300795.pdf 
+https://zslpublications.onlinelibrary.wiley.com/doi/epdf/10.1111/jzo.12272 
+https://journals.biologists.com/jeb/article/206/20/3601/9316/Lactate-sequestration-by-osteoderms-of-the-broad 
+https://www.eurekalert.org/news-releases/989670 https://www.eurekalert.org/news-releases/989964 https://www.cell.com/action/showPdf?pii=S2589-0042%2823%2900856-8 
+https://www.nature.com/articles/s41598-023-33244-6 
+https://naturalhistory.si.edu/education/teaching-resources/life-science/early-life-earth-animal-origins#:~:text=The%20First%20Animals&amp;text=Sponges%20were%20among%20the%20earliest,to%20sponges%20developing%20even%20earlier.
+https://www.biorxiv.org/content/10.1101/2022.10.17.512575v1.full.pdf
+https://www.sciencedirect.com/science/article/abs/pii/S1751616110001888#:~:text=Our%20suggestion%20is%20that%20the,against%20predators%27%20claws%20and%20teeth.
+https://ufwildlife.ifas.ufl.edu/snakes/leglesslizards.shtml#:~:text=Glass%20lizards%20are%20legless%2C%20and,bodies%20very%20hard%20and%20brittle.
+https://link.springer.com/chapter/10.1007/978-3-662-00989-5_35
+
+Images:
+https://www.gettyimages.com
+https://www.eurekalert.org/multimedia/838021
+https://www.frontiersin.org/articles/10.3389/fendo.2023.1108916/full
+https://www.eurekalert.org/multimedia/985651
+https://commons.wikimedia.org/wiki/File:UranomysSierraLeone.jpg
+https://www.nature.com/articles/s41598-023-33244-6/figures/2
+https://www.nature.com/articles/s41598-023-33244-6/figures/1
+https://www.nature.com/articles/s41598-023-33244-6
+https://www.inaturalist.org/observations/105089806
+https://commons.wikimedia.org/wiki/File:Russells_Boa.jpg
+https://www.inaturalist.org/observations/1971107
+https://www.inaturalist.org/observations/101607506
+https://www.inaturalist.org/observations/169849411
+https://www.inaturalist.org/observations/58812563
+https://www.nature.com/articles/s41598-019-55768-6
+https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.23695#
+https://commons.wikimedia.org/wiki/File:Lactate-3D-balls.png
+https://www.inaturalist.org/observations/37147547
+https://commons.wikimedia.org/wiki/File:Stegosaurus_(7990880323).jpg
+https://commons.wikimedia.org/wiki/File:DMSN_dinosaurs.jpg
+https://commons.wikimedia.org/wiki/File:Journal.pone.0138352.g001A.jpg
+https://commons.wikimedia.org/wiki/File:Rapetosaurus_BW.jpg
+https://www.nature.com/articles/srep42035#Fig4
+https://commons.wikimedia.org/wiki/File:Rapetosaurus.jpg
+https://www.inaturalist.org/observations/145272213
+https://commons.wikimedia.org/wiki/File:Rapetosaurus_krausei_Skeletal.png
+https://commons.wikimedia.org/wiki/File:Seymouria2.jpg
+https://commons.wikimedia.org/wiki/File:Common_spiny_mouse.JPG
+https://www.inaturalist.org/observations/164370951
+https://www.inaturalist.org/observations/167025058
+https://commons.wikimedia.org/wiki/File:Aegisuchus.png
+
