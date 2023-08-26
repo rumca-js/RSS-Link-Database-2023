@@ -1,0 +1,219 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## China outraged over Fukushima power plant water release
+ - [https://www.lemonde.fr/en/environment/article/2023/08/26/china-outraged-over-fukushima-power-plant-water-release_6108868_114.html](https://www.lemonde.fr/en/environment/article/2023/08/26/china-outraged-over-fukushima-power-plant-water-release_6108868_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T22:58:59.214224+00:00
+
+Chinese citizens are angry and concerned over potential contamination and its health and environmental impact.
+
+## Noah Lyles makes history while winning third world 200m title
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/noah-lyles-makes-history-while-winning-third-world-200m-title_6108834_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/noah-lyles-makes-history-while-winning-third-world-200m-title_6108834_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T21:54:06.798889+00:00
+
+Noah Lyles won the 200-meter world title Friday in 19.52 seconds, becoming the first man to complete the 100-200 sprint double at the World Athletics Championships since Usain Bolt did it for the third and final time back in 2015.
+
+## Russian investigators claim to recover ten bodies and flight recorders from Prigozhin plane crash
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/russian-investigators-claim-to-recover-ten-bodies-and-flight-recorders-from-prigozhin-plane-crash_6108734_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/russian-investigators-claim-to-recover-ten-bodies-and-flight-recorders-from-prigozhin-plane-crash_6108734_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T21:54:06.797238+00:00
+
+Russia's Investigative Committee said the investigation is ongoing and that 'molecular genetic analyses are being carried out to establish their identities.'
+
+## Spain's 23 World Cup winners initiate strike against federation leadership
+ - [https://www.lemonde.fr/en/football/article/2023/08/25/spain-s-23-world-cup-winners-initiate-strike-against-federation-leadership_6108700_130.html](https://www.lemonde.fr/en/football/article/2023/08/25/spain-s-23-world-cup-winners-initiate-strike-against-federation-leadership_6108700_130.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T20:49:12.829390+00:00
+
+Spanish midfielder Jenni Hermoso on Friday spoke out against alleged assault by the football federation president saying she felt 'vulnerable and the victim of an assault'.
+
+## Niger’s junta asks the French ambassador to leave the country
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/08/25/niger-s-junta-asks-the-french-ambassador-to-leave-the-country_6108666_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/08/25/niger-s-junta-asks-the-french-ambassador-to-leave-the-country_6108666_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T19:44:38.211051+00:00
+
+The move further escalates the international crisis in the West African nation stemming from a coup that ousted Niger's democratically elected president.
+
+## Canada thrash France to open Basketball World Cup with statement win
+ - [https://www.lemonde.fr/en/sports/article/2023/08/25/canada-thrash-france-to-open-basketball-world-cup-with-statement-win_6108567_9.html](https://www.lemonde.fr/en/sports/article/2023/08/25/canada-thrash-france-to-open-basketball-world-cup-with-statement-win_6108567_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T17:33:50.649175+00:00
+
+Canada outscored their opponents 25-8 in the third quarter to run away with the game in the Indonesian capital of Jakarta.
+
+## British Museum director resigns after spate of thefts
+ - [https://www.lemonde.fr/en/united-kingdom/article/2023/08/25/british-museum-director-resigns-after-spate-of-thefts_6108600_135.html](https://www.lemonde.fr/en/united-kingdom/article/2023/08/25/british-museum-director-resigns-after-spate-of-thefts_6108600_135.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T17:33:50.639891+00:00
+
+A staff member was dismissed last week after items including gold jewelery and gems of semi-precious stones and glass dating from the 15th century BC to the 19th century were 'missing or stolen.'
+
+## France beat heat records on Thursday for fourth straight day
+ - [https://www.lemonde.fr/en/france/article/2023/08/25/france-beat-heat-records-on-thursday-for-fourth-straight-day_6108428_7.html](https://www.lemonde.fr/en/france/article/2023/08/25/france-beat-heat-records-on-thursday-for-fourth-straight-day_6108428_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T16:29:07.449713+00:00
+
+With a nationwide average temperature of 27.8°C over 24 hours, Thursday was the hottest day ever measured later in the year than August 15.
+
+## Ukraine celebrates the spirit of resistance despite a long-lasting war
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/ukraine-celebrates-the-spirit-of-resistance-despite-a-long-lasting-war_6108325_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/ukraine-celebrates-the-spirit-of-resistance-despite-a-long-lasting-war_6108325_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T16:29:07.441869+00:00
+
+The people of Kyiv celebrated Ukraine's National Flag Day and Independence Day on Wednesday and Thursday, August 23 and 24, all while the country's counter-offensive against Russia has made slow progress.
+
+## The many lives of Yevgeny Prigozhin
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/the-many-lives-of-yevgeny-prigozhin_6108527_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/the-many-lives-of-yevgeny-prigozhin_6108527_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T16:29:07.439938+00:00
+
+Vladimir Putin's former ally – a repeat offender, businessman, media mogul, chef, populist, mercenary and repentant mutineer – is thought to have been killed when his plane crashed on August 23.
+
+## The monsoon, a weather phenomenon in the throes of disruption
+ - [https://www.lemonde.fr/en/summer-reads/article/2023/08/24/the-monsoon-a-weather-phenomenon-in-the-throes-of-disruption_6106990_183.html](https://www.lemonde.fr/en/summer-reads/article/2023/08/24/the-monsoon-a-weather-phenomenon-in-the-throes-of-disruption_6106990_183.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T14:22:43.305899+00:00
+
+'The Earth's Pulses' (4/6). Agriculture in South Asia, particularly India, depends on the monsoon providing the manna of rainfall. However, the rainy season is in the throes of disruption.
+
+## Racism flares up as Greeks blame migrants for wildfires
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/racism-flares-up-as-greeks-blame-migrants-for-wildfires_6108292_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/racism-flares-up-as-greeks-blame-migrants-for-wildfires_6108292_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T14:22:43.289765+00:00
+
+On the Greek-Turkish border, where forest fires have been burning for six days, groups of locals are accusing migrants of starting the fires.
+
+## Future uncertain for Wagner troops in Belarus after Prigozhin's presumed death
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/future-uncertain-for-wagner-troops-in-belarus-after-prigozhin-s-presumed-death_6108256_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/future-uncertain-for-wagner-troops-in-belarus-after-prigozhin-s-presumed-death_6108256_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T14:22:43.283596+00:00
+
+Some 5,000 mercenaries from the private militia settled in exile in Belarus, an ally of Moscow, after their failed mutiny in Russia at the end of June.
+
+## Denmark plans legislation to prevent Quran burnings
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/denmark-plans-legislation-to-prevent-quran-burnings_6108155_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/denmark-plans-legislation-to-prevent-quran-burnings_6108155_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T13:19:10.033650+00:00
+
+The Danish government plans to criminalize 'the improper treatment of objects of significant religious importance,' following outcry over a string of recent desecrations in Denmark and Sweden.
+
+## BRICS decide to welcome new members, under pressure from Beijing and Moscow
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/brics-decide-to-welcome-new-members-under-pressure-from-beijing-and-moscow_6108157_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/brics-decide-to-welcome-new-members-under-pressure-from-beijing-and-moscow_6108157_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T13:19:10.027565+00:00
+
+Meeting at a summit in Johannesburg, Brazil, Russia, India, China and South Africa ratified the expansion of their group to include six new countries, including Iran and Saudi Arabia, from January 1, 2024.
+
+## Kremlin denies being behind Prigozhin plane crash
+ - [https://www.lemonde.fr/en/russia/article/2023/08/25/kremlin-denies-being-behind-prigozhin-plane-crash_6108118_140.html](https://www.lemonde.fr/en/russia/article/2023/08/25/kremlin-denies-being-behind-prigozhin-plane-crash_6108118_140.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T13:19:10.022498+00:00
+
+The Russian president's spokesman, Dmitry Peskov, said the incident was 'tragic' but called speculation that the Kremlin ordered the assassination of the head of the Wagner group 'an absolute lie.'
+
+## Sarkozy to go on trial over Libya financing for election campaign
+ - [https://www.lemonde.fr/en/france/article/2023/08/25/former-president-nicolas-sarkozy-to-go-on-trial-over-libya-financing-for-election-campaign_6108081_7.html](https://www.lemonde.fr/en/france/article/2023/08/25/former-president-nicolas-sarkozy-to-go-on-trial-over-libya-financing-for-election-campaign_6108081_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T11:10:53.015988+00:00
+
+France's former president will go on trial along with 12 others on charges that he received millions from Moammar Gadhafi's government for his 2007 presidential campaign.
+
+## Basketball World Cup: France dream of gold as key players return to action
+ - [https://www.lemonde.fr/en/sports/article/2023/08/25/basketball-world-cup-france-dream-of-gold-as-key-players-return-to-action_6107979_9.html](https://www.lemonde.fr/en/sports/article/2023/08/25/basketball-world-cup-france-dream-of-gold-as-key-players-return-to-action_6107979_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T11:10:53.013825+00:00
+
+Since winning the European title in Slovenia in 2013, France has been racking up silver and bronze medals. This year the team is counting on the veterans Nicolas Batum and Nando De Colo to give them another taste of gold – even in the absence of Victor Wembanyama.
+
+## Spain football boss refuses to resign despite forced kiss uproar
+ - [https://www.lemonde.fr/en/sports/article/2023/08/25/spain-football-boss-refuses-to-resign-despite-forced-kiss-uproar_6108079_9.html](https://www.lemonde.fr/en/sports/article/2023/08/25/spain-football-boss-refuses-to-resign-despite-forced-kiss-uproar_6108079_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T11:10:53.007295+00:00
+
+Luis Rubiales told an emergency general assembly of the Spanish football federation he would not resign, and claimed he was a victim of a witch hunt by "false feminists."
+
+## Musk vs Zuckerberg: Chronicle of an aborted fight
+ - [https://www.lemonde.fr/en/pixels/article/2023/08/25/musk-vs-zuckerberg-chronicle-of-an-aborted-fight_6107944_13.html](https://www.lemonde.fr/en/pixels/article/2023/08/25/musk-vs-zuckerberg-chronicle-of-an-aborted-fight_6107944_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T10:05:55.224658+00:00
+
+The mixed martial arts fight between the two billionaires was meant to take place on August 26. But the Tesla founder kept backing down, meaning the Meta CEO has, in a way, scored a technical knockout victory.
+
+## EU law forcing Big Tech to regulate content comes into force
+ - [https://www.lemonde.fr/en/economy/article/2023/08/25/eu-law-forcing-big-tech-to-regulate-content-comes-into-force_6107876_19.html](https://www.lemonde.fr/en/economy/article/2023/08/25/eu-law-forcing-big-tech-to-regulate-content-comes-into-force_6107876_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T09:00:45.192856+00:00
+
+From August 25, the 19 largest digital platforms in Europe are now subject to the Digital Services Act, designed to get rid of non-transparent practices and take illegal content off social media, search engines and other major websites.
+
+## War in Ukraine: Ukrainian drone attacks in Russia intensify
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/war-in-ukraine-ukrainian-drone-attacks-in-russia-intensify_6107838_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/war-in-ukraine-ukrainian-drone-attacks-in-russia-intensify_6107838_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T09:00:45.189372+00:00
+
+The increase in Ukrainian strikes using unmanned aerial vehicles not only casts doubt on the performance of Russian anti-aircraft systems, but also worries some of Kyiv's allies, who fear an escalation of the war.
+
+## Politics and justice collide as Donald Trump is briefly arrested in Atlanta
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/politics-and-justice-collide-as-donald-trump-is-briefly-arrested-in-atlanta_6107671_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/politics-and-justice-collide-as-donald-trump-is-briefly-arrested-in-atlanta_6107671_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T06:52:54.804013+00:00
+
+The former US president appeared in court in Georgia on Thursday, where he faces a fourth indictment. He later called it 'a travesty of justice.'
+
+## US intelligence assessment determines intentionally caused explosion killed Wagner chief
+ - [https://www.lemonde.fr/en/international/article/2023/08/24/us-intelligence-assessment-determines-intentionally-caused-explosion-killed-wagner-chief_6107159_4.html](https://www.lemonde.fr/en/international/article/2023/08/24/us-intelligence-assessment-determines-intentionally-caused-explosion-killed-wagner-chief_6107159_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T04:44:11.011129+00:00
+
+One of the officials, who were not authorized to comment and spoke on the condition of anonymity, said Thursday that the explosion fell in line with Russian President Vladimir Putin’s 'long history of trying to silence his critics.'
+
+## Russia says it thwarted Ukrainian attack on Crimea involving 42 drones
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/russia-says-it-thwarted-ukrainian-attack-on-crimea-involving-42-drones_6107549_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/russia-says-it-thwarted-ukrainian-attack-on-crimea-involving-42-drones_6107549_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T04:44:11.009550+00:00
+
+Moscow said on Friday its forces had thwarted a Ukrainian attempt to attack Russia-annexed Crimea with 42 drones overnight.
+
+## Germany doubts its ability to emerge from economic lethargy
+ - [https://www.lemonde.fr/en/economy/article/2023/08/25/germany-doubts-its-ability-to-emerge-from-economic-lethargy_6107587_19.html](https://www.lemonde.fr/en/economy/article/2023/08/25/germany-doubts-its-ability-to-emerge-from-economic-lethargy_6107587_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T03:38:48.033345+00:00
+
+The country, which is likely to be in recession in 2023, is discovering with dismay the fragility of 'made in Germany.' But for many experts, Europe's leading economy still has powerful assets.
+
+## Niger: Anatomy of a coup
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/08/25/niger-anatomy-of-a-coup_6107554_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/08/25/niger-anatomy-of-a-coup_6107554_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T03:38:48.031799+00:00
+
+One month ago, President Mohamed Bazoum was detained by the members of the presidential guard. Though he has not formally resigned, the junta has quickly settled in, reshuffling the deck once again in the unstable Sahel region.
+
+## In the Indian state of Haryana, Hindu extremists are 'hunting down' Muslims with impunity
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/in-the-indian-state-of-haryana-hindu-extremists-are-hunting-down-muslims-with-impunity_6107478_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/in-the-indian-state-of-haryana-hindu-extremists-are-hunting-down-muslims-with-impunity_6107478_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T02:33:40.896312+00:00
+
+Following religious violence between Hindus and Muslims in late July, radical groups like the Bajrang Dal, linked to broader organizations advocating the supremacy of the country's majority religion, are sowing terror in a climate of impunity.
+
+## Niger to let Burkina, Mali to intervene on its soil if attacked
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/niger-to-let-burkina-mali-to-intervene-on-its-soil-if-attacked_6107443_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/niger-to-let-burkina-mali-to-intervene-on-its-soil-if-attacked_6107443_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T01:29:32.118810+00:00
+
+The officers who took power in Niger last month said Thursday, they would authorize the armies of neighboring Burkina Faso and Mali to intervene in the country 'in the event of aggression'.
+
+## Temu successfully exports its ultra-discount online sales model outside China
+ - [https://www.lemonde.fr/en/economy/article/2023/08/25/temu-successfully-exports-its-ultra-discount-online-sales-model-outside-china_6107338_19.html](https://www.lemonde.fr/en/economy/article/2023/08/25/temu-successfully-exports-its-ultra-discount-online-sales-model-outside-china_6107338_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T00:23:58.574438+00:00
+
+Following in the footsteps of TikTok and Shein, the platform illustrates the success of a new generation of Chinese companies that have succeeded in going global.
+
+## Trump formally arrested on election racketeering and conspiracy charges in Georgia
+ - [https://www.lemonde.fr/en/international/article/2023/08/25/trump-formally-arrested-on-election-racketeering-and-conspiracy-charges-in-georgia_6107405_4.html](https://www.lemonde.fr/en/international/article/2023/08/25/trump-formally-arrested-on-election-racketeering-and-conspiracy-charges-in-georgia_6107405_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-08-25T00:23:58.566192+00:00
+
+The billionaire was booked at Atlanta's Fulton County Jail, which was ringed by a tight security perimeter as hordes of journalists and dozens of the Republican's supporters flocked to the facility. Trump left roughly 20 minutes after surrendering on charges related to bid to overturn 2020 election.
+
