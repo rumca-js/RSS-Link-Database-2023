@@ -1,0 +1,765 @@
+# Source:The Hill, URL:https://thehill.com/news/feed/, language:en-US
+
+## The Memo: Judge scrambles election with decision on Trump trial date
+ - [https://thehill.com/homenews/administration/4175672-the-memo-judge-scrambles-election-with-decision-on-trump-trial-date/](https://thehill.com/homenews/administration/4175672-the-memo-judge-scrambles-election-with-decision-on-trump-trial-date/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T23:26:25.703505+00:00
+
+The judge in former President Trump’s Jan. 6-related federal case landed a bombshell Monday when she set a date for his trial. U.S. District Judge Tanya Chutkan announced jury selection in the trial would begin March 4 — the day before Super Tuesday, the biggest day on the GOP primary calendar. In making her decision,...
+
+## AI 'gold rush' boosts Silicon Valley
+ - [https://thehill.com/newsletters/technology/4175643-ai-gold-rush-boosts-silicon-valley/](https://thehill.com/newsletters/technology/4175643-ai-gold-rush-boosts-silicon-valley/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T23:26:25.701429+00:00
+
+Welcome to The Hill's Technology newsletter {beacon} Technology Technology &#8202; The Big Story  Silicon Valley reaps big rewards from AI 'gold rush' After slower growth earlier this year, a boom in generative artificial intelligence (AI) may be turning the tides for Silicon Valley as startups and industry giants compete to stay on the cutting edge. ...
+
+## Former Georgia DA 'amazed' Mark Meadows is taking the stand
+ - [https://thehill.com/regulation/court-battles/4175618-former-georgia-da-amazed-mark-meadows-is-taking-the-stand/](https://thehill.com/regulation/court-battles/4175618-former-georgia-da-amazed-mark-meadows-is-taking-the-stand/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T23:26:25.699674+00:00
+
+Former Dekalb County, Ga., District Attorney J. Tom Morgan said Monday he is “absolutely amazed” that former White House chief of staff Mark Meadows took the stand in a hearing to move his Georgia election case to federal court.  “It’s a calculated risk to put a defendant on the stand at any time, certainly during...
+
+## Medicaid coverage losses mount
+ - [https://thehill.com/newsletters/health-care/4175695-medicaid-coverage-losses-mount/](https://thehill.com/newsletters/health-care/4175695-medicaid-coverage-losses-mount/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T23:26:25.697644+00:00
+
+Welcome to The Hill's Health Care newsletter {beacon} Health Care Health Care &#8202; The Big Story  Medicaid enrollment losses rage on Millions of Medicaid beneficiaries are being disenrolled from the federal program, with many losing coverage over missing or incorrect paperwork. © iStock Even before the end of the COVID-19 public health emergency was announced,...
+
+## UNC faculty member killed in shooting on campus, suspect in custody
+ - [https://thehill.com/homenews/state-watch/4175660-unc-faculty-member-killed-in-shooting-on-campus-suspect-in-custody/](https://thehill.com/homenews/state-watch/4175660-unc-faculty-member-killed-in-shooting-on-campus-suspect-in-custody/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T23:26:25.695963+00:00
+
+A faculty member at the University of North Carolina (UNC) at Chapel Hill was shot and killed in a campus building, prompting a multi-hour lockdown on campus, officials said Monday.  The suspect was identified and taken into custody shortly after 2:30 p.m., more than an hour after police reported an armed and dangerous person near...
+
+## Biden says it’s time for Americans to ‘speak up’ because ‘diversity’s being attacked’
+ - [https://thehill.com/homenews/administration/4175710-biden-says-its-the-time-for-americans-to-speak-up-because-diversitys-being-attacked/](https://thehill.com/homenews/administration/4175710-biden-says-its-the-time-for-americans-to-speak-up-because-diversitys-being-attacked/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T23:26:25.694024+00:00
+
+President Biden on Monday said that all Americans must speak up because diversity is being attacked, remarks he made while marking 60 years of the Lawyers’ Committee for Civil Rights. The event comes just days after a deadly shooting in Jacksonville, Fla., killed three Black Americans, which is suspected to be racially motivated. The president...
+
+## 'Joe the Plumber' has died at 49
+ - [https://thehill.com/homenews/4175416-joe-the-plumber-has-died-at-49/](https://thehill.com/homenews/4175416-joe-the-plumber-has-died-at-49/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.539137+00:00
+
+Samuel Joseph Wurzelbacher, who became known as “Joe the Plumber” during former President Obama’s first White House campaign, died Sunday, his son confirmed to The Associated Press. He was 49. Wurzelbacher — whose friends and family knew him as Joe — reportedly died after a long bout with pancreatic cancer.  Wurzelbacher shot into the national...
+
+## Trump trial set for Super Tuesday eve
+ - [https://thehill.com/newsletters/evening-report/4175501-trump-trial-set-for-super-tuesday-eve/](https://thehill.com/newsletters/evening-report/4175501-trump-trial-set-for-super-tuesday-eve/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.537108+00:00
+
+{beacon}    Evening Report Monday, August 28   ©  AP Photo/Charlie Riedel, File Trump's DC trial to start on eve of Super Tuesday Former President Trump faces a jam-packed first few months of 2024, with trials and primaries at times occurring on back-to-back days.   The judge overseeing the federal case into efforts to overturn the...
+
+## Ramaswamy sparks firestorm with Pressley and KKK remarks
+ - [https://thehill.com/homenews/campaign/4175101-ramaswamy-rebuked-kkk-remark-ayana-pressley/](https://thehill.com/homenews/campaign/4175101-ramaswamy-rebuked-kkk-remark-ayana-pressley/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.535498+00:00
+
+GOP presidential candidate Vivek Ramaswamy has sparked a firestorm for comments comparing Rep. Ayanna Pressley, a Black Democrat representing Massachusetts, to “modern grand wizards” of the Ku Klux Klan.   Ramaswamy, a 38-year-old businessman who has been running a GOP campaign in the mode of a millennial Donald Trump, initially made the remark on Friday during...
+
+## Biden praises Simone Biles's gymnastics win: 'Unmatched power and grace'
+ - [https://thehill.com/blogs/in-the-know/4175520-biden-praises-simone-biles-gymnastics-win-unmatched-power-and-grace/](https://thehill.com/blogs/in-the-know/4175520-biden-praises-simone-biles-gymnastics-win-unmatched-power-and-grace/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.533924+00:00
+
+President Biden is adding to the chorus of praise for Simone Biles after the gymnast made history with her record eighth U.S. Gymnastics title, dubbing her the “best of America.” “When we see Simone compete, we're witnessing unmatched power and grace,” Biden said in a Monday post on X, formerly known as Twitter. “Not only is she...
+
+## Promoting safer and more humane environments: The imperative of studying restrictive housing in corrections
+ - [https://thehill.com/opinion/congress-blog/4175480-promoting-safer-and-more-humane-environments-the-imperative-of-studying-restrictive-housing-in-corrections/](https://thehill.com/opinion/congress-blog/4175480-promoting-safer-and-more-humane-environments-the-imperative-of-studying-restrictive-housing-in-corrections/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.532267+00:00
+
+In the realm of corrections, restrictive housing, often termed solitary confinement, has garnered criticism from human rights advocates and the public alike — and rightly so.   Our decades-long experience within the field as a correctional leader and policy researcher have made us keenly aware of how restrictive housing may harm a person’s mental, emotional and...
+
+## Eminem wants Ramaswamy to stop using his music on the campaign trail
+ - [https://thehill.com/homenews/campaign/4175447-eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/](https://thehill.com/homenews/campaign/4175447-eminem-wants-ramaswamy-to-stop-using-his-music-on-the-campaign-trail/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.530591+00:00
+
+Rapper Eminem asked Republican presidential candidate Vivek Ramaswamy to stop using his music on the campaign trail, according to the rapper's music licenser. In an Aug. 23 letter obtained by the Daily Mail, music licenser Broadcast Music Inc. (BMI) told Ramaswamy's campaign lawyer it was contacted by Eminem “objecting to the Vivek Ramaswamy’s campaign use...
+
+## Musk, tech CEOs to attend Schumer's AI Senate forum
+ - [https://thehill.com/policy/technology/4175551-musk-tech-ceos-to-attend-schumers-ai-senate-forum/](https://thehill.com/policy/technology/4175551-musk-tech-ceos-to-attend-schumers-ai-senate-forum/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.528518+00:00
+
+The top executives at tech companies, including the world's richest man Elon Musk, are among the confirmed guests at Senate Majority Leader Chuck Schumer’s (D-N.Y.) first scheduled “Insight Forum” about artificial intelligence (AI), the senator’s office said Monday.  The AI Insight Forum, scheduled for Sept. 13, will also include Meta CEO Mark Zuckerberg, OpenAI CEO...
+
+## CNN analyst says GOP impeachment inquiry could 'juice' Biden's 2024 run
+ - [https://thehill.com/homenews/administration/4175539-cnn-analyst-says-gop-impeachment-inquiry-could-juice-bidens-2024-run/](https://thehill.com/homenews/administration/4175539-cnn-analyst-says-gop-impeachment-inquiry-could-juice-bidens-2024-run/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.526880+00:00
+
+CNN’s political director David Chalian said Monday a GOP impeachment inquiry into President Biden could “juice” Biden’s run for reelection in 2024.  “If one of the big potential vulnerabilities of a Biden reelection effort is an enthusiasm problem, we’re seeing that in small donors,” Chalian said on CNN’s “Inside Politics.” “If you want to know...
+
+## The administration's love letter to unions
+ - [https://thehill.com/newsletters/business-economy/4175613-the-administrations-love-letter-to-unions/](https://thehill.com/newsletters/business-economy/4175613-the-administrations-love-letter-to-unions/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.524708+00:00
+
+Welcome to The Hill's Business &#38; Economy newsletter {beacon} Business &#38; Economy Business &#38; Economy   The Big Story  The administration's love letter to unions A new Treasury Department report found unions help to raise wages and benefits for workers and can lead to positive economic “spillover effects.” © AP Photo/Patrick Semansky Treasury Secretary Janet...
+
+## Ukrainian forces raise flag over embattled town
+ - [https://thehill.com/newsletters/defense-national-security/4175514-ukrainian-forces-raise-flag-over-embattled-town/](https://thehill.com/newsletters/defense-national-security/4175514-ukrainian-forces-raise-flag-over-embattled-town/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T22:21:23.522353+00:00
+
+Welcome to The Hill's Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story  Ukrainian forces raise flag over embattled Robotyne The town in the southeastern Zaporizhizhia region could mean a breakthrough is coming in Ukraine's counteroffensive. © AP The counteroffensive in Ukraine may soon be reaching a new tipping...
+
+## Jordan, GOP seek details in Hunter Biden investigation
+ - [https://thehill.com/regulation/court-battles/4175375-jordan-gop-seek-details-in-hunter-biden-investigation/](https://thehill.com/regulation/court-battles/4175375-jordan-gop-seek-details-in-hunter-biden-investigation/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.804734+00:00
+
+House Republicans are asking the Justice Department to lay out the scope of the Hunter Biden investigation after prosecutor David Weiss was appointed as a special counsel in the matter.  Weiss, the U.S. Attorney for Delaware who has been leading a five-year investigation into Biden, was appointed as special counsel earlier this month after a...
+
+## DeSantis campaign calls Trump claim he might drop out of 2024 race 'fake news'
+ - [https://thehill.com/homenews/campaign/4175322-desantis-campaign-calls-trump-claim-he-might-drop-out-of-2024-race-fake-news/](https://thehill.com/homenews/campaign/4175322-desantis-campaign-calls-trump-claim-he-might-drop-out-of-2024-race-fake-news/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.803148+00:00
+
+Florida Gov. Ron DeSantis’s (R) presidential campaign Monday railed against former President Trump’s suggestion that DeSantis might drop out of the 2024 presidential election, calling Trump’s claim “fake news.”  “This is fake news,” DeSantis’s press secretary Bryan Griffin wrote in a post on X, formerly known as Twitter. “Clearly, Donald Trump and his army of consultants are...
+
+## Teachers arrested at Nevada school board meeting
+ - [https://thehill.com/changing-america/enrichment/education/4174017-teachers-arrested-at-nevada-school-board-meeting/](https://thehill.com/changing-america/enrichment/education/4174017-teachers-arrested-at-nevada-school-board-meeting/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.801581+00:00
+
+The meeting began on time but was disrupted when dozens of teachers began shouting and chanting, asking for better pay and calling for the ouster of the superintendent.
+
+## Biden meets with King family, civil rights leaders on anniversary of March on Washington
+ - [https://thehill.com/homenews/administration/4175333-biden-meets-with-king-family-civil-rights-leaders-on-anniversary-of-march-on-washington/](https://thehill.com/homenews/administration/4175333-biden-meets-with-king-family-civil-rights-leaders-on-anniversary-of-march-on-washington/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.799874+00:00
+
+President Biden on Monday met with relatives of Martin Luther King Jr. and other civil rights leaders at the White House on the 60th anniversary of the March on Washington, underscoring the need for continued work on racial equality with the backdrop of a deadly, racially motivated shooting in Florida. Biden and Vice President Harris...
+
+## Florida braces for Category 3 storm
+ - [https://thehill.com/newsletters/energy-environment/4175430-florida-braces-for-category-3-storm/](https://thehill.com/newsletters/energy-environment/4175430-florida-braces-for-category-3-storm/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.797728+00:00
+
+Welcome to The Hill's Energy &#038; Environment newsletter {beacon} Energy &#038; Environment Energy &#038; Environment &#8202; The Big Story  DeSantis urges residents in Florida to prepare for Idalia Tropical Storm Idalia is expected to hit the Sunshine State mid-week, with Gov. Ron DeSantis (R) warning residents to prepare for a potentially "nasty" Category 3 hurricane....
+
+## Reveal of 200-year-old West Point time capsule is a dud
+ - [https://thehill.com/blogs/blog-briefing-room/4175350-reveal-of-200-year-old-west-point-time-capsule-is-a-dud/](https://thehill.com/blogs/blog-briefing-room/4175350-reveal-of-200-year-old-west-point-time-capsule-is-a-dud/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.796109+00:00
+
+A centuries-old time capsule was opened Monday at the U.S. Military Academy in West Point, N.Y., to reveal nothing but silt. The opening of the capsule — which was about a 1-foot cube — was livestreamed on West Point’s YouTube channel Monday morning in a ceremony in Thayer Hall. The box was found in the...
+
+## Navarro says Trump wanted him to assert privileges during Jan. 6 panel investigation
+ - [https://thehill.com/regulation/court-battles/4175318-navarro-says-trump-wanted-him-to-assert-privileges-during-jan-6-panel-investigation/](https://thehill.com/regulation/court-battles/4175318-navarro-says-trump-wanted-him-to-assert-privileges-during-jan-6-panel-investigation/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T21:16:21.794473+00:00
+
+Former Trump White House official Peter Navarro testified in federal court Monday that former President Trump made it "very clear" executive privilege should be invoked over testimony he was subpoenaed to give the House Jan. 6 committee investigating the Capitol attack last year. Navarro was charged with contempt of Congress after refusing to cooperate with...
+
+## Mark Meadows taking stand in Georgia hearing: reports
+ - [https://thehill.com/regulation/court-battles/4175143-mark-meadows-taking-stand-in-georgia-hearing-reports/](https://thehill.com/regulation/court-battles/4175143-mark-meadows-taking-stand-in-georgia-hearing-reports/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.989184+00:00
+
+Former White House chief of staff Mark Meadows has taken the stand in Atlanta as he argues his charges in the Georgia election case should be moved to federal court, according to multiple reports. The Atlanta Journal-Constitution and other outlets reported Meadows unexpectedly testified for hours on Monday and will continue in the afternoon. Meadows...
+
+## 'Valley fever' fungus surging northward in California as climate changes
+ - [https://thehill.com/policy/equilibrium-sustainability/4172025-valley-fever-fungus-surging-northward-in-california-as-climate-changes/](https://thehill.com/policy/equilibrium-sustainability/4172025-valley-fever-fungus-surging-northward-in-california-as-climate-changes/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.987628+00:00
+
+Workers across California are grappling with yet another climate change-induced threat: a rapidly spreading fungus that can land its unsuspecting victims with prolonged flu-like symptoms, or far worse. The culprit is a soil-dwelling organism called coccidioides, which is now spreading the disease coccidioidomycosis — known as “Valley fever” — farther and farther north of its Southwest origins. Rather than spreading...
+
+## Tampa airport closing Tuesday ahead of potential hurricane
+ - [https://thehill.com/policy/energy-environment/4175158-tampa-airport-closing-hurricane/](https://thehill.com/policy/energy-environment/4175158-tampa-airport-closing-hurricane/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.986092+00:00
+
+Tampa International Airport (TPA) announced it will close Tuesday ahead of Tropical Storm Idalia, which is forecasted to strengthen into a Category 3 hurricane by Wednesday as it threatens Florida with dangerous rains, winds and storm surge.  TPA said it will suspend all commercial operations beginning at 12:01 a.m. EDT Tuesday and will remain closed until the airport...
+
+## Unchecked growth of ESG investing threatens Americans' trust in free market
+ - [https://thehill.com/opinion/congress-blog/4175142-unchecked-growth-of-esg-investing-threatens-trust-americans-place-in-the-free-market/](https://thehill.com/opinion/congress-blog/4175142-unchecked-growth-of-esg-investing-threatens-trust-americans-place-in-the-free-market/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.984393+00:00
+
+In recent years, a worrisome trend has gripped our nation’s capital markets: the proliferation of environmental, social, and governance (ESG) criteria in investment decisions. While it is well-intentioned in concept, ESG investments are less diversified, have higher fees and lower returns and have been hijacked by a small group of liberal elites with their own...
+
+## Treasury touts labor unions during ‘summer of strikes’
+ - [https://thehill.com/business/4175180-treasury-touts-labor-unions-during-summer-of-strikes/](https://thehill.com/business/4175180-treasury-touts-labor-unions-during-summer-of-strikes/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.982487+00:00
+
+A new report from the Treasury Department is singing the praises of labor unions as several high-profile strikes and labor contract negotiations reverberate across the economy. The report situated unions within the concept of the middle class and found that unions help to raise wages and benefits for workers and have economic “spillover effects” that...
+
+## Justin Jones to call for vote of no confidence in Tennessee House Speaker
+ - [https://thehill.com/homenews/state-watch/4175219-justin-jones-to-call-for-vote-of-no-confidence-in-tennessee-house-speaker/](https://thehill.com/homenews/state-watch/4175219-justin-jones-to-call-for-vote-of-no-confidence-in-tennessee-house-speaker/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.980839+00:00
+
+Tennessee Democrat state Rep. Justin Jones is planning to call for a vote of no confidence in the state House Speaker Cameron Sexton (R), he announced Monday. “This morning, my office delivered this letter to Speaker Cameron Sexton and my legislative colleagues, sharing the intent to call for a vote of no confidence in the...
+
+## Texas ban on gender-affirming care for minors to take effect
+ - [https://thehill.com/homenews/lgbtq/4175268-texas-ban-on-gender-affirming-care-for-minors-to-take-effect/](https://thehill.com/homenews/lgbtq/4175268-texas-ban-on-gender-affirming-care-for-minors-to-take-effect/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.978826+00:00
+
+A Texas law that prevents health care providers from administering gender-affirming care to transgender minors will take effect as planned this week after the state attorney general’s office filed to appeal a judge’s temporary injunction. Texas District Judge Maria Cantú Hexsel on Friday temporarily halted the state’s ban on gender-affirming health care for minors, writing in a...
+
+## Electric utility acknowledges downed power lines started first Maui fire
+ - [https://thehill.com/policy/energy-environment/4175262-electric-utility-acknowledges-downed-power-lines-started-first-maui-fire/](https://thehill.com/policy/energy-environment/4175262-electric-utility-acknowledges-downed-power-lines-started-first-maui-fire/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.977211+00:00
+
+Hawaii’s electric utility company acknowledged its downed power lines started the first wildfire on Maui, but faulted Maui county firefighters who declared the fire contained and left the scene before a second fire broke out in the area for some of the blame. The company is facing a lawsuit from the county, which blames it...
+
+## Is it time to bring back the COVID mask? We asked 3 doctors
+ - [https://thehill.com/changing-america/well-being/prevention-cures/4173495-is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/](https://thehill.com/changing-america/well-being/prevention-cures/4173495-is-it-time-to-bring-back-the-covid-mask-we-asked-3-doctors/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.974878+00:00
+
+The summer surge has some people – who haven't donned a COVID mask in months – wondering if they should dust off their N95s.
+
+## Chipotle settles DC child labor allegations for $300K
+ - [https://thehill.com/blogs/blog-briefing-room/news/4175217-chipotle-settles-dc-child-labor-allegations-for-300k/](https://thehill.com/blogs/blog-briefing-room/news/4175217-chipotle-settles-dc-child-labor-allegations-for-300k/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.973322+00:00
+
+Chipotle has agreed to pay more than $300,000 after an investigation revealed hundreds of potential violations of the District of Columbia's child labor laws at Chipotle restaurants in the city, D.C. Attorney General Brian Schwalb announced. Schwalb's office said in a press release Monday that an investigation found more than 800 “potential violations” of D.C.’s...
+
+## OJ Simpson on Ramaswamy: 'Hey, this guy’s onto something'
+ - [https://thehill.com/homenews/campaign/4175159-oj-simpson-on-ramaswamy-hey-this-guys-onto-something/](https://thehill.com/homenews/campaign/4175159-oj-simpson-on-ramaswamy-hey-this-guys-onto-something/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.971704+00:00
+
+O.J. Simpson on Sunday released a video suggesting that Republican presidential candidate Vivek Ramaswamy is “onto something” but said he should "untie" himself from some in the party, floating the idea that he could run alongside fellow candidate Nikki Haley. “Just like the debates, the Republican debates, I said, ‘Hey, this guy’s onto something,’” Simpson...
+
+## Joe the Plumber, made famous during Obama's 2008 campaign, dead at 49
+ - [https://thehill.com/homenews/4175177-joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/](https://thehill.com/homenews/4175177-joe-the-plumber-made-famous-during-obamas-2008-campaign-dead-at-49/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.970015+00:00
+
+Samuel “Joe” Wurzelbacher, who was thrust into the political spotlight as “Joe the Plumber” after questioning Barack Obama about his economic policies during the 2008 presidential campaign, and who later forayed into politics himself, has died, his son said Monday. He was 49.
+
+## Get a free Pepsi to celebrate its 125th birthday. Here's how
+ - [https://thehill.com/changing-america/enrichment/arts-culture/4175070-get-a-free-pepsi-to-celebrate-its-125th-birthday-heres-how/](https://thehill.com/changing-america/enrichment/arts-culture/4175070-get-a-free-pepsi-to-celebrate-its-125th-birthday-heres-how/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.967665+00:00
+
+Everyone loves a freebie and Pepsi is here to hook you up with a free drink Monday.
+
+## Trump, campaign lash out at trial date in Jan. 6 federal case
+ - [https://thehill.com/regulation/court-battles/4175329-trump-campaign-lash-out-at-trial-date-in-jan-6-federal-case/](https://thehill.com/regulation/court-battles/4175329-trump-campaign-lash-out-at-trial-date-in-jan-6-federal-case/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T20:11:48.965819+00:00
+
+Former President Trump and his campaign on Monday lashed out at the federal judge overseeing his trial in Washington, D.C., over his efforts to subvert the 2020 election shortly after she scheduled his trial to begin for March. U.S. District Judge Tanya Chutkan set Trump’s D.C. trial for March 4 after special counsel Jack Smith’s...
+
+## Farah Griffin slams Ramaswamy for 'dog whistle' about Haley's name
+ - [https://thehill.com/homenews/4175011-farah-griffin-slams-ramaswamy-for-dog-whistle-about-haleys-name/](https://thehill.com/homenews/4175011-farah-griffin-slams-ramaswamy-for-dog-whistle-about-haleys-name/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T19:06:17.545023+00:00
+
+Pundit Alyssa Farah Griffin took a shot at GOP presidential primary candidate Vivek Ramaswamy after the Republican used Nikki Haley's maiden name on his campaign website. "Of course Vivek is referring to Nikki Haley by her maiden name - Namrata Randhawa - on his his website," Farah Griffin, who is a political analyst for CNN...
+
+## Bidens visit DC students on first day of school
+ - [https://thehill.com/homenews/administration/4175043-bidens-visit-dc-students-on-first-day-of-school/](https://thehill.com/homenews/administration/4175043-bidens-visit-dc-students-on-first-day-of-school/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T19:06:17.543412+00:00
+
+President Biden and first lady Jill Biden greeted Washington, D.C., middle schoolers on their first day of school Monday. The president went to Eliot-Hine Middle School in northeast D.C. and met with seventh and eighth graders.  “This is like the Beatles,” one staff member at the school said when the Bidens arrived. They first met...
+
+## Don’t allow domestic politics to undermine America’s global role
+ - [https://thehill.com/opinion/international/4174935-dont-allow-domestic-politics-to-undermine-americas-global-role/](https://thehill.com/opinion/international/4174935-dont-allow-domestic-politics-to-undermine-americas-global-role/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T19:06:17.541845+00:00
+
+Only by maintaining global leadership can the U.S. ensure its citizens a secure future.
+
+## Armed, dangerous person reported at University of North Carolina campus
+ - [https://thehill.com/homenews/state-watch/4175084-armed-dangerous-person-reported-at-university-of-north-carolina-campus/](https://thehill.com/homenews/state-watch/4175084-armed-dangerous-person-reported-at-university-of-north-carolina-campus/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T19:06:17.540105+00:00
+
+An armed and dangerous person was reported on or near the campus of the University of North Carolina at Chapel Hill Monday afternoon, according to university police. The UNC police issued an alert just after 1 p.m. saying that police reported an armed and dangerous person near the campus. The officials did not provide further...
+
+## FEMA announces $2.5B for enhanced resiliency against climate change-fueled extreme weather
+ - [https://thehill.com/policy/energy-environment/4175121-fema-announces-2-5b-for-enhanced-resiliency-against-climate-change-fueled-extreme-weather/](https://thehill.com/policy/energy-environment/4175121-fema-announces-2-5b-for-enhanced-resiliency-against-climate-change-fueled-extreme-weather/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T19:06:17.538454+00:00
+
+The Biden administration on Monday announced an additional $2.5 billion in climate resilience funds for the Federal Emergency Management Agency (FEMA). The funds include $1.8 billion through the Building Resilient Infrastructure and Communities (BRIC) competitive grant program and another $642 million through the Flood Mitigation Assistance program. The Department of Homeland Security earlier in May...
+
+## DOT fines American Airlines $4.1M over tarmac delays
+ - [https://thehill.com/homenews/administration/4175100-dot-fines-american-airlines-4-1m-over-tarmac-delays/](https://thehill.com/homenews/administration/4175100-dot-fines-american-airlines-4-1m-over-tarmac-delays/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T19:06:17.536519+00:00
+
+The Department of Transportation (DOT) fined American Airlines $4.1 million for allegedly violating federal rules during tarmac delays, including those governing the length of time flights can keep passengers onboard without providing an opportunity to deplane. The DOT said in a statement that the fine is the largest ever levied against a carrier for violating...
+
+## US, China to discuss export controls, officials say
+ - [https://thehill.com/policy/international/4174888-us-china-to-discuss-export-controls-officials-say/](https://thehill.com/policy/international/4174888-us-china-to-discuss-export-controls-officials-say/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.197778+00:00
+
+U.S. Secretary of Commerce Gina Raimondo announced Monday that she and her Chinese counterpart agreed to discuss export controls in an ongoing effort to ease tensions between the two global economic powerhouses. In a statement Monday, Raimondo said she met with People’s Republic of China Minister of Commerce Wang Wentao, and they agreed to take several concrete...
+
+## Biden to mark 9/11 anniversary at ceremony in Alaska
+ - [https://thehill.com/homenews/administration/4174890-biden-to-mark-9-11-anniversary-at-ceremony-in-alaska/](https://thehill.com/homenews/administration/4174890-biden-to-mark-9-11-anniversary-at-ceremony-in-alaska/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.195794+00:00
+
+President Biden will mark the 22nd anniversary of the Sept. 11, 2001, terrorist attacks by attending a memorial ceremony in Alaska on his way back from a trip to Asia, the White House announced Monday. The president will participate in a ceremony with members of the military and their families, the White House said, while...
+
+## Who is Steve Jones, the judge deciding whether to move Fulton County defendants' cases to federal court?
+ - [https://thehill.com/homenews/4174830-who-is-judge-steve-jones-who-will-decide-whether-to-move-fulton-county-defendants-cases-to-federal-court/](https://thehill.com/homenews/4174830-who-is-judge-steve-jones-who-will-decide-whether-to-move-fulton-county-defendants-cases-to-federal-court/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.194266+00:00
+
+Federal Judge Steve Jones of the Northern District of Georgia is slated to hear requests from the Fulton County defendants who are seeking to move their cases to federal court. Jones was appointed by former President Obama and was confirmed by the Senate in 2011 in a 90-0 vote. Before serving in federal court, Jones...
+
+## Trump's DC trial set for day before Super Tuesday
+ - [https://thehill.com/homenews/campaign/4174917-trumps-dc-trial-set-for-day-before-super-tuesday/](https://thehill.com/homenews/campaign/4174917-trumps-dc-trial-set-for-day-before-super-tuesday/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.192546+00:00
+
+Former President Trump’s trial in Washington over his efforts to overturn the 2020 election results is set to begin one day before Super Tuesday, when voters will head to the polls in more than a dozen states in the Republican presidential primary. U.S. District Judge Tanya Chutkan set Trump’s D.C. trial for March 4 after...
+
+## 12.8 million documents of discovery shared in Trump Jan. 6 case, prosecutors say
+ - [https://thehill.com/regulation/court-battles/4174925-12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/](https://thehill.com/regulation/court-battles/4174925-12-8-million-documents-of-discovery-shared-in-trump-jan-6-case-prosecutors-say/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.190535+00:00
+
+In the federal case probing former President Trump’s efforts to overturn the 2020 election, prosecutors have turned over 12.8 million documents to the former president’s legal team as part of discovery, prosecutors said Monday.  Trump faces four criminal charges in Washington, D.C., tied to his actions after losing the 2020 election, culminating in the Jan. 6, 2021, Capitol attack. ...
+
+## Cleaning up the mess: The unfinished legacy of Robert Oppenheimer
+ - [https://thehill.com/opinion/energy-environment/4171703-cleaning-up-the-mess-the-unfinished-legacy-of-robert-oppenheimer/](https://thehill.com/opinion/energy-environment/4171703-cleaning-up-the-mess-the-unfinished-legacy-of-robert-oppenheimer/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.188089+00:00
+
+We have a problem that costs an amazing amount of money just to keep the genie in the bottle. I can’t imagine Oppenheimer and his colleagues are sanguine.
+
+## Neil deGrasse Tyson on UFO claims: 'We would know about it'
+ - [https://thehill.com/homenews/space/4174905-neil-degrasse-tyson-on-ufo-claims-we-would-know-about-it/](https://thehill.com/homenews/space/4174905-neil-degrasse-tyson-on-ufo-claims-we-would-know-about-it/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.186000+00:00
+
+Astrophysicist Neil deGrasse Tyson pushed back on claims that the government is hiding information about UFOs and aliens from the American public. “Do you think the government is that competent, that they can actually keep such a secret? Oh, my gosh, when did you get that much confidence in the U.S. government?” Tyson said to...
+
+## UN investigators traveling to Ukraine to probe allegations of Russian abuse
+ - [https://thehill.com/blogs/blog-briefing-room/news/4174986-un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/](https://thehill.com/blogs/blog-briefing-room/news/4174986-un-investigators-traveling-to-ukraine-to-probe-allegations-of-russian-abuse/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.183896+00:00
+
+Members of the United Nations commission investigating allegations against Russia of human rights abuse are traveling Monday to Ukraine for the group’s third “fact-finding mission.” The UN Independent International Commission of Inquiry on Ukraine will travel to several locations in Ukraine, including Uman in Cherkasy Oblast and Kyiv, departing Aug. 28 and returning Sept. 4. ...
+
+## President Biden must work with Congress to promote American interests in Asia-Pacific
+ - [https://thehill.com/opinion/congress-blog/4174852-president-biden-must-work-with-congress-to-promote-american-interests-in-asia-pacific/](https://thehill.com/opinion/congress-blog/4174852-president-biden-must-work-with-congress-to-promote-american-interests-in-asia-pacific/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.181829+00:00
+
+Earlier this month, President Joe Biden, South Korean President Yoon Suk Yeol and Japanese Prime Minister Fumio Kishida convened at a Camp David to discuss North Korea and the Chinese Communist Party’s (CCP) increasing hostility and roll out a series of economic and military-centered initiatives.   As a proud American who was born in South Korea,...
+
+## Tropical Storm Idalia: Why do so many infamous hurricanes have 'I' names?
+ - [https://thehill.com/homenews/4173834-tropical-storm-idalia-why-do-so-many-infamous-hurricanes-have-i-names/](https://thehill.com/homenews/4173834-tropical-storm-idalia-why-do-so-many-infamous-hurricanes-have-i-names/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.180190+00:00
+
+Floridians can now add "Idalia" to the growing list of "I"-named hurricanes to target the state.
+
+## Arborists continue fight to save Lahaina's iconic banyan tree
+ - [https://thehill.com/homenews/4173913-arborists-continue-fight-to-save-lahainas-iconic-banyan-tree/](https://thehill.com/homenews/4173913-arborists-continue-fight-to-save-lahainas-iconic-banyan-tree/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T18:01:16.178333+00:00
+
+Arborists continue their efforts to restore the historic Banyan Tree in Lahaina.
+
+## Henry Winkler: US facing 'very scary time'
+ - [https://thehill.com/blogs/in-the-know/4174767-henry-winkler-us-facing-very-scary-time/](https://thehill.com/blogs/in-the-know/4174767-henry-winkler-us-facing-very-scary-time/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.098990+00:00
+
+Henry Winkler says it’s hardly “Happy Days” for the United States as the country faces a “very scary” time amid former President Trump’s surrender at a Georgia jail. “Nobody is above the law. Right?” Winkler told The Messenger in his Los Angeles home Saturday at a fundraiser for This is About Humanity, an organization that aims to...
+
+## Ukraine claims liberation of key southeastern town
+ - [https://thehill.com/policy/defense/4174606-ukraine-claims-liberation-of-key-southeastern-town/](https://thehill.com/policy/defense/4174606-ukraine-claims-liberation-of-key-southeastern-town/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.094708+00:00
+
+Ukraine claimed Monday its forces had liberated Robotyne, a key town in the southeastern front that Kyiv has tried to fully seize for months. Holding the town could give Ukraine the momentum it needs to push deeper into the Zaporizhzhia region as its forces inch toward their main objective of crossing through thick Russian lines...
+
+## Environmental groups sue to stop Biden administration oil leases in Gulf
+ - [https://thehill.com/policy/energy-environment/4174782-environmental-groups-sue-to-stop-biden-administration-oil-leases-in-gulf/](https://thehill.com/policy/energy-environment/4174782-environmental-groups-sue-to-stop-biden-administration-oil-leases-in-gulf/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.092285+00:00
+
+A coalition of environmental groups sued the Biden administration over its upcoming oil and gas lease sale, which will auction off 67 million acres in the Gulf of Mexico. Plaintiffs in the lawsuit allege that the lease sales, mandated by the Inflation Reduction Act, violate the National Environmental Policy Act, specifically that the Interior Department’s...
+
+## College student fatally shot while trying to enter wrong home in South Carolina: police
+ - [https://thehill.com/homenews/state-watch/4174790-college-student-fatally-shot-while-trying-to-enter-wrong-home-in-south-carolina-police/](https://thehill.com/homenews/state-watch/4174790-college-student-fatally-shot-while-trying-to-enter-wrong-home-in-south-carolina-police/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.089959+00:00
+
+A University of South Carolina student was shot and killed while mistakenly attempting to enter the wrong home early Saturday morning, police said.
+
+## Will back-to-school season make the summer COVID surge worse?
+ - [https://thehill.com/homenews/4174542-will-back-to-school-season-make-the-summer-covid-surge-worse/](https://thehill.com/homenews/4174542-will-back-to-school-season-make-the-summer-covid-surge-worse/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.087654+00:00
+
+The number of people being admitted to the hospital with the virus has been rising week after week, most recently jumping by 21% nationwide.
+
+## The Switch Up — March on Washington: 60 years later
+ - [https://thehill.com/homenews/race-politics/4172973-the-switch-up-march-on-washington-60-years-later/](https://thehill.com/homenews/race-politics/4172973-the-switch-up-march-on-washington-60-years-later/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.085979+00:00
+
+On Aug. 28, 1963, more than a quarter million people walked in the historic March on Washington for Jobs and Freedom — the same march that saw the Rev. Martin Luther King Jr. give his "I Have a Dream Speech." It was that march that helped lead to passage of the Civil Rights Act of...
+
+## How to beat Trump in the primary: Win the middle, not the base
+ - [https://thehill.com/opinion/campaign/4174690-how-to-beat-trump-in-the-primary-win-the-middle-not-the-base/](https://thehill.com/opinion/campaign/4174690-how-to-beat-trump-in-the-primary-win-the-middle-not-the-base/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.083571+00:00
+
+The past three nominating cycles have led to GOP candidates rising above the party’s primary base.
+
+## Jacksonville NAACP: Racist shooting 'deeply disheartening'
+ - [https://thehill.com/homenews/race-politics/4174872-jacksonville-naacp-racist-shooting-deeply-disheartening/](https://thehill.com/homenews/race-politics/4174872-jacksonville-naacp-racist-shooting-deeply-disheartening/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.081465+00:00
+
+The Jacksonville NAACP chapter called the shooting of three Black patrons of a local Dollar General "tragic" and "senseless" and expressed solidarity with the victim’s families and the community as a whole.  “It is deeply disheartening that our black communities live in constant fear of being targeted based on the color of their skin, unable...
+
+## The Hill's 12:30 Report — Key Trump court dates dates announced
+ - [https://thehill.com/newsletters/1230-report/4174870-the-hills-1230-report-key-trump-court-dates-dates-announced/](https://thehill.com/newsletters/1230-report/4174870-the-hills-1230-report-key-trump-court-dates-dates-announced/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T16:56:15.079084+00:00
+
+{beacon}    12:30 REPORT To repurpose Jay-Z — I got 19 defendants and Trump is one: Legal experts are having a busy morning in the world of Trump court cases.    First, a federal judge overseeing the case against former President Trump’s alleged election interference just set the trial date for March 4, 2024.  Back story: Special counsel Jack...
+
+## Republican group targets Trump over Georgia indictment
+ - [https://thehill.com/homenews/campaign/4174610-republican-group-targets-trump-over-georgia-indictment/](https://thehill.com/homenews/campaign/4174610-republican-group-targets-trump-over-georgia-indictment/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.547326+00:00
+
+An anti-Trump Republican group is targeting the former president over his indictment in Georgia, where he was charged with 13 counts related to efforts to overturn the 2020 presidential election in the state. The Republican Accountability Project announced Sunday that it will be launching a six-figure ad campaign focusing on the Fulton County election case,...
+
+## Are Biden's immigration policies allowing dangerous diseases into our country?
+ - [https://thehill.com/opinion/immigration/4171403-are-bidens-immigration-policies-allowing-dangerous-diseases-into-our-country/](https://thehill.com/opinion/immigration/4171403-are-bidens-immigration-policies-allowing-dangerous-diseases-into-our-country/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.544628+00:00
+
+This is a serious problem that the administration should address as soon as possible.
+
+## Watch live: White House press briefing
+ - [https://thehill.com/homenews/4174578-watch-live-white-house-press-briefing/](https://thehill.com/homenews/4174578-watch-live-white-house-press-briefing/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.542146+00:00
+
+White House press secretary Karine Jean-Pierre is set to hold a press briefing Monday afternoon joined by Office of Public Engagement Director Stephen Benjamin, who coordinates White House relations with civic leaders around the country. President Biden in a Washington Post op-ed this weekend made the case that his economic policies continue the fight for...
+
+## Harris says US ‘experiencing an epidemic of hate’ in wake of Jacksonville shooting
+ - [https://thehill.com/homenews/administration/4174671-harris-says-us-experiencing-an-epidemic-of-hate-in-wake-of-jacksonville-shooting/](https://thehill.com/homenews/administration/4174671-harris-says-us-experiencing-an-epidemic-of-hate-in-wake-of-jacksonville-shooting/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.539578+00:00
+
+Vice President Harris said Monday that the United States is experiencing an "epidemic of hate" in response to the deadly shooting in Jacksonville, Fla., over the weekend. “[L]et us continue to speak truth about the moment we are in: America is experiencing an epidemic of hate. Too many communities have been torn apart by hatred...
+
+## Florida Democrat: DeSantis has 'blood on his hands' after Jacksonville shooting
+ - [https://thehill.com/homenews/state-watch/4174681-florida-democrat-desantis-has-blood-on-his-hands-after-jacksonville-shooting/](https://thehill.com/homenews/state-watch/4174681-florida-democrat-desantis-has-blood-on-his-hands-after-jacksonville-shooting/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.537729+00:00
+
+Florida state Rep. Angie Nixon (D) has issued a scathing rebuke of Gov. Ron DeSantis’s response to a white supremacist’s deadly rampage in Jacksonville this weekend.  Nixon, who represents the Jacksonville district where the shooting happened, told MSNBC’s Yasmin Vossoughian on Sunday that DeSantis has been leading "an all-out attack on the Black community with his anti-woke policies" and because of...
+
+## DeSantis urges Floridians to prepare for 'nasty' hurricane
+ - [https://thehill.com/homenews/state-watch/4174679-desantis-urges-floridians-to-prepare-for-nasty-hurricane/](https://thehill.com/homenews/state-watch/4174679-desantis-urges-floridians-to-prepare-for-nasty-hurricane/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.535715+00:00
+
+Gov. Ron DeSantis (R) on Monday warned Florida residents to heed officials’ warnings immediately to begin preparing for what he described as a “nasty” major hurricane that is expected to hit Florida early Wednesday.  At a press conference Monday morning, DeSantis provided an update on Tropical Storm Idalia’s trajectory and on the state’s preparation efforts,...
+
+## Florida warns of potentially widespread fuel contamination as Idalia approaches
+ - [https://thehill.com/homenews/state-watch/4174678-florida-warns-of-potentially-widespread-fuel-contamination-as-idalia-approaches/](https://thehill.com/homenews/state-watch/4174678-florida-warns-of-potentially-widespread-fuel-contamination-as-idalia-approaches/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.532915+00:00
+
+Florida warned Sunday of potentially widespread fuel contamination at Tampa-area gas stations as Tropical Storm Idalia approaches the state. Florida’s Department of Agriculture and Consumer Services said human error may have caused the potential contamination of fuel at nearly 30 gas stations in the Tampa area. Fuel from the stations — supplied by Citgo —...
+
+## Ramaswamy unveils foreign policy platform: 'We will be Uncle Sucker no more'
+ - [https://thehill.com/homenews/campaign/4174713-ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more/](https://thehill.com/homenews/campaign/4174713-ramaswamy-unveils-foreign-policy-platform-we-will-be-uncle-sucker-no-more/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.529946+00:00
+
+Republican presidential candidate Vivek Ramaswamy on Monday unveiled a foreign policy platform that would significantly reduce the United States' international involvement, declaring “we will be Uncle Sucker no more.”  Ramaswamy said in a post in the conservative outlet The American Conservative that the U.S. “squandered” its opportunity immediately following the end of the Cold War...
+
+## Prigozhin’s death, Trump's lead and a day of ironic infamy
+ - [https://thehill.com/opinion/campaign/4173799-prigozhins-death-a-trump-less-debate-and-a-day-of-ironic-infamy/](https://thehill.com/opinion/campaign/4173799-prigozhins-death-a-trump-less-debate-and-a-day-of-ironic-infamy/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.526594+00:00
+
+Both the killing of Prigozhin and the presidential debate are depressing insights into the realities of life in Russia and America.
+
+## Trump federal Jan. 6 case set for trial in March 2024
+ - [https://thehill.com/regulation/court-battles/4174750-trump-federal-jan-6-case-set-for-trial-in-march-2024/](https://thehill.com/regulation/court-battles/4174750-trump-federal-jan-6-case-set-for-trial-in-march-2024/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T15:51:46.524267+00:00
+
+Former President Trump is set to face trial in March of 2024 in the Justice Department’s case targeting his efforts to remain in office after losing the 2020 election. The decision from federal district court Judge Tanya Chutkan comes after special counsel Jack Smith’s team asked for a Jan. 2, 2024, trial date, while Trump’s...
+
+## Trump, co-defendants to be arraigned in Georgia on Sept. 6
+ - [https://thehill.com/regulation/court-battles/4174548-trump-co-defendants-to-be-arraigned-in-georgia-on-sept-6/](https://thehill.com/regulation/court-battles/4174548-trump-co-defendants-to-be-arraigned-in-georgia-on-sept-6/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.613216+00:00
+
+Former President Trump will be arraigned next Wednesday in Georgia over charges he and 18 co-defendants sought to overturn the state’s election results.  Trump’s arraignment has been set for Sept. 6 at 9:30 a.m., the first of all the defendants, who are charged in a sweeping racketeering case alleging they joined a criminal enterprise bent on...
+
+## Trump drops 6 points in post-debate GOP poll
+ - [https://thehill.com/homenews/campaign/4174521-trump-drops-6-points-in-post-debate-gop-poll/](https://thehill.com/homenews/campaign/4174521-trump-drops-6-points-in-post-debate-gop-poll/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.610759+00:00
+
+Former President Trump saw a slight decrease in his support among Republican primary voters after he skipped the first GOP debate last week, according to a new poll from Emerson College. The poll, which was conducted Aug. 25-26, found 50 percent of GOP primary voters said they plan to vote for Trump, down from 56...
+
+## Burgum says he wouldn't serve as Trump running mate
+ - [https://thehill.com/blogs/blog-briefing-room/news/4174559-burgum-says-he-wouldnt-serve-as-trump-running-mate/](https://thehill.com/blogs/blog-briefing-room/news/4174559-burgum-says-he-wouldnt-serve-as-trump-running-mate/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.608155+00:00
+
+North Dakota Gov. Doug Burgum said on Monday he would not serve as former President Trump’s running mate if the former president were to win the party’s nomination in 2024. “No, I would not,” Burgum, who is also running for president, said in an interview on “CNN This Morning,” when asked whether he would serve...
+
+## House Republican aims to defund Trump prosecutions until 2024 election
+ - [https://thehill.com/homenews/house/4174557-house-republican-aims-to-defund-trump-prosecutions-until-2024-election/](https://thehill.com/homenews/house/4174557-house-republican-aims-to-defund-trump-prosecutions-until-2024-election/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.605813+00:00
+
+Rep. Andrew Clyde (R-Ga.) is proposing two amendments to an appropriations bill that would defund the various prosecutions of former President Trump. He is adding to the defense of the former president mounted by Trump allies in the House as they circle the wagons in the face of four separate indictments. Clyde, a member of...
+
+## Republicans have made it clear: No state is safe from abortion bans
+ - [https://thehill.com/opinion/campaign/4173645-the-gop-has-made-it-clear-no-state-is-safe-from-abortion-bans/](https://thehill.com/opinion/campaign/4173645-the-gop-has-made-it-clear-no-state-is-safe-from-abortion-bans/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.603057+00:00
+
+Living in or moving to a pro-choice state will not protect you if Republicans take power in Washington.
+
+## Biden speaks with DeSantis as Tropical Storm Idalia heads for Florida
+ - [https://thehill.com/homenews/administration/4174585-biden-speaks-with-desantis-as-tropical-storm-idalia-heads-for-florida/](https://thehill.com/homenews/administration/4174585-biden-speaks-with-desantis-as-tropical-storm-idalia-heads-for-florida/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.600282+00:00
+
+President Biden on Monday spoke with Florida Gov. Ron DeSantis (R) to offer federal assistance as the state braces for Tropical Storm Idalia, marking a rare interaction between the president and the 2024 GOP presidential candidate, who is a frequent Biden critic. Biden told DeSantis on the call that he had approved an emergency declaration...
+
+## Michael Cohen 'appalled' at 'royal treatment' Trump received during surrender in Georgia
+ - [https://thehill.com/homenews/media/4174556-michael-cohen-appalled-at-royal-treatment-trump-received-during-surrender-in-georgia/](https://thehill.com/homenews/media/4174556-michael-cohen-appalled-at-royal-treatment-trump-received-during-surrender-in-georgia/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.597650+00:00
+
+Former Trump attorney Michael Cohen said he was “appalled” at what he called the “royal treatment” the former president received when he surrendered to authorities in Georgia over the 2020 election fraud case in the state. “I mean, look at what's going on here. We're watching as Donald Trump — and I was appalled, to...
+
+## Russians' apathy keeps Putin's war going, but it could also end his regime
+ - [https://thehill.com/opinion/national-security/4169465-russian-apathy-keeps-putins-war-going-but-it-could-also-end-his-regime/](https://thehill.com/opinion/national-security/4169465-russian-apathy-keeps-putins-war-going-but-it-could-also-end-his-regime/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.595249+00:00
+
+A fundamentally apathetic society is a society not attached to any one leader or his goals.
+
+## 8 Marines still hospitalized after deadly crash during exercises in Australia
+ - [https://thehill.com/policy/defense/4174534-8-marines-still-hospitalized-after-deadly-crash-during-exercises-in-australia/](https://thehill.com/policy/defense/4174534-8-marines-still-hospitalized-after-deadly-crash-during-exercises-in-australia/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T14:47:26.592573+00:00
+
+Eight U.S. Marines are still hospitalized following a deadly aircraft crash in Australia over the weekend that killed three of their comrades. Northern Territory Police said in a Monday update the eight Marines are still recovering but did not say condition they were in. Emergency responders will remain at the site of the crash for...
+
+## San Francisco restaurant bans armed officers, police union responds
+ - [https://thehill.com/homenews/state-watch/4174109-san-francisco-restaurant-bans-armed-officers-police-union-responds/](https://thehill.com/homenews/state-watch/4174109-san-francisco-restaurant-bans-armed-officers-police-union-responds/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.028293+00:00
+
+A San Francisco restaurant is feuding with police on social media after the business implemented a policy that bans armed officers from entering.
+
+## DeSantis booed at vigil for victims of racist shooting in Florida
+ - [https://thehill.com/homenews/state-watch/4174426-desantis-booed-at-vigil-for-victims-of-racist-shooting-in-florida/](https://thehill.com/homenews/state-watch/4174426-desantis-booed-at-vigil-for-victims-of-racist-shooting-in-florida/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.023681+00:00
+
+Florida Gov. Ron DeSantis, a GOP presidential candidate, was met with boos while speaking late Sunday at a vigil held for the three victims of a racially motivated shooting in Jacksonville. Democratic City Councilwoman Ju’Coby Pittman, who represents the neighborhood where the shooting occurred, addressed the governor in her remarks to a crowd of about...
+
+## Moscow accuses Russian citizen of collecting information for US diplomats
+ - [https://thehill.com/policy/international/4174473-moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/](https://thehill.com/policy/international/4174473-moscow-accuses-russian-citizen-of-collecting-information-for-us-diplomats/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.022149+00:00
+
+Russia’s top domestic security agency is accusing a local employee of the U.S. consulate in Vladivostock of collecting information for American diplomats, according to the AP.  Russia’s Federal Security Service, known as the FSB, is accusing Robert Shonov of “gathering information about the special military operation, mobilization processes in Russian regions, problems and the assessment...
+
+## Biden links economic plan to March on Washington anniversary
+ - [https://thehill.com/homenews/administration/4174466-biden-links-economic-plan-to-march-on-washington-anniversary/](https://thehill.com/homenews/administration/4174466-biden-links-economic-plan-to-march-on-washington-anniversary/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.020489+00:00
+
+President Biden touted his economic plan in a new op-ed marking the anniversary of the March on Washington, arguing that trickle-down economics has failed Black Americans. “Sixty years ago, the Rev. Martin Luther King Jr. and hundreds of thousands of fellow Americans marched on Washington for jobs and freedom,” Biden wrote in The Washington Post....
+
+## Trump presses Republicans to impeach Biden or 'fade into oblivion'
+ - [https://thehill.com/homenews/campaign/4174481-trump-presses-republicans-to-impeach-biden-or-fade-into-oblivion/](https://thehill.com/homenews/campaign/4174481-trump-presses-republicans-to-impeach-biden-or-fade-into-oblivion/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.018412+00:00
+
+Former President Trump is urging Republicans in Congress to either impeach President Biden or “fade into oblivion.” “The Republicans in Congress, though well meaning, keep talking about an Impeachment ‘Inquiry’ on Crooked Joe Biden. Look, the guy got bribed, he paid people off, and he wouldn’t give One Billion Dollars to Ukraine unless they ‘got...
+
+## Poll: Biden has to meet these challenges to catch up to Trump
+ - [https://thehill.com/opinion/white-house/4173680-poll-biden-has-to-meet-these-challenges-to-catch-up-to-trump/](https://thehill.com/opinion/white-house/4173680-poll-biden-has-to-meet-these-challenges-to-catch-up-to-trump/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.016355+00:00
+
+If 2024 turns into another “lesser of two evils” election — between Biden and Trump — our data indicates that Biden could be limited to a one-term president.
+
+## Trump decries federal 'fascist thugs' despite judge's warnings
+ - [https://thehill.com/blogs/blog-briefing-room/news/4174500-trump-decries-federal-fascist-thugs-despite-judges-warnings/](https://thehill.com/blogs/blog-briefing-room/news/4174500-trump-decries-federal-fascist-thugs-despite-judges-warnings/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.014872+00:00
+
+Former President Trump attacked federal officials connected to the Biden administration as “fascist thugs” just ahead of a Monday morning hearing before a judge who previously warned Trump that “inflammatory statements” would compel her to speed up his trial. The court hearing on Monday is intended to determine a start date for the Trump trial...
+
+## Idalia emerges as threat to Florida with potential as category 3 hurricane
+ - [https://thehill.com/blogs/blog-briefing-room/news/4174471-idalia-emerges-as-threat-to-florida-with-potential-as-category-3-hurricane/](https://thehill.com/blogs/blog-briefing-room/news/4174471-idalia-emerges-as-threat-to-florida-with-potential-as-category-3-hurricane/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.013273+00:00
+
+The National Weather Service warned on Monday that Tropical Storm Idalia is expected to intensify into a major category 3 hurricane by Wednesday. As of 8 a.m. E.D.T. on Monday, Idalia was about 90 miles south of the western tip of Cuba and was expected to become a hurricane as it approached the coast of Cuba....
+
+## China drops COVID testing for international arrivals
+ - [https://thehill.com/policy/international/4174515-china-drops-covid-testing-for-international-arrivals/](https://thehill.com/policy/international/4174515-china-drops-covid-testing-for-international-arrivals/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.011641+00:00
+
+China is dropping its requirement for a negative COVID-19 test result for international visitors beginning Wednesday in its latest step toward reopening the country. Foreign Ministry spokesperson Wang Wenbin announced the testing update at a briefing in Beijing on Monday   China has been slowing ending its pandemic-era restrictions in recent months as the world...
+
+## The GOP is a shambles, unable to nominate anyone electable
+ - [https://thehill.com/opinion/columnists/juan-williams/4171654-the-gop-is-a-shambles-unable-to-nominate-anyone-electable/](https://thehill.com/opinion/columnists/juan-williams/4171654-the-gop-is-a-shambles-unable-to-nominate-anyone-electable/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T13:45:22.009798+00:00
+
+To the delight of Democrats, Republicans continue to nominate unelectable extremists.
+
+## 77 percent in new poll say Biden is too old to be effective if reelected
+ - [https://thehill.com/homenews/campaign/4174401-77-percent-in-new-poll-say-biden-is-too-old-to-be-effective-if-reelected/](https://thehill.com/homenews/campaign/4174401-77-percent-in-new-poll-say-biden-is-too-old-to-be-effective-if-reelected/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T12:41:48.180914+00:00
+
+More than three-quarters of Americans say in a new poll that President Biden is too old to be effective if reelected to the White House. The Associated Press-NORC Center for Public Affairs survey found that Americans were more likely to say age would be a problem for Biden rather than former President Trump, who is just...
+
+## 1 killed in shooting at Ohio mall; 2 teens arrested
+ - [https://thehill.com/homenews/4174143-1-killed-in-shooting-at-ohio-mall-2-teens-arrested/](https://thehill.com/homenews/4174143-1-killed-in-shooting-at-ohio-mall-2-teens-arrested/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T12:41:48.179386+00:00
+
+One person is dead and two teens have been arrested after a shooting at the Easton Town Center in Columbus, Ohio, on Sunday.
+
+## San Francisco restaurant bans armed officers, police union responds
+ - [https://thehill.com/homenews/4174109-san-francisco-restaurant-bans-armed-officers-police-union-responds/](https://thehill.com/homenews/4174109-san-francisco-restaurant-bans-armed-officers-police-union-responds/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T12:41:48.177747+00:00
+
+A San Francisco restaurant is feuding with police on social media after the business implemented a policy that bans armed officers from entering.
+
+## The big diversity problem that no one wants to publicly admit
+ - [https://thehill.com/opinion/finance/4171200-the-big-diversity-problem-that-no-one-wants-to-publicly-admit/](https://thehill.com/opinion/finance/4171200-the-big-diversity-problem-that-no-one-wants-to-publicly-admit/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T12:41:48.175653+00:00
+
+Companies can't find enough Black and brown people to hire.
+
+## Don't let California override the EPA and hijack national farm policy
+ - [https://thehill.com/opinion/technology/4167917-dont-let-california-override-the-epa-and-hijack-national-farm-policy/](https://thehill.com/opinion/technology/4167917-dont-let-california-override-the-epa-and-hijack-national-farm-policy/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T12:41:48.173818+00:00
+
+Some states — California, in particular — are trying to circumvent EPA's career scientists with pesticide labeling regulations that conflict with the EPA's scientific conclusions.
+
+## The Hill's Morning Report — Legal strategies take shape for Trump, allies
+ - [https://thehill.com/newsletters/morning-report/4174374-the-hills-morning-report-legal-strategies-take-shape-for-trump-allies/](https://thehill.com/newsletters/morning-report/4174374-the-hills-morning-report-legal-strategies-take-shape-for-trump-allies/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T11:35:55.935841+00:00
+
+Editor’s note: The Hill’s Morning Report is our daily newsletter that dives deep into Washington’s agenda. To subscribe, click here or fill out the box below. A former president who is fighting 91 criminal charges under four indictments must have a legal strategy. Perhaps several.  Donald Trump, the only current or former president to be in such a...
+
+## Increasingly authoritarian Central America just snubbed Taiwan in favor of China
+ - [https://thehill.com/opinion/international/4171436-increasingly-authoritarian-central-america-just-snubbed-taiwan-in-favor-of-china/](https://thehill.com/opinion/international/4171436-increasingly-authoritarian-central-america-just-snubbed-taiwan-in-favor-of-china/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T11:35:55.933750+00:00
+
+It is urgent that the most powerful nation in the world pay attention to its own backyard.
+
+## 60 years after the March on Washington, MLK’s dream has become a nightmare
+ - [https://thehill.com/opinion/civil-rights/4169965-sixty-years-after-the-march-on-washington-mlks-dream-has-become-a-nightmare/](https://thehill.com/opinion/civil-rights/4169965-sixty-years-after-the-march-on-washington-mlks-dream-has-become-a-nightmare/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T11:35:55.931787+00:00
+
+King’s dream has been misappropriated to demonize the ugly truths of American history and to legislate against honest racial education while sanitizing and distorting the past.
+
+## How an AI 'gold rush' is reviving the tech industry
+ - [https://thehill.com/policy/technology/4171133-how-an-ai-gold-rush-is-reviving-the-tech-industry/](https://thehill.com/policy/technology/4171133-how-an-ai-gold-rush-is-reviving-the-tech-industry/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T10:32:46.355445+00:00
+
+The recent surge in generative artificial intelligence (AI) technology is boosting the tech industry after growth slowed across the sector earlier this year.  As federal interest rates rose and the tech industry was coming off a pandemic-induced high, the once vibrant sector suffered through lower earnings and layoffs throughout the year. Ali Javaheri, an associate...
+
+## Snow day, meet heat day: Summer weather takes bites from school calendars
+ - [https://thehill.com/homenews/education/4171503-snow-day-meet-heat-day-summer-weather-takes-bites-from-school-calendars/](https://thehill.com/homenews/education/4171503-snow-day-meet-heat-day-summer-weather-takes-bites-from-school-calendars/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T10:32:46.353865+00:00
+
+The ritual of snow days is a beloved part of American childhood. Kids wake up on winter mornings with frost in the air and ice on the roads and anxiously check to see if school was canceled or delayed.  But now, summer is chipping away at the academic calendar too: Heat days are taking their...
+
+## Democrats stress need to appeal to Black voters: ‘We have to be very clear about the barrier’
+ - [https://thehill.com/homenews/campaign/4171848-democrats-stress-need-to-appeal-to-black-voters-we-have-to-be-very-clear-about-the-barrier/](https://thehill.com/homenews/campaign/4171848-democrats-stress-need-to-appeal-to-black-voters-we-have-to-be-very-clear-about-the-barrier/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T10:32:46.352164+00:00
+
+Democrats are stressing the need to appeal early to Black voters, a key voting bloc to President Biden in 2020 that is set to play an essential role in 2024.  Four years ago, many across the country were still mourning the murder of George Floyd and facing a reckoning over race and police brutality. Demands...
+
+## Biden urged to get tough as millions lose Medicaid
+ - [https://thehill.com/policy/healthcare/4172130-biden-urged-to-get-tough-as-millions-lose-medicaid/](https://thehill.com/policy/healthcare/4172130-biden-urged-to-get-tough-as-millions-lose-medicaid/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T10:32:46.350053+00:00
+
+Millions of people are being pushed off state Medicaid rolls as the U.S. dismantles one of the last major Covid-era safety nets, and congressional Democrats and health advocates want the Biden administration to do more to ensure people are protected.  Nationwide, nearly 5.5 million people have been purged from state Medicaid rolls across 45 states...
+
+## GOP tensions between Senate, House raise shutdown odds
+ - [https://thehill.com/homenews/senate/4170143-gop-tensions-between-senate-house-raise-shutdown-odds/](https://thehill.com/homenews/senate/4170143-gop-tensions-between-senate-house-raise-shutdown-odds/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T10:32:46.348099+00:00
+
+Senate Republicans are signaling that they’re in no mood to back conservative members of the House Freedom Caucus who are demanding major concessions from Democrats in the annual spending bills, raising the odds of a government shutdown this fall.   Senate Republicans stood firmly behind Speaker Kevin McCarthy (R-Calif.) earlier this year when he demanded...
+
+## Pressley fires back on Ramaswamy’s comments: ‘It is deeply offensive’
+ - [https://thehill.com/homenews/house/4174231-pressley-fires-back-on-ramaswamys-comments-it-is-deeply-offensive/](https://thehill.com/homenews/house/4174231-pressley-fires-back-on-ramaswamys-comments-it-is-deeply-offensive/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T04:07:28.667832+00:00
+
+Rep. Ayanna Pressley (D-Mass.) hit back at GOP presidential candidate Vivek Ramaswamy’s remarks toward her last week, when he compared the congresswoman to “grand wizards in the KKK.” Pressley responded to Ramaswamy’s comments about her and progressive author Ibram X. Kendi on MSNBC’s “PoliticsNation” with host Rev. Al Sharpton on Sunday. “Reverend Al, the verbal assault...
+
+## France to ban Islamic dress in schools
+ - [https://thehill.com/policy/international/4174201-france-to-ban-islamic-dress-in-schools/](https://thehill.com/policy/international/4174201-france-to-ban-islamic-dress-in-schools/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T03:01:46.438866+00:00
+
+France is slated to ban an Islamic garment traditionally worn by some Muslin women from its state-run schools, according to the French education minister. Education Minister Gabriel Attal said during an interview with French TV channel TF1 that the abaya — the full-length robes worn by some Muslim women — will be banned from schools, Reuters reported....
+
+## No Labels to host nominating convention in Dallas in April: Joe Lieberman
+ - [https://thehill.com/homenews/campaign/4174216-no-labels-to-host-nominating-convention-in-dallas-in-april-joe-lieberman/](https://thehill.com/homenews/campaign/4174216-no-labels-to-host-nominating-convention-in-dallas-in-april-joe-lieberman/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T03:01:46.436930+00:00
+
+Former Sen. Joe Lieberman (I-Conn.) said Sunday that the political organization No Labels is scheduled to hold its nominating convention in Dallas next April.   Lieberman, the founding chairman of No Labels, told host Shannon Bream on “Fox News Sunday” that the organization will only pursue its bipartisan ticket if the third party had a shot...
+
+## Pelosi discusses Grateful Dead, Dylan and more
+ - [https://thehill.com/blogs/in-the-know/4174182-pelosi-discusses-grateful-dead-dylan-and-more/](https://thehill.com/blogs/in-the-know/4174182-pelosi-discusses-grateful-dead-dylan-and-more/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-08-28T01:56:48.229361+00:00
+
+Former House Speaker Nancy Pelosi (D-Calif.) recounted her top concert experiences in a new interview with The Los Angeles Times. In a new column with The Los Angeles Times, Pelosi discussed the transition from being Speaker and the minority leader in the House to now just serving as a member of Congress. “You have to...
+
