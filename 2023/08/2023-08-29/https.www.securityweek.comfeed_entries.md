@@ -1,0 +1,90 @@
+# Source:SecurityWeek, URL:https://www.securityweek.com/feed, language:en-US
+
+## Operation ‘Duck Hunt’: Qakbot Malware Disrupted, $8.6 Million in Cryptocurrency Seized
+ - [https://www.securityweek.com/operation-duck-hunt-qakbot-malware-disrupted-8-6-million-in-cryptocurrency-seized/](https://www.securityweek.com/operation-duck-hunt-qakbot-malware-disrupted-8-6-million-in-cryptocurrency-seized/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T21:14:36.113730+00:00
+
+<p>U.S. law enforcement announce the disruption of the notorious Qakbot cybercrime operation and the release of an auto-disinfection tool to 700,000 infected machines.</p>
+<p>The post <a href="https://www.securityweek.com/operation-duck-hunt-qakbot-malware-disrupted-8-6-million-in-cryptocurrency-seized/" rel="nofollow">Operation ‘Duck Hunt’: Qakbot Malware Disrupted, $8.6 Million in Cryptocurrency Seized</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## VMware Patches Major Security Flaws in Network Monitoring Product
+ - [https://www.securityweek.com/vmware-patches-major-security-flaws-in-network-monitoring-product/](https://www.securityweek.com/vmware-patches-major-security-flaws-in-network-monitoring-product/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T19:04:33.746309+00:00
+
+<p>VWware patches critical flaws that allow hackers to bypass SSH authentication and gain access to the Aria Operations for Networks command line interface.</p>
+<p>The post <a href="https://www.securityweek.com/vmware-patches-major-security-flaws-in-network-monitoring-product/" rel="nofollow">VMware Patches Major Security Flaws in Network Monitoring Product</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## OpenAI Turns to Security to Sell ChatGPT Enterprise
+ - [https://www.securityweek.com/openai-turns-to-security-to-sell-chatgpt-enterprise/](https://www.securityweek.com/openai-turns-to-security-to-sell-chatgpt-enterprise/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T18:00:25.972883+00:00
+
+<p>ChatGPT Enterprise is a corporate edition of ChatGPT that promises “enterprise-grade security” and a commitment not to use prompts and company data to train AI models.</p>
+<p>The post <a href="https://www.securityweek.com/openai-turns-to-security-to-sell-chatgpt-enterprise/" rel="nofollow">OpenAI Turns to Security to Sell ChatGPT Enterprise</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## New ‘MMRat’ Android Trojan Targeting Users in Southeast Asia
+ - [https://www.securityweek.com/new-mmrat-android-trojan-targeting-users-in-southeast-asia/](https://www.securityweek.com/new-mmrat-android-trojan-targeting-users-in-southeast-asia/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T18:00:25.970871+00:00
+
+<p>The newly identified MMRat Android trojan has been targeting users in Southeast Asia to remotely control devices and perform bank fraud.</p>
+<p>The post <a href="https://www.securityweek.com/new-mmrat-android-trojan-targeting-users-in-southeast-asia/" rel="nofollow">New &#8216;MMRat&#8217; Android Trojan Targeting Users in Southeast Asia</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## The Reality of Cyberinsurance in 2023
+ - [https://www.securityweek.com/the-reality-of-cyberinsurance-in-2023/](https://www.securityweek.com/the-reality-of-cyberinsurance-in-2023/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T14:36:45.437299+00:00
+
+<p>If an organization decides to include cyberinsurance within its total cyber risk management posture, that cyberinsurance must be fully integrated with the organization’s cybersecurity posture.</p>
+<p>The post <a href="https://www.securityweek.com/the-reality-of-cyberinsurance-in-2023/" rel="nofollow">The Reality of Cyberinsurance in 2023</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Meta Fights Sprawling Chinese ‘Spamouflage’ Operation
+ - [https://www.securityweek.com/meta-fights-sprawling-chinese-spamouflage-operation/](https://www.securityweek.com/meta-fights-sprawling-chinese-spamouflage-operation/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T13:32:08.151674+00:00
+
+<p>Meta has purged thousands of Facebook accounts that were part of a widespread online Chinese spam operation trying to covertly boost China and criticize the West.</p>
+<p>The post <a href="https://www.securityweek.com/meta-fights-sprawling-chinese-spamouflage-operation/" rel="nofollow">Meta Fights Sprawling Chinese &#8216;Spamouflage&#8217; Operation</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Chinese APT Was Prepared for Remediation Efforts in Barracuda ESG Zero-Day Attack
+ - [https://www.securityweek.com/chinese-apt-was-prepared-for-remediation-efforts-in-barracuda-esg-zero-day-attack/](https://www.securityweek.com/chinese-apt-was-prepared-for-remediation-efforts-in-barracuda-esg-zero-day-attack/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T13:32:08.149654+00:00
+
+<p>Chinese threat actor exploiting Barracuda ESG appliances deployed persistence mechanisms in preparation for remediation efforts.</p>
+<p>The post <a href="https://www.securityweek.com/chinese-apt-was-prepared-for-remediation-efforts-in-barracuda-esg-zero-day-attack/" rel="nofollow">Chinese APT Was Prepared for Remediation Efforts in Barracuda ESG Zero-Day Attack</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## UN Warns Hundreds of Thousands in Southeast Asia Roped Into Online Scams
+ - [https://www.securityweek.com/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/](https://www.securityweek.com/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T13:32:08.147880+00:00
+
+<p>A new report sheds light on cybercrime scams that have become a major issue in Asia, with many workers trapped in virtual slavery.</p>
+<p>The post <a href="https://www.securityweek.com/un-warns-hundreds-of-thousands-in-southeast-asia-roped-into-online-scams/" rel="nofollow">UN Warns Hundreds of Thousands in Southeast Asia Roped Into Online Scams</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Did Microsoft Just Upend the Enterprise Browser Market?
+ - [https://www.securityweek.com/did-microsoft-just-upend-the-enterprise-browser-market/](https://www.securityweek.com/did-microsoft-just-upend-the-enterprise-browser-market/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T13:32:08.145181+00:00
+
+<p>NEWS ANALYSIS: Redmond plants its feet firmly in the enterprise browser space, sending major ripples through Silicon Valley's bustling venture-backed startup ecosystem.</p>
+<p>The post <a href="https://www.securityweek.com/did-microsoft-just-upend-the-enterprise-browser-market/" rel="nofollow">Did Microsoft Just Upend the Enterprise Browser Market?</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Security Team Huddle: Using the Full NIST Cybersecurity Framework for the Win
+ - [https://www.securityweek.com/security-team-huddle-using-the-full-nist-cybersecurity-framework-for-the-win/](https://www.securityweek.com/security-team-huddle-using-the-full-nist-cybersecurity-framework-for-the-win/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T11:21:38.170608+00:00
+
+<p>Just as a professional football team needs coordination, strategy and adaptability to secure a win on the field, a well-rounded cybersecurity strategy must address specific challenges and threats.</p>
+<p>The post <a href="https://www.securityweek.com/security-team-huddle-using-the-full-nist-cybersecurity-framework-for-the-win/" rel="nofollow">Security Team Huddle: Using the Full NIST Cybersecurity Framework for the Win</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Personal, Health Information of 1.2 Million Stolen in PurFoods Ransomware Attack
+ - [https://www.securityweek.com/personal-health-information-of-1-2-million-stolen-in-purfoods-ransomware-attack/](https://www.securityweek.com/personal-health-information-of-1-2-million-stolen-in-purfoods-ransomware-attack/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-08-29T11:21:38.168647+00:00
+
+<p>PurFoods says the personal and protected health information of over 1.2 million individuals was stolen in a February 2023 ransomware attack.</p>
+<p>The post <a href="https://www.securityweek.com/personal-health-information-of-1-2-million-stolen-in-purfoods-ransomware-attack/" rel="nofollow">Personal, Health Information of 1.2 Million Stolen in PurFoods Ransomware Attack</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
