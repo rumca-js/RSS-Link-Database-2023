@@ -1,0 +1,163 @@
+# Source:NBC world, URL:https://feeds.nbcnews.com/nbcnews/public/world, language:en-US
+
+## Johannesburg building fire kills at least 74 people
+ - [https://www.nbcnews.com/nightly-news/video/johannesburg-building-fire-kills-at-least-74-people-192014405799](https://www.nbcnews.com/nightly-news/video/johannesburg-building-fire-kills-at-least-74-people-192014405799)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T23:01:16+00:00
+
+A fire engulfed a five story building in Johannesburg, South Africa, killing at least 74 people, including 12 children. The building had been abandoned and was filled with an estimated 200 homeless squatters. NBC News’ Matt Bradley has more details.
+
+## Mother who was arrested after son criticized Bangladesh government online is released on bail
+ - [https://www.nbcnews.com/news/asian-america/mother-was-arrested-son-criticized-bangladesh-government-online-releas-rcna102741](https://www.nbcnews.com/news/asian-america/mother-was-arrested-son-criticized-bangladesh-government-online-releas-rcna102741)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T22:48:44+00:00
+
+Anisa Siddika was arrested three days after her son, Tanzilur Rahman, posted thoughts on Facebook about the Bangladesh government’s role in a war crime trial.
+
+## Guatemala’s Congress refuses to recognize president-elect’s party
+ - [https://www.nbcnews.com/news/latino/guatemalas-congress-refuses-recognize-president-elects-party-rcna102866](https://www.nbcnews.com/news/latino/guatemalas-congress-refuses-recognize-president-elects-party-rcna102866)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T21:15:12+00:00
+
+Guatemala’s Congress refused to recognize lawmakers from the Seed Movement party of President-elect Bernardo Arévalo following the suspension of his party earlier this week.
+
+## Abortion is now decriminalized in 12 Mexican states
+ - [https://www.nbcnews.com/news/latino/abortion-now-decriminalized-12-mexican-states-rcna102864](https://www.nbcnews.com/news/latino/abortion-now-decriminalized-12-mexican-states-rcna102864)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T21:00:03+00:00
+
+Mexico’s Supreme Court said this week that it had decriminalized abortion in the central state of Aguascalientes, making it the twelfth Mexican state to revoke criminal penalties for the procedure.
+
+## Five million bees fall from truck in Canada, causing chaos
+ - [https://www.nbcnews.com/video/five-million-bees-fall-from-truck-in-canada-causing-chaos-191998021613](https://www.nbcnews.com/video/five-million-bees-fall-from-truck-in-canada-causing-chaos-191998021613)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T19:59:09+00:00
+
+A truck carrying five million bees in crates spilled onto the road near Toronto, causing police to warn drivers to keep their car windows closed.
+
+## Ukraine claims gains in push to break through Russia’s main defensive lines
+ - [https://www.nbcnews.com/news/world/russia-ukraine-war-counteroffensive-breakthough-crimea-rcna102799](https://www.nbcnews.com/news/world/russia-ukraine-war-counteroffensive-breakthough-crimea-rcna102799)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T18:43:44+00:00
+
+Kyiv's forces have made important gains on the front line in the southeast of the country, according to the Ukrainian military.
+
+## Biden does not plan to meet Chinese counterpart Xi at G20
+ - [https://www.nbcnews.com/politics/white-house/biden-xi-jinping-china-meeting-g20-rcna102745](https://www.nbcnews.com/politics/white-house/biden-xi-jinping-china-meeting-g20-rcna102745)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T15:54:57+00:00
+
+President Joe Biden does not plan to formally meet his Chinese counterpart Xi Jinping at the G20 summit in India, administration officials told NBC News.
+
+## Over 70 killed in building fire in Johannesburg, South Africa
+ - [https://www.nbcnews.com/now/video/over-70-killed-in-building-fire-in-johannesburg-south-africa-191973957785](https://www.nbcnews.com/now/video/over-70-killed-in-building-fire-in-johannesburg-south-africa-191973957785)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T15:20:38+00:00
+
+At least 73 people died when a nighttime fire ripped through a rundown five-story building in Johannesburg that was used by homeless people, emergency services said. NBC News' Kelly Cobiella reports.
+
+## Prigozhin dismissed security fears days before his death, video appears to show
+ - [https://www.nbcnews.com/news/world/prigozhin-dismissed-security-fears-days-plane-crash-video-appears-show-rcna102699](https://www.nbcnews.com/news/world/prigozhin-dismissed-security-fears-days-plane-crash-video-appears-show-rcna102699)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T14:44:44+00:00
+
+A newly released video appears to show Wagner mercenary chief Yevgeny Prigozhin just days before he was killed in a plane crash.
+
+## Where are they? Chile launches national search plan over disappeared after 1973 coup
+ - [https://www.nbcnews.com/news/latino/chile-launches-search-plan-disappeared-1973-coup-50-yrs-ago-rcna102716](https://www.nbcnews.com/news/latino/chile-launches-search-plan-disappeared-1973-coup-50-yrs-ago-rcna102716)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T14:13:15+00:00
+
+Chile announced a national search plan over the thousands who disappeared under right-wing Pres. Augusto Pinochet after the coup against Pres. Salvador Allende 50 years ago on Sept. 11.
+
+## Workers walk out in rare labor dispute over planned department store sale in Japan
+ - [https://www.nbcnews.com/video/workers-go-on-strike-at-japanese-department-store-191958085680](https://www.nbcnews.com/video/workers-go-on-strike-at-japanese-department-store-191958085680)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T14:12:24.084314+00:00
+
+The labor union at the Japanese department store operator Sogo & Seibu Co. went on strike as its parent company, Seven & i, was expected to go ahead with the sale of the retail chain to a U.S.-based fund.
+
+## Video purports to show Wagner's Prigozhin in Africa shortly before his death
+ - [https://www.nbcnews.com/video/video-purports-to-show-wagner-s-prigozhin-in-africa-shortly-before-his-death-191962181716](https://www.nbcnews.com/video/video-purports-to-show-wagner-s-prigozhin-in-africa-shortly-before-his-death-191962181716)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T14:12:24.082804+00:00
+
+A newly released video of Russian mercenary boss Yevgeny Prigozhin, published on a social media channel linked to his Wagner Group, purports to show him in Africa only days before his death, addressing speculation about his well-being.
+
+## Russia and North Korea are ‘actively advancing’ in arms talks, U.S. warns
+ - [https://www.nbcnews.com/news/world/russia-north-korea-arms-talks-ukraine-war-rcna102700](https://www.nbcnews.com/news/world/russia-north-korea-arms-talks-ukraine-war-rcna102700)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T12:50:50.952327+00:00
+
+Arms negotiations between North Korea and Russia are "actively advancing," the United States said Wednesday, citing new intelligence.
+
+## Deadly fire tears through Johannesburg building used by homeless people
+ - [https://www.nbcnews.com/video/fire-kills-over-70-people-in-johannesburg-building-housing-homeless-191954501779](https://www.nbcnews.com/video/fire-kills-over-70-people-in-johannesburg-building-housing-homeless-191954501779)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T11:43:59.730725+00:00
+
+More than 70 people died when a nighttime fire ripped through a rundown five-story building in Johannesburg that was used by homeless people, emergency services said.
+
+## A Nebraska volleyball game just broke the world record for women's sports attendance
+ - [https://www.nbcnews.com/news/us-news/nebraska-volleyball-world-record-womens-sports-attendance-rcna102695](https://www.nbcnews.com/news/us-news/nebraska-volleyball-world-record-womens-sports-attendance-rcna102695)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T11:43:59.717758+00:00
+
+The Nebraska Cornhuskers say their volleyball match against Omaha on Wednesday night broke U.S. and world records for attendance of a women's sporting event.
+
+## Arms talks between Russia and North Korea advancing, U.S. says
+ - [https://www.nbcnews.com/video/arms-talks-between-russia-and-north-korea-advancing-u-s-says-191952453940](https://www.nbcnews.com/video/arms-talks-between-russia-and-north-korea-advancing-u-s-says-191952453940)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T10:41:41.604371+00:00
+
+U.S. officials say arms negotiations between Russia and North Korea are "actively advancing." NBC News' Ali Arouzi has details of the increasingly close relationship.
+
+## Barack Obama and others urge Bangladesh to halt legal cases against Peace Prize winner
+ - [https://www.nbcnews.com/news/world/bangladesh-urged-halt-legal-cases-muhammad-yunus-rcna102698](https://www.nbcnews.com/news/world/bangladesh-urged-halt-legal-cases-muhammad-yunus-rcna102698)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T10:41:41.593270+00:00
+
+More than 170 global leaders and Nobel laureates urged Bangladesh’s prime minister to suspend legal proceedings against Nobel Peace laureate Muhammad Yunus.
+
+## With their economies intertwined, U.S. and China take cautious steps to repair ties
+ - [https://www.nbcnews.com/news/world/us-china-gina-raimondo-economy-rcna102507](https://www.nbcnews.com/news/world/us-china-gina-raimondo-economy-rcna102507)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T10:41:41.591682+00:00
+
+U.S. Commerce Secretary Gina Raimondo finished her trip to China having revived talks on commercial issues between the world’s two largest economies.
+
+## WATCH: Stunning blue supermoon dazzles stargazers around the world
+ - [https://www.nbcnews.com/video/august-s-blue-supermoon-shines-in-the-night-sky-191950405972](https://www.nbcnews.com/video/august-s-blue-supermoon-shines-in-the-night-sky-191950405972)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T08:35:15.635827+00:00
+
+From east to west, August's blue supermoon caught the attention of people around the world.
+
+## Workers stage Japan’s first strike in decades to protest department store sale to U.S. fund
+ - [https://www.nbcnews.com/news/world/workers-strike-japan-protest-department-store-sale-rcna102696](https://www.nbcnews.com/news/world/workers-strike-japan-protest-department-store-sale-rcna102696)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T08:35:15.625930+00:00
+
+Workers at a major Tokyo department store went on strike on Thursday after talks with management over the planned sale of their company broke down, marking the first major walk-out the country has seen in decades.
+
+## Biden approves military aid to Taiwan under program normally used for sovereign states
+ - [https://www.nbcnews.com/news/world/biden-approves-military-aid-taiwan-program-rcna102697](https://www.nbcnews.com/news/world/biden-approves-military-aid-taiwan-program-rcna102697)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T08:35:15.624114+00:00
+
+President Joe Biden’s administration has approved a military transfer to Taiwan under the Foreign Military Financing, or FMF, program normally used for sovereign states, according to a notification sent to Congress.
+
+## More than 50 killed in building fire in South Africa's Johannesburg, many homeless
+ - [https://www.nbcnews.com/news/world/fire-south-africa-johannesburg-homeless-dead-rcna102694](https://www.nbcnews.com/news/world/fire-south-africa-johannesburg-homeless-dead-rcna102694)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T07:31:07.419714+00:00
+
+At least 58 people died when a fire ripped through a multi-story building in Johannesburg that had been overtaken by homeless people, emergency services said Thursday.
+
+## North Korea launches ballistic missiles toward the sea after U.S. flies bombers during drills
+ - [https://www.nbcnews.com/news/world/north-korea-ballistic-missiles-us-bombers-rcna102685](https://www.nbcnews.com/news/world/north-korea-ballistic-missiles-us-bombers-rcna102685)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2023-08-31T03:15:59.358247+00:00
+
+North Korea launched two short-range ballistic missiles toward the sea, its neighbors said, after the U.S. flew long-range bombers for drills with its allies.
+
