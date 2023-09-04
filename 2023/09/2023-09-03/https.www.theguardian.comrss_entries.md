@@ -1,5 +1,19 @@
 # Source:The Guardian, URL:https://www.theguardian.com/rss, language:en-UK
 
+## Japan wrestles with its views on ‘outside people’ amid population crisis
+ - [https://www.theguardian.com/world/2023/sep/04/japan-wrestles-with-its-views-on-outside-people-amid-population-crisis](https://www.theguardian.com/world/2023/sep/04/japan-wrestles-with-its-views-on-outside-people-amid-population-crisis)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-09-03T23:31:38+00:00
+
+<p>Low birthrate and ageing population pose ‘an urgent risk to society’, but can opening its borders to skilled overseas workers fix the problem?</p><p>Murumuru spends his weekends toiling on building sites in Japan in the sticky heat of summer to supplement the income from his other job at a bakery.</p><p>A certified IT specialist, he arrived in Tokyo from Sri Lanka a year ago, hoping to take advantage of job opportunities that have opened up as part of Japan’s efforts to <a href="https://www.theguardian.com/world/2023/jan/24/japan-birthrate-population-pm-solution-already-rejected-by-young">tackle its population crisis</a> and encourage more immigration.</p> <a href="https://www.theguardian.com/world/2023/sep/04/japan-wrestles-with-its-views-on-outside-people-amid-population-crisis">Continue reading...</a>
+
+## Russia-Ukraine war at a glance: what we know on day 558 of the invasion
+ - [https://www.theguardian.com/world/2023/sep/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-558-of-the-invasion](https://www.theguardian.com/world/2023/sep/04/russia-ukraine-war-at-a-glance-what-we-know-on-day-558-of-the-invasion)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-09-03T23:19:51+00:00
+
+<p>Volodymyr Zelenskiy to dismiss defence minster Oleksii Reznikov; Russia strikes port infrastructure in Odesa critical to grain exports</p><ul><li><a href="https://www.theguardian.com/world/russia+ukraine">See all our Russia-Ukraine coverage</a></li></ul><p><strong>Ukrainian president Volodymyr Zelenskiy <a href="https://www.theguardian.com/world/2023/sep/03/volodymyr-zelenskiy-sacks-defence-minister-and-lines-up-replacement">has said he plans to dismiss the defence minister, Oleksii Reznikov</a>, from his post and will ask parliament this week to replace him with Rustem Umerov, the head of Ukraine’s main privatisation fund</strong>. The announcement, made in the Ukrainian president’s nightly video address to the nation, sets the stage for the biggest shake-up of Ukraine’s defence establishment since the war was launched by Russia in February 2022. Zelenskiy has to submit Umerov’s candidacy to parliament for review.</p><p><strong>Russian drones hit Danube River port infrastructure<
+
 ## High interest rates ‘will lead to thousands of UK firms failing in 2024’
  - [https://www.theguardian.com/business/2023/sep/04/high-interest-rates-lead-thousands-firms-failing-2024](https://www.theguardian.com/business/2023/sep/04/high-interest-rates-lead-thousands-firms-failing-2024)
  - RSS feed: https://www.theguardian.com/rss

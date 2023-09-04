@@ -136,6 +136,14 @@
 <img alt="Niesamowita koszykarska sensacja" src="https://tvn24.pl/najnowsze/cdn-zdjecie-9n69mi-brazdeikis-7324269/alternates/LANDSCAPE_1280" />
     Kibice przecierali oczy ze zdumienia.
 
+## Wiatr porwał dmuchaniec, na którym bawiło się 2,5-letnie dziecko
+ - [https://tvn24.pl/katowice/tarnowskie-gory-wiatr-porwal-dmuchaniec-na-tarnogorskim-pikniku-militarnym-ranne-dziecko-7324256?source=rss](https://tvn24.pl/katowice/tarnowskie-gory-wiatr-porwal-dmuchaniec-na-tarnogorskim-pikniku-militarnym-ranne-dziecko-7324256?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-09-03T14:49:45+00:00
+
+<img alt="Wiatr porwał dmuchaniec, na którym bawiło się 2,5-letnie dziecko" src="https://tvn24.pl/najnowsze/cdn-zdjecie-mpbozu-do-wypadku-doszlo-podczas-tarnogorskiego-pikniku-militarnego-7324252/alternates/LANDSCAPE_1280" />
+    Zostało zabrane do szpitala śmigłowcem.
+
 ## Wiatr porwał dmuchańca, na którym bawił się 2,5-letni chłopiec
  - [https://tvn24.pl/katowice/tarnowskie-gory-wiatr-porwal-dmuchanca-na-tarnogorskim-pikniku-militarnym-ranne-dziecko-7324256?source=rss](https://tvn24.pl/katowice/tarnowskie-gory-wiatr-porwal-dmuchanca-na-tarnogorskim-pikniku-militarnym-ranne-dziecko-7324256?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml

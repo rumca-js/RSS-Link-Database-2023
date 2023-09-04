@@ -1,5 +1,33 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Ukraiński oligarcha zarobi kosztem polskich inwestorów. „Interwencję powinny podjąć polskie i ukraińskie władze”
+ - [https://www.bankier.pl/wiadomosc/Ukrainski-oligarcha-zarobi-kosztem-polskich-inwestorow-Interwencje-powinny-podjac-polskie-i-ukrainskie-wladze-8604838.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ukrainski-oligarcha-zarobi-kosztem-polskich-inwestorow-Interwencje-powinny-podjac-polskie-i-ukrainskie-wladze-8604838.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-03T22:58:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/b/9/ddd0ffc05f88dc-948-568-16-28-1584-950.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Próba ściągnięcia z GPW największej ukraińskiej spółki budzi ogromne kontrowersje, ponieważ odbywa się kosztem m.in. drobnych inwestorów i potężnych otwartych funduszy emerytalnych. Wszyscy oni są póki co bezradni w starciu z ukraińskim miliarderem, który w opinii mojego rozmówcy podkopuje zaufanie zagranicznych inwestorów do ewentualnych inwestycji w odbudowę Ukrainy po wojnie.</p>
+
+## Kobiety lepiej przeprowadzają operacje chirurgiczne niż mężczyźni
+ - [https://www.bankier.pl/wiadomosc/Kobiety-lepiej-przeprowadzaja-operacje-chirurgiczne-niz-mezczyzni-8604828.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kobiety-lepiej-przeprowadzaja-operacje-chirurgiczne-niz-mezczyzni-8604828.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-03T21:16:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/4/9/293e170594bcd9-948-568-594-311-3102-1861.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Wyniki operacji chirurgicznej są lepsze, jeżeli operuje kobieta - poinformował w niedzielę portal I24, powołując się na badania opublikowane przez amerykański specjalistyczny periodyk medyczny Journal of the American Medical Association Surgery (JAMA). Z analiz wynika, że pacjenci operowani przez chirurgów-mężczyzn mieli o 25 procent wyższe ryzyko zgonu w ciągu roku po operacji w porównaniu z tymi, których operowały kobiety.</p>
+
+## Zmiana na stanowisku ministra obrony. Znamy już następcę Reznikowa
+ - [https://www.bankier.pl/wiadomosc/Zmiana-na-stanowisku-ministra-obrony-Znamy-juz-nastepce-Reznikowa-8604823.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Zmiana-na-stanowisku-ministra-obrony-Znamy-juz-nastepce-Reznikowa-8604823.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-03T20:32:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/2/d/84eee6e798a040-948-568-35-0-1875-1124.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Prezydent Ukrainy Wołodymyr Zełenski poinformował w niedzielę, że zaproponuje parlamentowi odwołanie ze stanowiska obecnego ministra obrony Ołeksija Reznikowa i powołanie na jego miejsce Rustema Umerowa - obecnego szefa Funduszu Mienia Państwowego Ukrainy.</p>
+
+## Kraj chce zakazu przedłużania paznokci i rzęs
+ - [https://www.bankier.pl/wiadomosc/Kraj-chce-zakazu-przedluzania-paznokci-i-rzes-8604816.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kraj-chce-zakazu-przedluzania-paznokci-i-rzes-8604816.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-03T19:24:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/e/2/fa614a0a17caea-948-568-0-29-1670-1001.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Irański parlament rozważa zakaz przedłużania paznokci i rzęs - poinformował portal Iran International, powołując się na gazetę "Etemad". Nowa regulacja miałaby znaleźć się w wymierzonej w kobiety "Ustawie o wspieraniu rodziny poprzez promowanie kultury czystości i hidżabu". Członkowie parlamentu dyskutują o różnych wariantach zakazu, w tym dla studentek, nauczycielek i kobiet zatrudnionych w edukacji.</p>
+
 ## Francja wprowadzi zakaz jednorazowych papierosów elektronicznych
  - [https://www.bankier.pl/wiadomosc/Francja-wprowadzi-zakaz-jednorazowych-papierosow-elektronicznych-8604813.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Francja-wprowadzi-zakaz-jednorazowych-papierosow-elektronicznych-8604813.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml

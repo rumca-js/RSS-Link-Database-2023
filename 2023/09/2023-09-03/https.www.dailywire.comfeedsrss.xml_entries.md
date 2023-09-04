@@ -1,5 +1,61 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Pence Responds To Ramaswamy’s Israel Remarks: He Goes ‘One Direction Then Goes Back Another Direction’
+ - [https://www.dailywire.com/news/pence-responds-to-ramaswamys-israel-remarks-he-goes-one-direction-then-goes-back-another-direction](https://www.dailywire.com/news/pence-responds-to-ramaswamys-israel-remarks-he-goes-one-direction-then-goes-back-another-direction)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T23:33:21+00:00
+
+Former Vice President Mike Pence criticized fellow Republican presidential candidate Vivek Ramaswamy over the weekend for appearing to make contradictory statements about Israel, saying that he has a &#8220;pattern&#8221; where he &#8220;goes one direction, then goes back another direction.&#8221; Pence made the remarks during an with Fox News host Shannon Bream on &#8220;Fox News Sunday&#8221; ...
+
+## Smash Mouth Singer Steve Harwell Enters Hospice Care At Only 56 Years Old
+ - [https://www.dailywire.com/news/smash-mouth-singer-steve-harwell-enters-hospice-care-at-only-56-years-old](https://www.dailywire.com/news/smash-mouth-singer-steve-harwell-enters-hospice-care-at-only-56-years-old)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T22:13:36+00:00
+
+Steve Harwell, the former longtime frontman of Smash Mouth, is reportedly on his death bed after entering hospice care. TMZ reported on Sunday that Harwell entered hospice care after reaching the final stage of liver failure following a lifelong battle with alcohol addiction. The publication said that hospice care is being administered to him at ...
+
+## Sununu To GOP Candidates: ‘Call Balls And Strikes’ With Trump, ‘Don’t Make Things Personal’
+ - [https://www.dailywire.com/news/sununu-to-gop-candidates-call-balls-and-strikes-with-trump-dont-make-things-personal](https://www.dailywire.com/news/sununu-to-gop-candidates-call-balls-and-strikes-with-trump-dont-make-things-personal)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T21:47:03+00:00
+
+New Hampshire Governor Chris Sununu said over the weekend that Republican presidential candidates trying to beat former President Donald Trump for the party&#8217;s nomination need to simply call &#8220;balls and strikes&#8221; when it comes to the former president and not launch into making personal attacks against him. Sununu made the remarks during an NBC News ...
+
+## DeSantis Rips Biden And The Media Over ‘Total Catastrophe’ In Maui
+ - [https://www.dailywire.com/news/desantis-rips-biden-and-the-media-over-total-catastrophe-in-maui](https://www.dailywire.com/news/desantis-rips-biden-and-the-media-over-total-catastrophe-in-maui)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T20:37:42+00:00
+
+Florida Governor Ron DeSantis slammed the Biden administration and the mainstream media over the weekend for largely ignoring the tragic fire that burned a historic Hawaiian town to the ground. DeSantis made the remarks during a press conference on Sunday while talking about his state&#8217;s recovery efforts from Hurricane Idalia. &#8220;Do you trust the federal ...
+
+## Former Maryland Governor Larry Hogan: Some GOP Candidates Need To Drop Out Of Race
+ - [https://www.dailywire.com/news/former-maryland-governor-larry-hogan-some-gop-candidates-need-to-drop-out-of-race](https://www.dailywire.com/news/former-maryland-governor-larry-hogan-some-gop-candidates-need-to-drop-out-of-race)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T20:11:35+00:00
+
+Former Maryland Governor Larry Hogan said over the weekend that it was time for some of the Republican presidential candidates to drop out of the race. Hogan, a Republican who opposes former President Donald Trump, made the remarks during an interview on CBS News&#8217; &#8220;Face The Nation&#8221; on Sunday with guest host Robert Costa while ...
+
+## Dr. Marty Makary Criticizes ‘Highly Partisan’ Experts For Changing Medical Community During Pandemic
+ - [https://www.dailywire.com/news/dr-marty-makary-criticizes-highly-partisan-experts-for-changing-medical-community-during-pandemic](https://www.dailywire.com/news/dr-marty-makary-criticizes-highly-partisan-experts-for-changing-medical-community-during-pandemic)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T20:09:09+00:00
+
+Johns Hopkins University health policy expert and surgeon Dr. Marty Makary said on Sunday that &#8220;highly partisan&#8221; experts changed the culture of medicine during the COVID-19 pandemic after recent remarks from Dr. Anthony Fauci responding to a study that said masks didn&#8217;t work. &#8220;There&#8217;s been a lot of groupthink — there has been an attempt ...
+
+## DeSantis Slams Climate Alarmists: Saying That Adopting Leftist Policies Will Stop Hurricanes ‘Is A Lie’
+ - [https://www.dailywire.com/news/desantis-slams-climate-alarmists-saying-that-adopting-leftist-policies-will-stop-hurricanes-is-a-lie](https://www.dailywire.com/news/desantis-slams-climate-alarmists-saying-that-adopting-leftist-policies-will-stop-hurricanes-is-a-lie)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T19:34:15+00:00
+
+Florida Governor Ron DeSantis slammed left-wing climate alarmists over the weekend for trying to advance their policy agenda in the wake of Hurricane Idalia. DeSantis made the remarks during a press conference on Sunday while giving an update on the status of recovery operations in the state. His remarks come after President Joe Biden visited ...
+
+## Kentucky’s Democratic Governor Won’t Commit To Replacing McConnell With A Republican
+ - [https://www.dailywire.com/news/kentuckys-democratic-governor-wont-commit-to-replacing-mcconnell-with-a-republican](https://www.dailywire.com/news/kentuckys-democratic-governor-wont-commit-to-replacing-mcconnell-with-a-republican)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-03T19:28:59+00:00
+
+Governor Andy Beshear (D-KY) has so far not committed to replacing Senator Mitch McConnell (R-KY) with another Republican, should the Senate Minority Leader&#8217;s health become a persistent problem. Beshear evaded the question about a possible Senate vacancy — pointing out the fact that McConnell has given no indication he intends to retire before the end ...
+
 ## Best Buy Employee Says Tech Company Fired Him After He Exposed Alleged Religious Discrimination, LGBTQ Preference
  - [https://www.dailywire.com/news/best-buy-employee-says-tech-company-fired-him-after-he-exposed-alleged-religious-discrimination-lgbtq-preference](https://www.dailywire.com/news/best-buy-employee-says-tech-company-fired-him-after-he-exposed-alleged-religious-discrimination-lgbtq-preference)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

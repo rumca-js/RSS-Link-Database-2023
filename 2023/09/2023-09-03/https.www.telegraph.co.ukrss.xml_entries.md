@@ -1,5 +1,12 @@
 # Source:The Telegraph Top Stories, URL:https://www.telegraph.co.uk/rss.xml, language:en-UK
 
+## King presents prestigious award to his former school's pipe band
+ - [https://www.telegraph.co.uk/royal-family/2023/09/04/king-presents-award-gordonstoun-pipe-band/](https://www.telegraph.co.uk/royal-family/2023/09/04/king-presents-award-gordonstoun-pipe-band/)
+ - RSS feed: https://www.telegraph.co.uk/rss.xml
+ - date published: 2023-09-03T23:58:30+00:00
+
+
+
 ## Bastien Chalureau faces calls to be dropped from France after racially motivated attack
  - [https://www.telegraph.co.uk/rugby-union/2023/09/03/bastien-chalureau-france-world-cup-squad-racism-attack/](https://www.telegraph.co.uk/rugby-union/2023/09/03/bastien-chalureau-france-world-cup-squad-racism-attack/)
  - RSS feed: https://www.telegraph.co.uk/rss.xml

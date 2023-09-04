@@ -1,5 +1,25 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Bigger, better, faster, more
+ - [https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/](https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T23:27:48+00:00
+
+<p>Article URL: <a href="https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/">https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37375631">https://news.ycombinator.com/item?id=37375631</a></p>
+<p>Points: 58</p>
+<p># Comments: 19</p>
+
+## John le Carré's 'The Spy Who Came in from the Cold' is the ultimate spy novel
+ - [https://www.bbc.com/culture/article/20230831-why-john-le-carrs-the-spy-who-came-in-from-the-cold-is-the-ultimate-spy-novel](https://www.bbc.com/culture/article/20230831-why-john-le-carrs-the-spy-who-came-in-from-the-cold-is-the-ultimate-spy-novel)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T23:21:17+00:00
+
+<p>Article URL: <a href="https://www.bbc.com/culture/article/20230831-why-john-le-carrs-the-spy-who-came-in-from-the-cold-is-the-ultimate-spy-novel">https://www.bbc.com/culture/article/20230831-why-john-le-carrs-the-spy-who-came-in-from-the-cold-is-the-ultimate-spy-novel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37375585">https://news.ycombinator.com/item?id=37375585</a></p>
+<p>Points: 20</p>
+<p># Comments: 14</p>
+
 ## Invented Tradition
  - [https://en.wikipedia.org/wiki/Invented_tradition](https://en.wikipedia.org/wiki/Invented_tradition)
  - RSS feed: https://hnrss.org/frontpage
@@ -10,6 +30,26 @@
 <p>Points: 11</p>
 <p># Comments: 1</p>
 
+## Lego 3-axis styrofoam cutter [video]
+ - [https://www.youtube.com/watch?v=gR0SYhG76fw](https://www.youtube.com/watch?v=gR0SYhG76fw)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T22:35:03+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=gR0SYhG76fw">https://www.youtube.com/watch?v=gR0SYhG76fw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37375254">https://news.ycombinator.com/item?id=37375254</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+## Scientists finally know why Germany’s wild boar are surprisingly radioactive
+ - [https://www.washingtonpost.com/climate-environment/2023/09/03/radioactive-wild-boar/](https://www.washingtonpost.com/climate-environment/2023/09/03/radioactive-wild-boar/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T22:00:40+00:00
+
+<p>Article URL: <a href="https://www.washingtonpost.com/climate-environment/2023/09/03/radioactive-wild-boar/">https://www.washingtonpost.com/climate-environment/2023/09/03/radioactive-wild-boar/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37375008">https://news.ycombinator.com/item?id=37375008</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
 ## Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory
  - [https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -19,6 +59,26 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=37374966">https://news.ycombinator.com/item?id=37374966</a></p>
 <p>Points: 91</p>
 <p># Comments: 37</p>
+
+## Confessions of a Netflix DVD Dead-Ender
+ - [https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/](https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T21:23:22+00:00
+
+<p>Article URL: <a href="https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/">https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37374753">https://news.ycombinator.com/item?id=37374753</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
+
+## He created the Katamari games, but they’re rolling on without him
+ - [https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T20:56:25+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html">https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37374489">https://news.ycombinator.com/item?id=37374489</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
 ## RadioShack’s new owner plots old comeback strategy
  - [https://retailwire.com/discussion/radioshacks-new-owner-plots-old-comeback-strategy/](https://retailwire.com/discussion/radioshacks-new-owner-plots-old-comeback-strategy/)
@@ -160,6 +220,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=37372914">https://news.ycombinator.com/item?id=37372914</a></p>
 <p>Points: 15</p>
 <p># Comments: 3</p>
+
+## Recreating the THX Deep Note (2009)
+ - [https://earslap.com/article/recreating-the-thx-deep-note.html](https://earslap.com/article/recreating-the-thx-deep-note.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-03T17:32:28+00:00
+
+<p>Article URL: <a href="https://earslap.com/article/recreating-the-thx-deep-note.html">https://earslap.com/article/recreating-the-thx-deep-note.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37372249">https://news.ycombinator.com/item?id=37372249</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
 ## USPS Isn't Paying 45,000 Rural Postal Workers This Week
  - [https://jalopnik.com/usps-isnt-paying-45-000-rural-postal-workers-this-week-1850797494](https://jalopnik.com/usps-isnt-paying-45-000-rural-postal-workers-this-week-1850797494)

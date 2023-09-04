@@ -1,5 +1,12 @@
 # Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
+## CNBC Daily Open: Why did the unemployment rate rise even as jobs were added?
+ - [https://www.cnbc.com/2023/09/04/stock-markets-why-unemployment-rate-rose-even-as-jobs-were-added.html](https://www.cnbc.com/2023/09/04/stock-markets-why-unemployment-rate-rose-even-as-jobs-were-added.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-03T23:46:23+00:00
+
+The U.S. economy added more jobs in July, but the overall unemployment rate rose. This may sound counterintuitive, but there’s a simple explanation.
+
 ## A new hotel trend that puts you to sleep — literally
  - [https://www.cnbc.com/2023/09/04/how-to-sleep-better-hotels-are-luring-guests-with-sleep-tourism-.html](https://www.cnbc.com/2023/09/04/how-to-sleep-better-hotels-are-luring-guests-with-sleep-tourism-.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html

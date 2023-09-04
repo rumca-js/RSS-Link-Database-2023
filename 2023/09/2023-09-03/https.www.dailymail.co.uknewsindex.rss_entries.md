@@ -1,5 +1,68 @@
 # Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
+## Look away Clarkson! Kelly Brook plans her very own farming show to rival former Top Gear star's Amazon smash after filming a pilot with husband Jeremy Parisi in Italy
+ - [https://www.dailymail.co.uk/tvshowbiz/kelly-brook/article-12476749/Look-away-Clarkson-Kelly-Brook-plans-farming-rival-former-Gear-stars-Amazon-smash-filming-pilot-husband-Jeremy-Parisi-Italy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/kelly-brook/article-12476749/Look-away-Clarkson-Kelly-Brook-plans-farming-rival-former-Gear-stars-Amazon-smash-filming-pilot-husband-Jeremy-Parisi-Italy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:57:11+00:00
+
+The former glamour model, 43, made a significant breakthrough career change and is now working on her own farming show alongside her loved one Jeremy Parisi, 38.
+
+## Hardworking Aussie claims $2.5m Lotto prize and reveals incredible plan for the money
+ - [https://www.dailymail.co.uk/news/article-12476921/Hardworking-Aussie-claims-2-5m-Lotto-prize-reveals-incredible-plan-money.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476921/Hardworking-Aussie-claims-2-5m-Lotto-prize-reveals-incredible-plan-money.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:56:54+00:00
+
+The Aussie was oblivious to their good fortune until an official from The Lott called on Sunday morning.
+
+## Pippa Middleton dazzles at friend's wedding and displays cryptic show of support for beleaguered father-in-law David Matthews amid police probe
+ - [https://www.dailymail.co.uk/news/article-12476377/Pippa-Middleton-support-David-Mathews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476377/Pippa-Middleton-support-David-Mathews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:55:23+00:00
+
+Attending a wedding in Lake Como, the mother-of-three, 39, appeared to make a show of support for her father-in-law, who is currently under investigation by French police.
+
+## Labour accused of 'neglecting' pupil safety in Wales as thousands of children set to return to school today unaware if their classrooms are at risk from faulty concrete
+ - [https://www.dailymail.co.uk/news/article-12476867/Labour-accused-neglecting-pupil-safety-Wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476867/Labour-accused-neglecting-pupil-safety-Wales.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:55:08+00:00
+
+The Welsh government has been urged to check its school buildings for the potentially dangerous reinforced autoclaved aerated concrete after concerns that the pace of work has been too slow.
+
+## Author Sophie Gonzalez's book Only Mostly Devastated faces ban in Alabama, US
+ - [https://www.dailymail.co.uk/news/article-12476525/Author-Sophie-Gonzalezs-book-Devastated-faces-ban-Alabama-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476525/Author-Sophie-Gonzalezs-book-Devastated-faces-ban-Alabama-US.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:53:22+00:00
+
+The Adelaide young adult author was shocked to learn she could be banned from a public library in Alabama over claims her book describes bestiality and a student having sex with another's parent.
+
+## BBC bosses under pressure to explain why news report about convicted paedophile who sent sexual messages to 14-year-old boy was edited to remove mentions of his drag queen career
+ - [https://www.dailymail.co.uk/news/article-12476901/BBC-bosses-pressure-explain-news-report-convicted-paedophile-sent-sexual-messages-14-year-old-boy-edited-remove-mentions-drag-queen-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476901/BBC-bosses-pressure-explain-news-report-convicted-paedophile-sent-sexual-messages-14-year-old-boy-edited-remove-mentions-drag-queen-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:47:02+00:00
+
+Andrew Way, 61, who was organising the first Pride event for Welshpool, Montgomeryshire, was jailed for 34 months after vigilantes set up a fake social media profile for a boy of 14.
+
+## Temperatures could reach HIGHEST of the year so far this week as Brits look forward to belated burst of summer following weeks of wash-out
+ - [https://www.dailymail.co.uk/news/article-12476893/Temperatures-reach-HIGHEST-year-summer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476893/Temperatures-reach-HIGHEST-year-summer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:46:46+00:00
+
+With children back at school, and millions of workers having returned to full swing, it can only mean one thing - a heatwave.
+
+## Therapists reveal today is one of the busiest days of the year for people seeking help with their relationship as some couples return from summer break 'angry, disappointed and alienated'
+ - [https://www.dailymail.co.uk/news/article-12476875/Therapists-today-one-busiest-days-relationship-couples.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476875/Therapists-today-one-busiest-days-relationship-couples.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:36:58+00:00
+
+Summer over, the long haul to Christmas looming - it's no wonder that early September sees so many of us re-evaluating our lives.
+
+## Teenager stabbed at Brookdale house party: Courage Wreh knifed after protecting friend in Perth
+ - [https://www.dailymail.co.uk/news/article-12476673/Teenager-stabbed-Brookdale-house-party-Courage-Wreh-knifed-protecting-friend-Perth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476673/Teenager-stabbed-Brookdale-house-party-Courage-Wreh-knifed-protecting-friend-Perth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T23:22:55+00:00
+
+Courage Wreh was rushed to Royal Perth Hospital after suffering stabbing injuries to the front and back of his chest while he tried to stop gatecrashers at party in Brookdale on Saturday night.
+
 ## Meza's Jewelry robbery: Moment store workers fight back against attempted thief who bear sprays them and smashes up California store
  - [https://www.dailymail.co.uk/news/article-12476533/Mezas-Jewelry-robbery-Moment-store-workers-fight-against-attempted-thief-bear-sprays-smashes-California-store.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476533/Mezas-Jewelry-robbery-Moment-store-workers-fight-against-attempted-thief-bear-sprays-smashes-California-store.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -97,6 +160,20 @@ Tommy Allington, 25, subjected the infant to a sustained campaign of sexual abus
  - date published: 2023-09-03T22:28:30+00:00
 
 In a post on social media, a smiling picture of the Prime Minister with his signature is accompanied by the words: 'Do you think your child's school should be safe? Rishi Sunak doesn't.'
+
+## EXCLUSIVE: Lizzo shows off her curves in a sexy net dress with a black bra and panties as she enjoys dinner with friends in Malibu
+ - [https://www.dailymail.co.uk/tvshowbiz/article-12476361/Lizzo-shows-curves-sexy-net-dress-black-bra-panties-enjoys-dinner-friends-Malibu.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-12476361/Lizzo-shows-curves-sexy-net-dress-black-bra-panties-enjoys-dinner-friends-Malibu.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T22:25:19+00:00
+
+Lizzo's Labor Day weekend got off to a sexy start. The 35-year-old hitmaker showcased her curves in a racy little black outfit as she enjoyed dinner with friends at Nobu in Malibu.
+
+## Volkswagen ID.GTI concept is the electric spiritual successor to the iconic Golf hot hatch
+ - [https://www.dailymail.co.uk/money/electriccars/article-12470955/Volkswagen-ID-GTI-concept-electric-spiritual-successor-iconic-Golf-hot-hatch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/money/electriccars/article-12470955/Volkswagen-ID-GTI-concept-electric-spiritual-successor-iconic-Golf-hot-hatch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T22:24:20+00:00
+
+It comes exactly 48 years on from the world debut of the original Golf GTI... though bosses at the German brand say it is 'just a show car' for now but could be in showrooms by 2027.
 
 ## Cambridge academics face questions over independence of report praising introduction of four-day week after emails emerge showing it was edited by council before being published
  - [https://www.dailymail.co.uk/news/article-12476621/Cambridge-questions-four-day-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476621/Cambridge-questions-four-day-week.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -469,6 +546,13 @@ Ryan Ellwood died shortly after being discovered by an ambulance crew at a prope
 
 In the 1997 film Tomorrow Never Dies, Pierce Brosnan's Bond fights a egomaniac media baron determined to boost the fortunes of his satellite news empire by starting a war.
 
+## Would YOU board a plane without your partner if they were late? Man reveals he took his own seat on a flight after his wife insisted on going to buy coffee
+ - [https://www.dailymail.co.uk/femail/article-12475441/Would-board-plane-without-partner-late-Man-reveals-took-seat-flight-wife-insisted-going-buy-coffee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12475441/Would-board-plane-without-partner-late-Man-reveals-took-seat-flight-wife-insisted-going-buy-coffee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T15:03:49+00:00
+
+An unnamed man, 47, from the Pacific North West, has sparked a fierce debate on Reddit, after boarding a plane without his wife and leaving her alone at an airport.
+
 ## New Hampshire Gov. Chris Sununu wants more GOP candidates to go on the attack against Trump as he praises Chris Christie for going 'nuclear' on the ex-President and insists the 'Trump brand doesn't work'
  - [https://www.dailymail.co.uk/news/article-12475737/New-Hampshire-Gov-Chirs-Sununu-wants-GOP-candidates-attack-Trump-praises-Chris-Christie-going-nuclear-ex-President.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12475737/New-Hampshire-Gov-Chirs-Sununu-wants-GOP-candidates-attack-Trump-praises-Chris-Christie-going-nuclear-ex-President.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -489,6 +573,13 @@ The family of a pilot killed at a Texas airshow last year is suing the event's o
  - date published: 2023-09-03T14:51:23+00:00
 
 A woman who had her breasts surgically removed to try to become a man now feels she was 'violated by the medical industry' and made a 'mistake' that left her 'worse off'.
+
+## Laura Kuenssberg loses 700,000 viewers a week after replacing Andrew Marr in coveted Sunday morning politics slot
+ - [https://www.dailymail.co.uk/femail/article-12475353/Laura-Kuenssberg-loses-viewers-replacing-Andrew-Marr.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12475353/Laura-Kuenssberg-loses-viewers-replacing-Andrew-Marr.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T14:42:48+00:00
+
+It's a year tomorrow that Sunday with Laura Kuenssberg launched to great fanfare on BBC One...however, ratings began to nosedive earlier this year, The Sunday Times reports.
 
 ## Christian group under fire for banning access to Jersey Shore beach on Sundays to 'enhance religious and secular quality of life experiences' - just months after they built a cross-shaped pier
  - [https://www.dailymail.co.uk/news/article-12475609/christian-group-bans-swimming-sunday-jersey-shore.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12475609/christian-group-bans-swimming-sunday-jersey-shore.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -538,6 +629,20 @@ Noni Lyall, 68, was scanning and bagging her groceries at her local supermarket
  - date published: 2023-09-03T14:05:55+00:00
 
 Two pedestrians were hurt in a collision in Gosford Street near the city centre, Coventry, while a cyclist was also injured a 10-minute drive away in Woodway Lane.
+
+## 'Frequent flyer' SLAMS 'entitled' plane passenger who demanded she switch to his middle seat on 11-HOUR flight so he could sit next to his wife
+ - [https://www.dailymail.co.uk/femail/article-12467801/Plane-passenger-refuses-switch-seat-entitled-travelers-flight-New-York-Cairo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12467801/Plane-passenger-refuses-switch-seat-entitled-travelers-flight-New-York-Cairo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T13:55:29+00:00
+
+A frequent flyer has revealed she refused to switch her window seat with an 'entitled' passenger so he could sit next to his wife. She shared the story in a Reddit post titled, 'EntitledPeople.'
+
+## Lady Louise, 19, is spotted taking her blue VW for a spin around Windsor - as she prepares for her second year at St Andrews
+ - [https://www.dailymail.co.uk/femail/article-12475695/Lady-Louise-19-spotted-taking-blue-VW-spin-Windsor-prepares-second-year-St-Andrews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/femail/article-12475695/Lady-Louise-19-spotted-taking-blue-VW-spin-Windsor-prepares-second-year-St-Andrews.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T13:39:31+00:00
+
+The 19-year-old daughter of Prince Edward and Sophie, Duchess of Edinburgh, has enjoyed a weekend behind the wheel - and the reins - ahead of her return to St Andrews University later this month.
 
 ## 'Awful - shouldn't be allowed!': Angry locals of tiny Cornish town that banned second homes blast arrival of huge cruise ship that increases the local population by 50 per cent
  - [https://www.dailymail.co.uk/news/article-12475591/Spirit-Adventure-cruise-ship-Cornish-town-999-passengers-day-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12475591/Spirit-Adventure-cruise-ship-Cornish-town-999-passengers-day-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -783,6 +888,13 @@ Mr Al-Fayed died, aged 94, on Wednesday on the eve of the 26th anniversary of th
  - date published: 2023-09-03T09:06:24+00:00
 
 Mohamed Al Fayed's death aged 94 on Wednesday could spark a Succession-style battle for his £1.7billion empire.
+
+## Unhealthiest ready meals revealed
+ - [https://www.dailymail.co.uk/health/article-12102033/Unhealthiest-ready-meals-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/health/article-12102033/Unhealthiest-ready-meals-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-03T09:02:55+00:00
+
+EXCLUSIVE: MailOnline looked at the nutritional content of around 1,400 ready meals sold at seven supermarkets, including Tesco, Asda and Sainsbury's.
 
 ## Charles III in pictures: The new King's reign has already seen some of the most momentous events in recent British history. As his first-year anniversary approaches, we look at some of the highlights so far...
  - [https://www.dailymail.co.uk/news/article-12461105/Charles-III-pictures-new-Kings-reign-seen-momentous-events-recent-British-history-year-anniversary-approaches-look-highlights-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12461105/Charles-III-pictures-new-Kings-reign-seen-momentous-events-recent-British-history-year-anniversary-approaches-look-highlights-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

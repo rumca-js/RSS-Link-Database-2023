@@ -1,5 +1,12 @@
 # Source:The Guardian - World, URL:https://www.theguardian.com/world/rss, language:en-US
 
+## First Nations people should have power over child protection decisions in Victoria, truth-telling inquiry says
+ - [https://www.theguardian.com/australia-news/2023/sep/04/first-nations-people-should-have-power-over-child-protection-decisions-in-victoria-truth-telling-inquiry-says](https://www.theguardian.com/australia-news/2023/sep/04/first-nations-people-should-have-power-over-child-protection-decisions-in-victoria-truth-telling-inquiry-says)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-09-03T23:23:58+00:00
+
+<p>Yoorrook report says Indigenous children ‘can be in a pipeline to the justice system before being born’</p><ul><li><strong><a href="https://www.theguardian.com/australia-news/live/2023/sep/04/australia-politics-news-live-industrial-relations-ir-bill-tony-burke-anthony-albanese-question-time-peter-dutton-parliament-indigenous-voice-to-parliament">Follow our Australia news live blog for latest updates</a></strong></li><li><strong>Get our <a href="https://www.theguardian.com/australia-news/2022/oct/29/email-newsletters-guardian-australia-best-daily-news-emails-newsletter-free-sign-up-inbox-subscribe-headlines?CMP=cvau_sfl">morning and afternoon news emails</a>, <a href="https://app.adjust.com/w4u7jx3">free app</a> or <a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl">daily news podcast</a></strong></li></ul><p>First Nations Victorians should be given the power to make decisions over the potential removal of Indigenous children from their families as p
+
 ## Australia politics live: Dutton has ‘underestimated the goodwill of Liberal voters’ on voice, Burke says
  - [https://www.theguardian.com/australia-news/live/2023/sep/04/australia-politics-news-live-industrial-relations-ir-bill-tony-burke-anthony-albanese-question-time-peter-dutton-parliament-indigenous-voice-to-parliament](https://www.theguardian.com/australia-news/live/2023/sep/04/australia-politics-news-live-industrial-relations-ir-bill-tony-burke-anthony-albanese-question-time-peter-dutton-parliament-indigenous-voice-to-parliament)
  - RSS feed: https://www.theguardian.com/world/rss

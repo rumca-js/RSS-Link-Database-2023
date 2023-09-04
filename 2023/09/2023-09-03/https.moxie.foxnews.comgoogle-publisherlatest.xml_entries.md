@@ -1,5 +1,61 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## 20-year-old Ben Shelton uses 149 mph serves to make US Open history on way to quarterfinals
+ - [https://www.foxnews.com/sports/20-year-old-ben-shelton-uses-149-mph-serves-make-us-open-history-quarterfinals](https://www.foxnews.com/sports/20-year-old-ben-shelton-uses-149-mph-serves-make-us-open-history-quarterfinals)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T21:47:51+00:00
+
+20-year-old Ben Shelton reset his 2023 U.S. Open serve speed record at 149 miles per hour on his way to the quarterfinals after defeating Tommy Paul in the round of 16.
+
+## U.S. Navy destroyer sports 'badass' pirate-inspired flag during Pearl Harbor homecoming: pictures
+ - [https://www.foxnews.com/us/u-s-navy-destroyer-sports-badass-pirate-inspired-flag-pearl-harbor-homecoming-pictures](https://www.foxnews.com/us/u-s-navy-destroyer-sports-badass-pirate-inspired-flag-pearl-harbor-homecoming-pictures)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T21:43:41+00:00
+
+The new Navy warship USS Carl M. Levin features a flag depicting a sea monster splitting a pirate ship in half while a phoenix rising, designed by sailor Hector Mendoza.
+
+## TikToker divides internet with admission she asks men to see bank account balance on first date: 'Gold digger'
+ - [https://www.foxnews.com/media/tiktoker-divides-internet-admission-asks-men-see-bank-account-balance-first-date-gold-digger](https://www.foxnews.com/media/tiktoker-divides-internet-admission-asks-men-see-bank-account-balance-first-date-gold-digger)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T21:32:52+00:00
+
+&apos;The Big Weekend Show&apos; panelists react to TikToker Sofia Franklyn&apos;s dating confession after she admitted she asks to see the bank account balance of her potential suitors.
+
+## Remains of 'beloved' teacher missing since July found, man charged with her murder
+ - [https://www.foxnews.com/us/remains-beloved-teacher-missing-july-found-man-charged-her-murder](https://www.foxnews.com/us/remains-beloved-teacher-missing-july-found-man-charged-her-murder)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T21:30:56+00:00
+
+A Maryland man faces first-degree murder charges in connection the death of 59-year-old Mariame Toure Sylla, a teacher who went missing in July.
+
+## UCLA's Chip Kelly takes dig at NCAA over new clock rule: 'Hope you guys are selling a lot of commercials'
+ - [https://www.foxnews.com/sports/uclas-chip-kelly-takes-dig-ncaa-new-clock-rule](https://www.foxnews.com/sports/uclas-chip-kelly-takes-dig-ncaa-new-clock-rule)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T21:05:42+00:00
+
+UCLA head coach Chip Kelly voiced his displeasure with the NCAA&apos;s new clock rule, where it no longer stops after first downs. He believes the NCAA wants to play more commercials.
+
+## Fauci is ‘concerned’ that people won’t comply if masking recommendations return: 'I hope' they 'abide'
+ - [https://www.foxnews.com/health/fauci-concerned-people-wont-comply-masking-recommendations-return-hope-abide](https://www.foxnews.com/health/fauci-concerned-people-wont-comply-masking-recommendations-return-hope-abide)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T20:05:11+00:00
+
+Former White House chief medical adviser Anthony Fauci spoke out in defense of masking amid rising COVID cases, saying he is concerned people will not abide by recommendations.
+
+## ABC host shocked by new poll showing Trump and Biden tied in potential matchup despite Trump's legal 'baggage'
+ - [https://www.foxnews.com/media/abc-host-shocked-new-poll-trump-biden-tied-potential-matchup-despite-trumps-legal-baggage](https://www.foxnews.com/media/abc-host-shocked-new-poll-trump-biden-tied-potential-matchup-despite-trumps-legal-baggage)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T19:30:56+00:00
+
+ABC host George Stephanopoulos reacted to a &apos;shocking&apos; 2024 election poll showing former President Donald Trump and President Joe Biden tied at 46% if the election was held today.
+
+## Germany head coach tries to grab Raptors' Dennis Schroder in heated altercation at FIBA World Cup
+ - [https://www.foxnews.com/sports/germany-head-coach-tries-grab-raptors-dennis-schroder-heated-altercation-fiba-world-cup](https://www.foxnews.com/sports/germany-head-coach-tries-grab-raptors-dennis-schroder-heated-altercation-fiba-world-cup)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-03T19:29:35+00:00
+
+Germany head coach Gordon Herbert tried to grab Toronto Raptors&apos; guard Dennis Schroder in a heated altercation during a time-out against Slovenia at the FIBA World Cup.
+
 ## Arizona 10-year-old caught speeding in car as father sat in the passenger seat: police
  - [https://www.foxnews.com/us/arizona-10-year-old-caught-speeding-car-father-sat-passenger-seat-police](https://www.foxnews.com/us/arizona-10-year-old-caught-speeding-car-father-sat-passenger-seat-police)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

@@ -1,11 +1,32 @@
 # Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## Lagos traffic jams disappear. But this isn't good news for Nigeria
+ - [https://www.bbc.co.uk/news/world-africa-66652771?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-66652771?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-03T23:12:39+00:00
+
+The removal of a fuel subsidy has pushed the cost of transport out of the reach of many Nigerians.
+
+## Teacher suicide exposes parent bullying in S Korea
+ - [https://www.bbc.co.uk/news/world-asia-66655572?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-66655572?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-03T23:07:47+00:00
+
+The tragedy has unleashed a wave of anger from primary school teachers across the country.
+
 ## Rail disruption: Train cancellations as high as 13% in 2023
  - [https://www.bbc.co.uk/news/uk-england-66664323?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-66664323?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2023-09-03T23:06:34+00:00
 
 One station, managed by TransPennine Express, has had 13% of its trains cancelled.
+
+## Children's futures at risk as more put to work - UN
+ - [https://www.bbc.co.uk/news/world-66582913?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-66582913?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-03T23:06:01+00:00
+
+The head of the UN agency says the world needs to act fast to get children out of exploitative work.
 
 ## Family courts: Mothers dying after 'abusers' claim access to children
  - [https://www.bbc.co.uk/news/uk-66531409?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66531409?at_medium=RSS&at_campaign=KARANGA)
@@ -20,6 +41,13 @@ One death came after family courts ordered a child to live with a paedophile, a 
  - date published: 2023-09-03T23:02:03+00:00
 
 Match of the Day 2's Mark Chapman, Jermaine Jenas and Stephen Warnock discuss how Liverpool's Trent Alexander-Arnold delivered a "passing masterclass".
+
+## New tech boosts Dutch drive for sustainable farming
+ - [https://www.bbc.co.uk/news/business-66461769?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-66461769?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-03T23:01:58+00:00
+
+In the Netherlands, experiments are underway to ensure future food supply and cut carbon emissions.
 
 ## The Papers: 'No cash for school repairs' and Labour tax pledge
  - [https://www.bbc.co.uk/news/blogs-the-papers-66703742?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-66703742?at_medium=RSS&at_campaign=KARANGA)
@@ -62,6 +90,13 @@ Which players impressed our football pundit Garth Crooks enough to make his late
  - date published: 2023-09-03T21:03:23+00:00
 
 Ukraine's President Volodymyr Zelensky dismissed Oleksii Reznikov, saying "new approaches" were needed.
+
+## England v New Zealand: Was Edgbaston's Go Green game a hint at cricket's future?
+ - [https://www.bbc.co.uk/sport/cricket/66701802?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/66701802?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-03T20:49:14+00:00
+
+No red meat, seaweed packaging and electric lawnmowers - Edgbaston's Go Green game shows a possibility for cricket's future.
 
 ## Manchester United: Jadon Sancho says he is 'a scapegoat' after being dropped
  - [https://www.bbc.co.uk/sport/football/66703343?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66703343?at_medium=RSS&at_campaign=KARANGA)
@@ -181,6 +216,13 @@ Odsonne Edouard scores twice as Crystal Palace beat Wolves in a Premier League m
  - date published: 2023-09-03T15:32:49+00:00
 
 Parents should get their children back to school this week, the children's commissioner urges.
+
+## Rangers 0-1 Celtic: Kyogo Furuhashi sign of champions' strength at Ibrox
+ - [https://www.bbc.co.uk/sport/football/66702093?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66702093?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-03T15:25:29+00:00
+
+BBC Sport Scotland chief sportswriter Tom English analyses Celtic's win in the first Scottish Premiership Old Firm game of the season.
 
 ## Liverpool 3-0 Aston Villa: Mohamed Salah scores in comfortable Reds win
  - [https://www.bbc.co.uk/sport/football/66631581?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66631581?at_medium=RSS&at_campaign=KARANGA)

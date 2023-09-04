@@ -1,5 +1,82 @@
 # Source:rp.pl, URL:https://www.rp.pl/rss_main, language:pl-PL
 
+## Cyberataki mogą mieć podatkowe skutki
+ - [https://www.rp.pl/podatki/art39045421-cyberataki-moga-miec-podatkowe-skutki](https://www.rp.pl/podatki/art39045421-cyberataki-moga-miec-podatkowe-skutki)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Fiskus zgadza się na ujęcie w kosztach środków skradzionych w wyniku ataku hakerskiego. Zdarzenie powinno być jednak wyjątkowe, niemożliwe do uniknięcia i każdorazowo ocenione m.in. w aspekcie podjętych działań zabezpieczających.
+
+## Darowizna rzeczowa jest przychodem dla stowarzyszenia
+ - [https://www.rp.pl/podatki/art39045521-darowizna-rzeczowa-jest-przychodem-dla-stowarzyszenia](https://www.rp.pl/podatki/art39045521-darowizna-rzeczowa-jest-przychodem-dla-stowarzyszenia)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Otrzymaną darowiznę rzeczową należy wykazać jako przychód opodatkowany, a dopiero po sprzedaży otrzymanych przedmiotów wykazać jako dochód zwolniony, jeśli zostanie on przekazany na cele statutowe stowarzyszenia.
+
+## Dojazdy do pracy na rachunek fiskusa
+ - [https://www.rp.pl/podatki/art39045461-dojazdy-do-pracy-na-rachunek-fiskusa](https://www.rp.pl/podatki/art39045461-dojazdy-do-pracy-na-rachunek-fiskusa)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Wydatki na bilety i noclegi pracowników zdalnych, którzy są co pewien czas wzywani do biura, można zaliczyć do kosztów uzyskania przychodów.
+
+## Jaki podatek od nabycia aromatów spożywczych w innym kraju UE
+ - [https://www.rp.pl/podatki/art39045511-jaki-podatek-od-nabycia-aromatow-spozywczych-w-innym-kraju-ue](https://www.rp.pl/podatki/art39045511-jaki-podatek-od-nabycia-aromatow-spozywczych-w-innym-kraju-ue)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Składnikiem płynnych aromatów wykorzystywanych w przemyśle spożywczym może być alkohol. Od jego zawartości zależy, czy polski przedsiębiorca kupujący taki komponent od unijnego dostawcy stanie się podatnikiem akcyzy.
+
+## Kiedy fundacja rodzinna musi rozliczać VAT
+ - [https://www.rp.pl/podatki/art39045501-kiedy-fundacja-rodzinna-musi-rozliczac-vat](https://www.rp.pl/podatki/art39045501-kiedy-fundacja-rodzinna-musi-rozliczac-vat)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Fundacja, która prowadzi działalność gospodarczą, przy każdej transakcji musi rozważyć, czy ten zakup będzie wykorzystany w działalności, czy na prywatne potrzeby beneficjentów. Od tej kwalifikacji zależy sposób rozliczenia VAT od tego nabycia.
+
+## Międzynarodowy transport i spedycja z zerową stawką VAT
+ - [https://www.rp.pl/podatki/art39045531-miedzynarodowy-transport-i-spedycja-z-zerowa-stawka-vat](https://www.rp.pl/podatki/art39045531-miedzynarodowy-transport-i-spedycja-z-zerowa-stawka-vat)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+W przypadku usługi organizacji transportu morskiego i ubezpieczenia CARGO w ramach świadczenia usługi spedycyjnej jest możliwość zastosowania preferencyjnej stawki podatku od towarów i usług, jeżeli podatnik posiada wymagane dokumenty.
+
+## O prawie do preferencji decyduje przeznaczenie wydatków
+ - [https://www.rp.pl/podatki/art39045481-o-prawie-do-preferencji-decyduje-przeznaczenie-wydatkow](https://www.rp.pl/podatki/art39045481-o-prawie-do-preferencji-decyduje-przeznaczenie-wydatkow)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Odliczyć można m.in. zakup sprzętu sportowego dla klubów sportowych, organizowanie zawodów sportowych, korzystanie z obiektów sportowych dla celów szkolenia sportowego czy sfinansowanie stypendium sportowego.
+
+## Projektowanie i programowanie bez preferencji w PIT
+ - [https://www.rp.pl/podatki/art39045431-projektowanie-i-programowanie-bez-preferencji-w-pit](https://www.rp.pl/podatki/art39045431-projektowanie-i-programowanie-bez-preferencji-w-pit)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Dyrektor KIS zmienia zdanie w zakresie możliwości zastosowania 8,5-proc. ryczałtu od przychodów ewidencjonowanych do usług związanych z projektowaniem i programowaniem. Jego zdaniem właściwa jest tu 12-proc. stawka.
+
+## Spółka nie odliczy VAT z biletu dla żony pracownika
+ - [https://www.rp.pl/podatki/art39045451-spolka-nie-odliczy-vat-z-biletu-dla-zony-pracownika](https://www.rp.pl/podatki/art39045451-spolka-nie-odliczy-vat-z-biletu-dla-zony-pracownika)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Bilet jednorazowy wystawiony przez podmiot świadczący usługi przewozu osób kolejami wypełnia definicję faktury. Można odliczyć wykazany na nim podatek, ale tylko w części związanej z przejazdem osoby wysłanej w podróż służbowo.
+
+## Ulgę rozlicza się w zeznaniu rocznym
+ - [https://www.rp.pl/podatki/art39045491-ulge-rozlicza-sie-w-zeznaniu-rocznym](https://www.rp.pl/podatki/art39045491-ulge-rozlicza-sie-w-zeznaniu-rocznym)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Podatnik wykazuje ulgę sponsoringową w zeznaniu PIT-36 (PIT-36S), PIT-36L (PIT_36LS) albo CIT-8 składanym za rok podatkowy, w którym poniósł koszty dające prawo do odliczenia.
+
+## Wspieranie sportu daje podatkowe korzyści
+ - [https://www.rp.pl/podatki/art39045471-wspieranie-sportu-daje-podatkowe-korzysci](https://www.rp.pl/podatki/art39045471-wspieranie-sportu-daje-podatkowe-korzysci)
+ - RSS feed: https://www.rp.pl/rss_main
+ - date published: 2023-09-04T00:00:00+00:00
+
+Przedsiębiorca, który ujął w kosztach kwoty przekazane na działalność sportową, ma prawo do dodatkowej preferencji poprzez odliczenie połowy tych wydatków od podstawy obliczenia podatku.
+
 ## Barcelona zwycięska, ale wciąż bez błysku. Lewandowski z drugim golem w sezonie
  - [https://www.rp.pl/pilka-nozna/art39049661-barcelona-zwycieska-ale-wciaz-bez-blysku-lewandowski-z-drugim-golem-w-sezonie](https://www.rp.pl/pilka-nozna/art39049661-barcelona-zwycieska-ale-wciaz-bez-blysku-lewandowski-z-drugim-golem-w-sezonie)
  - RSS feed: https://www.rp.pl/rss_main

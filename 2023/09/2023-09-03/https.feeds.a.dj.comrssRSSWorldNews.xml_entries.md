@@ -1,5 +1,19 @@
 # Source:The Wall Street Journal, URL:https://feeds.a.dj.com/rss/RSSWorldNews.xml, language:en-US
 
+## Singapore Manufacturing Gauge Improved Slightly in August
+ - [https://www.wsj.com/articles/singapore-manufacturing-gauge-improved-slightly-in-august-95a3919d](https://www.wsj.com/articles/singapore-manufacturing-gauge-improved-slightly-in-august-95a3919d)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2023-09-03T23:53:00+00:00
+
+Singapore’s manufacturing activity showed a slower contraction in August, as key indexes including new orders and new exports shrank at a slower pace, and factory output swung to an expansion.
+
+## They Spent $250,000 to Outfit a Biohacking Dream House
+ - [https://www.wsj.com/articles/they-spent-250-000-to-outfit-a-biohacking-dream-house-fc76490a](https://www.wsj.com/articles/they-spent-250-000-to-outfit-a-biohacking-dream-house-fc76490a)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2023-09-03T23:13:00+00:00
+
+This ultimate wellness house has been renovated with the aim of improving one’s physical and mental health, performance and longevity.
+
 ## More &raquo;
  - [https://www.wsj.com/articles/more-amp-raquo-cbccdc69](https://www.wsj.com/articles/more-amp-raquo-cbccdc69)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml

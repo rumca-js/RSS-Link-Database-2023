@@ -70,6 +70,13 @@ Koncern Xiaomi powierzył międzynarodowemu brokerowi RTL AdAlliance sprzedaż r
 
 Treści 4K są na razie oferowane przez Disney+ w ramach standardowej subskrypcji. Od listopada między innymi niemieccy użytkownicy serwisu streamingowego za obraz Ultra HD i dźwięk Dolby Atmos, będą musieli kilka euro dopłacić. Jak potwierdził portal Wirtualnemedia.pl, pakiet premium na razie nie pojawi się w Polsce, ani w innych krajach Europy Środkowo-Wschodniej.
 
+## Gmail dla firm, czyli niezawodna poczta od Google w biznesowej odsłonie
+ - [https://www.wirtualnemedia.pl/artykul/gmail-dla-firm-czyli-niezawodna-poczta-od-google-w-biznesowej-odslonie](https://www.wirtualnemedia.pl/artykul/gmail-dla-firm-czyli-niezawodna-poczta-od-google-w-biznesowej-odslonie)
+ - RSS feed: https://www.wirtualnemedia.pl/rss/wm_internet.xml
+ - date published: 2023-09-03T06:03:00+00:00
+
+Gmail to najpopularniejsza poczta na świecie, która może pochwalić się prawie 2 miliardami aktywnych użytkowników. Oznacza to, że usłudze tej zaufała już niemal jedna czwarta ludzkości! Nie wszyscy jednak wiedzą, że oprócz standardowej poczty, przeznaczonej dla użytkowników prywatnych, dostępny jest też Gmail dla firm. Jakie są najważniejsze cechy niezawodnej skrzynki od Google w jej biznesowej odsłonie? I dlaczego warto wybrać ją do swojej firmy? Przekonajmy się!
+
 ## TikTok zdominuje w najbliższych latach social media w USA
  - [https://www.wirtualnemedia.pl/artykul/tiktok-zdominuje-social-media](https://www.wirtualnemedia.pl/artykul/tiktok-zdominuje-social-media)
  - RSS feed: https://www.wirtualnemedia.pl/rss/wm_internet.xml

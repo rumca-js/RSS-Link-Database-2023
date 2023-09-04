@@ -1,5 +1,12 @@
 # Source:NBC tech, URL:https://feeds.nbcnews.com/nbcnews/public/tech, language:en-US
 
+## Burning Man crowd stuck in muddy venue, but there's 'no cause for panic,' CEO says.
+ - [https://www.nbcnews.com/pop-culture/pop-culture-news/burning-man-crowd-stuck-muddy-venue-no-cause-panic-ceo-says-rcna103217](https://www.nbcnews.com/pop-culture/pop-culture-news/burning-man-crowd-stuck-muddy-venue-no-cause-panic-ceo-says-rcna103217)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-09-03T23:43:04+00:00
+
+The CEO of Burning Man said Sunday that the situation at the venue in Nevada's Black Rock Desert was under control and far from alarming.
+
 ## Here's the biggest news you missed this weekend
  - [https://www.nbcnews.com/news/weekend-rundown-sept-3-rcna102987](https://www.nbcnews.com/news/weekend-rundown-sept-3-rcna102987)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech

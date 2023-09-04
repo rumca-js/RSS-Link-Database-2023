@@ -1,5 +1,12 @@
 # Source:The Hill, URL:https://thehill.com/news/feed/, language:en-US
 
+## Biden ‘disappointed’ about reports Xi isn’t likely to attend G20 summit
+ - [https://thehill.com/homenews/administration/4185717-biden-disappointed-about-reports-xi-isnt-likely-to-attend-the-g20-summit/](https://thehill.com/homenews/administration/4185717-biden-disappointed-about-reports-xi-isnt-likely-to-attend-the-g20-summit/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-09-03T23:26:34+00:00
+
+President Biden said Sunday he is “disappointed” about the reports that Chinese President Xi Jinping will likely skip this week’s G20 summit in India.  “I am disappointed, but I am going to see him,” Biden told reporters in Rehoboth Beach, Del., when asked about Xi not attending the G20 summit.  Biden did not expand upon where he...
+
 ## Astronauts set for 'splashdown' off the coast of Florida
  - [https://thehill.com/homenews/space/4185609-astronauts-set-for-splashdown-off-the-coast-of-florida/](https://thehill.com/homenews/space/4185609-astronauts-set-for-splashdown-off-the-coast-of-florida/)
  - RSS feed: https://thehill.com/news/feed/

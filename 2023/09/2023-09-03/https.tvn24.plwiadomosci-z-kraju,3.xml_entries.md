@@ -1,5 +1,21 @@
 # Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
+## Pogoda na dziś - poniedziałek, 4.09. Korzystny biomet i maksymalnie 25 stopni
+ - [https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-dzis-poniedzialek-409-korzystny-biomet-i-maksymalnie-25-stopni-7324503?source=rss](https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-dzis-poniedzialek-409-korzystny-biomet-i-maksymalnie-25-stopni-7324503?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2023-09-04T00:00:00+00:00
+
+<img alt="Pogoda na dziś - poniedziałek, 4.09. Korzystny biomet i maksymalnie 25 stopni" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-vcnfsh-pozno-letni-krajobraz-7324232/alternates/LANDSCAPE_1280" />
+    Pogoda na dziś. Poniedziałek 4.09 przyniesie wielu regionom kraju pogodną aurę. Miejscami będzie się też chmurzyć, lokalnie popada przelotny deszcz. Termometry pokażą od 20 do 25 stopni.
+
+## Pogoda na dziś - poniedziałek, 4.09. W niewielkiej części kraju popada
+ - [https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-dzis-poniedzialek-409-w-niewielkiej-czesci-kraju-popada-7324503?source=rss](https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-dzis-poniedzialek-409-w-niewielkiej-czesci-kraju-popada-7324503?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2023-09-04T00:00:00+00:00
+
+<img alt="Pogoda na dziś - poniedziałek, 4.09. W niewielkiej części kraju popada" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-vcnfsh-pozno-letni-krajobraz-7324232/alternates/LANDSCAPE_1280" />
+    Pogoda na dziś. Poniedziałek 4.09 przyniesie wielu regionom kraju pogodną aurę. Miejscami będzie się też chmurzyć, lokalnie popada przelotny deszcz. Termometry pokażą od 20 do 25 stopni.
+
 ## Sól drogowa szkodzi zooplanktonowi. "Uniemożliwia mu wiosenny sukces wylęgowy"
  - [https://tvn24.pl/tvnmeteo/ciekawostki/sol-drogowa-szkodzi-zooplanktonowi-uniemozliwia-mu-wiosenny-sukces-wylegowy-7324522?source=rss](https://tvn24.pl/tvnmeteo/ciekawostki/sol-drogowa-szkodzi-zooplanktonowi-uniemozliwia-mu-wiosenny-sukces-wylegowy-7324522?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
@@ -63,6 +79,14 @@
 
 <img alt="Świetlisty obiekt pojawił się na niebie, wieczór zamienił się w dzień. Nagrania" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-dj8mda-meteor-rozswietlil-niebo-nad-miastem-erzurum-7324123/alternates/LANDSCAPE_1280" />
     Kula ognia przemknęła po tureckim niebie. Przelatujący meteor zarejestrowały kamery. Za sprawą efektownego rozbłysku w niektórych miejscach wieczór zamienił się w dzień.
+
+## Po roku tramwaje wróciły na Puławską
+ - [https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-tramwaje-wrocily-na-pulawska-ktore-linie-7324299?source=rss](https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-tramwaje-wrocily-na-pulawska-ktore-linie-7324299?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2023-09-03T16:09:57+00:00
+
+<img alt="Po roku tramwaje wróciły na Puławską" src="https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-5v6ymr-tramwaje-wrocily-na-pulawska-7326262/alternates/LANDSCAPE_1280" />
+    W poniedziałek rano tramwaje wróciły na ulicę Puławską. Po zielonych torowiskach kursują składy trzech linii: 4, 10 i 18. "W godzinach szczytu wszystkie będą jeździć co 8 minut, poza szczytem co 12 minut" - zapowiedział Zarząd Transportu Miejskiego. Po 12 miesiącach z obu jezdni Puławskiej mogą korzystać także kierowcy.
 
 ## Przeładowana podstawa, wiele wolnych wakatów, niskie pensje. Rzeczywistość polskich szkół tuż przed startem nowego roku
  - [https://fakty.tvn24.pl/fakty-po-poludniu/przeladowana-podstawa-wiele-wolnych-wakatow-niskie-pensje-rzeczywistosc-polskich-szkol-tuz-przed-startem-nowego-roku-7324267?source=rss](https://fakty.tvn24.pl/fakty-po-poludniu/przeladowana-podstawa-wiele-wolnych-wakatow-niskie-pensje-rzeczywistosc-polskich-szkol-tuz-przed-startem-nowego-roku-7324267?source=rss)

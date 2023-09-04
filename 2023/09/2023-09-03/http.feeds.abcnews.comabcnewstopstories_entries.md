@@ -1,5 +1,12 @@
 # Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
+## Bodies of two adults and two children found in Seattle house after fire and reported shooting
+ - [https://abcnews.go.com/US/wireStory/bodies-adults-children-found-seattle-house-after-fire-102897266](https://abcnews.go.com/US/wireStory/bodies-adults-children-found-seattle-house-after-fire-102897266)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-09-03T23:29:50+00:00
+
+The bodies were found following a reported shooting and house fire.
+
 ## WATCH:  Meteor lights up Turkish sky
  - [https://abcnews.go.com/International/video/meteor-lights-turkish-sky-102898007](https://abcnews.go.com/International/video/meteor-lights-turkish-sky-102898007)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
@@ -27,6 +34,13 @@ Authorities say a man has been arrested after allowing his 10-year-old son to dr
  - date published: 2023-09-03T19:01:37+00:00
 
 About 100 inmates in one housing unit refused to return to their cells.
+
+## Gold Star mother on Biden at dignified transfer ceremony: 'Total disrespect'
+ - [https://abcnews.go.com/International/gold-star-mother-bidens-conduct-dignified-transfer-ceremony/story?id=102885936](https://abcnews.go.com/International/gold-star-mother-bidens-conduct-dignified-transfer-ceremony/story?id=102885936)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-09-03T17:53:26+00:00
+
+Three family members of service members killed in the Abbey Gate suicide bombing in Afghanistan share their grief and their calls for answers two years after the attack
 
 ## Metallica postpones Arizona concert after James Hetfield tests positive for COVID-19
  - [https://abcnews.go.com/Entertainment/wireStory/metallica-postpones-arizona-concert-after-james-hetfield-tests-102895598](https://abcnews.go.com/Entertainment/wireStory/metallica-postpones-arizona-concert-after-james-hetfield-tests-102895598)

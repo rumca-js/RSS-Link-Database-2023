@@ -28,6 +28,13 @@ A government investigation about a Russian ship contradicts U.S. accusations tha
 
 The Israeli prime minister’s remarks revived a debate about the fate of thousands of asylum seekers after hundreds of opposing Eritrean groups faced off in Tel Aviv this weekend.
 
+## Bill Richardson Reveled in Role of Freelance Envoy to Dictators
+ - [https://www.nytimes.com/2023/09/02/us/politics/bill-richardson-dictators.html](https://www.nytimes.com/2023/09/02/us/politics/bill-richardson-dictators.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-09-03T17:32:10+00:00
+
+The former New Mexico governor and U.N. ambassador filled a diplomatic niche, talking to strongmen when presidents and other officials could — or would — not.
+
 ## Crisis-Hit British Museum Names Interim Director
  - [https://www.nytimes.com/2023/09/03/arts/design/british-museum-new-director.html](https://www.nytimes.com/2023/09/03/arts/design/british-museum-new-director.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
