@@ -1,0 +1,142 @@
+# Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
+
+## Tesla shares close down 5% after price cuts, Model 3 refresh
+ - [https://www.cnbc.com/2023/09/01/tesla-shares-close-down-5percent-after-price-cuts-model-3-refresh.html](https://www.cnbc.com/2023/09/01/tesla-shares-close-down-5percent-after-price-cuts-model-3-refresh.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T22:23:41+00:00
+
+Tesla shares dropped Friday after the company cut prices on cars in the U.S.
+
+## Dell has best day on stock market since its relisting in 2018 after earnings sail past estimates
+ - [https://www.cnbc.com/2023/09/01/dells-stock-has-best-day-since-its-relisting-in-2018-on-earnings-beat.html](https://www.cnbc.com/2023/09/01/dells-stock-has-best-day-since-its-relisting-in-2018-on-earnings-beat.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T21:26:39+00:00
+
+Dell shares surged more than 20% on Friday after the company reported better-than-expected earnings and revenue.
+
+## Hollywood sheds 17,000 jobs in August amid ongoing strikes
+ - [https://www.cnbc.com/2023/09/01/jobs-report-hollywood-sheds-17000-jobs-in-august-amid-strikes-.html](https://www.cnbc.com/2023/09/01/jobs-report-hollywood-sheds-17000-jobs-in-august-amid-strikes-.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T19:08:23+00:00
+
+The ongoing Writers Guild of America and SAG-AFTRA strikes have resulted in a monthly decrease of 17,000 jobs in Hollywood.
+
+## Taylor Swift Eras Tour concert film is already a blockbuster with historic first-day ticket sales
+ - [https://www.cnbc.com/2023/09/01/taylor-swift-eras-tour-concert-film-record-first-day-ticket-sales.html](https://www.cnbc.com/2023/09/01/taylor-swift-eras-tour-concert-film-record-first-day-ticket-sales.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T18:57:29+00:00
+
+In less than 24 hours on the market, ticket sales for Taylor Swift's Eras Tour concert film have broken records.
+
+## Russia's Putin says he will soon meet with China President Xi as war in Ukraine drags on
+ - [https://www.cnbc.com/2023/09/01/-russias-putin-to-meet-with-china-president-xi-as-ukraine-war-drags-on.html](https://www.cnbc.com/2023/09/01/-russias-putin-to-meet-with-china-president-xi-as-ukraine-war-drags-on.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T18:04:01+00:00
+
+The upcoming meeting comes amid steady gains by Ukrainian forces on the battlefield.
+
+## Dell has best day on stock market since its relisting in 2018 after earnings sail past estimates
+ - [https://www.cnbc.com/2023/09/01/dells-stock-has-best-day-since-its-relisting-in-2016-on-earnings-beat.html](https://www.cnbc.com/2023/09/01/dells-stock-has-best-day-since-its-relisting-in-2016-on-earnings-beat.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T17:34:28+00:00
+
+Dell shares surged more than 20% on Friday after the company reported better-than-expected earnings and revenue.
+
+## Biden kept a Ford EV battery plant from going overseas. But not everyone is happy about it.
+ - [https://www.cnbc.com/2023/09/01/new-ford-ev-battery-plant-brings-jobs-debates-to-small-town-michigan.html](https://www.cnbc.com/2023/09/01/new-ford-ev-battery-plant-brings-jobs-debates-to-small-town-michigan.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T17:12:05+00:00
+
+Ford was considering sites outside the U.S. but was lured to Michigan in part because of new federal tax credits that were part of the Inflation Reduction Act.
+
+## Bezos snubbed Musk's SpaceX for huge satellite launch contract, Amazon shareholder says
+ - [https://www.cnbc.com/2023/09/01/bezos-snubbed-musk-spacex-satellite-contract-lawsuit.html](https://www.cnbc.com/2023/09/01/bezos-snubbed-musk-spacex-satellite-contract-lawsuit.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T16:42:21+00:00
+
+An Amazon shareholder lawsuit alleges the company snubbed SpaceX for satellite launch contracts because of Jeff Bezos'  personal rivalry with Elon Musk.
+
+## When to wear masks as Covid cases rise, new variants emerge in the U.S.
+ - [https://www.cnbc.com/2023/09/01/covid-when-to-wear-masks-as-cases-rise-new-variants-emerge-in-us-.html](https://www.cnbc.com/2023/09/01/covid-when-to-wear-masks-as-cases-rise-new-variants-emerge-in-us-.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T16:27:50+00:00
+
+The decision to mask depends on a few things: you personal risk level, Covid rates in your region and who you might make contact with, experts say.
+
+## FTC allows Amgen to move forward with $27.8 billion Horizon Therapeutics acquisition
+ - [https://www.cnbc.com/2023/09/01/ftc-allows-amgen-horizon-therapeutics-deal-to-move-forward.html](https://www.cnbc.com/2023/09/01/ftc-allows-amgen-horizon-therapeutics-deal-to-move-forward.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T13:45:27+00:00
+
+The FTC had filed a lawsuit in May seeking to block the acquisition, arguing that the deal would "stifle competition" in the pharmaceutical industry.
+
+## Unemployment rate unexpectedly rose to 3.8% in August as payrolls increased by 187,000
+ - [https://www.cnbc.com/2023/09/01/jobs-report-august-2023.html](https://www.cnbc.com/2023/09/01/jobs-report-august-2023.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T12:41:47+00:00
+
+Nonfarm payrolls were expected to increase 170,000 in August, according to a Dow Jones consensus estimate.
+
+## Musk's X to collect biometric information and employment data
+ - [https://www.cnbc.com/2023/09/01/musks-x-to-collect-biometric-information-and-employment-data.html](https://www.cnbc.com/2023/09/01/musks-x-to-collect-biometric-information-and-employment-data.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T12:12:37+00:00
+
+X will start collecting users' biometric information and employment history, according to an update to its privacy policy.
+
+## Weight loss drugmaker Novo Nordisk vies to become Europe's most valuable company, toppling LVMH
+ - [https://www.cnbc.com/2023/09/01/ozempic-maker-novo-nordisk-briefly-becomes-europes-most-valuable-firm.html](https://www.cnbc.com/2023/09/01/ozempic-maker-novo-nordisk-briefly-becomes-europes-most-valuable-firm.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T12:02:01+00:00
+
+Novo Nordisk overtook the Louis Vuitton owner's market capitalization as investors bet on the potential of its weight loss drugs.
+
+## 'Really bad economics': Nobel laureate Joseph Stiglitz explains where the Fed went wrong on inflation
+ - [https://www.cnbc.com/2023/09/01/bad-economics-stiglitz-explains-how-the-fed-went-wrong-on-inflation.html](https://www.cnbc.com/2023/09/01/bad-economics-stiglitz-explains-how-the-fed-went-wrong-on-inflation.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T10:51:39+00:00
+
+The Federal Reserve "didn't do their homework" and mischaracterized the spike in inflation, according to Nobel Prize-winning economist Joseph Stiglitz.
+
+## Chinese smartphone maker teases a foldable smartphone that you can wear like a purse
+ - [https://www.cnbc.com/2023/09/01/honor-v-purse-chinas-honor-shows-smartphone-you-can-wear-like-a-bag.html](https://www.cnbc.com/2023/09/01/honor-v-purse-chinas-honor-shows-smartphone-you-can-wear-like-a-bag.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T09:02:11+00:00
+
+The Honor V Purse is a smartphone that folds outward with a top strip that contains the camera. Customizable straps can be attached to the device.
+
+## Huawei spinoff Honor launches foldable phone globally as Chinese firm looks to rival Apple, Samsung
+ - [https://www.cnbc.com/2023/09/01/honor-magic-v2-foldable-phone-launch-specs-price-details-.html](https://www.cnbc.com/2023/09/01/honor-magic-v2-foldable-phone-launch-specs-price-details-.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T09:01:25+00:00
+
+The Honor Magic V2 comes with all the latest features expected of a premium phone from a triple lens camera to sports Qualcomm's latest mobile chipset.
+
+## Robotics giant ABB 'pretty pessimistic' on China: 'It will be challenging for the rest of the year'
+ - [https://www.cnbc.com/2023/09/01/the-ceo-of-robotics-giant-abb-is-pretty-pessimistic-on-china.html](https://www.cnbc.com/2023/09/01/the-ceo-of-robotics-giant-abb-is-pretty-pessimistic-on-china.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T05:45:39+00:00
+
+China, a powerhouse of manufacturing often referred as "the world's factory" due to its influence on global trade, is ABB's second-biggest market.
+
+## A Saudi-Israel deal could dramatically reshape the Middle East — but don't expect it anytime soon
+ - [https://www.cnbc.com/2023/09/01/saudi-arabia-israel-deal-could-dramatically-reshape-the-middle-east-.html](https://www.cnbc.com/2023/09/01/saudi-arabia-israel-deal-could-dramatically-reshape-the-middle-east-.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T05:40:21+00:00
+
+A deal between Israel and Saudi Arabia could dramatically reshape the Middle East.
+
+## 'The war is coming home to Russia': Ukraine turns the tables on Moscow as drone warfare intensifies
+ - [https://www.cnbc.com/2023/09/01/ukraine-turns-the-tables-on-moscow-as-drone-attacks-increase.html](https://www.cnbc.com/2023/09/01/ukraine-turns-the-tables-on-moscow-as-drone-attacks-increase.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T05:39:06+00:00
+
+A dramatic uptick in drone attacks targeting Russian territory is likely to continue and could be a game-changer in the next phase of the war, analysts say.
+
+## China says the best way to 'de-risk' is to restore stability with the U.S.
+ - [https://www.cnbc.com/2023/09/01/china-says-best-way-to-de-risk-is-to-restore-stability-with-the-us.html](https://www.cnbc.com/2023/09/01/china-says-best-way-to-de-risk-is-to-restore-stability-with-the-us.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-01T05:01:55+00:00
+
+Beijing said Thursday that restoring stability in U.S.-China trade relations is the best way to "de-risk."
+
