@@ -1,5 +1,33 @@
 # Source:Bankier, URL:https://www.bankier.pl/rss/wiadomosci.xml, language:pl-PL
 
+## Ukraina ściga skorumpowanych urzędników także za granicą
+ - [https://www.bankier.pl/wiadomosc/Ukraina-sciga-skorumpowanych-urzednikow-takze-za-granica-8604656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ukraina-sciga-skorumpowanych-urzednikow-takze-za-granica-8604656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-02T20:22:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/3/0/0b707085a63d70-948-568-0-99-1510-906.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Minister sprawiedliwości Ukrainy Denys Maluska powiedział w sobotę, że Kijów pracuje nad sprowadzeniem do kraju skorumpowanych przedstawicieli elit, którzy zbiegli do państw europejskich, ale na razie kraje Europy z powodu trwającej wojny odmawiają ekstradycji podejrzanych.</p>
+
+## Czy sierpniowa korekta sprowadziła już WIG na ziemię?
+ - [https://www.bankier.pl/wiadomosc/Czy-sierpniowa-korekta-sprowadzila-juz-WIG-na-ziemie-8604654.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czy-sierpniowa-korekta-sprowadzila-juz-WIG-na-ziemie-8604654.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-02T20:05:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/8/a/bd04782f4798f8-945-560-1575-472-2925-1754.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Sierpień przyniósł wyczekiwaną korektę na polskiej giełdzie. WIG spadł o 5,3 proc., czyniąc sierpień najsłabszym miesiącem w tym roku.</p>
+
+## Gaz-System czeka na oferty wiążące w ramach procedury Open Season dla FSRU 2
+ - [https://www.bankier.pl/wiadomosc/Gaz-System-czeka-na-oferty-wiazace-w-ramach-procedury-Open-Season-dla-FSRU-2-8604643.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Gaz-System-czeka-na-oferty-wiazace-w-ramach-procedury-Open-Season-dla-FSRU-2-8604643.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-02T19:04:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/f/8/58d0ed0cdb3cab-948-568-10-280-3983-2390.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Na oferty wiążące w ramach procedury Open Season dla terminala FSRU 2 Gaz-System czeka do 29 września 2023 roku - poinformowała spółka. Procedura ma potwierdzić zainteresowania uczestników rynku zwiększeniem zdolności regazyfikacji terminala FSRU, co uzasadni realizację projektu przez Gaz-System.</p>
+
+## Zamiast do sklepów trafi do przemysłu. Producenci wina zutylizują 40 mln litrów
+ - [https://www.bankier.pl/wiadomosc/Nadpodaz-wina-w-Hiszpanii-Producenci-wyleja-40-mln-litrow-wina-8604642.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nadpodaz-wina-w-Hiszpanii-Producenci-wyleja-40-mln-litrow-wina-8604642.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-09-02T18:58:00+00:00
+
+<p><img align="left" alt="" class="webfeedsFeaturedVisual" height="560" src="http://galeria.bankier.pl/p/d/7/af2e04cfaee195-948-568-0-258-2953-1771.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="945" />Nadpodaż wina w Hiszpanii mogłaby spowodować spadek ceny, która obniżyłaby się poniżej poziomu kosztów produkcji. Zdecydowano się więc na drastyczny ruch. 40 mln litrów wina zostanie "przerobionych". Producenci tylko z dwóch regionów - Katalonii i Estremadury - otrzymają na ten cel wsparcie unijne w wysokości 2,7 mln euro do 15 października.</p>
+
 ## Pożar w Wólce Kosowskiej pod kontrolą. Trwa monitorowanie sytuacji
  - [https://www.bankier.pl/wiadomosc/Pozar-w-Wolce-Kosowskiej-pod-kontrola-Trwa-monitorowanie-sytuacji-8604635.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pozar-w-Wolce-Kosowskiej-pod-kontrola-Trwa-monitorowanie-sytuacji-8604635.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml

@@ -1,5 +1,13 @@
 # Source:TVN24 Z kraju, URL:https://tvn24.pl/wiadomosci-z-kraju,3.xml, language:pl-PL
 
+## Pogoda na dziś - niedziela 3.09. W niektórych regionach przydadzą się parasole, do 23 stopni na termometrach
+ - [https://tvn24.pl/tvnmeteo/najnowsze/pogoda-na-dzis-niedziela-309w-niektorych-regionach-przydadza-sie-parasole-do-23-stopni-na-termometrach-7322540?source=rss](https://tvn24.pl/tvnmeteo/najnowsze/pogoda-na-dzis-niedziela-309w-niektorych-regionach-przydadza-sie-parasole-do-23-stopni-na-termometrach-7322540?source=rss)
+ - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
+ - date published: 2023-09-03T00:00:00+00:00
+
+<img alt="Pogoda na dziś - niedziela 3.09. W niektórych regionach przydadzą się parasole, do 23 stopni na termometrach" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-04v6j1-deszcz-6102019/alternates/LANDSCAPE_1280" />
+    Pogoda na dziś. Niedziela 3.09 w prawie całym kraju okaże się pogodna, jednak mieszkańców południowego wschodu czeka kolejny deszczowy, momentami burzowy dzień. W całym kraju odczujemy komfort termiczny, a termometry wskażą od 20 do 23 stopni Celsjusza.
+
 ## Ofiary przemocy mają swój znak. To dłoń zaciskająca się w pięść
  - [https://fakty.tvn24.pl/zobacz-fakty/ofiary-przemocy-maja-swoj-znak-to-dlon-zaciskajaca-sie-w-piesc-7322481?source=rss](https://fakty.tvn24.pl/zobacz-fakty/ofiary-przemocy-maja-swoj-znak-to-dlon-zaciskajaca-sie-w-piesc-7322481?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml

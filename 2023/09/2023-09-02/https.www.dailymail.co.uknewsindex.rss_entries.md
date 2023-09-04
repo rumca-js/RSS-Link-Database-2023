@@ -1,5 +1,33 @@
 # Source:Daily Mail, URL:https://www.dailymail.co.uk/news/index.rss, language:en-US
 
+## BBC presenter Clive Myrie reveals he was 'ashamed' of Britain after watching his family become victims to Windrush scandal when they faced being deported
+ - [https://www.dailymail.co.uk/news/article-12474643/Clive-Myrie-BBC-ashamed-Britain-family-victims-Windrush-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474643/Clive-Myrie-BBC-ashamed-Britain-family-victims-Windrush-scandal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T23:51:05+00:00
+
+The journalist, 59, has revealed that his two half-brothers, six to seven years his senior, faced deportation despite having lived in Britain for decades.
+
+## Brisbane love triangle: Zowie Noring sues Christie Lee Kennedy after she was mowed down in BMW for kissing woman's husband
+ - [https://www.dailymail.co.uk/news/article-12474485/Woman-jealous-wife-BMW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474485/Woman-jealous-wife-BMW.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T23:50:43+00:00
+
+The woman who was mown down by a jealous wife in her BMW is suing the driver for $350,000 over the incident, which she says have left her with crippling physical and psychological injures.
+
+## Rishi Sunak to find out fate of former deputy chief whip Chris Pincher this week amid concerns that he could face double by-election threat on the same day Nadine Dorries' seat goes up for grabs
+ - [https://www.dailymail.co.uk/news/article-12474645/Rishi-Sunak-former-deputy-chief-whip-Chris-Pincher-concerns-double-election-threat-Nadine-Dorries-seat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474645/Rishi-Sunak-former-deputy-chief-whip-Chris-Pincher-concerns-double-election-threat-Nadine-Dorries-seat.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T23:49:42+00:00
+
+Chris Pincher's appeal against his eight-week suspension for assaulting two guests at the Carlton Club is set to conclude, leaving Rishi Sunak exposed to a double by-election threat
+
+## Labour by-election candidate who took part in Greenpeace eco-stunt in protest against Public Order Bill last year faces probe by Bank of England boss
+ - [https://www.dailymail.co.uk/news/article-12474613/Labour-election-candidate-Greenpeace-eco-stunt-protest-Public-Order-Bill-probe-Bank-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474613/Labour-election-candidate-Greenpeace-eco-stunt-protest-Public-Order-Bill-probe-Bank-England.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T23:47:58+00:00
+
+Alistair Strathern, 33, donned dark clothing and face paint to pose by a mock gravestone during a demonstration last November and is now being investigated by the Bank of England
+
 ## Body Shop removes men's section in its shops to make them more gender-neutral following complaints from workers
  - [https://www.dailymail.co.uk/news/article-12474541/Body-Shop-removes-mens-section-gender-neutral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474541/Body-Shop-removes-mens-section-gender-neutral.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -42,12 +70,26 @@ A number of shootings occurred in and around Friday night football games at high
 
 An 'anti-racist Wales action plan' published by First Minister Mark Drakeford, pledges to 'decolonise public spaces' and could see streets named after hero war PM Churchill (pictured) changed.
 
+## Friends of Meghan Markle's first husband are still advised to 'never mention the "M" word' after he was left 'crushed' when she demanded a divorce, despite being a Hollywood hotshot with new millionaire wife
+ - [https://www.dailymail.co.uk/tvshowbiz/article-12473949/Friends-Meghan-Markles-husband-advised-never-mention-M-word-left-crushed-demanded-divorce-despite-Hollywood-hotshot-new-millionaire-wife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-12473949/Friends-Meghan-Markles-husband-advised-never-mention-M-word-left-crushed-demanded-divorce-despite-Hollywood-hotshot-new-millionaire-wife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T22:46:39+00:00
+
+CAROLINE GRAHAM: While the Duchess of Sussex has moved on with her life, so, too, has her ex-husband Trevor Engelson.
+
 ## Centrelink boost: JobSeeker, Youth Allowance and partnered parenting payment to increase in cost-of-living relief
  - [https://www.dailymail.co.uk/news/article-12473279/Centrelink-boost-JobSeeker-Youth-Allowance-partnered-parenting-payment-increase-cost-living-relief.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12473279/Centrelink-boost-JobSeeker-Youth-Allowance-partnered-parenting-payment-increase-cost-living-relief.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2023-09-02T22:33:46+00:00
 
 While the latest Australian Bureau of Statistics data indicates inflation is moderating - up 4.9 per cent in the year to July but down from 5.4 per cent the month prior.
+
+## Victims of soft justice: These five innocent people were gunned down by 'incel' Jake Davison. But they'd still be alive argues acclaimed film-maker CHRIS ATKINS had he been jailed for a previous violent assault
+ - [https://www.dailymail.co.uk/debate/article-12474395/Five-innocent-people-gunned-Jake-Davison-theyd-alive-CHRIS-ATKINS-previous-violent-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-12474395/Five-innocent-people-gunned-Jake-Davison-theyd-alive-CHRIS-ATKINS-previous-violent-assault.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T22:22:24+00:00
+
+CHRIS ATKINS: I read about the carnage with sadness and horror. The killings seemed inexplicable, but it transpired that numerous warning signs had been missed.
 
 ## What is the truth about the £6 Primark bra that top fashionistas are raving about? asks TIFFANIE DARKE
  - [https://www.dailymail.co.uk/news/article-12474359/What-truth-6-Primark-bra-fashionistas-raving-asks-TIFFANIE-DARKE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474359/What-truth-6-Primark-bra-fashionistas-raving-asks-TIFFANIE-DARKE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -76,6 +118,13 @@ Carrie L. Tolstedt, 63, agreed in March to plead guilty to obstructing a bank ex
  - date published: 2023-09-02T21:36:09+00:00
 
 Voters now see Labour as the low-tax party for families, according to new polling that is likely to increase disquiet in the Tory Party over Rishi Sunak's economic policies.
+
+## Have the Clooneys left their £10m mansion on the banks of the Thames? Locals reveal Hollywood's favourite power couple have not been living at the nine-bedroom house for at least two years
+ - [https://www.dailymail.co.uk/tvshowbiz/article-12474203/Have-Clooneys-left-10m-mansion-banks-Thames-Locals-reveal-Hollywoods-favourite-power-couple-not-living-nine-bedroom-house-two-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/tvshowbiz/article-12474203/Have-Clooneys-left-10m-mansion-banks-Thames-Locals-reveal-Hollywoods-favourite-power-couple-not-living-nine-bedroom-house-two-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-09-02T21:34:41+00:00
+
+Sources claim that Hollywood's favourite power couple George and Amal Clooney have not been living at their River Thames home for at least two years.
 
 ## White House staff say Kamala Harris has 'rabbit ears' for criticism, claims bombshell new book, and reveals her demands for a majority female office and black chief of staff
  - [https://www.dailymail.co.uk/news/article-12474033/White-House-staff-say-Kamala-Harris-rabbit-ears-criticism-claims-bombshell-new-book-reveals-demands-majority-female-office-black-chief-staff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12474033/White-House-staff-say-Kamala-Harris-rabbit-ears-criticism-claims-bombshell-new-book-reveals-demands-majority-female-office-black-chief-staff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

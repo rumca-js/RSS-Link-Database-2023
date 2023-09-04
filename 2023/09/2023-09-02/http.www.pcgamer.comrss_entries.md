@@ -1,5 +1,12 @@
 # Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
 
+## There's a way to steal things with a bucket in Starfield after all
+ - [https://www.pcgamer.com/theres-a-way-to-steal-things-with-a-bucket-in-starfield-after-all](https://www.pcgamer.com/theres-a-way-to-steal-things-with-a-bucket-in-starfield-after-all)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-02T23:40:22+00:00
+
+"Attenzione! I think you're a pickpocket!"
+
 ## Starfield's name-remembering robot buddy can't do 'Glenn' or 'Greg,' but it will call you 'Captain Assface'
  - [https://www.pcgamer.com/starfields-name-remembering-robot-buddy-cant-do-glenn-or-greg-but-it-will-call-you-captain-assface](https://www.pcgamer.com/starfields-name-remembering-robot-buddy-cant-do-glenn-or-greg-but-it-will-call-you-captain-assface)
  - RSS feed: http://www.pcgamer.com/rss

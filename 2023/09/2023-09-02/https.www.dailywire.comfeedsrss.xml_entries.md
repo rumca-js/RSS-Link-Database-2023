@@ -1,5 +1,33 @@
 # Source:Daily Wire, URL:https://www.dailywire.com/feeds/rss.xml, language:en-US
 
+## Biden On Why He Hasn’t Gone To East Palestine: ‘There’s A Lot Going On’
+ - [https://www.dailywire.com/news/biden-on-why-he-hasnt-gone-to-east-palestine-theres-a-lot-going-on](https://www.dailywire.com/news/biden-on-why-he-hasnt-gone-to-east-palestine-theres-a-lot-going-on)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-02T21:49:36+00:00
+
+President Joe Biden said during a press conference in Florida on Saturday that he has not had a chance to go to East Palestine, Ohio, because he&#8217;s been too busy. &#8220;You said in March that you would go to East Palestine, Ohio,&#8221; a reporter said. &#8220;You came here, how come you haven&#8217;t gone to East ...
+
+## House Speaker Kevin McCarthy Details How Impeachment Inquiry Into Biden Would Start
+ - [https://www.dailywire.com/news/house-speaker-kevin-mccarthy-details-how-impeachment-inquiry-into-biden-would-start](https://www.dailywire.com/news/house-speaker-kevin-mccarthy-details-how-impeachment-inquiry-into-biden-would-start)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-02T21:25:49+00:00
+
+House Speaker Kevin McCarthy (R-CA) explained in an interview late this week that if Republicans move forward with deciding to pursue an impeachment inquiry into President Joe Biden, it will only happen after there is a formal vote on the House floor. The news comes after reports have suggested that Republicans could pursue a strategy ...
+
+## Washington Post Columnist Ends Interview After Being Confronted Over Hunter Biden Story
+ - [https://www.dailywire.com/news/washington-post-columnist-ends-interview-after-being-confronted-over-hunter-biden-story](https://www.dailywire.com/news/washington-post-columnist-ends-interview-after-being-confronted-over-hunter-biden-story)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-02T20:10:43+00:00
+
+A columnist for The Washington Post snapped during an appearance on a podcast with host Noam Dworman this week after he was questioned about reporting on President Joe Biden&#8217;s son, Hunter Biden. Fox News noted that Philip Bump, who has written about Hunter Biden numerous times, had been repeatedly pressed throughout the podcast about evidence ...
+
+## DeSantis Continues To Assist In Recovery Efforts While Biden Comes To Florida For ‘Photo Op’
+ - [https://www.dailywire.com/news/desantis-continues-to-assist-in-recovery-efforts-while-biden-comes-to-florida-for-photo-op](https://www.dailywire.com/news/desantis-continues-to-assist-in-recovery-efforts-while-biden-comes-to-florida-for-photo-op)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-09-02T20:00:23+00:00
+
+Florida Governor Ron DeSantis continued to lead recovery efforts in Florida&#8217;s Big Bind over the weekend after it was hit by near-Category 4 Hurricane Idalia last week. DeSantis, who is also running for president, stepped off the campaign trail last week to focus on leading his state&#8217;s response to the hurricane. The governor met with ...
+
 ## Deion Sanders Stuns College Football World With First Game Win Over TCU
  - [https://www.dailywire.com/news/deion-sanders-stuns-college-football-world-with-first-game-win-over-tcu](https://www.dailywire.com/news/deion-sanders-stuns-college-football-world-with-first-game-win-over-tcu)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml

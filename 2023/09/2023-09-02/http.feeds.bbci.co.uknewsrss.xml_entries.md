@@ -1,5 +1,47 @@
 # Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
 
+## Berliners rave against the motorway as extension threatens 20 cultural venues
+ - [https://www.bbc.co.uk/news/world-europe-66697756?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66697756?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:45:24+00:00
+
+Clubbers hold street party protesting against plan to flatten 20 venues in path of ring road extension
+
+## Google's search for an AI future as it turns 25
+ - [https://www.bbc.co.uk/news/technology-66659361?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-66659361?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:41:22+00:00
+
+The tech giant celebrates its 25th birthday this month, but faces new threats to its dominance.
+
+## Five ways to save money on your packed lunch
+ - [https://www.bbc.co.uk/news/business-65312394?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-65312394?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:40:38+00:00
+
+The lunchbox is back after the summer holidays so here are some top tips on making savings at lunchtime.
+
+## Are US politicians too old? Voters weigh in
+ - [https://www.bbc.co.uk/news/world-us-canada-66681055?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-66681055?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:35:52+00:00
+
+A recent health scare for Mitch McConnell has raised concerns about the age of America's politicians.
+
+## Johannesburg fire: Hijacks and death traps in a crumbling South African city centre
+ - [https://www.bbc.co.uk/news/world-africa-66695688?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-africa-66695688?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:33:55+00:00
+
+Criminal gangs 'hijack' buildings in South Africa, and then they burn down. And no-one seems able to stop them.
+
+## Threats, insults, and Kremlin 'robots': How Russian diplomacy died under Putin
+ - [https://www.bbc.co.uk/news/world-europe-66509180?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66509180?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:25:34+00:00
+
+Russian diplomacy is no longer about co-operation but "putting Westerners in their place", say ex-Kremlin insiders.
+
 ## MOTD analysis: VAR lets Marco Silva, Fulham and referee Michael Oliver down, says Jermaine Jenas
  - [https://www.bbc.co.uk/sport/av/football/66699133?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/66699133?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -27,6 +69,13 @@ Chris Eubank Jr beats Liam Smith by TKO in round 10 of their middleweight rematc
  - date published: 2023-09-02T23:12:10+00:00
 
 In 1930 the billionaire picked a limestone home in Chedworth as his souvenir of England.
+
+## Why your burger may not always look like the advert
+ - [https://www.bbc.co.uk/news/business-66668739?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-66668739?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T23:06:09+00:00
+
+Burger King is facing a US lawsuit over images of its Whoppers, but advertisers are allowed to exaggerate.
 
 ## Your pictures on the theme of 'recycled'
  - [https://www.bbc.co.uk/news/in-pictures-66658979?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/in-pictures-66658979?at_medium=RSS&at_campaign=KARANGA)
@@ -104,6 +153,13 @@ Two men in their 20s have been arrested under the Terrorism Act in connection wi
  - date published: 2023-09-02T19:23:59+00:00
 
 Stephen Kinnock MP welcomed funding talks but said any plan needed the support of workers.
+
+## Rangers v Celtic: Can Rodgers get Old Firm tune out of side?
+ - [https://www.bbc.co.uk/sport/football/66668648?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66668648?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-02T19:23:49+00:00
+
+Can Brendan Rodgers rediscover his Old Firm derby magic touch to inspire stuttering Celtic?
 
 ## Son Heung-min: Tottenham's hat-trick hero at Burnley leading by example on and off pitch
  - [https://www.bbc.co.uk/sport/football/66698697?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66698697?at_medium=RSS&at_campaign=KARANGA)

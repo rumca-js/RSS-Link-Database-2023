@@ -1,5 +1,13 @@
 # Source:TNV24 Najważniejsze, URL:https://tvn24.pl/najwazniejsze.xml, language:pl-PL
 
+## Niedziela ze zmienną aurą. W niektórych regionach przydadzą się parasole
+ - [https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-309w-niektorych-regionach-przydadza-sie-parasole-do-23-stopni-na-termometrach-7322540?source=rss](https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-309w-niektorych-regionach-przydadza-sie-parasole-do-23-stopni-na-termometrach-7322540?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-09-03T00:00:00+00:00
+
+<img alt="Niedziela ze zmienną aurą. W niektórych regionach przydadzą się parasole" src="https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-04v6j1-deszcz-6102019/alternates/LANDSCAPE_1280" />
+    Sprawdź prognozę pogody na dziś.
+
 ## Linette sprawiła niespodziankę w deblu. Rozstawione rywalki wyeliminowane
  - [https://eurosport.tvn24.pl/tenis/us-open/2023/us-open-2023.-magda-linette-bernarda-pera-nicole-melichar-martinez-ellen-perez-wynik-i-relacja-z-mec_sto9777720/story.shtml?source=rss](https://eurosport.tvn24.pl/tenis/us-open/2023/us-open-2023.-magda-linette-bernarda-pera-nicole-melichar-martinez-ellen-perez-wynik-i-relacja-z-mec_sto9777720/story.shtml?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -14,6 +22,14 @@
  - date published: 2023-09-02T20:28:44+00:00
 
 <img alt="Wieteska z asystą w debiucie w Serie A" src="https://tvn24.pl/najnowsze/cdn-zdjecie-4hx13m-bologna-cagliari-7322707/alternates/LANDSCAPE_1280" />
+    W barwach Cagliari.
+
+## Wieteska z asystą w debiucie w Serie A
+ - [https://eurosport.tvn24.pl/pilka-nozna/serie-a/2023-2024/bologna-cagliari-mateusz-wieteska-z-asysta-napoli-lazio-piotr-zielinski-z-golem-serie-a_sto9777715/story.shtml?source=rss](https://eurosport.tvn24.pl/pilka-nozna/serie-a/2023-2024/bologna-cagliari-mateusz-wieteska-z-asysta-napoli-lazio-piotr-zielinski-z-golem-serie-a_sto9777715/story.shtml?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-09-02T20:28:44+00:00
+
+<img alt="Wieteska z asystą w debiucie w Serie A" src="https://tvn24.pl/najnowsze/cdn-zdjecie-5yom2l-bologna-cagliari-7322707/alternates/LANDSCAPE_1280" />
     W barwach Cagliari.
 
 ## Fatalna seria Bayernu przerwana
@@ -175,6 +191,14 @@
 
 <img alt="" src="https://fakty.tvn24.pl/najnowsze/cdn-zdjecie-z7da8z-0209n185x-f16-balukiewicz-kongres-kobiet-000009-7322398/alternates/LANDSCAPE_1280" />
     15. Kongres Kobiet.
+
+## Współgospodarze Euro na drodze polskich siatkarzy
+ - [https://eurosport.tvn24.pl/siatkowka/mistrzostwa-europy/2023/polska-macedonia-polnocna-kiedy-i-o-ktorej-godzinie-poczatek-meczu-na-me-w-siatkowce-mezczyzn-2023_sto9776685/story.shtml?source=rss](https://eurosport.tvn24.pl/siatkowka/mistrzostwa-europy/2023/polska-macedonia-polnocna-kiedy-i-o-ktorej-godzinie-poczatek-meczu-na-me-w-siatkowce-mezczyzn-2023_sto9776685/story.shtml?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-09-02T15:20:47+00:00
+
+<img alt="Współgospodarze Euro na drodze polskich siatkarzy" src="https://tvn24.pl/najnowsze/cdn-zdjecie-kd9s5i-polscy-siatkarze-powalcza-o-trzecie-zwyciestwo-w-me-7322460/alternates/LANDSCAPE_1280" />
+    O której godzinie dziś początek meczu?
 
 ## Radomiak pozbawił się szans na podium
  - [https://eurosport.tvn24.pl/pilka-nozna/pko-bp-ekstraklasa/2023-2024/radomiak-radom-piast-gliwice-wynik-meczu-i-relacja_sto9776698/story.shtml?source=rss](https://eurosport.tvn24.pl/pilka-nozna/pko-bp-ekstraklasa/2023-2024/radomiak-radom-piast-gliwice-wynik-meczu-i-relacja_sto9776698/story.shtml?source=rss)

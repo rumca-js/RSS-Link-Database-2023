@@ -1,5 +1,19 @@
 # Source:ABC News, URL:http://feeds.abcnews.com/abcnews/topstories, language:en-US
 
+## Burning Man attendees advised to conserve food and water after rains
+ - [https://abcnews.go.com/US/burning-man-rains-mud/story?id=102886032](https://abcnews.go.com/US/burning-man-rains-mud/story?id=102886032)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-09-02T23:31:08+00:00
+
+Thousands of Burning Man attendees are being advised to shelter in place and conserve food and water amid muddy conditions.
+
+## Police officer praised for reviving baby during traffic stop in suburban Detroit
+ - [https://abcnews.go.com/US/wireStory/police-officer-praised-reviving-baby-traffic-stop-suburban-102885517](https://abcnews.go.com/US/wireStory/police-officer-praised-reviving-baby-traffic-stop-suburban-102885517)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2023-09-02T21:49:44+00:00
+
+He saved the life of an 18-month-old boy after he stopped a car for speeding.
+
 ## WATCH:  Timelapse video shows monsoon thunderstorm over Las Vegas
  - [https://abcnews.go.com/US/video/timelapse-video-shows-monsoon-thunderstorm-las-vegas-102887362](https://abcnews.go.com/US/video/timelapse-video-shows-monsoon-thunderstorm-las-vegas-102887362)
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories

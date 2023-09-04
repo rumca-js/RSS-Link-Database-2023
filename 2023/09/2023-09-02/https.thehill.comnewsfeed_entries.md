@@ -1,5 +1,12 @@
 # Source:The Hill, URL:https://thehill.com/news/feed/, language:en-US
 
+## Flamingos found in Florida likely hitched a ride with Hurricane Idalia
+ - [https://thehill.com/homenews/state-watch/4184293-flamingos-found-in-florida-likely-hitched-a-ride-with-hurricane-idalia/](https://thehill.com/homenews/state-watch/4184293-flamingos-found-in-florida-likely-hitched-a-ride-with-hurricane-idalia/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-09-02T23:55:13+00:00
+
+Despite flamingos being nearly synonymous with Florida, the birds themselves aren't too common throughout the Sunshine State.
+
 ## 'California Forever': Company behind land purchases near Travis Air Force Base launches website, details plans
  - [https://thehill.com/homenews/state-watch/4184337-california-forever-company-behind-land-purchases-near-travis-air-force-base-launches-website-details-plans/](https://thehill.com/homenews/state-watch/4184337-california-forever-company-behind-land-purchases-near-travis-air-force-base-launches-website-details-plans/)
  - RSS feed: https://thehill.com/news/feed/

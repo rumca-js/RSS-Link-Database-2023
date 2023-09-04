@@ -35,6 +35,13 @@
 
 <ul><li>South Sudan clinch berth at Paris Summer Olympics</li><li>World’s youngest state is automatic qualifier from Africa</li><li>Bright Stars beat Angola to finish 3-2 at Fiba World Cup</li></ul><p>It was a chant that Luol Deng waited years to lead. He stood along the side of the South Sudan locker room after their run in the World Cup was over, cupped his hands around his mouth and yelled the same thing, over and over.</p><p>“Where we goin’?” he shouted.</p> <a href="https://www.theguardian.com/sport/2023/sep/02/south-sudan-fiba-basketball-world-cup-olympics">Continue reading...</a>
 
+## India launches space mission to the sun – video
+ - [https://www.theguardian.com/us-news/video/2023/sep/02/india-launches-space-mission-to-the-sun-video](https://www.theguardian.com/us-news/video/2023/sep/02/india-launches-space-mission-to-the-sun-video)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2023-09-02T10:24:45+00:00
+
+<p>India has launched a spacecraft towards the sun in the latest mission of its ambitious space programme. The launch comes a week after the country's successful unmanned moon landing. Aditya-L1 launched with a live broadcast, showing the vessel making its way to the upper reaches of the Earth's atmosphere. The vessel is carrying scientific instruments to study the sun's outermost layers in a four-month journey</p><p></p><ul><li><p><a href="https://www.theguardian.com/world/2023/sep/02/india-launches-space-mission-to-the-sun-a-week-after-moon-landing"><strong>India launches space mission to the sun a week after moon landing</strong></a></p></li></ul> <a href="https://www.theguardian.com/us-news/video/2023/sep/02/india-launches-space-mission-to-the-sun-video">Continue reading...</a>
+
 ## Sung Neung Kyung: ‘All art is fundamentally at least a bit political’
  - [https://www.theguardian.com/artanddesign/2023/sep/02/sung-neung-kyung-all-art-is-political](https://www.theguardian.com/artanddesign/2023/sep/02/sung-neung-kyung-all-art-is-political)
  - RSS feed: https://www.theguardian.com/international/rss

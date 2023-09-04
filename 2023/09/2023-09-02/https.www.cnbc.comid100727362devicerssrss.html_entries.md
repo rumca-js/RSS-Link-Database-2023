@@ -1,5 +1,12 @@
 # Source:CNBC, URL:https://www.cnbc.com/id/100727362/device/rss/rss.html, language:en-US
 
+## Instacart's IPO filing sparked an online spat between cloud rivals Snowflake and Databricks
+ - [https://www.cnbc.com/2023/09/02/instacart-ipo-filing-fans-controversy-between-snowflake-databricks-.html](https://www.cnbc.com/2023/09/02/instacart-ipo-filing-fans-controversy-between-snowflake-databricks-.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2023-09-02T17:26:21+00:00
+
+After Instacart published its IPO prospectus on Monday, a disclosure regarding the company's use of Snowflake technology created an unexpected controversy.
+
 ## Feel anxious when you don't have your cell phone? You may have 'nomophobia'—how to spot the signs
  - [https://www.cnbc.com/2023/09/02/nomophobia-the-anxiety-you-feel-without-your-cell-phone-has-a-name.html](https://www.cnbc.com/2023/09/02/nomophobia-the-anxiety-you-feel-without-your-cell-phone-has-a-name.html)
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html

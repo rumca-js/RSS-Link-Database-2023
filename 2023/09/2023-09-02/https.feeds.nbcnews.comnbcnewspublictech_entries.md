@@ -35,6 +35,13 @@ Bill Richardson, the former New Mexico governor, U.S. ambassador to the United N
 
 Pope Francis greeted by a small crowd in Mongolia's capital Ulaanbaatar.
 
+## The far left wages an internal fight: Help Democrats or reject the establishment?
+ - [https://www.nbcnews.com/politics/elections/left-democratic-socialists-rcna103066](https://www.nbcnews.com/politics/elections/left-democratic-socialists-rcna103066)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech
+ - date published: 2023-09-02T14:40:27+00:00
+
+There is a divide among the Democratic Socialists of America and other far-left groups as they debate their forced marriage with the Democratic Party.
+
 ## Hurricane Idalia forces Biden and Ron DeSantis to get along — at least a little bit
  - [https://www.nbcnews.com/politics/2024-election/hurricane-idalia-biden-ron-desantis-florida-rcna102968](https://www.nbcnews.com/politics/2024-election/hurricane-idalia-biden-ron-desantis-florida-rcna102968)
  - RSS feed: https://feeds.nbcnews.com/nbcnews/public/tech

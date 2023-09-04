@@ -1,5 +1,45 @@
 # Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
 
+## Lorapaper: A connected e-paper device that runs on light
+ - [https://github.com/RobPo/lorapaper](https://github.com/RobPo/lorapaper)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T23:42:52+00:00
+
+<p>Article URL: <a href="https://github.com/RobPo/lorapaper">https://github.com/RobPo/lorapaper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37366423">https://news.ycombinator.com/item?id=37366423</a></p>
+<p>Points: 26</p>
+<p># Comments: 0</p>
+
+## How to type “blimpy” in Emacs [video]
+ - [https://www.youtube.com/watch?v=2VOnKMJqIL0](https://www.youtube.com/watch?v=2VOnKMJqIL0)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T23:25:38+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=2VOnKMJqIL0">https://www.youtube.com/watch?v=2VOnKMJqIL0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37366341">https://news.ycombinator.com/item?id=37366341</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+## Focus: A simple and fast text editor written in Jai
+ - [https://github.com/focus-editor/focus](https://github.com/focus-editor/focus)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T22:36:03+00:00
+
+<p>Article URL: <a href="https://github.com/focus-editor/focus">https://github.com/focus-editor/focus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37366099">https://news.ycombinator.com/item?id=37366099</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
+
+## Rescuing the lost code and stereo sound to Sinistar [video]
+ - [https://www.youtube.com/watch?v=ZRDdKZ7V54I](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T22:12:16+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=ZRDdKZ7V54I">https://www.youtube.com/watch?v=ZRDdKZ7V54I</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37365968">https://news.ycombinator.com/item?id=37365968</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
 ## MindsDB (YC W20) Is Hiring a Senior Front End Engineer
  - [https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
  - RSS feed: https://hnrss.org/frontpage
@@ -77,6 +117,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=37364290">https://news.ycombinator.com/item?id=37364290</a></p>
 <p>Points: 57</p
 
+## LensLeech: Touch a camera to control your devices
+ - [https://volzo.de/thing/lensleech/](https://volzo.de/thing/lensleech/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T18:33:13+00:00
+
+<p>Article URL: <a href="https://volzo.de/thing/lensleech/">https://volzo.de/thing/lensleech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37364181">https://news.ycombinator.com/item?id=37364181</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
 ## Show HN: Shaq, a CLI for Shazam
  - [https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
  - RSS feed: https://hnrss.org/frontpage
@@ -146,6 +196,27 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=37363035">https://news.ycombinator.com/item?id=37363035</a></p>
 <p>Points: 26</p>
 <p># Comments: 5</p>
+
+## An intuition for logarithms
+ - [https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/](https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T16:03:05+00:00
+
+<p>Article URL: <a href="https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/">https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37362740">https://news.ycombinator.com/item?id=37362740</a></p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
+
+## Show HN: A .bit gateway for resolving ipfs:// to https://
+ - [https://bit.site/](https://bit.site/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T15:30:18+00:00
+
+<p>bit.site dynamically captures all requests to *.bit.site, automatically resolving the IPFS/IPNS/Skynet content hashes for the corresponding .bit account records. It returns the relevant static content via HTTPS, enabling users to access decentralized networks with zero configuration on modern browsers.<p>At the same time, we provide global CDN acceleration, striving to enhance the availability of decentralized content.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37362378">https://news.ycombinator.com/item?id=37362378</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
 ## Toml-bench – Which toml package to use in Python?
  - [https://github.com/pwwang/toml-bench](https://github.com/pwwang/toml-bench)
@@ -261,6 +332,16 @@
 <p>Points: 13</p>
 <p># Comments: 10</p>
 
+## Can plastic recycling ever work?
+ - [https://www.nytimes.com/2023/09/01/headway/plastic-recycling-california-law.html](https://www.nytimes.com/2023/09/01/headway/plastic-recycling-california-law.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T13:36:02+00:00
+
+<p>Article URL: <a href="https://www.nytimes.com/2023/09/01/headway/plastic-recycling-california-law.html">https://www.nytimes.com/2023/09/01/headway/plastic-recycling-california-law.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37361409">https://news.ycombinator.com/item?id=37361409</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
 ## Windows NT 3.1
  - [https://www.abortretry.fail/p/the-history-of-windows-nt-31](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
  - RSS feed: https://hnrss.org/frontpage
@@ -300,6 +381,16 @@
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=37361082">https://news.ycombinator.com/item?id=37361082</a></p>
 <p>Points: 55</p>
 <p># Comments: 61</p>
+
+## Bézier Curves and the logic behind them
+ - [https://blog.richardekwonye.com/bezier-curves](https://blog.richardekwonye.com/bezier-curves)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-09-02T12:50:48+00:00
+
+<p>Article URL: <a href="https://blog.richardekwonye.com/bezier-curves">https://blog.richardekwonye.com/bezier-curves</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37361053">https://news.ycombinator.com/item?id=37361053</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
 ## Semantic Zoom
  - [https://alexanderobenauer.com/labnotes/038/](https://alexanderobenauer.com/labnotes/038/)

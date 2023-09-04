@@ -1,5 +1,103 @@
 # Source:Fox News, URL:https://moxie.foxnews.com/google-publisher/latest.xml, language:en-US
 
+## Princess Diana’s brother shares adorable childhood photo 26 years after her death
+ - [https://www.foxnews.com/entertainment/princess-dianas-brother-shares-adorable-childhood-photo-26-years-death](https://www.foxnews.com/entertainment/princess-dianas-brother-shares-adorable-childhood-photo-26-years-death)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T22:08:25+00:00
+
+Earl Spencer, Princess Diana&apos;s younger brother, shared a photo of the two of them as children in remembrance of her life Thursday — 26 years after she was killed in a car crash.
+
+## Husband refuses to 'donate' to his wife's friend's wedding, asks for advice: 'Not a fan'
+ - [https://www.foxnews.com/lifestyle/husband-refuses-donate-wifes-friends-wedding-advice-not-fan](https://www.foxnews.com/lifestyle/husband-refuses-donate-wifes-friends-wedding-advice-not-fan)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T22:03:47+00:00
+
+An unusual wedding-related drama was posted on Reddit: A husband wrote that he does not want to &quot;donate&quot; to a friend who is hoping to have a dream wedding. Plenty of commenters weighed in.
+
+## Missing Colorado hiker's remains discovered after car found near national park peak
+ - [https://www.foxnews.com/us/missing-colorado-hikers-remains-discovered-car-found-national-park-peak](https://www.foxnews.com/us/missing-colorado-hikers-remains-discovered-car-found-national-park-peak)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T21:59:04+00:00
+
+The remains of a Colorado hiker were found at Glacier National Park&apos;s Reynolds Mountain in Montana on Friday morning, according to a statement from the federal agency.
+
+## Seattle police find 4 people dead in house fire, investigating causes of death, whether blaze was set
+ - [https://www.foxnews.com/us/seattle-police-find-4-people-dead-house-fire-investigating-causes-death-whether-blaze-set](https://www.foxnews.com/us/seattle-police-find-4-people-dead-house-fire-investigating-causes-death-whether-blaze-set)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T21:56:09+00:00
+
+Seattle Police Department reported that two kids and two adults were found dead inside a Wallingford neighborhood residence Saturday morning. Arson and homicide detectives are investigating.
+
+## American college student identified as passenger who went overboard from world's largest cruise ship
+ - [https://www.foxnews.com/world/american-college-student-identified-passenger-went-overboard-worlds-largest-cruise-ship](https://www.foxnews.com/world/american-college-student-identified-passenger-went-overboard-worlds-largest-cruise-ship)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T21:18:35+00:00
+
+The person who went overboard a Royal Caribbean cruise ship on Tuesday has been identified by his family as 19-year-old Sigmund Ropich.
+
+## Kyle Shanahan admits 49ers made a mistake surrendering draft picks to acquire Trey Lance
+ - [https://www.foxnews.com/sports/kyle-shanahan-admits-49ers-made-a-mistake-surrendering-draft-picks-to-acquire-trey-lance](https://www.foxnews.com/sports/kyle-shanahan-admits-49ers-made-a-mistake-surrendering-draft-picks-to-acquire-trey-lance)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T21:18:20+00:00
+
+The 49ers already had an experienced quarterback on their roster in 2021, but the team was searching for a signal-caller with more upside who could be the starter.
+
+## Texas suspect caught on video torturing family's cats learns his fate
+ - [https://www.foxnews.com/us/texas-suspect-caught-video-torturing-familys-cats-learns-fate](https://www.foxnews.com/us/texas-suspect-caught-video-torturing-familys-cats-learns-fate)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T21:11:57+00:00
+
+Former University of Texas at Dallas student Shubhankar Kawle was sentenced to nearly seven years in prison after torturing a cat for five hours, ultimately leading to her death.
+
+## Burning Man festival told to 'shelter in place,' conserve food and water amid flooding
+ - [https://www.foxnews.com/us/burning-man-festival-told-shelter-place-conserve-food-water-flooding](https://www.foxnews.com/us/burning-man-festival-told-shelter-place-conserve-food-water-flooding)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T20:52:39+00:00
+
+Attendees at Burning man are being told to &quot;shelter in place&quot; and conserve food and water amid heavy flooding and rain in the area on Friday.
+
+## Lady Gaga honors Tony Bennett with ‘Fly Me to the Moon’ in first Vegas residency show since his death
+ - [https://www.foxnews.com/entertainment/lady-gaga-honors-tony-bennett-fly-me-moon-first-vegas-residency-show-his-death](https://www.foxnews.com/entertainment/lady-gaga-honors-tony-bennett-fly-me-moon-first-vegas-residency-show-his-death)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T20:32:03+00:00
+
+Lady Gaga sang &quot;Fly Me to the Moon&quot; at her first show back at her Las Vegas residency Thursday since Tony Bennett&apos;s death July 21.
+
+## Cubs honor Jimmy Buffett, who played first-ever concert at historic Wrigley Field in 2005
+ - [https://www.foxnews.com/sports/cubs-honor-jimmy-buffett-who-played-first-ever-concert-at-historic-wrigley-field-in-2005](https://www.foxnews.com/sports/cubs-honor-jimmy-buffett-who-played-first-ever-concert-at-historic-wrigley-field-in-2005)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T20:16:08+00:00
+
+Wrigley Field, the longtime home of the Chicago Cubs, shares a special connection with music icon Jimmy Buffett. The team paid tribute to Buffett Saturday.
+
+## Family of pilot killed in Texas air show crash sues organizers of Wings Over Dallas: 'Who is responsible?'
+ - [https://www.foxnews.com/us/family-pilot-killed-texas-air-show-crash-sues-organizers-wings-over-dallas-who-responsible](https://www.foxnews.com/us/family-pilot-killed-texas-air-show-crash-sues-organizers-wings-over-dallas-who-responsible)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T20:05:20+00:00
+
+Nearly a year after a midair collision at a Texas air show took the lives of six men, the family of Len Root filed a lawsuit alleging negligence by the organizers.
+
+## Salma Hayek celebrates 57th birthday in racy red bikini: ‘So happy to be alive’
+ - [https://www.foxnews.com/entertainment/salma-hayek-celebrates-birthday-in-racy-red-bikini-so-happy-be-alive](https://www.foxnews.com/entertainment/salma-hayek-celebrates-birthday-in-racy-red-bikini-so-happy-be-alive)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T20:02:01+00:00
+
+Salma Hayek turned 57 Saturday and celebrated with a series of bikini photos on her social media, noting she&apos;s &quot;grateful for all the blessings&quot; in her life.
+
+## Mugshots of the week: Aug. 27-Sept. 2, 2023
+ - [https://www.foxnews.com/us/mugshots-week-aug-27-sept-2-2023](https://www.foxnews.com/us/mugshots-week-aug-27-sept-2-2023)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T20:00:38+00:00
+
+These mugshots were taken for arrests made throughout the U.S. the week of Aug. 27-Sept. 2, 2023.
+
+## Pennsylvania officials have 'strong belief' escaped murder convict Danelo Cavalcante broke into home
+ - [https://www.foxnews.com/us/pennsylvania-officials-have-strong-belief-escaped-murder-convict-danelo-cavalcante-broke-home](https://www.foxnews.com/us/pennsylvania-officials-have-strong-belief-escaped-murder-convict-danelo-cavalcante-broke-home)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-09-02T19:48:27+00:00
+
+Pennsylvania officials said during a press conference. they believe escaped murder convict Danelo Souza Cavalcante broke into a home inside a residential area.
+
 ## Purdue’s Deion Burks bounces off Fresno State defenders, breaks loose for an incredible touchdown
  - [https://www.foxnews.com/sports/purdues-deion-burks-bounces-off-fresno-state-defenders-breaks-loose-for-an-incredible-touchdown](https://www.foxnews.com/sports/purdues-deion-burks-bounces-off-fresno-state-defenders-breaks-loose-for-an-incredible-touchdown)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml

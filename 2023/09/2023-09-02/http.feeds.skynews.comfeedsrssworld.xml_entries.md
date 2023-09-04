@@ -28,6 +28,13 @@ An icebreaker is en route from Australia to an Antarctic research station to res
 
 US superstar Billie Eilish&#160;was supported by fans through her Electric Picnic gig after complaining of feeling "really, really sick".
 
+## Gang-ruled prisons, assassinated politicians and a drug lord's killing in Ecuador
+ - [https://news.sky.com/story/ecuador-gang-ruled-prisons-assassinated-politicians-and-a-drug-lords-killing-12953009](https://news.sky.com/story/ecuador-gang-ruled-prisons-assassinated-politicians-and-a-drug-lords-killing-12953009)
+ - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
+ - date published: 2023-09-02T12:33:00+00:00
+
+A mass hostage taking in Ecuador's gang-ruled prisons and the assassination of a politician are the latest bloody episodes in a country gripped by the cocaine trade.
+
 ## Sir Elton John leads tributes after singer-songwriter and billionaire businessman Jimmy Buffett dies
  - [https://news.sky.com/story/jimmy-buffett-sir-elton-john-leads-tributes-after-singer-songwriter-and-billionaire-businessman-dies-12952990](https://news.sky.com/story/jimmy-buffett-sir-elton-john-leads-tributes-after-singer-songwriter-and-billionaire-businessman-dies-12952990)
  - RSS feed: http://feeds.skynews.com/feeds/rss/world.xml
