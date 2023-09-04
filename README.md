@@ -1,4 +1,6 @@
-# RSS links database for year 2023
+# Link database for year 2023
+
+This repository contains link metadata: title, description, publish date, etc.
 
 ## Suite of projects
 
@@ -13,7 +15,6 @@
 
  - Archive purposes
  - Data analysis - possible to verify link rot, etc.
- - Google sucks at providing results for various topics (dead internet)
 
 ## Inspirations
 
@@ -28,36 +29,46 @@
 
 ## Daily Data
 
- - RSS links are captured for each source separately
- - two files formats for each day and source: JSON and markdown
- - markdown file is generated as a form of preview, JSON can be reused, imported
- - links are bookmarked, but that does not necessarily mean something is endorsed. It shows particular intrest in topic. It is indication of importance. Such links are stored 'forever'
+Are stored in the year directory.
+
+ - data are in %Y\%M\%Y-%M-%D directories, where %Y stands for year, %M for month, %D for day
+ - Most links are captured via RSS. Some entries were added manually
+ - for each source two files are provided: JSON and markdown
+ - markdown file is provided for data preview
+ - this repo contains many links captured via automated process. They are here, but that does not mean I endorse them all
 
 ## Sources
 
- - provided in sources.json file
+ - file: sources.json
  - provides information about sources, like title, url, langugage
+
+## Domains
+
+ - file: domains.json
+ - provides information about domains, like title, url, langugage
 
 ## Data analysis
 
 With these data we can perform further analysis:
 
- - how many of old links are not any longer valid (link rot test)
- - capture all domains from RSS links (internal, and leading outside?). Analyse which domains are most common
- - which site generates most entries
- - we can capture all external links from entries, to capture where these sites lead to (check network effect, etc)
- - we can verify who reported first on certain topics
+ - analysis of links: how many of old links are not any longer valid
+ - analysis of RSS source: how often it publishes data
+ - analysis of RSS source: what kind of data it produces, is it reliable
+ - analysis of RSS source: is it a content farm, does it contain many links outside of the domain?
+ - analysis of domains: is the domain correctly configured?
+ - analysis of topics: who was the first to report on certain topic
+ - analysis of topics: which source uses which words? For example it seems that left leaning sites, and white leaning sites have a different vocublary. There are different kind of words and ideads in. With this file history, you can analyze which sites have which ideas
 
 # Problems, notes
 
- - Internet Archive (archive.org) does not provide snapshots for each and every day for all RSS sources. It is sometimes pretty slow. We would like to be sure that a such snapshot takes place. Therefore we need to export links to daily repo ourselves. Django RSS app also makes requests to archive to make the snapshots
- - Google fails to deliver content of small creators (blogs etc. private pages). Google focuses on corporate hosting. Most common links are towards YouTube, Google maps, Facebook, reddit
- - We cannot replace Google search
- - Google provides only 31 pages of news (in news filter) and around 10 pages for ordinary search. This is a very small number. It is like looking through keyhole at the Internet
- - Link rot is real. My links may be not working after some time
- - Is the data relevant, or useful for anyone?
- - Either we would like to record data from 'well established sources' or gather as many links as possible. I think web engines do it? We cannot gather too much data, as it can destroy our potato servers.
- - there are other RSS solutions like 'feedly', but it is an app, not data. You cannot parse it, you do not own the data, you can only do things that feedly allows you to do
+ - This solution does not replace Internet Archive. We do not store all link data
+ - Internet Archive (archive.org) is sometimes slow
+ - This solution does not replace Google. This would be futile. However Google provides only 31 pages of news (in news filter) and around 10 pages for ordinary search. This is a very small number. It is like looking through keyhole at the Internet
+ - You cannot discover new content using Google. For example write 'blog' into search. You will not be able to find new blogs.
+ - You cannot discover new content using YouTube. For example write 'trailer' into search. It shows me certain amount of new trailers from time span of 10 days, nothing older, or just a few older titles. I prefer capturing data from a movie trailer channel and continue to use it's data
+ - Link rot is real. Many github pages do not work at all. Many pages stop working after significant amount of time
+ - I am using raspberry PI at the moment. With it I cannot track all of the sources in the world. Therefore I track only 'well established' sources, or the ones I am really interested in
+ - Is the data relevant, or useful for anyone but me?
 
 # Ending notes
 
