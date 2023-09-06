@@ -1,0 +1,34 @@
+# Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
+
+## Hackers stole $41M worth of crypto assets from crypto gambling firm Stake
+ - [https://securityaffairs.com/150401/hacking/crypto-gambling-firm-stake-hacked.html](https://securityaffairs.com/150401/hacking/crypto-gambling-firm-stake-hacked.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-05T16:50:50+00:00
+
+<p>Crypto gambling site Stake suffered a security breach, and threat actors withdrew $41M of funds stolen including Tether and Ether. Researchers reported abnormally large withdrawals made from the crypto gambling site Stake to an account with no previous activity, a circumstance that suggests that threat actors have hacked the platform and stolen crypto assets, including [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/150401/hacking/crypto-gambling-firm-stake-hacked.html" rel="nofollow">Hackers stole $41M worth of crypto assets from crypto gambling firm Stake</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## Freecycle data breach impacted 7 Million users
+ - [https://securityaffairs.com/150392/security/the-freecycle-network-data-breach.html](https://securityaffairs.com/150392/security/the-freecycle-network-data-breach.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-05T15:09:38+00:00
+
+<p>The nonprofit organization Freecycle Network (Freecycle.org) confirmed that it has suffered a data breach that impacted more than 7 million users. The Freecycle Network (TFN,) is a private, nonprofit organization that coordinates a worldwide network of &#8220;gifting&#8221; groups to divert reusable goods from landfills. The organization confirmed that it has suffered a data breach that [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/150392/security/the-freecycle-network-data-breach.html" rel="nofollow">Freecycle data breach impacted 7 Million users</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## Meta disrupted two influence campaigns from China and Russia
+ - [https://securityaffairs.com/150378/social-networks/meta-disrupted-influence-campaigns.html](https://securityaffairs.com/150378/social-networks/meta-disrupted-influence-campaigns.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-05T10:26:49+00:00
+
+<p>Meta disrupted two influence campaigns orchestrated by China and Russia, the company blocked thousands of accounts and pages. Meta announced it has taken down two of the largest known covert influence operations originating from China and Russia. The social network giant revealed it has blocked thousands of accounts and pages across its platform. The company [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/150378/social-networks/meta-disrupted-influence-campaigns.html" rel="nofollow">Meta disrupted two influence campaigns from China and Russia</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## A massive DDoS attack took down the site of the German financial agency BaFin
+ - [https://securityaffairs.com/150359/hacking/ddos-attack-on-bafin.html](https://securityaffairs.com/150359/hacking/ddos-attack-on-bafin.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-05T06:56:52+00:00
+
+<p>A distributed denial-of-service (DDoS) attack took the site of the German Federal Financial Supervisory Authority (BaFin) down. A distributed denial-of-service (DDoS) attack took the site of the German Federal Financial Supervisory Authority (BaFin) down for some days. It is not clear who is behind the DDoS attack, but the media speculate that it was launched [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/150359/hacking/ddos-attack-on-bafin.html" rel="nofollow">A massive DDoS attack took down the site of the German financial agency BaFin</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
