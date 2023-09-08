@@ -1,0 +1,490 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## The Lotus Emeya is the latest electric hypercar to join the ‘under 3 second’ club
+ - [https://www.theverge.com/2023/9/7/23863522/lotus-emeya-ev-hypercar-specs-price-photos](https://www.theverge.com/2023/9/7/23863522/lotus-emeya-ev-hypercar-specs-price-photos)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T22:00:00+00:00
+
+<figure>
+      <img alt="Lotus Emeya" src="https://cdn.vox-cdn.com/thumbor/LJbo82BAqcGjcPceu5eeaaYF70Y=/625x0:7375x4500/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72623186/sh02004_013_Lotus_Alpha_34Front_Comp05_RBN_FinalArt_Lotus__2_.0.jpg" />
+        <figcaption>Image: Lotus</figcaption>
+    </figure>
+
+  <p id="zJNbLV">Lotus revealed the <a href="https://www.theverge.com/2023/8/30/23852023/lotus-emeya-electric-hypercar-reveal-date">2024 Emeya electric hypercar</a>, a four-door sedan with nearly 1,000 horsepower and a burning desire to reach 60mph in under three seconds. </p>
+<p id="FtVDWs">Lotus claims that the Grand Tourer “is one of the fastest GTs in the world” — but we’ll need to see some unbiased testing first before we agree to that hyperbole. Still, the Emeya seems fast, with a top speed of 155mph and a zero to 60mph time in 2.8 seconds. When it goes into production in early 2024, the Emeya is expected to compete with other luxury sports cars, like the Audi E-tron GT
+
+## New Castlevania: Nocturne trailer is all about Bloodlines
+ - [https://www.theverge.com/23863001/netflix-castlevania-nocturne-trailer-early-digital-release-twitch](https://www.theverge.com/23863001/netflix-castlevania-nocturne-trailer-early-digital-release-twitch)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T21:12:50+00:00
+
+<figure>
+      <img alt="Screenshot from Castelvania: Nocturne featuring Richter Belmont" src="https://cdn.vox-cdn.com/thumbor/TZk1HRVPhFqB1LriOanQR5a68Zs=/120x0:1620x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622967/Screen_Shot_2023_09_07_at_3.50.31_PM.0.png" />
+        <figcaption>Netflix</figcaption>
+    </figure>
+
+  <p id="M5Gvql">Netflix has just released a <a href="https://youtu.be/_afpwpbKPs0?si=GBQuMKXxStjzoJag">new trailer for <em>Castlevania: Nocturne</em></a>, and it’s all about the Bloodlines. </p>
+<p id="uHPtYu">The new trailer features more of Richter Belmont (Edward Bluemel), the new scion of the Belmont house, as he does what his family does best: kill vampires. <a href="https://www.theverge.com/23809274/castlevania-nocturne-trailer-neflix-konami-richter-belmont"><em>Nocturne</em> is set during the French Revolution</a> as a new vampire cult rises around a so-called vampire Messiah, Erzsebet Báthory (Franka Potente), who has pledged to do her bloody, b
+
+## Microsoft is the first customer for the Biden administration’s carbon removal hubs
+ - [https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub](https://www.theverge.com/2023/9/7/23863386/microsoft-heirloom-biden-administrations-carbon-removal-hub)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T21:03:39+00:00
+
+<figure>
+      <img alt="Two people wearing hard hats stand in front of two towering columns that filter CO2 out of the ambient air." src="https://cdn.vox-cdn.com/thumbor/99Ye7UFkaAEmX3jRxsvTB7w30WI=/0x558:6129x4644/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622917/Heirloom_contactors.0.jpg" />
+        <figcaption><em>Heirloom’s technology filters CO2 out of the air.</em> | Image: Heirloom</figcaption>
+    </figure>
+
+  <p id="b92adO">Microsoft is helping to fund one of the US’s first hubs for pulling planet-heating carbon dioxide out of the air. It struck a deal with <a href="https://www.theverge.com/2023/2/6/23584501/climate-tech-air-carbon-capture-concrete">California-based startup Heirloom</a>, which says it will capture up to <a href="https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal">315,000 metric tons</a> of CO2 for Microsoft over the next decade or so. </p>
+<p id="Zoul6Q">The partnership fits into Microsoft’s <a href="https:
+
+## FTX exec Ryan Salame pleads guilty to criminal charges
+ - [https://www.theverge.com/2023/9/7/23862959/ftx-trial-ryan-salame-pleads-guilty-criminal-charges](https://www.theverge.com/2023/9/7/23862959/ftx-trial-ryan-salame-pleads-guilty-criminal-charges)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T20:43:58+00:00
+
+<figure>
+      <img alt="FTX logo" src="https://cdn.vox-cdn.com/thumbor/AjZAnL4DVX9wDW5CcSSdODnVmBk=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622834/STK136_K_Radtke_FTX_01.0.jpg" />
+        <figcaption><em>One more exec has pleaded guilty.</em> | Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="h2Bzi2">Ryan Salame, who ran FTX’s Bahamas subsidiary, <a href="https://www.justice.gov/d9/2023-09/u.s._v._salame_information_0.pdf">pleaded guilty to two criminal charge</a>s on Thursday. They are conspiracy to make unlawful political contributions and defraud the Federal Election Commission and conspiracy to operate an unlicensed money transferring business.</p>
+<p id="Qy66Pf">“I made political contributions in my name that were funded by transfers from an Alameda subsidiary,” Salame said in court, <a href="https://www.coindesk.com/policy/2023/09/07/ex-ftx-executive-ryan-salame-pleads-guilty-to-us-criminal-charges/">according to <em>CoinDesk</em></a><em
+
+## Tesla will install up to 20,000 versatile EV chargers at Hilton locations
+ - [https://www.theverge.com/2023/9/7/23862765/tesla-hilton-universal-wall-connector-ev-charger-deal](https://www.theverge.com/2023/9/7/23862765/tesla-hilton-universal-wall-connector-ev-charger-deal)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T20:13:47+00:00
+
+<figure>
+      <img alt="person plugging in a red Mustang in front of a hotel" src="https://cdn.vox-cdn.com/thumbor/HmgQQujHRiKwVFlPxMkobDr7toE=/0x0:3350x2233/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622705/Hilton_Tesla_Universal_Wall_Connectors_6.0.jpg" />
+        <figcaption><em>Tesla’s Universal Wall Connector can charge this Mustang Mach-E and the Tesla to the left.</em> | Image: Hilton</figcaption>
+    </figure>
+
+  <p id="GjtB0Z">Tesla and Hilton are teaming up to <a href="https://stories.hilton.com/releases/hilton-to-install-up-to-20000-tesla-universal-wall-connectors-at-2000-hotels">install up to 20,000 electric vehicle charging stations</a> at Hilton hotels and properties. The project will kick off in early 2024, and the chargers are slated for installation at 2,000 locations in the US, Canada, and Mexico.</p>
+<p id="fKmr1F">Hilton states this is the largest planned EV network by any hospitality company. On paper, there are enough chargers to have 10 installed pe
+
+## Microsoft says it will take the heat if Copilot AI commercial users get sued
+ - [https://www.theverge.com/2023/9/7/23863349/microsoft-ai-assume-responsibility-copyright-lawsuit](https://www.theverge.com/2023/9/7/23863349/microsoft-ai-assume-responsibility-copyright-lawsuit)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T19:40:03+00:00
+
+<figure>
+      <img alt="Microsoft logo " src="https://cdn.vox-cdn.com/thumbor/R51xumxl-n3kCROaZxL7gQWJaNc=/0x0:5000x3333/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622498/1640738878.0.jpg" />
+        <figcaption>Photo Illustration by Sheldon Cooper / SOPA Images / LightRocket via Getty Images</figcaption>
+    </figure>
+
+  <p id="ijJgOi">Microsoft is telling customers it will assume legal responsibility if they get sued for copyright infringement while using the company’s AI Copilot services. </p>
+<p id="XSSV0O"><a href="https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/">In a blog post about an initiative</a> called the Copilot Copyright Commitment, Microsoft chief legal officer Brad Smith said the company will take the heat for any potential legal risks as more copyright holders question how AI companies handle protected works. Microsoft said the policy is an extension of its <a href="https://blogs.microsoft.com/blog/2023
+
+## eBay shoppers are about to see more AI-generated product listings
+ - [https://www.theverge.com/2023/9/7/23863313/ebay-generative-ai-tool-product-listings-photo](https://www.theverge.com/2023/9/7/23863313/ebay-generative-ai-tool-product-listings-photo)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T19:31:37+00:00
+
+<figure>
+      <img alt="eBay’s AI-powered product listing tool uses uploaded images to fill in key information" src="https://cdn.vox-cdn.com/thumbor/chYvGp_SS2jMk9-qcc28jPoEZLY=/48x0:1464x944/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622463/Screen_Shot_2023_09_07_at_2.13.56_PM.0.png" />
+        <figcaption>Image: eBay</figcaption>
+    </figure>
+
+  <p id="orWRxC">eBay will give sellers the option to create entire product listings from just a photo using a generative AI tool, the company <a href="https://tech.ebayinc.com/features/magical-listing-tool-harnesses-the-power-of-ai-to-make-selling-on-ebay-faster-easier-and-more-accurate/">announced</a> on Thursday. eBay believes the AI-driven product listings will accelerate the selling process, especially for new merchants who might feel overwhelmed by all the details they need to provide. </p>
+<p id="ieJzaz">The new tool uses pictures uploaded by sellers to fill in details like a product title, description, item category, and 
+
+## Microsoft is testing a background removal tool in Paint
+ - [https://www.theverge.com/2023/9/7/23863377/microsoft-paint-background-removal-tool](https://www.theverge.com/2023/9/7/23863377/microsoft-paint-background-removal-tool)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T19:24:58+00:00
+
+<figure>
+      <img alt="An image showing background removal in Paint" src="https://cdn.vox-cdn.com/thumbor/qVdgUZM0x4EjDcY4pwwjp0gF1Ac=/0x9:1510x1016/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622444/ms_paint_bkground_removal.0.png" />
+        <figcaption>Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="7GMR9a">Microsoft is testing a new background removal tool in Paint. The <a href="https://blogs.windows.com/windows-insider/2023/09/07/background-removal-in-paint-begins-rolling-out-to-windows-insiders/">feature is rolling out now to Windows Insiders</a> in the Canary and Dev Channels (version 11.2306.30.0) and lets you remove an image’s background with a single click.</p>
+<p id="eFLLU9">To use the tool, testers can open an image with Paint and then hit the background removal button on the left side of Paint’s toolbar. From there, Paint will automatically detect the subject of an image and cut away the background. Microsoft notes that you can also manually select the 
+
+## Japanese YouTuber convicted of copyright violation after uploading Let’s Play videos
+ - [https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate](https://www.theverge.com/2023/9/7/23863271/japanese-youtuber-lets-play-copyright-infringement-steins-gate)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T19:22:29+00:00
+
+<figure>
+      <img alt="Screenshot from the visual novel Steins;Gate: My Darling’s Embrace featuring a young woman with long brown hair wincing as a man in a white shirt yells at a pink object wrapped around his wrist" src="https://cdn.vox-cdn.com/thumbor/A-zsJVAVxizO9hWl7ITJvSFbSu4=/207x0:2352x1430/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622420/Screen_Shot_2023_09_07_at_3.09.53_PM.0.png" />
+        <figcaption>Image: Spike Chunsoft</figcaption>
+    </figure>
+
+  <p id="kM753I">A Japanese court has convicted a man of violating copyright law after he uploaded gameplay and anime videos without publisher permission. <a href="https://www.asahi.com/articles/ASR9735PTR96OXIE00G.html">Reported by Japanese paper <em>Asahi Shimbun</em></a>, the 53-year-old man, Shinobu Yoshida, was sentenced to two years in prison and assessed a 1 million yen fine (or about $6,700 USD.) </p>
+<p id="qfzTMd">Yoshida was arrested in May of this year after uploading gameplay videos of the visual nov
+
+## Senate confirms Anna Gomez to break Joe Biden’s FCC deadlock
+ - [https://www.theverge.com/2023/9/7/23863365/anna-gomez-fcc-commissioner-senate-confirmation-net-neutrality](https://www.theverge.com/2023/9/7/23863365/anna-gomez-fcc-commissioner-senate-confirmation-net-neutrality)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T19:13:51+00:00
+
+<figure>
+      <img alt="Illustration of several Wi-Fi symbols, one filled in with white, the others just outlines." src="https://cdn.vox-cdn.com/thumbor/WcioLFlX5caMnfmwCIKOJ6XGXf4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622385/acastro_180608_1777_net_neutrality_0002.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="1c3K1r">The Senate has voted to confirm Anna Gomez as the fifth commissioner of the Federal Communications Commission, breaking a deadlock that has lasted for most of President Joe Biden’s first term in office. Gomez was confirmed by a vote of 55 to 43, filling out the FCC’s Democratic majority. Her confirmation comes roughly two months after she was <a href="https://www.theverge.com/2023/7/12/23792470/anna-gomez-gigi-sohn-fcc-net-neutrality-senate">advanced out of a Senate committee</a> following her nomination in May.</p>
+<p id="HUCayl">Gomez has <a href="https://www.theverge.com/2023
+
+## Cruise ‘just days away’ from approval to mass-produce Origin robotaxis without steering wheels
+ - [https://www.theverge.com/2023/9/7/23863390/cruise-origin-robotaxi-regulatory-approval-nhtsa](https://www.theverge.com/2023/9/7/23863390/cruise-origin-robotaxi-regulatory-approval-nhtsa)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T19:12:32+00:00
+
+<figure>
+      <img alt="Cruise Origin" src="https://cdn.vox-cdn.com/thumbor/A61yM6aLmjhnt0gc_IiELqWsnTE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622381/vpavic_200121_3874_0002.0.jpg" />
+        <figcaption>Image: The Verge</figcaption>
+    </figure>
+
+  <p id="i7SfWr">GM-backed Cruise is “just days away” from regulatory approval to begin mass production of its fully autonomous vehicle without a steering wheel or pedals, the company’s CEO, Kyle Vogt, said at an investor conference Thursday. </p>
+<p id="MrP4TA"><a href="https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look">Cruise first unveiled the Origin robotaxi in early 2020</a> as a bus-like vehicle built for the sole purpose of shuttling people around in a city autonomously. But since then, the company has been mired in a lengthy regulatory process before it can begin mass production. </p>
+<p id="GoQf6Y">The vehicle’s lack of traditional h
+
+## BMW drops plan to charge a monthly fee for heated seats
+ - [https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T18:38:54+00:00
+
+<figure>
+      <img alt="BMW i4 interior" src="https://cdn.vox-cdn.com/thumbor/NsBlZ1_kTKmohf3GDl8SQ7Gzn1w=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622187/236573_BMW_i7_xDrive60_ABassett_0011.0.jpg" />
+        <figcaption>Photo by Abigail Bassett for The Verge</figcaption>
+    </figure>
+
+  <p id="QMstFQ">BMW owners can now warm their buns with peace of mind, knowing they won’t have to pay a ridiculous monthly fee for the pleasure of a toasty backside during those cold winter months. BMW has dropped its <a href="https://www.theverge.com/2022/7/12/23204950/bmw-subscriptions-microtransactions-heated-seats-feature">plans for an $18 a month heated seats subscription</a> after customers balked at the idea of paying extra to unlock existing functions in their cars<em>. </em></p>
+<p id="yxW8fP">This comes courtesy of <a href="https://www.autocar.co.uk/car-news/new-cars/bmw-will-not-charge-extra-activate-existing-functions-cars"><em>Autocar</em>’s interview with Pi
+
+## Companies aren’t showing whether their environmental promises have any impact
+ - [https://www.theverge.com/2023/9/7/23862032/big-tech-environmental-pledges-transparency-reporting-ecosystem-restoration-analysis](https://www.theverge.com/2023/9/7/23862032/big-tech-environmental-pledges-transparency-reporting-ecosystem-restoration-analysis)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T18:12:53+00:00
+
+<figure>
+      <img alt="A tree sapling surrounded by wire fencing" src="https://cdn.vox-cdn.com/thumbor/tSUAqRXlNMFBWMIqjP0FBO1s48k=/0x0:4000x2667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72622085/1228821239.0.jpg" />
+        <figcaption><em>Oak saplings grow in tree guards in Montmorency Forest in France on Thursday, September 17th, 2020.&nbsp;</em> | Image: Cyril Marcilhacy / Bloomberg via Getty Images</figcaption>
+    </figure>
+
+  <p id="2yzwGs">A lot of companies that have pledged to restore ecosystems aren’t showing results, according to a new analysis of 100 of the world’s biggest businesses. They might have promised to plant trees and help dwindling forests gain more ground, but many of those companies have made vague commitments and aren’t sharing enough information to track their progress.</p>
+<p id="itfFek">There’s so little transparency that it’s virtually impossible to know whether companies’ environmental commitments are having any positive impact. “Put simpl
+
+## Elon Musk’s involvement in the war in Ukraine is confounding, even to him
+ - [https://www.theverge.com/2023/9/7/23863157/elon-musk-ukraine-twitter-starlink-isaacson](https://www.theverge.com/2023/9/7/23863157/elon-musk-ukraine-twitter-starlink-isaacson)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T17:58:35+00:00
+
+<figure>
+      <img alt="An image showing Elon Musk on a background with hammers" src="https://cdn.vox-cdn.com/thumbor/fpVBxcHDbt-kBTqJf6y_Np4EW18=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621992/STK171_VRG_Illo_5_Normand_ElonMusk_05.0.jpg" />
+        <figcaption><em>The man who’s ruled by Twitter.</em> | Illustration by Laura Normand / The Verge</figcaption>
+    </figure>
+
+  <p id="jlPtVQ">Apparently, the US Department of Defense had a $145 million check “ready to hand to me, literally,” SpaceX president Gwynne Shotwell told Walter Isaacson, <a href="https://www.cnn.com/2023/09/07/politics/elon-musk-biography-walter-isaacson-ukraine-starlink/index.html">according to CNN</a>. “Then Elon succumbed to the bullshit on Twitter.”</p>
+<p id="eA7Djy">Elon Musk had been supplying internet connectivity in Ukraine through SpaceX’s Starlink for free. In October, the company told the US government that <a href="https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-s
+
+## This 1977 horror novel is about social media
+ - [https://www.theverge.com/23863059/social-media-20-days-of-turin-giorgio-de-maria](https://www.theverge.com/23863059/social-media-20-days-of-turin-giorgio-de-maria)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T17:23:13+00:00
+
+<figure>
+      <img alt="A photograph of the cover of The Twenty Days of Turin" src="https://cdn.vox-cdn.com/thumbor/qqwTjw94s0ZJyNwGFCe6VphcyXs=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621836/DSC_0038.0.jpeg" />
+        <figcaption><em>Want a scary story?</em> | Image: Elizabeth Lopatto</figcaption>
+    </figure>
+
+  <p id="xkYHiO">The creators are “little more than boys” and clean and neat, like salespeople or bankers. They are looking for manuscripts for their Library. No fiction — none of that <em>inauthentic literature</em>. They want diaries, people’s deepest, innermost thoughts: “true, authentic documents reflecting the real spirit of the people.” The promise is that the Library will connect lonely souls, bringing them together, letting them make friends. For a fee, a reader can be put in touch with the writer of the documents. “How fast, almost explosive, its growth was!” </p>
+<p id="IvQv8b">It is after the Library opens that the grisly murders begi
+
+## Google teaser previews Pixel Watch 2 and both Pixel 8 phones
+ - [https://www.theverge.com/2023/9/7/23863192/google-pixel-8-pro-watch-2](https://www.theverge.com/2023/9/7/23863192/google-pixel-8-pro-watch-2)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T17:21:48+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/G6YFE4FZpARQeoNzj9tPpDCa_tI=/416x192:2503x1583/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621832/google_pixel_8.0.png" />
+        <figcaption>Image: Google</figcaption>
+    </figure>
+
+  <p id="STaBQ7">After <a href="https://www.theverge.com/2023/8/30/23851805/google-store-pixel-8-pro-leak-porcelain">leaking the Pixel 8 Pro</a>, Google has finally revealed an official look at the flagship device, along with the standard Pixel 8, ahead of its hardware launch event <a href="https://www.theverge.com/2023/8/30/23852400/pixel-8-google-event-announced-date">scheduled to take place on October 4th in New York City</a>. A pair of video teasers and <a href="https://store.google.com/magazine/google_pixel_8">a new Google Store landing page</a> give a glimpse at what the Pixel 8 lineup will look like, which includes the “porcelain” 8 Pro <a href="https://www.theverge.com/2023/8/30/23851805/google-store-pixel-8-pro-leak-porc
+
+## Threads will now let you search for posts
+ - [https://www.theverge.com/2023/9/7/23863088/threads-rolling-out-support-search-posts](https://www.theverge.com/2023/9/7/23863088/threads-rolling-out-support-search-posts)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T16:50:58+00:00
+
+<figure>
+      <img alt="An image showing the Threads logo" src="https://cdn.vox-cdn.com/thumbor/_BhDvn5IPJ6I4GSfWjgLbE8dDq8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621728/STK156_Instagram_threads_1.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="vLS9ox">Instagram’s Threads is rolling out the ability to search through posts more widely. In <a href="https://www.threads.net/@zuck/post/Cw5YM82BzBF?hl=en">a post on the platform</a>, Meta CEO Mark Zuckerberg says the feature is rolling out in “most” English- and Spanish-speaking countries with more to come soon.</p>
+<p id="sftc6l">In a statement to <em>The Verge</em>, Meta spokesperson Seine Kim confirmed that the feature is coming to both the US and the UK, and is also rolling out on the <a href="https://www.theverge.com/2023/8/22/23840441/meta-threads-web-app">platform’s web app</a>. <a href="https://www.theverge.com/2023/8/31/23853782/threads-search-posts-feature-t
+
+## This Cybertruck-inspired McFlurry spoon is real, but it’s only available in China
+ - [https://www.theverge.com/2023/9/7/23863016/tesla-cyberspoon-cybertruck-inspired-mcflurry-spoon](https://www.theverge.com/2023/9/7/23863016/tesla-cyberspoon-cybertruck-inspired-mcflurry-spoon)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T16:33:31+00:00
+
+<figure>
+      <img alt="The Tesla-inspired McFlurry packaging and “Cyber Spoon” on a black background." src="https://cdn.vox-cdn.com/thumbor/Q85-TKiU5cudLQBJfJP8iUcHiGA=/0x10:1920x1290/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621668/Cyber_Spoon.0.jpg" />
+        <figcaption><em>You just know that thing is going to hurt your teeth.</em> | Image: Tesla / McDonald’s</figcaption>
+    </figure>
+
+  <p id="CvjCIt">You can now add cutlery to the list of official Cybertruck-inspired products that have hit the market before Tesla has managed to launch the actual vehicle. On Wednesday, Tesla investor <a href="https://twitter.com/SawyerMerritt/status/1699257380054179856">Sawyer Merritt</a> spotted that the automaker’s Chinese business arm has teamed up with McDonald’s to produce 50,000 limited-edition “Cyber Spoons.” </p>
+<p id="nnEue9">The spoons sport the EV’s angular design and brushed silver finish and reportedly cost 30 yuan (around $4). It comes with its own storage tube that
+
+## Google’s cookie-replacing Privacy Sandbox reaches major milestone
+ - [https://www.theverge.com/2023/9/7/23862743/google-chrome-privacy-sandbox-milestone-availability](https://www.theverge.com/2023/9/7/23862743/google-chrome-privacy-sandbox-milestone-availability)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T16:00:00+00:00
+
+<figure>
+      <img alt="The Google Chrome logo surrounded by blue rings" src="https://cdn.vox-cdn.com/thumbor/Wjf6dBCUroPZrubVvq_4JA44aq0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621471/STK114_Google_Chrome_02.0.jpg" />
+        <figcaption><em>One more nail in the tracking cookie coffin</em>. | Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="W2a70W">Google’s Chrome browser is now one important step closer to its goal of phasing out third-party cookies by the end of 2024. In a press release today, the search giant announced that its relevance and measurement APIs for <a href="https://www.theverge.com/2023/7/20/23801435/google-chrome-privacy-sandbox-cookies-api-release-enabled">Privacy Sandbox</a> — its privacy-preserving alternative to cross-site tracking cookies — are now generally available. That means that the APIs are available by default in Chrome, without setting any browser flags and without participating in a trial.</p>
+<p id="zh4U9u">
+
+## A tale of two rowers — or why connected fitness feels adrift
+ - [https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness](https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T15:45:00+00:00
+
+<figure>
+      <img alt="Top-down view of the Ergatta rower’s water globe" src="https://cdn.vox-cdn.com/thumbor/WVy8l5JiQUMy7rTXZGTcdq4u8xw=/0x0:2550x1700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621443/236711_Ergatta_rower_AKrales_0143.0.jpg" />
+        <figcaption><em>My cats love this Ergatta. </em></figcaption>
+    </figure>
+
+
+  		 <p>I’ve been testing the Ergatta and Aviron Strong for months. Both are great rowers, but I’m struggling to see a future for pricey connected fitness hardware.</p>
+  <p>
+    <a href="https://www.theverge.com/23854387/ergatta-aviron-rowers-review-connected-fitness">Continue reading&hellip;</a>
+  </p>
+
+## E3 continues to fall apart
+ - [https://www.theverge.com/2023/9/7/23862908/e3-2024-organizer-esa-reedpop-la-convention-center](https://www.theverge.com/2023/9/7/23862908/e3-2024-organizer-esa-reedpop-la-convention-center)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T15:39:34+00:00
+
+<figure>
+      <img alt="Illustration of the E3 logo" src="https://cdn.vox-cdn.com/thumbor/yvEmCop8PwuhhkIL8DjThZOC9OU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621433/acastro_180604_1777_E3_0001.0.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="P2xBYd">Plans for E3 2024 have already been in doubt, but now a report from <a href="https://www.gamesindustry.biz/reedpop-and-esa-part-ways-over-e3"><em>GamesIndustry.biz</em> reveals</a> that the ESA — the trade association behind the event — has dumped its organizer. The ESA tells the outlet that it no longer plans to partner with PAX organizer ReedPop for future E3 events.</p>
+<p id="jFDJ5h">While the ESA was supposed to <a href="https://www.theesa.com/news/e3-returns-in-june-2023-now-produced-by-reedpop/">work with ReedPop</a> for E3 this year, <a href="https://www.theverge.com/2023/3/30/23660456/e3-2023-canceled">things started to fall apart</a> when c
+
+## Apple’s latest 14-inch MacBook Pro falls to a new low of $1,699 for today only
+ - [https://www.theverge.com/2023/9/7/23862740/apple-macbook-pro-m2-lg-c3-oled-lego-delorean-deal-sale](https://www.theverge.com/2023/9/7/23862740/apple-macbook-pro-m2-lg-c3-oled-lego-delorean-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T15:33:20+00:00
+
+<figure>
+      <img alt="The MacBook Pro 14 closed seen from above on a wooden table." src="https://cdn.vox-cdn.com/thumbor/gO_KL3TjdLZbsY-pGfS3Q2M2Nw4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621420/akrales_211028_4820_0680.0.jpg" />
+        <figcaption><em>If you can stretch your budget from a MacBook Air, the 14-inch MacBook Pro will more than reward you.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="JnNNEB">Apple’s <a href="https://www.theverge.com/23837051/apple-event-september-iphone-15-date-time-live-stream-watch-how-to-rumors">big iPhone event</a> announcing a new iPhone may be just five days from now, but the best Apple thing you can buy today is its M2 Pro-powered MacBook Pro for a new all-time low. The base configuration of the latest <strong>14-inch MacBook Pro</strong> is on <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F174635
+
+## Charles Martinet finally explains what the hell a Mario ambassador is
+ - [https://www.theverge.com/2023/9/7/23862869/nintendo-mario-voice-actor-charles-martinet-ambassador](https://www.theverge.com/2023/9/7/23862869/nintendo-mario-voice-actor-charles-martinet-ambassador)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T15:19:12+00:00
+
+<figure>
+      <img alt="Screenshot from a Nintendo video featuring Charles Martinet, an older Caucasian man wearing a red Mario shirt, holding up his arms in a running motion saying, “Super Mario.”" src="https://cdn.vox-cdn.com/thumbor/WhtfomF6NZ0KHqz9nZWhFKdPyaQ=/284x99:2686x1700/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621351/Screen_Shot_2023_09_07_at_10.59.03_AM.0.png" />
+        <figcaption>Image: Nintendo</figcaption>
+    </figure>
+
+  <p id="S8E9dl">After weeks of wonder (heh) and speculation, Nintendo is finally giving longtime Mario voice actor Charles Martinet a proper send-off. Nintendo released a short video featuring Martinet and Nintendo executive Shigeru Miyamoto in which the pair take a fond look back at Martinet’s time in the role. </p>
+<div id="3K3Hax">
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Here’s a special video message from Shigeru Miyamoto and Charles Martinet regarding the change of Mario’s voice actor, announced on 8/21. <a href=
+
+## Patreon is adding a Discord-like chat feature for creators and fans
+ - [https://www.theverge.com/2023/9/7/23861171/patreon-community-chats-discord-chatroom-member-profile](https://www.theverge.com/2023/9/7/23861171/patreon-community-chats-discord-chatroom-member-profile)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T15:00:00+00:00
+
+<figure>
+      <img alt="Patreon chat room feature with text and image messages, plus emoji reactions." src="https://cdn.vox-cdn.com/thumbor/oO1UzfLHJUu3q0tnz0mfEgV0g9Q=/306x0:3546x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621265/_2_imageSend.0.png" />
+        <figcaption>Image: Patreon</figcaption>
+    </figure>
+
+  <p id="lsa3cs">Beginning today, Patreon creators who want a dedicated space to interact with fans will have a built-in option: group chats.</p>
+<p id="ZWlGMv">Content creators who share their work via Patreon will be able to set up and host chat rooms for their fans to interact with each other, the company announced today. Creators can have up to four chats going at once and can restrict access to chats based on subscriber tiers — for example, having a thread open only to paying members. Chats will be available on mobile to start, with a desktop version in the works.</p>
+<p id="XNeO8O">Community chats will be familiar to many Patreon creators and subscrib
+
+## Anthropic’s Claude AI chatbot gets a paid plan for heavy users
+ - [https://www.theverge.com/2023/9/7/23862848/anthropic-claude-pro-ai-chatbot-paid-plan-google](https://www.theverge.com/2023/9/7/23862848/anthropic-claude-pro-ai-chatbot-paid-plan-google)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T14:55:28+00:00
+
+<figure>
+      <img alt="A graphic showing a robot performing multiple functions" src="https://cdn.vox-cdn.com/thumbor/D93zScxj7IPLxtVQi3OvkOs8RTI=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621220/acastro_200730_1777_ai_0001.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="nKj3Ba">Anthropic, the AI <a href="https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude">company backed by Google</a>, has launched a <a href="https://www.anthropic.com/index/claude-pro">paid version of its Claude chatbot</a> in the US and UK. Priced at $20 (or £18) per month, the new Claude Pro option offers priority access when the bot is busy, early access to new features, and the ability to send more messages. </p>
+<p id="PC4Mut">The main draw is that you’ll get five times more usage with Claude Pro when compared to the free tier, which means you can send more messages in
+
+## Where is Microsoft’s handheld Xbox?
+ - [https://www.theverge.com/2023/9/7/23862655/microsoft-xbox-handheld-editorial-steam-deck](https://www.theverge.com/2023/9/7/23862655/microsoft-xbox-handheld-editorial-steam-deck)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T14:37:20+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/MBnLxBqB2JbJDLqw9ma2BGdg3pI=/9x0:2631x1748/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621170/xboxsurfaceduo_1.0.jpg" />
+        <figcaption><em>The Surface Duo streaming Xbox games.</em> | Photo by Tom Warren / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>With Steam Deck competitors on the rise, Microsoft has been focused on phones for Xbox Cloud Gaming so far.</p>
+  <p>
+    <a href="https://www.theverge.com/2023/9/7/23862655/microsoft-xbox-handheld-editorial-steam-deck">Continue reading&hellip;</a>
+  </p>
+
+## Sunday Ticket is bringing the NFL to YouTube — and YouTube to the NFL
+ - [https://www.theverge.com/2023/9/7/23862828/sunday-ticket-youtube-nfl-season](https://www.theverge.com/2023/9/7/23862828/sunday-ticket-youtube-nfl-season)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T14:23:48+00:00
+
+<figure>
+      <img alt="Kansas City Chiefs versus Arizona Cardinals" src="https://cdn.vox-cdn.com/thumbor/qUXD8PL5fqFfw_9tBkiZnm_Og34=/0x0:5499x3666/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621099/1628103777.0.jpg" />
+        <figcaption><em>Did you ever think you’d watch Patrick Mahomes play by opening the YouTube app?</em> | Photo by Michael Owens / Getty Images</figcaption>
+    </figure>
+
+  <p id="I5Ex1O">For the first time in almost three decades, football fans are about to turn on NFL Sunday Ticket in a new place. Sunday Ticket, which broadcasts out-of-market games to fans willing to pay a couple hundred bucks a season to watch games they wouldn’t otherwise get on TV, was a DirecTV product from its launch in 1994 until this year, when YouTube <a href="https://www.theverge.com/2022/12/22/23520130/youtube-nfl-sunday-ticket-shakeup-sports-streaming">plunked down a reported $2 billion a year</a> to get the rights. Now, you can <a href="https://www.theverge.com/23677643
+
+## Lutron finally made its smart remote look just like a regular light switch
+ - [https://www.theverge.com/2023/9/7/23862694/lutron-caseta-smart-lighting-pico-paddle-remote-price-launch](https://www.theverge.com/2023/9/7/23862694/lutron-caseta-smart-lighting-pico-paddle-remote-price-launch)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T14:00:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/_ajQkpU9CN5VeNQH7njo5I-dOxM=/18x0:8225x5471/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72621002/Pico_paddle_remote_kitchen.0.jpg" />
+        <figcaption><em>With this redesign of its popular Pico wireless remote, Lutron is transitioning its Caséta smart lighting line to a more classic look.</em> | Image: Lutron</figcaption>
+    </figure>
+
+  <p id="QutAIP">Smart lighting manufacturer Lutron is expanding its line of <a href="https://www.theverge.com/2022/9/12/23348659/lutron-caseta-new-diva-smart-dimmer-switch-price-release-date">smart switches that don’t look like smart switches</a>, adding a new <a href="https://www.casetawireless.com/us/en?utm_source=digital_publications&amp;utm_medium=press_release&amp;utm_campaign=caseta_firecrest_september2023">Pico Paddle Remote ($19.99)</a> to its Caséta smart lighting line. The wireless remote looks just like a wired switch but can control all Caséta switches, Lutron Sere
+
+## Honda adopts Tesla’s charging port for future EVs
+ - [https://www.theverge.com/2023/9/7/23862781/honda-ev-nacs-tesla-charging-port](https://www.theverge.com/2023/9/7/23862781/honda-ev-nacs-tesla-charging-port)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T13:23:59+00:00
+
+<figure>
+      <img alt="Tesla Supercharger" src="https://cdn.vox-cdn.com/thumbor/fgscBotyM7hnJG6xYqm0W6fvXrU=/0x0:1500x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620846/akrales_160419_1019_A_0230.0.0.png" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="4BKNTE"><a href="https://hondanews.com/en-US/releases/honda-to-adopt-north-american-charging-standard-nacs-for-its-ev-models-in-north-america">Honda announced today</a> that it’s adopting Tesla’s electric vehicle charging connector for its future vehicles. The Japanese automaker was one of the holdouts to accept the competing (<a href="https://www.theverge.com/2023/6/27/23775208/tesla-nacs-electric-car-charging-standard-sae-chargepoint">and winning</a>) standard, joining the likes of <a href="https://www.theverge.com/2023/5/27/23738771/ford-tesla-electric-car-charging-nacs">Ford</a>, <a href="https://www.theverge.com/2023/6/8/23754470/gm-tesla-ev-supercharger-nacs
+
+## Chrome is about to look a bit different
+ - [https://www.theverge.com/2023/9/7/23862311/google-chrome-redesign-material-you-web-store](https://www.theverge.com/2023/9/7/23862311/google-chrome-redesign-material-you-web-store)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T13:00:00+00:00
+
+<figure>
+      <img alt="An image showing the Chrome logo surrounded by yellow circles" src="https://cdn.vox-cdn.com/thumbor/nwI1YYwLy1yvuLHl7zezS8YpdHY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620696/STK114_Google_Chrome_03.0.jpg" />
+        <figcaption>Image: The Verge</figcaption>
+    </figure>
+
+  <p id="A5hZwJ">Chrome on the desktop is about to get a new look. Google’s widely used browser is getting an update based on its Material You design language in the coming weeks, and in this case, that will include refreshed icons with “a focus on legibility” and new color palettes that “better complement your tabs and toolbar,” according to <a href="https://blog.google/products/chrome/Google-chrome-new-features-redesign-2023/">a blog post from Chrome VP Parisa Tabriz</a>.</p>
+<p id="VkLfNy">You can get an early peek at the new look in the image and GIF below. To me, the most noticeable change is that things look a bit more rounded, like the new corners near th
+
+## The Toronto International Film Festival 2023 is on
+ - [https://www.theverge.com/2023/9/7/23860165/tiff-2023-news-trailers-reviews](https://www.theverge.com/2023/9/7/23860165/tiff-2023-news-trailers-reviews)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T13:00:00+00:00
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/oojZneE0AEyVFk31ounqdbEfOS0=/0x0:900x600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620698/humanistvampireseekingconsentingsuicidalperson_01.0.jpeg" />
+        <figcaption>A scene from Ariane Louis-Seize’s Humanist Vampire Seeking Consenting Suicidal Person. | Courtesy of TIFF</figcaption>
+    </figure>
+
+  <p>Stay up to date with the latest from TIFF.</p>
+  <p>
+    <a href="https://www.theverge.com/2023/9/7/23860165/tiff-2023-news-trailers-reviews">Continue reading&hellip;</a>
+  </p>
+
+## 13 movies we can’t wait to check out at TIFF 2023
+ - [https://www.theverge.com/2023/9/7/23859494/tiff-2023-preview-trailers-boy-and-the-heron-studio-ghibli](https://www.theverge.com/2023/9/7/23859494/tiff-2023-preview-trailers-boy-and-the-heron-studio-ghibli)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T12:30:00+00:00
+
+<figure>
+      <img alt="A still image from the animated film The Boy and the Heron." src="https://cdn.vox-cdn.com/thumbor/x1NOa2dJFBOa61U3iRmYdukD2mI=/150x0:1050x600/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620661/theboyandtheheron_04.0.jpg" />
+        <figcaption>The Boy and the Heron. | Image: Studio Ghibli</figcaption>
+    </figure>
+
+
+  		 <p>The festival is led by Studio Ghibli’s The Boy and the Heron, but there will be plenty more to see when things kick off in Toronto on September 7th.</p>
+  <p>
+    <a href="https://www.theverge.com/2023/9/7/23859494/tiff-2023-preview-trailers-boy-and-the-heron-studio-ghibli">Continue reading&hellip;</a>
+  </p>
+
+## Can a $599 camera bring Polaroid back?
+ - [https://www.theverge.com/23861994/polaroid-i-2-instant-camera-test-hands-on-full-frame-becca-farsace](https://www.theverge.com/23861994/polaroid-i-2-instant-camera-test-hands-on-full-frame-becca-farsace)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T12:30:00+00:00
+
+<figure>
+      <img alt="The black Polaroid I-2 sitting on top of a white counter." src="https://cdn.vox-cdn.com/thumbor/DGohcABemF5jroZYYVVQ60MDN2E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620658/090523_Polaroid_I_2_ADiBenedetto_0005.0.jpg" />
+        <figcaption><em>The $599 I-2 is Polaroid’s newest camera.</em> | Image: Antonio G. Di Benedetto / The Verge</figcaption>
+    </figure>
+
+  <p id="fZFurV">Polaroid cameras are notoriously finicky. If you buy one of the 37,000 vintage Polaroid cameras <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp4432023.m570.l1311%26_nkw%3Dpolaroid%2Bcamera%26_sacat%3D0&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F23861994%2Fpolaroid-i-2-instant-camera-test-hands-on-full-frame-becca-farsace" rel="sponsored nofollow noopener" target="_blank">on eBay</a>, the likelihood of it working properly is slim. And if you 
+
+## Polaroid’s new I-2 is its most capable — and expensive — instant camera
+ - [https://www.theverge.com/2023/9/7/23861477/polaroid-i-2-instant-film-camera-fujifilm-instax-photography](https://www.theverge.com/2023/9/7/23861477/polaroid-i-2-instant-film-camera-fujifilm-instax-photography)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T12:30:00+00:00
+
+<figure>
+      <img alt="A person holding the black Polaroid I-2 with their hands in their lap near a print." src="https://cdn.vox-cdn.com/thumbor/vYUXrj9hVkgfXMPm6-lsmHxZdy4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620654/090523_Polaroid_I_2_ADiBenedetto_0007.0.jpg" />
+        <figcaption>Image: Antonio G. Di Benedetto / The Verge</figcaption>
+    </figure>
+
+  <p id="3cSw8y">Polaroid has announced a new high-end instant camera dubbed the Polaroid I-2 today. According to Polaroid, the $599.99 I-2 is the company’s most capable instant camera yet, with built-in manual controls and the sharpest new lens it’s ever produced.</p>
+<p id="atRA2J">The I-2 boasts a three-element autofocusing lens, which Polaroid claims should produce sharper photos than any of its other instant cameras. Meanwhile, the lidar (light detection and ranging) sensor should be able to automatically adjust the lens based on how far away the subject is, even in low-light settings, allowing f
+
+## Nintendo Switch 2 evidence grows with rumors of developer demos
+ - [https://www.theverge.com/2023/9/7/23862676/nintendo-switch-2-developer-demo-gamescom-rumor](https://www.theverge.com/2023/9/7/23862676/nintendo-switch-2-developer-demo-gamescom-rumor)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T11:36:15+00:00
+
+<figure>
+      <img alt="A Nintendo Switch" src="https://cdn.vox-cdn.com/thumbor/-rR908u0t2g5RlbJn9xuTn2T1aU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620436/jbareham_180301_2346_nintendo_switch_0034_splatoon.0.jpg" />
+        <figcaption>Photo by James Bareham / The Verge</figcaption>
+    </figure>
+
+  <p id="afx23C">Nintendo has reportedly demonstrated the Nintendo Switch 2 behind closed doors at Gamescom last month. <a href="https://www.eurogamer.net/nintendo-demoed-switch-2-to-developers-at-gamescom"><em>Eurogamer </em>reports</a> that some trusted developers got an early look at the Switch 2 and some tech demos of how games run on the unannounced system.</p>
+<p id="E0I3Dx">There was reportedly a demo of an improved version of <em>Zelda: Breath of the Wild</em> that’s designed to run on the more advanced hardware inside the Nintendo Switch 2. <em>Eurogamer</em>’s report follows rumors from <a href="https://twitter.com/JezCorden/status/1696585141299073440
+
+## Experts link LastPass security breach to a string of crypto heists
+ - [https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers](https://www.theverge.com/2023/9/7/23862658/lastpass-security-breach-crypto-heists-hackers)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T10:45:33+00:00
+
+<figure>
+      <img alt="A cartoon illustration shows a shadowy figure carrying off a red directory folder, which has a surprised-looking face on its side." src="https://cdn.vox-cdn.com/thumbor/NE7jcmu_fji06sLJ6TXVy1OdS8E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620326/VRG_Illo_STK001_B_Sala_Hacker.0.jpg" />
+        <figcaption><em>One researcher claims the number of victims who stored their crypto keys on LastPass was “simply too much to ignore.”</em> | Illustration: Beatrice Sala</figcaption>
+    </figure>
+
+  <p id="ynzQL9">Security experts are claiming that some of the LastPass password vaults stolen during a security breach near the end of 2022 have now been cracked open following a string of six-figure cryptocurrency heists. Cybersecurity blogger <a href="https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/">Brian Krebs</a> reports that several researchers have identified a “highly reliable set of clues”
+
+## The new Mustang Mach-E Rally is Ford’s off-roadiest performance EV yet
+ - [https://www.theverge.com/2023/9/7/23861771/mustang-mach-e-rally-off-road-performance-ev-specs](https://www.theverge.com/2023/9/7/23861771/mustang-mach-e-rally-off-road-performance-ev-specs)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-09-07T10:00:00+00:00
+
+<figure>
+      <img alt="yellow mustang suv kicking dry dirt up as it drives" src="https://cdn.vox-cdn.com/thumbor/k_u7Z6i7odKFsAu7HhvCzl0sR-8=/0x0:5853x3902/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72620259/All_Electric_Mustang_Mach_E_Rally_08.0.jpg" />
+        <figcaption><em>2024 Mustang Mach-E Rally in Grabber Yellow.</em> | Image: Ford</figcaption>
+    </figure>
+
+  <p id="PmQeQv">This new Mach-E Rally is what you’d get if you could cross Ford’s most performant Mustang Mach-E electric SUV trim, the GT, with the company’s discontinued <a href="https://www.theverge.com/2015/11/16/9747208/ford-focus-rs-drift-ride-hands-on">Focus RS</a> rally sport monster. Ford <a href="https://www.theverge.com/2023/7/14/23793915/ford-mustang-mach-e-rally-goodwood">initially revealed</a> the Mustang Mach-E Rally at the Goodwood Festival of Speed in July, but is today announcing more details. The vehicle is slated for early 2024 manufacturing (yes, this isn’t some performance <a href="http
+
