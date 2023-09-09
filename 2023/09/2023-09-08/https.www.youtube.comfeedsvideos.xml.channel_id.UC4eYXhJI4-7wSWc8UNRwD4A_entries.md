@@ -1,0 +1,14 @@
+# Source:NPR Music, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A, language:en-US
+
+## Hiromi: Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=pnISpahN2dM](https://www.youtube.com/watch?v=pnISpahN2dM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A
+ - date published: 2023-09-08T09:00:39+00:00
+
+Suraya Mohamed | September 8, 2023
+Hiromi Uehara arrived at NPR wearing comfortable sweats, her chic hair already styled and perfectly coiffed for the performance. A keyboard gig bag was strapped on her back with her Nord Lead A1 analog modeling synthesizer, a versatile instrument loaded with her programmed patches. Its buzzy, modular sound started the show with a funky melodic line that sets up this highly energetic and joyful set.
+
+Just before this performance, she and her band had just finished recording their soon to be released new album, Sonicwonderland. They perform two songs from that project here, and each one is its own auditory adventure, filled with sophisticated arrangements and lush textures. Adam O'Farrill's trumpet playing is exquisite, as he sometimes routes his horn sound through pedals to create an ethereal tone. Hadrien Feraud thumps his bass lines with precision and grit as he locks in really tight with Gene Coye's crisp and momentous drum performance.
+
+You can s
+

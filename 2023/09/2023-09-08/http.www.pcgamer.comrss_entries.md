@@ -1,0 +1,275 @@
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
+
+## Runescape community claims 'supreme victory' as developer apologizes and cuts pay-to-win features from hated battle pass
+ - [https://www.pcgamer.com/runescape-community-claims-supreme-victory-as-developer-apologizes-and-cuts-pay-to-win-features-from-hated-battle-pass](https://www.pcgamer.com/runescape-community-claims-supreme-victory-as-developer-apologizes-and-cuts-pay-to-win-features-from-hated-battle-pass)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T22:39:35+00:00
+
+Jagex says it will patch out all the pay-to-win features of the pass, and is offering full refunds to players who paid for it.
+
+## I'm finally enjoying Starfield's combat after giving guns a giant buff
+ - [https://www.pcgamer.com/im-finally-enjoying-starfields-combat-after-giving-guns-a-giant-buff](https://www.pcgamer.com/im-finally-enjoying-starfields-combat-after-giving-guns-a-giant-buff)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T22:32:31+00:00
+
+Less Borderlands, more Call of Duty please.
+
+## Fortnite creative boss Donald Mustard retires
+ - [https://www.pcgamer.com/fortnite-creative-boss-donald-mustard-retires](https://www.pcgamer.com/fortnite-creative-boss-donald-mustard-retires)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T22:24:51+00:00
+
+Donald Mustard has been the chief creative officer at Epic Games, and Fortnite's 'Loremaster,' since 2016.
+
+## 10,000 milk cartons descend on Starfield's biggest city in newest physics benchmark
+ - [https://www.pcgamer.com/10000-milk-cartons-descend-on-starfields-biggest-city-in-newest-physics-benchmark](https://www.pcgamer.com/10000-milk-cartons-descend-on-starfields-biggest-city-in-newest-physics-benchmark)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T21:56:29+00:00
+
+See that milk carton? You can spawn 10,000 of them.
+
+## How to spawn Starfield items by the thousands
+ - [https://www.pcgamer.com/starfield-spawn-items-physics](https://www.pcgamer.com/starfield-spawn-items-physics)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T21:38:57+00:00
+
+Wanna watch 10,000 watermelons roll down a hill? Here's how to challenge your GPU with unreasonable Starfield physics tests.
+
+## Bethesda commissioned the internet's rotoscope jokester to get goofy with Starfield
+ - [https://www.pcgamer.com/bethesda-commissioned-the-internets-rotoscope-jokester-to-get-goofy-with-starfield](https://www.pcgamer.com/bethesda-commissioned-the-internets-rotoscope-jokester-to-get-goofy-with-starfield)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T20:38:43+00:00
+
+The mind behind all those weird RPG skits has a succulent take on Starfield.
+
+## Assassin's Creed 4: Black Flag was pulled from sale on Steam and everyone got excited because they thought a remake was going to be announced, but Ubisoft says no, something's just broken
+ - [https://www.pcgamer.com/assassins-creed-4-black-flag-was-pulled-from-sale-on-steam-and-everyone-got-excited-because-they-thought-a-remake-was-going-to-be-announced-but-ubisoft-says-no-somethings-just-broken](https://www.pcgamer.com/assassins-creed-4-black-flag-was-pulled-from-sale-on-steam-and-everyone-got-excited-because-they-thought-a-remake-was-going-to-be-announced-but-ubisoft-says-no-somethings-just-broken)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T20:10:41+00:00
+
+Sorry everyone, but I'm afraid your hopes for a Black Flag remake are going to have to wait a little longer.
+
+## The maker of The Witcher 3 and Cyberpunk 2077 HD Reworked mods is now working on one for Starfield
+ - [https://www.pcgamer.com/the-maker-of-the-witcher-3-and-cyberpunk-2077-hd-reworked-mods-is-now-working-on-one-for-starfield](https://www.pcgamer.com/the-maker-of-the-witcher-3-and-cyberpunk-2077-hd-reworked-mods-is-now-working-on-one-for-starfield)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T19:55:05+00:00
+
+The first release of the Starfield HD Reworked mod should be out soon.
+
+## Here's why Venus is the best place to chill out in Starfield
+ - [https://www.pcgamer.com/heres-why-venus-is-the-best-place-to-chill-out-in-starfield](https://www.pcgamer.com/heres-why-venus-is-the-best-place-to-chill-out-in-starfield)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T19:28:37+00:00
+
+A real-life quirk of the planet Venus makes it an extremely useful place to pass the time in Bethesda's space RPG.
+
+## Crypto baron behind $2.5B rug-pull declares 'I am smart enough to lead any institution on Earth' as court sentences him to 11,196 years in jail
+ - [https://www.pcgamer.com/crypto-baron-behind-dollar25b-rug-pull-declares-i-am-smart-enough-to-lead-any-institution-on-earth-as-court-sentences-him-to-11196-years-in-jail](https://www.pcgamer.com/crypto-baron-behind-dollar25b-rug-pull-declares-i-am-smart-enough-to-lead-any-institution-on-earth-as-court-sentences-him-to-11196-years-in-jail)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T17:46:34+00:00
+
+Prosecutors had sought an even longer sentence.
+
+## Men of War 2 will now deliver men and war too in 2024
+ - [https://www.pcgamer.com/men-of-war-2-will-now-deliver-men-and-war-too-in-2024](https://www.pcgamer.com/men-of-war-2-will-now-deliver-men-and-war-too-in-2024)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T17:43:21+00:00
+
+Developer wants to give fans "the bug-free experience they deserve."
+
+## It took more than 30 years but it's finally happening: Jean-Claude Van Damme is coming to Mortal Kombat
+ - [https://www.pcgamer.com/it-took-more-than-30-years-but-its-finally-happening-jean-claude-van-damme-is-coming-to-mortal-kombat](https://www.pcgamer.com/it-took-more-than-30-years-but-its-finally-happening-jean-claude-van-damme-is-coming-to-mortal-kombat)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T17:23:26+00:00
+
+The legendary action star who inspired the Mortal Kombat character Johnny Cage will be available as an optional skin in Mortal Kombat 1.
+
+## How to add DLSS and Frame Generation to Starfield
+ - [https://www.pcgamer.com/starfield-nvidia-dlss-guide](https://www.pcgamer.com/starfield-nvidia-dlss-guide)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T16:18:22+00:00
+
+As well as whether you should...
+
+## Starfield ending: Should you side with the Hunter or Emissary?
+ - [https://www.pcgamer.com/starfield-hunter-emissary](https://www.pcgamer.com/starfield-hunter-emissary)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T16:02:55+00:00
+
+It can't be both, but it can be neither.
+
+## AMD rumoured to favour future AI chip production over GPUs but it's probably no reason to panic
+ - [https://www.pcgamer.com/amd-rumoured-to-favour-future-ai-chip-production-over-gpus-but-its-probably-no-reason-to-panic](https://www.pcgamer.com/amd-rumoured-to-favour-future-ai-chip-production-over-gpus-but-its-probably-no-reason-to-panic)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T15:52:06+00:00
+
+A familiar scare story, but we're not terribly worried.
+
+## Caffeinated RGB gamer noodles now exist, and I'm getting indigestion just thinking about them
+ - [https://www.pcgamer.com/caffeinated-rgb-gamer-noodles-now-exist-and-im-getting-indigestion-just-thinking-about-them](https://www.pcgamer.com/caffeinated-rgb-gamer-noodles-now-exist-and-im-getting-indigestion-just-thinking-about-them)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T15:39:46+00:00
+
+What hath gaming kind wrought.
+
+## Player acquires a massive faction stronghold in Starfield and lands it on a planet, 'still not really sure' how it happened
+ - [https://www.pcgamer.com/player-acquires-a-massive-faction-stronghold-in-starfield-and-lands-it-on-a-planet-still-not-really-sure-how-it-happened](https://www.pcgamer.com/player-acquires-a-massive-faction-stronghold-in-starfield-and-lands-it-on-a-planet-still-not-really-sure-how-it-happened)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T15:02:20+00:00
+
+All your base are belong to us.
+
+## The Talos Principle didn't need a sequel, but now that I've seen it in action I'm glad that it's getting one
+ - [https://www.pcgamer.com/the-talos-principle-didnt-need-a-sequel-but-now-that-ive-seen-it-in-action-im-glad-that-its-getting-one](https://www.pcgamer.com/the-talos-principle-didnt-need-a-sequel-but-now-that-ive-seen-it-in-action-im-glad-that-its-getting-one)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T14:57:07+00:00
+
+A puzzling return.
+
+## D&D's latest beta rules tinker with its classes and give Fighters the power to clobber fools real good with a chair
+ - [https://www.pcgamer.com/dandds-latest-beta-rules-tinker-with-its-classes-and-give-fighters-the-power-to-clobber-fools-real-good-with-a-chair](https://www.pcgamer.com/dandds-latest-beta-rules-tinker-with-its-classes-and-give-fighters-the-power-to-clobber-fools-real-good-with-a-chair)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T14:12:14+00:00
+
+Five whole classes have new toys to test.
+
+## 12 cool games that risk getting lost in Starfield's black hole—including one that I can only describe as pure, irresistible evil
+ - [https://www.pcgamer.com/12-cool-games-that-risk-getting-lost-in-starfields-black-holeincluding-one-that-i-can-only-describe-as-pure-irresistible-evil](https://www.pcgamer.com/12-cool-games-that-risk-getting-lost-in-starfields-black-holeincluding-one-that-i-can-only-describe-as-pure-irresistible-evil)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T14:00:54+00:00
+
+It's a killer month for games even outside the heavy hitters. Don't let these hidden gems pass you by.
+
+## 2008's Prince of Persia was one of Ubisoft's strangest experiments—but it's hardly aged a day in 15 years
+ - [https://www.pcgamer.com/2008s-prince-of-persia-was-one-of-ubisofts-strangest-experimentsbut-its-hardly-aged-a-day-in-15-years](https://www.pcgamer.com/2008s-prince-of-persia-was-one-of-ubisofts-strangest-experimentsbut-its-hardly-aged-a-day-in-15-years)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T13:40:43+00:00
+
+From its unique combat system to its shocking twist ending, Ubisoft's failed reboot is full of character.
+
+## E3 somehow gets even deader as event organiser departs by 'mutual consent', ESA says no no it's still alive we promise
+ - [https://www.pcgamer.com/e3-somehow-gets-even-deader-as-event-organiser-departs-by-mutual-consent-esa-says-no-no-its-still-alive-we-promise](https://www.pcgamer.com/e3-somehow-gets-even-deader-as-event-organiser-departs-by-mutual-consent-esa-says-no-no-its-still-alive-we-promise)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T13:02:30+00:00
+
+A big relaunch is apparently planned for 2025.
+
+## How to recruit Starfield's strangest companion
+ - [https://www.pcgamer.com/starfield-how-to-recruit-amelia-earhart](https://www.pcgamer.com/starfield-how-to-recruit-amelia-earhart)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T12:41:25+00:00
+
+Add a historical celebrity to your crew.
+
+## Got a weird PC project in mind? Framework uncovered a horde of old mainboards in an old factory and is selling them off cheap
+ - [https://www.pcgamer.com/got-a-weird-pc-project-in-mind-framework-uncovered-a-horde-of-old-mainboards-in-an-old-factory-and-is-selling-them-off-cheap](https://www.pcgamer.com/got-a-weird-pc-project-in-mind-framework-uncovered-a-horde-of-old-mainboards-in-an-old-factory-and-is-selling-them-off-cheap)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T12:38:24+00:00
+
+The perfect base for any weird and/or wonderful custom PC build.
+
+## Starfield player uses laundry basket to pull off the casino heist of the century
+ - [https://www.pcgamer.com/starfield-player-uses-laundry-basket-to-pull-off-the-casino-heist-of-the-century](https://www.pcgamer.com/starfield-player-uses-laundry-basket-to-pull-off-the-casino-heist-of-the-century)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T12:24:04+00:00
+
+You'd be amazed what people throw out…
+
+## New mystery Valve hardware device certified in South Korea
+ - [https://www.pcgamer.com/new-mystery-valve-hardware-device-certified-in-south-korea](https://www.pcgamer.com/new-mystery-valve-hardware-device-certified-in-south-korea)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T12:14:56+00:00
+
+Could it be a new Deck, a controller or maybe a VR headset?
+
+## This summer's hottest streamer game appears to be gone for good
+ - [https://www.pcgamer.com/this-summers-hottest-streamer-game-appears-to-be-gone-for-good](https://www.pcgamer.com/this-summers-hottest-streamer-game-appears-to-be-gone-for-good)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T11:25:50+00:00
+
+Only Up!'s developer said "I want to put the game behind me."
+
+## D&D's new playtest canonises a subclass rename from Baldur's Gate 3, lead rules designer 'worked with Larian'
+ - [https://www.pcgamer.com/dandds-new-playtest-canonises-a-subclass-rename-from-baldurs-gate-3-lead-rules-designer-worked-with-larian](https://www.pcgamer.com/dandds-new-playtest-canonises-a-subclass-rename-from-baldurs-gate-3-lead-rules-designer-worked-with-larian)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T11:19:46+00:00
+
+Totem no more.
+
+## Final Fantasy 14 won't be going free-to-play anytime soon
+ - [https://www.pcgamer.com/final-fantasy-14-wont-be-going-free-to-play-anytime-soon](https://www.pcgamer.com/final-fantasy-14-wont-be-going-free-to-play-anytime-soon)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T11:12:35+00:00
+
+The subscription model is working just fine for Square Enix.
+
+## I've finally figured out the answer to Starfield's greatest mystery: why my spaceship's cargo hold is always full of misc items
+ - [https://www.pcgamer.com/ive-finally-figured-out-the-answer-to-starfields-greatest-mystery-why-my-spaceships-cargo-hold-is-always-full-of-misc-items](https://www.pcgamer.com/ive-finally-figured-out-the-answer-to-starfields-greatest-mystery-why-my-spaceships-cargo-hold-is-always-full-of-misc-items)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T11:06:03+00:00
+
+No more will I be plagued by mystery slippers and mugs.
+
+## New Intel driver gives Starfield its eyebrows back
+ - [https://www.pcgamer.com/new-intel-driver-gives-starfield-its-eyebrows-back](https://www.pcgamer.com/new-intel-driver-gives-starfield-its-eyebrows-back)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T10:30:53+00:00
+
+Driver bug that batted eyebrows clean off characters' faces has been fixed, but larger issues with Starfield on Arc graphics cards remain.
+
+## Worried about missing companion chats in Baldur's Gate 3? This mod aims to fix that
+ - [https://www.pcgamer.com/worried-about-missing-companion-chats-in-baldurs-gate-3-this-mod-aims-to-fix-that](https://www.pcgamer.com/worried-about-missing-companion-chats-in-baldurs-gate-3-this-mod-aims-to-fix-that)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T10:08:59+00:00
+
+Proper pillow talk.
+
+## Early numbers indicate AMD's 7800 XT GPU is a hit. The 7700 XT not so much
+ - [https://www.pcgamer.com/early-numbers-indicate-amds-7800-xt-gpu-is-a-hit-the-7700-xt-not-so-much](https://www.pcgamer.com/early-numbers-indicate-amds-7800-xt-gpu-is-a-hit-the-7700-xt-not-so-much)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T10:03:46+00:00
+
+Hardly surprising that the poor value 7700 XT isn't flying off shelves.
+
+## The RØDE Streamer X is the ultimate all-in-one streaming platform
+ - [https://www.pcgamer.com/the-rode-streamer-x-is-the-ultimate-all-in-one-streaming-platform](https://www.pcgamer.com/the-rode-streamer-x-is-the-ultimate-all-in-one-streaming-platform)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T08:00:00+00:00
+
+The Australian technology innovator delivers a game-changing device for streamers.
+
+## Toyota factories grind to a halt after its servers ran out of disk space
+ - [https://www.pcgamer.com/toyota-factories-grind-to-a-halt-after-its-servers-ran-out-of-disk-space](https://www.pcgamer.com/toyota-factories-grind-to-a-halt-after-its-servers-ran-out-of-disk-space)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T04:41:29+00:00
+
+I don't suppose anyone had a spare flash drive handy?
+
+## Today's Wordle hint and answer #811: Friday, September 8
+ - [https://www.pcgamer.com/wordle-answer-today-hint-811-september-8](https://www.pcgamer.com/wordle-answer-today-hint-811-september-8)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T03:06:44+00:00
+
+Get all the help you need with today's Wordle.
+
+## NYT Connections puzzle hint and answer for Friday, September 8 (#89)
+ - [https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-friday-september-8-89](https://www.pcgamer.com/nyt-connections-puzzle-hint-and-answer-for-friday-september-8-89)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T03:00:10+00:00
+
+It's Friday. Let's make some Connections.
+
+## Nobody asked, but this Starfield modder delivered—here's the most innocent companion as Thomas the Tank Engine
+ - [https://www.pcgamer.com/nobody-asked-but-this-starfield-modder-deliveredheres-the-most-innocent-companion-as-thomas-the-tank-engine](https://www.pcgamer.com/nobody-asked-but-this-starfield-modder-deliveredheres-the-most-innocent-companion-as-thomas-the-tank-engine)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T00:06:11+00:00
+
+I had to see it, so you do too.
+
+## Watch the animated adventures of Baldur's Gate 3 continue as they travel from the land of 'Earlay Axes' to the region of 'L'awnch'
+ - [https://www.pcgamer.com/watch-the-animated-adventures-of-baldurs-gate-3-continue-as-they-travel-from-the-land-of-earlay-axes-to-the-region-of-lawnch](https://www.pcgamer.com/watch-the-animated-adventures-of-baldurs-gate-3-continue-as-they-travel-from-the-land-of-earlay-axes-to-the-region-of-lawnch)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-09-08T00:04:50+00:00
+
+See the BG3 gang in adorable 2D form.
+
