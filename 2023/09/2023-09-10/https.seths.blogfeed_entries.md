@@ -1,0 +1,9 @@
+# Source:Seth's Blog, URL:https://seths.blog/feed, language:en-US
+
+## Digital shortcuts and cognitive load
+ - [https://seths.blog/2023/09/digital-shortcuts-and-cognitive-load/](https://seths.blog/2023/09/digital-shortcuts-and-cognitive-load/)
+ - RSS feed: https://seths.blog/feed
+ - date published: 2023-09-10T08:38:00+00:00
+
+I used to drive 200 miles to Boston once a week or so. After a few trips on the highway, my subconscious figured out that getting behind a few trucks for the entire ride enabled me to spend four hours without using much conscious effort on driving. Every day, we make decisions. These require effort, [&#8230;]
+
