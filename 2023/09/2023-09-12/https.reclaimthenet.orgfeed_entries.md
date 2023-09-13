@@ -1,0 +1,34 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## USA v. Google Part 1 – Ads and Empires: The Case Against Google
+ - [https://reclaimthenet.org/usa-v-google-2023-part-1](https://reclaimthenet.org/usa-v-google-2023-part-1)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-12T15:57:26+00:00
+
+<a href="https://reclaimthenet.org/usa-v-google-2023-part-1" rel="nofollow" title="USA v. Google Part 1 &#8211; Ads and Empires: The Case Against Google"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/usa-v-google.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>The trial that could change the internet forever.</p>
+<p>The post <a href="https://reclaimthenet.org/usa-v-google-2023-part-1" rel="nofollow">USA v. Google Part 1 &#8211; Ads and Empires: The Case Against Google</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Anti Piracy VP Says “Any Device” That Can Be Used To Infringe IP Should Be Made Illegal
+ - [https://reclaimthenet.org/anti-piracy-vp-says-any-device-that-can-be-used-to-infringe-ip-should-be-made-illegal](https://reclaimthenet.org/anti-piracy-vp-says-any-device-that-can-be-used-to-infringe-ip-should-be-made-illegal)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-12T15:30:48+00:00
+
+<a href="https://reclaimthenet.org/anti-piracy-vp-says-any-device-that-can-be-used-to-infringe-ip-should-be-made-illegal" rel="nofollow" title="Anti Piracy VP Says &#8220;Any Device&#8221; That Can Be Used To Infringe IP Should Be Made Illegal"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/pir.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Radical demands.</p>
+<p>The post <a href="https://reclaimthenet.org/anti-piracy-vp-says-any-device-that-can-be-used-to-infringe-ip-should-be-made-illegal" rel="nofollow">Anti Piracy VP Says &#8220;Any Device&#8221; That Can Be Used To Infringe IP Should Be Made Illegal</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Threads Is Already Blacklisting Covid Terms From Search, As Part of New Censorship Campaign
+ - [https://reclaimthenet.org/threads-is-already-blacklisting-covid-terms-from-search](https://reclaimthenet.org/threads-is-already-blacklisting-covid-terms-from-search)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-12T15:26:47+00:00
+
+<a href="https://reclaimthenet.org/threads-is-already-blacklisting-covid-terms-from-search" rel="nofollow" title="Threads Is Already Blacklisting Covid Terms From Search, As Part of New Censorship Campaign"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/zuck-threads-block.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>New app. Same censorship.</p>
+<p>The post <a href="https://reclaimthenet.org/threads-is-already-blacklisting-covid-terms-from-search" rel="nofollow">Threads Is Already Blacklisting Covid Terms From Search, As Part of New Censorship Campaign</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Elizabeth Warren Uses Debunked Starlink Ukraine Story To Call For Congress To Investigate Elon Musk
+ - [https://reclaimthenet.org/warren-starlink-ukraine-story-elon-musk](https://reclaimthenet.org/warren-starlink-ukraine-story-elon-musk)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-12T14:31:04+00:00
+
+<a href="https://reclaimthenet.org/warren-starlink-ukraine-story-elon-musk" rel="nofollow" title="Elizabeth Warren Uses Debunked Starlink Ukraine Story To Call For Congress To Investigate Elon Musk"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/senator-warren-musk.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>Senator Warren uses every possible opportunity to investigate Elon Musk.</p>
+<p>The post <a href="https://reclaimthenet.org/warren-starlink-ukraine-story-elon-musk" rel="nofollow">Elizabeth Warren Uses Debunked Starlink Ukraine Story To Call For Congress To Investigate Elon Musk</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+

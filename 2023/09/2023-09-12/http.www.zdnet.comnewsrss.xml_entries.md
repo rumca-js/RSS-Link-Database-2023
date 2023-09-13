@@ -1,0 +1,219 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## Every iPhone 15 model compared: The key differences you should know
+ - [https://www.zdnet.com/article/every-iphone-15-model-compared-the-key-differences-you-should-know/#ftag=RSSbaffb68](https://www.zdnet.com/article/every-iphone-15-model-compared-the-key-differences-you-should-know/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T22:18:00+00:00
+
+Apple just released four new iPhone 15 models. Here are the key reasons to buy one over the other.
+
+## A17 Pro deep dive: A look at Apple's new iPhone 15 Pro chip
+ - [https://www.zdnet.com/article/a17-pro-deep-dive-a-look-at-apples-new-iphone-15-pro-chip/#ftag=RSSbaffb68](https://www.zdnet.com/article/a17-pro-deep-dive-a-look-at-apples-new-iphone-15-pro-chip/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T21:04:50+00:00
+
+It's a powerhouse of a chip, packing some professional grade features worthy of the 'Pro' name.
+
+## AirPods Pro 2 vs. Bose QuietComfort Buds 2: Which wireless earbuds will best rock your world?
+ - [https://www.zdnet.com/article/airpods-pro-2-vs-bose-quietcomfort-buds-2-which-wireless-earbuds-will-best-rock-your-world/#ftag=RSSbaffb68](https://www.zdnet.com/article/airpods-pro-2-vs-bose-quietcomfort-buds-2-which-wireless-earbuds-will-best-rock-your-world/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T20:39:59+00:00
+
+Both Bose and Apple offer impeccable noise cancelation in their small but mighty earbuds. Need help deciding which ones are best for you? You've come to the right place.
+
+## Your AirPods Pro 2 are about to get an upgrade, and it's a big deal
+ - [https://www.zdnet.com/article/your-airpods-pro-2-are-about-to-get-an-upgrade-and-its-a-big-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-airpods-pro-2-are-about-to-get-an-upgrade-and-its-a-big-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T20:34:58+00:00
+
+Apple and Sony are consistently neck-and-neck in the earbuds and over-ear headphones race. But a new software update is closing on Sony's lead. Here's why.
+
+## Everything Apple announced today: iPhone 15, Apple Watch Ultra 2, AirPods
+ - [https://www.zdnet.com/article/everything-apple-announced-today-iphone-15-apple-watch-ultra-2-airpods/#ftag=RSSbaffb68](https://www.zdnet.com/article/everything-apple-announced-today-iphone-15-apple-watch-ultra-2-airpods/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T20:31:00+00:00
+
+From the USB-C-fication of iPhones and AirPods to the successor of the Apple Watch Ultra, here's what was announced at today's event.
+
+## Apple Watch Ultra 2 vs. Ultra: Is it time to upgrade?
+ - [https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra-is-it-time-to-upgrade/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra-is-it-time-to-upgrade/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T20:27:16+00:00
+
+Apple launched the Watch Ultra in 2022 and followed it up just one year later with the Ultra 2. Are there enough improvements to justify upgrading this year or should you keep your eye out for the next Ultra?
+
+## Apple iPhone 15 Pro mutes side switch for multifunctional Action button
+ - [https://www.zdnet.com/article/apples-iphone-15-pro-loses-the-mute-switch-in-favor-of-an-action-button/#ftag=RSSbaffb68](https://www.zdnet.com/article/apples-iphone-15-pro-loses-the-mute-switch-in-favor-of-an-action-button/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T20:21:00+00:00
+
+In light of a new Action button, the iPhone's mute switch joins the home button in the land of past iPhone features.
+
+## iPhone 15 Pro vs. iPhone 14 Pro: Which Pro model is best to buy?
+ - [https://www.zdnet.com/article/iphone-15-pro-vs-iphone-14-pro-which-iphone-pro-model-is-best-to-buy/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-15-pro-vs-iphone-14-pro-which-iphone-pro-model-is-best-to-buy/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T20:09:00+00:00
+
+The iPhone 15 Pro comes with some noticeable differences from its predecessor, the iPhone 14 Pro. While both phones are great, one may suit what you need more than the other.
+
+## Apple adds 6TB and 12TB iCloud+ storage tiers priced at $30 and $60 a month
+ - [https://www.zdnet.com/article/apple-adds-6tb-and-12tb-icloud-storage-tiers-priced-at-30-and-60-a-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-adds-6tb-and-12tb-icloud-storage-tiers-priced-at-30-and-60-a-month/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:44:18+00:00
+
+Our long iCloud+ storage nightmare is now over -- at least until we use it up again.
+
+## The best robot mowers of 2023
+ - [https://www.zdnet.com/home-and-office/yard-outdoors/best-robot-mower/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/yard-outdoors/best-robot-mower/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:32:41+00:00
+
+The best robot mowers can cut your grass for you on a regular schedule. ZDNET went hands-on with some of the top models to help you pick the best robot mower for you.
+
+## Here's how Apple just made the iPhone 15 Pro much easier to repair
+ - [https://www.zdnet.com/article/apple-just-made-the-iphone-15-pro-much-easier-to-repair/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-just-made-the-iphone-15-pro-much-easier-to-repair/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:26:43+00:00
+
+Both sides of your iPhone are made of glass. Now Apple has made it easier to repair both sides.
+
+## iPhone 15 Pro vs iPhone 13 Pro: Should you upgrade and why?
+ - [https://www.zdnet.com/article/iphone-15-pro-vs-iphone-13-pro-should-you-upgrade-and-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/iphone-15-pro-vs-iphone-13-pro-should-you-upgrade-and-why/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:18:00+00:00
+
+Apple just unveiled the new iPhone 15 Pro, but is it worth upgrading or is this one of those times where the tried-and-true option prevails?
+
+## Apple Watch Ultra 2 vs. Garmin Epix Pro: AMOLED adventure watch head-to-head
+ - [https://www.zdnet.com/article/apple-watch-ultra-2-vs-garmin-epix-pro-amoled-adventure-watch-head-to-head/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-ultra-2-vs-garmin-epix-pro-amoled-adventure-watch-head-to-head/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:14:24+00:00
+
+The Watch Ultra 2 is Apple's latest smartwatch for athletes, explorers, and even divers. So, how does it stack up against Garmin's best GPS sports watch? Here are the key reasons to buy one or the other for your outdoor adventures.
+
+## Everything announced at Apple's 'Wonderlust event' today: iPhone 15, Apple Watch Ultra 2, AirPods
+ - [https://www.zdnet.com/article/everything-announced-at-apples-wonderlust-event-today-iphone-15-apple-watch-ultra-2-airpods/#ftag=RSSbaffb68](https://www.zdnet.com/article/everything-announced-at-apples-wonderlust-event-today-iphone-15-apple-watch-ultra-2-airpods/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:11:00+00:00
+
+From the USB-C-fication of iPhones and AirPods to the successor of the Apple Watch Ultra, here's what was announced at today's event.
+
+## The best amplifiers of 2023: Expert recommended
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-amplifiers/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-amplifiers/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T19:09:55+00:00
+
+The best amplifiers allow for a better quality sound experience when watching movies or listening to music.
+
+## How to preorder the iPhone 15 series, Apple Watch Series 9, Apple Watch Ultra 2, and get the best deals
+ - [https://www.zdnet.com/article/how-to-preorder-the-iphone-15-series-apple-watch-series-9-apple-watch-ultra-2-and-get-the-best-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-preorder-the-iphone-15-series-apple-watch-series-9-apple-watch-ultra-2-and-get-the-best-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T18:56:00+00:00
+
+Apple unveils its new iPhone 15 line, plus Apple Watch Series 9 and Apple Watch Ultra 2 during its fall event. We have the details on where you can buy and preorder these devices, and for how much.
+
+## This mini PC is a basically a Mac Mini​ for Windows users
+ - [https://www.zdnet.com/article/this-mini-pc-is-a-basically-a-mac-mini-for-windows-users/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-mini-pc-is-a-basically-a-mac-mini-for-windows-users/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T18:12:42+00:00
+
+The AS6 by Geekom is a powerful, easy-to-upgrade PC that fits in the palm of your hand.
+
+## Apple Watch Series 9: Top 4 new features we're excited about
+ - [https://www.zdnet.com/article/apple-watch-series-9-top-4-new-features-were-excited-about/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-series-9-top-4-new-features-were-excited-about/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T18:05:14+00:00
+
+Many new features on the Apple Watch Series 9 are impressive, but these top ones caught our attention.
+
+## Apple Watch double-tap feature is a game-changer for accessibility
+ - [https://www.zdnet.com/article/apple-watch-double-tap-feature-is-a-game-changer-for-accessibility/#ftag=RSSbaffb68](https://www.zdnet.com/article/apple-watch-double-tap-feature-is-a-game-changer-for-accessibility/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T17:45:00+00:00
+
+As part of Apple's fall event, the company introduced an exciting gesture feature you can use on the new Apple Watch Series 9 and the Apple Watch Ultra 2.
+
+## eSIM vs. SIM: What's the difference?
+ - [https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/#ftag=RSSbaffb68](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T17:30:00+00:00
+
+Apple's latest iPhone models no longer include a physical slot for a SIM card. That's good news for big carriers, but it can cause headaches for mobile enthusiasts and travelers.
+
+## How to watch Apple's iPhone 15 event today
+ - [https://www.zdnet.com/article/how-to-watch-apples-iphone-15-event-today/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-watch-apples-iphone-15-event-today/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T16:55:00+00:00
+
+Apple's 'Wonderlust' event will likely also feature the unveiling of a new Apple Watch and AirPods.
+
+## Real-time Ubuntu is available in AWS Marketplace now, and it's ideal for rapid prototyping
+ - [https://www.zdnet.com/article/real-time-ubuntu-is-available-in-aws-marketplace-now/#ftag=RSSbaffb68](https://www.zdnet.com/article/real-time-ubuntu-is-available-in-aws-marketplace-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T16:44:00+00:00
+
+Ubuntu Pro 22.04 LTS with a real-time kernel is now available to use in the AWS Marketplace.
+
+## How to access thousands of free audiobooks, thanks to Microsoft AI and Project Gutenberg
+ - [https://www.zdnet.com/article/heres-how-to-access-thousands-of-free-audiobooks-thanks-to-microsoft-ai-and-project-gutenberg/#ftag=RSSbaffb68](https://www.zdnet.com/article/heres-how-to-access-thousands-of-free-audiobooks-thanks-to-microsoft-ai-and-project-gutenberg/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T16:26:13+00:00
+
+Available through Apple Podcasts, Spotify, and other platforms, the free audiobooks use neural text-to-speech technology to read to you in a human-sounding voice.
+
+## Not buying a new iPhone? This flash drive will give your old one a new lease of life
+ - [https://www.zdnet.com/article/not-buying-a-new-iphone-this-flash-drive-will-give-your-old-one-a-new-lease-of-life/#ftag=RSSbaffb68](https://www.zdnet.com/article/not-buying-a-new-iphone-this-flash-drive-will-give-your-old-one-a-new-lease-of-life/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T16:08:59+00:00
+
+One of the top reasons that people upgrade their iPhones is a lack of storage space. Buy this drive and save hundreds of dollars.
+
+## What to expect from Apple's 'Wonderlust event' today: iPhone 15, Apple Watch Ultra 2, AirPods
+ - [https://www.zdnet.com/article/every-product-were-expecting-at-apples-iphone-15-event-watch-ultra-2-airpods/#ftag=RSSbaffb68](https://www.zdnet.com/article/every-product-were-expecting-at-apples-iphone-15-event-watch-ultra-2-airpods/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T15:40:00+00:00
+
+From the USB-C-fication of iPhones and AirPods to the successor of the Apple Watch Ultra, here's what will (and won't) be on today's unveiling.
+
+## Study AI and machine learning with this $30 e-degree program
+ - [https://www.zdnet.com/article/study-ai-and-machine-learning-with-this-30-e-degree-program/#ftag=RSSbaffb68](https://www.zdnet.com/article/study-ai-and-machine-learning-with-this-30-e-degree-program/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T15:30:25+00:00
+
+Stay up-to-date with the hottest AI tools and how to use them for machine learning processes, all with these self-paced online courses.
+
+## How to optimize storage on your MacOS device
+ - [https://www.zdnet.com/article/how-to-optimize-storage-on-your-macos-device/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-optimize-storage-on-your-macos-device/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T15:09:18+00:00
+
+If you're worried about your MacBook or iMac internal storage filling up, here's a handy trick to help prevent that from happening.
+
+## Get a dash and backup camera in any car with this $96 kit
+ - [https://www.zdnet.com/article/get-a-dash-and-backup-camera-in-any-car-with-this-96-kit/#ftag=RSSbaffb68](https://www.zdnet.com/article/get-a-dash-and-backup-camera-in-any-car-with-this-96-kit/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T14:23:48+00:00
+
+Add safety features to your car like voice controls, 4K recording, night vision, parking assist, collision detection, and more.
+
+## I took a chance on these rechargeable batteries during COVID times and now they're my go-to
+ - [https://www.zdnet.com/home-and-office/i-took-a-chance-on-these-rechargeable-batteries-during-covid-times-and-now-theyre-my-go-to/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/i-took-a-chance-on-these-rechargeable-batteries-during-covid-times-and-now-theyre-my-go-to/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T12:50:30+00:00
+
+With the holidays fast approaching, you'll want to make sure you have plenty of rechargeable batteries on hand.
+
+## 6 simple cybersecurity rules to live by
+ - [https://www.zdnet.com/article/6-simple-cybersecurity-rules-to-live-by/#ftag=RSSbaffb68](https://www.zdnet.com/article/6-simple-cybersecurity-rules-to-live-by/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T11:32:24+00:00
+
+How do you train others to avoid being victims of online crime? It's all about human behavior.
+
+## How to use different languages in LibreOffice (and why you might need this feature)
+ - [https://www.zdnet.com/home-and-office/work-life/how-to-use-different-languages-in-libreoffice-and-why-you-might-need-this-feature/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/how-to-use-different-languages-in-libreoffice-and-why-you-might-need-this-feature/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-12T06:57:45+00:00
+
+If you have a need to use multiple languages or regions in a LibreOffice document, the application has that feature built-in and it's quite easy to use.
+
