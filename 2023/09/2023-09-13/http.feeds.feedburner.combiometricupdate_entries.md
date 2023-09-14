@@ -1,0 +1,192 @@
+# Source:Biometric Update, URL:http://feeds.feedburner.com/biometricupdate, language:en-US
+
+## Deduce nets $9M investment to scale synthetic identity fraud prevention service
+ - [https://www.biometricupdate.com/202309/deduce-nets-9m-investment-to-scale-synthetic-identity-fraud-prevention-service](https://www.biometricupdate.com/202309/deduce-nets-9m-investment-to-scale-synthetic-identity-fraud-prevention-service)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T21:39:20+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1280" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg" width="2048" />
+		Investors have been betting heavily on generative AI, so it should come as no surprise that big money is also flowing into the project of preventing its misuse to build synthetic identities. U.S. anti-fraud firm Deduce has announced $9 million in Series B funding, led by Freestyle Capital and supported by Foundry and True Ventures.
+
+The significant investment will allow Deduce to move its AI digital identity fraud prevention product out of stealth and into the hands of businesses in need of ways to combat <a href="https://www.biometricupdate.com/202307/4-in-10-businesses-have-already-seen-deepfakes-injection-attacks">nefarious uses</a> of generative AI and large language models, at scale.
+
+In a release, the CEO of Deduce, Ari Jacoby, said that threats to private biometr
+
+## US oversight body demands biometrics privacy, training upgrades at DHS, FBI
+ - [https://www.biometricupdate.com/202309/us-oversight-body-demands-biometrics-privacy-training-upgrades-at-dhs-fbi](https://www.biometricupdate.com/202309/us-oversight-body-demands-biometrics-privacy-training-upgrades-at-dhs-fbi)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T21:30:53+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg" width="2048" />
+		The U.S. Government Accountability Office wants federal agencies to work on protecting the privacy and civil liberties of Americans in their use of facial recognition for law enforcement, and biometrics in general.
+
+The oversight body has issued two sets of recommendations in reports published this month.
+
+On “<a href="https://www.gao.gov/products/gao-23-105959">Biometric Identity System</a>(s),” GAO says “DHS Needs to Address Significant Shortcomings in Program Management and Privacy.” The report reviews the efforts by the Department of Homeland Security to <a href="https://www.biometricupdate.com/201809/inside-the-hart-of-the-dhs-office-of-biometric-identity-management">transition</a> to the Homeland Advanced Recognition Technology (HART) multi-biomet
+
+## Less 1:N facial recognition searches, data sharing proposed in Australia gov’t ID bills
+ - [https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills](https://www.biometricupdate.com/202309/less-1n-facial-recognition-searches-data-sharing-proposed-in-australia-govt-id-bills)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T20:08:52+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1325" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/07/10101537/face-biometric-close-up.jpg" width="1312" />
+		The Identity Verification Services Bill 2023 and accompanying amendments bill have been introduced in Australia’s parliament as a cut-down version of the Identity-matching Services Bill of 2019. The new legislation would block most of the planned government uses of one-to-many facial recognition.
+
+The bills will impact the use of current identity services including the document verification services and the biometric Facial Verification Service (FVS) as well as the National Driver Licence Facial Recognition Solution (NDLFRS).
+
+If passed, they will also scale back the use of Home Affairs' <a href="https://www.idmatch.gov.au/Documents/FIS%20Access%20Policy.pdf">Face Identification Service</a>, which currently allows law enforcement to create a gallery of up to 20 of the
+
+## iProov partners for cryptography to beef up biometric MFA in 3 regions
+ - [https://www.biometricupdate.com/202309/iproov-partners-for-cryptography-to-beef-up-biometric-mfa-in-3-regions](https://www.biometricupdate.com/202309/iproov-partners-for-cryptography-to-beef-up-biometric-mfa-in-3-regions)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T19:51:24+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/22111201/face-biometric-enrollment-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/iproov-limited">iProov</a> has partnered with Estonia’s <a href="https://cyber.ee/">Cybernetica</a> to provide face biometrics for frictionless, device-agnostic multi-factor authentication to financial organizations and governments in three key regions.
+
+The partnership will pair iProov’s <a href="https://www.biometricupdate.com/202306/iproov-face-biometrics-integrated-by-developer-of-software-for-government-financials">face biometric verification suite</a> with Cybernetica’s SplitKey cryptographic technology to turn smartphones into secure authentication devices, according to a company announcement, offering biometric authentication and digital signature to customers in Europe, Africa, the Middle East, Latin
+
+## Irish police start €10M facial recognition body cam procurement
+ - [https://www.biometricupdate.com/202309/irish-police-start-e10m-facial-recognition-body-cam-procurement](https://www.biometricupdate.com/202309/irish-police-start-e10m-facial-recognition-body-cam-procurement)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T18:58:24+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="630" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/08121131/Garda-body-cam.jpg" width="1200" />
+		The Irish police, known as Garda Síochana, have officially started the public procurement process for facial recognition body-worn cameras, a move that has caused controversy as the country awaits regulation for police use of face scanning software.
+
+Ireland is <a href="https://www.biometricupdate.com/202306/ireland-to-introduce-a-bill-on-retrospective-facial-recognition-use-by-police">currently </a>debating the Garda Síochána (Digital Management and Facial Recognition Technology) Bill 2023 which would allow facial recognition to be used retrospectively to search through images.
+
+The tender, <a href="https://www.garda.ie/en/about-us/our-departments/office-of-corporate-communications/news-media/an-garda-siochana-commences-public-procurement-process-for-body-worn-cameras.html">pu
+
+## Aware adds biometric capabilities, ease of use and development upgrades to platform
+ - [https://www.biometricupdate.com/202309/aware-adds-biometric-capabilities-ease-of-use-and-development-upgrades-to-platform](https://www.biometricupdate.com/202309/aware-adds-biometric-capabilities-ease-of-use-and-development-upgrades-to-platform)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T18:36:39+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1298" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg" width="2048" />
+		<a href="https://www.biometricupdate.com/companies/aware-inc">Aware</a> has enhanced its face biometrics platform with a range of new functionalities and launched a new developer hub to ease the adoption of biometrics by businesses.
+
+New ID document capture and processing functionalities have been added to the AwareID platform, to deliver improved ease of use. The company says this change makes authentication and document verification reliable, trustworthy and convenient. The AwareID platform update also includes more backend support, and new Flutter and React Native frameworks for mobile applications.
+
+Along with face verification, AwareID can now perform biometric face identification enabling businesses to check an individual against a database of kno
+
+## Kenya approves Maisha Namba, plans launch this month with $6.8M budget
+ - [https://www.biometricupdate.com/202309/kenya-approves-maisha-namba-plans-launch-this-month-with-6-8m-budget](https://www.biometricupdate.com/202309/kenya-approves-maisha-namba-plans-launch-this-month-with-6-8m-budget)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T18:15:41+00:00
+
+<img alt="digital ID Kenya" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="799" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/30164554/digital-ID-Kenya.jpg" width="1200" />
+		Lawmakers on Kenya’s Technical Committee of Principle Secretaries have approved four pieces of the country’s digital identity plan, and the government will begin rolling out the new digital ID this month.
+
+The Maisha Namba has accepted, along with the accompanying Maisha Card, digital signature and Master National Population Register, <a href="https://www.kenyans.co.ke/news/92913-maisha-namba-3-other-components-govt-will-launch-september">Kenyans.co.ke</a> reports. Maisha Namba will be issued to newborns, taking the place of a birth certificate, while the Maisha Card will replace the national ID card, Immigration Secretary Julis Bitok says. The same number will also be used for death registration. Digital signatures will be accepted for identity verification i
+
+## Berbix’s virtual authentication detection powering Socure’s DocV granted patent
+ - [https://www.biometricupdate.com/202309/berbixs-virtual-authentication-detection-powering-socures-docv-granted-patent](https://www.biometricupdate.com/202309/berbixs-virtual-authentication-detection-powering-socures-docv-granted-patent)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T18:05:26+00:00
+
+<img alt="remote biometric onboarding - digital identity verification" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="697" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png" width="1173" />
+		Forensics and data extraction developer Berbix, which was acquired by <a href="https://www.biometricupdate.com/companies/socure">Socure</a> just months ago, has received a patent for their “virtual authentication detection” technology that powers DocV 3.0, Socure's biometric document verification software.
+
+Other document verification methods may use a template library of all U.S. IDs. "But one of the challenges with that method is that fake ID manufacturers are able to put the appropriate holograms and signals on there to make it look exactly like a legitimate ID," said Eric LeVine, one inventor of the newly patented system, in an interview with <em>Biometric Update</em>.
+
+Usi
+
+## Facial recognition will ‘transform investigative work,’ says UK’s top cop
+ - [https://www.biometricupdate.com/202309/facial-recognition-will-transform-investigative-work-says-uks-top-cop](https://www.biometricupdate.com/202309/facial-recognition-will-transform-investigative-work-says-uks-top-cop)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T15:49:39+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1333" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg" width="2048" />
+		United Kingdom’s most senior police officer believes that facial recognition will transform investigative work the same way DNA testing did 30 years ago.
+
+The London Metropolitan Police Commissioner Sir Mark Rowley hailed the technology while speaking at an event marking his first year in office, The Guardian <a href="https://www.theguardian.com/uk-news/2023/sep/11/facial-recognition-could-transform-policing-in-way-dna-testing-did-says-met-chief">reports</a>.
+
+“We’ve also shown recently that live facial recognition is massively effective at picking out wanted offenders from crowds of people,” says Rowley. “The next step is more exciting: retroactively using facial recognition to identify unknown suspects from CCTV images is showing immense potential.”
+
+The Met
+
+## Biometrics for payments, not tracking customers in Amazon Just Walk Out stores
+ - [https://www.biometricupdate.com/202309/biometrics-for-payments-not-tracking-customers-in-amazon-just-walk-out-stores](https://www.biometricupdate.com/202309/biometrics-for-payments-not-tracking-customers-in-amazon-just-walk-out-stores)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T15:38:23+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/13113547/Amazon-Just-Walk-Out-scaled.jpg" width="2048" />
+		Amazon says the Just Walk Out store in the Seahawks' Lumen Field NFL stadium launched last year is a rousing success. The AI system allows fans to enter a concession stand, grab what they want, and walk directly back to their seats without going through a checkout process. A Just Walk Out store in the stadium saw double sales when compared to the previous store in the same location.
+
+Those entering the store can use a credit card at the entry gate or elect to scan their palm biometrics with an Amazon One device as their payment method. When a user picks up an item in the store, the system adds it to their virtual cart. If the user returns it to the shelf, it will automatically remove it. Customers are charged for what they take as they leave the store.
+
+While the 
+
+## UK and other markets should learn from Denmark’s digital ID: OIX
+ - [https://www.biometricupdate.com/202309/uk-and-other-markets-should-learn-from-denmarks-digital-id-oix](https://www.biometricupdate.com/202309/uk-and-other-markets-should-learn-from-denmarks-digital-id-oix)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T15:21:06+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1117" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/13112005/denmark-mitID.png" width="1896" />
+		Markets where digital identity has not yet matured, including the United Kingdom, should look at Denmark for inspiration on how digital ID can be adopted, non-profit trade organization the Open Identity Exchange (<a href="https://www.biometricupdate.com/tag/open-identity-exchange-oix">OIX</a>) says.
+
+MitID, Denmark’s national eID solution, has already been adopted by 99 percent of the country’s population. Introduced <a href="https://www.biometricupdate.com/202112/governments-step-up-digital-identity-for-public-services-digital-economy-participation">in 2021</a> by the Danish Agency of Digitisation and Finance, the national solution is used for digital authentication for local banks and public services.
+
+“Digital ID adoption in markets like Denmark is ‘normal’ and works extreme
+
+## Digital ID alternatives emerging from Web3 work
+ - [https://www.biometricupdate.com/202309/digital-id-alternatives-emerging-from-web3-work](https://www.biometricupdate.com/202309/digital-id-alternatives-emerging-from-web3-work)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T14:09:04+00:00
+
+<img alt="mobile identity verification" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="931" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/05122641/mobile-identity-verification.jpg" width="1536" />
+		Large organizations are leading the charge into decentralized digital identity credentials, according to a new white paper from the CompTIA Blockchain and Web3 Advisory Council.
+
+“<a href="https://connect.comptia.org/content/whitepapers/understanding-decentralized-digital-identity-self-sovereignty">Decentralized Digital Identity &amp; Self-Sovereignty</a>” argues that small and medium-sized businesses will follow their lead, adopting verifiable credentials held in a digital wallet.
+
+Not only is there activity being analyzed in the industry, but there's also actual money being invested.
+<h2>Digital ID intended to add security in decentralized world</h2>
+A layer 1 blockchain, <a href="https://concordium.com/">Concordium</a>, has debuted i
+
+## Identity Week America
+ - [https://www.biometricupdate.com/202309/identity-week-america-2](https://www.biometricupdate.com/202309/identity-week-america-2)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T04:18:16+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="417" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/13001553/Identity-Week-2023.png" width="851" />
+		<strong><a href="https://www.terrapinn.com/exhibition/identity-week-america/">Identity Week America</a></strong>
+<strong>Washington, DC</strong>
+<strong>Oct 3-4, 2023</strong>
+
+Identity Week is a conference and exhibition bringing together the brightest minds in the identity sector to promote innovation, new thinking, and more effective identity solutions.
+
+Key areas of focus include secure physical credentials, digital identity, and advanced authentication technologies, such as <a href="https://www.biometricupdate.com/tag/biometrics">biometrics</a>.
+
+Formerly known as Connect ID, we have been the unmissable Identity event of the year, connecting thousands of Identity professionals from across finance, government, retail, ecommerce, healthcare, travel and social media.
+
+## Border Security Week – East Africa
+ - [https://www.biometricupdate.com/202309/border-security-week-east-africa](https://www.biometricupdate.com/202309/border-security-week-east-africa)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T04:01:55+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="910" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/13000035/BSW-EAST-AFRICA-Web-Banner-scaled.jpg" width="2048" />
+		<strong><a href="https://bordersecurityweek.com/">Border Security Week – East Africa</a></strong>
+<strong>Nairobi, Kenya</strong>
+<strong>November 28-29, 2023</strong>
+
+Border Security Week is a regional event aimed at enhancing border security in East Africa, using smart border control technologies.
+
+It is earmarked to serve the three border environments by bringing together C-level executives from land borders, air borders, and the maritime environment. 
+
+This event will look at safe and secure border and migration management technologies. The event will address the latest challenges and issues impacting border security in East Africa.
+
+## The 9th Edition Connected Banking Summit – West Africa
+ - [https://www.biometricupdate.com/202309/the-9th-edition-connected-banking-summit-west-africa](https://www.biometricupdate.com/202309/the-9th-edition-connected-banking-summit-west-africa)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-13T03:49:26+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="720" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/12234522/Media-creatives_1600-900-3.jpeg" width="1280" />
+		<strong><a href="https://connected-banking.com/summit/wa/">The 9th Edition Connected Banking Summit - West Africa</a></strong>
+<strong>Accra, Ghana</strong>
+<strong>November 15-16, 2023</strong>
+
+Join us for the highly anticipated 9th Edition of the Connected Banking Summit in Accra, Ghana, taking place on November 15 & 16, 2023. Esteemed global executives, experts, and leaders will gather to propel the banking industry into the future. The summit, part of the Connected Banking Series, is dedicated to accelerating digital transformation, ensuring top-tier customer experiences within regulatory frameworks, and upholding paramount levels of security and privacy.
+
+This premier event will host influential figures and experts across the region, representing banks, insur
+
