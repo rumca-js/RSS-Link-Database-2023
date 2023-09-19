@@ -1,0 +1,422 @@
+# Source:BBC, URL:http://feeds.bbci.co.uk/news/rss.xml, language:en-US
+
+## AC Milan v Newcastle United: Champions League return for Magpies is 'proud moment' for Howe
+ - [https://www.bbc.co.uk/sport/football/66846213?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66846213?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T21:47:51+00:00
+
+Preview followed by live coverage of Tuesday's Champions League game between AC Milan and Newcastle United.
+
+## Marilyn Manson fined for blowing nose on concert photographer
+ - [https://www.bbc.co.uk/news/world-us-canada-66850232?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-66850232?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T21:42:03+00:00
+
+The singer will perform 20 hours of community service and pay $1,400 in fines for the "egregious" act.
+
+## Rugby World Cup 2023: Wales number eight Taulupe Faletau finding form as Australia loom in Lyon
+ - [https://www.bbc.co.uk/sport/rugby-union/66843032?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/66843032?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T21:00:02+00:00
+
+Wales number eight Taulupe Faletau says he is growing into the World Cup after returning from a calf injury.
+
+## Nottingham Forest 1-1 Burnley: Callum Hudson-Odoi stunner on his debut earns home side a draw
+ - [https://www.bbc.co.uk/sport/football/66771266?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66771266?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T20:42:22+00:00
+
+Callum Hudson-Odoi scores a glorious equaliser on his Nottingham Forest debut to salvage a Premier League draw against Burnley.
+
+## India could be behind killing of Canadian Sikh - Trudeau
+ - [https://www.bbc.co.uk/news/uk-66848041?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66848041?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T20:30:21+00:00
+
+Hardeep Singh Nijjar was shot dead outside of a Sikh temple on 18 June in British Columbia.
+
+## Everton takeover news: Toffees receive loan from prospective new owners
+ - [https://www.bbc.co.uk/sport/football/66849379?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66849379?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T20:20:36+00:00
+
+Everton have received a loan payment worth tens of millions of pounds from potential new owners 777 Partners.
+
+## Vera Pauw: Diane Caldwell says Republic's World Cup qualification was 'in spite' of former boss
+ - [https://www.bbc.co.uk/sport/football/66849541?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66849541?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T19:04:32+00:00
+
+Diane Caldwell says the Republic of Ireland qualified for their first World Cup "in spite" of then manager Vera Pauw.
+
+## Russell Brand: Met Police receive report of alleged sexual assault in 2003
+ - [https://www.bbc.co.uk/news/entertainment-arts-66843297?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66843297?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T18:43:40+00:00
+
+The Metropolitan Police said officers were in contact with the woman and were supporting her.
+
+## Roger Whittaker: Durham Town folk singer dies at 87
+ - [https://www.bbc.co.uk/news/entertainment-arts-66843162?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66843162?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T18:07:51+00:00
+
+The folk singer, famous for his whistling, singing and guitar playing, dies in France.
+
+## Russell Brand: A comedy career built on controversy
+ - [https://www.bbc.co.uk/news/uk-66847779?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66847779?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T17:48:50+00:00
+
+The BBC's Chi Chi Izundu takes a look at the controversies throughout comedian and actor Russell Brand's career.
+
+## Manchester City v Red Star Belgrade: John Stones, Jack Grealish, Mateo Kovacic and Kevin de Bruyne out of Champions League opener
+ - [https://www.bbc.co.uk/sport/football/66846206?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66846206?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T16:46:54+00:00
+
+Preview followed by live coverage of Tuesday's Champions League game between Manchester City and Red Star Belgrade.
+
+## Bournemouth beach deaths: Sunnah Khan in sea nearly an hour
+ - [https://www.bbc.co.uk/news/uk-england-dorset-66847403?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-dorset-66847403?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T16:20:54+00:00
+
+Sunnah Khan and Joe Abbess died after getting into difficulty in the water off Bournemouth Beach.
+
+## Danish artist told to repay museum €67,000 after turning in blank canvasses
+ - [https://www.bbc.co.uk/news/world-europe-66847139?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66847139?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T16:16:35+00:00
+
+Jens Haaning was given €71,000 by a Danish museum to create art, but sent it blank frames.
+
+## Post Office: Horizon scandal victims offered £600,000 compensation
+ - [https://www.bbc.co.uk/news/business-66843548?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-66843548?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T16:04:05+00:00
+
+The sum is for postmasters whose wrongful convictions for theft and false accounting have now been overturned.
+
+## Chioma Nnadi named new head of editorial content at British Vogue
+ - [https://www.bbc.co.uk/news/entertainment-arts-66840875?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66840875?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T15:42:01+00:00
+
+The London-born journalist and podcaster becomes the black female head of the fashion title.
+
+## Spain call up 15 World Cup winners, Hermoso not in squad
+ - [https://www.bbc.co.uk/sport/football/66847013?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66847013?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T15:19:59+00:00
+
+Jenni Hermoso is not included in Spain's first squad since winning the Women's World Cup, but 15 members of that triumphant team are named.
+
+## Paedophile football coach Barry Bennell dies in prison
+ - [https://www.bbc.co.uk/news/uk-england-manchester-66847569?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-manchester-66847569?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T15:18:50+00:00
+
+Barry Bennell died at HMP Littlehey on Saturday aged 70, the prison service says.
+
+## Lionesses in Women's Nations League: Lucy Parker replaces injured Lotte Wubben-Moy
+ - [https://www.bbc.co.uk/sport/football/66846796?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66846796?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T15:10:36+00:00
+
+Defender Lucy Parker replaces Lotte Wubben-Moy in the England squad for this month's Women's Nations League matches.
+
+## 'Bankrupt' Birmingham City Council braced for government intervention
+ - [https://www.bbc.co.uk/news/uk-england-birmingham-66844959?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-birmingham-66844959?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T15:02:20+00:00
+
+It is thought commissioners sent by government could be sent in to run the struggling city council.
+
+## England Netball apologises for mixing up black players in Razia Quashie birthday post
+ - [https://www.bbc.co.uk/sport/netball/66841305?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/netball/66841305?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T13:33:15+00:00
+
+England Netball apologises for using images of different players in an attempt to wish Razia Quashie happy birthday on social media.
+
+## 'Improving England were best they've been under Borthwick'
+ - [https://www.bbc.co.uk/sport/rugby-union/66844470?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/66844470?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T12:59:50+00:00
+
+There are plenty of challenges to come but, considering their build-up and second half performance against Japan, England are in a good place at the Rugby World Cup, says Matt Dawson.
+
+## Neil Warnock: Huddersfield Town boss to leave Terriers after Stoke City game on Wednesday
+ - [https://www.bbc.co.uk/sport/football/66827798?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66827798?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T12:45:09+00:00
+
+Huddersfield Town boss Neil Warnock is to leave the club after their Championship home game against Stoke City on Wednesday.
+
+## Chronic migraines have forced me to quit, says Dehenna Davison
+ - [https://www.bbc.co.uk/news/uk-politics-66844580?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-66844580?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T12:40:14+00:00
+
+The Conservative MP says health problems have sometimes made it "impossible" to do her job.
+
+## Pitman retires from England duty to address pregnancy struggles
+ - [https://www.bbc.co.uk/sport/netball/66841280?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/netball/66841280?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T12:30:33+00:00
+
+England's Chelsea Pitman, who won gold at the 2018 Commonwealth Games, announces her retirement from international netball.
+
+## Rare dinosaur 'Barry' up for sale at Paris auction
+ - [https://www.bbc.co.uk/news/world-europe-66841201?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66841201?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T12:22:06+00:00
+
+The 150 million year-old camptosaurus is expected to fetch up to €1.2m ($1.2m) in October.
+
+## Brand behaviour was an open secret, says accuser
+ - [https://www.bbc.co.uk/news/entertainment-arts-66840874?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66840874?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T12:06:24+00:00
+
+A woman known as Alice says Russell Brand's denial of sexual assault is laughable but unsurprising.
+
+## 'This could be the holy grail to replace palm oil' - research team
+ - [https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-66842496?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-66842496?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T11:50:03+00:00
+
+An Edinburgh food research team produces a lower-fat alternative aimed at cutting palm oil dependence.
+
+## Clean-up operation under way after Devon flash floods
+ - [https://www.bbc.co.uk/news/uk-england-devon-66842486?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-devon-66842486?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T11:45:29+00:00
+
+Communities across Devon are clearing up after torrential rain flooded homes, roads and businesses.
+
+## Chelmsford woman in court accused of murdering parents
+ - [https://www.bbc.co.uk/news/uk-england-essex-66844514?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-essex-66844514?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T11:21:44+00:00
+
+Virginia McCullough is accused of killing her parents at some point after August 2018.
+
+## World's oldest post office in Sanquhar finds new owners
+ - [https://www.bbc.co.uk/news/uk-scotland-south-scotland-66842343?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-scotland-south-scotland-66842343?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T10:34:54+00:00
+
+Barry and Mary Ford were living in Florida when they first heard the Sanquhar site was up for sale.
+
+## Erling Haaland and Jurgen Klopp in Premier League weekend's funny moments
+ - [https://www.bbc.co.uk/sport/av/football/66839427?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/football/66839427?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T10:05:10+00:00
+
+Manchester City striker Erling Haaland and Liverpool manager Jurgen Klopp star in the weekend's funniest moments from Match of the Day 2's '2 Good 2 Bad'.
+
+## Joe Root to play in England's first one-dayer against Ireland
+ - [https://www.bbc.co.uk/sport/cricket/66842724?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/cricket/66842724?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T09:59:51+00:00
+
+Joe Root will play in England's first one-day international against Ireland at Headingley in a bid to improve his form before the World Cup.
+
+## Minehead Butlin's closes after flood damage in Somerset
+ - [https://www.bbc.co.uk/news/uk-england-somerset-66840766?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-somerset-66840766?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T09:43:02+00:00
+
+The Minehead resort is shut as the Met Office issues renewed weather warnings for parts of the UK.
+
+## NFL: Denver Broncos pull off Hail Mary in best plays of the week
+ - [https://www.bbc.co.uk/sport/av/american-football/66843116?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/av/american-football/66843116?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T09:34:44+00:00
+
+The Denver Broncos pulling off a 'Hail Mary' play is part of the NFL plays of the week from the second round of games.
+
+## Disability benefits cost could rocket, report says
+ - [https://www.bbc.co.uk/news/health-66820579?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-66820579?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T09:17:53+00:00
+
+The study says action needs to be taken to improve the health of people who are about to retire.
+
+## UK storms: Lightning flashes over southern England
+ - [https://www.bbc.co.uk/news/uk-66842877?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66842877?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T09:14:15+00:00
+
+Slow motion footage captures lightning over Shepperton in the UK.
+
+## US military asks for public's help to find F-35 fighter jet
+ - [https://www.bbc.co.uk/news/world-us-canada-66841194?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-66841194?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T08:46:01+00:00
+
+Officials are unable to locate the F-35 jet after its pilot safely ejected from it in South Carolina.
+
+## Champions League 2023/24: Groups, fixture dates and who are favourites?
+ - [https://www.bbc.co.uk/sport/football/66786990?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66786990?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T08:37:50+00:00
+
+Who has the toughest group? When will the games be played? And who are favourites to win the tournament?
+
+## Aaron Ramsdale: Arsenal manager Mikel Arteta plays down replacing England keeper with David Raya
+ - [https://www.bbc.co.uk/sport/football/66840808?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/football/66840808?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T08:13:54+00:00
+
+Arsenal manager Mikel Arteta says replacing goalkeeper Aaron Ramsdale with David Raya is the same as swapping outfield players.
+
+## Cambridgeshire farmer shoots deer to feed his two African lions
+ - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-66791084?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-66791084?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T07:11:07+00:00
+
+Andy Johnson says culling deer is necessary to keep numbers down.
+
+## China sends top envoy Wang Yi to Russia for security talks
+ - [https://www.bbc.co.uk/news/world-asia-china-66840138?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-66840138?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T06:51:07+00:00
+
+Moscow is seeking continued support on the Ukraine war, including a suspected North Korea arms deal.
+
+## Rugby World Cup 2023: Seven standout moments from second weekend
+ - [https://www.bbc.co.uk/sport/rugby-union/66833391?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/66833391?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T06:49:23+00:00
+
+Following wins for England, Fiji and Ireland, BBC Sport looks at seven standout moments from the second weekend of the Rugby World Cup.
+
+## Cambridgeshire firefighters help Co-op grocery delivery robots
+ - [https://www.bbc.co.uk/news/uk-england-cambridgeshire-66841088?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-cambridgeshire-66841088?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T06:34:18+00:00
+
+The six-wheeled robots needed a lift to continue their journeys to pass the scene of a fire.
+
+## NFL week two review & results: Mahomes wins on birthday, Dallas & 49ers cruise, Burrow injury
+ - [https://www.bbc.co.uk/sport/american-football/66839770?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/american-football/66839770?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T06:12:48+00:00
+
+Patrick Mahomes wins on his birthday as the Kansas City Chiefs bounce back with a win while the Dallas Cowboys' defence dominated again and the Cincinnati Bengals slipped to 0-2.
+
+## Australian man fined for taking pet snake surfing
+ - [https://www.bbc.co.uk/news/world-australia-66816893?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-australia-66816893?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T06:10:40+00:00
+
+Wildlife officers say the man endangered Shiva the snake and breached his permit to keep her.
+
+## Buckingham Palace: Man charged with Royal Mews trespass
+ - [https://www.bbc.co.uk/news/uk-england-london-66840726?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-66840726?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T06:06:20+00:00
+
+A 25-year-old man was arrested in the early hours of Saturday near the Royal Mews, police say.
+
+## England 34-12 Japan: Truth hard to find in England's inkblot Test
+ - [https://www.bbc.co.uk/sport/rugby-union/66838897?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/sport/rugby-union/66838897?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T05:32:54+00:00
+
+The ball ricocheting off Joe Marler's head turned England's game against Japan, but reading much more into it is a tricky business.
+
+## Crystal Palace Park dinosaurs turned into interactive 3D models
+ - [https://www.bbc.co.uk/news/uk-england-london-66808224?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-66808224?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T05:22:39+00:00
+
+Historic England says the 3D scans will help future restoration work for the Victorian sculptures.
+
+## Norfolk parents hear son's heartbeat three years after his death
+ - [https://www.bbc.co.uk/news/uk-england-norfolk-66811826?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-norfolk-66811826?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T05:04:50+00:00
+
+Kitt Blake died three years ago at the age of 30 but four of his organs were used to help others.
+
+## Officials discussed raising Boris Johnson concerns to Queen
+ - [https://www.bbc.co.uk/news/uk-politics-66839314?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-66839314?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T04:58:01+00:00
+
+Government officials raised fears about the former PM's conduct in the pandemic to Buckingham Palace.
+
+## Bodycam footage shows train hit a police car with woman inside
+ - [https://www.bbc.co.uk/news/world-us-canada-66840307?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-66840307?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T04:30:25+00:00
+
+A Colorado woman was handcuffed and placed in police car that was then hit by a freight train.
+
+## Kylie triumphs at Radio 2 in the Park in Leicester
+ - [https://www.bbc.co.uk/news/entertainment-arts-66820728?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66820728?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T02:35:55+00:00
+
+The performance capped the end of quite a summer for the Australian star.
+
+## Officer who left woman in car hit by train avoids jail
+ - [https://www.bbc.co.uk/news/world-us-canada-66839899?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-66839899?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T02:35:06+00:00
+
+Jordan Steinke will serve 30 months on probation following the 2022 incident.
+
+## Two pubs a day disappearing in England and Wales
+ - [https://www.bbc.co.uk/news/uk-66839984?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66839984?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T01:47:25+00:00
+
+Some 383 pubs were demolished or converted for other uses between January and June, government figures show.
+
+## Liz Truss urges PM to cut taxes and benefit increases
+ - [https://www.bbc.co.uk/news/uk-politics-66836347?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-politics-66836347?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T00:31:54+00:00
+
+The ex-PM will also use a speech to defend polices she tried to enact during her short time in office.
+
+## Married At First Sight cast just saw me as Ella, says trans bride
+ - [https://www.bbc.co.uk/news/newsbeat-66818092?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/newsbeat-66818092?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T00:28:10+00:00
+
+Ella Morgan Clark will be the first trans woman to walk down the aisle on Married At First Sight.
+
+## Jill Dando: Murdered BBC presenter was 'just in wrong place at wrong time'
+ - [https://www.bbc.co.uk/news/entertainment-arts-66783495?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-66783495?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T00:27:17+00:00
+
+The late star's brother hopes a new docuseries, Who Killed Jill Dando?, will jog somebody's memory.
+
+## Bianca Williams search: Officers to appear at gross-misconduct hearing
+ - [https://www.bbc.co.uk/news/uk-england-london-66820978?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-england-london-66820978?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T00:14:13+00:00
+
+Five Met Police officers are due to appear at a hearing over the stop-and-search of Bianca Williams.
+
+## Covid: Over-65s called for jabs as hospital cases rise
+ - [https://www.bbc.co.uk/news/health-66818046?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-66818046?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T00:12:33+00:00
+
+The rollout has been brought forward as a precaution against a highly-mutated new Covid variant.
+
+## The Papers: More Brand reaction and Unite 'launches red wall push'
+ - [https://www.bbc.co.uk/news/blogs-the-papers-66839484?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/blogs-the-papers-66839484?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2023-09-18T00:01:36+00:00
+
+Monday's papers continue to focus on allegations made against comedian Russell Brand.
+
