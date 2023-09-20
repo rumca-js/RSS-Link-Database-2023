@@ -1,0 +1,34 @@
+# Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
+
+## ShroudedSnooper threat actors target telecom companies in the Middle East
+ - [https://securityaffairs.com/151055/apt/shroudedsnooper-targeting-telco-in-middle-east.html](https://securityaffairs.com/151055/apt/shroudedsnooper-targeting-telco-in-middle-east.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-19T21:24:21+00:00
+
+<p>ShroudedSnooper threat actors are targeting telecommunication service providers in the Middle East with a backdoor called HTTPSnoop. Cisco Talos researchers recently discovered a new stealthy implant dubbed HTTPSnoop that was employed in attacks against telecommunications providers in the Middle East. The HTTPSnoop backdoor supports novel techniques to interface with Windows HTTP kernel drivers and devices [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/151055/apt/shroudedsnooper-targeting-telco-in-middle-east.html" rel="nofollow">ShroudedSnooper threat actors target telecom companies in the Middle East</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## Recent cyber attack is causing Clorox products shortage
+ - [https://securityaffairs.com/151046/security/clorox-products-shortage.html](https://securityaffairs.com/151046/security/clorox-products-shortage.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-19T15:46:59+00:00
+
+<p>The cyber attack that hit the cleaning products manufacturer Clorox in August is still affecting the supply of the products to customers. The Clorox Company is a multinational consumer goods company that specializes in the production and marketing of various household and professional cleaning, health, and personal care products. The cleaning product giant announced in [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/151046/security/clorox-products-shortage.html" rel="nofollow">Recent cyber attack is causing Clorox products shortage</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## 12,000 Juniper SRX firewalls and EX switches vulnerable to CVE-2023-36845
+ - [https://securityaffairs.com/151037/hacking/12000-juniper-devices-cve-2023-36845.html](https://securityaffairs.com/151037/hacking/12000-juniper-devices-cve-2023-36845.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-19T11:53:19+00:00
+
+<p>Researchers discovered approximately 12,000 Juniper SRX firewalls and EX switches vulnerable to a recently disclosed CVE-2023-36845 RCE flaw. VulnCheck researchers discovered approximately 12,000 internet-exposed Juniper SRX firewalls and EX switches that are vulnerable to the recently disclosed remote code execution flaw CVE-2023-36845. In mid-August, Juniper addressed four medium-severity (CVSS 5.3) vulnerabilities (CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847) impacting [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/151037/hacking/12000-juniper-devices-cve-2023-36845.html" rel="nofollow">12,000 Juniper SRX firewalls and EX switches vulnerable to CVE-2023-36845</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## Earth Lusca expands its arsenal with SprySOCKS Linux malware
+ - [https://securityaffairs.com/151020/apt/sprysocks-backdoor-earth-lusca.html](https://securityaffairs.com/151020/apt/sprysocks-backdoor-earth-lusca.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-09-19T07:51:08+00:00
+
+<p>China-linked threat actor Earth Lusca used a new Linux malware dubbed SprySOCKS in a recent cyber espionage campaign. Researchers from Trend Micro, while monitoring the activity of the China-linked threat actor Earth Lusca, discovered an encrypted file hosted on a server under the control of the group. Additional analysis led to the discovery of a [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/151020/apt/sprysocks-backdoor-earth-lusca.html" rel="nofollow">Earth Lusca expands its arsenal with SprySOCKS Linux malware</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+

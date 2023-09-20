@@ -1,0 +1,114 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## This rugged hard case is perfect for lugging your costly camera and other tech around
+ - [https://www.zdnet.com/article/this-rugged-hard-case-is-perfect-for-lugging-your-costly-camera-and-other-tech-around/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-rugged-hard-case-is-perfect-for-lugging-your-costly-camera-and-other-tech-around/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T20:41:25+00:00
+
+If you travel with your camera or other expensive equipment, this inexpensive case might be just the thing to protect your investment.
+
+## Purism's new 11-inch Linux tablet runs a full desktop version of PureOS
+ - [https://www.zdnet.com/article/purisms-new-11-inch-linux-tablet-runs-a-full-desktop-version-of-pureos/#ftag=RSSbaffb68](https://www.zdnet.com/article/purisms-new-11-inch-linux-tablet-runs-a-full-desktop-version-of-pureos/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T20:12:47+00:00
+
+The Librem 11 slate's modest specs are more than enough to tackle your everyday tasks quite well.
+
+## Long-term support for Linux kernel to be cut as maintainence remains under strain
+ - [https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/#ftag=RSSbaffb68](https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T17:45:08+00:00
+
+The Open Source Summit provides an update on what's new in the Linux kernel​ and where it's going from here.
+
+## This iOS 17 Apple Music feature is the only reason I updated my iPhone
+ - [https://www.zdnet.com/article/this-ios-17-apple-music-feature-is-the-only-reason-i-updated-my-iphone/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-ios-17-apple-music-feature-is-the-only-reason-i-updated-my-iphone/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T17:42:00+00:00
+
+Spotify envy, be gone! Crossfade and Collaborative Playlists promise to recharge your Apple Music streaming experience. Here's how to use them.
+
+## Save on holiday travel with a lifetime subscription to Dollar Flight Club
+ - [https://www.zdnet.com/article/save-on-holiday-travel-with-a-lifetime-subscription-to-dollar-flight-club/#ftag=RSSbaffb68](https://www.zdnet.com/article/save-on-holiday-travel-with-a-lifetime-subscription-to-dollar-flight-club/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T16:00:26+00:00
+
+Worried about how you're going to afford those trips you want to take? Dollar Flight Club can help you find much cheaper flights.
+
+## Less typing, fewer mistakes: How Gmail Snippets can save you time and effort
+ - [https://www.zdnet.com/home-and-office/work-life/less-typing-fewer-mistakes-how-gmail-snippets-can-save-you-time-and-effort/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/less-typing-fewer-mistakes-how-gmail-snippets-can-save-you-time-and-effort/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T15:57:56+00:00
+
+If Gmail is your preferred email service, consider taking advantage of the free Snippets feature, which can cut down on the amount of typing you do on a daily basis.
+
+## This retro-style keyboard will make you love typing again (or maybe for the first time)
+ - [https://www.zdnet.com/article/this-retro-style-keyboard-will-make-you-love-typing-again-or-maybe-for-the-first-time/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-retro-style-keyboard-will-make-you-love-typing-again-or-maybe-for-the-first-time/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T15:49:00+00:00
+
+Keychron's Q6 Pro proves there's nothing quite like the click of a mechanical switch.
+
+## Microsoft adds two huge photo editing features to MS Paint
+ - [https://www.zdnet.com/article/microsoft-adds-two-huge-photo-editing-features-to-ms-paint/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-adds-two-huge-photo-editing-features-to-ms-paint/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T15:37:27+00:00
+
+The photo editor has remained largely unchanged for nearly 40 years, but a pair of new features brings it to the level of today's options.
+
+## Your Android phone can automatically archive apps you don't use - how to opt in
+ - [https://www.zdnet.com/article/your-android-phone-can-automatically-archive-apps-you-dont-use-how-to-opt-in/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-android-phone-can-automatically-archive-apps-you-dont-use-how-to-opt-in/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T15:24:00+00:00
+
+Google says its Auto Archive feature reduces app storage by about 60%.
+
+## WatchOS 10 changes how you find your iPhone with Apple Watch, and I don't like it
+ - [https://www.zdnet.com/article/watchos-10-changes-how-you-find-your-iphone-with-apple-watch-and-i-dont-like-it/#ftag=RSSbaffb68](https://www.zdnet.com/article/watchos-10-changes-how-you-find-your-iphone-with-apple-watch-and-i-dont-like-it/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T14:41:11+00:00
+
+The feature to ping your iPhone hasn't disappeared - it's just been moved.
+
+## Why Safari is no longer my browser of choice on MacOS - and what I use instead
+ - [https://www.zdnet.com/home-and-office/work-life/why-safari-is-no-longer-my-browser-of-choice-on-macos-and-what-i-use-instead/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/why-safari-is-no-longer-my-browser-of-choice-on-macos-and-what-i-use-instead/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T14:31:39+00:00
+
+Safari is a good browser, but there are certain behaviors that make it too frustrating to use as the default browser.
+
+## Google's new Bard extensions link Gmail, Docs, Maps, and more to its AI chatbot
+ - [https://www.zdnet.com/article/google-unveils-bard-extensions-to-integrate-ai-with-gmail-docs-maps-and-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-unveils-bard-extensions-to-integrate-ai-with-gmail-docs-maps-and-more/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T14:12:43+00:00
+
+Bard extensions enable you to ask questions about info in your various Google apps. Here's how to try them.
+
+## AI is a lot like streaming. The add-ons add up fast
+ - [https://www.zdnet.com/article/ai-is-a-lot-like-streaming-the-add-ons-add-up-fast/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-is-a-lot-like-streaming-the-add-ons-add-up-fast/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T13:28:51+00:00
+
+Hang on tight to your wallets, folks! The AI upsells are coming for your hard-earned cash.
+
+## Meet the new Arlo Essential video doorbell and security cameras
+ - [https://www.zdnet.com/home-and-office/smart-home/meet-the-new-arlo-video-doorbell-and-essential-security-cameras/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/meet-the-new-arlo-video-doorbell-and-essential-security-cameras/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T12:00:25+00:00
+
+The company just launched a second generation of its most affordable cameras, with the prices starting as low as $40.
+
+## Learn a new language with this limited-time deal on Babbel: $170 for life
+ - [https://www.zdnet.com/education/learn-a-new-language-with-this-limited-time-deal-on-babbel-170-for-life/#ftag=RSSbaffb68](https://www.zdnet.com/education/learn-a-new-language-with-this-limited-time-deal-on-babbel-170-for-life/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T11:00:25+00:00
+
+Score premium lessons on 14 languages during this sale.
+
+## You can access Google's latest AI experiments with Google Labs. Here's how
+ - [https://www.zdnet.com/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/#ftag=RSSbaffb68](https://www.zdnet.com/article/you-can-access-googles-latest-ai-experiments-with-google-labs-heres-how/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-09-19T07:33:00+00:00
+
+Google has generative AI experiments that can optimize your workflow and even compose messages.
+
