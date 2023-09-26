@@ -1,0 +1,198 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## A Dream Demon Targets a Reluctant Mother-to-Be in Unsettling Nightmare
+ - [https://gizmodo.com/nightmare-shudder-horror-movie-norwegian-dream-demon-1850871247](https://gizmodo.com/nightmare-shudder-horror-movie-norwegian-dream-demon-1850871247)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T22:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/78825f2b62b7d102d42d4131ccdfdbbd.png" /><p>Nightmare has an unfortunately generic title, but it’s the word in its most literal usage, referring to the “Mare”—a creature from <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/iceland-christmas-folklore-gryla-jolakotturinnyule-cat-1849925216">folklore</a> thought to torment sleepers. In <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-innocents-norwegian-superpowered-kids-horror-movie-1848908241">Norwegian</a> writer-director Kjersti Helen Raasmussen’s new film, coming to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/10-horror-movies-on-shudder-new-releases-cult-classics-1850608576">Shudder</a> this week, it takes the form of a particularly nasty dream demon.<br /></p><p><a href="https://gizmodo.com/nightmare
+
+## A Handheld History Celebrates the Time We Spent With Screens
+ - [https://gizmodo.com/a-handheld-history-essay-excerpt-game-boy-color-1850771202](https://gizmodo.com/a-handheld-history-essay-excerpt-game-boy-color-1850771202)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/355afde87e41d81f3d5b27a678ad1a29.png" /><p>Lost in Cult and Retro Dodo have collaborated to assemble dozens of essays on the art of the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/ayn-odin-2-handheld-price-299-steam-deck-1850740146">handheld device</a>. From the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/playdate-price-increase-catalog-game-store-179-200-1850199418">hardware</a> to the games themselves, A Handheld History: A Celebration of Portable Gaming is a gorgeous introspection into the decades of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/super-pocket-is-the-perfect-59-retro-handheld-for-game-1850632648">gaming</a> that many of us remember from long rides on trains,…</p><p><a href="https://gizmodo.com/a-handheld-history-essay-excerpt-game-
+
+## MasterClass Reportedly Spent $100,000 on a Replica of Bob Iger’s Office
+ - [https://gizmodo.com/masterclass-faces-tough-times-as-pandemic-boom-ends-1850871575](https://gizmodo.com/masterclass-faces-tough-times-as-pandemic-boom-ends-1850871575)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T21:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/b9d3e71057da4bb851343241041e36c0.jpg" /><p>Masterclass is becoming a shell of its former self as subscriptions dropped following spending thousands of dollars on A-list celebrities teaching the courses, including Disney CEO Bob Iger. The company even paid a reported $100,000 to recreate Iger’s office space with the total cost to hire Iger, build the set, and…</p><p><a href="https://gizmodo.com/masterclass-faces-tough-times-as-pandemic-boom-ends-1850871575">Read more...</a></p>
+
+## India Continues Efforts to Rouse Its Sleeping Lunar Lander
+ - [https://gizmodo.com/india-rouse-sleeping-lunar-lander-chandrayaan-3-isro-1850871583](https://gizmodo.com/india-rouse-sleeping-lunar-lander-chandrayaan-3-isro-1850871583)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T20:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/ac91c1c462eda5c1752ea79f0de6c4be.jpg" /><p>India’s Chandrayaan-3 lander and rover have been asleep on the surface of the Moon while efforts to revive the pair continue until the end of the lunar day.</p><p><a href="https://gizmodo.com/india-rouse-sleeping-lunar-lander-chandrayaan-3-isro-1850871583">Read more...</a></p>
+
+## Viruses Found in Zoo Poo Might Help Fight Off Bacterial Superbugs, Scientists Say
+ - [https://gizmodo.com/viruses-in-poop-could-fight-bacterial-superbugs-1850871571](https://gizmodo.com/viruses-in-poop-could-fight-bacterial-superbugs-1850871571)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/2864f0ce9031b7cefb7f519e821b7105.jpg" /><p>One animal’s poo might be another person’s treasure. Scientists in the UK say they’ve discovered viruses that could be turned into a weapon against bacterial superbugs in a perhaps unexpected place: the feces of several endangered species at a nearby zoo. The team believes these viruses could be especially effective…</p><p><a href="https://gizmodo.com/viruses-in-poop-could-fight-bacterial-superbugs-1850871571">Read more...</a></p>
+
+## How The Creator Became Gareth Edwards' Love Letter to Sci-Fi Movies
+ - [https://gizmodo.com/gareth-edwards-the-creator-rogue-one-secrecy-disney-fox-1850861168](https://gizmodo.com/gareth-edwards-the-creator-rogue-one-secrecy-disney-fox-1850861168)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T20:35:53+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/5ddf33b5ebf43a5c4100b0422995775d.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/rogue-one-truly-understands-how-to-be-a-great-star-wars-1790002570">Gareth Edwards</a>’ new film, The Creator, is <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-creator-final-trailer-rogue-one-gareth-edwards-ai-1850834161">filled with nods and winks</a> to all of your favorite sci-fi movies: Star Wars, 2001, Aliens, Blade Runner, Akira, Ghost in the Shell, you name it. Some filmmakers might be coy about that fact, but Edwards is 100% unapologetic about it. </p><p><a href="https://gizmodo.com/gareth-edwards-the-creator-rogue-one-secrecy-disney-fox-1850861168">Read more...</a></p>
+
+## Nicolas Cage Haunts Our Sleep in the Smart Sci-Fi Film Dream Scenario
+ - [https://gizmodo.com/dream-scenario-review-nicolas-cage-freddy-krueger-film-1850869613](https://gizmodo.com/dream-scenario-review-nicolas-cage-freddy-krueger-film-1850869613)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T19:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/0a34575442f0c787c33d65d6853cf2c8.jpg" /><p>Dream Scenario, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dream-scenario-trailer-nic-cage-a24-horror-comedy-film-1850852099">the new film from writer/director Kristoffer Borgli</a>, starts with a terrible yet tantalizing premise: what if millions of people all over the world <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/nightmares-sound-therapy-image-rehearsal-study-1849708857">started dreaming about</a> one person? And not some famous celebrity. Just some normal professor at a small college. Why is this happening? How is it happening?…</p><p><a href="https://gizmodo.com/dream-scenario-review-nicolas-cage-freddy-krueger-film-1850869613">Read more...</a></p>
+
+## Coca-Cola's New AI-Generated Soda Flavor Falls Flat
+ - [https://gizmodo.com/review-ai-coca-cola-y3000-taste-taste-1850870924](https://gizmodo.com/review-ai-coca-cola-y3000-taste-taste-1850870924)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T19:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/187359fae57fd48d6bcb5d2e8d4a734c.jpg" /><p>As if the hype around AI couldn’t get any more exasperating, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://qz.com/coke-launch-coca-cola-y3000-ai-drink-1850838456" rel="noopener noreferrer" target="_blank">Coca-Cola had to hop on the bandwagon</a>. The massive beverage company has tapped an artificial intelligence to serve as its advisor in developing a new flavor of its titular soft drink. Naturally, Gizmodo had to get to the bottom of it (the soda bottle) and…</p><p><a href="https://gizmodo.com/review-ai-coca-cola-y3000-taste-taste-1850870924">Read more...</a></p>
+
+## Tom Blythe Became Coriolanus Snow After Hearing Rachel Zegler Sing
+ - [https://gizmodo.com/hunger-games-tom-blythe-rachel-zegler-director-intervie-1850871092](https://gizmodo.com/hunger-games-tom-blythe-rachel-zegler-director-intervie-1850871092)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/9dba64fd7c7f76dce2f77948517b99ae.jpg" /><p>Francis Lawrence, who directed three of the four original Hunger Games films, is back in the director’s chair for the prequel, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/ballad-of-songbirds-and-snakes-trailer-hunger-games-1850856362">The Ballad of Songbirds and Snakes</a>. He sat down with <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://ew.com/movies/hunger-games-prequel-ballad-songbirds-and-snakes-director-interview-cover-story/" rel="noopener noreferrer" target="_blank">Entertainment Weekly</a> to give an overview of what to expect from the latest franchise installment, and explained the appeal of watching a…</p><p><a href="https://gizmodo.com/hunger-games-tom-blythe-rachel-zegler-director-intervie-1850871092">Read more...</a></p>
+
+## Scientists Might Have Found a New Genetic Trigger for Parkinson's Disease
+ - [https://gizmodo.com/study-genetic-trigger-parkinsons-disease-african-1850871175](https://gizmodo.com/study-genetic-trigger-parkinsons-disease-african-1850871175)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T18:40:59+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/e67716eb998d97e553501f9bd6a81601.jpg" /><p>A team of scientists appears to have unearthed a previously unknown genetic trigger for Parkinson’s disease—one much more commonly seen in people with recent African ancestry. They found that those who were born with one or two copies of this associated variant were noticeably more likely to develop Parkinson’s. The…</p><p><a href="https://gizmodo.com/study-genetic-trigger-parkinsons-disease-african-1850871175">Read more...</a></p>
+
+## Is Making Ms. Marvel a Mutant a Boost or a Step Backward?
+ - [https://gizmodo.com/ms-marvel-comics-mutant-x-men-disney-iman-vellani-1850870396](https://gizmodo.com/ms-marvel-comics-mutant-x-men-disney-iman-vellani-1850870396)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/a45f59e07f1e4655cddfb08324269af8.jpg" /><p>The last few months have been quite a time for Kamala Khan and her legions of fans. From her (initially leaked to widespread scorn) fridging and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/amazing-spider-man-26-spoilers-ms-marvel-death-mcu-1850491227">death in Amazing Spider-Man #26</a>, to her resurrection and the not-so-shocking-yet-still-befuddling reveal that she is in fact a Mutant as well as an Inhuman, to the…</p><p><a href="https://gizmodo.com/ms-marvel-comics-mutant-x-men-disney-iman-vellani-1850870396">Read more...</a></p>
+
+## After Delivery to Earth, What's Next for NASA's Asteroid Sample?
+ - [https://gizmodo.com/after-delivery-to-earth-whats-next-for-nasas-asteroid-1850870118](https://gizmodo.com/after-delivery-to-earth-whats-next-for-nasas-asteroid-1850870118)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T17:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/fc42fb5fe81db1785e090948a4b7f569.jpg" /><p> <br /></p><p><a href="https://gizmodo.com/after-delivery-to-earth-whats-next-for-nasas-asteroid-1850870118">Read more...</a></p>
+
+## Remote Workers: Here Are the 10 Most Affordable U.S. Cities for Renters
+ - [https://gizmodo.com/10-most-affordable-u-s-cities-for-rent-1850870227](https://gizmodo.com/10-most-affordable-u-s-cities-for-rent-1850870227)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T17:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/befd4883512aff660956c49fc9c484bf.jpg" /><p>U.S. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/amazon-climate-change-remote-work-return-to-office-1850492479">employees are fighting against return-to-office policies</a>, with the majority of workers saying they are willing to switch jobs if it means they won’t have to commute. According to a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.bankrate.com/real-estate/remote-jobs-and-home-prices/#key-statistics" rel="noopener noreferrer" target="_blank">survey</a> by Bankrate last month, an overwhelming 89% of workers say they want to exchange working in the office for a fully remote or…</p><p><a href="https://gizmodo.com/10-most-affordable-u-s-cities-for-rent-1850870227">Read more...</a></p>
+
+## The Last of Us Celebrates Its 10th Outbreak Day With New Artwork
+ - [https://gizmodo.com/the-last-of-us-outbreak-day-10th-anniversary-artwork-1850870096](https://gizmodo.com/the-last-of-us-outbreak-day-10th-anniversary-artwork-1850870096)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/62c49d808608c2c9d1026b74833d7fce.jpg" /><p>Despite not having a game out this year, 2023 is an important year for Naughty Dog. HBO’s TV adaptation of its hit zombie horror franchise <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/last-of-us-hbo-review-playstation-pedro-pascal-joel-ell-1849950042">The Last of Us</a> premiered and landed with such resounding success that it was clear <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/last-of-us-season-2-strikes-preparation-hbo-1850799329">a second season</a> was coming before the official green light was given. And if that weren’t…</p><p><a href="https://gizmodo.com/the-last-of-us-outbreak-day-10th-anniversary-artwork-1850870096">Read more...</a></p>
+
+## River Is Japanese Groundhog Day, But Everyone Is Bill Murray
+ - [https://gizmodo.com/river-movie-review-timeloop-groundhog-day-europe-kikaku-1850869269](https://gizmodo.com/river-movie-review-timeloop-groundhog-day-europe-kikaku-1850869269)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/7c071ec2df97c52a3128fc3faaf27501.jpg" /><p>It’s been 12 hours since I watched River. I’ve <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/infested-vermin-2023-review-spiders-shudder-horror-film-1850868527">seen three movies in the meantime</a>, all of which I loved, and yet I still can’t stop thinking of River. It’s that good, that funny, that smart, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/6-times-tv-took-time-loops-to-a-whole-new-level-1842586179">that just plain awesome</a>. It’s a flat-out <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/palm-springs-is-an-excellent-time-loop-romance-fueled-b-1844282471">phenomenal sci-fi comedy</a> that everyone should see. </p><p><a href="https://gizmodo.com/river-movie-review-timeloop-groundhog-day-europe-kikaku-
+
+## Practically Everything About the Pixel 8 and Pixel Watch 2 Has Been Leaked
+ - [https://gizmodo.com/everything-google-pixel-8-and-pixel-watch-2-has-leaked-1850870597](https://gizmodo.com/everything-google-pixel-8-and-pixel-watch-2-has-leaked-1850870597)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/a0bad06b06f47a976f84e1a46c68d122.png" /><p>Little more than a week before Google is <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-pixel-8-pixel-watch-2-release-date-event-1850797331">set to unveil the Google Pixel 8 and Pixel Watch 2</a> at its <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-pixel-8-made-by-google-event-release-october-4-1850788181">“Made By Google” event</a>, practically everything we could possibly want to learn about the devices’ specs and launch promos is out well before the announcement date. This includes an eye-popping phone and watch combo deal,…</p><p><a href="https://gizmodo.com/everything-google-pixel-8-and-pixel-watch-2-has-leaked-1850870597">Read more...</a></p>
+
+## Tinder Thinks Some of You Are Horny Enough to Pay $500 Every Month
+ - [https://gizmodo.com/tinder-selects-launch-500-dollar-subscription-1850870291](https://gizmodo.com/tinder-selects-launch-500-dollar-subscription-1850870291)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/2dea07bb930af73f37e3864d94be25d2.jpg" /><p>Having trouble finding the love of your life on Tinder? Don’t dig deep and work on yourself, just fork over  $500 every month to the platform to find your soul mate. </p><p><a href="https://gizmodo.com/tinder-selects-launch-500-dollar-subscription-1850870291">Read more...</a></p>
+
+## All the Ways Rupert Murdoch Left His Grubby Fingerprints on Tech
+ - [https://gizmodo.com/all-the-ways-rupert-murdoch-influenced-tech-1850866061](https://gizmodo.com/all-the-ways-rupert-murdoch-influenced-tech-1850866061)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T16:20:18+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/7ba5c4df9ded230dd66f4b7899a64612.jpg" /><p>The big, wrinkly brain at the head of the massive conservative News Corp media conglomerate, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fox-news-founder-rupert-murdoch-is-retiring-1850861023">Rupert Murdoch, announced he’s finally stepping down</a> Thursday. The 92-year-old multi-billionaire—who brought us Fox News as the centerpiece for a massive news and entertainment media empire—is finally slinking away to live the…</p><p><a href="https://gizmodo.com/all-the-ways-rupert-murdoch-influenced-tech-1850866061">Read more...</a></p>
+
+## A Bender-Style Sassy Chatbot and Other Goofy AI Personas May Come to Facebook and Instagram
+ - [https://gizmodo.com/facebook-instagram-ai-sassy-bender-chatbot-personas-1850870273](https://gizmodo.com/facebook-instagram-ai-sassy-bender-chatbot-personas-1850870273)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T16:09:45+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/091692bc99dc3cd46e42d802133fd6fd.jpg" /><p>Meta is preparing to unleash a small army of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/chat-gpt-openai-ai-finance-ai-everything-we-know-1850018307">talkative AI chatbots</a> onto Facebook and Instagram in a bid to attract younger users, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.wsj.com/tech/ai/meta-ai-chatbot-younger-users-dab6cb32" rel="noopener noreferrer" target="_blank">according to</a> a new report in the Wall Street Journal. The chatbots will reportedly embody various “personas,” ranging from sassy shit-talkers to extraterrestrial aliens. But back-talking…</p><p><a href="https://gizmodo.com/facebook-instagram-ai-sassy-bender-chatbot-personas-1850870273">Read more...</a></p>
+
+## Rick and Morty's Soundalike Voices Debut in New Season 7 Trailer
+ - [https://gizmodo.com/rick-and-morty-season-7-first-trailer-adult-swim-cast-1850861794](https://gizmodo.com/rick-and-morty-season-7-first-trailer-adult-swim-cast-1850861794)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T16:04:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/8251bfed34ca9fb6a538d98d203f99c5.jpg" /><p>But who’s doing the voices? We still don’t know! </p><p><a href="https://gizmodo.com/rick-and-morty-season-7-first-trailer-adult-swim-cast-1850861794">Read more...</a></p>
+
+## Loki Season One Heads to DVD, With a Few Extras Inside
+ - [https://gizmodo.com/loki-time-variance-authority-tva-bts-marvel-hiddleston-1850870020](https://gizmodo.com/loki-time-variance-authority-tva-bts-marvel-hiddleston-1850870020)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/ba501af5527b442f946ff3dd846b01fd.png" /><p>Join <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/loki-season-2-premiere-date-thursday-marvel-disney-plus-1850848811">Loki</a> production designer, Kasra Farahani, as he shows off the kind of esoteric background details in the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/loki-season-2-footage-disney-plus-marvel-tom-hiddleston-1850802356">Time Variance Authority</a>. Going through the Monitoring Hub—where the TVA keeps track of the sacred timeline, defending it against all threats—Farahani gives an in-depth tour of what went on behind the scenes of…</p><p><a href="https://gizmodo.com/loki-time-variance-authority-tva-bts-marvel-hiddleston-1850870020">Read more...</a></p>
+
+## Amazon Invests Up to $4 Billion in OpenAI Competitor Anthropic
+ - [https://gizmodo.com/amazon-invests-4-billion-dollars-in-anthropic-ai-1850870060](https://gizmodo.com/amazon-invests-4-billion-dollars-in-anthropic-ai-1850870060)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T14:31:06+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/16ca71ba4c1d8efd43485ef67f5bf6ce.jpg" /><p> In its latest bid to adopt artificial intelligence technology, Amazon <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://amazon2022tf.q4web.com/news/news-details/2023/Amazon-and-Anthropic-Announce-Strategic-Collaboration-to-Advance-Generative-AI/default.aspx" rel="noopener noreferrer" target="_blank">announced</a> on Monday that it is investing a bundle in OpenAI competitor Anthropic. The investment will reach up to $4 billion, making Amazon Web Services (AWS) the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.anthropic.com/index/anthropic-amazon" rel="noopener noreferrer" target="_blank">primary</a> cloud provider for Anthropic.</p><p><a href="https://gizmodo.com/amazon-invests-4-billion-dollars-in-anthropic-ai-1850870060">Read more...</a></p>
+
+## ChatGPT Is Growing Eyes and Ears to Better Respond to Your Human Whims
+ - [https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977](https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T13:49:11+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/9a67c4ba6c27a4e503c8bb8c35755246.jpg" /><p>On Monday, ChatGPT-maker OpenAI <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" rel="noopener noreferrer" target="_blank">announced</a> it was starting to roll out voice and image recognition in ChatGPT. Essentially, the AI can recognize a picture for what it is, and communicate with users about it. Plus, the AI now has speech-to-text and text-to-speech synthesization capabilities. All the new features are…</p><p><a href="https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977">Read more...</a></p>
+
+## Lego Says It Won't Use Recycled Plastic for Bricks Because It Doesn't Really Help the Planet
+ - [https://gizmodo.com/lego-backtracks-on-plan-to-use-recycled-bottle-bricks-1850869833](https://gizmodo.com/lego-backtracks-on-plan-to-use-recycled-bottle-bricks-1850869833)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T13:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/05e876abf0313ee42c80eb1d7f3bf8a8.jpg" /><p>After previously announcing that it would be <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/why-it-s-taking-so-long-for-lego-to-make-bricks-from-re-1847156720">pivoting to recycled plastic bottles to make bricks</a>, Lego is now walking back on that promise. The toy manufacturer has given up on its plan to use recycled bottles, claiming that the plastic wasn’t sustainable enough. </p><p><a href="https://gizmodo.com/lego-backtracks-on-plan-to-use-recycled-bottle-bricks-1850869833">Read more...</a></p>
+
+## Doom Patrol Faces Down a New Villain in October
+ - [https://gizmodo.com/doom-patrol-wga-writers-strike-morning-spoilers-1850868932](https://gizmodo.com/doom-patrol-wga-writers-strike-morning-spoilers-1850868932)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T13:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/7dacdcf8eb8dedf8012be11826a3e488.png" /><p>Yesterday, after nearly 4 straight days of intense bargaining, the WGA has approved a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/wga-amptp-strike-over-writers-deal-sag-aftra-1850860915">tentative contract</a>, ending the pickets and tentatively signaling an end to the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/marvel-vfx-studio-unionize-historic-unanimous-vote-yes-1850834298">Writer’s Strike</a> that has lasted <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/warner-bros-files-earnings-loss-sec-strike-wga-sag-aftr-1850804811">146 days</a>. It’s been an incredible summer for labor action, as <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/dnd-themed-picket-wga-sag-amptp-br
+
+## Getty Changes Tune on AI, Reveals Art Generator Trained on Its Own Images
+ - [https://gizmodo.com/getty-new-art-generator-trained-on-contributors-1850866540](https://gizmodo.com/getty-new-art-generator-trained-on-contributors-1850866540)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T13:00:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/a50d233cb86ef445c31ace331fef9ccc.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/a50d233cb86ef445c31ace331fef9ccc.mp4" type="video/mp4" /></video><p>After grinding its teeth about AI for over a year, one of the biggest stock image sites around, Getty Images, will let subscribers start creating their own AI images through its site. The company promises users won’t have to worry about all those sticky copyright issues since its AI is only trained on Getty’s own…</p><p><a href="https://gizmodo.com/getty-new-art-generator-trained-on-contributors-1850866540">Read more...</a></p>
+
+## Facebook and Instagram's Canadian News Blackout Is Crushing Student Journalists
+ - [https://gizmodo.com/facebook-instagram-canada-news-student-journalist-meta-1850835646](https://gizmodo.com/facebook-instagram-canada-news-student-journalist-meta-1850835646)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T10:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/0abff7975f93f283291d5c38ee23807a.png" /><p>In early August, college radio stations and student newspapers across Canada started noticing something odd. Station managers and editors saw big dips in visits to their websites, particularly by way of Facebook and Instagram. Rowan Grice, a 28-year-old station manager at the University of Victoria’s CFUV station,…</p><p><a href="https://gizmodo.com/facebook-instagram-canada-news-student-journalist-meta-1850835646">Read more...</a></p>
+
+## With a Fair Deal in Hand, the Writers Strike Might Be Over
+ - [https://gizmodo.com/wga-amptp-strike-over-writers-deal-sag-aftra-1850860915](https://gizmodo.com/wga-amptp-strike-over-writers-deal-sag-aftra-1850860915)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-25T02:19:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/9955e3300d6816238374ef7e06f4be93.jpg" /><p>After <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/wga-strikes-update-studio-execs-1850820823">tenuous negotiations</a>, the WGA appear to have finally reached a fair deal with the AMPTP after nearly 140 days on strike, according to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.hollywoodreporter.com/business/business-news/writers-guild-deal-reached-studios-end-of-strike-1235403981/" rel="noopener noreferrer" target="_blank">the Hollywood Reporter</a>. The strike began on May 2, 2023 after the WGA and the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/warner-bros-files-earnings-loss-sec-strike-wga-sag-aftr-1850804811">AMPTP failed</a> to come to a consensus for terms on writers’ contracts. Many of the issues centered…</
+
