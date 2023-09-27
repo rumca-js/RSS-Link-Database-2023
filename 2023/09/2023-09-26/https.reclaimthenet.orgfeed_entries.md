@@ -1,0 +1,50 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## YouTube CEO: “My Number One Responsibility Is Keeping Our Ecosystem Of Creators, Viewers…Partners, Safe”
+ - [https://reclaimthenet.org/youtube-ceo-number-one-responsibility-safe](https://reclaimthenet.org/youtube-ceo-number-one-responsibility-safe)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-26T18:35:02+00:00
+
+<a href="https://reclaimthenet.org/youtube-ceo-number-one-responsibility-safe" rel="nofollow" title="YouTube CEO: &#8220;My Number One Responsibility Is Keeping Our Ecosystem Of Creators, Viewers&#8230;Partners, Safe&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/youtube-ceo-number-one-responsibility-safe.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>"Safety" ahead of free speech.</p>
+<p>The post <a href="https://reclaimthenet.org/youtube-ceo-number-one-responsibility-safe" rel="nofollow">YouTube CEO: &#8220;My Number One Responsibility Is Keeping Our Ecosystem Of Creators, Viewers&#8230;Partners, Safe&#8221;</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## FTC Files Antitrust Lawsuit Against Amazon
+ - [https://reclaimthenet.org/ftc-files-antitrust-lawsuit-against-amazon](https://reclaimthenet.org/ftc-files-antitrust-lawsuit-against-amazon)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-26T16:48:50+00:00
+
+<a href="https://reclaimthenet.org/ftc-files-antitrust-lawsuit-against-amazon" rel="nofollow" title="FTC Files Antitrust Lawsuit Against Amazon"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/amz-444.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>If you're tired of censorship and dystopian threats against civil liberties, subscribe to Reclaim The Net. Amazon, the e-commerce and web services titan, is under legal scrutiny again as the Federal Trade Commission (FTC) unleashes an antitrust lawsuit upon it. The suit, a clear warning shot fired from the FTC, places Amazon in the crosshairs; [&#8230;]</p>
+<p>The post <a href="https://reclaimthenet.org/ftc-files-antitrust-lawsuit-against-amazon" rel="nofollow">FTC Files Antitrust Lawsuit Against Amazon</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Brazil’s UN Representative: “Dissemination of False Information Regarding Health Matters Constitutes…a Possible Criminal Offense”
+ - [https://reclaimthenet.org/brazils-un-representative-false-information-criminal-offense](https://reclaimthenet.org/brazils-un-representative-false-information-criminal-offense)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-26T15:16:06+00:00
+
+<a href="https://reclaimthenet.org/brazils-un-representative-false-information-criminal-offense" rel="nofollow" title="Brazil&#8217;s UN Representative: &#8220;Dissemination of False Information Regarding Health Matters Constitutes&#8230;a Possible Criminal Offense&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/who-brazil.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>If you're tired of censorship and dystopian threats against civil liberties, subscribe to Reclaim The Net. There was a time when Brazil was considered to have had some of the finest diplomats serving their country and the UN as representatives of the world organization, around the world. Their mission was to mediate in real crises [&#8230;]</p>
+<p>The post <a href="https://reclaimthenet.org/brazils-un-representative-false-information-criminal-offense" rel="nofollow">Brazil&#8217;s UN Representa
+
+## The Number of People Arrested After Facial Recognition Errors Is Growing
+ - [https://reclaimthenet.org/the-number-of-people-arrested-after-facial-recognition-errors-is-growing](https://reclaimthenet.org/the-number-of-people-arrested-after-facial-recognition-errors-is-growing)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-26T14:59:58+00:00
+
+<a href="https://reclaimthenet.org/the-number-of-people-arrested-after-facial-recognition-errors-is-growing" rel="nofollow" title="The Number of People Arrested After Facial Recognition Errors Is Growing"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/f-rec-3.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>If you're tired of censorship and dystopian threats against civil liberties, subscribe to Reclaim The Net. A renewed scrutiny over the deployment of facial recognition technology by law enforcement arises as an innocent man, misidentified and subsequently incarcerated because of it, has brought forth a lawsuit. This event underscores the ever-evolving tensions between advancing technology [&#8230;]</p>
+<p>The post <a href="https://reclaimthenet.org/the-number-of-people-arrested-after-facial-recognition-errors-is-growing" rel="nofollow">The Number of People Arrested
+
+## WHO Treaty Negotiators Call For Governments and Big Tech To Tackle “Infodemics,” and “Misinformation”
+ - [https://reclaimthenet.org/who-treaty-governments-big-tech-infodemics](https://reclaimthenet.org/who-treaty-governments-big-tech-infodemics)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-26T14:49:37+00:00
+
+<a href="https://reclaimthenet.org/who-treaty-governments-big-tech-infodemics" rel="nofollow" title="WHO Treaty Negotiators Call For Governments and Big Tech To Tackle &#8220;Infodemics,&#8221; and &#8220;Misinformation&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/who-infod.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>If you're tired of censorship and dystopian threats against civil liberties, subscribe to Reclaim The Net. The idea of a pandemic was just recently seared into everybody&#8217;s minds (rightly so, given the level of disruption caused by the reaction to Covid at personal/business/national level) &#8211; and now, building on that state of fear &#8211; we [&#8230;]</p>
+<p>The post <a href="https://reclaimthenet.org/who-treaty-governments-big-tech-infodemics" rel="nofollow">WHO Treaty Negotiators Call For Governments and Big Tech To Tackle &#82
+
+## Trudeau Deflects After Honoring Nazi in Parliament, Warns of Russian Disinformation
+ - [https://reclaimthenet.org/trudeau-deflects-after-honoring-nazi-disinformation](https://reclaimthenet.org/trudeau-deflects-after-honoring-nazi-disinformation)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-09-26T14:10:45+00:00
+
+<a href="https://reclaimthenet.org/trudeau-deflects-after-honoring-nazi-disinformation" rel="nofollow" title="Trudeau Deflects After Honoring Nazi in Parliament, Warns of Russian Disinformation"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/09/trudeau-blames-disinformation.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>If you're tired of censorship and dystopian threats against civil liberties, subscribe to Reclaim The Net. In the wake of a political maelstrom sparked by his congratulatory applause for a World War II veteran who had served the Nazis, Canadian Prime Minister, Justin Trudeau, did what many modern day politicians do &#8211; deflect and tell [&#8230;]</p>
+<p>The post <a href="https://reclaimthenet.org/trudeau-deflects-after-honoring-nazi-disinformation" rel="nofollow">Trudeau Deflects After Honoring Nazi in Parliament, Warns of Russian Disinformation</a> 
+
