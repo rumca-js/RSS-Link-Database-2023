@@ -1,0 +1,58 @@
+# Source:BleepingComputer, URL:https://www.bleepingcomputer.com/feed/, language:en-US
+
+## Progress warns of maximum severity WS_FTP Server vulnerability
+ - [https://www.bleepingcomputer.com/news/security/progress-warns-of-maximum-severity-ws-ftp-server-vulnerability/](https://www.bleepingcomputer.com/news/security/progress-warns-of-maximum-severity-ws-ftp-server-vulnerability/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T22:02:11+00:00
+
+Progress, the maker of the MOVEit Transfer file-sharing platform recently exploited in widespread data theft attacks, warned customers to patch a maximum severity vulnerability in its WS_FTP Server software. [...]
+
+## Microsoft breach led to theft of 60,000 US State Dept emails
+ - [https://www.bleepingcomputer.com/news/security/microsoft-breach-led-to-theft-of-60-000-us-state-dept-emails/](https://www.bleepingcomputer.com/news/security/microsoft-breach-led-to-theft-of-60-000-us-state-dept-emails/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T20:45:19+00:00
+
+Chinese hackers stole tens of thousands of emails from U.S. State Department accounts after breaching Microsoft's cloud-based Exchange email platform in May. [...]
+
+## Bing Chat responses infiltrated by ads pushing malware
+ - [https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T18:35:06+00:00
+
+Malicious advertisements are now being injected into Microsoft's AI-powered Bing Chat responses, promoting fake download sites that distribute malware. [...]
+
+## FBI: Dual ransomware attack victims now get hit within 48 hours
+ - [https://www.bleepingcomputer.com/news/security/fbi-dual-ransomware-attack-victims-now-get-hit-within-48-hours/](https://www.bleepingcomputer.com/news/security/fbi-dual-ransomware-attack-victims-now-get-hit-within-48-hours/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T18:14:42+00:00
+
+The FBI has warned about a new trend in ransomware attacks where multiple strains are deployed on victims' networks to encrypt systems in under two days. [...]
+
+## Cisco urges admins to fix IOS software zero-day exploited in attacks
+ - [https://www.bleepingcomputer.com/news/security/cisco-urges-admins-to-fix-ios-software-zero-day-exploited-in-attacks/](https://www.bleepingcomputer.com/news/security/cisco-urges-admins-to-fix-ios-software-zero-day-exploited-in-attacks/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T15:34:10+00:00
+
+Cisco warned customers on Wednesday to patch a zero-day IOS and IOS XE software vulnerability targeted by attackers in the wild. [...]
+
+## Cisco Catalyst SD-WAN Manager flaw allows remote server access
+ - [https://www.bleepingcomputer.com/news/security/cisco-catalyst-sd-wan-manager-flaw-allows-remote-server-access/](https://www.bleepingcomputer.com/news/security/cisco-catalyst-sd-wan-manager-flaw-allows-remote-server-access/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T15:15:23+00:00
+
+Cisco is warning of five new Catalyst SD-WAN Manager products vulnerabilities with the most critical allowing unauthenticated remote access to the server. [...]
+
+## Security researcher stopped at US border for investigating crypto scam
+ - [https://www.bleepingcomputer.com/news/security/security-researcher-stopped-at-us-border-for-investigating-crypto-scam/](https://www.bleepingcomputer.com/news/security/security-researcher-stopped-at-us-border-for-investigating-crypto-scam/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T14:52:59+00:00
+
+Security researcher Sam Curry describes a stressful situation he encountered upon his return to the U.S. when border officials and federal agents seized and searched his electronic devices. Curry was further served with a 'Grand Jury' subpoena that demanded him to appear in court for testimony. [...]
+
+## Budworm hackers target telcos and govt orgs with custom malware
+ - [https://www.bleepingcomputer.com/news/security/budworm-hackers-target-telcos-and-govt-orgs-with-custom-malware/](https://www.bleepingcomputer.com/news/security/budworm-hackers-target-telcos-and-govt-orgs-with-custom-malware/)
+ - RSS feed: https://www.bleepingcomputer.com/feed/
+ - date published: 2023-09-28T13:52:38+00:00
+
+A Chinese cyber-espionage hacking group tracked as Budworm has been observed targeting a telecommunication firm in the Middle East and a government entity in Asia using a new variant of its custom 'SysUpdate' backdoor. [...]
+

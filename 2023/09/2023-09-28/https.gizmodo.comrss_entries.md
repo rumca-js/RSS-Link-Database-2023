@@ -1,0 +1,247 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Disneyland Movie From David Gordon Green Is on Hold for Now
+ - [https://gizmodo.com/disneyland-movie-from-david-gordon-green-is-on-hold-1850884949](https://gizmodo.com/disneyland-movie-from-david-gordon-green-is-on-hold-1850884949)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T23:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/724f931f5ef3e1ea59bc642cb16fa60d.png" /><p>Filmmaker David Gordon Green’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/disney-parks-halloween-holiday-guides-frozen-land-china-1850832438">Disneyland</a> biopic centering on Walt Disney and his brother Roy O. Disney is currently being held up... for now.</p><p><a href="https://gizmodo.com/disneyland-movie-from-david-gordon-green-is-on-hold-1850884949">Read more...</a></p>
+
+## Argylle, the New Spy Film By Matthew Vaughn, Looks Purr-fect
+ - [https://gizmodo.com/argylle-movie-trailer-henry-cavill-dua-lipa-john-cena-1850884779](https://gizmodo.com/argylle-movie-trailer-henry-cavill-dua-lipa-john-cena-1850884779)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T22:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/96295d2134b8a45ade4dce29cf2ae15f.jpg" /><p>We may not ever see the end of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-kings-mans-matthew-vaughn-and-ralph-fiennes-on-keep-1838769814">Matthew Vaughn’s Kingsman</a> series on film, but his next movie looks like it fits right in. This February, the man who directed <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/kingsman-has-some-of-the-most-beautiful-violence-in-mov-1685665226">Kingsman</a>, Kick-Ass, Layer Cake, and X-Men: First Class returns with his latest spy film, Argylle, and the trailer <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/stardust-retro-review-neil-gaiman-charlie-cox-1849392072">has to be seen to be believed.</a></p><p><a href="https://gizmodo.com/argylle-movie-trailer-henry-cavill-dua-lipa-john-cen
+
+## Ahsoka's Composers Break Down Scoring This Week's Big Cameo
+ - [https://gizmodo.com/star-wars-ahsoka-kevin-kiner-deana-sean-c3po-soundtrack-1850884282](https://gizmodo.com/star-wars-ahsoka-kevin-kiner-deana-sean-c3po-soundtrack-1850884282)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T21:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/7b4bfcbe7a5e85db25386ee742ca193e.png" /><p>Balancing the need to bring a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/obi-wan-kenobi-music-natalie-holt-john-williams-intervi-1849166218">new but familiar sound</a> to Star Wars while also playing in the footsteps of John Williams’ legendary music for the saga is a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-mandalorians-ludwig-goransson-on-scoring-what-felt-1840006928">challenge for every composer</a> who joins the franchise. Few have faced it as often as the Kiner family—composer and father Kevin, alongside his children Deana and…</p><p><a href="https://gizmodo.com/star-wars-ahsoka-kevin-kiner-deana-sean-c3po-soundtrack-1850884282">Read more...</a></p>
+
+## The Spotted Lanternfly Has Invaded Illinois, Squash 'em
+ - [https://gizmodo.com/the-spotted-lanternfly-has-invaded-illinois-1850884326](https://gizmodo.com/the-spotted-lanternfly-has-invaded-illinois-1850884326)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/d6e3016df2f9e4a6892079cd1539198d.jpg" /><p>The Department of Agriculture (DOA) has confirmed that a local sighting of the invasive spotted lanternfly was reported on Sept. 16, marking yet another state it’s migrated to since the colorful insect was first sighted in the U.S. nearly a decade ago. The Department of Agriculture did not disclose the lanternfly’s…</p><p><a href="https://gizmodo.com/the-spotted-lanternfly-has-invaded-illinois-1850884326">Read more...</a></p>
+
+## Watch the First 10 Minutes of Blue Beetle for Free on YouTube
+ - [https://gizmodo.com/blue-beetle-dc-studios-first-10-minutes-free-wb-youtube-1850884111](https://gizmodo.com/blue-beetle-dc-studios-first-10-minutes-free-wb-youtube-1850884111)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/4121eeae19e0cc8ee3280b29e5c7899d.png" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/review-blue-beetle-dcu-james-gunn-angel-manuel-soto-1850741448">Blue Beetle delivered a solid DC superhero adventure</a> with Jaime Reyes’ origin story, and you can now watch the beginning of the film on YouTube.</p><p><a href="https://gizmodo.com/blue-beetle-dc-studios-first-10-minutes-free-wb-youtube-1850884111">Read more...</a></p>
+
+## Iran Launches Third Military Satellite to Orbit, Raising Tensions on the Ground
+ - [https://gizmodo.com/iran-launch-third-military-satellite-orbit-tensions-1850883964](https://gizmodo.com/iran-launch-third-military-satellite-orbit-tensions-1850883964)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T20:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/695d69f395b1012efb115481cee8c06a.png" /><p>Iran claims it has successfully placed a third imaging satellite in orbit, a move that will likely garner more criticism from the Western world over fears that the Islamic republic is bolstering its ballistic missile technology.</p><p><a href="https://gizmodo.com/iran-launch-third-military-satellite-orbit-tensions-1850883964">Read more...</a></p>
+
+## Privacy Fears Abound After Uber Eats Delivery Bot Shares Video Footage With LAPD
+ - [https://gizmodo.com/uber-eats-delivery-bot-shares-video-footage-with-lapd-1850883523](https://gizmodo.com/uber-eats-delivery-bot-shares-video-footage-with-lapd-1850883523)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T20:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/56fec3d98dbb96d47ead412a8955e631.jpg" /><p>It’s only been about a year since Uber Eats <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.cnn.com/2022/05/13/cars/uber-robot-delivery-la/index.html" rel="noopener noreferrer" target="_blank">began deploying</a> food delivery robots throughout select parts of Los Angeles and, already, concerns have been raised that the squat little automatons could become a  police surveillance tool. </p><p><a href="https://gizmodo.com/uber-eats-delivery-bot-shares-video-footage-with-lapd-1850883523">Read more...</a></p>
+
+## Gavin Newsom Under Fire From Teamsters Over Veto of Driverless Truck Bill
+ - [https://gizmodo.com/teamsters-criticize-gavin-newsom-driverless-truck-bill-1850883934](https://gizmodo.com/teamsters-criticize-gavin-newsom-driverless-truck-bill-1850883934)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/9e14171f74df23677b26e3c6e7634457.jpg" /><p>Big tech companies want to put big, driverless trucks on the road, and California Gov. Gavin Newsom is ready to help them reach that goal. Now the Democratic mainstay is taking a beating from unions who say he’s allowed unsafe 10,000+-pound vehicles onto the road without drivers.<br /></p><p><a href="https://gizmodo.com/teamsters-criticize-gavin-newsom-driverless-truck-bill-1850883934">Read more...</a></p>
+
+## The Best Episode of Lower Decks Season 4 Yet Defies All Your Expectations
+ - [https://gizmodo.com/star-trek-lower-decks-recap-season-4-episode-5-tlyn-1850883896](https://gizmodo.com/star-trek-lower-decks-recap-season-4-episode-5-tlyn-1850883896)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/8db75a4b255dac47722958484a4ebfd6.png" /><p>The last time <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.amazon.com/gp/video/detail/B0B8NW9N1V?asc_campaign=kinjagizmodolink-20&amp;asc_refurl=https://gizmodo.com/star-trek-lower-decks-recap-season-4-episode-5-tlyn-1850883896&amp;asc_source=&amp;tag=kinjagizmodolink-20" rel="sponsored noopener noreferrer nofollow noskim" target="_blank">Lower Decks</a> truly surprised me was in season two’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/an-incredible-star-trek-lower-decks-expanded-its-world-1847813349">remarkable tri-perspective episode</a> “wej Duj,” a compelling experimental story that examined the plights of lower deckers across all sorts of Star Trek vessels, not just Starfleet. It’s fitting then perhaps that in surprising me this week, it does so by…</p><p><a hre
+
+## Arecibo Observatory Prepares for Life After Astronomy
+ - [https://gizmodo.com/arecibo-observatory-radio-astronomy-education-center-1850883567](https://gizmodo.com/arecibo-observatory-radio-astronomy-education-center-1850883567)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T19:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/d50c63c7f99e2991b4f397da949d723c.jpg" /><p>In <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/whats-next-arecibo-observatory-collapse-2-years-later-1849836610">December 2020</a>, the Arecibo Observatory’s radio telescope was destroyed when a catastrophic cable failure caused its 900-ton platform to collapse onto the iconic dish below. Now, the National Science Foundation has named the stewards of the site’s future as an education center, marking the probable end of Arecibo’s…</p><p><a href="https://gizmodo.com/arecibo-observatory-radio-astronomy-education-center-1850883567">Read more...</a></p>
+
+## Patrick Stewart Wanted to Make Star Trek: Picard on His Own Terms
+ - [https://gizmodo.com/patrick-stewart-star-trek-picard-retrospective-1850883780](https://gizmodo.com/patrick-stewart-star-trek-picard-retrospective-1850883780)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T19:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/5eb4b4a4f6db1747df1a77c53e555760.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-picard-season-3-finale-recap-enterprise-borg-1850350956">Star Trek: Picard</a> ended earlier this year, and though the series could be messy at times, leading man <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-trek-picard-f-bomb-patrick-stewart-swearing-tng-1850207778">Patrick Stewart</a> always made it work. While the future of Jean-Luc and other Next Generation cast members is still up in the air after the show wrapped its three-season run, Stewart’s now reminiscing on how the show…</p><p><a href="https://gizmodo.com/patrick-stewart-star-trek-picard-retrospective-1850883780">Read more...</a></p>
+
+## Epic Games Is Selling Bandcamp and Having Not-So-Epic Layoffs
+ - [https://gizmodo.com/epic-games-lays-off-16-percent-of-staff-1850883681](https://gizmodo.com/epic-games-lays-off-16-percent-of-staff-1850883681)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T19:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/98b419955dce4fbf041ec2fc63a1ce0e.jpg" /><p>The video game company behind the massive battle royale game Fortnite is also fighting for its life. Epic Games is reportedly laying off  870 employees as well as selling some of its previous acquisitions.<br /></p><p><a href="https://gizmodo.com/epic-games-lays-off-16-percent-of-staff-1850883681">Read more...</a></p>
+
+## It's Not Just You and Your Friends: Some Elephants Are Better at Puzzle Solving Than Others
+ - [https://gizmodo.com/some-elephants-are-better-at-puzzle-solving-than-others-1850883715](https://gizmodo.com/some-elephants-are-better-at-puzzle-solving-than-others-1850883715)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T18:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/061218f1d83a75b8f481114f7d446976.jpg" /><p>Just like people, some elephants might have more of a knack for puzzles than others, new research this week suggests. The study of wild Asian elephants at an animal sanctuary found that only some were willing and able to solve a puzzle box that offered food as a reward, and even fewer cracked all three types of…</p><p><a href="https://gizmodo.com/some-elephants-are-better-at-puzzle-solving-than-others-1850883715">Read more...</a></p>
+
+## H&R Block, Meta, and Google Slapped With RICO Suit, Allegedly Schemed to Scrap Taxpayer Data
+ - [https://gizmodo.com/h-r-block-meta-and-google-slapped-with-rico-suit-1850883099](https://gizmodo.com/h-r-block-meta-and-google-slapped-with-rico-suit-1850883099)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T18:41:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/8b3e790eb3d02e5300197b6f61863255.jpg" /><p>Anyone who has used H&amp;R Block’s tax return preparation services in recent years may have unintentionally helped line Meta and Google’s pockets. That’s according to a new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.wisnerbaum.com/documents/COMPLAINT-against-Alphabet-Inc.-Google-LLC-HR-Block-Inc.-Meta-Platforms-Inc-09-27-23.pdf" rel="noopener noreferrer" target="_blank">class action lawsuit</a> which alleges the three companies “jointly schemed” to install trackers on the H&amp;R Block site to scan and transmit tax data back…</p><p><a href="https://gizmodo.com/h-r-block-meta-and-google-slapped-with-rico-suit-1850883099">Read more...</a></p>
+
+## Attention S-Mart Shoppers: All 3 Seasons of Ash vs. Evil Dead Are Coming to Hulu
+ - [https://gizmodo.com/bruce-campbell-ash-vs-evil-dead-horror-streaming-hulu-1850879345](https://gizmodo.com/bruce-campbell-ash-vs-evil-dead-horror-streaming-hulu-1850879345)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T18:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/41d9050ce1ee3c99074f8747d7934f30.jpg" /><p>In a year that already saw <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/evil-dead-rise-lee-cronin-bruce-campbell-horror-reboot-1850288801">a rather entertaining Evil Dead universe entry</a> in the form of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/evil-dead-rise-review-gory-entertaining-horror-reboot-1850355489">Evil Dead Rise</a>, there’s more good news for fans of the Sam Raimi-created cult horror classic: all three seasons of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/bruce-campbels-ash-vs-evil-dead-co-stars-think-they-ca-1843803397">the late, great Starz series Ash vs. Evil Dead</a> are coming to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://disneyplus.bn5x.net/c/379647/564546/9358?subI
+
+## Relax, Apple’s FineWoven iPhone 15 Case Is Perfectly Fine
+ - [https://gizmodo.com/review-apple-s-finewoven-iphone-15-case-1850882951](https://gizmodo.com/review-apple-s-finewoven-iphone-15-case-1850882951)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T18:09:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/320af9960da8133d0797f11f45acfec8.jpg" /><p>If you’re an extremely online Apple user, you’ve probably heard the collective <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://9to5mac.com/2023/09/25/apple-finewoven-cases-hands-on-terrible/" rel="noopener noreferrer" target="_blank">disappointment</a> over the company’s new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/apple-leather-iphone-case-apple-watch-band-no-more-1850830881">FineWoven</a> cases for the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/iphone-15-pro-review-1850851577">iPhone 15/15 Pro</a> series. Everyone from <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.reddit.com/r/apple/comments/16ns7ol/the_new_finewoven_iphone_cases_are_very_bad/" rel="noopener noreferrer" target="_blank">Reddit</a> 
+
+## James Cameron Almost Died While Making The Abyss
+ - [https://gizmodo.com/james-cameron-the-abyss-near-death-4k-release-avatar-1850882517](https://gizmodo.com/james-cameron-the-abyss-near-death-4k-release-avatar-1850882517)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T17:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/b9d64cb9abe72faf70ef34baec13e050.jpg" /><p>Whether it’s sinking the Titanic, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/avatar-way-of-water-vfx-interview-weta-james-cameron-1849905131">inventing new technology</a> to make Avatar, or <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/how-terminator-2-judgment-day-changed-the-blockbuster-1798318855">making VFX history with Terminator 2</a>, filmmaking is never easy for James Cameron. Almost every film he makes <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/james-cameron-explains-why-the-original-aliens-poster-i-1848196917">raises the bar in some way</a>, usually with wildly successful results. And yet, when that happens no one making the movie is ever…</p><p><a href="https://gizmodo.com/james-cameron-the-abyss-near-death
+
+## EU Court Says Amazon Is Not a ‘Very Large Online Platform,’ for Now
+ - [https://gizmodo.com/eu-court-amazon-is-not-a-very-large-online-platform-1850883002](https://gizmodo.com/eu-court-amazon-is-not-a-very-large-online-platform-1850883002)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T17:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/4a42149b8cf2be6fb9f785d47f635328.jpg" /><p>Amazon stalled the European Union’s<strong> </strong><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/big-tech-apple-google-meta-amazon-alibaba-1849143916">Digital Services Act</a><strong> (</strong>DSA)<strong> </strong>requirements by claiming it isn’t a very large online platform, according to a court ruling on Wednesday. In April, the EU ordered the tech company to abide by DSA rules to regulate its content moderation policies and provide ad-transparency data.</p><p><a href="https://gizmodo.com/eu-court-amazon-is-not-a-very-large-online-platform-1850883002">Read more...</a></p>
+
+## Doctor Who Is Regenerating Its Behind-the-Scenes Show
+ - [https://gizmodo.com/doctor-who-unleashed-confidential-bbc-russell-t-davies-1850882249](https://gizmodo.com/doctor-who-unleashed-confidential-bbc-russell-t-davies-1850882249)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/5a8e1dc846535d00eba5f9679e6e268b.jpg" /><p>After reports last year indicated that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-world-finally-caught-up-with-russell-t-davies-doc-1847752329">Russell T. Davies</a>’ plan to pretty much what he did the first time on <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/doctor-who-russell-t-davies-jodie-whittaker-erasure-1850838258">Doctor Who</a> but, well, again, would include another returning favorite in a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/doctor-who-unleased-confidential-russell-t-davies-bbc-1849201055">behind-the-scenes companion series</a>, the BBC has confirmed that when Doctor Who returns in November, it won’t be alone.<br /></p><p><a href="https://gizmodo.com/doctor-who-unleashed-confidential-bbc-russel
+
+## After First Setback, Second Pig Heart Transplant Provokes Cautious Optimism
+ - [https://gizmodo.com/second-pig-heart-transplant-xenotransplantation-1850882690](https://gizmodo.com/second-pig-heart-transplant-xenotransplantation-1850882690)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T16:59:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/9b66cf69c422016e8a12f8c604700883.jpg" /><p>58-year-old Lawrence Faucette has become a medical milestone this month, being only the second living person in the world to have received a heart transplant from a genetically modified pig. </p><p><a href="https://gizmodo.com/second-pig-heart-transplant-xenotransplantation-1850882690">Read more...</a></p>
+
+## iPhone 15 Is One of the Hottest Gadgets of the Year, Literally
+ - [https://gizmodo.com/iphone-15-overheating-kuo-says-update-coming-1850882779](https://gizmodo.com/iphone-15-overheating-kuo-says-update-coming-1850882779)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T16:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/7fb3f52c413286a10f2642d6fc28287b.jpg" /><p>Since before the iPhone 15 first hit the market, there have been concerns about the new titanium frame and A17 processor causing it to get hot. After its release, some users have hammered Apple with complaints the new iPhone 15 Pro gets hot, like really hot. Are we looking at a quality control disaster or just a speed…</p><p><a href="https://gizmodo.com/iphone-15-overheating-kuo-says-update-coming-1850882779">Read more...</a></p>
+
+## Stellar Explosion From 180 Years Ago Comes Alive in New Timelapse
+ - [https://gizmodo.com/stellar-explosion-eta-carinae-chandra-x-rays-1850882478](https://gizmodo.com/stellar-explosion-eta-carinae-chandra-x-rays-1850882478)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T16:35:00+00:00
+
+<video loop="" poster="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/f32c93f57ebc84e1b33db772772129c1.jpg"><source src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/f32c93f57ebc84e1b33db772772129c1.mp4" type="video/mp4" /></video><p>The Chandra X-ray Observatory didn’t exist in 1838, when the Eta Carinae star system started to brighten as it ejected material in an event named the “Great Eruption.” But traces of the eruption remain, and a timelapse has now been created by compiling 20 years of the space telescope’s data to showcase the dynamic…</p><p><a href="https://gizmodo.com/stellar-explosion-eta-carinae-chandra-x-rays-1850882478">Read more...</a></p>
+
+## Space Force Taps SpaceX for $70 Million Starshield Contract
+ - [https://gizmodo.com/space-force-spacex-for-70-million-starshield-contract-1850882525](https://gizmodo.com/space-force-spacex-for-70-million-starshield-contract-1850882525)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T16:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/2e0eb46cc981d13cd8bb4afb31332354.jpg" /><p>Elon Musk’s SpaceX has secured a Pentagon contract for its military satellite network, Starshield. This news, first <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.bloomberg.com/news/articles/2023-09-27/elon-musk-wins-us-space-force-contract-for-starshield-deepening-pentagon-ties?embedded-checkout=true#xj4y7vzkg" rel="noopener noreferrer" target="_blank">reported</a> by Bloomberg, marks the Pentagon’s first confirmed Starshield contract with SpaceX.<br /></p><p><a href="https://gizmodo.com/space-force-spacex-for-70-million-starshield-contract-1850882525">Read more...</a></p>
+
+## Castlevania: Nocturne Is a Slick, Smart Successor
+ - [https://gizmodo.com/castlevania-nocturne-review-netflix-anime-richter-1850880399](https://gizmodo.com/castlevania-nocturne-review-netflix-anime-richter-1850880399)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/0987d762883792b989dd3a054686e5c3.png" /><p>The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-moment-castlevania-became-the-greatest-video-game-a-1830077593">Castlevania video game series</a> has always been about the legacy of its heroes and vampiric villains—a battle between good and evil that plays out across generations of slayers as they battle the returning evil of Dracula and his allies. After a few years away from Netflix, Powerhouse’s animated adaptation is taking…</p><p><a href="https://gizmodo.com/castlevania-nocturne-review-netflix-anime-richter-1850880399">Read more...</a></p>
+
+## FAA Sets 21 Tasks for Bezos's Blue Origin Before New Shepard Can Fly Again
+ - [https://gizmodo.com/faa-blue-origin-new-shepard-rocket-relaunch-1850882101](https://gizmodo.com/faa-blue-origin-new-shepard-rocket-relaunch-1850882101)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T16:00:04+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/ff0911bbe222267731e28e60a22c884a.png" /><p>The Federal Aviation Administration has closed its investigation into Blue Origin’s New Shepard failed launch in September 2022, but the suborbital rocket remains grounded.</p><p><a href="https://gizmodo.com/faa-blue-origin-new-shepard-rocket-relaunch-1850882101">Read more...</a></p>
+
+## Welp, Now Disney+ Is Clamping Down on Password Sharing
+ - [https://gizmodo.com/disney-is-clamping-down-on-password-sharing-canada-1850882098](https://gizmodo.com/disney-is-clamping-down-on-password-sharing-canada-1850882098)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T15:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/aec1174570c32513ffe4dc530058e834.jpg" /><p>This is why we can’t have nice things. Following <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/netflix-password-sharing-streaming-1850466800">Netflix’s recent attempts at forbidding password sharing</a>, Disney is now taking a page from its book. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/now-disney-is-coming-for-password-sharing-too-1850724327">Disney+ is kicking off its own ban on account sharing</a> by cracking down on users in Canada.</p><p><a href="https://gizmodo.com/disney-is-clamping-down-on-password-sharing-canada-1850882098">Read more...</a></p>
+
+## Fright Crewe Exclusive Clip Presents the Gateway Horrors of Growing Pains
+ - [https://gizmodo.com/fright-crewe-clip-eli-roth-kids-horror-peacock-hulu-1850880699](https://gizmodo.com/fright-crewe-clip-eli-roth-kids-horror-peacock-hulu-1850880699)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T15:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/5fcba2e9427e26f6c31312a437dd8ee5.jpg" /><p>A group of kids join forces to uncover the lore of New Orleans through spooky supernatural adventures in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/thanksgiving-movie-trailer-eli-roth-horror-grindhouse-1850813069">Eli Roth</a>’s Fright Crewe.</p><p><a href="https://gizmodo.com/fright-crewe-clip-eli-roth-kids-horror-peacock-hulu-1850880699">Read more...</a></p>
+
+## Rising Temperatures Might Spike Drug and Alcohol Abuse Hospital Visits
+ - [https://gizmodo.com/high-temps-may-spike-drug-and-alcohol-hospital-visits-1850881195](https://gizmodo.com/high-temps-may-spike-drug-and-alcohol-hospital-visits-1850881195)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/52d3c7dcd2a4fe8a720fed21143262c9.jpg" /><p>Extreme heat is deadly. Exposure to high temperatures can make people sick and eventually lead to heat exhaustion and heat stroke. But new research shows that rising temperatures come with other compounding dangers. This week, A study <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.nature.com/articles/s43856-023-00346-1" rel="noopener noreferrer" target="_blank">published in the journal</a> Communications Medicine found that higher temperatures are…</p><p><a href="https://gizmodo.com/high-temps-may-spike-drug-and-alcohol-hospital-visits-1850881195">Read more...</a></p>
+
+## Fitbit Announces the Charge 6 With 'Google Smarts'
+ - [https://gizmodo.com/fitbit-announces-the-charge-6-with-google-smarts-1850880486](https://gizmodo.com/fitbit-announces-the-charge-6-with-google-smarts-1850880486)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/57b5af96c93070cb88430e9d011933f3.png" /><p>A week before Google <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/everything-google-pixel-8-and-pixel-watch-2-has-leaked-1850870597">debuts</a> the next-generation Pixel Watch, Fitbit is introducing the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/watch?v=jbLmKWsaCvI" rel="noopener noreferrer" target="_blank">Charge 6</a> fitness band. The wellness-centered wearable launches in conjunction with the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/google-fitbit-app-redesign-pixel-watch-2-1850854271">revamped Fitbit app</a>. It’s billed as the “only fitness track with Google smarts.” Depending on who you are, that’ll either make you very happy or…</p><p><a href="https://gizmodo.com/fitbit-announces-the-charge-
+
+## Our Flag Means Death Lets Its Fandom Freak Flag Fly
+ - [https://gizmodo.com/our-flag-means-death-season-two-review-taika-waititi-1850882220](https://gizmodo.com/our-flag-means-death-season-two-review-taika-waititi-1850882220)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/d4f0769833cb19d67390af02c670e777.png" /><p>Few shows have enjoyed the kind of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/our-flag-means-death-got-its-queer-love-story-exactly-r-1848828890">immediate, deeply invested fanbase</a> that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/our-flag-means-death-interview-rhys-darby-hbo-max-1848573690">Our Flag Means Death</a> garnered in 2022. This silly, tender, queer pirate show reimagined the legends of notorious pirates Blackbeard (Taika Waititi) and Stede Bonnet (Rhys Darby) in an anachronistic Caribbean. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/our-flag-means-death-creator-david-jenkins-fandom-queer-1849077954">David Jenkins</a>, the beloved director…</p><p><a href="https://gizmodo.com/our-flag-means-d
+
+## Elon Musk and X/Twitter's CEO Can't Seem to Agree on Whether Their Election Integrity Team Is 'Gone'
+ - [https://gizmodo.com/musk-twitter-x-ceo-election-integrity-team-1850881943](https://gizmodo.com/musk-twitter-x-ceo-election-integrity-team-1850881943)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T14:42:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/856d00fd148c226c11bc6bf87045ec34.jpg" /><p>At a conference on Wednesday, X CEO Linda Yaccarino contradicted  Elon Musk’s claims that the platform’s election monitoring team has been eliminated. Yaccarino disputed these claims, saying the team is “growing” and will continue to monitor political misinformation on the platform.<br /></p><p><a href="https://gizmodo.com/musk-twitter-x-ceo-election-integrity-team-1850881943">Read more...</a></p>
+
+## Wild New Rumors About the Future of James Bond
+ - [https://gizmodo.com/james-bond-christopher-nolan-rumors-bond-26-27-reboot-1850879152](https://gizmodo.com/james-bond-christopher-nolan-rumors-bond-26-27-reboot-1850879152)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/d6ef6dc228c30ae3aa29c6ad10d36b5b.png" /><p>Four more Exorcist: Believer clips tease a returning nightmare. Wolf Like Me season 2's new trailer shows troubled times ahead for the werewolf romance. he cast of The Boys welcomes the cast of Gen V in a new featurette. Plus, what’s coming on Star Trek: Lower Decks. Spoilers now!<br /></p><p><a href="https://gizmodo.com/james-bond-christopher-nolan-rumors-bond-26-27-reboot-1850879152">Read more...</a></p>
+
+## Reddit Removes Ability to Shun Targeted Ads Based on Your Upvotes
+ - [https://gizmodo.com/reddit-removes-ability-to-opt-out-of-ads-1850881852](https://gizmodo.com/reddit-removes-ability-to-opt-out-of-ads-1850881852)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T13:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/4ff54e5576ba3e16214c4d5d118585e0.jpg" /><p>Reddit said it was “simplifying” its ad privacy options by removing the ability to ignore targeted ads based on what communities you join, which posts you upvote or downvote, and how you spend your time on the platform.</p><p><a href="https://gizmodo.com/reddit-removes-ability-to-opt-out-of-ads-1850881852">Read more...</a></p>
+
+## Report: Jony Ive and OpenAI CEO Raise $1B to Design the 'iPhone of AI'
+ - [https://gizmodo.com/apple-jony-ive-openai-ceo-discussing-the-iphone-of-ai-1850881602](https://gizmodo.com/apple-jony-ive-openai-ceo-discussing-the-iphone-of-ai-1850881602)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T13:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/c18e929a74644b1c80debfa8dd4a3ce2.jpg" /><p>After rumors began to swirl that <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/jony-ive-altman-openai-talk-mystery-hardware-project-1850877089">Apple alum Jony Ive and OpenAI CEO Sam Altman were having collaborative talks</a> on a mysterious piece of AI hardware, it appears that the pair are indeed trying to corner the smartphone market. The two are reportedly discussing a collaboration on a new kind of smartphone device with $1…</p><p><a href="https://gizmodo.com/apple-jony-ive-openai-ceo-discussing-the-iphone-of-ai-1850881602">Read more...</a></p>
+
+## Evil Genius Sues Netflix Over Canceled Rebel Moon TTRPG
+ - [https://gizmodo.com/rebel-moon-ttrpg-netflix-sued-evil-genius-games-1850880262](https://gizmodo.com/rebel-moon-ttrpg-netflix-sued-evil-genius-games-1850880262)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-28T13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/628c2e978b3ab610cd91e438dc35c7f0.jpg" /><p>Today, tabletop roleplaying game publisher Evil Genius filed a lawsuit against Netflix for Breach of Contract. Evil Genius was hired to create a franchise TTRPG for Zack Snyder’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/rebel-moon-zack-snyder-directors-cut-1850778188">Rebel Moon</a>, and alleges that after working alongside Netflix and Snyder, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/rebel-moon-trailer-zack-snyder-netflix-sci-fi-epic-1850760891">Netflix</a> unceremoniously terminated its contract.</p><p><a href="https://gizmodo.com/rebel-moon-ttrpg-netflix-sued-evil-genius-games-1850880262">Read more...</a></p>
+
