@@ -1,0 +1,170 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Who's Who In Gen V? A Guide To The Characters In Prime Video's The Boys' Spin-Off
+ - [https://www.gamespot.com/gallery/whos-who-in-gen-v-a-guide-to-the-characters-in-prime-videos-the-boys-spin-off/2900-4881/](https://www.gamespot.com/gallery/whos-who-in-gen-v-a-guide-to-the-characters-in-prime-videos-the-boys-spin-off/2900-4881/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T22:49:00+00:00
+
+<p><h2>Who's Who In Gen V? A Guide To The Characters In Prime Video's The Boys' Spin-Off</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1603/16030002/4199518-gen-v-prime-video-02.jpg" /><br /><h3><p> </p><p dir="ltr">Gen V takes the violent, gritty lens of The Boys and refocuses it on the young people of that world. What is it like to be a young Supe? How does it change your life? How do people respond to you? The series follows Marie Moreau (Jaz Sinclair), a young woman with the power to control blood. As she joins Godolkin University, called God U by its students and faculty, she quickly learns that things are amiss. She and a small group of students band together and bond over their shared suspicion and trauma as they try to get to the root of corruption at the superhero school.</p><p dir="ltr">Each member of the cast represents some of the difficulties young people have to navigate to survive in the modern world. The same way that Spider-Man constantly reminds us of
+
+## Are PS Plus And Game Pass Worth It In 2023? | Spot On
+ - [https://www.gamespot.com/articles/are-ps-plus-and-game-pass-worth-it-in-2023-spot-on/1100-6518076/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/are-ps-plus-and-game-pass-worth-it-in-2023-spot-on/1100-6518076/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T21:58:00+00:00
+
+<p>It's no secret that the <a href="https://www.gamespot.com/articles/playstation-plus-price-increases-announced-for-all-tiers-premium-plan-going-up-40-year/1100-6517342/">price of PlayStation Plus has risen substantially</a>. Just this past month, all three of the subscription service's tiers saw a 30% cost increase, with the highest tier now costing $160 annually. But Sony isn't the only company raising rates. Earlier this year, Microsoft <a href="https://www.gamespot.com/articles/xbox-series-x-consoles-and-xbox-game-pass-subscriptions-are-getting-a-price-increase/1100-6515385/">increased the cost of its Game Pass membership</a>, raising its $10 monthly subscription to $11, and its $15 tier to $17. We live in a world where there are an abundance of subscription services in both the gaming space and beyond it. And while many of these services have offered valuable benefits and features, that may not be the case now.</p><p>More specifically, what you're getting may not be what you're
+
+## Are PS Plus And Game Pass Worth It In 2023? | Spot On
+ - [https://www.gamespot.com/videos/are-ps-plus-and-game-pass-worth-it-in-2023-spot-on/2300-6462510/](https://www.gamespot.com/videos/are-ps-plus-and-game-pass-worth-it-in-2023-spot-on/2300-6462510/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T20:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4199420-spoton_subs_v0.jpg" width="480" /> Subscription services are abundant and content is increasingly being centered around them, but the value proposition of these services is questionable in 2023.
+
+## Pokemon Scarlet And Violet Are Getting New Physical Releases With Expansion Content
+ - [https://www.gamespot.com/articles/pokemon-scarlet-and-violet-are-getting-new-physical-releases-with-expansion-content/1100-6518075/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/pokemon-scarlet-and-violet-are-getting-new-physical-releases-with-expansion-content/1100-6518075/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T19:15:00+00:00
+
+<div><div class="norewrite" title="6518075 - Pokemon Scarlet and Violet + The Hidden Treasure of Area Zero physical bundles preorders">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_medium/1701/17013431/4199481-scarletdlchero.jpg" />                                 <a href="https://www.amazon.com/dp/B0CJWH95W6?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0CJWH95W6?tag=gamespot-preorders-20">Preorder Pokemon Sc
+
+## Preorder Super Mario Bros. Wonder And Mario RPG For Just $49 Each
+ - [https://www.gamespot.com/articles/preorder-super-mario-bros-wonder-and-mario-rpg-for-just-49-each/1100-6518073/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/preorder-super-mario-bros-wonder-and-mario-rpg-for-just-49-each/1100-6518073/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T18:01:00+00:00
+
+<p dir="ltr">Between Super Mario Bros. Wonder and the Super Mario RPG remake, Mario fans have a lot to look forward to playing on Nintendo Switch this Fall. If you're planning on getting both upcoming Super Mario games at launch, you should look into the preorder discounts at Geek Alliance. Thanks to the online retailer's preorder deal, you can order physical copies of <span class="norewrite">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://geekalliance.com/products/super-mario-bros-wonder-us">Super Mario Bros. Wonder</a> </span> and <span class="norewrite">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://geekalliance.com/products/super-mario-rpg-us-pre-book">Super Mario RPG</a> </span> for just $49 each (both are normally $60).</p><div><div class="norewrite" title="">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=sub
+
+## Nearly 2 Million WoW Classic Hardcore Characters Have Permanently Met Their Demise
+ - [https://www.gamespot.com/articles/nearly-2-million-wow-classic-hardcore-characters-have-permanently-met-their-demise/1100-6518072/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nearly-2-million-wow-classic-hardcore-characters-have-permanently-met-their-demise/1100-6518072/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T17:43:00+00:00
+
+<p>One month in, nearly 2 million <a href="https://www.gamespot.com/games/world-of-warcraft/">World of Warcraft</a> Classic Hardcore characters have met their maker in the permadeath spin-off of Blizzard's old-school MMORPG.</p><p dir="ltr">As revealed by <a href="https://x.com/Warcraft/status/1707523081932034183?s=20">Blizzard</a>, precisely 1,982,716 players have been killed since the game's official Hardcore servers launched. A huge portion of that number, 401,980 to be exact, were Hunter players. Warriors, one of WoW Classic's most challenging classes to play but also one of the most rewarding, have bitten the dust 332,970 times, while Mages, the masters of crowd-control and area-of-effect attacks, have died 294,082 times. Death numbers for Paladin and Shaman are relatively small, likely because they are unique to the Alliance and Horde respectively and thus played by a smaller number of players overall. Combined, the two faction-specific hybrid classes rank below Warlock in numb
+
+## WWII Crafting Shooter United 1944 Gets Open Beta And New Survivor Mode
+ - [https://www.gamespot.com/articles/wwii-crafting-shooter-united-1944-gets-open-beta-and-new-survivor-mode/1100-6518074/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wwii-crafting-shooter-united-1944-gets-open-beta-and-new-survivor-mode/1100-6518074/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T17:34:00+00:00
+
+<p>World War II crafting-and-survival-tinged shooter United 1944 is getting an open beta. In addition to Dominion, a traditional PvP mode about taking and defending checkpoints, you can check out Survivor, a new extraction mode.</p><p>In the new mode Survivor, you'll use the crafting and scavenging of the base gameplay in a more extraction-shooter-style format. Alone or in a team of up to three other players, you'll seek to survive in a besieged area of the WII battlefront, surrounded by enemies.</p><p>To win, you'll have to gather treasures, which you can extract by laying down a specific flare. You can also extract yourself and your squad by crafting a different flare. If you stay within a certain radius and survive, you will escape the city. In the meantime, you'll survive by leveling up, crafting new items, and building out your outpost. After the match is over, you can use the treasures you've raided to purchase cosmetics like weapons skins, backpacks, and knives.</p><a href="ht
+
+## Best Final Fantasy Gift Ideas For 2023
+ - [https://www.gamespot.com/gallery/best-final-fantasy-gift-ideas-for-2023/2900-4879/](https://www.gamespot.com/gallery/best-final-fantasy-gift-ideas-for-2023/2900-4879/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T17:27:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4198467-ffm.jpg" /><br /><h3><p>Final Fantasy has had a big year thanks to the launch of <a href="https://www.amazon.com/Final-Fantasy-XVI-PlayStation-5/dp/B0BPMTJJ6D?tag=gamespot-giftguide-20">Final Fantasy 16</a>, the latest mainline game and first since 2016. It was also the first numbered entry to make a full-on move to fast-paced action combat, which undoubtedly opened up the series to a lot of new players. Longtime fans who may have bristled at the change of pace are in for some excitement in the near future, as the long-awaited <a href="https://www.gamespot.com/articles/final-fantasy-7-rebirth-preorders-come-with-steelbook-case-at-best-buy/1100-6514519/">Final Fantasy 7 Rebirth</a> is set to launch on February 29, 2024.</p><p>Given that it's such an exciting time for the iconic role-playing franchise, it stands to reason that there will be increased interest in Final Fantasy-themed gifts this holiday sea
+
+## Where Is Xur Today? (September 29-October 3) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-september-29-october-3-destiny-2-exotic-items-and-xur-location-guide/1100-6518053/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-september-29-october-3-destiny-2-exotic-items-and-xur-location-guide/1100-6518053/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T17:02:00+00:00
+
+<p>A new weekend has kicked off inside of Destiny 2 and like clockwork, intergalactic arms dealer Xur has arrived to offer a fresh selection of Legendary and Exotic-class gear. Whether you're looking for new rolls of iconic weapons or pieces of armor that you can use as fodder to make your Guardian stand out from the crowd, the Agent of the Nine has you covered. Here's where Xur is this weekend and what he has for sale.</p><p>This week you can find Xur in <strong>the EDZ</strong>, in the <strong>Winding Cove</strong> area. For his weapon, Xur is offering <strong>Telesto</strong>. Hunters can pick up the <strong>Aeon Swift </strong>gauntets; Titans can grab the <strong>Ursa Furiosa </strong>gauntlets; and Warlocks can buy the <strong>Astrocyte Verse </strong>helmet.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Xur Location </a></li></ul></div><h2 id="Xur
+
+## Cyberpunk 2077 Patch 2.01 Is On Its Way, Improves Performance And Prevents Corrupted Saves
+ - [https://www.gamespot.com/articles/cyberpunk-2077-patch-2-01-is-on-its-way-improves-performance-and-prevents-corrupted-saves/1100-6518070/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cyberpunk-2077-patch-2-01-is-on-its-way-improves-performance-and-prevents-corrupted-saves/1100-6518070/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T16:18:00+00:00
+
+<p>Cyberpunk 2077 patch 2.01 is on the way and will fix common issues like corrupted saves on PS5, as well as improve performance on both PC and console.</p><p>Most significantly, the patch prevents a save corruption issue on PS5. However, this fix will not repair already corrupted saves, so you'll need to hold on to an uncorrupted save before the patch drops. As for performance boosts, CD Projekt Red stated simply that the patch will improve performance generally, but especially in the Dogtown area.</p><p>Additionally, the patch repairs some of Phantom Liberty's strangest and most persistent bugs. For example, choosing a specific dialogue option in the quest Automatic Love will no longer result in a distorted effect that remains on the screen longer than intended. In another absurd fix, V will not fall through the floor of an elevator and die in The Heist if the frame rate is low.</p><a href="https://www.gamespot.com/articles/cyberpunk-2077-patch-2-01-is-on-its-way-improves-performa
+
+## Saw X Faced One Major Change To Make Sense Of Saw's Complicated Timeline
+ - [https://www.gamespot.com/articles/saw-x-faced-one-major-change-to-make-sense-of-saws-complicated-timeline/1100-6518069/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/saw-x-faced-one-major-change-to-make-sense-of-saws-complicated-timeline/1100-6518069/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T16:16:00+00:00
+
+<p dir="ltr">The first Saw film was a largely self-contained story of two men being put to the ultimate test in a horrific game of survival. As the franchise continued, though, any simplicity went right out the window. With each new Saw movie, save for soft reboot Spiral, the lore became more complex and complicated as new events were introduced leading up to and after that first film. Now, with <a href="https://www.gamespot.com/articles/why-tobin-bells-return-to-saw-x-was-so-critical/1100-6518056/">Saw X</a>, the creative team has returned to one of the most ridiculously detailed mythologies in film and--not surprisingly--it's not always easy keeping things straight.</p><p dir="ltr">Saw X, the 10th movie in the franchise, is somehow set a mere three weeks after the first film. Sure, star Tobin Bell has aged 20 years since that movie, but his character of John Kramer/Jigsaw remains a 52-year-old man suffering from terminal brain cancer. When revisiting events that have been unspoolin
+
+## SAG-AFTRA's Talks With Video Games Industry End With No Resolution
+ - [https://www.gamespot.com/articles/sag-aftras-talks-with-video-games-industry-ends-with-no-resolution/1100-6518071/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sag-aftras-talks-with-video-games-industry-ends-with-no-resolution/1100-6518071/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T16:12:00+00:00
+
+<p>SAG-AFTRA announced on Thursday that its scheduled talks with various gaming industry employers ended quickly and without an agreement being formed. The meetings--which began on Tuesday--were undertaken with the goal of renegotiating the terms of the current Interactive Media Agreement, specifically as it relates to pay, streaming rights, and use of artificial intelligence. After failing to reach an agreement, the following statement was posted to <a href="https://www.sagaftra.org/sag-aftra-and-video-game-employers-statement-interactive-media-agreement">the union's website</a>:</p><p>"SAG-AFTRA and video game employers concluded scheduled negotiations for the Interactive Media Agreement. No deal was reached and the current agreement will remain in effect while the parties make final efforts to reach a deal."</p><p>SAG-AFTRA recently <a href="https://www.gamespot.com/articles/video-game-actors-have-voted-to-authorize-a-strike-if-negotiations-fail/1100-6517987/">voted to authorize a
+
+## Snag 10 Retro Games For Only $5 For A Limited Time
+ - [https://www.gamespot.com/articles/snag-10-retro-games-for-only-5-for-a-limited-time/1100-6518068/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/snag-10-retro-games-for-only-5-for-a-limited-time/1100-6518068/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T15:41:00+00:00
+
+<p>Who needs vast open-worlds, bleeding-edge graphics, and fine-tuned gameplay when you can step through a nostalgic time portal and play some retro games instead? Over on Fanatical, you can <a href="https://www.tkqlhce.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/pick-and-mix/build-your-own-retro-bundle">build your own bundle from a long list of retro games on PC</a>, many of which have been forgotten to time. Games from an era where the cover art might have overpromised, the difficulty spikes were unfairly brutal, and the hit detection systems appeared to be coded by developers who had a chip on their shoulder.</p><div class="norewrite" title="">           <a href="https://www.tkqlhce.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/pick-and-mix/build-your-own-retro-bundle">Build your own retro games bundle</a> </div><p>For this bundle of blasts from the past, Fanatical is offering any one of these games for a si
+
+## The Definitive Akira Manga Box Set Is Available At A Great Price
+ - [https://www.gamespot.com/articles/the-definitive-akira-manga-box-set-is-available-at-a-great-price/1100-6518052/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-definitive-akira-manga-box-set-is-available-at-a-great-price/1100-6518052/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T15:16:00+00:00
+
+<p>When it comes to groundbreaking manga, few series are as influential as Akira. Katsuhiro Otomo's landmark work about rebellious teens and psychic powers burst into the mainstream with a feature film that is still widely regarded as one of the best animated films of all time--that you can <a href="https://www.amazon.com/Akira-Movie-4K-UHD/dp/B09JXWP8N1?tag=gamespot-promos-20">grab on 4K Blu-ray for only $19</a>--but before Kaneda and Tetsuo were battling each other on the silver screen, their conflict unfolded across an epic manga series.</p><div><div class="norewrite" title="">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Akira-Akira-35th-Anniversary-Box-Set-Series-7-Hardcover-9781632364616/56086295">See Akira Box Set</a> </div></div><p> </p><p>Otomo's manga series celebrated its 35th anniversary back in 2017 with a luxurious box set collection of the entire Akira manga run, and it wasn't long b
+
+## How To Get Your RoboCop: Rogue City Preorder For 20% Off
+ - [https://www.gamespot.com/articles/how-to-get-your-robocop-rogue-city-preorder-for-20-off/1100-6518063/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/how-to-get-your-robocop-rogue-city-preorder-for-20-off/1100-6518063/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T15:12:00+00:00
+
+<p>With October being more packed than New York rush-hour traffic when it comes to big game releases, November is a welcome reprieve from the loaded schedule. Don't get too comfortable though, as RoboCop: Rogue City will be robotically plodding onto the scene to dispense some justice, and right now, you can score a <a href="https://www.kqzyfj.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/robocop-rogue-city">great preorder discount on Steam keys at Fanatical</a>.</p><p>You can preorder the standard edition of <a href="https://www.kqzyfj.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/robocop-rogue-city">RoboCop: Rogue City for $40 (normally $50)</a> and the more feature-packed <a href="https://www.tkqlhce.com/click-100770772-13797872?sid=subid_value&amp;url=https://www.fanatical.com/en/game/robocop-rogue-city-alex-murphy-edition">Alex Murphy edition is just $48 (normally $60)</a>. That version includes sev
+
+## Wizard With A Gun Deluxe Edition Comes With Collectibles, Preorders Live At Amazon
+ - [https://www.gamespot.com/articles/wizard-with-a-gun-deluxe-edition-comes-with-collectibles-preorders-live-at-amazon/1100-6518067/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wizard-with-a-gun-deluxe-edition-comes-with-collectibles-preorders-live-at-amazon/1100-6518067/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T15:01:00+00:00
+
+<p>October has <a href="https://www.gamespot.com/gallery/the-biggest-game-releases-of-october-2023/2900-4874/">a number of big-budget games vying for your attention</a>, but if you arachnid-themed heroes, Twin Peaks-style horror, or Elephant Mario don't interest you, why not try a magical adventure that's packing some heat? Wizard with a Gun is the game that fits that particular bill, and while it'll be available first as a digital-only game on October 17, you won't have to wait too long for its physical release.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CJH42XVN?tag=gamespot-preorders-20">Preorder at Amazon (Standard)</a> </div></div><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B0CJGV1FLF?tag=gamespot-preorders-20">Preorder at Amazon (Deluxe)</a> </div></div><p> </p><p>Preorders are now live at Amazon for Wizard with a Gun's <a href="https://www.amazon.com/dp/B0CJH42XVN?tag=gamespot-preorders-20">sta
+
+## Gran Turismo Sport Online Services Will End In January 2024
+ - [https://www.gamespot.com/articles/gran-turismo-sport-online-services-will-end-in-january-2024/1100-6518066/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/gran-turismo-sport-online-services-will-end-in-january-2024/1100-6518066/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T14:50:00+00:00
+
+<p>Sony announced that Gran Turismo Sport will have its online servers shut down on January 31, 2024. Additionally, distribution of purchasable items will end on December 1, 2023.</p><p>When the servers go offline, features such as Community, Open Lobby, Quick Match, Seasonal Events, and Sport Mode will no longer be accessible. Customer liveries require an online connection through the Discover function in Gran Turismo Sport, so all vehicles with applied liveries will revert back to their original colors.</p><p>However, offline modes and already purchased add-ons can still be played after the date. Add-ons include other vehicles, Scape Content Pack, and the Lewis Hamilton Time Trial Challenge from the PlayStation Store.</p><a href="https://www.gamespot.com/articles/gran-turismo-sport-online-services-will-end-in-january-2024/1100-6518066/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Taito's Limited-Edition Mini Arcade Receives Huge Discount At Amazon
+ - [https://www.gamespot.com/articles/taitos-limited-edition-mini-arcade-receives-huge-discount-at-amazon/1100-6518065/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/taitos-limited-edition-mini-arcade-receives-huge-discount-at-amazon/1100-6518065/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T14:27:00+00:00
+
+<p>In the modern age of gaming, having your very own arcade isn't a pipe dream anymore. Heck, you don't even need too much space to create a coin-inserted paradise. Thanks to a wide selection of mini-devices, you can bring the joy of retro arcade gaming home with several delightful plug-and-play devices. The <a href="https://www.amazon.com/Taito-Egret-II-Mini-pre-Installed/dp/B0BNHYS2W6?tag=gamespot-promos-20">Taito Egret II Mini</a> is a prime example here, and right now, the limited-edition blue model has received a massive 30% discount.</p><h3>Taito Egret II Mini Console with 40 games --$160 ($<del>230</del>)</h3><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4199189-taito-arcade.jpg"><img alt="Taito Egret II mini console" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4199189-taito-arcade.jpg" /></a><figcaption>Taito Egret II mini console</figcaption></figure><div><div class="norewrite" title="">           <a href
+
+## PlayStation Portal Preorders Are Live At Best Buy
+ - [https://www.gamespot.com/articles/playstation-portal-preorders-are-live-at-best-buy/1100-6517131/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-portal-preorders-are-live-at-best-buy/1100-6517131/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T14:15:00+00:00
+
+<div><div class="norewrite" title="6517131 - PlayStation Portal">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4182275-playstationportal.jpg" />                                 <a href="https://shop-links.co/1821062710677374861?u1=subid_value"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://shop-links.co/1821062710677374861?u1=subid_value">PlayStation Portal</a>           </p>                                                       <p cla
+
+## PlayStation Portal Preorders Available At Amazon
+ - [https://www.gamespot.com/articles/playstation-portal-preorders-available-at-amazon/1100-6517131/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-portal-preorders-available-at-amazon/1100-6517131/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T14:15:00+00:00
+
+<div class="norewrite" title="6517131 - PlayStation Portal">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4182275-playstationportal.jpg" />                                 <a href="https://www.amazon.com/dp/B0CJT5DJ16?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/dp/B0CJT5DJ16?tag=gamespot-preorders-20">PlayStation Portal</a>           </p>                                                      
+
+## Cobra Kai Creators Mix Mission: Impossible With The Hangover In New Netflix Show
+ - [https://www.gamespot.com/articles/cobra-kai-creators-mix-mission-impossible-with-the-hangover-in-new-netflix-show/1100-6518064/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cobra-kai-creators-mix-mission-impossible-with-the-hangover-in-new-netflix-show/1100-6518064/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T14:08:00+00:00
+
+<p dir="ltr">There might be no better place to party than Sin City. But things can obviously go sideways in Las Vegas, especially when you're an inebriated special forces team tasked with saving the world. That's the setup for Obliterated, an upcoming Netflix series from <a href="https://www.gamespot.com/articles/netflixs-cobra-kai-renewed-for-sixth-and-final-season/1100-6510739/">the creators of Cobra Kai: Jon Hurwitz, Hayden Schlossberg, and Josh Heald</a>.</p><p dir="ltr">The first trailer for Obliterated shows the special forces team--apparently led by Nick Zano (Legends of Tomorrow) and Shelley Hennig (Teen Wolf, Mythic Quest)--disarming a nuke that would have destroyed Las Vegas. So a celebration is in order, including a hefty amount of drinks and drugs.</p><div>          </div><p dir="ltr">That's when the other shoe drops, unfortunately. The villains reveal the bomb was a misdirect, meaning the crew has to go back out in the field while clearly messed up. "Even though I'm half
+
+## Destiny 2 Gets A New Weapon-Focusing Feature In Season 23
+ - [https://www.gamespot.com/articles/destiny-2-gets-a-new-weapon-focusing-feature-in-season-23/1100-6518062/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-gets-a-new-weapon-focusing-feature-in-season-23/1100-6518062/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T13:35:00+00:00
+
+<p>Destiny 2's resident gunsmith Banshee-44 will be offering more focusing options starting in Season 23, as players will be able to chase their dream roll of older foundry weapons next season. <a href="https://www.bungie.net/7/en/News/article/9-28-23-twid">Bungie detailed</a> the select weapon-focusing that Banshee-44 will offer, which will give players the chance to get fresh rolls of weapons that were offered from Season 16-19.</p><p>This also means that these weapons will be removed from the world loot pool and will only be available from Gunsmith Engrams and focusing, while Banshee-44 will no longer offer a selection of Legendary-class shops from his shop. For the initial selection, a number of great weapons from Suros, Hakke, Veist, and Omolon will be offered, including popular options like Taipan-4fr, Lodbrok-C, and Snorri FR5.</p><h2>Season 23 Gunsmith pool and focusing</h2><h3>Suros</h3><ul><li>Cantata-57</li><li>Syncopation-53</li><li>Fugue-55</li><li>Staccato-46</li><li>Pi
+
+## Meta's New Ray-Ban Smart Glasses Are Built For Content Creators, Preorders Live Now
+ - [https://www.gamespot.com/articles/metas-new-ray-ban-smart-glasses-are-built-for-content-creators-preorders-live-now/1100-6518058/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/metas-new-ray-ban-smart-glasses-are-built-for-content-creators-preorders-live-now/1100-6518058/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T13:28:00+00:00
+
+<div><div class="norewrite" title="6518058 - Meta Ray-Ban Smart Glasses">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4198766-gsraybansmartglasseshero.png" />                                 <a href="https://www.amazon.com/Ray-Ban-Smart-Glasses-Headliner-Shiny-Polarized/dp/B0CGXX2HG5?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/Ray-Ban-Smart-Glasses-Headliner-Shiny-Polarized/dp/B0CGXX2HG5?ta
+
+## A New Elder Scrolls Game Just Released Out Of Nowhere
+ - [https://www.gamespot.com/articles/a-new-elder-scrolls-game-just-released-out-of-nowhere/1100-6518059/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-new-elder-scrolls-game-just-released-out-of-nowhere/1100-6518059/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-09-29T02:30:00+00:00
+
+<p>No, it's not <a href="https://www.gamespot.com/games/the-elder-scrolls-vi/">The Elder Scrolls VI</a>, but a new game set in Bethesda Games Studios' fantasy universe did just release with no warning whatsoever: <a href="https://www.gamespot.com/games/the-elder-scrolls-castles/">The Elder Scrolls: Castles</a>.</p><p dir="ltr">Currently available as a free download on the <a href="https://play.google.com/store/apps/details?id=com.bethsoft.stronghold&amp;hl=en_US&amp;gl=US">Google Play Store</a> and listed as being in early access, The Elder Scrolls: Castles is described as putting players in control of a medieval dynasty, where they'll oversee a castle of subjects and family members as the years go by. The game doesn't yet look to be available on iOS or on PC, and from what we can tell, wasn't ever officially announced.</p><figure><div class="image-gallery__label">Gallery</div>   <div class="image-gallery__list hide-scrollbar image-gallery__list--small">       <a href="https://www.ga
+

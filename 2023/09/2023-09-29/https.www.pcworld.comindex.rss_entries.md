@@ -1,0 +1,228 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Assassin’s Creed Mirage preview: Finally, a return to stealth roots
+ - [https://www.pcworld.com/article/2085732/assassins-creed-mirage-stealth-gameplay-is-this-much-fun.html](https://www.pcworld.com/article/2085732/assassins-creed-mirage-stealth-gameplay-is-this-much-fun.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T19:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.epicgames.com/en-US/p/assassins-creed-mirage&amp;xcust=2-3-2085732-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Assassin&rsquo;s Creed Mirage</a> is a dream for stealth kings. People who loved Sam Fisher in Splinter Cell or simply the old Assassin&rsquo;s Creeds will have a tremendous fun in beautiful 9th century Baghdad, our recent hands-on with the game revealed.</p>
+
+
+
+<p>We throw coins, briefly distract a guard, dart around corners. We duck into dark corners, because in the evening even our shadow in a candle could betray us. It&rsquo;s a completely different feeling from Assassin&rsquo;s Creed Valhalla. In that game, we are a bear of a man, with arms like tree trunks as we swing the axe and make the English army tremble.</p>
+
+
+<div class="extendedBlock-wrapper bloc
+
+## The Raspberry Pi 5 was finally announced and it’s a mini PC monster
+ - [https://www.pcworld.com/article/2085982/raspberry-pi-5-finally-announced-mini-pc-monster.html](https://www.pcworld.com/article/2085982/raspberry-pi-5-finally-announced-mini-pc-monster.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T18:00:32+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Holiday cheer is coming early for makers and single-board computer enthusiasts: The Raspberry Pi Foundation just announced the successor to the Raspberry Pi 4, and it looks totally badass.</p>
+
+
+
+<p>Arriving at the end of October, the new Raspberry Pi 5 has been unveiled with just two variants named so far: a $60 4GB version, and a $80 8GB option. It&rsquo;s a departure from leading with a $35 model (currently the 1GB <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.raspberrypi.com/products/raspberry-pi-4-model-b/&amp;xcust=2-1-2085982-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Raspberry Pi 4</a>), but given the long history of that entry price, it&rsquo;s not unlikely to see additional variants announced down the road.</p>
+
+
+
+<p>Right now, the focus is on power, and it&rsquo;s understandable why. Not only does the Ra
+
+## FSR 3, Radeon’s frame-injecting DLSS 3 rival, launches today
+ - [https://www.pcworld.com/article/2087227/amds-fidelityfx-super-resolution-3-upscaling-launches-today.html](https://www.pcworld.com/article/2087227/amds-fidelityfx-super-resolution-3-upscaling-launches-today.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T16:07:39+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Birds gotta fly, fish gotta swim, and graphics cards companies gotta incrementally update their upscaling technology. Just a week after <a href="https://www.pcworld.com/article/2037518/nvidia-dlss-3-5s-ai-ray-reconstruction-makes-ray-tracing-look-even-better.html">Nvidia debuted DLSS 3.5</a>, AMD is countering with the official launch of Fidelity FX Super Resolution 3, better known as FSR 3. You can try it out right now in<em> Immortals of Aveum</em> and&hellip;<em>Forspoken</em>. Oof. </p>
+
+
+
+<p>Fortunately, the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://community.amd.com/t5/gaming/amd-fsr-3-now-available/ba-p/634265&amp;xcust=2-1-2087227-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">upgrades in FSR 3</a> will be coming to a variety of current and future games soon, including <em>Cyberpunk</em>, <em>Wa
+
+## Update now! Chrome, other software hit by 0-day exploit – and it’s being attacked
+ - [https://www.pcworld.com/article/2087108/update-now-chrome-and-other-software-vulnerable-to-new-zero-day-exploit.html](https://www.pcworld.com/article/2087108/update-now-chrome-and-other-software-vulnerable-to-new-zero-day-exploit.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T15:01:04+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>There&rsquo;s a new zero-day exploit for some of the world&rsquo;s most popular software out there, and according to Google, it&rsquo;s being actively attacked in the wild. Google&rsquo;s security research says that the vulnerability comes from a widely-used media encoding system for the WebM file format. It could leave a ton of programs open to attack, from Chrome and Firefox to Skype and VLC, across more or less every major operating system. Update Chrome immediately for a patch. </p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_27.html&amp;xcust=2-2-2087108-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Google documents</a> the bug as a high-profile security issue, labeled &ldquo;CVE-2023-5217.&rdquo; &ldquo;Heap buffer overfl
+
+## Roccat Kone Air review: A solid $50 gaming mouse
+ - [https://www.pcworld.com/article/2077628/roccat-kone-air-wireless-gaming-mouse-review.html](https://www.pcworld.com/article/2077628/roccat-kone-air-wireless-gaming-mouse-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T14:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Precise Owl-Eye sensor</li><li>Durable &ldquo;Titan Switch Optical&rdquo; switches</li><li>Impressive battery life of up to 800 hours</li><li>Dual wireless connectivity</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Uneven weight distribution with one battery</li><li>No wired mode</li><li>Limited to a single profile</li><li>Possibly too heavy and large for esports</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3>
+
+## This fully loaded Roccat mechanical gaming keyboard is 54% off
+ - [https://www.pcworld.com/article/2086916/2086916.html](https://www.pcworld.com/article/2086916/2086916.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T14:22:38+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Nothing is more life changing than using a mechanical gaming keyboard for the first time. Between the click-clack sounds of the keys and the vibrant RGB lighting, they&rsquo;re a lot of fun to use. Plus, they&rsquo;re more responsive than your typical membrane variety, which is perfect for games. If you&rsquo;re on the hunt for one, you&rsquo;ve come to the right place. Amazon&rsquo;s selling the <a href="http://buy.geni.us/Proxy.ashx?TSID=14154&amp;GR_URL=https://www.amazon.com/Vulcan-Aimo-Mechanical-Gaming-Keyboard/dp/B07QGLQ6MS?ascsubtag=2-2-2086916-1-0-0" rel="nofollow">Roccat Vulcan 121 mechanical gaming keyboard for $54.99</a>, which is 54 percent off of the original $119.99 price. </p>
+
+
+
+<p>The Roccat Vulcan 121 features Titan Switches, with an actuation point of 1.8mm, and a travel distance of 3.6mm. The Titan Switches, which have been developed by Rocc
+
+## Watch a PC noob make a dream machine with Corsair’s Build Kit, live
+ - [https://www.pcworld.com/article/2086937/watch-a-newbie-pc-builder-make-a-dream-machine-live.html](https://www.pcworld.com/article/2086937/watch-a-newbie-pc-builder-make-a-dream-machine-live.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T14:12:01+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>For those of us who&rsquo;ve been building computers since we were <em>wee bairns</em>, it might be hard to remember that the first time can be intimidating. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.corsair.com/us/en/s/corsair-build-kits&amp;xcust=2-2-2086937-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Corsair&rsquo;s build kits</a> are one of several parts bundles that aims to solve that problem, including every necessary component to build a gaming PC, including video assembly instructions, a copy of Windows, and even a screwdriver and bit set. And we&rsquo;re going to unleash a complete PC-building newbie on it, live on YouTube. </p>
+
+
+
+<p>Adam&rsquo;s friend needs a new PC and wants to see what the DIY scene is all about, so it&rsquo;s a perfect time to test out Corsair&rsquo;s build kit and
+
+## Forget passwords: Passkeys are debuting in Windows 11, and I want more
+ - [https://www.pcworld.com/article/2084107/passkeys-are-debuting-in-windows-11-and-i-want-more.html](https://www.pcworld.com/article/2084107/passkeys-are-debuting-in-windows-11-and-i-want-more.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T13:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Windows passkeys may be the new Windows Hello of Windows 11. I&rsquo;ve just started trying them, and I want more. Lots more.</p>
+
+
+
+<p>Remember, <a href="https://www.pcworld.com/article/422745/hands-on-with-windows-10s-windows-hello-it-just-works.html">Windows Hello debuted on Windows 10</a> as a biometric means of authentication. Since then, you&rsquo;ve been able to open a laptop, show your face to the camera, and absolutely ignore any requirement to type in a Windows password to unlock your PC. It&rsquo;s simple, extremely convenient, and largely foolproof.</p>
+
+
+
+<p>Passkeys are the latest iteration, and they&rsquo;re debuting in the Windows 11 22H2 update, available now. (They&rsquo;ll also appear in the <a href="https://www.pcworld.com/article/2071752/windows-11-23h2-update-sept-26-copilot-rar-support-more.html">Windows 11 22H3 or Windows 11 2023 Update</
+
+## 10 ChatGPT Alternatives & Competitors (Free and Paid)
+ - [https://www.pcworld.com/article/2086819/chatgpt-alternatives.html](https://www.pcworld.com/article/2086819/chatgpt-alternatives.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T12:26:41+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Ever since artificial intelligence became available to the public, ChatGPT has been one of the go-to services for many user&rsquo;s AI needs. By now, millions of people have visited the Chat GPT website, and many more continue to do so.&nbsp;</p>
+
+
+
+<p>However, ChatGPT isn&rsquo;t the only framework for AI &ndash; nor is it necessarily the best option out there. There are other sites that offer similar or even better services than ChatGPT.</p>
+
+
+
+<p>In other words, you can easily find a ChatGPT alternative &ndash; if you know where to look. This article will help you in that regard by offering not one Chat GPT alternative but 10. Let&rsquo;s explore some&nbsp; ChatGPT competitors, both free and paid.</p>
+
+
+
+<h2 class="wp-block-heading" id="1-hix-ai">1. HIX.AI</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img 
+
+## I switched my $1,000 desktop to a $300 mini PC and regret nothing
+ - [https://www.pcworld.com/article/2079827/i-switched-my-1000-desktop-to-a-300-mini-pc-and-regret-nothing.html](https://www.pcworld.com/article/2079827/i-switched-my-1000-desktop-to-a-300-mini-pc-and-regret-nothing.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T11:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Earlier this year, I impulse-bought a tiny, inexpensive desktop PC for research purposes. I didn&rsquo;t expect it to change my entire computing setup.</p>
+
+
+
+<p>But here I am now, using the $300&nbsp;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B09SHSQ5CF&amp;xcust=2-3-2079827-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Beelink SER5 Mini PC</a>&nbsp;as my daily workhorse, powering an ultrawide 1440p 100Hz monitor and smoothly handling any productivity task I&rsquo;ve thrown at it. This little computer has been so delightful to use that I&rsquo;ve relegated my full-sized desktop tower PC to the basement television, where it&rsquo;s now serving exclusively as a gaming rig.</p>
+
+
+
+<p>Consider this a lesson on technological overkill. Outside of some specialized use cases, the required compute power for g
+
+## TerraMaster F2-212 review: Entry-level NAS with options
+ - [https://www.pcworld.com/article/2075478/terramaster-f2-212-review.html](https://www.pcworld.com/article/2075478/terramaster-f2-212-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T10:30:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>New styling</li><li>Quad-core CPU</li><li>Can be upgraded to 2.5GbE LAN</li><li>Supports SSD caching</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>No memory upgrades</li><li>Only one USB 3.2 Gen 1 port</li><li>Drive trays don&rsquo;t lock</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">While not having a front-facing USB port is disconcerting, the rest of the F2-212 is neat and well-considere
+
+## Upgrade to Windows 11 Pro and get Microsoft Office for just $50
+ - [https://www.pcworld.com/article/2086111/upgrade-to-windows-11-pro-and-get-microsoft-office-for-just-50.html](https://www.pcworld.com/article/2086111/upgrade-to-windows-11-pro-and-get-microsoft-office-for-just-50.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T10:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Everyone wants to run the best software and programs on their PC. But that can get prohibitively expensive for many of us. So, take advantage of this limited-time price drop on <a href="https://shop.pcworld.com/sales/the-all-in-one-microsoft-office-pro-plus-2021-for-windows-lifetime-license-windows-11-pro-bundle?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=the-all-in-one-microsoft-office-pro-plus-2021-for-windows-lifetime-license-windows-11-pro-bundle&amp;utm_term=scsf-580442&amp;utm_content=a0xRn0000001CqLIAU&amp;scsonar=1" rel="noreferrer noopener" target="_blank">The All-in-One Microsoft Office Pro 2021 for Windows: Lifetime License + Windows 11 Pro Bundle</a>.</p>
+
+
+
+<p>Sold separately, the cost of upgrading to Windows 11 Pro and Microsoft Office could run you several hundred dollars. But with this limited-time price drop, you can get both
+
+## Save an extra $20 on this AI image generator through 9/30
+ - [https://www.pcworld.com/article/2086071/save-an-extra-20-on-this-ai-image-generator-through-9-30.html](https://www.pcworld.com/article/2086071/save-an-extra-20-on-this-ai-image-generator-through-9-30.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-09-29T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Whether you work in sales, marketing, or project management, you never know when you might need some quality design or imagery to support your work. Rather than going through a time-consuming design process, just trust an <a href="https://shop.pcworld.com/sales/pixilio-the-ultimate-ai-image-generator-lifetime-subscription?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=pixilio-the-ultimate-ai-image-generator-lifetime-subscription&amp;utm_term=scsf-579871&amp;utm_content=a0xRn0000000tanIAA&amp;scsonar=1" rel="noreferrer noopener" target="_blank">AI image generator</a> like Pixilio.</p>
+
+
+
+<p>This deal is rated 4.6/5 stars on average by verified purchasers. Pixilio utilizes advanced machine learning algorithms to create high-quality, custom images to your exact specs in a matter of seconds. All you have to do is input your desired parameters and Pi
+
