@@ -1,0 +1,24 @@
+# Source:Biometric Update, URL:http://feeds.feedburner.com/biometricupdate, language:en-US
+
+## Discovery of digital wallets’ DNA unveiled at OIX Identity Trust
+ - [https://www.biometricupdate.com/202309/discovery-of-digital-wallets-dna-unveiled-at-oix-identity-trust](https://www.biometricupdate.com/202309/discovery-of-digital-wallets-dna-unveiled-at-oix-identity-trust)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-30T15:50:26+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/24122052/digital-id-wallet-mobile-1-scaled.jpg" width="2048" />
+		Digital wallets could be a game changer for digital identity, if challenges related to global interoperability, privacy protection and user understanding can be resolved. This was one of several conclusions reached by stakeholders at the Open Identity Exchange’s <a href="https://openidentityexchange.org/networks/87/events.html?id=7780">Identity Trust 2023</a>.
+
+The event, held in London on Thursday, drew together policy and standards-makers, identity verification and wallet providers, biometrics developers like <a href="https://www.biometricupdate.com/companies/yoti">Yoti</a>, age verification providers like <a href="https://www.biometricupdate.com/companies/arissian-ltd">Luciditi</a> and relying parties from a range of verticals. Over 200 people attended ei
+
+## iBeta is accredited to expand biometric quality assurance and performance testing
+ - [https://www.biometricupdate.com/202309/ibeta-is-accredited-to-expand-biometric-quality-assurance-and-performance-testing](https://www.biometricupdate.com/202309/ibeta-is-accredited-to-expand-biometric-quality-assurance-and-performance-testing)
+ - RSS feed: http://feeds.feedburner.com/biometricupdate
+ - date published: 2023-09-30T15:20:45+00:00
+
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-scaled.jpg" width="2048" />
+		Colorado-based<a href="https://www.biometricupdate.com/companies/ibeta"> iBeta Quality Assurance</a> has been certified with accreditation to expand their biometric security testing capabilities. In a release, the firm announced the results of a bi-annual NIST audit under the National Volunteer Laboratory Program (NVLAP) Testing LabCode 200962-0 for the new 30107-3:2023 standard.
+
+The accreditation certifies iBeta to conduct biometric Presentation Attack Detection (PAD) testing to standards ICO/IEC 30107-1 (2016), 30107-3 (2017) and 30107-4 (2020). Additionally, it expands capabilities for the biometric scenario and technology performance testing used in iBeta’s Bake-off and Face-off services to the ISO/IEC 19795 standard.
+
+Certificate of Accreditation to ISO/
+

@@ -1,0 +1,65 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## Saw X Was So Gnarly, Its Editor Had the Cops Called on Him
+ - [https://gizmodo.com/saw-x-editor-sound-design-police-called-1850889551](https://gizmodo.com/saw-x-editor-sound-design-police-called-1850889551)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T19:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/5e14858ef2598e6b26142c3afff1ca81.png" /><p>Watching the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/saw-x-trailer-lionsgate-jigsaw-1850690038">Saw movies</a> isn’t for everyone—across the now 10-movie franchise, audiences have seen people mutilate themselves in order to stay alive or die trying in some <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/saw-x-jigsaw-return-kevin-greutert-1850800113">pretty grisly fashion</a>. For those who loves these movies or to see people get messed up, that’s part of the appeal. But when you’re the one involved…</p><p><a href="https://gizmodo.com/saw-x-editor-sound-design-police-called-1850889551">Read more...</a></p>
+
+## Knights of the Old Republic Remake's Status in Question After Trailer Pruning
+ - [https://gizmodo.com/star-wars-knights-old-republic-remake-trailer-removed-1850889524](https://gizmodo.com/star-wars-knights-old-republic-remake-trailer-removed-1850889524)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T18:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/d57ad41bc7899dcd1ae76fcd836c6d1a.jpg" /><p>BioWare’s 2003 game <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-wars-knights-of-old-republic-exclusive-concept-art-1850634120">Star Wars: Knights of the Old Republic</a> is one of the most well-known video games to bear the franchise’s name, and players were delighted to hear it would be coming to the current gaming generation. But much like <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/star-wars-eclipse-quantic-dream-status-update-1850866002">Star Wars Eclipse</a>, whose existence had to be reconfirmed by developer Quantic Dream…</p><p><a href="https://gizmodo.com/star-wars-knights-old-republic-remake-trailer-removed-1850889524">Read more...</a></p>
+
+## The Marvels May Be the MCU's Shortest Film Ever
+ - [https://gizmodo.com/the-marvels-possible-runtime-revealed-1850889402](https://gizmodo.com/the-marvels-possible-runtime-revealed-1850889402)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T17:25:05+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/175337838d32ce988686d4fe88ec298e.jpg" /><p>At a time when folks are tying a <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/indiana-jones-5-runtime-length-first-clip-harrison-ford-1850439320">movie’s runtime</a> as part of their interest in seeing it in the theater, blockbuster tentpoles can sometimes <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/the-batman-movie-is-waaaaaaaaaaay-too-long-1848394213">run fairly long</a>. At two hours or more, superhero flicks can run long in the the tooth. So if such a thing matters to you, you’ll be pleased to hear that the upcoming <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/nia-dacosta-the-marvels-kevin-feige-mcu-storytelling-1850855146">The Marvels</a> ac…</p><p><a href="https://gizmodo.com/the-marvels-possible-runtime-revealed-
+
+## Hazbin Hotel Checks In to Prime Video in January
+ - [https://gizmodo.com/hazbin-hotel-vivziepop-prime-video-january-2024-1850889373](https://gizmodo.com/hazbin-hotel-vivziepop-prime-video-january-2024-1850889373)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T15:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/9a0b52266e2ab268e0db3fe779d057a1.jpg" /><p>In 2019, animator and illustrator Vivienne Medrano (aka <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/channel/UCzfyYtgvkx5mLy8nlLlayYg" rel="noopener noreferrer" target="_blank">VivziePop</a>) released the pilot for her upcoming animated series <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.youtube.com/watch?v=Zlmswo0S0e0" rel="noopener noreferrer" target="_blank">Hazbin Hotel</a>. Animation fans took the show fairly well and at time of writing, it’s racked up 90 million views on YouTube. The following year, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/talk-to-me-horror-sequel-officially-greenlit-a24-1850717706">A24</a> opted to pick up the pilot for a full-blown show, and…</p><p><a href="https://gizmodo.com/hazbin-hotel-vivzie
+
+## What Place Does Physical Media Have in Our All-Digital World?
+ - [https://gizmodo.com/netflix-physical-scarecrow-video-dvd-by-mail-interview-1850887439](https://gizmodo.com/netflix-physical-scarecrow-video-dvd-by-mail-interview-1850887439)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/db5ae14f877fb80bf5f347e0ef39163e.jpg" /><p>There are few places in this world where dead things are offered such a promoted place among the living. If I had to arrange my mind to any, my first thought lands on the Catacombes de Paris, the old quarries turned morbid gallery for the shelves of anonymous bones. In that enormous memento mori, the skulls of…</p><p><a href="https://gizmodo.com/netflix-physical-scarecrow-video-dvd-by-mail-interview-1850887439">Read more...</a></p>
+
+## A Look Back at the Best Spaceflight Images From September
+ - [https://gizmodo.com/the-best-spaceflight-images-from-september-1850825016](https://gizmodo.com/the-best-spaceflight-images-from-september-1850825016)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/f4078588a6f4dcf40126721e5b1b752d.jpg" /><p>The summer season has ended, but spaceflight continues to be hot, with new views of our Moon and Jupiter’s moon Io, the much-anticipated return of an astronaut and an asteroid sample, and important new rocket engine tests, to name just a few of the many moments that captured our attention in September.</p><p><a href="https://gizmodo.com/the-best-spaceflight-images-from-september-1850825016">Read more...</a></p>
+
+## Super7 Debuts New Sesame Street, Pinocchio and Peanuts Figures
+ - [https://gizmodo.com/sesame-street-pinocchio-peanuts-debut-super7-figures-1850888392](https://gizmodo.com/sesame-street-pinocchio-peanuts-debut-super7-figures-1850888392)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/70036ef16e62a98fa6332850c5f29a18.jpg" /><p>Get ready for some SuperSize collectibles from Super7, which are available as of today.<br /></p><p><a href="https://gizmodo.com/sesame-street-pinocchio-peanuts-debut-super7-figures-1850888392">Read more...</a></p>
+
+## AI This Week: The Hollywood Writer's Strike May Have Ended But the Battle Over AI is Far From Over
+ - [https://gizmodo.com/ai-this-week-the-hollywood-writers-strike-may-have-end-1850877755](https://gizmodo.com/ai-this-week-the-hollywood-writers-strike-may-have-end-1850877755)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T12:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/0a4d11b9366130b4bbbd01b26814b9f2.jpg" /><ul class="sc-1lmbno3-0 iPScqk"><li>OpenAI rolled out a number of big updates to ChatGPT this week. Those updates include “<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977">eyes, ears, and a voice</a>” (i.e., the chatbot now boasts image recognition, speech-to-text and text-to-speech synthesization capabilities, and Siri-like vocals—so you’re basically talking to the HAL 9000), as well as a new integration…</li></ul><p><a href="https://gizmodo.com/ai-this-week-the-hollywood-writers-strike-may-have-end-1850877755">Read more...</a></p>
+
+## Meta Quest 3 Shows Us the Metaverse Dream isn’t Dead Yet
+ - [https://gizmodo.com/meta-quest-3-shows-us-the-metaverse-dream-isn-t-dead-ye-1850883582](https://gizmodo.com/meta-quest-3-shows-us-the-metaverse-dream-isn-t-dead-ye-1850883582)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-09-30T11:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/3d70c10dbda15200a5c6e18dab6b2f27.jpg" /><p>Watching the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/metas-mixed-reality-quest-3-is-here-starting-at-500-1850877249">Meta Quest 3 being announced by Meta</a> made me realize something – the hardware available for virtual, augmented and mixed reality is finally catching up with the big idea pitches everyone had about this concept called the “metaverse” a couple of years ago.<br /></p><p><a href="https://gizmodo.com/meta-quest-3-shows-us-the-metaverse-dream-isn-t-dead-ye-1850883582">Read more...</a></p>
+
