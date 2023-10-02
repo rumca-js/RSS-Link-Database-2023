@@ -1,0 +1,72 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Texas Chain Saw Massacre Victim and Family mains finally agree on something - the DLC is very expensive
+ - [https://www.eurogamer.net/texas-chain-saw-massacre-victim-and-family-mains-finally-agree-on-something-the-dlc-is-very-expensive](https://www.eurogamer.net/texas-chain-saw-massacre-victim-and-family-mains-finally-agree-on-something-the-dlc-is-very-expensive)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T18:25:11+00:00
+
+<img src="https://assetsio.reedpopcdn.com/texas-chain-saw-massacre-screen-crop.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The Texas Chain Saw Massacre players have hit back at the game's monetisation strategy after Gun and Sumo outlined its plans for upcoming DLC.
+</p><p>"We've seen some discussion, and for transparency, we wanted to share pricing for any and all future content for The Texas Chain Saw Massacre," the team stated via a statement posted to its social media channels, including Twitter/X.
+</p><p>The tweet went on to give prices for upcoming skins and characters, confirming "premium content" &ndash; such as a Leatherface skin designed by Greg Nicotero &ndash; will cost $16, new characters, both victim and family, will sell for $10, executions $7, and clothing and weapon cosmetics for $5. Other content, such as "maps, etc.", will be released for free.
+</p> <p><a href="https://www.eurogamer.net/texas-chain-saw-massacre-vi
+
+## Starfield was made to be played "for a very long time"
+ - [https://www.eurogamer.net/starfield-was-made-to-be-played-for-a-very-long-time](https://www.eurogamer.net/starfield-was-made-to-be-played-for-a-very-long-time)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T17:38:09+00:00
+
+<img src="https://assetsio.reedpopcdn.com/starfield-loading-screen-landscape-crescent-moon-above-mountains.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p><a href="https://www.eurogamer.net/starfield-guides-tips-tricks-9352">Starfield</a> was "made to played for a long time".
+</p><p>That's according to Bethesda boss Todd Howard himself, who said in a <a href="https://youtu.be/ZNQzIjptC_o">Game Maker&rsquo;s Notebook</a> interview with Insomniac CEO Ted Price that after watching how players interact with other Bethesda RPGs like Skyrim and Fallout, he believes "people want to play [games] for a very long time".
+</p><p>"This is a game that's intentionally made to be played for a long time. One of the things we&rsquo;ve learned from our previous games, like Skyrim, like Fallout, is that people want to play them for a very long time," said Howard, as transcribed by <a href="https://www.videogameschronicle.com/news/todd-howard-says-starfiel
+
+## This rare N64 controller is set to sell for around £1000
+ - [https://www.eurogamer.net/this-rare-n64-controller-is-set-to-sell-for-around-1000](https://www.eurogamer.net/this-rare-n64-controller-is-set-to-sell-for-around-1000)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T13:57:09+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Screenshot-2023-10-01-at-14.52.43.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>A rare N64 controller is set to sell for around &pound;1000 after its owner found the item in his attic after being gifted the now hard-to-find Foxdata N64 pad on their fourteenth birthday.
+</p><p>It's one of four designs issued by Foxdata in the late 1990s, which included controllers called Desert Storm, Red Rain, Purple Forest, and Chrome Leopard. 
+</p><p>Liam Clousdale &ndash; who had the latter Leopard variant &ndash; said he'd asked for the distinctive controller so that when he went to his friends' homes to play, "everyone liked to have their own unique pad [...] to avoid confusion".
+</p> <p><a href="https://www.eurogamer.net/this-rare-n64-controller-is-set-to-sell-for-around-1000">Read more</a></p>
+
+## Dark and Darker sets Wardens running with this one-day-only anniversary event
+ - [https://www.eurogamer.net/dark-and-darker-sets-wardens-running-with-this-one-day-only-anniversary-event](https://www.eurogamer.net/dark-and-darker-sets-wardens-running-with-this-one-day-only-anniversary-event)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T13:31:46+00:00
+
+<img src="https://assetsio.reedpopcdn.com/darkanddarker_fu91rVL.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>It's been exactly a year since Dark and Darker ran its very first playtest, and to celebrate, developer Ironmace is running a special in-game community event today.
+</p><p>For one day only, Wardens will be "running around the dungeons full of treasure", so players &ndash; of which there are now 460,000, according to Ironmace &ndash; are invited to "try their luck and catch one".
+</p><p>"Time flies! It has been a year since QA Playtest 1," Dark and Darker Discord admin Graysun announced (thanks, <a href="https://www.pcgamesn.com/dark-and-darker/anniversary-event">PCGN</a>).
+</p> <p><a href="https://www.eurogamer.net/dark-and-darker-sets-wardens-running-with-this-one-day-only-anniversary-event">Read more</a></p>
+
+## This fan-made VR Mod for Portal 2 is so good it'll make you wonder why we never saw an official version
+ - [https://www.eurogamer.net/this-fan-made-vr-mod-for-portal-2-is-so-good-itll-make-you-wonder-why-we-never-saw-an-official-version](https://www.eurogamer.net/this-fan-made-vr-mod-for-portal-2-is-so-good-itll-make-you-wonder-why-we-never-saw-an-official-version)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T13:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/b1_Xxc1Qwr.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>It's another week, another VR Corner and another example of modders showing the rest of the world how VR should be done - this time with a flatscreen to VR mod for Portal 2 that brings 6DoF and motion controlled portal shooting to the game.</p><p>In the video below, you can watch me role-play my way through the first hour of the game as I wake up at the very start of Portal 2's excellently comical campaign and subsequently push my way through a plethora of head-scratching puzzles.</p><p>The main thing that struck me during my time playing the mod was just how 'right' it felt. If I'd have never played Portal 2 before and you'd have told me that it had been designed specifically for VR, I'd have believed you. It all works so well!</p> <p><a href="https://www.eurogamer.net/this-fan-made-vr-mod-for-portal-2-is-so-good-itll-make-you-wonder-w
+
+## Gran Turismo Sport's online servers will go dark in early 2024
+ - [https://www.eurogamer.net/gran-turismo-sports-online-servers-will-go-dark-in-early-2024](https://www.eurogamer.net/gran-turismo-sports-online-servers-will-go-dark-in-early-2024)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T11:12:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/gran-turismo-sports-big-new-update-is-the-best-and-the-worst-of-the-series-rolled-into-one-1533300807160.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Gran Turismo Sport's online servers will go dark on 31st January 2024.
+</p><p>In a <a href="https://www.gran-turismo.com/gb/news/00_3090440.html">blog</a> on the Gran Turismo site, the team confirmed "end of online service" will begin on 1st December, when DLC will be removed from the PlayStation Store, although all previously purchased DLC and "offline portions" of the game will remain accessible after shutdown. 
+</p><p>The statement explained that after Gran Turismo Sport's online services are shuttered, the team will then "continue to further improve the online services" for Gran Turismo 7.
+</p> <p><a href="https://www.eurogamer.net/gran-turismo-sports-online-servers-will-go-dark-in-early-2024">Read more</a></p>
+
+## What to Play This October
+ - [https://www.eurogamer.net/what-to-play-this-october](https://www.eurogamer.net/what-to-play-this-october)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T11:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/lotf-banner-image.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Hello! October is here, which means it's spooky/cosy season at last (delete as appropriate). It also means it's time for our new(ish) recurring series, <a href="https://www.eurogamer.net/topics/what-to-play-this-month">What to Play This Month</a>, to return again with a roundup of the best games from the month gone by, and the things we're most excited to play from the month ahead - plus, any other suggestions for what might complement it. </p><p>As a reminder, the goal for us with this series is simple enough: there are more games releasing than ever, so we're aiming to narrow things down and help you cut through the noise. Here's <strong>What To Play This October</strong>.</p><p><strong>Availability:</strong> Out now on PC, PS4, PS5, Xbox One, Xbox Series X/S, Switch.</p> <p><a href="https://www.eurogamer.net/what-to-play-this-
+
+## Cocoon, Tomb Raider 2, and the pros and cons of being stuck in a game world
+ - [https://www.eurogamer.net/cocoon-tomb-raider-2-and-the-pros-and-cons-of-being-stuck-in-a-game-world](https://www.eurogamer.net/cocoon-tomb-raider-2-and-the-pros-and-cons-of-being-stuck-in-a-game-world)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-01T09:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/tombraider2_lara.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>One of the many things I've heard said about games that is always bobbing around in my head is a line from Tim Schafer, of Monkey Island and Double Fine fame. He was talking at a Develop conference in Brighton about a decade ago most likely, and he was talking about the problem of the player getting stuck in video games. "Getting stuck," he said, or something along those lines. "We used to call that gameplay."</p><p>I can attest to this in a very personal way. Getting stuck - often getting stuck in games Schafer had helped create - was very much gameplay when I was at school in the 1990s. I remember sitting in maths class with my friend Gareth, passing notes back and forth about what to do with the key we'd found in the chandelier in Maniac Mansion. (I don't think that's one of Schafer's.) A year or so later we'd be talking about 
+
