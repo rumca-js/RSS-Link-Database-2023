@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: Kickstarting the audiobook of The Lost Cause, my novel of environmental hope (02 Oct 2023)
+ - [https://pluralistic.net/2023/10/02/the-lost-cause/](https://pluralistic.net/2023/10/02/the-lost-cause/)
+ - RSS feed: https://pluralistic.net/feed
+ - date published: 2023-10-02T13:39:35+00:00
+
+Today's links Kickstarting the audiobook of The Lost Cause, my novel of environmental hope: And another one that Amazon won't sell. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Kickstarting the audiobook of The Lost Cause, my novel of environmental hope (permalink) The Lost Cause is my next novel. It's about the climate emergency. It's hopeful. Library Journal called it "a message hope in a near-future that looks increasingly bleak." As with every other one of my books Amazon refuses to sell the audiobook, so I made my own, and I'm pre-selling it on Kickstarter: https://www.kickstarter.com/projects/doctorow/the-lost-cause-a-novel-of-climate-and-hope That's a lot to unpack, I know. So many questions! Including this one: "How is it that I have another book out in 2023?" Because this is my third book this year. Short answer: I write when I'm anxio
+
