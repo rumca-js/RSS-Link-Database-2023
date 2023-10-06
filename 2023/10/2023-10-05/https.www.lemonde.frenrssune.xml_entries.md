@@ -1,0 +1,205 @@
+# Source:Le Monde, URL:https://www.lemonde.fr/en/rss/une.xml, language:en-US
+
+## India: Authorities raid homes of journalists linked to 'Newsclick' news website
+ - [https://www.lemonde.fr/en/international/article/2023/10/06/india-authorities-raid-homes-of-journalists-linked-to-newsclick-news-website_6151822_4.html](https://www.lemonde.fr/en/international/article/2023/10/06/india-authorities-raid-homes-of-journalists-linked-to-newsclick-news-website_6151822_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T23:03:46+00:00
+
+The authorities have accused the media outlet, known as one of the few to resist the stranglehold of Prime Minister Narendra Modi, of having received Chinese funds.
+
+## Four PSG players suspended one-match for offensive chants aimed at Marseille
+ - [https://www.lemonde.fr/en/france/article/2023/10/06/four-psg-players-suspended-one-match-for-offensive-chants-aimed-at-marseille_6151756_7.html](https://www.lemonde.fr/en/france/article/2023/10/06/four-psg-players-suspended-one-match-for-offensive-chants-aimed-at-marseille_6151756_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T22:23:24+00:00
+
+Ousmane Dembele, Randal Kolo Muani, Achraf Hakimi, and Layvin Kurzawa received suspended bans as they were caught on camera singing an offensive song directed at Marseille supporters.
+
+## Rugby World Cup: New Zealand shuts out Uruguay 73-0 to secure quarter-final qualification
+ - [https://www.lemonde.fr/en/rugby/article/2023/10/05/rugby-world-cup-new-zealand-shuts-out-uruguay-73-0-to-secure-quarter-final-qualification_6151687_99.html](https://www.lemonde.fr/en/rugby/article/2023/10/05/rugby-world-cup-new-zealand-shuts-out-uruguay-73-0-to-secure-quarter-final-qualification_6151687_99.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T21:20:32+00:00
+
+Despite a slow start, New Zealand managed to secure a dominant victory in their last pool match on Thursday. New Zealand must now wait and see if they win Pool A or finish second, depending on whether Italy can topple France on Friday night.
+
+## Syria: Drone attack on military academy kills at least 80 people
+ - [https://www.lemonde.fr/en/international/article/2023/10/05/syria-drone-attack-on-military-academy-kills-more-than-80-people_6151621_4.html](https://www.lemonde.fr/en/international/article/2023/10/05/syria-drone-attack-on-military-academy-kills-more-than-80-people_6151621_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T20:41:07+00:00
+
+There was no immediate claim of responsibility for the attack. Separately, Turkish airstrikes on Thursday targeting Kurdish-held areas in Syria killed 11 people amid escalating cross-border tensions.
+
+## Paris Olympics: Joel Embiid opts to play for US not France
+ - [https://www.lemonde.fr/en/basketball/article/2023/10/05/paris-olympics-joel-embiid-opts-to-play-for-us-not-france_6151555_95.html](https://www.lemonde.fr/en/basketball/article/2023/10/05/paris-olympics-joel-embiid-opts-to-play-for-us-not-france_6151555_95.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T20:16:07+00:00
+
+The NBA's reigning MVP and scoring champion has told USA Basketball that, after more than a year of deliberating, he has picked the Americans over France as his team for the 2024 Paris Olympics.
+
+## In Colombia, the endless search for the lost children of Armero
+ - [https://www.lemonde.fr/en/environment/article/2023/10/05/in-colombia-the-endless-search-for-the-lost-children-of-armero_6151453_114.html](https://www.lemonde.fr/en/environment/article/2023/10/05/in-colombia-the-endless-search-for-the-lost-children-of-armero_6151453_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T19:33:34+00:00
+
+Living after a disaster (3/6). In November 1985, a mudslide triggered by the eruption of the Nevado del Ruiz volcano swept away the town of Armero, killing 25,000 people. Decades later, families convinced that their children were put up for adoption have not lost hope of finding them.
+
+## Putin says 'hand grenade fragments found in bodies of victims in Prigozhin plane crash'
+ - [https://www.lemonde.fr/en/russia/article/2023/10/05/putin-says-hand-grenade-fragments-found-in-bodies-of-victims-in-prigozhin-plane-crash_6151287_140.html](https://www.lemonde.fr/en/russia/article/2023/10/05/putin-says-hand-grenade-fragments-found-in-bodies-of-victims-in-prigozhin-plane-crash_6151287_140.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T19:05:22+00:00
+
+The Wagner Group boss was among 10 people killed when the jet came down as it flew from Moscow to St. Petersburg in August.
+
+## Understanding global warming: How we've disrupted the planet
+ - [https://www.lemonde.fr/en/les-decodeurs/visuel/2023/10/05/understanding-global-warming-how-we-ve-disrupted-the-planet_6151221_8.html](https://www.lemonde.fr/en/les-decodeurs/visuel/2023/10/05/understanding-global-warming-how-we-ve-disrupted-the-planet_6151221_8.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T18:30:07+00:00
+
+Two centuries was all it took for mankind to change the climate and trigger a rise in temperatures that has already had deadly consequences. Le Monde traces the timeline of how this manmade disaster has unfolded.
+
+## Netflix releases Roald Dahl shorts by Wes Anderson
+ - [https://www.lemonde.fr/en/culture/article/2023/10/05/netflix-releases-roald-dahl-shorts-by-wes-anderson_6151154_30.html](https://www.lemonde.fr/en/culture/article/2023/10/05/netflix-releases-roald-dahl-shorts-by-wes-anderson_6151154_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T17:02:23+00:00
+
+The American filmmaker has adapted four short stories by the British children's author using his signature aesthetic, supported by a five-star cast that includes Ralph Fiennes as the writer.
+
+## French left seeks 'offensive narrative' on immigration
+ - [https://www.lemonde.fr/en/politics/article/2023/10/05/french-left-seeks-offensive-narrative-on-immigration_6150989_5.html](https://www.lemonde.fr/en/politics/article/2023/10/05/french-left-seeks-offensive-narrative-on-immigration_6150989_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T15:41:18+00:00
+
+The members of the left-wing alliance NUPES in the Assemblée Nationale will be arguing for the regularization of undocumented workers during parliamentary debates on the immigration bill, and not just in 'sectors with recruitment difficulties.'
+
+## Norwegian writer Jon Fosse wins Literature Nobel: His work 'gives voice to the unspeakable'
+ - [https://www.lemonde.fr/en/culture/article/2023/10/05/norwegian-writer-jon-fosse-wins-literature-nobel-his-work-gives-voice-to-the-unspeakable_6150923_30.html](https://www.lemonde.fr/en/culture/article/2023/10/05/norwegian-writer-jon-fosse-wins-literature-nobel-his-work-gives-voice-to-the-unspeakable_6150923_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T14:36:52+00:00
+
+Fosse is the fourth Norwegian to receive the Nobel Prize for Literature. The committee paid tribute to this '360-degree writer'.
+
+## Russian strike kills at least 49 in east Ukraine
+ - [https://www.lemonde.fr/en/international/article/2023/10/05/russian-strike-kills-at-least-49-in-east-ukraine_6150655_4.html](https://www.lemonde.fr/en/international/article/2023/10/05/russian-strike-kills-at-least-49-in-east-ukraine_6150655_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T13:40:39+00:00
+
+The strike hit a grocery store and cafe in the eastern region of Kharkiv. A 6-year-old boy was among the dead, a Ukrainian official said.
+
+## 'The diaspora has become a tool of Indian soft power'
+ - [https://www.lemonde.fr/en/opinion/article/2023/10/05/the-diaspora-has-become-a-tool-of-indian-soft-power_6150587_23.html](https://www.lemonde.fr/en/opinion/article/2023/10/05/the-diaspora-has-become-a-tool-of-indian-soft-power_6150587_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T13:29:35+00:00
+
+Since his election in 2014, India's prime minister has sought to forge close ties with emigrant Indians, whom he dubs 'brand ambassadors' and relies on to further his country's interests abroad.
+
+## Europe, Africa and South America all to host games in 2030 FIFA World Cup
+ - [https://www.lemonde.fr/en/sports/article/2023/10/05/europe-africa-and-south-america-all-to-host-games-in-2030-fifa-world-cup_6150386_9.html](https://www.lemonde.fr/en/sports/article/2023/10/05/europe-africa-and-south-america-all-to-host-games-in-2030-fifa-world-cup_6150386_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T11:30:23+00:00
+
+One hundred years after the inaugural World Cup, the 2030 edition will be primarily hosted by Morocco, Portugal and Spain, with additional games in Uruguay, Argentina and Paraguay.
+
+## Nobel Prize in Literature awarded to Jon Fosse
+ - [https://www.lemonde.fr/en/culture/article/2023/10/05/nobel-prize-in-literature-awarded-to-jon-fosse_6150319_30.html](https://www.lemonde.fr/en/culture/article/2023/10/05/nobel-prize-in-literature-awarded-to-jon-fosse_6150319_30.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T11:10:37+00:00
+
+The 64-year-old Norwegian author won the prize for 'his innovative plays and prose, which give voice to the unsayable.'
+
+## Russia to build naval base in breakaway Georgian region
+ - [https://www.lemonde.fr/en/international/article/2023/10/05/russia-to-build-naval-base-in-breakaway-georgian-region_6150219_4.html](https://www.lemonde.fr/en/international/article/2023/10/05/russia-to-build-naval-base-in-breakaway-georgian-region_6150219_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T10:41:13+00:00
+
+The announcement comes on the back of several attacks by Ukrainian forces on Russia's Black Sea fleet that have embarrassed the Kremlin.
+
+## Pope Francis warns against 'ideological battles' on first day of Catholic Church synod
+ - [https://www.lemonde.fr/en/religions/article/2023/10/05/pope-francis-warns-against-ideological-battles-on-first-day-of-catholic-church-synod_6150152_63.html](https://www.lemonde.fr/en/religions/article/2023/10/05/pope-francis-warns-against-ideological-battles-on-first-day-of-catholic-church-synod_6150152_63.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T10:24:12+00:00
+
+The staging and organization of the first day of this meeting of bishops and laypeople in Rome on Wednesday were intended to encourage greater equality in the institution.
+
+## What's in the French bill to 'secure and regulate digital space' from pornography and online harassment
+ - [https://www.lemonde.fr/en/pixels/article/2023/10/05/what-s-in-the-french-bill-to-secure-and-regulate-digital-space-from-pornography-and-online-harassment_6150016_13.html](https://www.lemonde.fr/en/pixels/article/2023/10/05/what-s-in-the-french-bill-to-secure-and-regulate-digital-space-from-pornography-and-online-harassment_6150016_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T09:52:49+00:00
+
+Portions of the bill, which also concerns scams, deepfakes, trolls and identification, might be difficult to negotiate on the floor of the Assemblée Nationale.
+
+## The French tomb of the creator of rugby  William Webb Ellis is a place of pilgrimage
+ - [https://www.lemonde.fr/en/sports/article/2023/10/05/the-french-tomb-of-the-creator-of-rugby-william-webb-ellis-is-a-place-of-pilgrimage_6149949_9.html](https://www.lemonde.fr/en/sports/article/2023/10/05/the-french-tomb-of-the-creator-of-rugby-william-webb-ellis-is-a-place-of-pilgrimage_6149949_9.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T09:11:46+00:00
+
+To celebrate the Rugby World Cup in France, many fans and officials are paying tribute to the English creator of the sport, who died in 1872 and is buried in the French Riviera.
+
+## War resumes in northern Mali between the army and former independence rebels
+ - [https://www.lemonde.fr/en/le-monde-africa/article/2023/10/05/war-resumes-in-northern-mali-between-the-army-and-former-independence-rebels_6149881_124.html](https://www.lemonde.fr/en/le-monde-africa/article/2023/10/05/war-resumes-in-northern-mali-between-the-army-and-former-independence-rebels_6149881_124.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T08:39:50+00:00
+
+Mali's armed forces are advancing northwards and clashes with the former rebels have intensified since August, even though war has not been officially declared, after eight years of ceasefire.
+
+## Flash flooding after Indian glacial lake bursts leaves at least 10 dead, 82 missing
+ - [https://www.lemonde.fr/en/natural-disasters/article/2023/10/05/flash-flooding-after-indian-glacial-lake-bursts-leaves-at-least-10-dead-82-missing_6149613_225.html](https://www.lemonde.fr/en/natural-disasters/article/2023/10/05/flash-flooding-after-indian-glacial-lake-bursts-leaves-at-least-10-dead-82-missing_6149613_225.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T06:30:35+00:00
+
+Twenty-two soldiers are among the missing as rescue efforts continued on Thursday.
+
+## Nobel Prize in Chemistry awarded for quantum dots breakthrough
+ - [https://www.lemonde.fr/en/international/article/2023/10/05/nobel-prize-in-chemistry-awarded-for-quantum-dots-breakthrough_6149546_4.html](https://www.lemonde.fr/en/international/article/2023/10/05/nobel-prize-in-chemistry-awarded-for-quantum-dots-breakthrough_6149546_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T05:29:47+00:00
+
+Moungi Bawendi, Louis Brus and Alexei Ekimov were recognized for their contributions to the development of the nanocrystals used in television screens, optoelectronics and biological imaging.
+
+## 'Slowing down on the Green Deal would inevitably lead to a European Made in China or Made in USA transition'
+ - [https://www.lemonde.fr/en/opinion/article/2023/10/05/slowing-down-on-the-green-deal-would-inevitably-lead-to-a-european-made-in-china-or-made-in-usa-transition_6149513_23.html](https://www.lemonde.fr/en/opinion/article/2023/10/05/slowing-down-on-the-green-deal-would-inevitably-lead-to-a-european-made-in-china-or-made-in-usa-transition_6149513_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T04:31:23+00:00
+
+As the EU-27 heads of state and government meet in Granada, Spain, on October 6, European climate policy expert Neil Makaroff argues that European leaders must continue to encourage the continent's green re-industrialization.
+
+## Fukushima nuclear plant starts second release of treated radioactive wastewater
+ - [https://www.lemonde.fr/en/environment/article/2023/10/05/fukushima-nuclear-plant-starts-second-release-of-treated-radioactive-wastewater_6149445_114.html](https://www.lemonde.fr/en/environment/article/2023/10/05/fukushima-nuclear-plant-starts-second-release-of-treated-radioactive-wastewater_6149445_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T03:31:25+00:00
+
+Japan's wrecked Fukushima nuclear power plant said it began releasing a second batch of treated radioactive wastewater into the sea on Thursday after the first round of discharges ended smoothly.
+
+## France and Morocco's political and social networks are fading
+ - [https://www.lemonde.fr/en/france/article/2023/10/05/france-and-morocco-s-political-and-social-networks-are-fading_6149412_7.html](https://www.lemonde.fr/en/france/article/2023/10/05/france-and-morocco-s-political-and-social-networks-are-fading_6149412_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T03:30:08+00:00
+
+'France and Morocco: Wounds of the heart' (2/3). Although the kingdom continues to enjoy political and media support in France, the tensions of recent years have revealed the exhaustion of the special bond forged over decades between Paris and Rabat.
+
+## 'Oppenheimer' and 'Barbie' sneak into Russian cinemas
+ - [https://www.lemonde.fr/en/international/article/2023/10/05/oppenheimer-and-barbie-sneak-into-russian-cinemas_6149344_4.html](https://www.lemonde.fr/en/international/article/2023/10/05/oppenheimer-and-barbie-sneak-into-russian-cinemas_6149344_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T03:15:03+00:00
+
+Russian authorities have turned a blind eye to the modes of deception used by cinemas to screen films from 'unfriendly' countries. A de facto bill legalizing piracy was even tabled in the Duma.
+
+## September 2023 marks hottest September on record by an 'extraordinary' margin
+ - [https://www.lemonde.fr/en/environment/article/2023/10/05/september-2023-marks-hottest-september-on-record-by-an-extraordinary-margin_6149244_114.html](https://www.lemonde.fr/en/environment/article/2023/10/05/september-2023-marks-hottest-september-on-record-by-an-extraordinary-margin_6149244_114.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T02:18:27+00:00
+
+The EU climate monitor said Thursday that last month's unprecedented September heat reached temperatures 1.75 degrees Celsius hotter than pre-industrial levels.
+
+## 'We need to better compensate the work providing the greatest value for society'
+ - [https://www.lemonde.fr/en/opinion/article/2023/10/05/we-need-to-better-compensate-the-work-providing-the-greatest-value-for-society_6149176_23.html](https://www.lemonde.fr/en/opinion/article/2023/10/05/we-need-to-better-compensate-the-work-providing-the-greatest-value-for-society_6149176_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T01:58:39+00:00
+
+Olivier De Schutter, UN special rapporteur on extreme poverty and human rights argues that labor compensation should encompass more than just monetary gains and also acknowledge the impact of work on social well-being.
+
+## Nobel Prize in Chemistry announcement disrupted by a leak
+ - [https://www.lemonde.fr/en/international/article/2023/10/05/nobel-prize-for-chemistry-announcement-disrupted-by-a-leak_6149107_4.html](https://www.lemonde.fr/en/international/article/2023/10/05/nobel-prize-for-chemistry-announcement-disrupted-by-a-leak_6149107_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-10-05T00:10:22+00:00
+
+Just over four hours before the official announcement on Wednesday, a press release from the Royal Academy of Sciences was sent out by mistake revealing the names of the winners. An investigation is underway to determine the origin of the blunder.
+

@@ -1,0 +1,492 @@
+# Source:Times of India, URL:http://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## IndiGo imposes Rs 300-Rs 1,000 'fuel charge', others set to follow suit
+ - [https://timesofindia.indiatimes.com/india/indigo-imposes-300-1000-fuel-charge-others-set-to-follow-suit/articleshow/104196373.cms](https://timesofindia.indiatimes.com/india/indigo-imposes-300-1000-fuel-charge-others-set-to-follow-suit/articleshow/104196373.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T20:41:38+00:00
+
+IndiGo, the leading domestic airline in India, will impose a distance-based "fuel charge" ranging from Rs 300 to Rs 1,000 on all its flights due to the increase in aviation turbine fuel (ATF) prices. Other airlines are also expected to follow suit as the rising jet fuel prices and weakening rupee have put significant pressure on their operating costs. Indian carriers have been requesting government relief on ATF prices, but without success.
+
+## Man gets life term for fraud marriage, rape & attempt to convert wife
+ - [https://timesofindia.indiatimes.com/india/man-gets-life-term-for-fraud-marriage-rape-attempt-to-convert-then-wife/articleshow/104196346.cms](https://timesofindia.indiatimes.com/india/man-gets-life-term-for-fraud-marriage-rape-attempt-to-convert-then-wife/articleshow/104196346.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T20:35:13+00:00
+
+An ex-husband of a national-level shooter has been sentenced to life imprisonment in Ranchi for charges of rape, fraudulent marriage, and attempt to convert his ex-wife's religion. A former registrar of the Jharkhand high court was also sentenced to 15 years in prison for conspiracy. The shooter had met her ex-husband through the registrar, who arranged a forced marriage. The court also imposed fines on the convicts. The shooter expressed gratitude to those who supported her fight for justice.
+
+## If Sisodia is not part of excise scam money trail, PMLA won't stand: SC
+ - [https://timesofindia.indiatimes.com/india/if-manish-sisodia-is-not-part-of-excise-scam-money-trail-pmla-wont-stand-supreme-court/articleshow/104196335.cms](https://timesofindia.indiatimes.com/india/if-manish-sisodia-is-not-part-of-excise-scam-money-trail-pmla-wont-stand-supreme-court/articleshow/104196335.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T20:21:58+00:00
+
+The Supreme Court questioned the Enforcement Directorate (ED) on how Manish Sisodia, senior AAP leader, could be implicated for money laundering if the money did not reach his pocket. The court clarified that its query was not to implicate the party but to seek the agency's response. The bench emphasized that the Prevention of Money Laundering Act (PMLA) requires a connection between a person and the proceeds of crime, and that the act does not recognize the "generation" of money as an offense.
+
+## EC review of Telangana over, poll dates for 5 states any day now
+ - [https://timesofindia.indiatimes.com/india/election-commission-review-of-telangana-over-poll-dates-for-5-states-any-day-now/articleshow/104196311.cms](https://timesofindia.indiatimes.com/india/election-commission-review-of-telangana-over-poll-dates-for-5-states-any-day-now/articleshow/104196311.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T20:14:26+00:00
+
+The Election Commission of India is set to announce the schedule for assembly elections in five states. The pre-poll review has been completed in Telangana, Rajasthan, Madhya Pradesh, Chhattisgarh, and Mizoram. The EC has expressed satisfaction with the purity of electoral rolls, despite objections from the opposition parties. They have implemented safeguards to prevent wrongful deletions of voters.
+
+## 9-year-old son's testimony helps convict mom for father's murder
+ - [https://timesofindia.indiatimes.com/india/9-year-old-sons-testimony-helps-convict-mom-for-fathers-murder/articleshow/104196289.cms](https://timesofindia.indiatimes.com/india/9-year-old-sons-testimony-helps-convict-mom-for-fathers-murder/articleshow/104196289.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T20:03:24+00:00
+
+A UK national, Ramandeep Kaur Mann, and her secret lover, Gurpreet Singh, have been found guilty of conspiring to murder Ramandeep's husband, Sukhjeet Singh, in Shahjahanpur, India. Ramandeep and Gurpreet poisoned the family before slitting Sukhjeet's throat. The court has convicted them under IPC sections 302 and 34 and will decide the punishment on October 7. The prosecution is seeking capital punishment for both defendants.
+
+## SC against couple aborting normal pregnancy after 24 weeks
+ - [https://timesofindia.indiatimes.com/india/supreme-court-against-allowing-married-couple-to-abort-normal-pregnancy-after-24-weeks/articleshow/104196281.cms](https://timesofindia.indiatimes.com/india/supreme-court-against-allowing-married-couple-to-abort-normal-pregnancy-after-24-weeks/articleshow/104196281.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T19:53:23+00:00
+
+The Supreme Court in India expressed concerns about allowing married couples to terminate pregnancies after 24 weeks, stating that it could lead to a flood of abortion requests. The court was hearing a plea from a mother of two who wanted to terminate her 24-week pregnancy due to severe depression. The court requested a medical examination and scheduled the next hearing for October 9.
+
+## Uttarakhand UCC draft in last lap? Dhami-Shah meet sparks buzz
+ - [https://timesofindia.indiatimes.com/india/uttarakhand-ucc-draft-in-last-lap-cm-pushkar-dhami-amit-shah-meet-sparks-buzz/articleshow/104196238.cms](https://timesofindia.indiatimes.com/india/uttarakhand-ucc-draft-in-last-lap-cm-pushkar-dhami-amit-shah-meet-sparks-buzz/articleshow/104196238.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T19:42:14+00:00
+
+Uttarakhand Chief Minister Pushkar Singh Dhami and the expert committee working on the Uniform Civil Code (UCC) for the state met with Union Home Minister Amit Shah, indicating that discussions on the UCC draft are nearing completion. Uttarakhand is likely to be the first state to adopt the UCC, with other BJP-ruled states expected to follow. The phased implementation will help the government understand the challenges and prepare for a national rollout.
+
+## CDS Anil Chauhan underlines policy of 'strategic autonomy'
+ - [https://timesofindia.indiatimes.com/india/chief-of-defence-staff-anil-chauhan-underlines-policy-of-strategic-autonomy/articleshow/104196210.cms](https://timesofindia.indiatimes.com/india/chief-of-defence-staff-anil-chauhan-underlines-policy-of-strategic-autonomy/articleshow/104196210.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T19:33:13+00:00
+
+India's Chief of Defence Staff, General Anil Chauhan, has emphasized the need for India to take into account China's growing assertiveness and rise in its overall strategic calculations. He highlighted the importance of India's "strategic autonomy" policy and the shift from a non-aligned approach to being a friend to the world. General Chauhan also discussed the three pillars of India's strategic autonomy: securing the nation, self-reliance, and shaping the environment to India's advantage.
+
+## Defamatory statement in Parliament not a crime: Supreme Court
+ - [https://timesofindia.indiatimes.com/india/defamatory-statement-in-parliament-not-a-crime-supreme-court/articleshow/104196113.cms](https://timesofindia.indiatimes.com/india/defamatory-statement-in-parliament-not-a-crime-supreme-court/articleshow/104196113.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T19:20:19+00:00
+
+The Supreme Court of India has rejected a proposal to classify defamatory slogans against political opponents in Parliament or assemblies as criminal conspiracy. The court stated that defamation on the floor of the House is not a crime. The rejection came during a case involving a JMM MLA accused of accepting bribes for votes. The court upheld immunity, stating that if the act itself is immune, there can be no liability under penal law. The verdict has been reserved.
+
+## In the Savanna, human voices scare mammals more than lions’ roar
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/in-the-savanna-human-voices-scare-mammals-more-than-lions-roar/articleshow/104195612.cms](https://timesofindia.indiatimes.com/world/rest-of-world/in-the-savanna-human-voices-scare-mammals-more-than-lions-roar/articleshow/104195612.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T18:30:01+00:00
+
+
+
+## Sikkim flash flood: Toll rises to 18; search on for 98 missing people
+ - [https://timesofindia.indiatimes.com/india/sikkim-flash-flood-toll-rises-to-18-search-on-for-98-missing-people/articleshow/104195238.cms](https://timesofindia.indiatimes.com/india/sikkim-flash-flood-toll-rises-to-18-search-on-for-98-missing-people/articleshow/104195238.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T17:57:31+00:00
+
+The toll in the flash flood in Sikkim mounted to 18 on Thursday as Army and NDRF teams worked their way through slushy earth and sheets of water in the Teesta river basin and downstream north Bengal for the second day in search of those who were swept away and are still missing, officials said.Eighteen bodies have been found so far while 98 people, including 22 Army personnel, remained missing after a cloudburst over Lhonak Lake in North Sikkim in the early hours of Wednesday.
+
+## 9yrs jail for man attempting to kill Queen as revenge for Jallianwala
+ - [https://timesofindia.indiatimes.com/world/uk/man-jailed-for-9-years-for-threatening-to-kill-queen-elizabeth-as-revenge-for-jallianwala-bagh/articleshow/104194502.cms](https://timesofindia.indiatimes.com/world/uk/man-jailed-for-9-years-for-threatening-to-kill-queen-elizabeth-as-revenge-for-jallianwala-bagh/articleshow/104194502.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T16:51:57+00:00
+
+A man who threatened to kill Queen Elizabeth as revenge for the Jallianwala Bagh massacre has been detained for nine years under the Treason Act. The 21-year-old was arrested with a loaded crossbow at Windsor Castle on Christmas Day. In a video recorded before the incident, he expressed his intention to assassinate the queen.
+
+## 'They tried to do the same with India ...': Putin slams West in speech filled with nuclear threats
+ - [https://timesofindia.indiatimes.com/india/russian-president-putin-speech-putin-sochi-speech-russia-nuclear-weapons-india-unsc-seat/articleshow/104194049.cms](https://timesofindia.indiatimes.com/india/russian-president-putin-speech-putin-sochi-speech-russia-nuclear-weapons-india-unsc-seat/articleshow/104194049.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T16:09:36+00:00
+
+Russian President Vladimir Putin criticized the West for labeling anyone who doesn't follow their norms as an enemy, mentioning how they had tried to do the same with India in the past. Putin emphasized that Russia sees all civilizations as equal and is open to constructive cooperation. He praised the self-directed leadership of India's Prime Minister Narendra Modi and advocated for India, Brazil, and South Africa to have greater representation in the United Nations Security Council.
+
+## New Zealand rout champions England in World Cup opener
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-devon-conway-rachin-ravindra-fire-dazzling-tons-as-new-zealand-stun-defending-champions-england-in-opener/articleshow/104193859.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-devon-conway-rachin-ravindra-fire-dazzling-tons-as-new-zealand-stun-defending-champions-england-in-opener/articleshow/104193859.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T15:52:16+00:00
+
+Devon Conway and Rachin Ravindra smashed centuries to power New Zealand to a crushing nine-wicket win over defending champions England in the opening match of the World Cup. The left-handed pair of Conway (152) and Ravindra (123) put on an unbeaten stand of 273 for the second wicket as the Black Caps comfortably overhauled the 283 target with 13.4 overs to spare.
+
+## Mahadev betting app case: ED summons Kapil Sharma, Huma Qureshi & Hina Khan
+ - [https://timesofindia.indiatimes.com/india/mahadev-betting-app-case-after-ranbir-kapoor-ed-summons-kapil-sharma-huma-qureshi-hina-khan-for-questioning/articleshow/104193223.cms](https://timesofindia.indiatimes.com/india/mahadev-betting-app-case-after-ranbir-kapoor-ed-summons-kapil-sharma-huma-qureshi-hina-khan-for-questioning/articleshow/104193223.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T15:05:56+00:00
+
+Comedian Kapil Sharma, actors Huma Quresha, and Hina Khan have been summoned by the Enforcement Directorate (ED) in connection with the Mahadev betting app case. The agency had previously summoned actor Ranbir Kapoor in relation to the same case. The ED is investigating several A-listers for promoting the app, which is involved in illegal betting and money laundering activities.
+
+## Fuel charge back from tomorrow; flying to get costlier
+ - [https://timesofindia.indiatimes.com/india/fuel-charge-back-from-tomorrow-flying-to-get-costlier-this-festive-season/articleshow/104193095.cms](https://timesofindia.indiatimes.com/india/fuel-charge-back-from-tomorrow-flying-to-get-costlier-this-festive-season/articleshow/104193095.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T14:53:48+00:00
+
+Flying is all set to get more expensive this festive season. Domestic market leader IndiGo will from Friday (Oct 6) levy a distance-based “fuel charge” ranging from Rs 300 to Rs 1,000 on all its flight due to the increase in aviation turbine fuel (ATF) prices.
+
+## Conway fires first century of 2023 ODI World Cup
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/devon-conway-fires-first-century-of-2023-odi-world-cup/articleshow/104193116.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/devon-conway-fires-first-century-of-2023-odi-world-cup/articleshow/104193116.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T14:52:51+00:00
+
+New Zealand's Devon Conway hit the first century of the Cricket World Cup on Thursday in the opening match of the tournament against England. Rachin, the other left-hander in the Kiwi side, who is of Indian origin, also smoked an 82-ball ton
+
+## India raises concerns with US over ambassador's PoK visit
+ - [https://timesofindia.indiatimes.com/india/our-position-well-known-india-raises-concerns-with-us-over-ambassadors-visit-to-pok/articleshow/104191634.cms](https://timesofindia.indiatimes.com/india/our-position-well-known-india-raises-concerns-with-us-over-ambassadors-visit-to-pok/articleshow/104191634.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T14:01:57+00:00
+
+The ministry of external affairs on Thursday said that India has raised concerns with US over an American ambassador's recent visit to Pakistan-occupied-Kashmir (PoK).Addressing a media briefing, MEA spokesperson Arindam Bagchi said that India's position regarding the entire Union territory of Jammu and Kashmir being an integral part of the country is well known.
+
+## 'Gross': Trudeau trolled for 'creepy' act in Canada Parliament
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/cringe-gross-trudeaus-creepy-act-of-sticking-tongue-out-and-winking-in-parliament-draws-backlash/articleshow/104191800.cms](https://timesofindia.indiatimes.com/world/rest-of-world/cringe-gross-trudeaus-creepy-act-of-sticking-tongue-out-and-winking-in-parliament-draws-backlash/articleshow/104191800.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T13:46:30+00:00
+
+Canadian Prime Minister Justin Trudeau has faced criticism after a video of him sticking out his tongue and winking at the Speaker of the House went viral. The incident occurred shortly after another controversy involving the recognition of a Nazi veteran during a parliamentary session. Social media users described Trudeau's behavior as "childish" and "unprofessional," questioning his conduct as the leader of the country.
+
+## Coach Schopman 'will be asked to explain' women's hockey failure
+ - [https://timesofindia.indiatimes.com/sports/asian-games-2023/india-asian-games/coach-janneke-schopman-will-be-asked-to-explain-womens-hockey-failure-at-asian-games/articleshow/104191458.cms](https://timesofindia.indiatimes.com/sports/asian-games-2023/india-asian-games/coach-janneke-schopman-will-be-asked-to-explain-womens-hockey-failure-at-asian-games/articleshow/104191458.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T13:29:35+00:00
+
+Following India's disappointing semifinal defeat against China, Hockey India (HI) has expressed its concern over the performance of Janneke Schopman, the head coach of the women's hockey team. This loss shattered India's hopes of securing a gold medal, which would have also guaranteed them a spot in the Paris 2024 Olympics as the champions of the continent.
+
+## India says Afghan embassy still open despite suspension announcement
+ - [https://timesofindia.indiatimes.com/world/south-asia/india-says-afghan-embassy-still-open-despite-suspension-announcement/articleshow/104191062.cms](https://timesofindia.indiatimes.com/world/south-asia/india-says-afghan-embassy-still-open-despite-suspension-announcement/articleshow/104191062.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T13:14:52+00:00
+
+The Afghanistan embassy in New Delhi, which had announced a suspension of operations, is still functioning, according to the foreign ministry. The embassy had cited a lack of support from the Indian government as one of the reasons for closing down. The development may pave the way for Taliban diplomats to take over. India has allowed the ambassador and mission staff appointed by the previous Afghan government to handle visas and trade matters, but does not officially recognize the Taliban government.
+
+## 'New-age Ravan': BJP shares poster featuring Rahul; Cong reacts
+ - [https://timesofindia.indiatimes.com/india/new-age-ravan-bjp-shares-poster-of-rahul-gandhi-on-social-media-congress-says-intended-to-incite-violence-against-him/articleshow/104190634.cms](https://timesofindia.indiatimes.com/india/new-age-ravan-bjp-shares-poster-of-rahul-gandhi-on-social-media-congress-says-intended-to-incite-violence-against-him/articleshow/104190634.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T13:10:31+00:00
+
+The BJP shared a social media post depicting Rahul Gandhi as Ravan, which sparked strong reactions from the Congress party. The Congress accused the BJP of trying to incite violence against Rahul Gandhi. Congress leader Jairam Ramesh called the post obnoxious and dangerous, while Imran Pratapgarhi claimed that the BJP is nervous about Rahul's growing popularity.
+
+## Anil Kapoor approached to play Aurangzeb in Vicky Kaushal's 'Chhawa'
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-approached-to-play-aurangzeb-in-vicky-kaushals-chhawa/articleshow/104190453.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/anil-kapoor-approached-to-play-aurangzeb-in-vicky-kaushals-chhawa/articleshow/104190453.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T12:55:07+00:00
+
+The period play "Chhawa," directed by Laxman Utekar, is based on Chhatrapati Sambhaji Maharaj. The lead part will be played by Vicky Kaushal, and Yesubai Bhonsale will be portrayed by Rashmika Mandanna. To cast Anil Kapoor as Aurangzeb, the crew intends to approach him. The locales where the movie will be shot include Mumbai, Vai, Bhor, Jaipur, and the outskirts of Maharashtra. Vicky Kaushal is also scheduled to appear in other future movies, such as Meghna Gulzar's "Sam Bahadur," and Rashmika Mandanna is getting ready for Ranbir Kapoor's "Animal" to come out.
+
+## Liquor policy case: AAP's Sanjay Singh sent to 5-day ED custody
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-excise-policy-delhi-court-reserves-order-on-eds-plea-seeking-custody-of-aap-leader-sanjay-singh-order-to-be-produced-shortly/articleshow/104186176.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-excise-policy-delhi-court-reserves-order-on-eds-plea-seeking-custody-of-aap-leader-sanjay-singh-order-to-be-produced-shortly/articleshow/104186176.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T12:29:22+00:00
+
+Meanwhile, the AAP workers on Thursday staged a protest in central Delhi decrying the arrest of the Rajya Sabha MP, who was taken in custody in connection with the excise policy case.
+
+## 'Want to achieve parity': India on decision to reduce Canadian diplomats amid row
+ - [https://timesofindia.indiatimes.com/india/want-to-achieve-parity-india-on-decision-to-reduce-canadian-diplomats-amid-row/articleshow/104189447.cms](https://timesofindia.indiatimes.com/india/want-to-achieve-parity-india-on-decision-to-reduce-canadian-diplomats-amid-row/articleshow/104189447.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T12:15:29+00:00
+
+External affairs ministry on Thursday said that India's focus remains on achieving 'parity' in terms of diplomatic presence, and asked Canada to reduce its diplomatic staff in the country. The decision of the external affairs ministry comes amid an ongoing diplomatic row between the two countries, and comes days after New Delhi suspended the visa services to Canada and called for a reduction in Canadian diplomats in India.
+
+## New Tata Safari, Harrier: Key differences, expected pricing
+ - [https://timesofindia.indiatimes.com/auto/cars/new-tata-safari-harrier-what-will-change-key-differences-expected-pricing/articleshow/104189012.cms](https://timesofindia.indiatimes.com/auto/cars/new-tata-safari-harrier-what-will-change-key-differences-expected-pricing/articleshow/104189012.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T12:15:03+00:00
+
+Tata Motors has teased the facelifted versions of its Safari and Harrier SUVs, set to debut in India soon. The facelifts bring cosmetic and feature updates, with a redesigned front bumper, LED DRLs, and new alloy wheels. The launch date is yet to be announced by the company but the bookings are set to commence from October 6, 2023.
+
+## Is this the tomb of escort who 'seduced' Alexander the Great?
+ - [https://timesofindia.indiatimes.com/world/europe/archaeologists-unearth-tomb-of-high-class-escort-who-seduced-alexander-the-great/articleshow/104189054.cms](https://timesofindia.indiatimes.com/world/europe/archaeologists-unearth-tomb-of-high-class-escort-who-seduced-alexander-the-great/articleshow/104189054.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T11:57:04+00:00
+
+Archaeologists have discovered the tomb of a courtesan believed to have lived during Alexander the Great's campaigns over 2,300 years ago. The tomb, found in Jerusalem, Israel, contains the cremated remains of a young woman and an exceptionally well-preserved box mirror. Experts have identified the woman as a "hetaira," a high-class escort who provided companionship and intellectual stimulation to elite clients.
+
+## After Sagar Parekh's exit from Anupamaa, will he participate in Bigg Boss?
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/after-sagar-parekhs-exit-from-anupamaa-will-he-participate-in-bigg-boss/articleshow/104188297.cms](https://timesofindia.indiatimes.com/tv/news/hindi/after-sagar-parekhs-exit-from-anupamaa-will-he-participate-in-bigg-boss/articleshow/104188297.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T11:35:12+00:00
+
+Sagar Parekh's track is over in Anupamaa. There are talks doing the rounds how the actor has been approached for Bigg Boss.
+
+## Why China’s youth are throwing ‘resignation parties’
+ - [https://timesofindia.indiatimes.com/world/china/why-chinas-youth-are-throwing-resignation-parties-opting-out-of-rat-race/articleshow/104187386.cms](https://timesofindia.indiatimes.com/world/china/why-chinas-youth-are-throwing-resignation-parties-opting-out-of-rat-race/articleshow/104187386.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T11:11:25+00:00
+
+Young professionals in China are throwing elaborate parties to celebrate their resignations from stable, well-paying jobs. Despite the country's challenging economic climate and high youth unemployment rates, many individuals in their 20s are leaving positions due to reasons such as low salaries and burnout. Dissatisfaction stems from a sense of disillusionment among overworked young individuals who face stagnant salaries and overwork culture.
+
+## Nobel Prize in Literature awarded to Norwegian author Jon Fosse
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/nobel-prize-in-literature-awarded-to-norwegian-author-jon-fosse/articleshow/104187004.cms](https://timesofindia.indiatimes.com/world/rest-of-world/nobel-prize-in-literature-awarded-to-norwegian-author-jon-fosse/articleshow/104187004.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T11:03:52+00:00
+
+The Royal Swedish Academy of Sciences on Thursday awarded the 2023 Nobel Prize in Literature to Norwegian author Jon Fosse "for his innovative plays and prose which give voice to the unsayable." Jon Fosse has now joined an illustrious list of past winners that ranges from Toni Morrison to Ernest Hemingway and Jean-Paul Sartre - who turned down the prize in 1964
+
+## US on ambassador's 'alert' about fallout of India-Canada row
+ - [https://timesofindia.indiatimes.com/india/us-embassy-trashes-reports-about-ambassador-garcetti-alerting-team-following-india-canada-row/articleshow/104186390.cms](https://timesofindia.indiatimes.com/india/us-embassy-trashes-reports-about-ambassador-garcetti-alerting-team-following-india-canada-row/articleshow/104186390.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T10:58:41+00:00
+
+
+
+## No bail for Manish Sisodia today, SC posts matter for Oct 12
+ - [https://timesofindia.indiatimes.com/city/delhi/liquor-policy-case-no-bail-for-aap-leader-manish-sisodia-today-sc-posts-matter-for-october-12/articleshow/104186925.cms](https://timesofindia.indiatimes.com/city/delhi/liquor-policy-case-no-bail-for-aap-leader-manish-sisodia-today-sc-posts-matter-for-october-12/articleshow/104186925.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T10:48:09+00:00
+
+
+
+## How China is again pushing Sri Lanka to the brink
+ - [https://timesofindia.indiatimes.com/world/south-asia/foot-dragging-on-debt-rejig-how-china-is-again-pushing-sri-lanka-to-the-brink/articleshow/104185099.cms](https://timesofindia.indiatimes.com/world/south-asia/foot-dragging-on-debt-rejig-how-china-is-again-pushing-sri-lanka-to-the-brink/articleshow/104185099.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T10:23:12+00:00
+
+
+
+## Strange illness hits Kenya: 90 school kids paralyzed
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/strange-illness-hits-kenya-paralyzes-over-90-school-kids-report/articleshow/104185481.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/strange-illness-hits-kenya-paralyzes-over-90-school-kids-report/articleshow/104185481.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T10:16:00+00:00
+
+Over 90 schoolgirls in Kenya's St. Theresa's Eregi Girls High School have been paralyzed by a mysterious illness. The girls experienced difficulty walking and knee pain, leading to their hospitalization. Blood, urine, and stool samples have been sent for testing. The school has been closed temporarily for assessment. Reports suggest the illness may be caused by electrolyte imbalance.
+
+## BJP's vindictive politics: MK Stalin on Sanjay Singh's arrest
+ - [https://timesofindia.indiatimes.com/india/bjps-vindictive-politics-knows-no-bounds-mk-stalin-on-sanjay-singhs-arrest/articleshow/104185724.cms](https://timesofindia.indiatimes.com/india/bjps-vindictive-politics-knows-no-bounds-mk-stalin-on-sanjay-singhs-arrest/articleshow/104185724.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T10:13:55+00:00
+
+Tamil Nadu Chief Minister MK Stalin lashed out at the Bharatiya Janata Party (BJP) ruled central government over the arrest of Aam Aadmi Party (AAP) leader Sanjay Singh saying that 'their vindictive politics knows no bounds.'
+
+## Why has ED not come to MP which has corruption: Priyanka Gandhi
+ - [https://timesofindia.indiatimes.com/india/why-has-ed-not-come-here-there-has-been-corruption-priyanka-gandhi-in-madhya-pradesh/articleshow/104185400.cms](https://timesofindia.indiatimes.com/india/why-has-ed-not-come-here-there-has-been-corruption-priyanka-gandhi-in-madhya-pradesh/articleshow/104185400.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T10:04:15+00:00
+
+Priyanka targeted the Shivraj government allegeging that corruption was deep seated in the state. She alleged that no investigation has been conducted in Madhya Pradesh though several scams took place in the state.
+
+## Absconding Sajni Nair murder accused arrested in Delhi
+ - [https://timesofindia.indiatimes.com/city/ahmedabad/absconding-sajni-nair-murder-accused-tarun-jinaraj-arrested-by-ahmedabad-cyber-crime-in-delhi/articleshow/104184859.cms](https://timesofindia.indiatimes.com/city/ahmedabad/absconding-sajni-nair-murder-accused-tarun-jinaraj-arrested-by-ahmedabad-cyber-crime-in-delhi/articleshow/104184859.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T09:48:28+00:00
+
+He is accused of killing Sajni by choking her on Valentine’s Day in 2003, three months after their wedding in Ahmedabad.
+
+## Why Joe Biden is not speaking about India-Canada row
+ - [https://timesofindia.indiatimes.com/india/joe-biden-justin-trudeau-pm-modi-india-canada-row-india-us-ties/articleshow/104183252.cms](https://timesofindia.indiatimes.com/india/joe-biden-justin-trudeau-pm-modi-india-canada-row-india-us-ties/articleshow/104183252.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T09:34:01+00:00
+
+
+
+## Indian-American hails UK medics who restarted his heart 6 times
+ - [https://timesofindia.indiatimes.com/nri/other-news/indian-american-student-hails-uk-medics-who-restarted-his-heart-6-times/articleshow/104183895.cms](https://timesofindia.indiatimes.com/nri/other-news/indian-american-student-hails-uk-medics-who-restarted-his-heart-6-times/articleshow/104183895.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T09:21:06+00:00
+
+Rao, 21, went into a cardiac arrest on July 27. Paramedics successfully revived his heart and took him to the heart attack center at Hammersmith Hospital. Hospital staff tirelessly labored throughout the night to sustain Rao's life and stabilize his condition. However, his heart ceased beating on five additional occasions within the initial 24 hours before clot-dissolving medications started to take effect.
+
+## Gayatri Joshi’s husband to face 'Road Homicide' probe after crash
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gayatri-joshis-husband-vikas-oberoi-to-face-road-homicide-probe-after-fatal-ferrari-lamborghini-crash/articleshow/104183256.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/gayatri-joshis-husband-vikas-oberoi-to-face-road-homicide-probe-after-fatal-ferrari-lamborghini-crash/articleshow/104183256.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T08:44:50+00:00
+
+Vikas Oberoi, husband of former Bollywood actress Gayatri Joshi, is under investigation for 'road homicide' following a deadly collision between a Ferrari and a Lamborghini on the Italian island of Sardinia. Two Swiss nationals lost their lives in the crash, and Oberoi may face up to seven years in prison if charged and convicted. The incident occurred during an Italian supercar tour, and a video of the crash showed the Lamborghini attempting to overtake a motorhome before colliding with the Ferrari.
+
+## After Ranbir Kapoor, celebs under ED lens
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-ranbir-kapoor-tiger-shroff-sunny-leone-atif-aslam-rahat-fateh-ali-khan-and-other-celebs-under-eds-radar/articleshow/104180945.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-ranbir-kapoor-tiger-shroff-sunny-leone-atif-aslam-rahat-fateh-ali-khan-and-other-celebs-under-eds-radar/articleshow/104180945.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T08:36:19+00:00
+
+Actor Ranbir Kapoor has been summoned by the Enforcement Directorate (ED) in connection with a money laundering case related to the Mahadev Online Book gaming-betting app. Kapoor had reportedly promoted one of the gaming-betting apps of the Mahadev group. The ED is also investigating other Bollywood and Pakistani celebrities who may have been involved in the case. The Mahadev group promoters had hired several celebrities to promote their apps and made payments mostly in cash.
+
+## 'Red diary' contains every act of corruption by Congress: PM Modi
+ - [https://timesofindia.indiatimes.com/india/pm-modi-lashes-out-at-rajasthan-govt-in-rajasthan/articleshow/104182833.cms](https://timesofindia.indiatimes.com/india/pm-modi-lashes-out-at-rajasthan-govt-in-rajasthan/articleshow/104182833.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T08:28:14+00:00
+
+Prime Minister Narendra Modi on Thursday took a dig at the Ashok Gehlot government in Rajasthan over the alleged 'red diary,' which he said contained records of 'every corrupt act committed by the Congress.'
+
+## Cricket World Cup may add $2.6 billion to Indian economy
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/cricket-world-cup-may-add-2-6-billion-to-indian-economy/articleshow/104181900.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/cricket-world-cup-may-add-2-6-billion-to-indian-economy/articleshow/104181900.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T08:07:36+00:00
+
+Bank of Baroda economists predict that the Cricket World Cup, which starts on Thursday and runs through mid-November, could boost India's economy by up to 220 billion rupees ($2.6 billion). The tournament, which will feature matches across 10 cities, is expected to attract domestic and international fans, benefiting the travel and hospitality sectors.
+
+## Explainer: Why Donald Trump can’t become US House Speaker – for now
+ - [https://timesofindia.indiatimes.com/world/us/explainer-why-donald-trump-cant-become-us-house-speaker-for-now/articleshow/104181190.cms](https://timesofindia.indiatimes.com/world/us/explainer-why-donald-trump-cant-become-us-house-speaker-for-now/articleshow/104181190.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T07:46:44+00:00
+
+Former US President Donald Trump is being considered as a potential candidate for the Speaker of the House of Representatives, even though he is not currently a House member. While the US Constitution does not explicitly mandate that the position must be filled by an elected House member, traditionally, the role has been assumed by a member from within the House.
+
+## Andhra cop shoots wife, two daughters; dies by suicide
+ - [https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-policeman-shoots-wife-two-daughters-dies-by-suicide/articleshow/104180681.cms](https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-policeman-shoots-wife-two-daughters-dies-by-suicide/articleshow/104180681.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T07:11:47+00:00
+
+
+
+## PM launches projects worth Rs 5,000 cr in Rajasthan
+ - [https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-development-projects-in-rajasthan/articleshow/104180153.cms](https://timesofindia.indiatimes.com/india/pm-modi-inaugurates-development-projects-in-rajasthan/articleshow/104180153.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T06:55:45+00:00
+
+Prime Minister Narendra Modi inaugurated and laid the foundation stone for multiple key projects worth approximately Rs 5,000 crore in Jodhpur on Thursday. He said, “Today, the people of Jodhpur, Marwar received several gifts simultaneously. I have already come prepared with a special gift right from Delhi. Yesterday, the BJP Govt decided that beneficiaries of Ujjwala Yojana will receive gas cylinders only for Rs 600.”
+
+## 'India aiming to beat China to become No.1 automobile maker'
+ - [https://timesofindia.indiatimes.com/auto/news/india-aiming-to-beat-china-to-become-worlds-no1-automobile-maker-by-2027-nitin-gadkari/articleshow/104179665.cms](https://timesofindia.indiatimes.com/auto/news/india-aiming-to-beat-china-to-become-worlds-no1-automobile-maker-by-2027-nitin-gadkari/articleshow/104179665.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T06:45:37+00:00
+
+India aims to surpass China and become the world's top automobile manufacturer by 2027, according to Union Minister for Road Transport and Highways, Nitin Gadkari.
+
+## Fresh violence in Manipur, two houses torched in Imphal West
+ - [https://timesofindia.indiatimes.com/city/imphal/fresh-violence-in-manipur-2-houses-torched-in-imphal-west-district/articleshow/104179190.cms](https://timesofindia.indiatimes.com/city/imphal/fresh-violence-in-manipur-2-houses-torched-in-imphal-west-district/articleshow/104179190.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T06:24:06+00:00
+
+
+
+## World Cup: Global giants spend Rs 3 lakh a second on ads
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/icc-cricket-world-cup-2023-global-giants-spend-rs-3-lakh-a-second-on-advertising/articleshow/104177466.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/icc-cricket-world-cup-2023-global-giants-spend-rs-3-lakh-a-second-on-advertising/articleshow/104177466.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T05:33:46+00:00
+
+Global companies are eagerly spending millions of dollars to advertise during the Cricket World Cup in India, as the event provides a unique opportunity to reach the cricket-loving nation of 1.4 billion people. The tournament guarantees sponsors over a billion viewers worldwide, but it is the consumers in India that are the main target.
+
+## Nepal earthquake behind Sikkim disaster?
+ - [https://timesofindia.indiatimes.com/india/nepal-earthquake-behind-sikkim-disaster/articleshow/104174414.cms](https://timesofindia.indiatimes.com/india/nepal-earthquake-behind-sikkim-disaster/articleshow/104174414.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T05:24:36+00:00
+
+
+
+## WC: From Shubman to Brook - Watch out for these debutants
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/2023-odi-world-cup-from-red-hot-shubman-to-potential-future-superstar-brook-watch-out-for-these-debutants/articleshow/104175923.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/2023-odi-world-cup-from-red-hot-shubman-to-potential-future-superstar-brook-watch-out-for-these-debutants/articleshow/104175923.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T05:08:57+00:00
+
+The ICC ODI World Cup 2023 is set to feature talented debutants who could make a significant impact on the tournament. Among them, Shubman Gill stands out with impressive statistics, making him a key player for India. England's Harry Brook, although having a lot to prove, has shown promise in recent matches.
+
+## Pakistan and their 21-year wait for ODI World Cup title
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/2023-odi-world-cup-stat-attack-pakistan-and-their-21-year-wait-for-the-title/articleshow/104176066.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/2023-odi-world-cup-stat-attack-pakistan-and-their-21-year-wait-for-the-title/articleshow/104176066.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T04:48:33+00:00
+
+Pakistan holds the record for most wides and no-balls bowled in World Cup matches. They won the World Cup once in 1992. Javed Miandad is the only Pakistani batter with over 1,000 runs in the World Cup. Pakistan has conceded 40 extras or more in five World Cup fixtures. They have also won a match by just one wicket with no balls remaining. Wasim Akram has the most wickets for a Pakistani bowler in the World Cup. Saqlain Mushtaq is the only Pakistani bowler to take a hat-trick.
+
+## New Tata Safari: Audi-inspired rear-end, Mercedes-like front
+ - [https://timesofindia.indiatimes.com/auto/cars/new-tata-safari-teaser-audi-inspired-rear-end-mercedes-like-front-led-drl-tata-harrier-facelift-safari-facelift/articleshow/104174333.cms](https://timesofindia.indiatimes.com/auto/cars/new-tata-safari-teaser-audi-inspired-rear-end-mercedes-like-front-led-drl-tata-harrier-facelift-safari-facelift/articleshow/104174333.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T04:13:23+00:00
+
+The latest teaser reveals the rear-end design of the new Safari, featuring a new connected LED taillight setup, which seems to have taken inspiration from the Audi Q8 luxury SUV.
+
+## Sextortion gang traps student, forces him to transfer over Rs 77k
+ - [https://timesofindia.indiatimes.com/city/lucknow/sextortion-gang-traps-student-forces-him-to-transfer-over-77k/articleshow/104175183.cms](https://timesofindia.indiatimes.com/city/lucknow/sextortion-gang-traps-student-forces-him-to-transfer-over-77k/articleshow/104175183.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T04:03:42+00:00
+
+A law student in Bihar fell victim to a sextortion gang who coerced him into transferring over Rs 77,000. The student received a video call from an unknown number, showing a naked girl who convinced him to undress as well. After the video, the girl threatened to make it viral unless he paid. The victim transferred the money to the given bank accounts. The police have registered a case and are investigating the incident.
+
+## Raj Ind MLA cleans hosp toilet, shines shoes to re-enter assembly
+ - [https://timesofindia.indiatimes.com/city/jaipur/independent-mla-in-raj-cleans-hosp-toilet-shines-shoes-to-re-enter-assembly/articleshow/104174819.cms](https://timesofindia.indiatimes.com/city/jaipur/independent-mla-in-raj-cleans-hosp-toilet-shines-shoes-to-re-enter-assembly/articleshow/104174819.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T04:01:13+00:00
+
+Om Prakash Hudla, an independent MLA from Rajasthan, is taking a unique approach to secure his seat in the upcoming assembly elections. He recently uploaded a video on social media, in which he is seen cleaning a hospital toilet, selling vegetables in the market, and polishing people's shoes. Hudla believes that such public service activities will inspire others and show the importance of humility. He had also polished people's shoes before the 2018 elections to seek their blessings.
+
+## What is 'funflation' and how Taylor Swift is boosting US economy
+ - [https://timesofindia.indiatimes.com/business/international-business/what-is-funflation-taylor-swift-tours-beyonce-swiftonomics/articleshow/104174871.cms](https://timesofindia.indiatimes.com/business/international-business/what-is-funflation-taylor-swift-tours-beyonce-swiftonomics/articleshow/104174871.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T03:59:18+00:00
+
+A Bank of America report suggests that the recent surge in spending on entertainment and live experiences may be a lasting trend, rather than a temporary phenomenon. Dubbed 'funflation', this trend is driven by pent-up demand and increased savings after the Covid-19 pandemic. Taylor Swift and Beyoncé tours are cited as examples of this 'funflation' economy.
+
+## Rahul Gandhi will lead country someday: Sharad Pawar
+ - [https://timesofindia.indiatimes.com/city/mumbai/rahul-gandhi-will-lead-country-someday-sharad-pawar/articleshow/104174924.cms](https://timesofindia.indiatimes.com/city/mumbai/rahul-gandhi-will-lead-country-someday-sharad-pawar/articleshow/104174924.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T03:53:27+00:00
+
+Nationalist Congress Party (NCP) president Sharad Pawar expressed confidence in Rahul Gandhi's leadership potential after the Bharat Jodo Yatra. He also mentioned that the arrest of AAP MP Sanjay Singh will strengthen the opposition INDIA bloc. Pawar stated that the Congress will revive in Uttar Pradesh and improve its position in Haryana. Additionally, he ruled out any reconciliation with the NCP rebel faction that joined the BJP-Shiv Sena government in Maharashtra. Pawar predicted that the Maha Vikas Aghadi coalition will form the government in Maharashtra after the upcoming assembly elections.
+
+## World Cup's here. We're game!
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/world-cups-here-were-game/articleshow/104174647.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/world-cups-here-were-game/articleshow/104174647.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T03:48:32+00:00
+
+The captains of the participating teams in the 2023 ODI World Cup, including Babar Azam, Jos Buttler, Rohit Sharma, and Kane Williamson, shared their thoughts and experiences at the 'Captains' Day' event. Babar expressed his desire for Pakistani fans to be able to attend the matches, while Buttler dismissed any pressure as defending champions. Rohit Sharma highlighted the excitement among Indian cricket fans.
+
+## Cricketer Shikhar Dhawan granted divorce by Delhi court
+ - [https://timesofindia.indiatimes.com/city/delhi/cricketer-shikhar-dhawan-granted-divorce-by-delhi-court-on-grounds-of-cruelty-by-wife/articleshow/104174049.cms](https://timesofindia.indiatimes.com/city/delhi/cricketer-shikhar-dhawan-granted-divorce-by-delhi-court-on-grounds-of-cruelty-by-wife/articleshow/104174049.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T03:23:35+00:00
+
+A family court of Delhi granted divorce to Indian cricketer Shikhar Dhawan and her estranged wife on Wednesday. The court noted that petitioner has also prayed for the grant of permanent custody of his minor son submitting that it was morally, psychologically and mentally disastrous for the minor son to be with respondent who consistently acted detrimentally to his welfare right from his birth.
+
+## Will Catholic Church finally open doors to women priests?
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/will-catholic-church-finally-open-doors-to-women-priests/articleshow/104174060.cms](https://timesofindia.indiatimes.com/world/rest-of-world/will-catholic-church-finally-open-doors-to-women-priests/articleshow/104174060.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T03:17:24+00:00
+
+Pope Francis opened a big meeting on the future of the Catholic Church on Wednesday, which progressives are hoping will lead to more women in leadership roles and conservatives are warning could split the church.
+
+## ODI World Cup: An assessment of Team India
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-an-assessment-of-team-india/articleshow/104173797.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-an-assessment-of-team-india/articleshow/104173797.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T03:07:49+00:00
+
+The ODI World Cup begins in Ahmedabad with England facing New Zealand. India's warm-up games were canceled due to rain. A SWOT analysis of the Indian team led by Rohit Sharma shows their strengths as home advantage, strong batters like Kohli and Sharma, and a potent pace attack. Weaknesses include a lack of a settled playing XI and inconsistent fielding. Opportunities lie in the form of Kuldeep Yadav and Shreyas Iyer.
+
+## Maha MP booked under SC/ST Act for making dean clean toilets
+ - [https://timesofindia.indiatimes.com/city/aurangabad/mp-booked-under-sc/st-act-for-making-dean-clean-toilets/articleshow/104173624.cms](https://timesofindia.indiatimes.com/city/aurangabad/mp-booked-under-sc/st-act-for-making-dean-clean-toilets/articleshow/104173624.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:59:31+00:00
+
+Shiv Sena MP Hemant Patil, who made a hospital dean clean dirty washrooms, has been booked under the SC/ST (Prevention of Atrocities) Act and the Maharashtra Medicare Service Persons and Medicare Service Institutions (Prevention of Violence and Damage or Loss to Property) Act 2010. He and 10 to 15 others have also been charged with IPC sections including criminal force and defamation. Patil denies making casteist remarks and says they were at the hospital to review conditions after the death of 35 patients. The dean filed the complaint leading to the FIR.
+
+## BJP big guns in Madhya Pradesh poll race turn spoilsport for party's CM aspirants
+ - [https://timesofindia.indiatimes.com/city/bhopal/bjp-big-guns-in-mp-poll-race-turn-spoilsport-for-partys-cm-aspirants/articleshow/104173598.cms](https://timesofindia.indiatimes.com/city/bhopal/bjp-big-guns-in-mp-poll-race-turn-spoilsport-for-partys-cm-aspirants/articleshow/104173598.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:58:59+00:00
+
+
+
+## Teacher thrashes Class 2 boy with plastic pipe over low marks
+ - [https://timesofindia.indiatimes.com/city/jaipur/teacher-thrashes-class-2-boy-with-plastic-pipe-over-low-marks-sacked/articleshow/104173233.cms](https://timesofindia.indiatimes.com/city/jaipur/teacher-thrashes-class-2-boy-with-plastic-pipe-over-low-marks-sacked/articleshow/104173233.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:43:54+00:00
+
+A female teacher at private school IPS Academy in Alwar has been fired after parents accused her of brutally beating their son with a plastic pipe and sticks for scoring low marks in a test. The child returned home with red marks on his thighs and waist, leading to the police registering a case against the teacher and the school administration. The school's principal claimed that the teacher was reprimanding the child for bullying behavior.
+
+## Sikkim flash flood: 3k Bengal tourists stuck as road links severed
+ - [https://timesofindia.indiatimes.com/city/kolkata/sikkim-flash-flood-3000-west-bengal-tourists-stuck-as-road-links-severed/articleshow/104172772.cms](https://timesofindia.indiatimes.com/city/kolkata/sikkim-flash-flood-3000-west-bengal-tourists-stuck-as-road-links-severed/articleshow/104172772.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:19:44+00:00
+
+Flash floods caused by the Teesta and its tributary, Lachen, have stranded around 3,000 tourists in Sikkim, including 1,200 in North Sikkim. The floods have washed away bridges and roads, cutting off links between Gangtok and Siliguri. Many tourists are unable to contact their families due to disrupted phone and internet connections. Officials have assured that all stranded tourists are safe and efforts are being made to restore communication and arrange rescue operations once the weather improves. Alternative routes have been opened for those stranded in Gangtok.
+
+## Sikkim flash flood: 3k Bengal tourists stuck as road links severed
+ - [https://timesofindia.indiatimes.com/city/kolkata/3000-west-bengal-tourists-stuck-as-road-links-severed/articleshow/104172772.cms](https://timesofindia.indiatimes.com/city/kolkata/3000-west-bengal-tourists-stuck-as-road-links-severed/articleshow/104172772.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:19:44+00:00
+
+Flash floods caused by the Teesta and its tributary, Lachen, have stranded around 3,000 tourists in Sikkim, including 1,200 in North Sikkim. The floods have washed away bridges and roads, cutting off links between Gangtok and Siliguri. Many tourists are unable to contact their families due to disrupted phone and internet connections. Officials have assured that all stranded tourists are safe and efforts are being made to restore communication and arrange rescue operations once the weather improves. Alternative routes have been opened for those stranded in Gangtok.
+
+## ‘Khalistan’ graffiti in HP's Dharamshala ahead of WC match
+ - [https://timesofindia.indiatimes.com/city/shimla/khalistan-graffiti-in-himachals-dharamshala-ahead-of-world-cup-match/articleshow/104172761.cms](https://timesofindia.indiatimes.com/city/shimla/khalistan-graffiti-in-himachals-dharamshala-ahead-of-world-cup-match/articleshow/104172761.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:19:03+00:00
+
+Ahead of the World Cup matches in Dharamshala, the discovery of "Khalistan" graffiti has put the police on high alert. Two suspects have been identified and an FIR has been registered. A video circulating on social media claims to target the final match of the tournament. A joint intelligence sharing meeting has been held and additional patrolling teams have been activated. A special investigation team has been constituted to investigate the matter. This is not the first time Khalistan graffiti has been found in Dharamshala. Last year, a module of 247 people involved in anti-India propaganda was uncovered.
+
+## MP polls: Focus on 22 L first-timers, 2.7 cr women
+ - [https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-5-6-crore-voters-to-decide-2023-poll-scores-focus-on-22-lakh-first-timers-2-7-crore-women/articleshow/104172714.cms](https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-5-6-crore-voters-to-decide-2023-poll-scores-focus-on-22-lakh-first-timers-2-7-crore-women/articleshow/104172714.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T02:15:41+00:00
+
+The final voters list for the upcoming assembly elections in Madhya Pradesh has been published, revealing a total of 5.6 crore electors. The list includes 2.88 crore male voters and 2.72 crore female voters. Additionally, there are 75,304 service electors and 6.5 lakh voters above the age of 80. During the second summary revision, 24.3 lakh names were added and 7.5 lakh names were deleted, resulting in a net increase of 16.8 lakh voters. There are also 22.3 lakh first-time voters aged between 18 and 19.
+
+## Magnitude-3.2 earthquake hits Uttarakhand's Uttarkashi
+ - [https://timesofindia.indiatimes.com/city/dehradun/magnitude-3-2-earthquake-hits-uttarakhands-uttarkashi/articleshow/104172441.cms](https://timesofindia.indiatimes.com/city/dehradun/magnitude-3-2-earthquake-hits-uttarakhands-uttarkashi/articleshow/104172441.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T01:58:03+00:00
+
+An earthquake of magnitude 3.2 on the Richter scale struck Uttarakhand's Uttarkashi in the early hours of Thursday, National Center for Seismology said. The quake occurred at a depth of 5km.
+
+## Google kicks off ICC Men's World Cup 2023 with a doodle
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/google-kicks-off-icc-mens-world-cup-2023-with-a-doodle/articleshow/104171882.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/google-kicks-off-icc-mens-world-cup-2023-with-a-doodle/articleshow/104171882.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-05T01:21:03+00:00
+
+
+
