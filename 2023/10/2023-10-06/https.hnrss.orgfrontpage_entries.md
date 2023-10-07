@@ -1,0 +1,805 @@
+# Source:Hacker News - frontpage, URL:https://hnrss.org/frontpage, language:en-US
+
+## Bored Apes' Yuga Labs lays off employees
+ - [https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees](https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T22:27:35+00:00
+
+<p>Article URL: <a href="https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees">https://web3isgoinggreat.com/single/bored-apes-yuga-labs-lays-off-employees</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37797164">https://news.ycombinator.com/item?id=37797164</a></p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
+
+## Show HN: What to read after? Personalised AI book recommendations
+ - [https://whattoreadafter.xyz/ai-librarian](https://whattoreadafter.xyz/ai-librarian)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T22:09:24+00:00
+
+<p>Personalised AI book recommendations with WOW effect!
+Greetings! I'm Robo Ratel, your personal AI librarian, and I'm thrilled to help you find your next amazing literary adventure!  Just specify genres and/or storyline characteristic and see the exciting recommendations I've curated just for you!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37797012">https://news.ycombinator.com/item?id=37797012</a></p>
+<p>Points: 22</p>
+<p># Comments: 13</p>
+
+## US science agencies on track to hit 25-year funding low
+ - [https://www.nature.com/articles/d41586-023-03135-x](https://www.nature.com/articles/d41586-023-03135-x)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T21:53:05+00:00
+
+<p>Article URL: <a href="https://www.nature.com/articles/d41586-023-03135-x">https://www.nature.com/articles/d41586-023-03135-x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796913">https://news.ycombinator.com/item?id=37796913</a></p>
+<p>Points: 47</p>
+<p># Comments: 18</p>
+
+## SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization
+ - [https://github.com/okuvshynov/slowllama](https://github.com/okuvshynov/slowllama)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T21:46:50+00:00
+
+<p>Article URL: <a href="https://github.com/okuvshynov/slowllama">https://github.com/okuvshynov/slowllama</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796863">https://news.ycombinator.com/item?id=37796863</a></p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
+
+## Lasers Deflected Using Air
+ - [https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0](https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&two_columns=0)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T21:06:59+00:00
+
+<p>Article URL: <a href="https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&amp;two_columns=0">https://www.desy.de/news/news_search/index_eng.html?openDirectAnchor=2951&amp;two_columns=0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796428">https://news.ycombinator.com/item?id=37796428</a></p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
+
+## Why did the Motorola 68000 processor family fall out of use in PCs?
+ - [https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer](https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:54:21+00:00
+
+<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer">https://retrocomputing.stackexchange.com/questions/27722/why-did-the-motorola-68000-processor-family-fall-out-of-use-in-personal-computer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796292">https://news.ycombinator.com/item?id=37796292</a></p>
+<p>Points: 11</p>
+<p># Comments: 7</p>
+
+## The Source of Readability
+ - [https://loup-vaillant.fr/articles/source-of-readability](https://loup-vaillant.fr/articles/source-of-readability)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:47:07+00:00
+
+<p>Article URL: <a href="https://loup-vaillant.fr/articles/source-of-readability">https://loup-vaillant.fr/articles/source-of-readability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796195">https://news.ycombinator.com/item?id=37796195</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## OpenStack Unleashes Bobcat: A Leap Forward in Open-Source Cloud Infrastructure
+ - [https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure](https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:47:01+00:00
+
+<p>Article URL: <a href="https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure">https://opensourcewatch.beehiiv.com/p/openstack-unleashes-bobcat-leap-forward-opensource-cloud-infrastructure</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796194">https://news.ycombinator.com/item?id=37796194</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+## Charles H. Bennett's Shadows (ca. 1856)
+ - [https://publicdomainreview.org/collection/shadows/](https://publicdomainreview.org/collection/shadows/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:44:50+00:00
+
+<p>Article URL: <a href="https://publicdomainreview.org/collection/shadows/">https://publicdomainreview.org/collection/shadows/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37796157">https://news.ycombinator.com/item?id=37796157</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+## Redox OS Development Priorities for 2023/24
+ - [https://www.redox-os.org/news/development-priorities-2023-09/](https://www.redox-os.org/news/development-priorities-2023-09/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:15:17+00:00
+
+<p>Article URL: <a href="https://www.redox-os.org/news/development-priorities-2023-09/">https://www.redox-os.org/news/development-priorities-2023-09/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795751">https://news.ycombinator.com/item?id=37795751</a></p>
+<p>Points: 31</p>
+<p># Comments: 0</p>
+
+## 23andMe scraping incident leaked data on 1.3M users
+ - [https://therecord.media/scraping-incident-genetic-testing-site](https://therecord.media/scraping-incident-genetic-testing-site)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:08:52+00:00
+
+<p>Article URL: <a href="https://therecord.media/scraping-incident-genetic-testing-site">https://therecord.media/scraping-incident-genetic-testing-site</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795652">https://news.ycombinator.com/item?id=37795652</a></p>
+<p>Points: 38</p>
+<p># Comments: 3</p>
+
+## You've just spent $400 on a baby monitor. Now you need a subscription
+ - [https://www.theregister.com/2023/10/06/miku_baby_monitor/](https://www.theregister.com/2023/10/06/miku_baby_monitor/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T20:06:28+00:00
+
+<p>Article URL: <a href="https://www.theregister.com/2023/10/06/miku_baby_monitor/">https://www.theregister.com/2023/10/06/miku_baby_monitor/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795623">https://news.ycombinator.com/item?id=37795623</a></p>
+<p>Points: 55</p>
+<p># Comments: 43</p>
+
+## Why audio-only deepfakes are uniquely threatening to elections
+ - [https://aipoliticalpulse.substack.com/p/the-deepfake-issue](https://aipoliticalpulse.substack.com/p/the-deepfake-issue)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:45:17+00:00
+
+<p>Article URL: <a href="https://aipoliticalpulse.substack.com/p/the-deepfake-issue">https://aipoliticalpulse.substack.com/p/the-deepfake-issue</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795328">https://news.ycombinator.com/item?id=37795328</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+## A 20MP Sensor in a Film Canister Reinvigorates Vintage Analog Cameras
+ - [https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/](https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:40:41+00:00
+
+<p>Article URL: <a href="https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/">https://petapixel.com/2023/10/06/a-20mp-sensor-in-a-film-canister-reinvigorates-vintage-analog-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795278">https://news.ycombinator.com/item?id=37795278</a></p>
+<p>Points: 30</p>
+<p># Comments: 15</p>
+
+## More Than 80 Percent of Americans Can't Afford New Cars
+ - [https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956](https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:34:07+00:00
+
+<p>Article URL: <a href="https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956">https://jalopnik.com/more-than-80-percent-of-americans-can-t-afford-new-cars-1850906956</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795179">https://news.ycombinator.com/item?id=37795179</a></p>
+<p>Points: 38</p>
+<p># Comments: 49</p>
+
+## Fail2Ban – Daemon to ban hosts that cause multiple authentication errors
+ - [https://github.com/fail2ban/fail2ban](https://github.com/fail2ban/fail2ban)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:26:55+00:00
+
+<p>Article URL: <a href="https://github.com/fail2ban/fail2ban">https://github.com/fail2ban/fail2ban</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37795100">https://news.ycombinator.com/item?id=37795100</a></p>
+<p>Points: 20</p>
+<p># Comments: 15</p>
+
+## Show HN: A simple Pastebin Clone using Deno
+ - [https://github.com/JLCarveth/nutty](https://github.com/JLCarveth/nutty)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:14:55+00:00
+
+<p>This is a simple Pastebin clone I made using the Deno Typescript runtime.<p>I created a simple templating system, and implemented server-side rendering for the UI.<p>Demo: <a href="https://paste.jlcarveth.dev/" rel="nofollow noreferrer">https://paste.jlcarveth.dev/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37794960">https://news.ycombinator.com/item?id=37794960</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+## Show HN: Neobrutalism components – A collection of react-tailwind components
+ - [https://github.com/ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:11:00+00:00
+
+<p>Hi, can you give me your opinion about this project? What else I should add?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37794904">https://news.ycombinator.com/item?id=37794904</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+## Chicago independently abolishes subminimum wage for tipped workers
+ - [https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html](https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T19:08:34+00:00
+
+<p>Article URL: <a href="https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html">https://www.chicagotribune.com/politics/ct-chicago-council-votes-eliminate-lower-tipped-minimum-wage-20231006-xg5vpkqcxnfqhe5fqogxrpbcua-story.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37794874">https://news.ycombinator.com/item?id=37794874</a></p>
+<p>Points: 85</p>
+<p># Comments: 76</p>
+
+## Phishing 2FA 25 years ago
+ - [https://twitter.com/123456/status/1710359310419607976](https://twitter.com/123456/status/1710359310419607976)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T18:34:04+00:00
+
+<p>Article URL: <a href="https://twitter.com/123456/status/1710359310419607976">https://twitter.com/123456/status/1710359310419607976</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37794443">https://news.ycombinator.com/item?id=37794443</a></p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
+
+## More than 75,000 Kaiser workers go on strike in clash with over wages
+ - [https://www.latimes.com/california/story/2023-10-04/75000-kaiser-workers-go-on-strike-disrupting-healthcare-in-california-and-beyond](https://www.latimes.com/california/story/2023-10-04/75000-kaiser-workers-go-on-strike-disrupting-healthcare-in-california-and-beyond)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T18:13:10+00:00
+
+<p>Article URL: <a href="https://www.latimes.com/california/story/2023-10-04/75000-kaiser-workers-go-on-strike-disrupting-healthcare-in-california-and-beyond">https://www.latimes.com/california/story/2023-10-04/75000-kaiser-workers-go-on-strike-disrupting-healthcare-in-california-and-beyond</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37794139">https://news.ycombinator.com/item?id=37794139</a></p>
+<p>Points: 22</p>
+<p># Comments: 22</p>
+
+## The ozone hole above Antarctica has grown to three times the size of Brazil
+ - [https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil](https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T18:00:28+00:00
+
+<p>Article URL: <a href="https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil">https://www.space.com/ozone-hole-antarctica-three-times-size-of-brazil</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793941">https://news.ycombinator.com/item?id=37793941</a></p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
+
+## Support HDR images in your app [video]
+ - [https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5](https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T17:49:10+00:00
+
+<p>Article URL: <a href="https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5">https://developer.apple.com/videos/play/wwdc2023/10181/?cmdf=apple+support+iso+hdr+ISO%2FTS+22028-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793788">https://news.ycombinator.com/item?id=37793788</a></p>
+<p>Points: 38</p>
+<p># Comments: 36</p>
+
+## AMD May Get Across the CUDA Moat
+ - [https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T17:35:36+00:00
+
+<p>Article URL: <a href="https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/">https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793635">https://news.ycombinator.com/item?id=37793635</a></p>
+<p>Points: 33</p>
+<p># Comments: 16</p>
+
+## Overshooting Earth’s Boundaries: An Interview with Bill Rees
+ - [https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/](https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T17:20:29+00:00
+
+<p>Article URL: <a href="https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/">https://worldsensorium.com/overshooting-earths-boundaries-an-interview-with-bill-rees/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793466">https://news.ycombinator.com/item?id=37793466</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+## Tell HN: "Ad blockers are not allowed on YouTube”
+ - [https://news.ycombinator.com/item?id=37793375](https://news.ycombinator.com/item?id=37793375)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T17:13:01+00:00
+
+<p>I opened youtube this morning to see a big popup:<p>Ad blockers are not allowed on YouTube<p>- It looks like you may be using an ad blocker.
+- Ads allow YouTube to be used by billions worldwide.
+- You can go ad-free with YouTube Premium, and creators can still get paid from your subscription</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793375">https://news.ycombinator.com/item?id=37793375</a></p>
+<p>Points: 28</p>
+<p># Comments: 16</p>
+
+## Ozempic linked to stomach paralysis, other gastrointestinal issues: UBC study
+ - [https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/](https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:55:58+00:00
+
+<p>Article URL: <a href="https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/">https://globalnews.ca/news/10006543/ozempic-stomach-paralysis-ubc-study/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793185">https://news.ycombinator.com/item?id=37793185</a></p>
+<p>Points: 36</p>
+<p># Comments: 38</p>
+
+## What Satoshi Did Not Know (2015) [pdf]
+ - [https://www.ifca.ai/pub/fc15/89750001.pdf](https://www.ifca.ai/pub/fc15/89750001.pdf)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:50:03+00:00
+
+<p>Article URL: <a href="https://www.ifca.ai/pub/fc15/89750001.pdf">https://www.ifca.ai/pub/fc15/89750001.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37793123">https://news.ycombinator.com/item?id=37793123</a></p>
+<p>Points: 33</p>
+<p># Comments: 41</p>
+
+## Open-ribbon – A Project to reverse engineer the PS1 music game Vib-Ribbon
+ - [https://github.com/open-ribbon/open-ribbon](https://github.com/open-ribbon/open-ribbon)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:39:16+00:00
+
+<p>Article URL: <a href="https://github.com/open-ribbon/open-ribbon">https://github.com/open-ribbon/open-ribbon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792996">https://news.ycombinator.com/item?id=37792996</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+## Exploratory Data Analysis Using Awk
+ - [https://awk.dev/eda.html](https://awk.dev/eda.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:31:36+00:00
+
+<p>Article URL: <a href="https://awk.dev/eda.html">https://awk.dev/eda.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792916">https://news.ycombinator.com/item?id=37792916</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+## Tell HN: Postman update removes all your stuff if you refuse to create account
+ - [https://news.ycombinator.com/item?id=37792690](https://news.ycombinator.com/item?id=37792690)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:14:54+00:00
+
+<p>I have been using postman offline without an account for a long time.  Today when I opened the program it asked me to create an account.  When I declined, it wiped all my collections and everything else.<p>All I have is a 'history' to work with and try to piece back together all the variables and collections that I had setup.<p>I relented and created an account, but it did not recover anything.  Beware!<p>Update: I was able to manually import/restore using a backup I found in ~/.config/Postman but I have no trust for continued use of this tool.  Any alternatives that I can migrate to?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792690">https://news.ycombinator.com/item?id=37792690</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+## Rag Is a Hack
+ - [https://www.latent.space/p/llamaindex#details](https://www.latent.space/p/llamaindex#details)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:01:54+00:00
+
+<p>Article URL: <a href="https://www.latent.space/p/llamaindex#details">https://www.latent.space/p/llamaindex#details</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792515">https://news.ycombinator.com/item?id=37792515</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
+
+## Show HN: A job application tracker with company reviews, recruiter autoresponder
+ - [https://rolepad.com](https://rolepad.com)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T16:01:12+00:00
+
+<p>Hey folks. Rolepad is a product born out of my dissatisfaction with hiring processes - both as a candidate and as a hiring manager. Processes that are non-transparent, inefficient, and full of frustration for both sides. This early iteration has focused on the application tracking aspects with a few extra goodies.<p>These days it is common to apply to dozens of positions (some users track over a hundred opportunities). Without a record-keeping system, it can quickly become an unmanageable mess. Even the better-organized among us often end up juggling spreadsheets, emails, and various notes. Rolepad was built to keep this data (company facts, role details, interview stages, contact info, freeform notes, follow-up actions, and more) in one place. Some of the other neat additions:<p>- Forward emails to save@rolepad.com to save them as notes connected to specific opportunities. Forward recruiter messages to no@rolepad.com to have the system automatically reply with a decline response.
+
+## India's banks are making $64B from free cashless payments
+ - [https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments](https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:59:42+00:00
+
+<p>Article URL: <a href="https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments">https://www.bloomberg.com/opinion/articles/2023-10-05/india-s-banks-make-64-billion-from-free-cashless-payments</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792479">https://news.ycombinator.com/item?id=37792479</a></p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
+
+## Show HN: Shortbread – Create AI comics in minutes
+ - [https://shortbread.ai/](https://shortbread.ai/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:56:22+00:00
+
+<p>Just go to the link and click on "Start Creating". No signing in required.<p>I built shortbread to help anyone to create comics / manga series. The onboarding process helps you kick start a page from 60%, then you can use your creativity to bring it to 1000% in a fully-controllable editor.<p>Tech stack:<p>GPT 3.5 Turbo  - the comic script generation. It handled everything from layout, character, scene, SD prompts, to dialogue.<p>SD 1.5  - We put up SD servers on GCP. For every comic we generate one large image and crop it into panels. Per the experiments of u/Deathmarkedadc on Reddit, this massively helps with consistency. The models are trained on anime scenes tho, and might not be so great with animals.<p>Frontend: Next.js 13 on Vercel, React + Typescript. We built the entire editor from scratch to compose the comic (images, panels, speech bubbles, text) like a webpage. This allows you to edit and republish your comics like a website. 
+You can dynamically generate panels as well
+
+## Hubble’s Hitchcock Moment: An Explosion in Unexpected Place
+ - [https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/](https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:46:16+00:00
+
+<p>Article URL: <a href="https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/">https://scitechdaily.com/hubbles-hitchcock-moment-a-bizarre-explosion-in-unexpected-place/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792322">https://news.ycombinator.com/item?id=37792322</a></p>
+<p>Points: 10</p>
+<p># Comments: 5</p>
+
+## Ask HN: Sales Tips for Solo Devs
+ - [https://news.ycombinator.com/item?id=37792300](https://news.ycombinator.com/item?id=37792300)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:44:33+00:00
+
+<p>I just launched fixpdfs.com having landed my first customer (woot!). Now I'm trying to figure out how to acquire more customers. Turns out it's not so easy...<p>I guess like many here, I am way more skilled on the software side than on the sales side. Any advice for people like me?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792300">https://news.ycombinator.com/item?id=37792300</a></p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
+
+## Java 21 VirtualThreads vs. Clojure Lazy Seqs (from Clojure Deref 2023-10-06)
+ - [https://clojure.org/news/2023/10/06/deref](https://clojure.org/news/2023/10/06/deref)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:44:13+00:00
+
+<p>Article URL: <a href="https://clojure.org/news/2023/10/06/deref">https://clojure.org/news/2023/10/06/deref</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792294">https://news.ycombinator.com/item?id=37792294</a></p>
+<p>Points: 47</p>
+<p># Comments: 4</p>
+
+## Petscii Side-Scrolling Platformer by Jimbo
+ - [https://jimbo.itch.io/petscii-side-scrolling-platformer](https://jimbo.itch.io/petscii-side-scrolling-platformer)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:31:41+00:00
+
+<p>Article URL: <a href="https://jimbo.itch.io/petscii-side-scrolling-platformer">https://jimbo.itch.io/petscii-side-scrolling-platformer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792129">https://news.ycombinator.com/item?id=37792129</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
+
+## Unreal Engine will no longer be free for all
+ - [https://www.creativebloq.com/news/epic-games-unreal-engine-charge](https://www.creativebloq.com/news/epic-games-unreal-engine-charge)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:24:19+00:00
+
+<p>Article URL: <a href="https://www.creativebloq.com/news/epic-games-unreal-engine-charge">https://www.creativebloq.com/news/epic-games-unreal-engine-charge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37792030">https://news.ycombinator.com/item?id=37792030</a></p>
+<p>Points: 107</p>
+<p># Comments: 59</p>
+
+## When allocators are hoarding your precious memory
+ - [https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T15:15:30+00:00
+
+<p>Article URL: <a href="https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/">https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37791897">https://news.ycombinator.com/item?id=37791897</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+## Oh-My-God Particle
+ - [https://en.wikipedia.org/wiki/Oh-My-God_particle](https://en.wikipedia.org/wiki/Oh-My-God_particle)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:32:14+00:00
+
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Oh-My-God_particle">https://en.wikipedia.org/wiki/Oh-My-God_particle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37791298">https://news.ycombinator.com/item?id=37791298</a></p>
+<p>Points: 16</p>
+<p># Comments: 8</p>
+
+## Humans are biased. Generative AI is even worse
+ - [https://www.bloomberg.com/graphics/2023-generative-ai-bias/](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:23:42+00:00
+
+<p>Article URL: <a href="https://www.bloomberg.com/graphics/2023-generative-ai-bias/">https://www.bloomberg.com/graphics/2023-generative-ai-bias/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37791165">https://news.ycombinator.com/item?id=37791165</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+## EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out
+ - [https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:18:59+00:00
+
+<p>Article URL: <a href="https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/">https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37791116">https://news.ycombinator.com/item?id=37791116</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+## SudoLang: a programming language designed to collaborate with AI language models
+ - [https://github.com/paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:14:09+00:00
+
+<p>Article URL: <a href="https://github.com/paralleldrive/sudolang-llm-support">https://github.com/paralleldrive/sudolang-llm-support</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37791060">https://news.ycombinator.com/item?id=37791060</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
+
+## Making Hard Things Easy
+ - [https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:09:41+00:00
+
+<p>Article URL: <a href="https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/">https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37791002">https://news.ycombinator.com/item?id=37791002</a></p>
+<p>Points: 22</p>
+<p># Comments: 0</p>
+
+## MGM expects $100M hit from hack that led to data breach
+ - [https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/](https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:07:29+00:00
+
+<p>Article URL: <a href="https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/">https://www.reuters.com/business/mgm-expects-cybersecurity-issue-negatively-impact-third-quarter-earnings-2023-10-05/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790978">https://news.ycombinator.com/item?id=37790978</a></p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
+
+## Rumor: Windows 12 could become a subscription based operating system
+ - [https://www.techweekmag.com/news/computer/rumor-windows-12-could-become-a-subscription-based-operating-system/](https://www.techweekmag.com/news/computer/rumor-windows-12-could-become-a-subscription-based-operating-system/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T14:06:47+00:00
+
+<p>Article URL: <a href="https://www.techweekmag.com/news/computer/rumor-windows-12-could-become-a-subscription-based-operating-system/">https://www.techweekmag.com/news/computer/rumor-windows-12-could-become-a-subscription-based-operating-system/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790972">https://news.ycombinator.com/item?id=37790972</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
+
+## Thread-per-core
+ - [https://without.boats/blog/thread-per-core/](https://without.boats/blog/thread-per-core/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T13:47:32+00:00
+
+<p>Article URL: <a href="https://without.boats/blog/thread-per-core/">https://without.boats/blog/thread-per-core/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790745">https://news.ycombinator.com/item?id=37790745</a></p>
+<p>Points: 58</p>
+<p># Comments: 19</p>
+
+## Signs of undeclared ChatGPT use in papers mounting
+ - [https://retractionwatch.com/2023/10/06/signs-of-undeclared-chatgpt-use-in-papers-mounting/](https://retractionwatch.com/2023/10/06/signs-of-undeclared-chatgpt-use-in-papers-mounting/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T13:27:44+00:00
+
+<p>Article URL: <a href="https://retractionwatch.com/2023/10/06/signs-of-undeclared-chatgpt-use-in-papers-mounting/">https://retractionwatch.com/2023/10/06/signs-of-undeclared-chatgpt-use-in-papers-mounting/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790515">https://news.ycombinator.com/item?id=37790515</a></p>
+<p>Points: 40</p>
+<p># Comments: 24</p>
+
+## Lost your luggage? That's nothing – we just lost your whole flight
+ - [https://www.theregister.com/2023/10/02/who_me/](https://www.theregister.com/2023/10/02/who_me/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T13:10:15+00:00
+
+<p>Article URL: <a href="https://www.theregister.com/2023/10/02/who_me/">https://www.theregister.com/2023/10/02/who_me/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790303">https://news.ycombinator.com/item?id=37790303</a></p>
+<p>Points: 13</p>
+<p># Comments: 6</p>
+
+## Thirty Years Ago: MS-DOS 6.00
+ - [https://www.pcjs.org/blog/2023/10/04/](https://www.pcjs.org/blog/2023/10/04/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T12:57:27+00:00
+
+<p>Article URL: <a href="https://www.pcjs.org/blog/2023/10/04/">https://www.pcjs.org/blog/2023/10/04/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790174">https://news.ycombinator.com/item?id=37790174</a></p>
+<p>Points: 26</p>
+<p># Comments: 9</p>
+
+## OpenAI is exploring making its own AI chips and evaluates acquisition targets
+ - [https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/](https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T12:47:59+00:00
+
+<p>Article URL: <a href="https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/">https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37790058">https://news.ycombinator.com/item?id=37790058</a></p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
+
+## Long gone, DEC is still powering the world of computing
+ - [https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T11:56:36+00:00
+
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/">https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37789514">https://news.ycombinator.com/item?id=37789514</a></p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
+
+## Show HN: Another way to use an old tablet as an extra screen
+ - [https://github.com/alex028502/extra-screen](https://github.com/alex028502/extra-screen)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T11:36:41+00:00
+
+<p>but only for terminal and curses apps</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37789371">https://news.ycombinator.com/item?id=37789371</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
+
+## Productivity has grown faster in Western Europe than in America
+ - [https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america](https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T11:25:25+00:00
+
+<p>Article URL: <a href="https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america">https://www.economist.com/graphic-detail/2023/10/04/productivity-has-grown-faster-in-western-europe-than-in-america</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37789290">https://news.ycombinator.com/item?id=37789290</a></p>
+<p>Points: 54</p>
+<p># Comments: 19</p>
+
+## Opening up access to GOV.UK Forms: an online form builder
+ - [https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/](https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T10:54:35+00:00
+
+<p>Article URL: <a href="https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/">https://gds.blog.gov.uk/2023/10/03/how-were-opening-up-access-to-gov-uk-forms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37789107">https://news.ycombinator.com/item?id=37789107</a></p>
+<p>Points: 42</p>
+<p># Comments: 7</p>
+
+## Bus Sniffing the IBM 5150
+ - [https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T10:54:33+00:00
+
+<p>Article URL: <a href="https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html">https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37789106">https://news.ycombinator.com/item?id=37789106</a></p>
+<p>Points: 21</p>
+<p># Comments: 0</p>
+
+## Was Async Fn a Mistake?
+ - [https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T10:47:24+00:00
+
+<p>Article URL: <a href="https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake">https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37789057">https://news.ycombinator.com/item?id=37789057</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+## OpenAI’s ChatGPT Is the Whole Game Studio [video]
+ - [https://www.youtube.com/watch?v=Zlgkzjndpak](https://www.youtube.com/watch?v=Zlgkzjndpak)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T10:30:00+00:00
+
+<p>Article URL: <a href="https://www.youtube.com/watch?v=Zlgkzjndpak">https://www.youtube.com/watch?v=Zlgkzjndpak</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788952">https://news.ycombinator.com/item?id=37788952</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+## Airbnb guest stays at LA rental for 500 days without paying, refuses to leave
+ - [https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying](https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T10:19:22+00:00
+
+<p>Article URL: <a href="https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying">https://www.foxla.com/news/airbnb-guest-refuses-to-leave-brentwood-rental-home-after-500-days-without-paying</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788906">https://news.ycombinator.com/item?id=37788906</a></p>
+<p>Points: 56</p>
+<p># Comments: 70</p>
+
+## Jailed Iranian Activist Narges Mohammadi Wins 2023 Nobel Peace Prize
+ - [https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html](https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T10:03:21+00:00
+
+<p>Article URL: <a href="https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html">https://www.cnn.com/world/live-news/nobel-peace-prize-2023-latest-news-intl/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788847">https://news.ycombinator.com/item?id=37788847</a></p>
+<p>Points: 33</p>
+<p># Comments: 27</p>
+
+## When does an old iPhone become unsafe to use?
+ - [https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/](https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T09:45:00+00:00
+
+<p>Article URL: <a href="https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/">https://www.intego.com/mac-security-blog/when-does-an-old-iphone-become-unsafe-to-use/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788747">https://news.ycombinator.com/item?id=37788747</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+## A California hedge fund bulldozed state labor laws, imposed harshest noncompetes
+ - [https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9](https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T09:13:29+00:00
+
+<p>Article URL: <a href="https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9">https://www.businessinsider.com/how-hedge-funds-skirt-california-noncompete-ban-what-means-ny-2023-9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788595">https://news.ycombinator.com/item?id=37788595</a></p>
+<p>Points: 30</p>
+<p># Comments: 12</p>
+
+## Slack Is Down
+ - [https://slack.com/?nojsmode=1](https://slack.com/?nojsmode=1)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T08:54:43+00:00
+
+<p>Article URL: <a href="https://slack.com/?nojsmode=1">https://slack.com/?nojsmode=1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788454">https://news.ycombinator.com/item?id=37788454</a></p>
+<p>Points: 52</p>
+<p># Comments: 33</p>
+
+## NSA publishes ten most common misconfigurations in networks
+ - [https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T08:46:41+00:00
+
+<p>Article URL: <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a">https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-278a</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788420">https://news.ycombinator.com/item?id=37788420</a></p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
+
+## CCC Invites to the 37th Chaos Communication Congress in Hamburg
+ - [https://www.ccc.de/en/updates/2023/37C3](https://www.ccc.de/en/updates/2023/37C3)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T07:44:21+00:00
+
+<p>Article URL: <a href="https://www.ccc.de/en/updates/2023/37C3">https://www.ccc.de/en/updates/2023/37C3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37788153">https://news.ycombinator.com/item?id=37788153</a></p>
+<p>Points: 58</p>
+<p># Comments: 8</p>
+
+## Reversing 'France Identité': The New French Digital ID
+ - [https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html](https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T06:59:25+00:00
+
+<p>Article URL: <a href="https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html">https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37787901">https://news.ycombinator.com/item?id=37787901</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+## Towards Monosemanticity: Decomposing Language Models with Dictionary Learning
+ - [https://transformer-circuits.pub/2023/monosemantic-features/index.html](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T06:48:21+00:00
+
+<p>Article URL: <a href="https://transformer-circuits.pub/2023/monosemantic-features/index.html">https://transformer-circuits.pub/2023/monosemantic-features/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37787851">https://news.ycombinator.com/item?id=37787851</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
+
+## Dear Spotify, stop treating your users like testers
+ - [https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc](https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T06:36:09+00:00
+
+<p>Article URL: <a href="https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc">https://anandtyagi.medium.com/dear-spotify-stop-treating-your-users-like-testers-361836b1b6cc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37787775">https://news.ycombinator.com/item?id=37787775</a></p>
+<p>Points: 28</p>
+<p># Comments: 23</p>
+
+## Chinese Netizen Fined over 1M Yuan for Using VPN
+ - [https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua](https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T04:51:29+00:00
+
+<p>Article URL: <a href="https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua">https://here.news/post/93c46bbd-ea0d-48e2-bba6-135e58887f81/chinese-netizen-fined-over-1-million-yua</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37787205">https://news.ycombinator.com/item?id=37787205</a></p>
+<p>Points: 42</p>
+<p># Comments: 15</p>
+
+## Rails 7.1 Released
+ - [https://github.com/rails/rails/releases/tag/v7.1.0](https://github.com/rails/rails/releases/tag/v7.1.0)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T04:31:36+00:00
+
+<p>Article URL: <a href="https://github.com/rails/rails/releases/tag/v7.1.0">https://github.com/rails/rails/releases/tag/v7.1.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37787130">https://news.ycombinator.com/item?id=37787130</a></p>
+<p>Points: 25</p>
+<p># Comments: 5</p>
+
+## OpenPubKey and Sigstore
+ - [https://blog.sigstore.dev/openpubkey-and-sigstore/](https://blog.sigstore.dev/openpubkey-and-sigstore/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T03:12:45+00:00
+
+<p>Article URL: <a href="https://blog.sigstore.dev/openpubkey-and-sigstore/">https://blog.sigstore.dev/openpubkey-and-sigstore/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37786781">https://news.ycombinator.com/item?id=37786781</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+## “Google is clearly buying its way to squelch competitors“
+ - [https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way](https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T02:43:49+00:00
+
+<p>Article URL: <a href="https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way">https://www.bigtechontrial.com/p/google-is-clearly-buying-its-way</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37786653">https://news.ycombinator.com/item?id=37786653</a></p>
+<p>Points: 32</p>
+<p># Comments: 4</p>
+
+## Show HN: Decorate Java stack traces with source code snippets
+ - [https://github.com/laech/java-stacksrc](https://github.com/laech/java-stacksrc)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T02:36:09+00:00
+
+<p>Article URL: <a href="https://github.com/laech/java-stacksrc">https://github.com/laech/java-stacksrc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37786616">https://news.ycombinator.com/item?id=37786616</a></p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
+
+## America's Steam Empire
+ - [https://technicshistory.com/2023/10/06/americas-steam-empire/](https://technicshistory.com/2023/10/06/americas-steam-empire/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T02:25:09+00:00
+
+<p>Article URL: <a href="https://technicshistory.com/2023/10/06/americas-steam-empire/">https://technicshistory.com/2023/10/06/americas-steam-empire/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37786561">https://news.ycombinator.com/item?id=37786561</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+## Ollama is now available as an official Docker image
+ - [https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image](https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T02:18:27+00:00
+
+<p>Article URL: <a href="https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image">https://ollama.ai/blog/ollama-is-now-available-as-an-official-docker-image</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37786525">https://news.ycombinator.com/item?id=37786525</a></p>
+<p>Points: 50</p>
+<p># Comments: 4</p>
+
+## Ring Is Cashing in on the UFO Craze to Promote Its Surveillance Dystopia
+ - [https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia](https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T01:31:10+00:00
+
+<p>Article URL: <a href="https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia">https://www.vice.com/en/article/g5y8m3/ring-is-cashing-in-on-the-ufo-craze-to-promote-its-surveillance-dystopia</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37786276">https://news.ycombinator.com/item?id=37786276</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+## Gboard Hat Version
+ - [https://landing.google.co.jp/caps/](https://landing.google.co.jp/caps/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T00:27:09+00:00
+
+<p>Article URL: <a href="https://landing.google.co.jp/caps/">https://landing.google.co.jp/caps/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=37785920">https://news.ycombinator.com/item?id=37785920</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
+
+## Show HN: A tool to Convert JSON schemas into TypeScript Deno classes
+ - [https://github.com/leigna/json-schema-to-ts-util](https://github.com/leigna/json-schema-to-ts-util)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-10-06T00:13:23+00:00
+
+<p>Hello all<p>To preface this is just something I've been making as a learning exercise, so all feedback is appreciated.<p>This is a tool that converts JSON schemas into TypeScript utility classes for use in Deno.<p>Automatic Type Generation: Typescript interfaces for the compressed and uncompressed versions of your data.<p>Compression & Decompression: Compress and decompress your data.<p>Validation: Built-in data validation using Ajv ensures your data adheres to the schema.<p>Reusability: Once generated, the utility classes can be used in other Deno projects.<p>It currently only supports a subset of JSON schema features. I'll eventually hope to expand it to support more features.<p>Reasons behind the project:
+I have been working with OpenAI LLMs recently and I like to get my data output in structured JSON. I realised it's rather good at taking a schema where properties are compressed within an instruction, and then in return it return data based on the compressed schema. These util
+

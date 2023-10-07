@@ -1,0 +1,58 @@
+# Source:SecurityWeek, URL:https://www.securityweek.com/feed, language:en-US
+
+## MGM Resorts Says Ransomware Hack Cost $110 Million
+ - [https://www.securityweek.com/mgm-resorts-says-ransomware-hack-cost-110-million/](https://www.securityweek.com/mgm-resorts-says-ransomware-hack-cost-110-million/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T16:31:53+00:00
+
+<p>MGM Resorts said costs from a disruptive ransomware hack has exceeded $110 million, including $10 million in one-time consulting cleanup fees.</p>
+<p>The post <a href="https://www.securityweek.com/mgm-resorts-says-ransomware-hack-cost-110-million/" rel="nofollow">MGM Resorts Says Ransomware Hack Cost $110 Million</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Android Devices With Backdoored Firmware Found in US Schools
+ - [https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/](https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T14:22:36+00:00
+
+<p>A global cybercriminal operation called BadBox has infected the firmware of more than 70,000 Android smartphones, CTV boxes, and tablets with the Triada malware.</p>
+<p>The post <a href="https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/" rel="nofollow">Android Devices With Backdoored Firmware Found in US Schools</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Microsoft Releases New Report on Cybercrime, State-Sponsored Cyber Operations
+ - [https://www.securityweek.com/microsoft-releases-new-report-on-cybercrime-state-sponsored-cyber-operations/](https://www.securityweek.com/microsoft-releases-new-report-on-cybercrime-state-sponsored-cyber-operations/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T12:33:22+00:00
+
+<p>US, Ukraine, and Israel remain the most heavily attacked by cyberespionage and cybercrime threat actors, Microsoft says.</p>
+<p>The post <a href="https://www.securityweek.com/microsoft-releases-new-report-on-cybercrime-state-sponsored-cyber-operations/" rel="nofollow">Microsoft Releases New Report on Cybercrime, State-Sponsored Cyber Operations</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## In Other News: Funding Increase, Abuse of Smartphone Location Data, Legal Matters
+ - [https://www.securityweek.com/in-other-news-funding-increase-abuse-of-smartphone-location-data-legal-matters/](https://www.securityweek.com/in-other-news-funding-increase-abuse-of-smartphone-location-data-legal-matters/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T11:44:08+00:00
+
+<p>Noteworthy stories that might have slipped under the radar: cybersecurity funding increases, new laws, and government’s illegal use of smartphone location data.</p>
+<p>The post <a href="https://www.securityweek.com/in-other-news-funding-increase-abuse-of-smartphone-location-data-legal-matters/" rel="nofollow">In Other News: Funding Increase, Abuse of Smartphone Location Data, Legal Matters</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Organizations Warned of Top 10 Cybersecurity Misconfigurations Seen by CISA, NSA
+ - [https://www.securityweek.com/organizations-warned-of-top-10-cybersecurity-misconfigurations-seen-by-cisa-nsa/](https://www.securityweek.com/organizations-warned-of-top-10-cybersecurity-misconfigurations-seen-by-cisa-nsa/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T10:58:38+00:00
+
+<p>CISA and the NSA are urging network defenders and software developers to address the top ten cybersecurity misconfigurations.</p>
+<p>The post <a href="https://www.securityweek.com/organizations-warned-of-top-10-cybersecurity-misconfigurations-seen-by-cisa-nsa/" rel="nofollow">Organizations Warned of Top 10 Cybersecurity Misconfigurations Seen by CISA, NSA</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## Nonprofit Service Provider Blackbaud Settles Data Breach Case for $49.5M With States
+ - [https://www.securityweek.com/nonprofit-service-provider-blackbaud-settles-data-breach-case-for-49-5m-with-states/](https://www.securityweek.com/nonprofit-service-provider-blackbaud-settles-data-breach-case-for-49-5m-with-states/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T10:37:16+00:00
+
+<p>The fundraising software company Blackbaud agreed Thursday to pay $49.5 million to settle claims brought by the attorneys general of 49 states and Washington, D.C., related to a 2020 data breach that exposed sensitive information from 13,000 nonprofits. Health information, Social Security numbers and the financial information of donors or clients of the nonprofits, universities, [&#8230;]</p>
+<p>The post <a href="https://www.securityweek.com/nonprofit-service-provider-blackbaud-settles-data-breach-case-for-49-5m-with-states/" rel="nofollow">Nonprofit Service Provider Blackbaud Settles Data Breach Case for $49.5M With States</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+
+## CISA Reverses Course on Malicious Exploitation of Video Conferencing Device Flaws
+ - [https://www.securityweek.com/cisa-reverses-course-on-malicious-exploitation-of-video-conferencing-device-flaws/](https://www.securityweek.com/cisa-reverses-course-on-malicious-exploitation-of-video-conferencing-device-flaws/)
+ - RSS feed: https://www.securityweek.com/feed
+ - date published: 2023-10-06T10:00:00+00:00
+
+<p>CISA has removed from its KEV catalog five Owl Labs video conferencing flaws that require the attacker to be in Bluetooth range.</p>
+<p>The post <a href="https://www.securityweek.com/cisa-reverses-course-on-malicious-exploitation-of-video-conferencing-device-flaws/" rel="nofollow">CISA Reverses Course on Malicious Exploitation of Video Conferencing Device Flaws</a> appeared first on <a href="https://www.securityweek.com" rel="nofollow">SecurityWeek</a>.</p>
+

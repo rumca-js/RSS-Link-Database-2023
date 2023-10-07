@@ -1,0 +1,184 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Destiny 2 Still Has A Major Story Clarity Problem In Season Of The Witch
+ - [https://www.gamespot.com/articles/destiny-2-still-has-a-major-story-clarity-problem-in-season-of-the-witch/1100-6518252/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-still-has-a-major-story-clarity-problem-in-season-of-the-witch/1100-6518252/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T22:00:00+00:00
+
+<p dir="ltr"><em>Warning: Spoilers for the conclusion of the Season of the Witch's story to follow</em>.</p><p dir="ltr">The conclusion of the latest <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a> story arc, <a href="https://www.gamespot.com/articles/destiny-2s-season-of-the-witch-kicks-off-the-next-chapter-for-the-games-best-character/1100-6518250/">Season of the Witch</a>, had some pretty high stakes going in.</p><p dir="ltr">After channeling Hive magic for weeks, Eris Morn resisted succumbing to temptation and permanently becoming the Hive God of Vengeance. Instead, Eris severed the immortality of Xivu Arath, the Hive God of War, and stopped herself from becoming humanity's new worst enemy, despite prophecies of that dark future from Elsie Bray. Meanwhile, the Ghost Immaru resurrected Savathun, the Hive God of Cunning, who is now back and more menacing than ever. But as a show of good faith and in an attempt to foster at least some kind of alliance with the Guar
+
+## Welcome to the World: New World: Rise of the Angry Earth
+ - [https://www.gamespot.com/videos/welcome-to-the-world-new-world-rise-of-the-angry-earth/2300-6462585/](https://www.gamespot.com/videos/welcome-to-the-world-new-world-rise-of-the-angry-earth/2300-6462585/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T21:25:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4202691-ehnhpqkp-1920.jpg" width="480" /> The isle of Aeternum waits for you, begging to be discovered. And now, the sensational MMO New World, from Amazon Games, invites you to experience the Rise of the Angry Earth.
+
+## Paleo Pines Recipes List
+ - [https://www.gamespot.com/articles/paleo-pines-recipes-list/1100-6518258/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/paleo-pines-recipes-list/1100-6518258/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T20:35:00+00:00
+
+<p>In <a href="https://www.gamespot.com/games/paleo-pines/">Paleo Pines</a>, a would-be quaint farm-life sim is gently disrupted by friendly dinosaurs who live among the townsfolk. It'll be up to you to nurture them while you live out your days as a farmer, rancher, and even a hobbyist chef. To that end, the <strong>Paleo Pines recipes</strong> come into play, and there are a<em> lot </em>of them. If you need an introduction to how cooking works in Paleo Pines, you can check out the next section of this guide. Otherwise, scroll down to the full Paleo Pines recipes list.</p><h2>Paleo Pines cooking and recipes</h2><p>As in many games like it, you can stumble upon recipes through experimentation, and thankfully the recipes in Paleo Pines are well-sorted into different Mastery levels, categories, and Flourishes. Mastery levels relate to what kind of cooking skills you'll need to create a dish. Categories sort different dishes by order of what buffs or benefits they provide. Flourishes ar
+
+## Destiny 2's Best Character Has Taken Center Stage Once Again
+ - [https://www.gamespot.com/articles/destiny-2s-best-character-has-taken-center-stage-once-again/1100-6518250/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2s-best-character-has-taken-center-stage-once-again/1100-6518250/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T20:05:00+00:00
+
+<p dir="ltr">Since the conclusion of the campaign of <a href="https://www.gamespot.com/games/destiny-2/">Destiny 2</a>'s 2022 expansion, <a href="https://www.gamespot.com/reviews/destiny-2-the-witch-queen-review-queens-gambit/1900-6417838/">The Witch Queen</a>, it's been obvious that we haven't seen the last of <a href="https://www.gamespot.com/articles/destiny-2-witch-queen-story-explained-the-witness-savathuns-plans-and-what-it-all-means/1100-6501033/">Savathun</a>, the Hive God of Cunning. The villain's messages and machinations have been left around The Witch Queen's signature location, the Throne World, and while players brought down Savathun at the end of the expansion, she's still been a looming presence, capable of returning at any time.</p><p dir="ltr">With the Season of the Witch, Destiny 2 finally brought Savathun back to the main story, albeit through more messages and machinations. In order to take on Savathun's sister, Xivu Arath, the Hive God of War, the protagonists o
+
+## Is Assassin’s Creed Mirage A Step In The Right Direction? | Spot On
+ - [https://www.gamespot.com/articles/is-assassins-creed-mirage-a-step-in-the-right-direction-spot-on/1100-6518241/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/is-assassins-creed-mirage-a-step-in-the-right-direction-spot-on/1100-6518241/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T19:24:00+00:00
+
+<p><a href="https://www.gamespot.com/games/assassins-creed-mirage/">Assassin's Creed Mirage</a> is billed as a back-to-basics entry in Ubisoft's long-running open-world franchise. It follows <a href="https://www.gamespot.com/games/assassins-creed-origins/">Assassin's Creed Origins</a>, <a href="https://www.gamespot.com/games/assassins-creed-odyssey/">Odyssey</a>, and <a href="https://www.gamespot.com/games/assassins-creed-valhalla/">Valhalla</a>, three large-scale RPGs in the style of <a href="https://www.gamespot.com/games/the-witcher-3-wild-hunt/">The Witcher 3</a>. Yet despite their ambitions, these games drew some criticism for their quantity over quality approach. As such, Mirage has been presented as an antidote to the open-world bloat that has slowly crept into the franchise, and games as a whole.</p><p>But is a smaller more focused entry in the series the right next step for the Assassin's Creed franchise? That's what Lucy and Tamoor discuss in this week's episode of Spot On.
+
+## Is Assassin's Creed Mirage A Step In The Right Direction? | Spot On
+ - [https://www.gamespot.com/videos/is-assassins-creed-mirage-a-step-in-the-right-direction-spot-on/2300-6462582/](https://www.gamespot.com/videos/is-assassins-creed-mirage-a-step-in-the-right-direction-spot-on/2300-6462582/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T19:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1574/15746725/4202635-spoton_s001e18_assassinscreedmirage_20231006v2.jpg" width="480" /> Assassin's Creed Mirage takes the series back to its roots with a tighter, more focused experience. But is it the future of the massively popular franchise?
+
+## No FIFA, No Problem: EA Sports FC 24 Starts Better Than Last Year, EA Says
+ - [https://www.gamespot.com/articles/no-fifa-no-problem-ea-sports-fc-24-starts-better-than-last-year-ea-says/1100-6518248/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/no-fifa-no-problem-ea-sports-fc-24-starts-better-than-last-year-ea-says/1100-6518248/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T18:05:00+00:00
+
+<p>Electronic Arts has announced new launch statistics for EA Sports FC 24, and the game dropping the FIFA name apparently did not cause many issues in terms of attracting players. The game reached more than 11.3 million players in its first week, including people who tried the game through EA Play and didn't necessarily buy it. For comparison, <a href="https://news.ea.com/press-releases/press-releases-details/2022/EA-SPORTS-Reveals-Record-Breaking-Numbers-After-23-Days-Of-FIFA-23/default.aspx">FIFA 23 had 10.3 million players during its first week</a>.</p><p>Additionally, EA confirmed that FC Mobile reached 2.2 million downloads on launch day alone, and 11.2 million people during the game's first 10 days on the market.</p><p>Some speculated that EA no longer having the FIFA name might impact sales, performance, or engagement. While we don't know the full extent of how this year's game compares to last year, and there are measurements beyond player numbers alone, it does seem based o
+
+## Breaking Bad Creator Doesn't Know How Netflix Makes Money, Likens Streaming To A Ponzi Scheme
+ - [https://www.gamespot.com/articles/breaking-bad-creator-doesnt-know-how-netflix-makes-money-likens-streaming-to-a-ponzi-scheme/1100-6518234/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/breaking-bad-creator-doesnt-know-how-netflix-makes-money-likens-streaming-to-a-ponzi-scheme/1100-6518234/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T17:54:00+00:00
+
+<p>Vince Gilligan--creator of the Emmy-winning television series Breaking Bad--recently <a href="https://variety.com/2023/tv/news/vince-gilligan-new-show-details-rhea-seehorn-ai-breaking-bad-1235745560/">spoke to Variety</a> for an interview in honor of the series finale's 10th anniversary. The interview featured teasing snippets of <a href="https://www.gamespot.com/articles/vince-gilligan-teases-next-show-and-discusses-if-hed-return-to-breaking-bad/1100-6518208/">info about Gilligan's upcoming sci-fi show</a> (including the fact that it will not feature meth) along with <a href="https://www.gamespot.com/articles/breaking-bad-creator-says-starting-final-season-with-flash-forward-was-dumbest-thing-i-ever-did/1100-6518215/">reflections and regrets</a> from the years he spent working on Breaking Bad, but it also featured a rather unexpected statement regarding streaming, with Gilligan saying, "I don't know how streaming makes money."</p><p>The quote comes as part of a response to a ques
+
+## A The Last Of Us Part 2 Remaster Could Be On The Way
+ - [https://www.gamespot.com/articles/a-the-last-of-us-part-2-remaster-could-be-on-the-way/1100-6518244/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-the-last-of-us-part-2-remaster-could-be-on-the-way/1100-6518244/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T17:44:00+00:00
+
+<p>According to a developer's LinkedIn profile, Naughty Dog is working on a remastered version of the Last of Us Part 2.</p><p>As spotted by a couple <a href="https://www.resetera.com/threads/the-last-of-us-part-ii-remastered-mentioned-in-naughty-dog-employee-linkedin-profile.772115/">eagle-eyed Resetera users</a>, the experience timeline of Mark Pajarillo, Lead Outsource Artist at Naughty Dog, listed this note: "Responsible for overseeing the production of all outsourced environments, art assets, weapons, and interactive props for two iconic titles: The Last of Us Part One and The Last of Us 2: Remastered." The mention of The Last of Us 2 has since been removed from the profile. Pajarillo worked on TLOU2 as an Environment Artist during its original production.</p><p>Obviously this is hardly an official announcement, so details like a release date, price tag, PC release, or even whether it actually exists is unknown. It's only been just over three years since the original version cam
+
+## Where Is Xur Today? (October 6-10) Destiny 2 Exotic Items And Xur Location Guide
+ - [https://www.gamespot.com/articles/where-is-xur-today-october-6-10-destiny-2-exotic-items-and-xur-location-guide/1100-6518225/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/where-is-xur-today-october-6-10-destiny-2-exotic-items-and-xur-location-guide/1100-6518225/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T17:02:00+00:00
+
+<p>The storyline for <a href="https://www.gamespot.com/articles/destiny-2-may-have-just-given-a-hint-about-whats-after-the-final-shape/1100-6518176/">Season of the Witch</a> reached its climax this week, and with Eris Morn's cunning campaign being a big success, you're going to want to stock up for the battles ahead. Fortunately, roaming arms dealer Xur is back in our cosmic neighborhood, and has brought with him a fresh selection of weapons and armor. Here's where Xur is this week and what he has for sale.</p><p>This week you can find Xur in <strong>The Tower</strong>, inside the <strong>Hangar</strong>. For his weapon, Xur is offering <strong>SUROS Regime</strong>. Hunters can pick up the <strong>Sixth Coyote </strong>armor; Titans can grab the <strong>Actium War Rig </strong>armor; and Warlocks can buy the <strong>Contraverse Hold </strong>gauntlets.</p><h2>Xur Location</h2><figure style="width: 1600px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4202524-xu
+
+## John Wick Creator Has Ideas That Could Take The Franchise Into The Next Decade And Beyond
+ - [https://www.gamespot.com/articles/john-wick-creator-has-ideas-that-could-take-the-franchise-into-the-next-decade-and-beyond/1100-6518240/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/john-wick-creator-has-ideas-that-could-take-the-franchise-into-the-next-decade-and-beyond/1100-6518240/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T16:45:00+00:00
+
+<p>The John Wick franchise took the world by surprise almost a decade ago, with the first installment becoming a sleeper hit and eventually grossing $1 billion worldwide. The latest entry, simply called John Wick 4, possibly saw the end of the assassin's adventures, but the director and creator of the Keanu Reeves-led series has other plans.</p><p>Talking to <a href="https://www.inverse.com/entertainment/chad-stahelski-still-has-ideas-for-john-wick">Inverse</a>, Chad Stahelski mentioned he has "notebooks and notebooks" of ideas he has for future John Wick sequels, outside of the FX prequel series <a href="https://www.gamespot.com/articles/john-wick-prequel-series-the-continental-gets-action-packed-new-trailer/1100-6516712/">The Continental</a>, and what's next for both him and Reeves as he addresses that particular final scene.</p><p>"As far as John Wick 4 goes and the ending, if you go back and you watched--God forbid--all four in a row, it's supposed to be a bit of a fever dream," 
+
+## Breaking Bad Spinoff Where Walt Jr. Is The Next Drug Kingpin? Series Creator Hopes That Never Happens
+ - [https://www.gamespot.com/articles/breaking-bad-spinoff-where-walt-jr-is-the-next-drug-kingpin-series-creator-hopes-that-never-happens/1100-6518233/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/breaking-bad-spinoff-where-walt-jr-is-the-next-drug-kingpin-series-creator-hopes-that-never-happens/1100-6518233/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T16:10:00+00:00
+
+<p>Breaking Bad creator Vince Gilligan believes there are potentially more stories to be told in the Breaking Bad universe, but one that he <em>doesn't </em>want to see is a spinoff where Walter White's son becomes a drug kingpin like his dear old (dead) dad. Speaking to <a href="https://variety.com/2023/tv/news/vince-gilligan-new-show-details-rhea-seehorn-ai-breaking-bad-1235745560/">Variety</a>, Gilligan said this idea is "doubtful as hell."</p><p>Gilligan said he enjoyed working with RJ Mitte, who played Walt Jr., but making him follow in the footsteps of his father would be "depressing as hell."</p><p>"That would be the wrong lesson from the show, if there are any lessons at all to be gleaned from it," Gilligan said.</p><a href="https://www.gamespot.com/articles/breaking-bad-spinoff-where-walt-jr-is-the-next-drug-kingpin-series-creator-hopes-that-never-happens/1100-6518233/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## PS5's Most-Downloaded Games In September Pitted MK1 Against Baldur's Gate 3 And NBA 2K24
+ - [https://www.gamespot.com/articles/ps5s-most-downloaded-games-in-september-pitted-mk1-against-baldurs-gate-3-and-nba-2k24/1100-6518236/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ps5s-most-downloaded-games-in-september-pitted-mk1-against-baldurs-gate-3-and-nba-2k24/1100-6518236/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T16:10:00+00:00
+
+<p>Like several other months this year, September had no shortage of new and highly anticipated releases. On PlayStation, this was a month that was headlined by Baldur's Gate 3, Mortal Kombat 1, Lies of P, EA Sports FC 24, The Crew Motorfest, and Cyberpunk 2077's Phantom Liberty expansion. But in the US and Canada, the most-downloaded PS5 game of the month was none of those titles, as NBA 2K24 laced up its shoes and scored a slam-dunk win in September.</p><p>This isn't exactly surprising, as 2K's NBA series is a top-seller whenever a new entry in the annual series is released. In the battle for second place on the PS5 downloads chart, Baldur's Gate 3 took silver and was followed by Mortal Kombat 1, EA Sports FC 24, Madden NFL 24 in that order. Shifting to the European market, EA Sports FC 24 was the most-downloaded PS5 game in that region <a href="https://blog.playstation.com/2023/10/06/playstation-store-september-2023s-top-downloads">according to Sony</a>, an unsurprising result giv
+
+## Tactical Nerfs Hit Sniper Rifles And ARs In Destiny 2 Upcoming Update
+ - [https://www.gamespot.com/articles/tactical-nerfs-hit-sniper-rifles-and-ars-in-destiny-2-upcoming-update/1100-6518238/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/tactical-nerfs-hit-sniper-rifles-and-ars-in-destiny-2-upcoming-update/1100-6518238/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T16:05:00+00:00
+
+<p>Destiny 2 Season 22 has reached its midpoint, which means weapon balancing updates will arrive later this month. Snipers will receive changes to increase their versatility and lower their power and the Ammit AR4 will be nerfed to be less effective at longer ranges.</p><p>In <a href="https://www.bungie.net/7/en/News/article/10-5-23-this-week-in-destiny">a blog post</a>, Bungie outlined the changes that will be coming in update 7.2.5, on October 17. It explained that sniper rifles don't feel useful when in the air, so it lowered the airborne accuracy penalty by 20%. It also found that even body shots can deal heavy damage and wanted to push the sniper rifle further into high-risk, high-reward territory. Across every subtype of sniper rifle, the body shot damage will be decreased and the critical hit damage will rise, but the individual numbers vary from type to type. Notably this will affect even PvE numbers, but overall PvE damage will be boosted starting in Season 23.</p><p>A wide
+
+## Castlevania: Nocturne Renewed For Season 2 As Netflix Brings On More Bloody Tears
+ - [https://www.gamespot.com/articles/castlevania-nocturne-renewed-for-season-2-as-netflix-brings-on-more-bloody-tears/1100-6518231/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/castlevania-nocturne-renewed-for-season-2-as-netflix-brings-on-more-bloody-tears/1100-6518231/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T16:00:00+00:00
+
+<p>You can't keep a good Belmont down as Richter, Annette, and Maria will be back to take down vampires and other creatures of the night as <a href="https://www.netflix.com/title/81436901">Castlevania: Nocturne</a> has officially been renewed for Season 2. The eight-episode Season 1 was a hit with critics and will continue the Castlevania legacy that Netflix started in 2017.</p><p>"Thanks to all of the Castlevania fans old and new for the amazing response and support," showrunners Clive Bradley and Kevin Kolde said in a shared statement. "We are excited to be able to bring you more Castlevania: Nocturne and the next chapter in the rise of Richter Belmont." You can check out some work-in-progress shots of the upcoming season in the video below.</p><p><em><strong>Spoilers for Season 1 in the video below.</strong></em></p><a href="https://www.gamespot.com/articles/castlevania-nocturne-renewed-for-season-2-as-netflix-brings-on-more-bloody-tears/1100-6518231/?ftag=CAD-01-10abi2f/">Continu
+
+## CD Projekt Red Confirms Cyberpunk 2077 Complete Edition, Though Details Are Thin
+ - [https://www.gamespot.com/articles/cd-projekt-red-confirms-cyberpunk-2077-complete-edition-though-details-are-thin/1100-6518232/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cd-projekt-red-confirms-cyberpunk-2077-complete-edition-though-details-are-thin/1100-6518232/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T15:01:00+00:00
+
+<p>Cyberpunk 2077's big 2.0 patch and Phantom Liberty DLC are a big success for developer CD Projekt Red, which has led some to wonder if the game will receive a re-release that includes all DLC. In an investor Q&amp;A, the company's chief commercial officer Michał Nowakowski indicated that such an edition is on the way, though details are scarce.</p><p dir="ltr">As reported by <a href="https://www.videogameschronicle.com/news/cd-projekt-confirms-plans-to-release-a-complete-edition-of-cyberpunk-2077/">VGC</a>, Nowakowski said that the developer "doesn't know the name yet" but indicated that it's only a matter of time before it comes out. The statement came in response to a question that asked about a hypothetical "Game of the Year edition," which is another name that game publishers use for these sort of complete packages.</p><p dir="ltr">This isn't a big surprise, as CD Projekt made a Game of the Year edition for its last major game, The Witcher 3: Wild Hunt, which included all of i
+
+## Baldur's Gate 3 Patch Lets You Change Your Hirelings' Appearance And More
+ - [https://www.gamespot.com/articles/baldurs-gate-3-patch-lets-you-change-your-hirelings-appearance-and-more/1100-6518228/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/baldurs-gate-3-patch-lets-you-change-your-hirelings-appearance-and-more/1100-6518228/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T14:39:00+00:00
+
+<p>Baldur's Gate 3's latest <a href="https://store.steampowered.com/news/app/1086940/view/3716090245655070804">hotfix</a> is out, and we've got the full patch notes below. Hotfix #9 might be a relatively small patch, but it has a few quality-of-life features that fans have been asking for. For one thing, you can now use the magic mirror to change the appearance of your hirelings, so you can finally create the swagged-out party of your dreams.</p><p dir="ltr">Other additions include the ability to change your avatar's name, fixes to the line-of-sight system not working correctly with items, and a rare crash that could happen when quickloading a game. As you might expect, the hotfix also fixes a number of other minor and major issues with the game, including one that caused crashes on PS5, a few strange interactions with spell buffs, and some inconsistencies surrounding the character Minthara.</p><p dir="ltr">Baldur's Gate 3's last patch, <a href="https://www.gamespot.com/articles/bald
+
+## Payday 3 Patch, Already Cut Down In Size, Delayed Even Longer
+ - [https://www.gamespot.com/articles/payday-3-patch-already-cut-down-in-size-delayed-even-longer/1100-6518227/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/payday-3-patch-already-cut-down-in-size-delayed-even-longer/1100-6518227/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T13:29:00+00:00
+
+<p dir="ltr">It's been anything but a smooth heist for Payday 3 since launch. The latest speed bump for the online shooter is a delayed patch that was planned for this week--an <a href="https://twitter.com/PAYDAYGame/status/1709301246895456389">update that was already split in two</a> previously.</p><p dir="ltr"><a href="https://twitter.com/paydaygame/status/1709992898815574189?s=46&amp;t=VClK2mskUB7UBYImaM_JWA">On Twitter/X</a>, the official Payday 3 account apologized for the setback, saying "... we've chosen to delay today's planned patch to ensure its stability. The patch needs some changes that would require us to go through console certification again." As such, developer Starbreeze is now aiming for a mid-October release of the update.</p><p dir="ltr">One particularly frustrating aspect of this delay relates to PS5 preorder bonuses, as they still aren't available to people who purchased a premium edition of Payday 3. Starbreeze stated they won't be redeemable until this patch 
+
+## Taylor Swift's Eras Tour Movie Passes $100 Million In Pre-Sales
+ - [https://www.gamespot.com/articles/taylor-swifts-eras-tour-movie-passes-100-million-in-pre-sales/1100-6518226/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/taylor-swifts-eras-tour-movie-passes-100-million-in-pre-sales/1100-6518226/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T13:19:00+00:00
+
+<p>Taylor Swift's Eras Tour concert film has surpassed $100 million in global advance ticket sales, distributor AMC Theatres has announced. This covers pre-sales at movie theaters around the world, including AMC and others.</p><p>The movie releases on October 13 to coincide with Swift's favorite number. In total, it'll play at more than 8,500 theaters globally in 100+ countries, <a href="https://variety.com/2023/film/news/taylor-swift-eras-tour-film-100-million-advance-ticket-sales-1235746625/">according to Variety</a>.</p><div>          </div><p>AMC did not say how the $100 million figure breaks down between North America and the rest of the world. In North America, <a href="https://variety.com/2023/film/news/taylor-swift-eras-tour-film-100-million-advance-ticket-sales-1235746625/">Variety reports that</a> only five movies in 2023 have surpassed $100 million for their opening weekends, including Barbie ($162 million), The Super Mario Bros. Movie ($146 million), Spider-Man: Across th
+
+## The Alan Wake 2 Soundtrack Was Custom-Made To Expand The Lore
+ - [https://www.gamespot.com/articles/the-alan-wake-2-soundtrack-was-custom-made-to-expand-the-lore/1100-6518216/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-alan-wake-2-soundtrack-was-custom-made-to-expand-the-lore/1100-6518216/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T13:00:00+00:00
+
+<p dir="ltr">It's hard to forget the soundtrack to 2010's Alan Wake. Featuring world-renowned performers like David Bowie, Nick Cave, and Roy Orbison, its music was pulled from various genres and decades to deliver companion songs as each TV-style episode came to a close. In <a href="https://www.gamespot.com/games/alan-wake-ii/">Alan Wake 2</a>, chapters are still presented like episodes, punctuated by licensed music. However, Remedy is going in an entirely new direction, partnering with the Helsinki, Finland-based Fried Music studio to create custom songs from artists from across the globe to bring each chapter to a close. The end result is a soundtrack that, Remedy hopes, feels modern, eclectic, and deeply woven into the fabric of the survival-horror story.</p><p dir="ltr">The reception to having Finnish rock band Poets of the Fall in Alan Wake and Control "was so positive that, ever since, I've been thinking that we should just go all the way and be a lot more ambitious with this,
+
+## Microsoft To Close Activision Blizzard Deal Next Week - Report
+ - [https://www.gamespot.com/articles/microsoft-to-close-activision-blizzard-deal-next-week-report/1100-6518224/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/microsoft-to-close-activision-blizzard-deal-next-week-report/1100-6518224/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T12:36:00+00:00
+
+<p>After 20 months, multiple lawsuits, massive leaks, and other drama and controversy, Microsoft's blockbuster $68.7 billion deal to acquire Activision Blizzard may finally close soon. <a href="https://www.theverge.com/2023/10/6/23905946/microsoft-activision-blizzard-deal-finalization-timing-cma">The Verge</a> reports that Microsoft is eyeing Friday, October 13 to officially close the acquisition. Friday the 13th is known anecdotally to be a generally unlucky day, but <a href="https://www.nationalgeographic.com/science/article/what-is-friday-13th-superstition-facts-science">facts and data do not show any significant uptick in bad stuff happening on Friday the 13th.</a></p><p>Microsoft recently restructured its deal in the UK and sold cloud gaming rights for existing and upcoming Activision Blizzard games to Ubisoft to help get the deal done. The Competition &amp; Markets Authority (CMA) in the UK has given Microsoft preliminary approval to close the deal, and the deadline for which t
+
+## Manga And Anime Prime Day Round 2 Deals - Save Early, Save Big
+ - [https://www.gamespot.com/gallery/manga-and-anime-prime-day-round-2-deals-save-early-save-big/2900-4892/](https://www.gamespot.com/gallery/manga-and-anime-prime-day-round-2-deals-save-early-save-big/2900-4892/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T11:45:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4202399-primedaymanga.jpg" /><br /><h3><p>Ahead of <a href="https://www.gamespot.com/amazon-prime-day-deals/">Amazon Prime Day Round 2</a> (Big Deal Days), Amazon has marked down a wide assortment of manga and anime box sets. If you're planning to do some early holiday shopping or simply want to treat yourself, then now is a good time to do so. We've rounded up some of the best early Prime Day manga and anime deals.</p><p>For this list, we've gathered up a range of box sets for some of the hottest manga series around. Generally, these give you a bulk discount on an entire run of manga and give you an eye-catching slipcase to store all your volumes in. The other benefit here is that since manga chapters and volumes often end on cliffhangers, you can easily avoid being left in suspense by grabbing a fresh volume straight out of the box set.</p><p>Some of the standouts here are the <a href="https://www.amazon.com/
+
+## Amazon Has Huge Discounts On Dragon Ball Z Manga Box Sets Ahead Of Prime Day Round 2
+ - [https://www.gamespot.com/articles/amazon-has-huge-discounts-on-dragon-ball-z-manga-box-sets-ahead-of-prime-day-round-2/1100-6518060/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/amazon-has-huge-discounts-on-dragon-ball-z-manga-box-sets-ahead-of-prime-day-round-2/1100-6518060/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T10:50:00+00:00
+
+<p>Long before <a href="https://www.gamespot.com/articles/naruto-manga-box-sets-are-steeply-discounted-at-amazon-and-walmart/1100-6517916/">Naruto</a>, <a href="https://www.gamespot.com/articles/bleach-manga-collections-are-available-for-significantly-reduced-prices/1100-6517785/">Bleach</a>, or <a href="https://www.gamespot.com/articles/start-your-one-piece-manga-journey-with-these-massive-box-set-deals/1100-6517782/">One Piece</a> ruled the anime and manga scene with wild fights, cliffhanger endings, and power-ups that had fans on edge, there was Dragon Ball Z. Akira Toriyama's seminal work paved the way for a genre that would soon explode in popularity. Just like Krillin on Namek.</p><p>There's a good chance that you've experienced Dragon Ball in one of its several incarnations, anime adaptations, or feature films over the years, but nothing beats sitting down with several volumes of the manga and admiring Toriyama's incredible artwork. If you're looking to get started with the se
+
+## Loki Season 2 Premiere Easter Eggs - 6 Things You Need to Know From "Ouroboros"
+ - [https://www.gamespot.com/gallery/loki-season-2-premiere-easter-eggs-6-things-you-need-to-know-from-ouroboros/2900-4891/](https://www.gamespot.com/gallery/loki-season-2-premiere-easter-eggs-6-things-you-need-to-know-from-ouroboros/2900-4891/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T02:22:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4202253-lokiseason2premiereeastereggs.jpg" /><br /><h3><p dir="ltr">Season 2 of Loki has finally arrived, and, oddly enough, this series was not referenced in any of the nine movies or nine seasons of TV that have come out in the Marvel Cinematic Universe since Season 1. Loki, at least for now, exists in its own bubble separate from everything else in the franchise--the Season 2 premiere does nothing to change that.</p><p dir="ltr">Nonetheless, the events of this series are very important and ostensibly provide the foundation for the Multiverse Saga. This premiere episode, though, pretty much stays in the Time Variance Authority's bubble, because they've got some pretty catastrophic stuff to deal with in the immediate aftermath of He Who Remains' death. Let's talk about it.</p><p dir="ltr"><strong>Warning: This article contains major spoilers for the Season 2 premiere of Loki.</strong></p><p dir="ltr">Season 1 
+
+## The Exorcist: Believer Ending Explained
+ - [https://www.gamespot.com/articles/the-exorcist-believer-ending-explained/1100-6518221/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-exorcist-believer-ending-explained/1100-6518221/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T01:52:00+00:00
+
+<p>After director David Gordon Green revived the Halloween franchise with his trilogy of sequels, Universal tapped him to do the same thing with The Exorcist--make a direct sequel to the original film, and get a modern franchise going. And now we have <a href="https://www.gamespot.com/reviews/the-exorcist-believer-review-spooky-but-overly-familiar/1900-6418127/">The Exorcist: Believer</a>, positioned as the first entry in a new trilogy (box office performance pending, presumably).</p>  <p dir="ltr">Despite that franchise plan, Believer functions in a fairly standalone way, allowing for the possibility of continuing the story while also concluding things in a way that would work pretty well if they don't make any others. It's hard to talk about it in these vague terms, though--it's time to get spoilery.</p>  <p dir="ltr"><strong>Warning: This article contains spoilers for the entire plot of The Exorcist: Believer, including the ending.</strong></p>  <a href="https://www.gamespot.com/a
+
+## Telltale Games Calls Recent Layoffs "Regrettable," Confirms The Wolf Among Us 2 Is Still In Production
+ - [https://www.gamespot.com/articles/telltale-games-calls-recent-layoffs-regrettable-confirms-the-wolf-among-us-2-is-still-in-production/1100-6518220/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/telltale-games-calls-recent-layoffs-regrettable-confirms-the-wolf-among-us-2-is-still-in-production/1100-6518220/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-06T00:05:00+00:00
+
+<p>Telltale Games, the studio behind narrative adventure games such as the recently released The Expanse and the upcoming The Wolf Among Us 2, has reportedly laid off a large number of its staff. Jonah Huang, a former cinematic artist at Telltale, shared the news on X earlier today, writing that the studio quietly laid off "most" of the team in early September.</p><div><blockquote align="center" class="twitter-tweet"><p dir="ltr">This is a sore subject, but I feel it necessary to add to the gaming layoff news: Telltale laid most of us off early September. Status of TWAU2, I can't say (NDA).<br />Now, I focus on what matters to me—my own game, and the following words:<br />Games industry, we must UNIONIZE. <br />1/5</p>  — jjonahjonahson (@jjonahjonahson) <a href="https://twitter.com/jjonahjonahson/status/1709979363608039784?ref_src=twsrc^tfw">October 5, 2023</a></blockquote>              </div><p>According to Huang, the team working on The Wolf Among Us 2 was already "very small." Hu
+
