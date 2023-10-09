@@ -1,0 +1,37 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## The mClassic Nintendo Switch Graphics Upscaler Is On Sale Today Only
+ - [https://www.gamespot.com/articles/the-mclassic-nintendo-switch-graphics-upscaler-is-on-sale-today-only/1100-6500859/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-mclassic-nintendo-switch-graphics-upscaler-is-on-sale-today-only/1100-6500859/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-07T21:53:00+00:00
+
+<div class="norewrite" title="6500859 - mClassic Deal">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img alt="" class="buylink__image" src="https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/3942916-mclassic%281%29.jpg" />                                 <a href="https://www.amazon.com/Marseille-mClassic-Plug-Console-Upscaler/dp/B07X6KDQ98?tag=gamespot-primeday-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                        <a href="https://www.amazon.com/Marseille-mClassic-Plug-Console-Upscaler/dp/B07X6KDQ98?tag=gamespot-primeday-20">mClassic Plug And 
+
+## Sam's Club 1-Year Membership Is Only $15 For A Limited Time
+ - [https://www.gamespot.com/articles/sams-club-1-year-membership-is-only-15-for-a-limited-time/1100-6504263/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sams-club-1-year-membership-is-only-15-for-a-limited-time/1100-6504263/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-07T21:22:00+00:00
+
+<p>Sam’s Club memberships usually cost $50 per year, but from now until October 15, you can <a href="https://go.launchingdeals.com/Y7E6BRU?subid1=GameSpot">sign up for a 12-month membership for only $15</a>. That's quite the deal, especially if you have a Sam's Club location in your area.</p><div><div class="norewrite" title="">           <a href="https://go.launchingdeals.com/Y7E6BRU?subid1=GameSpot">Get Sam&#039;s Club membership for $15</a> </div></div><p> </p><p> </p><a href="https://www.gamespot.com/articles/sams-club-1-year-membership-is-only-15-for-a-limited-time/1100-6504263/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Save On Brandon Sanderson's Mistborn And Stormlight Archive Box Sets Ahead Of Prime Day
+ - [https://www.gamespot.com/articles/save-on-brandon-sandersons-mistborn-and-stormlight-archive-box-sets-ahead-of-prime-day/1100-6518033/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/save-on-brandon-sandersons-mistborn-and-stormlight-archive-box-sets-ahead-of-prime-day/1100-6518033/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-07T21:07:00+00:00
+
+<p dir="ltr">A bunch of Brandon Sanderson novel collections are on sale at Amazon ahead of <a href="https://www.gamespot.com/amazon-prime-day-deals/">Prime Day Round 2</a>. The deals include hardcover and paperback box sets and Kindle editions of numerous book series like The Mistborn Saga, Stormlight Archives, Skyward, and more. Many of the collections are available now, while others are available for preorder and release soon.</p><p dir="ltr">The most impressive deal can be found on <a href="https://www.amazon.com/Stormlight-Archive-Boxed-Set-Books/dp/1250776635?tag=gamespot-primeday-20">The Stormlight Archive box set</a>, which is down to only $20.39 when you click the coupon box below the price.</p><p dir="ltr"><strong>Quick look:</strong></p><a href="https://www.gamespot.com/articles/save-on-brandon-sandersons-mistborn-and-stormlight-archive-box-sets-ahead-of-prime-day/1100-6518033/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Check Out These Early Prime Day Deals On Amazon Devices
+ - [https://www.gamespot.com/articles/check-out-these-early-prime-day-deals-on-amazon-devices/1100-6518260/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/check-out-these-early-prime-day-deals-on-amazon-devices/1100-6518260/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-07T20:39:00+00:00
+
+<p dir="ltr">A bunch of Amazon devices are on sale ahead of Amazon's October <a href="https://www.gamespot.com/amazon-prime-day-deals/">Big Deal Days</a> event next week (basically Prime Day Round 2), including discounts on Fire TVs, Kindle tablets, Amazon smart home devices, and more. You can save quite a bit on some of these deals.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/deals?ref_=nav_cs_gb&amp;deals-widget={">See all Amazon device deals</a> </div></div><p dir="ltr"> </p><p dir="ltr"> </p><a href="https://www.gamespot.com/articles/check-out-these-early-prime-day-deals-on-amazon-devices/1100-6518260/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Firearms Expert Rates M16/M4/AR-15s in Games
+ - [https://www.gamespot.com/videos/firearms-expert-rates-m16-m4-ar-15s-in-games/2300-6462578/](https://www.gamespot.com/videos/firearms-expert-rates-m16-m4-ar-15s-in-games/2300-6462578/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-07T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1571/15719603/4202429-m16_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, rates a variety of M16s, M4s, and AR-15s in games, including Escape From Tarkov, Counter-Strike: Global Offensive, Call of Duty: Modern Warfare, Battlefield 3, and Fallout: New Vegas.
+

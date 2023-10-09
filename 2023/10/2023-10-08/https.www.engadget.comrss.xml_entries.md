@@ -1,0 +1,16 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## Shop the best early deals for October Prime Day 2023
+ - [https://www.engadget.com/shop-the-best-early-deals-for-october-prime-day-2023-162140872.html?src=rss](https://www.engadget.com/shop-the-best-early-deals-for-october-prime-day-2023-162140872.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-08T16:21:40+00:00
+
+<p>We're just a couple days away from Amazon's <a href="https://www.engadget.com/amazon-prime-big-deal-days-everything-you-need-to-know-about-october-prime-day-115842532.html">October Prime Day sale</a>, which kicks off on Tuesday and goes through Wednesday. Prime Big Deal Days is the company's second site-wide sale of 2023 and there are already plenty of early deals to be found. You'll need a Prime membership for some, but other discounts are open to everyone. We'll be rounding up the <a href="https://www.engadget.com/deals/">best of what's out there</a> on October 10 and 11, but in the meantime, you can get a jump on a few sales that are already live. This week's best tech deals include lots of Amazon devices like <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsI
+
+## Hitting the Books: NASA's Kathy Sullivan and advances in orbital personal hygiene
+ - [https://www.engadget.com/hitting-the-books-the-six-loren-grush-scribner-143032524.html?src=rss](https://www.engadget.com/hitting-the-books-the-six-loren-grush-scribner-143032524.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-08T14:30:32+00:00
+
+<p>For the first couple decades of its existence, NASA was the epitome of an Old Boys Club; its astronaut ranks pulled exclusively from the Armed Services' test pilot programs which, at that time, were exclusively staffed by men. Glass ceilings weren't the only things broken when Sally Ride, Judy Resnik, Kathy Sullivan, Anna Fisher, Margaret "Rhea" Seddon and Shannon Lucid were admitted to the program in 1978 — numerous spaceflight systems had to be reassessed to accommodate a more diverse workforce. In <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL1NpeC1VbnRvbGQtU3RvcnktQW1lcmljYXMtQXN0cm9uYXV0cy9kcC8xOTgyMTcyODAwP3RhZz1nZGd0MGMtcC1vLTRyaS0yMCIsImNvbnRlbnRVdWlkIjoiMDEyZjczNjctMzNjYS00MzRkLTk3N2UtMzU5MmMwMjE0NDFiIn
+

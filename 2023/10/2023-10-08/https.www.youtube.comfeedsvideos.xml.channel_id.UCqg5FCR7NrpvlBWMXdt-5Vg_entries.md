@@ -1,0 +1,50 @@
+# Source:The Escapist, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg, language:en-US
+
+## That Time Yahtzee Tried VR
+ - [https://www.youtube.com/watch?v=-UckncJ6Yf8](https://www.youtube.com/watch?v=-UckncJ6Yf8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg
+ - date published: 2023-10-08T17:42:24+00:00
+
+Join our Patreon for a week of Early Access to all of our Premium video series including Zero Punctuation, Cold Take, Extra Punctuation, Adventure is Nigh and more! Just $2/month with a 7 day free trial. ►► https://www.patreon.com/the_escapist
+
+Join our growing Discord community: https://discord.gg/A6T2gKrDwB
+
+Subscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist
+
+---
+
+
+
+---
+
+The Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store
+Join us on Twitch ►► https://www.twitch.tv/the_escapist_official
+Like us on Facebook ►► http://www.facebook.com/EscapistMag
+Follow us on Twitter ►► https://twitter.com/EscapistMag
+
+## Amy and Frost Take on Sekiro: Shadows Die Twice - Premiere
+ - [https://www.youtube.com/watch?v=MngL7bqr26s](https://www.youtube.com/watch?v=MngL7bqr26s)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCqg5FCR7NrpvlBWMXdt-5Vg
+ - date published: 2023-10-08T15:59:53+00:00
+
+Nick has tasked Amy with the challenge of defeating Sekiro. Let's see how that goes.
+
+Join YouTube Memberships and support our content for Early Access to new videos, exclusive Discord perks & more for just $2 per month ►► https://www.youtube.com/channel/UCqg5FCR7NrpvlBWMXdt-5Vg/join
+
+Join our growing Discord community: https://discord.gg/A6T2gKrDwB
+
+Subscribe to Escapist Magazine! ►► http://bit.ly/Sub2Escapist
+
+Want to see the next episode a week early? Check out http://www.escapistmagazine.com for the latest episodes of your favorite shows.
+
+---
+
+
+
+---
+
+The Escapist Merch Store ►►https://teespring.com/stores/the-escapist-store
+Join us on Twitch ►► https://www.twitch.tv/the_escapist_official
+Like us on Facebook ►► http://www.facebook.com/EscapistMag
+Follow us on Twitter ►► https://twitter.com/EscapistMag
+

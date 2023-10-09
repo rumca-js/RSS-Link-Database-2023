@@ -1,0 +1,51 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## The 15 best early October Prime Day headphones deals
+ - [https://www.zdnet.com/article/best-early-october-prime-day-headphone-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-early-october-prime-day-headphone-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T22:35:00+00:00
+
+Looking for a new pair of headphones, or some to gift? Here are some of the best headphone deals you can find ahead of Amazon's Prime Big Deal Days sale.
+
+## Google Assistant is have a Windows Copilot moment, and it's all thanks to AI
+ - [https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T13:19:00+00:00
+
+The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users.
+
+## Google just fixed the Pixel's big biometric security problem, but don't get too excited
+ - [https://www.zdnet.com/article/google-just-fixed-the-pixels-big-biometric-security-problem-but-dont-get-too-excited/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-just-fixed-the-pixels-big-biometric-security-problem-but-dont-get-too-excited/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T13:04:00+00:00
+
+The latest Pixel phones' biometric authentication is getting an often-requested feature, but there's a catch.
+
+## Everything unveiled at the Made by Google event this week: Pixel 8 Pro, Watch 2, Assistant, more
+ - [https://www.zdnet.com/article/every-product-unveiled-at-the-made-by-google-event-this-week-pixel-8-pro-watch-2-assistant-more/#ftag=RSSbaffb68](https://www.zdnet.com/article/every-product-unveiled-at-the-made-by-google-event-this-week-pixel-8-pro-watch-2-assistant-more/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T13:00:00+00:00
+
+Recap: The Pixel 8 series and Pixel Watch 2 usher in Google's new wave of consumer hardware. And there are plenty of AI features to power them both.
+
+## Forget Gen Z: Google's new Pixel phones have "mom and pops" written all over them
+ - [https://www.zdnet.com/article/forget-gen-z-googles-new-pixel-phones-have-mom-and-pops-written-all-over-them/#ftag=RSSbaffb68](https://www.zdnet.com/article/forget-gen-z-googles-new-pixel-phones-have-mom-and-pops-written-all-over-them/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T12:50:00+00:00
+
+Useful camera features, a new temperature sensor, and more make the latest Pixel the best phone for parents.
+
+## Hybrid work is in trouble. Here are 4 ways to make it work in the longer term
+ - [https://www.zdnet.com/home-and-office/work-life/hybrid-work-is-in-trouble-here-are-4-ways-to-make-it-work-in-the-longer-term/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/hybrid-work-is-in-trouble-here-are-4-ways-to-make-it-work-in-the-longer-term/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T12:00:24+00:00
+
+The great work-from-home experiment is in danger of failing, but these four techniques can help your business get the right results.
+
+## The 7 best early October Prime Day TV deals
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-early-october-prime-day-tv-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-early-october-prime-day-tv-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-07T01:54:04+00:00
+
+Save big on TVs from Sony, Hisense, and Amazon during Amazon's Prime Big Deal Days sale with these early deals.
+

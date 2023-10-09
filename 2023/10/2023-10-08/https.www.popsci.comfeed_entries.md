@@ -1,0 +1,11 @@
+# Source:Popular Science, URL:https://www.popsci.com/feed, language:en-US
+
+## The fastest way to install drawer slides
+ - [https://www.popsci.com/diy/how-to-install-drawer-slides/](https://www.popsci.com/diy/how-to-install-drawer-slides/)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-10-08T14:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A drawer inside a cabinet, after someone has installed the drawer slides to hold it in place." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/10/08/how-to-install-drawer-slides.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">A smooth install means a smooth ride (for you and your drawers). <span class="orgnc-SingleImage-credit">Jean Leavasseur for Popular Science</span></figcaption></figure><p>A few minutes of planning might save you hours of struggling.</p>
+<p>The post <a href="https://www.popsci.com/diy/how-to-install-drawer-slides/" rel="nofollow">The fastest way to install drawer slides</a> appeared first on <a 
+
