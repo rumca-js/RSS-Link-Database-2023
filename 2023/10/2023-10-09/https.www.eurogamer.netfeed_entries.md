@@ -1,0 +1,187 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Activision says its games won't come to Game Pass until 2024 if Microsoft deal goes through
+ - [https://www.eurogamer.net/activision-says-its-games-wont-come-to-game-pass-until-2024-if-microsoft-deal-goes-through](https://www.eurogamer.net/activision-says-its-games-wont-come-to-game-pass-until-2024-if-microsoft-deal-goes-through)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T22:57:43+00:00
+
+<img src="https://assetsio.reedpopcdn.com/activision-blizzard_p0yB13e.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+With all signs pointing to an imminent successful end for Microsoft's Activision Blizzard acquisition saga, Activision has moved to address the issue of its titles appearing on Game Pass, saying not to expect that to happen until next year if the deal goes through.
+</p><p>
+To date, Activision titles have been notably absent from Game Pass, but the assumption has been that would change if <a href="https://www.eurogamer.net/microsoft-near-deal-to-buy-call-of-duty-maker-activision-blizzard-report">Microsoft's $69bn bid for the Call of Duty publisher</a> succeeded. And with the deal now <a href="https://www.eurogamer.net/microsoft-expected-to-finally-buy-activision-blizzard-next-week">anticipated to be finalised this week</a>, assuming the UK's Competition and Markets Authority gives it the green light as is generally expe
+
+## Unity CEO John Riccitiello 'retiring' from company weeks after pricing controversy
+ - [https://www.eurogamer.net/unity-ceo-john-riccitiello-retiring-from-company-weeks-after-pricing-controversy](https://www.eurogamer.net/unity-ceo-john-riccitiello-retiring-from-company-weeks-after-pricing-controversy)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T21:28:38+00:00
+
+<img src="https://assetsio.reedpopcdn.com/unity-logo_A66FnNS.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Unity has <a href="https://www.businesswire.com/news/home/20231009494331/en/Unity-Announces-Leadership-Transition">announced</a> the departure of its CEO John Riccitiello, just weeks after the company became mired in controversy following hugely unpopular changes to its engine pricing model.
+</p><p>
+At the end of last month, Unity announced <a href="https://www.eurogamer.net/unity-reveals-plans-to-charge-per-game-install-drawing-criticism-from-development-community">sweeping changes to its Unity Engine business model</a> that would force developers to pay an additional monthly Unity Runtime Fee every time their game was installed, on top of their existing licence subscription, after reaching certain revenue and life-time instalment thresholds. The backlash from the development community was <a href="https://www.eurogamer.net/in
+
+## Steam's Next Fest is back with more dev streams and "hundreds" of demos
+ - [https://www.eurogamer.net/steams-next-fest-returns-for-a-week-of-dev-streams-and-hundreds-of-playable-demos](https://www.eurogamer.net/steams-next-fest-returns-for-a-week-of-dev-streams-and-hundreds-of-playable-demos)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T20:17:01+00:00
+
+<img src="https://assetsio.reedpopcdn.com/steam-next-fest-october-2023-logo.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+
+Steam's Next Fest has returned for another week-long showcase of future releases, including developer livestreams, chats, and, of course, "hundreds" of playable demos.
+</p><p>
+Valve's latest Steam Next Fest is already underway and runs until 5.59pm BST/9.59am PST on Monday, 16th October. That means you've got just under seven full days at the time of writing to furiously claw your way through another bumper crop of playable demos before they potentially vanish once more into the ether.
+</p><p>
+We're well passed the days when you could feasibly work your way through the entire list before the end of Next Fest (unless you're particularly determined and hate sleep, I suppose), but Valve has, at least, assembled a <a href="https://store.steampowered.com/sale/nextfest">special event mini-site</a>, splitting available
+
+## Starfield's new patch adds FOV sliders and "performance improvements"
+ - [https://www.eurogamer.net/starfields-latest-patch-brings-promised-fov-sliders-and-performance-improvements](https://www.eurogamer.net/starfields-latest-patch-brings-promised-fov-sliders-and-performance-improvements)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T18:18:14+00:00
+
+<img src="https://assetsio.reedpopcdn.com/starfield_x7MIIv3.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+If space travel in <a href="https://www.eurogamer.net/starfield-guides-tips-tricks-9352">Starfield</a>'s been getting you down because you haven't able tilt your virtual eyeballs far enough apart, then today's your day, as the game's <a href="https://www.eurogamer.net/starfield-getting-dlss-support-fov-slider-hdr-calibration-and-more-says-bethesda">previously promised</a> FOV sliders have arrived - along with some "performance improvements" - courtesy of Bethesda's latest patch.
+</p><p>
+FOV (that's field-of-view if your abbreviation list isn't up to date) can now be adjusted in both first- and third-person perspective with the arrival of Starfield's 1.7.36 update, and that comes alongside a whopping three additional bullet points in Bethesda's patch notes.
+</p><p>
+The studio is also touting improved stability for PCs using Intel
+
+## EA Sports FC 24 trumpets 11m players in first week, 1m more than FIFA 23
+ - [https://www.eurogamer.net/ea-sports-fc-24-trumpets-11m-players-in-first-week-1m-more-than-fifa-23](https://www.eurogamer.net/ea-sports-fc-24-trumpets-11m-players-in-first-week-1m-more-than-fifa-23)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T17:26:03+00:00
+
+<img src="https://assetsio.reedpopcdn.com/ea-sports-fc-gameplay-still.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+EA's long-running football series might have jettisoned the FIFA license, but the publisher's keen to let everyone know it's doing just fine without it - and has announced that this year's iteration, EA Sports FC 24, has reached 11.3m players in its first week of release.
+</p><p>
+That's compared to the <a href="https://www.eurogamer.net/fifa-23-had-series-largest-ever-number-of-players-at-launch">10.3m players that hopped into last year's FIFA 23</a> during the same period - a figure EA referred to as "record-breaking" and the "biggest launch period" in the franchise's history at the time.
+</p><p>
+EA Sports FC 24's 11.3m players would certainly suggest the series' success hasn't been hampered by the loss of the FIFA brand, then, but EA does note this year's figures include EA Play subscribers, so those numbers don't ne
+
+## Assassin's Creed Mirage special move looks busted on purpose
+ - [https://www.eurogamer.net/assassins-creed-mirage-special-move-looks-busted-on-purpose](https://www.eurogamer.net/assassins-creed-mirage-special-move-looks-busted-on-purpose)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T16:49:51+00:00
+
+<img src="https://assetsio.reedpopcdn.com/mirage_I8wzLTO.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Ubisoft's new Assassin's Creed entry is all about stealth and subtlety, but main character Basim still gets a ridiculous special move. 
+</p><p>
+It's called Assassin's Focus, and it allows you to freeze time and paint a reticule over multiple enemies to teleport between them all and murder them in quick succession. It's like Red Dead Redemption's Quickdraw mode, except you're physically knifing people in the neck with every bullet.
+</p><p>
+At the beginning of Assassin's Creed Mirage, you can only pull off this effect with two enemies at a time, but with further upgrades you're able to expand this effect to quickly end a whole group of foes at once.
+</p> <p><a href="https://www.eurogamer.net/assassins-creed-mirage-special-move-looks-busted-on-purpose">Read more</a></p>
+
+## DF Weekly: Is AMD's FSR 3 frame generation actually useful for consoles?
+ - [https://www.eurogamer.net/digitalfoundry-2023-df-weekly-is-amds-fsr-3-frame-generation-actually-useful-for-consoles](https://www.eurogamer.net/digitalfoundry-2023-df-weekly-is-amds-fsr-3-frame-generation-actually-useful-for-consoles)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T16:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Immortals-Site.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The latest edition of DF Direct Weekly arrives today, discussing Red Dead Redemption's 60fps upgrade for PlayStation 5 consoles, plus controversy surrounding Microsoft's Forza Motorsport presentation - where debut media features ray tracing effects considerably more impressive than the shipping game's. We also follow up on our recent coverage on AMD's FSR 3 frame generation by seeing just how effective the technology is on console-equivalent hardware in the wake of Ascendant Studios suggesting that they're looking into its application for Immortals of Aveum.</p><p>We're on the record in expressing some degree of caution about frame generation on consoles, for all the reasons stated <a href="https://www.eurogamer.net/digitalfoundry-2023-df-weekly-is-fsr-3-frame-generation-viable-for-console-games">here</a>. Essentially, frame generat
+
+## Meta Quest 3 review impressions - one of VR gaming's best options
+ - [https://www.eurogamer.net/meta-quest-3-review-impressions-one-of-vr-gamings-best-options](https://www.eurogamer.net/meta-quest-3-review-impressions-one-of-vr-gamings-best-options)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T15:01:11+00:00
+
+<img src="https://assetsio.reedpopcdn.com/MVI_1186.MP4.00_03_32_46.Still008.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Head(sets) up, Readers. Due to a snafu with Meta's servers during the Quest 3 review window and a last minute embargo change, I've only been able to spend around five to six hours with the unit so far. This means the impressions below are based on those first few hours, rather than an extended play test with multiple titles. As you'll soon see, my initial thoughts are very positive but please bear in mind there is a chance I'll have missed some underlying issues that will only arise from longer sessions.</p><p>One of the first things you'll notice about the Quest 3, if you're upgrading from a Quest 2, is its size. The new headset is 40 percent slimmer than the Quest 2 and this means that, when worn, the Quest 3 eliminates one of my biggest bugbears of its predecessor - the downward drag on your face. Before I star
+
+## RuneScape ends Hero Pass following pay-to-win criticisms
+ - [https://www.eurogamer.net/runescape-ends-hero-pass-following-pay-to-win-criticisms](https://www.eurogamer.net/runescape-ends-hero-pass-following-pay-to-win-criticisms)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T14:38:50+00:00
+
+<img src="https://assetsio.reedpopcdn.com/runescape-emblem.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Developer Jagex has announced its controversial Hero Pass will be removed from RuneScape following the end of its first season in December.</p><p>Hero Pass was described by Jagex as an "always-on reward system" and it was introduced into RuneScape last month. It was heavily criticised by players for pay-to-win elements such as XP buffs, which prompted Jagex to <a href="https://www.eurogamer.net/runescape-rolls-back-controversial-pay-to-win-hero-pass-in-new-update">temporarily roll back</a> the update shortly after Hero Pass launched.</p><p>Following feedback from a player survey, <a href="https://secure.runescape.com/m=news/hero-pass---player-feedback-update-4">Jagex</a> announced Hero Pass will end once the current season, Underworld, finishes on 4th December.</p> <p><a href="https://www.eurogamer.net/runescape-ends-hero-pass-fol
+
+## The Witcher's Doug Cockle and FF16's Ben Starr are launching a D&D campaign
+ - [https://www.eurogamer.net/the-witchers-doug-cockle-and-ff16s-ben-starr-are-launching-a-dd-campaign](https://www.eurogamer.net/the-witchers-doug-cockle-and-ff16s-ben-starr-are-launching-a-dd-campaign)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T14:37:05+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Untitled-1_eoFfTZR.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+There's a talented new D&amp;D group on the horizon - including Eurogamer's very own Aoife Wilson! - who are set to begin their adventures this very week.
+</p><p>
+Natural Six will introduce themselves via a <a href="https://www.egx.net/london/en-gb/things-to-do/panels/panel-information.html?gtID=824541&amp;panel-name=Introducing-Natural-Six">live show</a> on Friday at EGX 2023 - the UK games event run by Eurogamer's parent company Reedpop. You can watch there or tune in online at 6pm UK time. 
+</p><p>
+Partying up alongside Aoife will be Doug Cockle, best known as Geralt from The Witcher series, and Benn Starr, who played Final Fantasy 16 frontman Clive.
+</p> <p><a href="https://www.eurogamer.net/the-witchers-doug-cockle-and-ff16s-ben-starr-are-launching-a-dd-campaign">Read more</a></p>
+
+## Ask Sam Lake from Remedy a question about Alan Wake 2 or anything else
+ - [https://www.eurogamer.net/ask-sam-lake-from-remedy-a-question-about-alan-wake-2-or-anything-else](https://www.eurogamer.net/ask-sam-lake-from-remedy-a-question-about-alan-wake-2-or-anything-else)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T13:57:25+00:00
+
+<img src="https://assetsio.reedpopcdn.com/samlake_.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Remedy Entertainment's creative director <a href="https://www.egx.net/london/en-gb/things-to-do/panels/panel-information.html?gtID=821406&amp;panel-name=The-return-of-Alan-Wake-Fireside-chat-with-Remedys-Sam-Lake" target="_blank">Sam Lake will be at EGX this weekend</a>, talking about the return of Alan Wake. He'll be on the EGX Theatre stage from 3pm BST on Friday 13th.</p><p>To coincide with him being at the show, I'm going to be interviewing him. But because Victoria has recently done such a thorough job of both <a href="https://www.eurogamer.net/hands-on-with-alan-wake-2s-two-protagonists-and-their-very-different-realities">previewing Alan Wake 2</a>, and <a href="https://www.eurogamer.net/sam-lake-and-remedy-on-alan-wake-2s-move-to-survival-horror-and-pushing-the-franchises-boundaries">talking to Sam Lake about it</a>, a window of op
+
+## Super Mario Bros. Wonder really is filled with secrets and surprises
+ - [https://www.eurogamer.net/super-mario-bros-wonder-really-is-filled-with-secrets-and-surprises](https://www.eurogamer.net/super-mario-bros-wonder-really-is-filled-with-secrets-and-surprises)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T13:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/NSwitch_SuperMarioBrosWonder_09.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+There's a moment early on in Super Mario Wonder that genuinely surprised me. I laughed out loud. I was shocked, almost scandalised. I had run up to a pipe, right, these staples of every Mario game reaching back into the series first appearance. I thought I knew the deal. Some pipes are just obstacles. But some are hollow, and you can drop down inside them to find new areas.
+</p><p>
+Not this one. This one - whisper it - moved. As I reached it, I must have pushed against it, and the pipe slid across the ground. I know, right? I am still getting over it.
+</p><p>
+Super Mario Wonder has a lot of stuff like this. I can't remember the last Mario game that made me laugh as much, or the last Mario game that made me question basic Mario lore, if such a thing exists. We're back in 2D Mario territory - a series of games that, 
+
+## Report details internal problems during The Lord of the Rings: Gollum development
+ - [https://www.eurogamer.net/report-details-internal-problems-during-the-lord-of-the-rings-gollum-development](https://www.eurogamer.net/report-details-internal-problems-during-the-lord-of-the-rings-gollum-development)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T12:46:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Gollum_1920x1080.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>An investigative report into the development of commercial and critical failure The Lord of the Rings: Gollum has revealed a number of struggles faced by developer Daedalic Entertainment.</p><p>Gollum released in a rather sorry state in May earlier this year, and was heavily criticised for a <a href="https://www.eurogamer.net/the-lord-of-the-rings-gollum-review-some-great-level-design-mired-in-problems">lack of polish</a> and <a href="https://www.eurogamer.net/digitalfoundry-2023-the-lord-of-the-rings-gollum-one-does-not-simply-expect-technical-competence">technical issues</a>. A <a href="https://www.eurogamer.net/new-patch-for-the-lord-of-the-rings-gollum-due-tomorrow">statement</a> attributed to Daedalic Entertainment and released on its social media one day after release apologised for the game's quality and stated the studio's
+
+## PlayStation Plus Extra October games leak includes Gotham Knights, Alien Isolation
+ - [https://www.eurogamer.net/playstation-plus-extra-october-games-leak-includes-gotham-knights-alien-isolation](https://www.eurogamer.net/playstation-plus-extra-october-games-leak-includes-gotham-knights-alien-isolation)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T12:35:41+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Alien-Isolation-header_UbuabXE.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A short while after being made available as part of <a href="https://www.eurogamer.net/xbox-game-pass-october-games-include-gotham-knights-warhammer-40k-darktide">Xbox Game Pass</a>, Gotham Knights looks set to make its arrival on Sony's subscription service, along with some suitably scary offerings for October.
+</p><p>
+That's according to reliable leaker <a href="https://www.dealabs.com/magazine/ps-plus-extra-octobre-2023-de-lhemoglobine-et-des-supers-heros-au-programme-decouvrez-quelques-jeux-en-avant-premiere-31284">dealabs</a>, which has revealed that PlayStation Plus Extra and Premium subscribers will soon get their hands on Gungrave G.O.R.E, Elite Dangerous, Dead Island Definitive Edition, Alien Isolation, Disco Elysium The Final Cut, The Dark Pictures: House of Ashes, Gotham Knights and Far: Changing Tides.
+<
+
+## This fan-made Tomb Raider 2 side-scroller is a brilliant tribute to a brilliant game
+ - [https://www.eurogamer.net/this-fan-made-tomb-raider-2-side-scroller-is-a-brilliant-tribute-to-a-brilliant-game](https://www.eurogamer.net/this-fan-made-tomb-raider-2-side-scroller-is-a-brilliant-tribute-to-a-brilliant-game)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T11:40:24+00:00
+
+<img src="https://assetsio.reedpopcdn.com/lara-croft-in-venice-tomb-raider-2-fan-game.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A skilled Tomb Raider fan has reimagined the series' second game as a 3D side-scroller.
+</p><p>
+Created by Delca, who is also working on a Tomb Raider Legend demake, this side-scrolling adventure sees Lara making her way around the likes of Venice, the Great Wall of China and, of course, Croft Manor as she searches for the Dagger of Xian. However, this time she can only travel backwards and forwards.
+</p><p>
+It is a rather incredible recreation, and one that clearly has a lot of love attached to it. As I said in my headline, it is a brilliant tribute to a brilliant game.
+</p> <p><a href="https://www.eurogamer.net/this-fan-made-tomb-raider-2-side-scroller-is-a-brilliant-tribute-to-a-brilliant-game">Read more</a></p>
+
+## Assassin's Creed Mirage players are modding the game to turn off its distracting chromatic aberration
+ - [https://www.eurogamer.net/assassins-creed-mirage-players-are-modding-the-game-to-turn-off-its-distracting-chromatic-aberration](https://www.eurogamer.net/assassins-creed-mirage-players-are-modding-the-game-to-turn-off-its-distracting-chromatic-aberration)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T10:48:28+00:00
+
+<img src="https://assetsio.reedpopcdn.com/acm-basim-960x540.webp?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+Assassin's Creed Mirage might take Ubisoft's historical stabathon series back to basics, but there's a newer visual effect which players want rid of. 
+</p><p>
+The game's visual chromatic aberration effect is switched on by default and there's no way to turn it off - despite it being pronounced and sometimes quite distracting in certain areas. 
+</p><p>
+One of the first things I did when starting to play Mirage was look for some kind of slider or toggle to tune the effect (or just disable it completely). Alas, one does not exist.
+</p> <p><a href="https://www.eurogamer.net/assassins-creed-mirage-players-are-modding-the-game-to-turn-off-its-distracting-chromatic-aberration">Read more</a></p>
+
+## Baldur's Gate 3 player devises way to recruit evil companion on a good playthrough by turning her into a sheep
+ - [https://www.eurogamer.net/baldurs-gate-3-player-devises-way-to-recruit-evil-companion-on-a-good-playthrough-by-turning-her-into-a-sheep](https://www.eurogamer.net/baldurs-gate-3-player-devises-way-to-recruit-evil-companion-on-a-good-playthrough-by-turning-her-into-a-sheep)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T10:18:07+00:00
+
+<img src="https://assetsio.reedpopcdn.com/PS_BG3_07_Minthara-scaled.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>If you've been playing Baldur's Gate 3, you're likely to have missed out on a <a href="https://www.eurogamer.net/all-companions-baldurs-gate-3-where-to-find-location-recruit-9351">companion</a> or two - as making certain decisions can affect who's available. <strong>Heavy spoilers for Baldur's Gate 3 are included in this article.</strong></p><p>One of the most missable companions is Minthara, who appears in Act 1 of the game. In normal circumstances, recruiting her means siding with the goblins and attacking Emerald Grove along with the refugee Tieflings that are staying there.</p><p>However, this comes with some significant consequences - Halsin will refuse to help you later on in the game, and Karlach will be unavailable as a companion. Unless you're Taiwanese player <a href="https://forum.gamer.com.tw/C.php?bsn=2954&am
+
+## This The Last of Us bread sculpture brings a whole new meaning to yeast infection
+ - [https://www.eurogamer.net/this-the-last-of-us-bread-sculpture-brings-a-whole-new-meaning-to-yeast-infection](https://www.eurogamer.net/this-the-last-of-us-bread-sculpture-brings-a-whole-new-meaning-to-yeast-infection)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-09T10:16:51+00:00
+
+<img src="https://assetsio.reedpopcdn.com/funGus-the-last-of-crust.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+A bakery in the States has used its artisanal skills to create a The Last of Us Clicker out of bread. 
+</p><p>
+Known as The Last of Crust, this sculpture by One House Bakery was cooked up by mother daughter duo Catherine and Hannalee Pervan as part of the Downtown Benicia Main Street's annual Scarecrow Contest.</p><p>As reported by <a href="https://sf.eater.com/2023/10/4/23903511/zombie-the-last-of-us-one-house-bakery">Eater San Francisco</a> (via <a href="https://www.ign.com/articles/a-bakery-has-made-an-incredible-terrifying-the-last-of-us-clicker-out-of-bread">IGN</a>), this event has also seen the skilled twosome come up with a range of Star Wars-themed crusty creations, with Pan Solo, Pain-dough-lorian, Baby Dough-da, and the Pandroid all gracing the competition in previous years.
+</p> <p><a href="https://www.eurogam
+
