@@ -1,0 +1,373 @@
+# Source:ZDNET, URL:http://www.zdnet.com/news/rss.xml, language:en-US
+
+## New iPhone 15 Pro overheating reports: Still too hot after iOS 17.0.3 and fresh issues arise after the update
+ - [https://www.zdnet.com/article/new-iphone-15-pro-overheating-reports-still-too-hot-after-ios-17-0-3-and-fresh-issues-arise-after-the-update/#ftag=RSSbaffb68](https://www.zdnet.com/article/new-iphone-15-pro-overheating-reports-still-too-hot-after-ios-17-0-3-and-fresh-issues-arise-after-the-update/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T21:05:00+00:00
+
+While iOS 17.0.3 appears to have resolved the fast-charging issue, some iPhone 15 Pro users are reporting ongoing heat problems, plus a new screen burn-in issue.
+
+## The 27 best October Prime Day headphones deals
+ - [https://www.zdnet.com/article/best-headphones-deals-october-prime-day-10-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-headphones-deals-october-prime-day-10-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T20:46:38+00:00
+
+ZDNET's headphones reviewer found the best headphone deals you can buy during Amazon's Prime Big Deal Days sale, from top brands like Sony, Apple, Bose, and Beats.
+
+## Get the Roomba s9+ for $500 off before October Prime Day ends tonight
+ - [https://www.zdnet.com/home-and-office/smart-home/get-the-roomba-s9-for-500-off-before-october-prime-day-ends-tonight/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/get-the-roomba-s9-for-500-off-before-october-prime-day-ends-tonight/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T20:31:33+00:00
+
+It's your last chance to save big on Amazon's Prime Big Deal Days, and this iRobot Roomba s9 is on sale for 50% off.
+
+## Say goodbye to your AirPods Pro 2 bugs with this new firmware update
+ - [https://www.zdnet.com/article/say-goodbye-to-your-airpods-pro-2-bugs-with-this-new-firmware-update/#ftag=RSSbaffb68](https://www.zdnet.com/article/say-goodbye-to-your-airpods-pro-2-bugs-with-this-new-firmware-update/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T20:05:12+00:00
+
+Apple just gave your AirPods Pro 2 another free update. Here's what's been fixed.
+
+## Best October Prime Day deals on products ZDNET's tested and recommend
+ - [https://www.zdnet.com/article/best-october-prime-day-deals-on-products-zdnets-tested-and-recommend/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-october-prime-day-deals-on-products-zdnets-tested-and-recommend/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T20:05:00+00:00
+
+Amazon's Prime Big Deal Days is in full swing, and for deals on products that are truly worth the money, look no further than this list.
+
+## The 35 best October Prime Day robot vacuum deals
+ - [https://www.zdnet.com/home-and-office/smart-home/best-october-prime-day-robot-vacuum-deals-oct-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-october-prime-day-robot-vacuum-deals-oct-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:45:50+00:00
+
+Clean smarter, not harder, with these top robot vacuum deals available during Amazon's Prime Big Deal Days sale.
+
+## This iPad is seeing a rare discount for October Prime Day deals
+ - [https://www.zdnet.com/article/this-ipad-is-seeing-a-rare-discount-for-october-prime-day-deals/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-ipad-is-seeing-a-rare-discount-for-october-prime-day-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:45:46+00:00
+
+The 10th-generation iPad is just over a year old and is part of the Amazon Prime Big Deal Days sale.
+
+## The October Prime Day deals ZDNET experts are buying
+ - [https://www.zdnet.com/article/the-october-prime-day-deals-zdnet-experts-are-buying/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-october-prime-day-deals-zdnet-experts-are-buying/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:43:44+00:00
+
+ZDNET's team of writers and editors are doing some Prime Big Deal Days shopping of our own. Here are the products we bought during the sale.
+
+## This $20 Anker USB-C power bank solved my biggest problem with portable chargers
+ - [https://www.zdnet.com/article/anker-usb-c-power-bank-amazon-prime-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/anker-usb-c-power-bank-amazon-prime-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:43:14+00:00
+
+Anker's Nano Power Bank makes charging your iPhone or Android effortless -- and it's 31% off during Amazon's October Prime Day.
+
+## The 14 best October Prime Day security camera deals
+ - [https://www.zdnet.com/home-and-office/best-security-camera-october-prime-day-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-security-camera-october-prime-day-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:43:00+00:00
+
+Ready for Amazon's October Prime Day sale? Here are the best security camera sales you can find during Amazon's Prime Big Deal Days, with selections from Ring, Arlo, Blink, and more.
+
+## The 60 best October Prime Day TV deals
+ - [https://www.zdnet.com/home-and-office/home-entertainment/best-october-prime-day-tv-deals-oct-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/home-entertainment/best-october-prime-day-tv-deals-oct-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:42:57+00:00
+
+Find major savings on TVs from Samsung, Sony, Hisense, and Amazon during Amazon's Prime Big Deal Days sale with these deals.
+
+## Nasty bug discovered in widely used Linux utility curl, and patches already rolled out
+ - [https://www.zdnet.com/article/security-updates-released-for-widely-used-linux-utility-curl/#ftag=RSSbaffb68](https://www.zdnet.com/article/security-updates-released-for-widely-used-linux-utility-curl/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:41:47+00:00
+
+Curl is built into and silently used in numerous Linux distributions. A nasty security hole within it has been revealed and patched.
+
+## The 27 best October Prime Day headphones deals
+ - [https://www.zdnet.com/article/best-headphones-october-prime-day-deals-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-headphones-october-prime-day-deals-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T18:38:00+00:00
+
+Looking for a new pair of headphones, or some to gift? We found the best headphone deals during Amazon's Prime Big Deal Days sale, from top brands like Sony, Bose, Beats, and Apple.
+
+## The 24 best October Prime Day deals under $50
+ - [https://www.zdnet.com/home-and-office/best-october-prime-day-deals-under-50-10-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-october-prime-day-deals-under-50-10-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T17:27:00+00:00
+
+Snatch up these great deals on tech, home, travel and more for under $50 during the October Amazon Prime Big Deal Days sale that continues through the end of today.
+
+## Google Pixel Watch 2 review: In one key area, it surpasses every other smartwatch
+ - [https://www.zdnet.com/article/google-pixel-watch-2-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-pixel-watch-2-review/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T17:00:28+00:00
+
+A refined design, improved battery life, and greater Fitbit integration make the Pixel Watch 2 one of the best options for Android users this year.
+
+## Google Pixel 8 Pro review: This is the phone of the future, and the AI features prove it
+ - [https://www.zdnet.com/article/google-pixel-8-pro-review/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-pixel-8-pro-review/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T17:00:00+00:00
+
+A week spent with the latest Pixel phones left me delighted, dazed, and scratching my head in the best way possible.
+
+## LG's magical clothing steam closet is over $200 off for October Prime Day
+ - [https://www.zdnet.com/home-and-office/smart-office/lgs-magical-clothing-steam-closet-is-over-200-off-for-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-office/lgs-magical-clothing-steam-closet-is-over-200-off-for-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:52:00+00:00
+
+The LG Styler will refresh, sanitize, and dry everything from your work clothes to your weekend attire -- you can still get it on sale during Amazon's last day of Big Deal Days.
+
+## This adorable AI-powered indoor camera is only $80 during Prime Big Deal Days
+ - [https://www.zdnet.com/home-and-office/smart-home/ezviz-c6-is-only-80-for-amazon-october-prime-day-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/ezviz-c6-is-only-80-for-amazon-october-prime-day-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:49:43+00:00
+
+It's not only the cutest camera in my home, but it's also 20% off during Amazon's October Prime Day event.
+
+## These JBL earbuds are amazing, and they're $50 off right now for October Prime Day
+ - [https://www.zdnet.com/article/jbl-tour-pro-2-earbuds-amazon-prime-day-deal/#ftag=RSSbaffb68](https://www.zdnet.com/article/jbl-tour-pro-2-earbuds-amazon-prime-day-deal/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:48:02+00:00
+
+The JBL Tour Pro 2 earbuds provide stellar noise canceling capabilities for everyday work and life, and you can grab them for $50 less during the Amazon Prime Big Deal Days sale.
+
+## Score the Apple Watch SE (2nd Gen) for only $200 during Prime Big Deal Days
+ - [https://www.zdnet.com/article/score-the-apple-watch-se-2nd-gen-for-only-200-during-prime-big-deal-days/#ftag=RSSbaffb68](https://www.zdnet.com/article/score-the-apple-watch-se-2nd-gen-for-only-200-during-prime-big-deal-days/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:45:45+00:00
+
+Apple products rarely go on sale, but this October Prime Day, the Apple Watch SE (2nd Gen) is a whopping 20% off.
+
+## How to use Safari's built-in 2FA code generator (and why you should)
+ - [https://www.zdnet.com/article/how-to-use-safaris-built-in-2fa-code-generator-and-why-you-should/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-use-safaris-built-in-2fa-code-generator-and-why-you-should/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:38:46+00:00
+
+If you depend on 2-factor authentication and want to stop relying on a mobile 2FA app, Safari has the service built-in, so you can make authentication a bit more efficient.
+
+## My favorite home robot is only $23 during October Prime Day deals
+ - [https://www.zdnet.com/home-and-office/smart-home/my-favorite-home-robot-is-only-23-during-october-prime-day-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/my-favorite-home-robot-is-only-23-during-october-prime-day-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:37:03+00:00
+
+It's not every day you can buy a helpful robot for $23. Good thing Prime Big Deal Days are here!
+
+## This cordless phone charger fits in your pocket, and it's 32% off on Amazon
+ - [https://www.zdnet.com/article/this-cordless-phone-charger-fits-in-your-pocket-and-its-32-off-on-amazon/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-cordless-phone-charger-fits-in-your-pocket-and-its-32-off-on-amazon/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:24:00+00:00
+
+Never be without a phone charge no matter where you are with the iWalk compact power bank, on sale during Amazon's Prime Big Deal Days.
+
+## This paraffin wax bath relieves my aching hands and feet, and it's 35% off on Amazon
+ - [https://www.zdnet.com/article/this-paraffin-wax-bath-relieves-my-aching-hands-and-feet-and-its-35-off-on-amazon/#ftag=RSSbaffb68](https://www.zdnet.com/article/this-paraffin-wax-bath-relieves-my-aching-hands-and-feet-and-its-35-off-on-amazon/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T16:15:19+00:00
+
+If you have aching hands, this paraffin wax machine can bring you relief. And now that comfort is on sale during Amazon's October Prime Day.
+
+## Save $1100 on the MacBook Pro 16 M1 Max at B&H Photo
+ - [https://www.zdnet.com/article/save-1100-on-the-macbook-pro-16-m1-at-b-h-photo/#ftag=RSSbaffb68](https://www.zdnet.com/article/save-1100-on-the-macbook-pro-16-m1-at-b-h-photo/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:57:28+00:00
+
+Markdowns on Apple products are rare enough as it is, let alone one as steep as this $1100 discount on a MacBook Pro 16 M1 Max laptop at B&amp;H Photo. But you'll have to hurry, with discounts this steep, this deal won't last long.
+
+## The 65 best October Prime Day laptop deals available now
+ - [https://www.zdnet.com/article/best-october-prime-day-laptop-deals-10-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-october-prime-day-laptop-deals-10-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:54:33+00:00
+
+Don't miss these big discounts on the best laptops and monitors during Amazon's Prime Big Deal Days sale.
+
+## Firefox is getting an AI-powered fake review detector for your shopping needs
+ - [https://www.zdnet.com/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/#ftag=RSSbaffb68](https://www.zdnet.com/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:51:47+00:00
+
+Thanks to a new Firefox feature, you'll soon be able to trust online reviews a little more. Here's how it works.
+
+## The Lenovo ThinkPad L14 Gen 3 is a whopping 76% off
+ - [https://www.zdnet.com/article/the-lenovo-thinkpad-l14-gen-3-is-a-whopping-76-off/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-lenovo-thinkpad-l14-gen-3-is-a-whopping-76-off/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:42:52+00:00
+
+For a limited time, you can get this 14-inch Lenovo ThinkPad for an absolute steal.
+
+## Buy an Apple AirTag 4-pack for $10 off on October Prime Day
+ - [https://www.zdnet.com/home-and-office/work-life/apple-airtags-october-amazon-prime-day-deal-10-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/work-life/apple-airtags-october-amazon-prime-day-deal-10-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:42:00+00:00
+
+Don't miss your chance to save $10 on an Apple AirTag 4-pack during Amazon's Prime Big Deal Days.
+
+## The best nugget ice maker is $150 off for October Prime Day
+ - [https://www.zdnet.com/home-and-office/the-best-nugget-ice-maker-is-150-off-for-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-best-nugget-ice-maker-is-150-off-for-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:18:12+00:00
+
+Get your favorite nugget ice at home with the premium GE Opal 2.0 countertop nugget ice maker, on sale right now for Amazon's Prime Big Deal Days.
+
+## Sennheiser's high-end headphones are rarely on sale. Get them for $100 less on the last day of Prime Day
+ - [https://www.zdnet.com/article/these-sennheiser-headphones-are-at-an-all-time-low-price-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/these-sennheiser-headphones-are-at-an-all-time-low-price-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:15:00+00:00
+
+Sennheiser's Momentum 4 headphones allow me to hear things I'd never heard before, and now they're at their lowest price ever during the last day of Amazon's Big Deal Days sale.
+
+## The Dyson V11 Plus cordless vacuum is now 35% off, thanks to Amazon Prime Big Deal Days
+ - [https://www.zdnet.com/home-and-office/the-dyson-v11-plus-cordless-vacuum-is-now-35-off-thanks-to-amazon-prime-big-deal-days/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/the-dyson-v11-plus-cordless-vacuum-is-now-35-off-thanks-to-amazon-prime-big-deal-days/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:14:46+00:00
+
+If you're looking for a powerful stick vacuum for both hardwood and carpet, you won't find a better deal on a Dyson than this. Get this top cordless vacuum before October Prime Day is over.
+
+## Beats outdid themselves with the Studio Pro headphones. Get them now for 50% off for the last day of Prime Day
+ - [https://www.zdnet.com/article/the-beats-studio-pro-are-great-get-them-much-cheaper-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-beats-studio-pro-are-great-get-them-much-cheaper-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:12:00+00:00
+
+Beats's latest release is the perfect middle-ground headphones for Android and Apple users. Now you can get the newest Beats headphones for $180 on Amazon.
+
+## The AirPods Pro 2 are better than ever, and are at an all-time low price for the last day of October Prime Day
+ - [https://www.zdnet.com/article/the-airpods-pro-2-are-better-than-ever-and-are-at-an-all-time-low-price-for-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-airpods-pro-2-are-better-than-ever-and-are-at-an-all-time-low-price-for-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:06:00+00:00
+
+Apple and Sony are consistently competing for the best premium earbuds title. But Apple's new software update and deep discounts for Prime Day are closing in on Sony's lead.
+
+## The best robot vacuum and mop I've ever tested is $300 off for October Prime Day
+ - [https://www.zdnet.com/home-and-office/kitchen-household/the-best-robot-vacuum-and-mop-ive-ever-tested-is-300-off-for-amazon-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/kitchen-household/the-best-robot-vacuum-and-mop-ive-ever-tested-is-300-off-for-amazon-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T15:03:00+00:00
+
+The Ecovacs Deebot X2 Omni is a jack-of-all-trades robot vacuum with a unique form factor that sets it apart from the competition, and right now, it's 20% off for Amazon's Prime Big Deal Days.
+
+## The Narwal Freo converted me to robot vacuums, and it's $220 off right now on Amazon
+ - [https://www.zdnet.com/article/the-narwal-freo-converted-me-to-robot-vacuums-and-its-220-off-right-now-on-amazon/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-narwal-freo-converted-me-to-robot-vacuums-and-its-220-off-right-now-on-amazon/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T14:59:00+00:00
+
+If you're looking for a single device that can both vacuum and mop the floors of your home or office, this robot can handle the task far beyond your expectations. And it's currently 20% off, thanks to Amazon Prime Big Deal Days.
+
+## Forget Prime Day -- Get lifetime access to Microsoft Office right now for just $30
+ - [https://www.zdnet.com/article/forget-prime-day-get-lifetime-access-to-microsoft-office-right-now-for-just-30/#ftag=RSSbaffb68](https://www.zdnet.com/article/forget-prime-day-get-lifetime-access-to-microsoft-office-right-now-for-just-30/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T14:56:00+00:00
+
+If you're shopping for deals this week, here's your chance to pay just once and use the complete Microsoft Office 2021 app suite on your PC or Mac for life.
+
+## The 10 most popular October Prime Day deals among ZDNET readers
+ - [https://www.zdnet.com/article/the-10-most-popular-october-prime-day-deals-among-zdnet-readers/#ftag=RSSbaffb68](https://www.zdnet.com/article/the-10-most-popular-october-prime-day-deals-among-zdnet-readers/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T14:45:00+00:00
+
+From Fire TV Sticks to magnetic hand warmers, here's what ZDNET readers have purchased the most during the Amazon Prime Big Deal Days sale so far.
+
+## The $13 Amazon Smart Plug is back for October Prime Day 2023
+ - [https://www.zdnet.com/home-and-office/smart-home/the-13-amazon-smart-plug-is-back-for-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/the-13-amazon-smart-plug-is-back-for-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T14:33:00+00:00
+
+This smart plug is typically $25 but it's 48% off exclusively as part of Prime Big Deal Days deal on Amazon.
+
+## Your Pixel Buds Pro just got a big update. Here's what's new and improved
+ - [https://www.zdnet.com/article/your-pixel-buds-pro-just-got-a-big-update-heres-whats-new-and-improved/#ftag=RSSbaffb68](https://www.zdnet.com/article/your-pixel-buds-pro-just-got-a-big-update-heres-whats-new-and-improved/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T14:27:43+00:00
+
+Your real-life conversations while wearing Pixel Buds Pro are getting a little easier thanks to a new update. Plus, don't miss the 40% off sale, thanks to Amazon Prime Big Deal Days.
+
+## This is the best power strip I've ever used, and you can get it for 40% off on Amazon right now
+ - [https://www.zdnet.com/home-and-office/energy/this-is-the-best-power-strip-ive-ever-used-and-you-can-get-it-for-40-off-on-amazon-right-now/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/energy/this-is-the-best-power-strip-ive-ever-used-and-you-can-get-it-for-40-off-on-amazon-right-now/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T14:05:00+00:00
+
+The Baseus PowerCombo Tower 65W is a great, unobtrusive way to keep your devices powered, without having to depend on a bunch of adapters, and now you can get it for a steal, thanks to Amazon Prime Big Deal Days.
+
+## This impressive 200W portable solar panel is 50% off this October Prime Day
+ - [https://www.zdnet.com/home-and-office/this-impressive-200w-portable-solar-panel-is-50-off-this-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-impressive-200w-portable-solar-panel-is-50-off-this-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T13:52:00+00:00
+
+Portable solar panels for power stations can be prohibitively expensive. Thanks to Amazon Big Deal Days, you can pick up a waterproof Ugreen 200 Watt panel for half price!
+
+## The 21 best October Prime Day deals under $25
+ - [https://www.zdnet.com/home-and-office/best-october-prime-day-deals-under-25-oct-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/best-october-prime-day-deals-under-25-oct-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T13:50:00+00:00
+
+Grab some savings now with tech products and devices under $25 during Amazon's Prime Big Deal Days event this week.
+
+## $80 earbuds shouldn't sound this good, and now they're 33% off on Amazon
+ - [https://www.zdnet.com/article/80-earbuds-shouldnt-sound-this-good-and-now-theyre-33-off-this-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/80-earbuds-shouldnt-sound-this-good-and-now-theyre-33-off-this-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T13:41:00+00:00
+
+If you're looking for a reliable pair of earbuds that won't break the bank, the Earfun Air Pro 3 check off a lot of boxes, and now you can get them for even less, thanks to Amazon Prime Big Deal Days.
+
+## This automatic feeder is my cat's best friend, and it's up to 42% off on Amazon
+ - [https://www.zdnet.com/home-and-office/this-automatic-feeder-is-my-cats-best-friend-and-its-30-off-thanks-to-amazon-prime-big-deals/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/this-automatic-feeder-is-my-cats-best-friend-and-its-30-off-thanks-to-amazon-prime-big-deals/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T13:34:49+00:00
+
+If you have a cat that requires snacks throughout the day, this automatic feeder does the trick, and right now you can get it for a steal, thanks to October Prime Day.
+
+## The 110 best October Prime Day deals you can buy: Live updates
+ - [https://www.zdnet.com/article/best-october-prime-day-deals-10-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-october-prime-day-deals-10-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T13:32:00+00:00
+
+It's the last day of Amazon's Prime Big Deal Days sale. We've found the best deals on headphones, TVs, robot vacuums, and more top-reviewed products you don't want to miss.
+
+## The 12 best October Prime Day Echo device deals
+ - [https://www.zdnet.com/home-and-office/smart-home/best-amazon-october-prime-day-deals-echo-devices-2023/#ftag=RSSbaffb68](https://www.zdnet.com/home-and-office/smart-home/best-amazon-october-prime-day-deals-echo-devices-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T13:20:00+00:00
+
+Amazon's Prime Big Deal Days sale is in full swing, and there are a lot of great discounts on Echo devices that you won't want to miss.
+
+## Duolingo opens waitlist for its new, free music course. Here's how to sign up
+ - [https://www.zdnet.com/article/duolingo-opens-waitlist-for-its-new-free-music-course-heres-how-to-sign-up/#ftag=RSSbaffb68](https://www.zdnet.com/article/duolingo-opens-waitlist-for-its-new-free-music-course-heres-how-to-sign-up/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T10:51:00+00:00
+
+More than 3.6 million students in the US don't have access to music education, according to Duolingo. This could help.
+
+## Use a standing desk? These insoles are a must and they're 20% off this October Prime Day
+ - [https://www.zdnet.com/article/use-a-standing-desk-these-insoles-are-a-must-and-theyre-20-off-this-october-prime-day/#ftag=RSSbaffb68](https://www.zdnet.com/article/use-a-standing-desk-these-insoles-are-a-must-and-theyre-20-off-this-october-prime-day/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T10:38:54+00:00
+
+If you stand to work or you're a runner, or both, these inserts can help prevent or relieve the pain of metatarsalgia.
+
+## Polar reveals Vantage V3 with three new sensors, personalized guidance
+ - [https://www.zdnet.com/article/polar-reveals-vantage-v3-with-three-new-sensors-personalized-guidance/#ftag=RSSbaffb68](https://www.zdnet.com/article/polar-reveals-vantage-v3-with-three-new-sensors-personalized-guidance/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T10:00:25+00:00
+
+It's been three years since Polar released a Vantage GPS sports watch. The new model adds three new sensors and upgrades the heart rate sensor to a fourth-generation model.
+
+## The best October Prime Day Apple deals
+ - [https://www.zdnet.com/article/best-october-prime-day-apple-deals-oct-11-2023/#ftag=RSSbaffb68](https://www.zdnet.com/article/best-october-prime-day-apple-deals-oct-11-2023/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T08:01:00+00:00
+
+Amazon's Prime Big Deal Days is a great opportunity to snag a deal on Apple iPads, AirPods, Apple Watches, and more. Here are the best Apple deals we found so far.
+
+## Most people the support need for trustworthy and regulated AI
+ - [https://www.zdnet.com/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/#ftag=RSSbaffb68](https://www.zdnet.com/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T07:13:43+00:00
+
+New research outlines the benefits and risks of AI - and shows how people in different coutries have varied perceptions on the impact of regulations and governance.
+
+## Samsung's profit still low in third quarter as chip downturn continues
+ - [https://www.zdnet.com/article/samsungs-profit-still-low-in-third-quarter-as-chip-downturn-continues/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsungs-profit-still-low-in-third-quarter-as-chip-downturn-continues/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2023-10-11T04:16:00+00:00
+
+Samsung has narrowed its loss however which could indicate the start of a rebound for the semiconductor market.
+

@@ -1,0 +1,34 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed/, language:en-US
+
+## More Countries Are Planning to Link SIM cards to Digital IDs
+ - [https://reclaimthenet.org/more-countries-are-planning-to-link-sim-cards-to-digital-ids](https://reclaimthenet.org/more-countries-are-planning-to-link-sim-cards-to-digital-ids)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-10-11T18:25:46+00:00
+
+<a href="https://reclaimthenet.org/more-countries-are-planning-to-link-sim-cards-to-digital-ids" rel="nofollow" title="More Countries Are Planning to Link SIM cards to Digital IDs"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/10/sim-digi.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>No privacy.</p>
+<p>The post <a href="https://reclaimthenet.org/more-countries-are-planning-to-link-sim-cards-to-digital-ids" rel="nofollow">More Countries Are Planning to Link SIM cards to Digital IDs</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Rising Theft is Being Used to Justify AI Surveillance in Stores
+ - [https://reclaimthenet.org/rising-theft-is-being-used-to-justify-ai-surveillance-in-stores](https://reclaimthenet.org/rising-theft-is-being-used-to-justify-ai-surveillance-in-stores)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-10-11T18:22:13+00:00
+
+<a href="https://reclaimthenet.org/rising-theft-is-being-used-to-justify-ai-surveillance-in-stores" rel="nofollow" title="Rising Theft is Being Used to Justify AI Surveillance in Stores"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/10/store-surveil.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>New heights of monitoring which don't curb smash-and-grabs anyway.</p>
+<p>The post <a href="https://reclaimthenet.org/rising-theft-is-being-used-to-justify-ai-surveillance-in-stores" rel="nofollow">Rising Theft is Being Used to Justify AI Surveillance in Stores</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## World Economic Forum Calls For “Collective Action” To Fight “Misinformation” and “Disinformation”
+ - [https://reclaimthenet.org/wef-calls-for-collective-action-to-fight-misinformation-and-disinformation](https://reclaimthenet.org/wef-calls-for-collective-action-to-fight-misinformation-and-disinformation)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-10-11T18:08:36+00:00
+
+<a href="https://reclaimthenet.org/wef-calls-for-collective-action-to-fight-misinformation-and-disinformation" rel="nofollow" title="World Economic Forum Calls For &#8220;Collective Action&#8221; To Fight &#8220;Misinformation&#8221; and &#8220;Disinformation&#8221;"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/10/wef-ds.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>More anti-free speech pressure.</p>
+<p>The post <a href="https://reclaimthenet.org/wef-calls-for-collective-action-to-fight-misinformation-and-disinformation" rel="nofollow">World Economic Forum Calls For &#8220;Collective Action&#8221; To Fight &#8220;Misinformation&#8221; and &#8220;Disinformation&#8221;</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
+## Signal Introduces Message Editing
+ - [https://reclaimthenet.org/signal-introduces-message-editing](https://reclaimthenet.org/signal-introduces-message-editing)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-10-11T16:12:24+00:00
+
+<a href="https://reclaimthenet.org/signal-introduces-message-editing" rel="nofollow" title="Signal Introduces Message Editing"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/10/signal-edit.jpg" style="display: block; margin: auto; margin-bottom: 15px;" width="1536" /></a><p>A highly-requested feature.</p>
+<p>The post <a href="https://reclaimthenet.org/signal-introduces-message-editing" rel="nofollow">Signal Introduces Message Editing</a> appeared first on <a href="https://reclaimthenet.org" rel="nofollow">Reclaim The Net</a>.</p>
+
