@@ -1,0 +1,37 @@
+# Source:Popular Science, URL:https://www.popsci.com/feed, language:en-US
+
+## Climate change could help fungal diseases thrive
+ - [https://www.popsci.com/environment/climate-change-fungal-diseases/](https://www.popsci.com/environment/climate-change-fungal-diseases/)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-10-14T23:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Rising temperatures are making conditions more favorable for disease-causing fungi — and may even be helping them adapt to infect people." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/10/13/Depositphotos_23045134_L-1.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Rising temperatures are making conditions more favorable for disease-causing fungi — and may even be helping them adapt to infect people. <span class="orgnc-SingleImage-credit">DepositPhotos</span></figcaption></figure><p>Disease-causing fungi are likely to thrive in a warmer, stormier world — and more of them might be poised to make the leap to infecti
+
+## One quick way to automatically save space on your phone
+ - [https://www.popsci.com/diy/offload-unused-apps/](https://www.popsci.com/diy/offload-unused-apps/)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-10-14T15:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A person holding an iPhone with a bunch of apps on the home screen. A cup of coffee is behind their hand on a white table." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/10/13/Offload-Unused-Apps-iOS.jpeg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">If you don't use some of those apps, you should offload them to save space. <span class="orgnc-SingleImage-credit">Yura Fresh / Unsplash</span></figcaption></figure><p>Your phone can automatically tidy up apps that are gathering digital dust.</p>
+<p>The post <a href="https://www.popsci.com/diy/offload-unused-apps/" rel="nofollow">One quick way to automatically save spac
+
+## Save $20 on the Swiss Army knife of charging cables
+ - [https://www.popsci.com/sponsored-content/incharge-x-max-charging-cable-deal/](https://www.popsci.com/sponsored-content/incharge-x-max-charging-cable-deal/)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-10-14T13:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A universal charging cable plugged into a laptop" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.popsci.com/uploads/2023/10/12/image.jpeg?auto=webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1200" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stack Commerce</span></figcaption></figure><p>It can charge your entire tech collection.</p>
+<p>The post <a href="https://www.popsci.com/sponsored-content/incharge-x-max-charging-cable-deal/" rel="nofollow">Save $20 on the Swiss Army knife of charging cables</a> appeared first on <a href="https://www.popsci.com" rel="nofollow">Popular Science</a>.</p>
+
+## This non-invasive device blasts apart tumors with sound waves
+ - [https://www.popsci.com/technology/histosonics-tumor-sound-wave-fda-approval/](https://www.popsci.com/technology/histosonics-tumor-sound-wave-fda-approval/)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-10-14T11:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="HistoSonics&#039; tumor destroying device. " class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/10/13/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans-treatment-head.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">HistoSonics' tumor destroying device. <span class="orgnc-SingleImage-credit">Erica Bass, Rogel Cancer Center, Michigan Medicine</span></figcaption></figure><p>The tech recently received FDA approval, and will soon be available as a treatment option for patients in the US. </p>
+<p>The post <a href="https://www.popsci.com/technology/histosonics-tumor-sound-wave-fda-approval/" rel=
+

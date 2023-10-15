@@ -1,0 +1,35 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## You can now buy a Ferrari with crypto in the US, if that's your thing
+ - [https://www.engadget.com/you-can-now-buy-a-ferrari-with-crypto-in-the-us-if-thats-your-thing-214639691.html?src=rss](https://www.engadget.com/you-can-now-buy-a-ferrari-with-crypto-in-the-us-if-thats-your-thing-214639691.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-14T21:46:39+00:00
+
+<p>Anyone sitting on a mountain of cryptocurrency can now use it to buy a Ferrari in the US. According to <a class="no-affiliate-link" href="https://www.reuters.com/business/autos-transportation/ferrari-accept-crypto-payment-its-cars-us-2023-10-14/"><em><ins>Reuters</ins></em></a>, the luxury carmaker is working with the crypto payment processor BitPay to accept bitcoin, ether, and USDC for purchases stateside, which customers were apparently begging for. Europe is expected to get the same treatment in early 2024, with other regions to follow.</p>
+<p>There won’t be any upcharges for those paying with crypto, Ferrari’s Chief Marketing and Commercial Officer Enrico Galliera told <em>Reuters</em>, and BitPay will convert those payments to traditional currency at the time of the transaction to avoid any issues of volatility. Galliera said the move will help the company reach “people who are not necessarily our clients but might afford a Ferrari.”</p>
+<span id="end-legacy-contents"></span
+
+## US labor board says X illegally fired a worker in retaliation for critical tweet
+ - [https://www.engadget.com/us-labor-board-says-x-illegally-fired-a-worker-in-retaliation-for-critical-tweet-183132363.html?src=rss](https://www.engadget.com/us-labor-board-says-x-illegally-fired-a-worker-in-retaliation-for-critical-tweet-183132363.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-14T18:31:32+00:00
+
+<p>X’s firing of an employee who pushed back against a return-to-office policy imposed by Elon Musk last year was illegal, the National Labor Relations Board alleges. In what <a class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2023-10-13/elon-musk-s-x-twitter-illegally-fired-worker-over-protest-tweet-nlrb-alleges?srnd=technology-vp&amp;sref=10lNAhZ9"><em><ins>Bloomberg</ins></em></a> reports is the NLRB’s first formal complaint against X Corp., filed on Friday, the labor board accused the company of retaliating against software engineer Yao Yue for attempting to organize workers in the wake of the new policy. After Musk gave then-Twitter employees an ultimatum in November 2022 to return to the office, Yue urged others not to resign in response but instead “let him fire you.”</p>
+<p>Musk at the time had told employees, “If you can physically make it to an office and you don’t show up, resignation accepted.” Yue was fired five days after tweeting about it and wri
+
+## NVIDIA's GeForce Now will cost more in Canada and Europe starting in November
+ - [https://www.engadget.com/nvidias-geforce-now-will-cost-more-in-canada-and-europe-starting-in-november-120104655.html?src=rss](https://www.engadget.com/nvidias-geforce-now-will-cost-more-in-canada-and-europe-starting-in-november-120104655.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-14T12:01:04+00:00
+
+<p>You may have to pay a bit more for NVIDIA's cloud gaming service starting on November 1. The company has <a href="https://nvidia.custhelp.com/app/answers/detail/a_id/5486">raised the subscription prices</a> for GeForce Now in Canada and Europe &quot;to account for increased operational costs in those areas.&quot; To be exact, if you're paying in CAD, GBP, EUR, SEK, NOK, DKK, CZK or PLN, expect to get hit by price adjustments next month. In Canada, for instance, the $10 Priority tier will cost $14 per month. Meanwhile, the <a href="https://www.engadget.com/nvidia-geforce-now-ultimate-rtx-4080-announced-175244712.html?_fsig=6DCF5qyD0kqNfF_RDN8u3w--%7EA">Ultimate tier</a>, which grants you access to servers with RTX 4080 GPUs, 240 fps gameplay and full support for hardware-based ray tracing, will cost $6 more at $26 per month.&nbsp;</p>
+<p>If you're in the UK, you'll have to pay £2 more for the UItimate tier. It's also an additional €2 if you're paying in Euros. As you can see, the a
+
+## YouTube warned by EU official to keep a close eye on Israel-Hamas war content
+ - [https://www.engadget.com/youtube-warned-by-eu-official-to-keep-a-close-eye-on-israel-hamas-war-content-090134619.html?src=rss](https://www.engadget.com/youtube-warned-by-eu-official-to-keep-a-close-eye-on-israel-hamas-war-content-090134619.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-14T09:01:34+00:00
+
+<p>EU Commissioner Thierry Breton has been <a href="https://www.engadget.com/eu-official-warns-elon-musk-about-xs-handling-of-disinformation-amid-israel-hamas-war-210909999.html">sending warning letters</a> to online platforms, reminding them of their duty to address disinformation going around regarding the Israel-Hamas war. Now Breton has written a letter addressed to Alphabet CEO Sundar Pichai, reminding him of the company's "precise obligations regarding content moderation under the EU Digital Services Act." Specifically, Breton is asking Alphabet to be "very vigilant" when it comes to Israel-Hamas-related content posted on YouTube.&nbsp;</p>
+<p>The European Commission has been seeing a "surge of illegal content and disinformation" being disseminated via certain platforms, he said, telling Pichai that Alphabet has an obligation to protect children and teens from "violent content depicting hostage taking and other graphic videos." Breton also warned Pichai that if Alphabet receive
+

@@ -1,0 +1,555 @@
+# Source:Times of India, URL:http://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Annular solar eclipse thrills sky-watchers across US
+ - [https://timesofindia.indiatimes.com/world/us/annular-solar-eclipse-thrills-sky-watchers-across-us/articleshow/104431724.cms](https://timesofindia.indiatimes.com/world/us/annular-solar-eclipse-thrills-sky-watchers-across-us/articleshow/104431724.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T22:50:04+00:00
+
+An annular solar eclipse, also known as a "ring of fire" eclipse, was observed across the Americas. The eclipse passed through eight US states before continuing its journey over several countries in Central and South America. The event was witnessed by millions of people, including Brett Tingley, who captured the moment of annularity and shared it on social media.
+
+## For students, government plans to roll out 'One Nation, One ID'
+ - [https://timesofindia.indiatimes.com/india/for-school-students-government-plans-to-roll-out-one-nation-one-id/articleshow/104430743.cms](https://timesofindia.indiatimes.com/india/for-school-students-government-plans-to-roll-out-one-nation-one-id/articleshow/104430743.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T21:25:36+00:00
+
+The Union ministry of education in India plans to create a unique identification number called 'Automated Permanent Academic Account Registry (APAAR)' for every student from pre-primary to higher education. This number, in addition to the Aadhaar ID, will track students' academic journey and achievements.
+
+## 3 temple break-ins in Canada in October, suspect on the run
+ - [https://timesofindia.indiatimes.com/india/3-temple-break-ins-in-canada-in-october-suspect-on-the-run/articleshow/104430709.cms](https://timesofindia.indiatimes.com/india/3-temple-break-ins-in-canada-in-october-suspect-on-the-run/articleshow/104430709.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T21:07:43+00:00
+
+Canadian police are searching for a suspect after three Hindu temples were broken into in Ontario. The break-ins occurred over a few hours on October 8 in Pickering and Ajax. Surveillance footage shows a suspect walking with a limp. The suspect stole a large amount of cash from donation boxes in two of the temples.
+
+## World Cup: Rohit, bowlers power India to record 8th win against Pak
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-rohit-bowlers-power-india-to-record-8th-win-against-pakistan/articleshow/104430654.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-rohit-bowlers-power-india-to-record-8th-win-against-pakistan/articleshow/104430654.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T21:03:43+00:00
+
+Rohit Sharma, the Indian opener, showcased his mastery of the pull shot during a high-stakes World Cup match against Pakistan. Sharma trolled the International Cricket Council (ICC) for not including him in a poll about the best pull shot, and then proceeded to hit magnificent pulls and other stunning shots during the game.
+
+## 40 years on, India, Sri Lanka restart ferry service
+ - [https://timesofindia.indiatimes.com/india/40-years-on-india-sri-lanka-restart-ferry-service/articleshow/104430656.cms](https://timesofindia.indiatimes.com/india/40-years-on-india-sri-lanka-restart-ferry-service/articleshow/104430656.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T20:48:01+00:00
+
+India and Sri Lanka have resumed ferry services between Nagapattinam port in Tamil Nadu and Kankesanthurai in Sri Lanka, marking an important milestone in bilateral relations. The ferry services, which were previously suspended in the 1980s for security reasons, will enhance connectivity, promote trade, and strengthen the historical and cultural links between the two countries.
+
+## Pro-Palestine protests in London, police threaten to arrest Hamas supporters
+ - [https://timesofindia.indiatimes.com/world/uk/pro-palestine-protests-in-london-police-threaten-to-arrest-hamas-supporters/articleshow/104430651.cms](https://timesofindia.indiatimes.com/world/uk/pro-palestine-protests-in-london-police-threaten-to-arrest-hamas-supporters/articleshow/104430651.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T20:42:01+00:00
+
+Thousands of protestors gathered in London advocating for an end to Israel's military operations in Gaza. The police warned against showing support for Hamas or other terror organizations. The protest started near the BBC headquarters and aimed to reach the Prime Minister's residence. Demonstrators criticized the US and UK governments for supporting Israel. The Metropolitan Police deployed over 1,000 officers.
+
+## PM Modi writes new Garba song, set to share during Navratri
+ - [https://timesofindia.indiatimes.com/india/modi-writes-new-garba-song-set-to-share-during-navratri/articleshow/104430640.cms](https://timesofindia.indiatimes.com/india/modi-writes-new-garba-song-set-to-share-during-navratri/articleshow/104430640.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T20:35:07+00:00
+
+Prime Minister Narendra Modi has written a new Garba song that he plans to share with the public during Navratri. He also expressed gratitude towards Dhvani Bhanushali, Tanishk Bagchi, and the team of Jjust Music for their rendition of a Garba song that he had written years ago. Garba is a traditional Gujarati dance performed during the Navratri festival. Modi's announcement came in response to Bhanushali, who shared the new rendition of his song.
+
+## India will bid to host 2036 Olympics, confirms PM Modi
+ - [https://timesofindia.indiatimes.com/india/its-official-india-will-bid-to-host-2036-olympics-confirms-pm-modi/articleshow/104430614.cms](https://timesofindia.indiatimes.com/india/its-official-india-will-bid-to-host-2036-olympics-confirms-pm-modi/articleshow/104430614.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T20:15:42+00:00
+
+Indian Prime Minister Narendra Modi has confirmed that India will bid to host the 2036 Olympic Games. In a speech to the International Olympic Committee, Modi expressed the excitement of 1.4 billion Indians at the prospect of hosting the event. He highlighted India's infrastructure, logistics, and organisational capability, citing previous successful events such as the G20 Summit and the hosting of global tournaments.
+
+## Palestinians flee north Gaza; Israeli military set to strike ‘very soon’
+ - [https://timesofindia.indiatimes.com/world/middle-east/a-million-people-displaced-overnight-as-israel-sets-exit-deadline-for-gazans/articleshow/104430551.cms](https://timesofindia.indiatimes.com/world/middle-east/a-million-people-displaced-overnight-as-israel-sets-exit-deadline-for-gazans/articleshow/104430551.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T20:02:04+00:00
+
+Hundreds of thousands of Gazans are fleeing south in response to Israeli warnings, leading to a humanitarian crisis as people struggle to find food and shelter. The United Nations reports that nearly half the population has been displaced and water supplies are running out. There are concerns that Israeli troops massed near the Gaza border are preparing for a ground invasion.
+
+## RBI Governor awared for 'A+' ranking in Global Finance Central Banker Report 2023
+ - [https://timesofindia.indiatimes.com/business/india-business/rbi-governor-awared-for-a-ranking-in-global-finance-central-banker-report-2023/articleshow/104430290.cms](https://timesofindia.indiatimes.com/business/india-business/rbi-governor-awared-for-a-ranking-in-global-finance-central-banker-report-2023/articleshow/104430290.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T19:09:30+00:00
+
+Reserve Bank of India (RBI) Governor Shaktikanta Das has been awarded an 'A+' ranking in the Global Finance Central Banker Report Cards 2023. The report cards recognize central bank governors who have outperformed their peers in terms of originality, creativity, and tenacity. Das was placed at the top of the list alongside Switzerland's Thomas J Jordan and Vietnam's Nguyen Thi Hong.
+
+## Gunmen kill 6 in volatile southwestern Pakistan
+ - [https://timesofindia.indiatimes.com/world/pakistan/gunmen-kill-6-construction-workers-in-volatile-southwestern-pakistan/articleshow/104430212.cms](https://timesofindia.indiatimes.com/world/pakistan/gunmen-kill-6-construction-workers-in-volatile-southwestern-pakistan/articleshow/104430212.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T18:51:20+00:00
+
+Gunmen shot and killed six construction workers overnight in the volatile southwestern Baluchistan province, Pakistani police said Saturday. Police officer Hidayatullah Dashti said gunmen opened fire overnight at eight construction workers in the city of Turbat, about 377 miles (about 606 kilometers) south of Quetta — the capital of the province. Two survived, he said, and were hospitalized for treatment.
+
+## KKK13's Dino James would have loved Shiv Thakare, Arjit Taneja win
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-khatron-ke-khiladi-13-winner-dino-james-if-not-me-i-would-have-loved-to-see-shiv-thakare-arjit-taneja-win-the-show/articleshow/104429831.cms](https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-khatron-ke-khiladi-13-winner-dino-james-if-not-me-i-would-have-loved-to-see-shiv-thakare-arjit-taneja-win-the-show/articleshow/104429831.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T18:07:03+00:00
+
+Dino James emerged as the winner of Khatron Ke Khiladi 13. He spoke about his journey in the show, working with Rohit Shetty, and the most difficult stunts he faced. Dino denied being a part of Bigg Boss 17 and expressed that he would have liked to see his friends Shiv Thakare or Arjit Taneja win the Khatron Ke Khiladi 13 trophy. He also mentioned that there were no groups or groupism on the show and had a great experience working with Rohit Shetty.
+
+## Should bosses be 'fire-breathing dragons'? What leaders say
+ - [https://timesofindia.indiatimes.com/business/india-business/should-bosses-be-fire-breathing-dragons-like-elon-musk-wanted-with-parag-agarwal-what-leaders-say/articleshow/104429658.cms](https://timesofindia.indiatimes.com/business/india-business/should-bosses-be-fire-breathing-dragons-like-elon-musk-wanted-with-parag-agarwal-what-leaders-say/articleshow/104429658.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T17:39:33+00:00
+
+"Fire-breathing dragon" concept represents a leader who is fiercely competitive and uncompromising in their pursuit of success. However, many leaders and experts argue that such an approach is not sustainable.
+
+## What we know about the hostages Hamas is holding
+ - [https://timesofindia.indiatimes.com/world/middle-east/what-we-know-about-the-hostages-hamas-is-holding/articleshow/104429493.cms](https://timesofindia.indiatimes.com/world/middle-east/what-we-know-about-the-hostages-hamas-is-holding/articleshow/104429493.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T17:13:36+00:00
+
+Hamas militants have taken around 120 hostages, including civilians and soldiers, during an attack in Israel. The exact number is uncertain, but estimates suggest it could be around 150. The hostages include Israeli soldiers, women, children, elderly individuals, as well as foreign workers and people with dual nationality. Evidence of the kidnappings has been provided by images published by Hamas.
+
+## Isro to test Gaganyaan mission’s crew module on October 21
+ - [https://timesofindia.indiatimes.com/india/first-flight-test-of-human-space-missions-crew-module-escape-system-on-october-21-isro-gaganyaan-india-manned-mission/articleshow/104429259.cms](https://timesofindia.indiatimes.com/india/first-flight-test-of-human-space-missions-crew-module-escape-system-on-october-21-isro-gaganyaan-india-manned-mission/articleshow/104429259.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T17:07:53+00:00
+
+The Indian Space Research Organization is preparing for an unmanned test flight as part of its Gaganyaan mission. On October 21, Isro will launch an empty crew module to assess the efficacy of the emergency escape system. The test will also examine components such as parachutes for spacecraft stabilization during reentry. The crew module will be recovered by the Navy in the Bay of Bengal. This test is a significant step towards India's goal of sending astronauts to low-Earth orbit by 2024.
+
+## 'Umeed nahi haarni…': Akhtar backs Pak to come back stronger
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/aapne-umeed-nahi-haarni-disappointed-shoaib-akhtar-backs-pakistan-to-come-back-stronger/articleshow/104428844.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/aapne-umeed-nahi-haarni-disappointed-shoaib-akhtar-backs-pakistan-to-come-back-stronger/articleshow/104428844.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T16:19:53+00:00
+
+As India blew away Pakistan in a lopsided affair at the iconic Narendra Modi Stadium in Ahmedabad in front of a packed house on Saturday, former pacer Shoaib Akhtar was quite disappointed with Babar Azam and co.'s performance. India cruised past their arch-rivals, winning the high-octane contest by 7 wickets. However, despite the humiliating loss, Akhtar backed the team and asked the Babar-led side not to get demoralised by the defeat as there is still a long way to go in the tournament.
+
+## Abandoned bag with pistol, ammunition seized in J-K's Poonch
+ - [https://timesofindia.indiatimes.com/city/jammu/abandoned-bag-with-pistol-ammunition-seized-in-jammu-kashmirs-poonch/articleshow/104428710.cms](https://timesofindia.indiatimes.com/city/jammu/abandoned-bag-with-pistol-ammunition-seized-in-jammu-kashmirs-poonch/articleshow/104428710.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T16:04:19+00:00
+
+Security forces conducted a joint search operation in the Poonch district of Jammu and Kashmir, resulting in the discovery of a bag containing a pistol and ammunition, officials said.
+
+## Happy Navratri 2023: Wishes, Messages, Quotes, Images, FB & WA status
+ - [https://timesofindia.indiatimes.com/life-style/events/happy-navratri-2023-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/104418565.cms](https://timesofindia.indiatimes.com/life-style/events/happy-navratri-2023-wishes-messages-quotes-images-facebook-whatsapp-status/articleshow/104418565.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T15:54:15+00:00
+
+Navratri is a Hindu festival celebrated worldwide, dedicated to the worship of Goddess Durga and the triumph of good over evil. It involves dance, festivities, and diverse celebrations across India. Navratri wishes, messages, and quotes are shared to invoke blessings and spread joy during this auspicious time
+
+## 'My job as a captain is...': Rohit Sharma after Pakistan victory
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/my-job-as-a-captain-is-rohit-sharma-after-pakistan-victory/articleshow/104428547.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/my-job-as-a-captain-is-rohit-sharma-after-pakistan-victory/articleshow/104428547.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T15:48:35+00:00
+
+India's domination over Pakistan in ODI World Cups continued with the host inflicting a seven-wicket hammering on arch-rivals to keep their unbeaten record intact with eighth victory. It was an all-round effort from India who outplayed Pakistan in all departments of the game to record their third successive victory in the tournament. Rohit Sharma stressed on his role as a skipper saying his role comes into play while figuring out the right players to get the job done.
+
+## 'Sab kuch bilkul thanda...': Sachin's hilarious response to Akhtar
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/sab-kuch-bilkul-thanda-rakha-sachin-tendulkars-hilarious-response-to-shoaib-akhtar-after-india-rout-pakistan/articleshow/104428551.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/sab-kuch-bilkul-thanda-rakha-sachin-tendulkars-hilarious-response-to-shoaib-akhtar-after-india-rout-pakistan/articleshow/104428551.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T15:47:32+00:00
+
+As India fired on all cylinders to register and emphatic seven-wicket win over arch-rivals Pakistan in front of a packed house at the Narendra Modi Stadium in Ahmedabad, legendary Sachin Tendulkar took a cheeky dig at former Pakistan pacer Shoaib Akhtar, teasing him on their 8 straight defeat against the Men in Blue in the marquee tournament. Skipper Rohit Sharma emerged as the undisputed star as India took their ODI World Cup score line to 8-0 against the neighbours.
+
+## ODI World Cup: How India blew away Pakistan to make it 8-0 in Ahmedabad
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-how-india-blew-away-pakistan-to-make-it-8-0-in-ahmedabad/articleshow/104428095.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-how-india-blew-away-pakistan-to-make-it-8-0-in-ahmedabad/articleshow/104428095.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T15:10:46+00:00
+
+This victory marked India's third successive win in the ongoing World Cup, taking them to the top of the standings, after wins against Australia and Afghanistan in their previous encounters.
+
+## Dream of 140 crore Indians to host 2036 Olympics, says PM Modi
+ - [https://timesofindia.indiatimes.com/india/birla-lodges-protest-over-eu-parliament-motion-on-indias-internal-issues/articleshow/104428122.cms](https://timesofindia.indiatimes.com/india/birla-lodges-protest-over-eu-parliament-motion-on-indias-internal-issues/articleshow/104428122.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T15:08:56+00:00
+
+Lok Sabha Speaker Om Birla on Saturday lodged a strong protest with European parliament vice-president Nicola Beer over its resolution on India's "internal issues". Birla told the European parliament vice-president that every nation and parliament is sovereign and internal issues of countries should not be discussed by others.
+
+## India will bid to host 2036 Olympics: PM Modi
+ - [https://timesofindia.indiatimes.com/india/india-leaving-no-stone-unturned-in-efforts-to-ensure-olympics-are-held-in-india-in-2036-pm-modi/articleshow/104428122.cms](https://timesofindia.indiatimes.com/india/india-leaving-no-stone-unturned-in-efforts-to-ensure-olympics-are-held-in-india-in-2036-pm-modi/articleshow/104428122.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T15:08:56+00:00
+
+
+
+## Iran may have been involved in coordinating Hamas attack on Israel: Report
+ - [https://timesofindia.indiatimes.com/world/middle-east/iran-may-have-been-involved-in-coordinating-hamas-attack-on-israel-report/articleshow/104427978.cms](https://timesofindia.indiatimes.com/world/middle-east/iran-may-have-been-involved-in-coordinating-hamas-attack-on-israel-report/articleshow/104427978.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T14:55:18+00:00
+
+New information suggests that Iran may have been involved in coordinating the Hamas terrorist attack on Israel, with collaboration dating back to August. Leaders from Iran, Hezbollah, and Hamas allegedly worked together to train the Palestinian terrorists responsible for the attack. While there is no direct evidence linking Iran to the attack, captured Hamas terrorists revealed that they underwent a year of training.
+
+## India chooses US firm for engines of indigenous light tanks
+ - [https://timesofindia.indiatimes.com/business/india-business/countering-china-india-chooses-us-firm-cummins-for-engines-of-indigenous-light-tank-engines-for-indian-army/articleshow/104427160.cms](https://timesofindia.indiatimes.com/business/india-business/countering-china-india-chooses-us-firm-cummins-for-engines-of-indigenous-light-tank-engines-for-indian-army/articleshow/104427160.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T14:34:25+00:00
+
+India has selected American company Cummins to supply engines for its indigenous light tanks, aimed at countering Chinese deployments in high altitudes. The project, named Project Zorawar, faced delays when a German firm failed to reach an agreement for engine supply.
+
+## Who is 'The Guest'? Hamas' 'mastermind' behind Israel attack
+ - [https://timesofindia.indiatimes.com/world/middle-east/who-is-the-guest-hamas-mastermind-behind-israel-attack/articleshow/104427138.cms](https://timesofindia.indiatimes.com/world/middle-east/who-is-the-guest-hamas-mastermind-behind-israel-attack/articleshow/104427138.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T14:09:26+00:00
+
+Mohammed Diab Ibrahim al-Masri, also known as 'El Deif', is a Hamas leader who has managed to stay under the radar for years by constantly changing houses. He is reportedly in charge of the Hamas' military wing responsible for a deadly attack on the Israeli population. El Deif is little-known to ordinary Palestinians and has been described as a ghost-like figure.
+
+## Eye on Russia: UK to deploy 20K troops to northern Europe
+ - [https://timesofindia.indiatimes.com/world/europe/amid-tensions-with-russia-uk-to-deploy-20000-troops-8-warships-and-more-to-northern-europe/articleshow/104427184.cms](https://timesofindia.indiatimes.com/world/europe/amid-tensions-with-russia-uk-to-deploy-20000-troops-8-warships-and-more-to-northern-europe/articleshow/104427184.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T14:07:29+00:00
+
+Britain has committed to sending 20,000 troops, eight warships, and helicopters to northern Europe to deter Russia and protect undersea cables. This pledge was made by Prime Minister Rishi Sunak at a summit of the 10-nation Joint Expeditionary Force, which aims to detect and deter threats in the region. The UK's contribution will include participation in NATO's Exercise Steadfast Defender.
+
+## Rohit becomes third batter to hit 300 sixes in ODIs
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/rohit-sharma-becomes-third-batter-to-hit-300-sixes-in-odis/articleshow/104426624.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/rohit-sharma-becomes-third-batter-to-hit-300-sixes-in-odis/articleshow/104426624.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T13:38:17+00:00
+
+Rohit Sharma continues his sublime form and six-hitting spree in the World Cup as the Indian skipper became only the third batter overall to smash 300 sixes in one-day internationals. Rohit achieved the remarkable feat during the high voltage match against Pakistan when he tonked Haris Rauf over mid-on for his 300th six. Former Pakistan captain Shahid Afridi sits atop the list in ODIs with 351 sixes from 398 matches followed by Gayle (331 sixes in 301 games).
+
+## Mumbai airport customs destroys 3700 kgs of confiscated cigarettes
+ - [https://timesofindia.indiatimes.com/india/mumbai-airport-customs-destroys-3700-kgs-of-confiscated-cigarettes/articleshow/104426588.cms](https://timesofindia.indiatimes.com/india/mumbai-airport-customs-destroys-3700-kgs-of-confiscated-cigarettes/articleshow/104426588.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T13:30:45+00:00
+
+As part of an ongoing special initiative to free up office space, Mumbai Airport Customs is accelerating the disposal of confiscated goods. On October 12, the Mumbai airport customs destroyed 3,700 kgs of illegally imported cigarettes, tobacco, and e-cigarettes valued at Rs 2.80 crore as part of this effort.
+
+## Why Speaker Om Birla lodged a protest with the European Parliament
+ - [https://timesofindia.indiatimes.com/india/internal-issues-should-not-be-discussed-by-others-speaker-om-birla-tells-european-parliament-vp-registers-protest/articleshow/104426245.cms](https://timesofindia.indiatimes.com/india/internal-issues-should-not-be-discussed-by-others-speaker-om-birla-tells-european-parliament-vp-registers-protest/articleshow/104426245.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T13:16:26+00:00
+
+
+
+## 'Hamaari Mehmaanawazi ki baat hi alag hai...': Sehwag takes a hilarious dig
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/hamaari-mehmaanawazi-ki-baat-hi-alag-hai-virender-sehwag-takes-a-hilarious-dig-at-pakistans-batting-collapse/articleshow/104426416.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/hamaari-mehmaanawazi-ki-baat-hi-alag-hai-virender-sehwag-takes-a-hilarious-dig-at-pakistans-batting-collapse/articleshow/104426416.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T13:15:11+00:00
+
+Virender Sehwag on Saturday took a hilarious dig at Pakistan's batting collapse after they lost 8 wickets in a span of 36 runs to slip from 155/2 to 191 all out in a highly-anticipated World Cup showdown between the arch-rivals.
+
+## Just 21 of 40 lakh aspirants got jobs in Madhya Pradesh, says Congress, slams 18-year ‘BJP misrule’
+ - [https://timesofindia.indiatimes.com/india/unemployment-scams-suicides-cong-slams-bjps-18-year-rule-in-madhya-pradesh/articleshow/104426404.cms](https://timesofindia.indiatimes.com/india/unemployment-scams-suicides-cong-slams-bjps-18-year-rule-in-madhya-pradesh/articleshow/104426404.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T13:14:14+00:00
+
+Slamming the BJP government in Madhya Pradesh, the Congress on Saturday alleged that the state's youths have been "ruined" by the 18-year rule of the Shivraj Singh Chouhan government marked by "unemployment, scams and student suicides". Addressing a press conference at the AICC headquarters here, Congress leader Shobha Oza claimed there are more than two crore youths in Madhya Pradesh and they are suffering due to lack of employment.
+
+## 'Passport scam': CBI raids 50 locations in Bengal, Gangtok
+ - [https://timesofindia.indiatimes.com/city/kolkata/cbi-books-24-in-passport-scam-raids-50-locations-in-bengal-gangtok/articleshow/104426239.cms](https://timesofindia.indiatimes.com/city/kolkata/cbi-books-24-in-passport-scam-raids-50-locations-in-bengal-gangtok/articleshow/104426239.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T13:03:51+00:00
+
+The CBI has registered a case against 24 individuals, including government officials, for their alleged involvement in issuing passports based on counterfeit documents. In the course of their operations, the CBI has apprehended an official stationed in Gangtok and a middleman. Furthermore, CBI detectives are continuing their searches not only at the passport office in Kolkata but also at various sites in Salt Lake and Howrah.
+
+## Palestinians in Gaza running out of places to hide
+ - [https://timesofindia.indiatimes.com/world/middle-east/hamas-isreal-conflict-a-million-gazans-are-running-out-of-places-to-hide-from-coming-israeli-troops/articleshow/104425972.cms](https://timesofindia.indiatimes.com/world/middle-east/hamas-isreal-conflict-a-million-gazans-are-running-out-of-places-to-hide-from-coming-israeli-troops/articleshow/104425972.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T12:57:00+00:00
+
+Israel has called for the evacuation of all civilians in northern Gaza within 24 hours, which the United Nations has called "impossible." Over 270,000 Palestinians have sought shelter in UN-run schools, but with limited space and supplies, many have been left with nowhere to go. The humanitarian crisis in Gaza is worsening, with the health authorities reporting 1,900 deaths and 423,000 people displaced before the evacuation order.
+
+## 'Its a doll': Israel denies baby killed in airstrike as Hamas video of 'body' goes viral
+ - [https://timesofindia.indiatimes.com/world/middle-east/its-a-doll-israel-denies-baby-killed-in-airstrike-as-hamas-video-of-body-goes-viral/articleshow/104425623.cms](https://timesofindia.indiatimes.com/world/middle-east/its-a-doll-israel-denies-baby-killed-in-airstrike-as-hamas-video-of-body-goes-viral/articleshow/104425623.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T12:38:58+00:00
+
+Israel has accused Hamas of posting a video of a doll to claim that a child was a casualty of an IDF strike on Gaza. Israel has been engaged in a battle against Hamas for the past eight days, responding to an attack by Hamas fighters. The authenticity of the video has not been verified. Gaza authorities report that over 2,200 people, including a quarter of them children, have been killed in Israeli airstrikes over the past week.
+
+## How India triggered Pakistan's dramatic collapse
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-how-phenomenal-indian-bowlers-triggered-pakistans-dramatic-collapse/articleshow/104425589.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-how-phenomenal-indian-bowlers-triggered-pakistans-dramatic-collapse/articleshow/104425589.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T12:32:46+00:00
+
+Pakistan skipper Babar Azam (50) and Mohammad Rizwan (49) were the main scorers for Pakistan who lost 8 wickets in a span of 36 runs to slip from 155/2 to 191 all out.
+
+## Louvre Museum in Paris being evacuated after a threat
+ - [https://timesofindia.indiatimes.com/world/europe/the-louvre-museum-in-paris-is-being-evacuated-after-a-threat-while-france-is-under-high-alert/articleshow/104425471.cms](https://timesofindia.indiatimes.com/world/europe/the-louvre-museum-in-paris-is-being-evacuated-after-a-threat-while-france-is-under-high-alert/articleshow/104425471.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T12:23:49+00:00
+
+
+
+## Taliban to join China's Belt and Road forum, elevating ties
+ - [https://timesofindia.indiatimes.com/world/south-asia/taliban-to-join-chinas-belt-and-road-forum-elevating-ties/articleshow/104424920.cms](https://timesofindia.indiatimes.com/world/south-asia/taliban-to-join-chinas-belt-and-road-forum-elevating-ties/articleshow/104424920.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T11:56:29+00:00
+
+The Taliban will be attending China's Belt and Road Forum, marking a significant development in their growing ties with Beijing. The forum, celebrating the 10th anniversary of President Xi Jinping's global infrastructure initiative, is a high-profile event that the Taliban has been invited to. Haji Nooruddin Azizi, the Taliban's acting minister for commerce and industry, will attend the summit and invite investors to Afghanistan.
+
+## Watch: Hardik's 'secret act' before dismissing Imam-ul-Haq
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-hardik-pandyas-secret-act-before-dismissing-imam-ul-haq/articleshow/104424548.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-hardik-pandyas-secret-act-before-dismissing-imam-ul-haq/articleshow/104424548.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T11:42:43+00:00
+
+Hardik Pandya garnered all the attention during the high octane India-Pakistan World Cup clash for his 'secret act' that went on to produce a wicket of dangerous looking batter Imam-ul-Haq. The incident occurred in the 13th over when Imam first smashed Hardik for a four towards a deep point but what followed next left everyone speechless on the field. Hardik's next delivery turned out to be a game changer after he was seen engaging in a silent prayer.
+
+## New Zealand National Party's Luxon to lead new government
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/former-businessman-christopher-luxon-wins-new-zealand-election-as-voters-seek-conservative-change/articleshow/104424109.cms](https://timesofindia.indiatimes.com/world/rest-of-world/former-businessman-christopher-luxon-wins-new-zealand-election-as-voters-seek-conservative-change/articleshow/104424109.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T11:24:03+00:00
+
+Christopher Luxon, a former conservative businessman, is set to become New Zealand's next prime minister after winning a resounding election victory. Luxon's government composition is yet to be finalized, but he has expressed his eagerness to begin his new role. Outgoing Prime Minister Chris Hipkins conceded to Luxon, acknowledging that the outcome wasn't what he had hoped for.
+
+## Kohli meets his idol Tendulkar ahead of India-Pakistan clash
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-virat-kohli-meets-his-idol-sachin-tendulkar-ahead-of-blockbuster-india-pakistan-clash/articleshow/104423840.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-virat-kohli-meets-his-idol-sachin-tendulkar-ahead-of-blockbuster-india-pakistan-clash/articleshow/104423840.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T11:10:20+00:00
+
+Golden ticket holder Sachin Tendulkar, who is also ICC's ambassador for the 2023 World Cup, was a special guest for the much-anticipated India-Pakistan match.
+
+## Music video of Garba song written by PM Modi released
+ - [https://timesofindia.indiatimes.com/india/music-video-of-garba-song-written-by-pm-modi-released-ahead-of-navratri/articleshow/104423681.cms](https://timesofindia.indiatimes.com/india/music-video-of-garba-song-written-by-pm-modi-released-ahead-of-navratri/articleshow/104423681.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T11:07:20+00:00
+
+
+
+## Music video of Garba song written by PM Modi released
+ - [https://timesofindia.indiatimes.com/india/judiciary-executive-legislature-are-equal-says-maharashtra-speaker/articleshow/104423681.cms](https://timesofindia.indiatimes.com/india/judiciary-executive-legislature-are-equal-says-maharashtra-speaker/articleshow/104423681.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T11:07:20+00:00
+
+Maharashtra assembly speaker, Rahul Narwekar, has stated that the Supreme Court did not order a decision on the disqualification of Shiv Sena MLAs within two months. Narwekar emphasized the importance of maintaining the sovereignty of the legislature and respecting the judiciary, legislature, and executive equally.
+
+## Watch: Animated Virat Kohli trolls Rizwan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-animated-virat-kohli-trolls-mohammad-rizwan-during-india-pakistan-world-cup-clash/articleshow/104422879.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-animated-virat-kohli-trolls-mohammad-rizwan-during-india-pakistan-world-cup-clash/articleshow/104422879.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T10:41:14+00:00
+
+The India-Pakistan World Cup encounter always brings treats for the cricket lovers and star batter Virat Kohli leaves no stone unturned to add more spices to the game's biggest rivalry with his on-field antics at the Narendra Modi Stadium in Ahmedabad. The former India skipper Kohli was at his wittiest best when he appeared to be questioning Pakistan batter Mohammad Rizwan for taking extra much to get ready before facing the first delivery.
+
+## 4 dead, 20 hurt in bus-truck collision in Rajasthan's Pratapgarh
+ - [https://timesofindia.indiatimes.com/city/jaipur/four-killed-20-injured-as-bus-collides-with-truck-in-rajasthans-pratapgarh-district/articleshow/104423110.cms](https://timesofindia.indiatimes.com/city/jaipur/four-killed-20-injured-as-bus-collides-with-truck-in-rajasthans-pratapgarh-district/articleshow/104423110.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T10:40:54+00:00
+
+The collision occurred near Kachotian village along the Pratapgarh-Banswara highway, as explained by Suhagpura Station House Officer (SHO) Indrajit.
+
+## How solar eclipse affects human health?
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/effects-of-solar-eclipse-on-health/articleshow/104367730.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/effects-of-solar-eclipse-on-health/articleshow/104367730.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T10:19:53+00:00
+
+A solar eclipse occurs when the Moon passes between the Sun and Earth, blocking all or a portion of the Sun's light. It is a celestial event that has cultural, traditional, and astrological significance. Solar eclipses can have various effects on health, such as disrupting sleep patterns, causing psychological stress, and potentially harming the eyes if viewed without proper protection. However, there is no scientific evidence to suggest that solar eclipses directly impact physical health.
+
+## 2 smugglers held with 13 kg of gold worth Rs 8.45 crore in UP
+ - [https://timesofindia.indiatimes.com/city/varanasi/gold-smugglers-arrested-with-13-kg-of-gold-worth-rs-8-45-in-joint-raid-in-up/articleshow/104422337.cms](https://timesofindia.indiatimes.com/city/varanasi/gold-smugglers-arrested-with-13-kg-of-gold-worth-rs-8-45-in-joint-raid-in-up/articleshow/104422337.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T10:15:18+00:00
+
+In a joint operation involving the Directorate of Revenue Intelligence (DRI) and local law enforcement, two men were arrested from the Sarroi area of Bhadohi district late on night and 13kg gold worth Rs 8.45 crore was seized from their possession.
+
+## Virat Kohli forgets to wear correct jersey vs Pakistan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/ind-vs-pak-virat-kohli-forgets-to-wear-correct-jersey-vs-pakistan/articleshow/104420947.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/ind-vs-pak-virat-kohli-forgets-to-wear-correct-jersey-vs-pakistan/articleshow/104420947.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T09:18:04+00:00
+
+India star batsman Virat Kohli had to make an early exit from the field during the high-octane clash between India and Pakistan at the Narendra Modi Stadium in Ahmedabad.
+
+## How to get India Pakistan World Cup match updates in your car
+ - [https://timesofindia.indiatimes.com/auto/cars/how-to-get-india-pakistan-world-cup-match-updates-in-your-car/articleshow/104417988.cms](https://timesofindia.indiatimes.com/auto/cars/how-to-get-india-pakistan-world-cup-match-updates-in-your-car/articleshow/104417988.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T07:19:13+00:00
+
+The Indian Cricket Team is set to face arch-rivals Pakistan in an ICC Cricket World Cup match. To ensure fans don't miss out on the action, there are several ways to safely follow the match while on the road.
+
+## France to deploy 7,000 soldiers after teacher's slaying
+ - [https://timesofindia.indiatimes.com/world/europe/france-to-deploy-7000-soldiers-after-teachers-slaying/articleshow/104417543.cms](https://timesofindia.indiatimes.com/world/europe/france-to-deploy-7000-soldiers-after-teachers-slaying/articleshow/104417543.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T06:42:31+00:00
+
+France will deploy 7,000 soldiers following a fatal stabbing incident at a school in Arras. The attack, committed by a Chechen-origin man, was labelled as an act of "Islamist terror" by President Emmanuel Macron. The soldiers will be deployed by Monday evening, as France raises its alert level to the highest position. Macron also mentioned that a separate attempted attack had been foiled by security forces.
+
+## Pune youngster’s traffic hack goes viral
+ - [https://timesofindia.indiatimes.com/auto/news/pune-youngsters-traffic-hack-goes-viral-turns-zomato-into-ride-hailing-platform-ola-uber/articleshow/104416988.cms](https://timesofindia.indiatimes.com/auto/news/pune-youngsters-traffic-hack-goes-viral-turns-zomato-into-ride-hailing-platform-ola-uber/articleshow/104416988.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T06:25:43+00:00
+
+A young man in Pune found a clever solution to getting a ride home when he couldn't find transportation. He used the food delivery app Zomato as a ride-hailing platform by ordering a burger and convincing the delivery person to give him a ride home.
+
+## Shashi Kapoor and Jennifer Kendal's love story deserves it's own film
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/throwback-shashi-kapoor-and-jennifer-kendals-love-story-deserves-its-own-film/articleshow/104416991.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/throwback-shashi-kapoor-and-jennifer-kendals-love-story-deserves-its-own-film/articleshow/104416991.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T06:21:55+00:00
+
+The love story and marriage of Shashi Kapoor and Jennifer Kendal is a testament to enduring love and commitment. Shashi, the youngest of the Kapoor family, met Jennifer, an established actress, when he joined his father's theater group. Their friendship turned into love, despite cultural differences. They collaborated on films and founded Prithvi Theatre together. Jennifer's battle with cancer tested their bond, and her death in 1984 was a heartbreaking loss for Shashi. Their love story serves as a reminder of the power of love and the importance of preserving their legacy.
+
+## How Hamas' tunnel network may complicate Israel’s Gaza offensive
+ - [https://timesofindia.indiatimes.com/world/middle-east/how-hamass-secret-tunnel-network-may-complicate-israels-gaza-offensive/articleshow/104415001.cms](https://timesofindia.indiatimes.com/world/middle-east/how-hamass-secret-tunnel-network-may-complicate-israels-gaza-offensive/articleshow/104415001.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T05:28:49+00:00
+
+Israel is facing challenges in its military retaliation against Hamas due to the militant group's vast network of secret underground tunnels. Israel has spent over $1 billion developing an underground barrier and detection system to counter these tunnels. The tunnels, used to conceal weapons and fighters, have become more sophisticated over time. Israel's attempts to target the tunnels have been hindered by the fact that only Hamas knows their full extent.
+
+## Annular solar eclipse 2023: How to watch 'ring of fire' safely
+ - [https://timesofindia.indiatimes.com/world/us/ring-of-fire-annular-solar-eclipse-2023-precautions-sun-moon-nasa-how-to-watch/articleshow/104415152.cms](https://timesofindia.indiatimes.com/world/us/ring-of-fire-annular-solar-eclipse-2023-precautions-sun-moon-nasa-how-to-watch/articleshow/104415152.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T05:27:30+00:00
+
+Americans are set to witness a rare "ring of fire" eclipse of the Sun today. This annular eclipse occurs when the Moon is too small to completely cover the Sun. Nasa has provided ways for people to participate in the event, including using laptops, phones, and telescopes for Citizen Science projects. Nasa warns against looking at the Sun directly and suggests using eclipse glasses or indirect viewing methods.
+
+## Won't lose captaincy because of one match: Babar Azam on India-Pakistan clash
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/wont-lose-captaincy-because-of-one-match-babar-azam-on-india-pakistan-world-cup-clash/articleshow/104415031.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/wont-lose-captaincy-because-of-one-match-babar-azam-on-india-pakistan-world-cup-clash/articleshow/104415031.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T05:11:41+00:00
+
+Pakistan captain Babar Azam is confident heading into the highly anticipated match against India in the World Cup. He dismissed concerns about losing his captaincy if Pakistan loses, saying that one match won't determine his future. He also expressed his focus on the future rather than dwelling on past records, stating that records are meant to be broken. Babar admitted that his performance in the World Cup so far hasn't been satisfactory but promised improvement in upcoming matches.
+
+## 'Top secret': Hamas planned to target Israeli schools
+ - [https://timesofindia.indiatimes.com/india/top-secret-hamas-planned-to-target-israeli-schools-kill-as-many-people-as-possible/articleshow/104414252.cms](https://timesofindia.indiatimes.com/india/top-secret-hamas-planned-to-target-israeli-schools-kill-as-many-people-as-possible/articleshow/104414252.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T04:33:51+00:00
+
+Hamas had planned to target elementary schools and a youth center during its recent violent assault, aiming to "kill as many people as possible" and take hostages, according to documents obtained by NBC News. The plans, discovered on the bodies of Hamas terrorists by Israeli first responders, included detailed maps and showed the group's intent to harm civilians, particularly children.
+
+## Hamas makes al-Qaida 'look pure': Joe Biden
+ - [https://timesofindia.indiatimes.com/world/us/israel-hamas-war-joe-biden-hamas-al-qaida/articleshow/104413955.cms](https://timesofindia.indiatimes.com/world/us/israel-hamas-war-joe-biden-hamas-al-qaida/articleshow/104413955.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T04:09:53+00:00
+
+US President Joe Biden has reiterated his commitment to addressing the humanitarian crisis in Gaza, stating it as a top priority. While expressing unwavering support for Israel, he acknowledged that the majority of Palestinians are not associated with Hamas and suffer as a consequence. Biden emphasized the US's dedication to providing resources for Israel's defense and response. He also expressed concern for the humanitarian situation in Gaza.
+
+## Highest paid F1 drivers in 2023: Here's how much Verstappen, Hamilton earn
+ - [https://timesofindia.indiatimes.com/auto/motorsports/highest-paid-f1-drivers-in-2023-heres-how-much-verstappen-hamilton-earn-lewis-hamilton-net-worth-max-verstappen-salary-formula-1/articleshow/104368193.cms](https://timesofindia.indiatimes.com/auto/motorsports/highest-paid-f1-drivers-in-2023-heres-how-much-verstappen-hamilton-earn-lewis-hamilton-net-worth-max-verstappen-salary-formula-1/articleshow/104368193.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T04:09:39+00:00
+
+While all drivers on the grid probably earn well enough to keep supporting their lavish lifestyles, a few exceptional ones take home exorbitant paychecks, including Max Verstappen, Lewis Hamilton, Charles Leclerc.
+
+## WATCH: Anushka arrives in Ahmedabad for IND vs PAK WC match
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-anushka-sharma-arrives-in-ahmedabad-for-india-vs-pakistan-world-cup-match/articleshow/104413682.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-anushka-sharma-arrives-in-ahmedabad-for-india-vs-pakistan-world-cup-match/articleshow/104413682.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T03:50:31+00:00
+
+Bollywood star and the wife of India's batting icon Virat Kohli, Anushka Sharma landed in Ahmedabad on Saturday morning ahead of India's big World Cup match against Pakistan at the Narendra Modi Stadium.
+
+## Watch: Virat Kohli's wife Anushka arrives in Ahmedabad for IND vs PAK WC match
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-virat-kohlis-wife-anushka-sharma-arrives-in-ahmedabad-for-india-vs-pakistan-world-cup-match/articleshow/104413682.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-virat-kohlis-wife-anushka-sharma-arrives-in-ahmedabad-for-india-vs-pakistan-world-cup-match/articleshow/104413682.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T03:50:31+00:00
+
+Bollywood star and the wife of India's batting icon Virat Kohli, Anushka Sharma landed in Ahmedabad on Saturday morning ahead of India's big World Cup match against Pakistan at the Narendra Modi Stadium.
+
+## World Cup, India vs Pakistan: Drawing battle lines
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-drawing-battle-lines/articleshow/104413373.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-drawing-battle-lines/articleshow/104413373.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T03:32:10+00:00
+
+The highly anticipated India-Pakistan cricket match will take place in Ahmedabad's Narendra Modi Stadium. India have a strong record, winning all seven previous encounters in ODI World Cups. Key players for India include Rohit Sharma, Shubman Gill, Kuldeep Yadav, Virat Kohli, KL Rahul, and Hardik Pandya. Pakistan's top players to watch are Babar Azam, Imam-ul-Haq, Shadab Khan, Shaheen Afridi, and Mohammad Rizwan.
+
+## World Cup, India vs Pakistan: Drawing battle lines
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-virat-kohli-vs-shaheen-afridi-drawing-battle-lines/articleshow/104413373.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-virat-kohli-vs-shaheen-afridi-drawing-battle-lines/articleshow/104413373.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T03:32:10+00:00
+
+The highly anticipated India-Pakistan cricket match will take place in Ahmedabad's Narendra Modi Stadium. India have a strong record, winning all seven previous encounters in ODI World Cups. Key players for India include Rohit Sharma, Shubman Gill, Kuldeep Yadav, Virat Kohli, KL Rahul, and Hardik Pandya. Pakistan's top players to watch are Babar Azam, Imam-ul-Haq, Shadab Khan, Shaheen Afridi, and Mohammad Rizwan.
+
+## UP: Man arrested for ‘raping daughter, torturing wife’
+ - [https://timesofindia.indiatimes.com/city/agra/man-arrested-for-raping-daughter-torturing-wife/articleshow/104413303.cms](https://timesofindia.indiatimes.com/city/agra/man-arrested-for-raping-daughter-torturing-wife/articleshow/104413303.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T03:25:50+00:00
+
+
+
+## Operation Ajay: Second flight with 235 Indians from Israel lands in Delhi
+ - [https://timesofindia.indiatimes.com/india/operation-ajay-second-flight-with-235-indians-from-israel-lands-in-delhi/articleshow/104412342.cms](https://timesofindia.indiatimes.com/india/operation-ajay-second-flight-with-235-indians-from-israel-lands-in-delhi/articleshow/104412342.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T03:10:06+00:00
+
+The second charter flight carrying 235 Indian nationals arrived in New Delhi under Operation Ajay on Saturday morning. Under 'Operation Ajay,' 447 Indians were brought back to India. The second flight, carrying 235 nationals, took off from Tel Aviv, as shared by External Affairs Minister S Jaishankar.
+
+## Times Evoke: ‘Our study found 208 bird species in Udaipur’
+ - [https://timesofindia.indiatimes.com/our-study-found-208-bird-species-in-udaipur-indian-cities-can-provide-hope-for-biodiversity/articleshow/104411091.cms](https://timesofindia.indiatimes.com/our-study-found-208-bird-species-in-udaipur-indian-cities-can-provide-hope-for-biodiversity/articleshow/104411091.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T02:43:49+00:00
+
+A study conducted in Udaipur, India, has found that the city is home to a diverse range of bird species, including migratory birds. The study also revealed that Udaipur's bird population adapts to varying resources and changes its habitat every season. The presence of trees and the city's location between valleys were identified as factors supporting birdlife.
+
+## Man stays put in Israel for daughter's dream to be a doctor
+ - [https://timesofindia.indiatimes.com/city/hyderabad/dad-stays-put-in-israel-for-daughters-dream/articleshow/104412241.cms](https://timesofindia.indiatimes.com/city/hyderabad/dad-stays-put-in-israel-for-daughters-dream/articleshow/104412241.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T02:39:44+00:00
+
+Many workers from Telangana in Israel are facing a difficult decision - whether to leave for their safety or stay and continue working. Despite the ongoing conflict between Hamas and Israeli forces, one worker named Rajesh has decided to stay to support his daughter's dream of becoming a doctor. There are around 600 workers from Telangana in Israel, and the Telangana Association in Israel has advised against immediate returns to India.
+
+## World Cup: History, form favour India over Pakistan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-history-form-favour-india-over-pakistan/articleshow/104411828.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-history-form-favour-india-over-pakistan/articleshow/104411828.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T02:09:56+00:00
+
+India and Pakistan are set to face off in a highly anticipated World Cup match in Ahmedabad. The Indian board and ICC are determined to put on a spectacle, as the tournament has so far failed to generate excitement for non-India games. India have a strong record in World Cup matches, winning all seven contests, while Pakistan's last win against India in ODIs came in 2017.
+
+## World Cup: History, form favour India over Pakistan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-history-form-favour-rohit-sharmas-india-over-babar-azams-pakistan/articleshow/104411828.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-history-form-favour-rohit-sharmas-india-over-babar-azams-pakistan/articleshow/104411828.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T02:09:56+00:00
+
+India and Pakistan are set to face off in a highly anticipated World Cup match in Ahmedabad. The Indian board and ICC are determined to put on a spectacle, as the tournament has so far failed to generate excitement for non-India games. India have a strong record in World Cup matches, winning all seven contests, while Pakistan's last win against India in ODIs came in 2017.
+
+## World Cup: Why India vs Pakistan is cricket's real influencer
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/why-india-vs-pakistan-is-crickets-real-influencer/articleshow/104411751.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/why-india-vs-pakistan-is-crickets-real-influencer/articleshow/104411751.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T01:55:49+00:00
+
+The India-Pakistan cricket matches generate toxicity on social media, fueled by amateur hate-mongering cyber ninjas and profit-seeking influencers. The rivalry between the two nations is a bonanza for advertisers and contributes to the economy. While there will be flag-waving and fervor on the ground, the cricketers themselves have displayed camaraderie across borders. The hope is that tempers do not flare on Saturday and that peace of mind prevails.
+
+## TN man sets ablaze four-month pregnant wife after quarrel
+ - [https://timesofindia.indiatimes.com/city/chennai/man-sets-ablaze-pregnant-wife-after-quarrel/articleshow/104411532.cms](https://timesofindia.indiatimes.com/city/chennai/man-sets-ablaze-pregnant-wife-after-quarrel/articleshow/104411532.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T01:30:10+00:00
+
+
+
+## No penalty on non-disclosure of interest on tax refund: ITAT
+ - [https://timesofindia.indiatimes.com/india/no-penalty-on-non-disclosure-of-interest-on-tax-refund-itat/articleshow/104411245.cms](https://timesofindia.indiatimes.com/india/no-penalty-on-non-disclosure-of-interest-on-tax-refund-itat/articleshow/104411245.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:50:16+00:00
+
+The Mumbai Income Tax Appellate Tribunal (ITAT) has ruled in favor of a senior citizen by stating that the penalty imposed for not disclosing the interest earned on her tax refund is not valid. The ITAT emphasized that the interest element cannot be determined unless the refund is received, and therefore, non-disclosure cannot be considered as underreporting of income.
+
+## After 2 years in detention, Assam woman cleared of foreigner tag
+ - [https://timesofindia.indiatimes.com/city/guwahati/after-2-years-in-detention-assam-woman-cleared-of-foreigner-tag/articleshow/104411269.cms](https://timesofindia.indiatimes.com/city/guwahati/after-2-years-in-detention-assam-woman-cleared-of-foreigner-tag/articleshow/104411269.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:48:56+00:00
+
+A woman from Assam's Cachar district, who spent two years in a detention camp after being declared a foreigner due to a mismatch in the names of her father and grandfather in multiple voters' lists, was declared an Indian citizen by a Foreigner's Tribunal on Wednesday based on circumstantial evidence.
+
+## Congress may drop 25 Chhattisgarh MLAs with negative image
+ - [https://timesofindia.indiatimes.com/india/congress-may-drop-25-chhatisgarh-mlas-with-negative-image/articleshow/104411192.cms](https://timesofindia.indiatimes.com/india/congress-may-drop-25-chhatisgarh-mlas-with-negative-image/articleshow/104411192.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:36:19+00:00
+
+Congress is looking to drop sitting MLAs for Chhattisgarh elections, with internal surveys having identified 20-25 of its 71 legislators as facing negative prospects. The meeting of the AICC central election committee on Chhattisgarh is learnt to have been inconclusive on these identified seats on Thursday.
+
+## Denied tickets, Rajasthan BJP leaders to fight against official nominees
+ - [https://timesofindia.indiatimes.com/india/denied-tickets-rajasthan-bjp-leaders-revolt-to-fight-against-official-nominees/articleshow/104411182.cms](https://timesofindia.indiatimes.com/india/denied-tickets-rajasthan-bjp-leaders-revolt-to-fight-against-official-nominees/articleshow/104411182.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:31:58+00:00
+
+Several BJP ticket aspirants in Jaipur who were not included in the party's first list of candidates for the upcoming elections are planning to contest as independents or from other parties. The central leadership of the BJP is reportedly unhappy with this development, especially as it involves loyalists of former CM Vasundhara Raje.
+
+## Cleric in UP booked for hoisting religious flag over tricolour
+ - [https://timesofindia.indiatimes.com/city/bareilly/cleric-booked-for-hoisting-religious-flag-over-tri-colour/articleshow/104411160.cms](https://timesofindia.indiatimes.com/city/bareilly/cleric-booked-for-hoisting-religious-flag-over-tri-colour/articleshow/104411160.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:30:59+00:00
+
+A cleric in a two-storey mosque in Uttar Pradesh's Bareilly district was charged under the Prevention of Insults to National Honour Act for allegedly hoisting a religious flag above the Indian tricolour. This act invites a maximum three-year jail term. Another incident in Bareilly involved a doctor being booked for making derogatory remarks against a minority community on a social media group, with charges under relevant sections of the Indian Penal Code and the IT Act.
+
+## Centre probes Mumbai, Navi Mumbai airports' books
+ - [https://timesofindia.indiatimes.com/india/centre-probes-mumbai-navi-mumbai-airports-books/articleshow/104411150.cms](https://timesofindia.indiatimes.com/india/centre-probes-mumbai-navi-mumbai-airports-books/articleshow/104411150.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:22:24+00:00
+
+The Indian government has launched an investigation into the financial records of the Adani group-operated Mumbai International Airport Ltd (MIAL) and the Navi Mumbai airport. The investigation covers the period from 2017-18 to 2021-22. Adani Enterprises, the parent company of MIAL and Navi Mumbai International Airport Limited (NMIAL), confirmed receiving communications from the Ministry of Corporate Affairs regarding the initiation of the investigation.
+
+## Freebies will pose fiscal challenge for next govt in MP
+ - [https://timesofindia.indiatimes.com/india/freebies-will-pose-fiscal-challenge-for-next-government-in-madhya-pradesh/articleshow/104411146.cms](https://timesofindia.indiatimes.com/india/freebies-will-pose-fiscal-challenge-for-next-government-in-madhya-pradesh/articleshow/104411146.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:22:07+00:00
+
+The next government in Madhya Pradesh will face the burden of fulfilling promises made during the run-up to the 2023 assembly polls. The current BJP-led government has announced various freebies and sops, amounting to approximately Rs 25,000 crore per year, which will put a financial strain on the next administration. The Supreme Court has sought clarification on these promises, and the Election Commission aims to regulate such vague poll pledges.
+
+## Monkey attends last rites of human friend, ‘observes fast’
+ - [https://timesofindia.indiatimes.com/city/meerut/monkey-attends-last-rites-of-human-friend-fasts/articleshow/104411131.cms](https://timesofindia.indiatimes.com/city/meerut/monkey-attends-last-rites-of-human-friend-fasts/articleshow/104411131.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:21:33+00:00
+
+A monkey in Amroha district formed a strong bond with a farmer who shared his food with it. When the farmer passed away, the monkey showed great grief and even accompanied the family to the cremation ground. The monkey remained desolate after the funeral and only ate on the following day. Eventually, it returned to the forest.
+
+## Areas near embassy in Delhi, others with Jews on high alert
+ - [https://timesofindia.indiatimes.com/city/delhi/areas-near-israel-embassy-others-with-jewish-presence-on-high-alert/articleshow/104411106.cms](https://timesofindia.indiatimes.com/city/delhi/areas-near-israel-embassy-others-with-jewish-presence-on-high-alert/articleshow/104411106.cms)
+ - RSS feed: http://timesofindia.indiatimes.com/rssfeedstopstories.cms
+ - date published: 2023-10-14T00:11:40+00:00
+
+Security has been heightened in areas around the Israel embassy and Jewish establishments in Delhi after an embassy staffer was stabbed in Beijing. This comes after previous attempts on the embassy and its diplomats in Delhi in 2012 and 2021. The increased security is due to concerns of violent protests against Israeli retaliation to the Hamas attack. Security measures include increased police presence, restricted access to religious centers, and enhanced screening of mail and packages. Similar security measures have been implemented in other Indian states and countries around the world.
+

@@ -1,0 +1,51 @@
+# Source:The Verge, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Caltech ends its Wi-Fi lawsuit against Apple and Broadcom
+ - [https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent](https://www.theverge.com/2023/10/14/23917210/caltech-ends-apple-broadcom-lawsuit-wi-fi-patent)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-10-14T21:47:45+00:00
+
+<figure>
+      <img alt="Illustration of the Apple logo on a yellow and teal background." src="https://cdn.vox-cdn.com/thumbor/b8P_VvFMwDdEal9v9t0jjmotDVU=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72756284/STK071_apple_K_Radtke_02.0.jpg" />
+        <figcaption>Illustration: The Verge</figcaption>
+    </figure>
+
+  <p id="e8ELLI">Caltech has had <a href="https://www.theverge.com/2020/1/29/21114325/apple-broadcom-caltech-lawsuit-jury-award-1-1-billion-damages">some ups</a> (winning $1.1 billion) and some downs (<a href="https://www.theverge.com/2016/5/30/11814300/caltech-sues-apple-broadcom-over-wi-fi-patents">losing the $1.1 billion</a> award and being ordered to a trial on damages) since <a href="https://www.theverge.com/2016/5/30/11814300/caltech-sues-apple-broadcom-over-wi-fi-patents">suing Apple and Broadcom</a> in 2016 over Wi-Fi patents. <a href="https://fingfx.thomsonreuters.com/gfx/legaldocs/egvbmqwbgpq/APPLE%20CALTECH%20LAWSUIT%20dismissal.pdf"><em>Reu
+
+## AMD’s Anti-Lag feature is getting gamers banned from Counter-Strike 2
+ - [https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000](https://www.theverge.com/2023/10/14/23916966/cs2-counter-strike-2-anti-lag-plus-ban-amd-gpu-radeon-rx-7000)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-10-14T17:29:30+00:00
+
+<figure>
+      <img alt="A promotional image for Counter-Strike 2." src="https://cdn.vox-cdn.com/thumbor/LnwcLaCesjkSVoe6Vz4kUNXR2oY=/63x0:738x450/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72755766/Welcome_Home.0.png" />
+        <figcaption>Counter-Strike 2<em> players could get unceremoniously banned for using Anti-Lag Plus.</em> | Image: Valve</figcaption>
+    </figure>
+
+  <p id="zUUwnX"><em>Counter-Strike 2</em> developers strongly <a href="https://twitter.com/CounterStrike/status/1712875606776729832">warned players in a post</a> that they’ll be banned if they turn on AMD’s Anti-Lag feature for <em>CS2</em>. According to the post, the features from the most recent driver updates are “implemented by detouring engine dll functions,” adding that when AMD updates the drivers, the team will work on “identifying affected users and reversing their ban.” </p>
+<p id="KQw1i7">AMD added support for Anti-Lag Plus in <em>CS2</em> in the <a href="https://www.amd.com/en/support/kb/rele
+
+## X accused of illegally firing employee who criticized Elon’s return-to-work plan
+ - [https://www.theverge.com/2023/10/14/23916931/x-labor-law-violation-nlrb-complaint-fired-return-to-work](https://www.theverge.com/2023/10/14/23916931/x-labor-law-violation-nlrb-complaint-fired-return-to-work)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-10-14T15:54:04+00:00
+
+<figure>
+      <img alt="The Twitter bird behind the X logo on a reddish-orange background" src="https://cdn.vox-cdn.com/thumbor/Qssfz2q_O_fYccIXDTvxeF3dsdA=/0x0:3001x2001/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72755585/STK160_X_Twitter_007.0.jpg" />
+        <figcaption>The Verge</figcaption>
+    </figure>
+
+  <p id="ie2AAF"><a href="https://www.cnbc.com/2023/10/13/elon-musks-x-illegally-fired-employee-who-challenged-rto-plans-nlrb-.html"><em>CNBC</em> reports</a> that the National Labor Relations Board alleged, in a <a href="https://www.nlrb.gov/case/20-CA-313740">complaint filed Friday</a>, that X violated labor law when it fired an employee who criticized the company. Elon Musk bought the company, then known as Twitter, in October and <a href="https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji">threatened to fire</a> workers who didn’t return to in-person office work. After Yao Yue encouraged others in the company’s Slack to let
+
+## LG’s desk-friendly C3 OLED has dipped below $1,000 for the first time
+ - [https://www.theverge.com/2023/10/14/23915891/lg-c3-oled-tv-lego-atari-2600-google-pixel-tablet-deal-sale](https://www.theverge.com/2023/10/14/23915891/lg-c3-oled-tv-lego-atari-2600-google-pixel-tablet-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-10-14T15:27:25+00:00
+
+<figure>
+      <img alt="An isolated image of LG’s C3 OLED TV on a white background." src="https://cdn.vox-cdn.com/thumbor/27BP9EC94VuM7o6zl64eFh8ZP6Y=/0x0:1555x1037/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/72755521/LG_C3_OLED_TV__42_inch__Press_Image_2.0.jpg" />
+        <figcaption><em>LG’s 42-inch C3 OLED TV might not be big enough for your living room, but it will look great on your desk.</em> | Image: LG</figcaption>
+    </figure>
+
+  <p id="unWlqU">Welcome to the weekend, dear readers! Although we’ve spent the past week pummeling you with deals from Amazon’s fall Prime Day event — <a href="https://www.theverge.com/23910120/amazon-october-prime-day-best-deals-sales-still-happening-tech-gadgets-2023">some of which are still available</a>, to be sure — our Saturday roundup is mostly concerned with the discounts that have cropped up in the time since, starting with <strong>LG’s C3 OLED</strong>. Right now, you can <a href="https://www.amazon.com/dp/B0BVXK9N6X/?tag=theverge
+

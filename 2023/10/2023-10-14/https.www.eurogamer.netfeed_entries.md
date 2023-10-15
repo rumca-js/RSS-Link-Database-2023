@@ -1,0 +1,80 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Lost Ark's Halloween update, Monster Bash, is now live – and so is the Trial Caliligos Guardian raid
+ - [https://www.eurogamer.net/lost-arks-halloween-update-monster-bash-is-now-live-and-so-is-the-trial-caliligos-guardian-raid](https://www.eurogamer.net/lost-arks-halloween-update-monster-bash-is-now-live-and-so-is-the-trial-caliligos-guardian-raid)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T17:15:52+00:00
+
+<img src="https://assetsio.reedpopcdn.com/5NEqQLoA.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Lost Ark is getting into the spooky spirit with its new October update, Monster Bash.
+</p><p>Live now, the new Monster Bash update gives players "scary new customisation options" and the chance to dress up as witches and demons, as well as new weapons "guaranteed to scare their enemies".
+</p><p>Perhaps best of all, however, you get to do all that with your own Little Ghost Pet.
+</p> <p><a href="https://www.eurogamer.net/lost-arks-halloween-update-monster-bash-is-now-live-and-so-is-the-trial-caliligos-guardian-raid">Read more</a></p>
+
+## Looks like PlayStation trophies are on the way for PC players
+ - [https://www.eurogamer.net/looks-like-playstation-trophies-are-on-the-way-for-pc-players](https://www.eurogamer.net/looks-like-playstation-trophies-are-on-the-way-for-pc-players)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T16:17:20+00:00
+
+<img src="https://assetsio.reedpopcdn.com/meet-the-man-with-1200-platinum-trophies-1493816997566.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Sony may be soon implementing trophies for the PC versions of its games. 
+</p><p>That's according to <a href="https://www.truetrophies.com/n24354/sony-testing-playstation-pc-trophies">True Trophies</a>, which asserts that its own scanners have picked up "new evidence" to suggest PS5 games available on PC may soon support PlayStation trophies, enabling PC players to pick up the bronze, silver, gold, and platinum awards regardless of what platform they use.
+</p><p>According to True Trophies' scanners, a new platform called "PSPC" recently popped up alongside a new trophy list simply entitled "Trophy Set". Depending upon who you listen to, the "PSPC" could stand for "PlayStation PC" or "PlayStation Studios PC" &ndash; right now, we just don't know.
+</p> <p><a href="https://www.eurogamer.net/looks
+
+## Diablo 4 takes down a Season 2 teaser after players point out it was full of mistakes
+ - [https://www.eurogamer.net/diablo-4-takes-down-a-season-2-teaser-after-players-point-out-it-was-full-of-mistakes](https://www.eurogamer.net/diablo-4-takes-down-a-season-2-teaser-after-players-point-out-it-was-full-of-mistakes)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T15:49:05+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Untitled-1_sf9KMj3.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Blizzard has taken down a Diablo 4 video after fans pointed out several bizarre mistakes and inaccuracies within it.
+</p><p>"Check out some of the best quality-of-life changes coming with Season of Blood," the Diablo account said on its Twitter/X account alongside a two-minute-long video that showcased some of those changes&hellip; so people did. And some, like streamer and YouTuber Taxxanterax, had a lot to say in response.
+</p><p>As spotted by <a href="https://www.pcgamesn.com/diablo-4/season-2-deleted-video">PCGN</a>, shortly after the video was posted, streamer and YouTuber Raxxanterax posted a video offering some "constructive feedback" after noting several mistakes, including inverted before/after map layouts, and a side-by-side comparison of what is described as "improved" horse speed that looks almost identical. 
+</p> <p
+
+## Sociable Soccer 24 is coming to PC and Switch next month
+ - [https://www.eurogamer.net/sociable-soccer-24-is-coming-to-pc-and-switch-next-month](https://www.eurogamer.net/sociable-soccer-24-is-coming-to-pc-and-switch-next-month)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T15:16:45+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Barcelona_RealMadrid.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>The PC and Switch versions of Sociable Soccer 24 &ndash; the arcade football game from the creator of Sensible Soccer &ndash; will be released on 16th November, 2023.
+</p><p>The PS5, Xbox Series X|S, and last-gen console versions &ndash; as well as boxed physical versions &ndash; will be available in the first few months (Q1) of 2024.
+</p><p>The announcement accompanies news that the series has secured a licensing deal with FIFPRO &ndash; not to be confused with football associations of similar names &ndash; that developer Tower Studios says makes Sociable Soccer 24 "the only FIFPRO-licensed arcade action football game currently available on the market for PC and console" and provides the game with over 10,000 licensed players from around the world. 
+</p> <p><a href="https://www.eurogamer.net/sociable-soccer-24-is-coming-to-pc
+
+## Super Mario Bros. Wonder leaks online
+ - [https://www.eurogamer.net/super-mario-bros-wonder-leaks-online](https://www.eurogamer.net/super-mario-bros-wonder-leaks-online)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T14:07:39+00:00
+
+<img src="https://assetsio.reedpopcdn.com/mariowonder.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Brace yourself, Mario fans &ndash; unsanctioned footage from the highly-anticipated new Super Mario Bros. adventure has leaked online days ahead of its official release date. 
+</p><p>According to commenters in the <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/177jnaf/super_mario_bros_wonder_has_leaked/">Gaming Leaks and Rumours subreddit</a>, it seems as though the game is circulating illegally via ROM sites, with various comments and posts that seemingly shared links to the pirated software deleted from the thread.
+</p><p>"Who tf cares about spoilers in a Mario game," posited <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/177jnaf/comment/k4tiuk0/">one commenter</a>. "It's not like the story is important lol."
+</p> <p><a href="https://www.eurogamer.net/super-mario-bros-wonder-leaks-online">Read more
+
+## Apex Legends Doppelgangers lets you gain extra abilities from different legends
+ - [https://www.eurogamer.net/apex-legends-doppelgangers-lets-you-gain-extra-abilities-from-different-legends](https://www.eurogamer.net/apex-legends-doppelgangers-lets-you-gain-extra-abilities-from-different-legends)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T13:36:03+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Screenshot-2023-10-14-at-14.31.56.png?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Apex Legends' Doppelgangers Collection Event will launch next week.
+</p><p>Running from 17th October to 31st October inclusively, the time-limited event will include in-game consumable candy that grants EVO points, ultimate charge, and Shield Healing, After Dark map variants, and the Trick N' Treats Trios game mode, which enables players to "gain extra abilities from different legends".
+</p><p>You can get an early teaster in the action-packed teaser below:</p> <p><a href="https://www.eurogamer.net/apex-legends-doppelgangers-lets-you-gain-extra-abilities-from-different-legends">Read more</a></p>
+
+## Final Fantasy 14 is offering an "expanded free trial" that includes Stormblood
+ - [https://www.eurogamer.net/final-fantasy-14-is-offering-an-expanded-free-trial-that-includes-stormblood](https://www.eurogamer.net/final-fantasy-14-is-offering-an-expanded-free-trial-that-includes-stormblood)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T11:27:40+00:00
+
+<img src="https://assetsio.reedpopcdn.com/final_fantasy_xiv_stormblood_19.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>Square Enix is offering an "expanded free trial" for Final Fantasy 14 fans who've yet to give Stormblood &ndash; or indeed, any of the earlier expansions &ndash; a try.
+</p><p>With "no restriction on playtime", you can join the 27 million other players and jump into Final Fantasy 14 and try A Realm Reborn, Heavensward, and Stormblood for free, and keep playing until you hit level 70. The free trial also includes 16 different jobs "including some fan favourites from throughout Final Fantasy history".
+</p><p>"Hydaelyn &ndash; a vibrant planet blessed by the Light of the Crystal. Amid azure seas, encompassing the westernmost of the Three Great Continents, there lies a realm embraced by gods and forged by heroes," Square Enix teases. "Her name...Eorzea. It is here that your tale unfolds. Beckoned by the Mothercrystal &n
+
+## I wish every game had Subpar Pool's card system
+ - [https://www.eurogamer.net/i-wish-every-game-had-subpar-pools-card-system](https://www.eurogamer.net/i-wish-every-game-had-subpar-pools-card-system)
+ - RSS feed: https://www.eurogamer.net/feed
+ - date published: 2023-10-14T09:00:00+00:00
+
+<img src="https://assetsio.reedpopcdn.com/Subpar-Pool-1.jpg?width=1920&amp;height=1920&amp;fit=bounds&amp;quality=80&amp;format=jpg&amp;auto=webp" /> <p>
+I love XCOM's Second Wave options almost as much as I love XCOM itself, which is quite a lot. Second Wave is a suite of design choices that were added to XCOM: Enemy Unknown in order to make the game harder, less predictable, a bit more weird. All of this, though, at the discretion of the player. Second Wave put a lot of power in the players' hands.
+</p><p>
+Powers like Damage Roulette, which does exactly what it sounds like: weapons would suddenly inflict a wide variety of different damages. New Economy, meanwhile, did something very similar for XCOM funding - you might get huge amounts of money from the council, and then you might get pretty much zip. Elsewhere, Not Created Equally gave rookies a random selection of initial stats, which made a surprisingly massive impact on the game, moment to moment. Onward and outward - those are
+
