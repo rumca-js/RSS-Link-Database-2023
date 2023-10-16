@@ -1,0 +1,16 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## All The Big Announcements From Minecraft Live 2023
+ - [https://www.gamespot.com/articles/all-the-big-announcements-from-minecraft-live-2023/1100-6518387/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/all-the-big-announcements-from-minecraft-live-2023/1100-6518387/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-15T18:36:00+00:00
+
+<p>The big Minecraft Live event took place on Sunday, October 15, and it delivered some major news about the future of the popular sandbox game. Here's everything you need to know.</p><h3><strong>300 million in sales</strong></h3><p>Minecraft has now surpassed 300 million copies sold, which Microsoft says makes it the best-selling video game of all time. This is up from 238 million in 2021. Tetris might have something to say about Microsoft's claim that Minecraft is the best-selling game, considering <a href="https://www.gamespot.com/gallery/top-10-best-selling-video-games-of-all-time/2900-4814/">Tetris has sold more than 500 million copies.</a> But 300 million copies sold for Minecraft is still a huge number.</p><p>"As we approach the 15th anniversary, Minecraft remains one of the best-selling games of all time, with over 300 million copies sold, a milestone no one could have dreamed of when we were all placing our first blocks," Minecraft CVP Helen Chiang said. "Our incredible comm
+
+## The Complete CYBERPUNK Timeline Explained!
+ - [https://www.gamespot.com/videos/the-complete-cyberpunk-timeline-explained/2300-6462619/](https://www.gamespot.com/videos/the-complete-cyberpunk-timeline-explained/2300-6462619/)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-15T14:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4205533-timeline_site.jpg" width="480" /> Let’s dig into the timeline of Night City and Cyberpunk 2077.
+

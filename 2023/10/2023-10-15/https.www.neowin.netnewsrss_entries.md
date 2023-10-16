@@ -1,0 +1,100 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss/, language:en-us
+
+## You may soon be able to use Surface Dial on Surface Duo's displays
+ - [https://www.neowin.net/news/you-may-soon-be-able-to-use-surface-dial-on-surface-duos-displays/](https://www.neowin.net/news/you-may-soon-be-able-to-use-surface-dial-on-surface-duos-displays/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T20:26:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697399698_surface_dial_1_medium.jpg" /></div>The first and second-gen Surface Duo have received a new set of unofficial drivers for Windows 10 and 11 with preliminary support for the Surface Dial, Microsoft&#039;s forgotten display accessory. <a href="https://www.neowin.net/news/you-may-soon-be-able-to-use-surface-dial-on-surface-duos-displays">Read more...</a>
+
+## A cheaper Apple Vision Pro will reportedly still not be very afforable
+ - [https://www.neowin.net/news/a-cheaper-apple-vision-pro-will-reportedly-still-not-be-very-afforable/](https://www.neowin.net/news/a-cheaper-apple-vision-pro-will-reportedly-still-not-be-very-afforable/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T19:34:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1686056378_apple-vision-pro-12_medium.jpg" /></div>A new report claims that while Apple is working on a &quot;cheaper&quot; version of its upcoming Vision Pro mixed reality headset, it will still not be as affordable as the newly launched Meta Quest 3. <a href="https://www.neowin.net/news/a-cheaper-apple-vision-pro-will-reportedly-still-not-be-very-afforable">Read more...</a>
+
+## New Star Wars and Planet Earth III DLC packs are coming to Minecraft
+ - [https://www.neowin.net/news/new-star-wars-and-planet-earth-iii-dlc-packs-are-coming-to-minecraft/](https://www.neowin.net/news/new-star-wars-and-planet-earth-iii-dlc-packs-are-coming-to-minecraft/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T18:46:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697394426_star_wars_path_of_the_jedi_medium.jpg" /></div>Mojang has announced two upcoming DLC packs that will be available soon for Minecaft. One is a new Star Wars: Path of the Jedi DLC and the other is  based on the upcoming BBC show Planet Earth III. <a href="https://www.neowin.net/news/new-star-wars-and-planet-earth-iii-dlc-packs-are-coming-to-minecraft">Read more...</a>
+
+## Mojang is adding new features to Minecraft Legends, including frogs and witches
+ - [https://www.neowin.net/news/mojang-is-adding-new-features-to-minecraft-legends-including-frogs-and-witches/](https://www.neowin.net/news/mojang-is-adding-new-features-to-minecraft-legends-including-frogs-and-witches/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T18:22:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697392832_legends__-_cute_medium.jpg" /></div>Mojang Studios announced some new features that are coming to the action-strategy game Minecraft Legends. They will include new units like frogs along with new witch allies that can throw potions.  <a href="https://www.neowin.net/news/mojang-is-adding-new-features-to-minecraft-legends-including-frogs-and-witches">Read more...</a>
+
+## The next big Minecraft update will add automated crafting, new underground settings and more
+ - [https://www.neowin.net/news/the-next-big-minecraft-update-will-add-automated-crafting-new-underground-settings-and-more/](https://www.neowin.net/news/the-next-big-minecraft-update-will-add-automated-crafting-new-underground-settings-and-more/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T18:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697392320_untitled_1.34.1_medium.jpg" /></div>Mojang Studios is working on the next big Minecraft update. The 1.21 update will add an automated crafting feature, along with a new procedurally generated underground setting and more <a href="https://www.neowin.net/news/the-next-big-minecraft-update-will-add-automated-crafting-new-underground-settings-and-more">Read more...</a>
+
+## A quick look back at Minecraft which has now sold over 300 million copies
+ - [https://www.neowin.net/news/a-quick-look-back-at-minecraft-which-has-now-sold-over-300-million-copies/](https://www.neowin.net/news/a-quick-look-back-at-minecraft-which-has-now-sold-over-300-million-copies/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T18:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/10/1634403999_minecraft_pc_bundle_xboxclub_1920x1080_medium.jpg" /></div>Microsoft has announced that Minecraft games have now sold over 300 million copies. It&#039;s a huge new milestone for a game that started out as a side project from one developer in May 2009. <a href="https://www.neowin.net/news/a-quick-look-back-at-minecraft-which-has-now-sold-over-300-million-copies">Read more...</a>
+
+## Get a lifetime subscription to Mirillis Action! for only $9.99
+ - [https://www.neowin.net/deals/get-a-lifetime-subscription-to-mirillis-action-for-only-999/](https://www.neowin.net/deals/get-a-lifetime-subscription-to-mirillis-action-for-only-999/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T17:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697192618_maxresdefault_medium.jpg" /></div>Today&#039;s highlighted deal lets you stream your gameplay, music, videos and more in superb HD video quality with this recording software, now temporarily for only a third of the price! <a href="https://www.neowin.net/deals/get-a-lifetime-subscription-to-mirillis-action-for-only-999">Read more...</a>
+
+## Microsoft Weekly: mergers, bugs, activations keys, TPM requirement bypass, and new builds
+ - [https://www.neowin.net/news/microsoft-weekly-mergers-bugs-activations-keys-tpm-requirement-bypass-and-new-builds/](https://www.neowin.net/news/microsoft-weekly-mergers-bugs-activations-keys-tpm-requirement-bypass-and-new-builds/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T15:50:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1696839530_microsoft_weekly_medium.jpg" /></div>Here is the latest Microsoft Weekly news recap detailing the most interesting stories about Microsoft acquiring Activision, changes in Windows 11 activation, hardware requirement bypasses, and more. <a href="https://www.neowin.net/news/microsoft-weekly-mergers-bugs-activations-keys-tpm-requirement-bypass-and-new-builds">Read more...</a>
+
+## Microsoft 365 Roadmap Weekly: Lots of Copilot additions and more
+ - [https://www.neowin.net/news/microsoft-365-roadmap-weekly-lots-of-copilot-additions-and-more/](https://www.neowin.net/news/microsoft-365-roadmap-weekly-lots-of-copilot-additions-and-more/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T12:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/09/1696075943_windows_copilot_medium.jpg" /></div>In this week&#039;s look at the Microsoft 365 roadmap, Copilot will soon be showing up in many Microsoft Office apps, Teams is adding Microsoft Loop support and Microsoft Stream is adding features. <a href="https://www.neowin.net/news/microsoft-365-roadmap-weekly-lots-of-copilot-additions-and-more">Read more...</a>
+
+## NVIDIA GeForce Now will raise subscription prices in Canada and Europe starting Nov. 1
+ - [https://www.neowin.net/news/nvidia-geforce-now-will-raise-subscription-prices-in-canada-and-europe-starting-nov-1/](https://www.neowin.net/news/nvidia-geforce-now-will-raise-subscription-prices-in-canada-and-europe-starting-nov-1/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T12:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/12/1639068302_nvidia-geforce-now_medium.jpg" /></div>The NVIDIA GeForce Now PC cloud gaming service is raising prices for all of its subscription plans in Canada and Europe starting on November 1. Prices will remain the same in the US. <a href="https://www.neowin.net/news/nvidia-geforce-now-will-raise-subscription-prices-in-canada-and-europe-starting-nov-1">Read more...</a>
+
+## Amazon Prime members can still get Eero mesh Wi-Fi 6 and 6E routers at all time low prices
+ - [https://www.neowin.net/deals/amazon-prime-members-can-still-get-eero-mesh-wi-fi-6-and-6e-routers-at-all-time-low-prices/](https://www.neowin.net/deals/amazon-prime-members-can-still-get-eero-mesh-wi-fi-6-and-6e-routers-at-all-time-low-prices/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T11:20:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697368215_njiwody1zdut._cb625641350__medium.jpg" /></div>You can get one Amazon Eero Mesh Wi-Fi 6 router for just $69.99 if you are a Prime member, and other versions of the Eero mesh are also heavily discounted on Amazon at the moment. <a href="https://www.neowin.net/deals/amazon-prime-members-can-still-get-eero-mesh-wi-fi-6-and-6e-routers-at-all-time-low-prices">Read more...</a>
+
+## Keyboard disconnecting from Surface Pro X? Get this update to fix that
+ - [https://www.neowin.net/news/keyboard-disconnecting-from-surface-pro-x-get-this-update-to-fix-that/](https://www.neowin.net/news/keyboard-disconnecting-from-surface-pro-x-get-this-update-to-fix-that/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T09:24:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1692263485_surface_pro_x_medium.jpg" /></div>Microsoft has released a new firmware update for the Surface Pro X tablet lineup. The October 2023 update fixes issues with disconnecting keyboards and improves overall system stability. <a href="https://www.neowin.net/news/keyboard-disconnecting-from-surface-pro-x-get-this-update-to-fix-that">Read more...</a>
+
+## UUP Media Creator gets new update with improvements for downloading Windows 11 Moment 4
+ - [https://www.neowin.net/news/uup-media-creator-gets-new-update-with-improvements-for-downloading-windows-11-moment-4/](https://www.neowin.net/news/uup-media-creator-gets-new-update-with-improvements-for-downloading-windows-11-moment-4/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T09:08:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1697356046_uup_media_creator_medium.jpg" /></div>UUP Media Creator, a popular third-party tool for downloading binaries from the Microsoft Unified Update Platform, received an update to resolve bugs related to the Windows 11 Moment 4 update. <a href="https://www.neowin.net/news/uup-media-creator-gets-new-update-with-improvements-for-downloading-windows-11-moment-4">Read more...</a>
+
+## Surface Laptop 3 gets new update with charging improvements, fixes for boot issues, and more
+ - [https://www.neowin.net/news/surface-laptop-3-gets-new-update-with-charging-improvements-fixes-for-boot-issues-and-more/](https://www.neowin.net/news/surface-laptop-3-gets-new-update-with-charging-improvements-fixes-for-boot-issues-and-more/)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-15T08:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2022/03/1647871227_surface_laptop_3_medium.jpg" /></div>Microsoft is rolling out the October 2023 firmware update for the Surface Laptop 3 with Intel processors. The release improves charging, external display support, and inking and fixes boot issues. <a href="https://www.neowin.net/news/surface-laptop-3-gets-new-update-with-charging-improvements-fixes-for-boot-issues-and-more">Read more...</a>
+
