@@ -1,0 +1,26 @@
+# Source:Security Affairs, URL:https://securityaffairs.com/feed, language:en-US
+
+## Alleged developer of the Ragnar Locker ransomware was arrested
+ - [https://securityaffairs.com/152776/cyber-crime/ragnar-locker-ransomware-op-dismantled.html](https://securityaffairs.com/152776/cyber-crime/ragnar-locker-ransomware-op-dismantled.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-10-20T22:01:57+00:00
+
+<p>A joint international law enforcement investigation led to the arrest of a malware developer who was involved in the Ragnar Locker ransomware operation. Yesterday we became aware of a joint law enforcement operation that led to the seizure of the Ragnar Locker ransomware’s infrastructure. The police on Thursday seized the Tor negotiation and data leak sites, group’s [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/152776/cyber-crime/ragnar-locker-ransomware-op-dismantled.html" rel="nofollow">Alleged developer of the Ragnar Locker ransomware was arrested</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## CISA adds Cisco IOS XE flaw to its Known Exploited Vulnerabilities catalog
+ - [https://securityaffairs.com/152763/hacking/cisa-adds-cisco-ios-xe-flaw-known-exploited-vulnerabilities-catalog.html](https://securityaffairs.com/152763/hacking/cisa-adds-cisco-ios-xe-flaw-known-exploited-vulnerabilities-catalog.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-10-20T11:08:00+00:00
+
+<p>US CISA added the vulnerability&#160;CVE-2021-1435&#160;in Cisco IOS XE to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA)&#160;added&#160;the vulnerability&#160;CVE-2021-1435&#160;in Cisco IOS XE. The vulnerability is a command injection vulnerability in the web user interface that could allow a remote, authenticated attacker to inject commands that can be executed as the root [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/152763/hacking/cisa-adds-cisco-ios-xe-flaw-known-exploited-vulnerabilities-catalog.html" rel="nofollow">CISA adds Cisco IOS XE flaw to its Known Exploited Vulnerabilities catalog</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+
+## Tens of thousands Cisco IOS XE devices were hacked by exploiting CVE-2023-20198
+ - [https://securityaffairs.com/152744/hacking/cisco-ios-xe-attacks-cve-2023-20198.html](https://securityaffairs.com/152744/hacking/cisco-ios-xe-attacks-cve-2023-20198.html)
+ - RSS feed: https://securityaffairs.com/feed
+ - date published: 2023-10-20T10:13:42+00:00
+
+<p>More than 40,000 Cisco IOS XE devices have been compromised in attacks exploiting recently disclosed critical vulnerability CVE-2023-20198. Researchers from LeakIX used the indicators of compromise (IOCs) released by Cisco Talos and found around 30k Cisco IOS XE devices (routers, switches, VPNs) that were infected by exploiting the CVE-2023-20198. Most of the infected devices were [&#8230;]</p>
+<p>The post <a href="https://securityaffairs.com/152744/hacking/cisco-ios-xe-attacks-cve-2023-20198.html" rel="nofollow">Tens of thousands Cisco IOS XE devices were hacked by exploiting CVE-2023-20198</a> appeared first on <a href="https://securityaffairs.com" rel="nofollow">Security Affairs</a>.</p>
+

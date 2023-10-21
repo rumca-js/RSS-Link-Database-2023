@@ -1,0 +1,46 @@
+# Source:PC world, URL:https://www.pcworld.com/index.rss, language:en-US
+
+## Windows 11 preview build now supports Bluetooth hearing aids
+ - [https://www.pcworld.com/article/2111435/windows-11-insider-build-now-supports-ble-hearing-aids.html](https://www.pcworld.com/article/2111435/windows-11-insider-build-now-supports-ble-hearing-aids.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-10-19T15:28:18+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Modern hearing aids are impressive little gadgets, seamlessly pairing with phones and tablets via Bluetooth Low Energy to give their users unfettered access to digital audio. Windows laptops and desktops have lagged behind in this area, but Microsoft is correcting that with the latest Windows 11 Insider build, 25977 Canary. While Windows has supported Bluetooth for over 20 years, it&rsquo;s the Low Energy addition in May that makes the connection to high-end, long-lasting hearing aids possible. </p>
+
+
+
+<p>According to the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://blogs.windows.com/windows-insider/2023/10/18/announcing-windows-11-insider-preview-build-25977-canary-channel/&amp;xcust=2-3-2111435-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Windows Insider blog post</a> (spotted by <a href="https://go.re
+
+## Save $450 on this swanky Samsung Galaxy laptop with an OLED screen
+ - [https://www.pcworld.com/article/2111473/2111473.html](https://www.pcworld.com/article/2111473/2111473.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-10-19T14:24:40+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re on the hunt for a swanky 2-in-1 laptop, you&rsquo;ve come to the right place, as we&rsquo;ve got a delectable deal on tap for you today. Best Buy&rsquo;s selling the <a href="https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book3-360-2-in-1-15-6-fhd-amoled-touch-screen-laptop-intel-13th-gen-evo-core-i7-1360p-16gb-memory-1tb-ssd-graphite%2F6531070.p%3FskuId%3D6531070&amp;publisher_slug=pcworld&amp;exclusive=1&amp;article_name=pcworld&amp;article_url=https%3A%2F%2Fwww.pcworld.com%2Ffeed" rel="nofollow">Samsung Galaxy Book3 360 2-in-1 laptop for $1,099.99</a>, which is a savings of $450.  That&rsquo;s a fantastic deal, especially for a laptop with an OLED screen, as they produce richer and more color accurate images. We <a href="https://www.pcworld.com/article/1499055/samsung-galaxy-book3-pro-360-review.html">rev
+
+## Learn a new language with more than 70% off Babbel
+ - [https://www.pcworld.com/article/2110540/learn-a-new-language-with-more-than-70-off-babbel.html](https://www.pcworld.com/article/2110540/learn-a-new-language-with-more-than-70-off-babbel.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2023-10-19T08:00:00+00:00
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Finding the perfect holiday gift just got easier. Babbel Language Learning was developed by more than 100 expert linguists to help you <a href="https://shop.pcworld.com/sales/babbel-language-learning-lifetime-subscription-all-languages?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=babbel-language-learning-lifetime-subscription-all-languages&amp;utm_term=scsf-580918&amp;utm_content=a0xRn0000001RKjIAM&amp;scsonar=1" rel="noreferrer noopener" target="_blank">learn a new language</a> in as little as one month without requiring an extraordinary time commitment. That&rsquo;s why it has become the world&rsquo;s top-grossing language learning software, with more than 10 million users worldwide that have helped propel it to a 4.5/5-star rating on the Google Play Store and a 4.6/5-star rating on the App Store.</p>
+
+
+
+<p>Babbel&rsquo;s practical curriculu
+
