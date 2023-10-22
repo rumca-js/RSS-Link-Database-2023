@@ -1,0 +1,79 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Bobby Charlton, Manchester United icon who survived plane crash and won World Cup for England, dead at 86
+ - [https://www.cbc.ca/sports/soccer/bobby-charlton-obit-world-cup-1.7004185?cmp=rss](https://www.cbc.ca/sports/soccer/bobby-charlton-obit-world-cup-1.7004185?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T15:34:21+00:00
+
+<img alt="A person cross their arms while posing for a photograph in this black and white image." height="349" src="https://i.cbc.ca/1.7004194.1697917601!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1281888478.jpg" title="English footballer Bobby Charlton of the England World Cup team, UK, July 1966. (Photo by Norman Quicke/Express/Hulton Archive/Getty Images)" width="620" /><p>Bobby Charlton, an English soccer icon who survived a plane crash that decimated a Manchester United team destined for greatness to become the heartbeat of his country's 1966 World Cup-winning team, has died. He was 86.</p>
+
+## Trudeau confronted during Toronto-area mosque visit as calls mount for Israel-Hamas ceasefire
+ - [https://www.cbc.ca/news/canada/toronto/trudeau-mosque-visit-ceasfire-israel-hamas-1.7004089?cmp=rss](https://www.cbc.ca/news/canada/toronto/trudeau-mosque-visit-ceasfire-israel-hamas-1.7004089?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T12:15:25+00:00
+
+<img alt="Prime Minister Justin Trudeau stands at a podium" height="349" src="https://i.cbc.ca/1.7002989.1697820237!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/prime-minister-justin-trudeau.jpeg" title="Prime Minister Justin Trudeau, speaking in Brampton Ont. Oct. 20, 2023, tells reporters that all countries in the world should be worried about India&apos;s decision to revoke the diplomatic immunity of 41 Canadian diplomats in the country. " width="620" /><p>Prime Minister Justin Trudeau faced calls for an immediate ceasefire between Israel and Hamas during an unannounced visit to a Toronto-area mosque on Friday.</p>
+
+## Officials warned Canada-U.S. refugee pact could exacerbate smuggling, dangerous crossings: memo
+ - [https://www.cbc.ca/news/politics/canada-us-border-pact-1.7004115?cmp=rss](https://www.cbc.ca/news/politics/canada-us-border-pact-1.7004115?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T10:58:57+00:00
+
+<img alt="Workers remove current warning signs at the irregular border at Roxham Road from New York into Canada on Friday, March 24, 2023." height="349" src="https://i.cbc.ca/1.6790706.1679710942!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/posters-removed-at-roxham-road.JPG" title="Workers remove current warning signs at the irregular border crossing at Roxham Road from New York into Canada on Friday, March 24, 2023." width="620" /><p>A newly released memo shows federal officials warned the government that expanding a cross-border pact could lead to intensified smuggling and more dangerous crossings. Officials feared the development would also strain RCMP resources as irregular migrants dispersed more widely across the border.</p>
+
+## First trucks carrying aid for Palestinians cross into Gaza from Egypt
+ - [https://www.cbc.ca/news/world/gaza-rafah-crossing-aid-1.7004079?cmp=rss](https://www.cbc.ca/news/world/gaza-rafah-crossing-aid-1.7004079?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T06:17:51+00:00
+
+<img alt="A transport truck with a bright orange cab, with a red, white and black flag affixed on the front and two more on the roof, is parked beside another white truck with people standing in front." height="349" src="https://i.cbc.ca/1.7004080.1697877601!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gaza-rafah-border-crossing-aid-trucks.JPG" title="Trucks carrying aid arrive at the Palestinian side of the border with Egypt, as the conflict between Israel and Palestinian Islamist group Hamas continues, in Rafah in the southern Gaza Strip, October 21, 2023. " width="620" /><p>The border crossing between Egypt and Gaza opened on Saturday to let desperately needed aid flow to Palestinians for the first time since Israel sealed off the territory following bloody rampage the militant group Hamas carried out two weeks ago.</p>
+
+## Amid violence and lack of critical aid, pregnant women in Gaza are at particular risk: UN
+ - [https://www.cbc.ca/news/world/gaza-pregnancy-medical-supplies-1.7001692?cmp=rss](https://www.cbc.ca/news/world/gaza-pregnancy-medical-supplies-1.7001692?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T04:00:00+00:00
+
+<img alt="A woman carries a small baby in her arms as she walks through a parking lot. A vehicle marked for the United Nations is in the background." height="349" src="https://i.cbc.ca/1.7001704.1697822850!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-gaza.JPG" title="A woman carries a baby at a United Nations center in Khan Younis in the southern Gaza Strip on Oct. 13, 2023." width="620" /><p>Humanitarian organizations and physicians said thousands of expectant families in Gaza and the West Bank are facing extreme challenges in accessing safe delivery services as the conflict between Israel and Hamas stretches towards a second week.</p>
+
+## By embracing the vices I used to avoid, I'm learning to be kinder to myself
+ - [https://www.cbc.ca/radio/nowornever/by-embracing-the-vices-i-used-to-avoid-i-m-learning-to-be-kinder-to-myself-1.7003524?cmp=rss](https://www.cbc.ca/radio/nowornever/by-embracing-the-vices-i-used-to-avoid-i-m-learning-to-be-kinder-to-myself-1.7003524?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T04:00:00+00:00
+
+<img alt="A man poses with a cocktail close to his face while sitting at an outdoor patio." height="349" src="https://i.cbc.ca/1.7003555.1697833929!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/keith-hodder-1.jpg" title="Keith Hodder enjoying a cocktail (or few) on a Toronto patio" width="620" /><p>At the age of 28, Keith Hodder hadn’t had a sip of alcohol, a drag of a cigarette or even a cup of coffee. Today he's out to challenge his vices one by one in order to be more comfortable with being vulnerable and to understand why he was being so judgmental toward others and himself in the first place.</p>
+
+## How the iconic Lonely Planet travel guides became 'the backpacker's bible'
+ - [https://www.cbc.ca/radio/thecurrent/tony-wheeler-50-years-lonely-planet-1.7002575?cmp=rss](https://www.cbc.ca/radio/thecurrent/tony-wheeler-50-years-lonely-planet-1.7002575?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T04:00:00+00:00
+
+<img alt="On the left, a woman models a light blue T-shirt with the words &quot;Lonely Planet&quot; written on it. On the right, a man in sunglasses models a similar T-shirt coloured red." height="349" src="https://i.cbc.ca/1.7002580.1697805479!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/maureen-and-tony-wheeler-lonely-planet.jpg" title="Maureen (left) and Tony Wheeler modelling the Lonely Planet T-shirt in 1979. The married couple published their first Lonely Planet guidebook in 1973, a year after backpacking across Europe and Asia to Australia." width="620" /><p>Lonely Planet travel books have been the so-called “backpacker's bible” for 50 years, ever since Tony Wheeler and his wife Maureen self-published a guide based on their own adventure driving across Europe and Asia.</p>
+
+## Linda, Christy, Naomi and Cindy — new docuseries shows how the supermodels became more than famous faces
+ - [https://www.cbc.ca/news/entertainment/legacy-of-supermodels-1.7001443?cmp=rss](https://www.cbc.ca/news/entertainment/legacy-of-supermodels-1.7001443?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T04:00:00+00:00
+
+<img alt="Four models stand in a doorway. " height="349" src="https://i.cbc.ca/1.7003479.1697832623!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/the-super-models.jpg" title="From left, Linda Evangelista, Christy Turlington, Naomi Campbell and Cindy Crawford pose during a photoshoot for The Super Models, a new Apple TV+ docuseries about their careers. " width="620" /><p>A recent docuseries about the careers of supermodels Linda Evangelista, Christy Turlington, Naomi Campbell and Cindy Crawford has a lot to say about these women, but it's just as interesting for what it doesn't say and instead shows: that part of the supermodel legacy is the ability to carefully craft a public image.</p>
+
+## New research offers clues to what causes long COVID — fuelling hope for eventual treatments
+ - [https://www.cbc.ca/news/health/new-research-offers-clues-to-what-causes-long-covid-fuelling-hope-for-eventual-treatments-1.7002046?cmp=rss](https://www.cbc.ca/news/health/new-research-offers-clues-to-what-causes-long-covid-fuelling-hope-for-eventual-treatments-1.7002046?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T04:00:00+00:00
+
+<img alt="Transmission electron micrograph of SARS-CoV-2 virus particles, isolated from a patient." height="349" src="https://i.cbc.ca/1.7002069.1697749200!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/long-covid-microscope.jpg" title="A transmission electron micrograph shows SARS-CoV-2 virus particles isolated from a patient. Recently, several research teams have honed in on potential hallmarks of long COVID, formally known as post-COVID-19 condition, offering insight into the possible mechanisms at play. " width="620" /><p>For several years, scientists have tried to untangle one of COVID-19's persistent puzzles: Why do some people, even after mild infections, go on to develop lasting health issues? Now, fresh clues are emerging.</p>
+
+## U.S. conservatives are using Canadian research to justify anti-trans laws
+ - [https://www.cbc.ca/news/investigates/james-cantor-gender-affirming-care-bans-1.6979356?cmp=rss](https://www.cbc.ca/news/investigates/james-cantor-gender-affirming-care-bans-1.6979356?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T04:00:00+00:00
+
+<img alt="Still image taken from a March 21, 2022 deposition video." height="349" src="https://i.cbc.ca/1.7003764.1697840487!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/james-cantor.jpg" title="Still image taken from a March 21, 2022 deposition video." width="620" /><p>A Toronto psychologist has become one of the most in-demand expert witnesses helping U.S. states defend laws that ban gender-affirming care. He says he's just sharing the science, but major medical associations disagree.</p>
+
+## How do Vancouverites feel about cuffing season?
+ - [https://www.cbc.ca/news/canada/british-columbia/how-do-vancouverites-feel-about-cuffing-season-1.7004164?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/how-do-vancouverites-feel-about-cuffing-season-1.7004164?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-21T02:02:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/299/370/cuffing-season_5000kbps_1280x720_2275613763890.jpg" title="" width="620" /><p>Many singles tend to look for a romantic partner to cuddle up with during the cozy, colder months. Our Maurice Katz asked people in Vancouver if and how they participate in cuffing season.</p>
+
