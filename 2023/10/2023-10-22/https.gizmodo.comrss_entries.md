@@ -1,0 +1,16 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## SAG-AFTRA and AMPTP Get Back to Negotiating This Week
+ - [https://gizmodo.com/sag-aftra-strike-amptp-negotiations-resume-1850948731](https://gizmodo.com/sag-aftra-strike-amptp-negotiations-resume-1850948731)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-10-22T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6b549fa8e7b5a85a9b545465b8e7e805.jpg" /><p>Yesterday, October 21 marked the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sag-aftra-strike-100-days-remembrance-1850947865">100th day of the SAG-AFTRA strike</a>. As a way of commemorating the occasion, the actors union affirmed that it would continue to stand firm and wanted to continue negotiations with the AMPTP after their last discussion <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sag-aftra-strike-negotiation-breakdown-amptp-ai-revenue-1850921753">two weeks ago</a> fell apart. The <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/sag-aftra-strike-george-clooney-scarlett-johansson-netf-1850939867">winter season</a> isn’t that far off, and…</p><p><a href="https://gizmodo.com/sag-aftra-strike-amptp-negotiations-resume-1850948731">Rea
+
+## James Bond's Producers Are Still Figuring Out His Future
+ - [https://gizmodo.com/james-bond-future-broccoli-family-1850948639](https://gizmodo.com/james-bond-future-broccoli-family-1850948639)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-10-22T19:25:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4e0b941d7d56dc248e5a891c34aa7a90.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/who-should-be-the-next-james-bond-io9-picks-1849478263">Daniel Craig</a> didn’t have the longest run of James Bond movies, but he did have one of the most eventful. 2007's Casino Royale gave the series a shot in the arm that both made it matter more in the eye of the mainstream public, and greatly boosted his profile.<br /></p><p><a href="https://gizmodo.com/james-bond-future-broccoli-family-1850948639">Read more...</a></p>
+
