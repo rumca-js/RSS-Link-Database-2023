@@ -1,0 +1,128 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Liberals moving ahead on assault-style gun ban with legislation, regulations: LeBlanc
+ - [https://www.cbc.ca/news/politics/liberals-moving-ahead-assault-style-gun-ban-1.7005775?cmp=rss](https://www.cbc.ca/news/politics/liberals-moving-ahead-assault-style-gun-ban-1.7005775?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T19:36:20+00:00
+
+<img alt="A man in a navy blue suit and tie stands in the House of Commons." height="349" src="https://i.cbc.ca/1.6994310.1697141400!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/commons-questions-20230921.JPG" title="Minister of Public Safety Dominic LeBlanc rises during Question Period in the House of Commons on Parliament Hill in Ottawa, Thursday, Sept. 21, 2023." width="620" /><p>The Liberal government is moving ahead with efforts to keep assault-style firearms out of the hands of Canadians, Public Safety Minister Dominic LeBlanc said Monday.</p>
+
+## RCMP probe of SNC-Lavalin affair faced hurdles but commissioner 'comfortable' with end result
+ - [https://www.cbc.ca/news/politics/rcmp-snc-lavalin-cabinet-1.7005102?cmp=rss](https://www.cbc.ca/news/politics/rcmp-snc-lavalin-cabinet-1.7005102?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T17:39:19+00:00
+
+<img alt="Royal Canadian Mounted Police Commissioner Michael Duheme waits to appear at the Standing Committee on Access to Information, Prvacy and Ethics on the decision not to pursue a criminal investigation into the SNC-Lavalin affair, in Ottawa, Monday, Oct. 23, 2023. " height="349" src="https://i.cbc.ca/1.7005627.1698096254!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-snc-lavalin-20231023.jpg" title="Royal Canadian Mounted Police Commissioner Michael Duheme waits to appear at the Standing Committee on Access to Information, Prvacy and Ethics on the decision not to pursue a criminal investigation into the SNC-Lavalin affair, in Ottawa, Monday, Oct. 23, 2023. " width="620" /><p>The head of the Royal Canadian Mounted Police says that while the Mounties' investigation of the SNC-Lavalin affair was made more challenging by a lack of access to cabinet confidences, he's "very comfortable" with the decision not to pursue criminal charges.</p>
+
+## The dead rise and take to the streets of Mexico City
+ - [https://www.cbc.ca/news/world/the-dead-rise-and-take-to-the-streets-of-mexico-city-1.7005471?cmp=rss](https://www.cbc.ca/news/world/the-dead-rise-and-take-to-the-streets-of-mexico-city-1.7005471?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T15:50:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/692/439/DIADEMUERTOS.jpg" title="" width="620" /><p>Hundreds of parade participants dressed up and painted as skeletons marched through Mexico City as celebrations for Nov. 2's Día de Muertos, or Day of the Dead, ramp up.</p>
+
+## Gymnast Felix Dolci 1st Canadian in 60 years to win men's all-around final at Pan Am Games
+ - [https://www.cbc.ca/sports/pan-american-games/felix-dolci-pan-am-games-canada-roundup-oct23-1.7005361?cmp=rss](https://www.cbc.ca/sports/pan-american-games/felix-dolci-pan-am-games-canada-roundup-oct23-1.7005361?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T15:28:26+00:00
+
+<img alt="Canadian male artistic gymnast lands on the vault with his left and right hand during competition at the Pan American Games in Santiago, Chile." height="349" src="https://i.cbc.ca/1.7005365.1698089259!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dolci-felix-231021-1180.jpg" title="Canada&apos;s Felix Dolci scored over 14 points in four of six apparatus and totalled 82.531 to win his first Pan American Games gold medal. On Saturday, the 21-year-old and three teammates took silver in the men&apos;s team event in Santiago, Chile." width="620" /><p>Despite a fall in his final apparatus on the horizontal bar, Felix Dolci became the first Canadian gymnast to win the men's all-around competition at the Pan American Games since Wilhelm Weiler in 1963.</p>
+
+## Housing minister calls on municipalities to be more 'ambitious' with funding applications
+ - [https://www.cbc.ca/news/politics/housing-minister-muncipalities-applications-funding-1.7005286?cmp=rss](https://www.cbc.ca/news/politics/housing-minister-muncipalities-applications-funding-1.7005286?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T15:20:10+00:00
+
+<img alt="A man in a blue suit and tie speaks at a microphone. Two Canadian flags hang behind him." height="349" src="https://i.cbc.ca/1.7005287.1698084182!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gov-press-conference-20231005.JPG" title="Minister of Housing, Infrastructure and Communities Sean Fraser holds a press conference in the National Press Theatre in Ottawa on Thursday, Oct. 5, 2023. " width="620" /><p>Housing Minister Sean Fraser is challenging municipalities to provide their "best offer" when applying for federal housing funding, saying that he is prioritizing “the most ambitious” applicants.</p>
+
+## Prosecutor tries to cast doubt on accused killer's version of London, Ont., truck attack on Muslim family
+ - [https://www.cbc.ca/news/canada/london/prosecutor-tries-to-cast-doubt-on-accused-killer-s-version-of-london-ont-truck-attack-on-muslim-family-1.7005271?cmp=rss](https://www.cbc.ca/news/canada/london/prosecutor-tries-to-cast-doubt-on-accused-killer-s-version-of-london-ont-truck-attack-on-muslim-family-1.7005271?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T15:13:58+00:00
+
+<img alt="a court sketch of nathaniel veltman. " height="349" src="https://i.cbc.ca/1.6986689.1696444256!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nathaniel-veltman-sketch.jpg" title="A court sketch of Nathaniel Veltman listening to testimony at his murder and terrorism trial on Sept. 28, 2023. " width="620" /><p>Nathaniel Veltman planned for months to kill Muslims, purchased a pickup truck to use a "murder weapon" and psyched himself up before driving into the Afzaal family in London in June 2021 by reading about other terrorist attacks, Crown prosecutor Jennifer Moser says at his murder-terror trial in Ontario court in Windsor.</p>
+
+## School bus with several children aboard involved in rollover just north of Didsbury, Alta.
+ - [https://www.cbc.ca/news/canada/calgary/school-bus-rollover-rcmp-didsbury-alberta-1.7005263?cmp=rss](https://www.cbc.ca/news/canada/calgary/school-bus-rollover-rcmp-didsbury-alberta-1.7005263?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T14:22:45+00:00
+
+<img alt="rcmp royal canadian mounted police cruiser cop car vehicle crime enforcement" height="349" src="https://i.cbc.ca/1.6759935.1677273299!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-cruiser.jpg" title="rcmp royal canadian mounted police cruiser cop car vehicle crime enforcement" width="620" /><p>A Mountie came across a school bus rollover at around 10:20 a.m. Monday on Highway 2A at Township Road 320, according to a statement sent just before noon.</p>
+
+## Off-duty pilot in cockpit accused of trying to stop engines of Alaska Airlines flight
+ - [https://www.cbc.ca/news/world/alaska-air-flight-scare-1.7005128?cmp=rss](https://www.cbc.ca/news/world/alaska-air-flight-scare-1.7005128?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T13:06:25+00:00
+
+<img alt="A plane is shown midair, its side emblazoned with the word &apos;Alaska.&apos;" height="349" src="https://i.cbc.ca/1.7005133.1698078837!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/virus-outbreak-colorado.jpg" title="An Alaska Airlines jetliner lands at the main terminal of Denver International Airport late Monday, June 22, 2020, in Denver during the coronavirus pandemic. (AP Photo/David Zalubowski)" width="620" /><p>An Alaska Airlines flight bound for San Francisco was diverted to Portland, Ore., after an off-duty pilot inside the flight deck attempted to disable the aircraft engines.</p>
+
+## China likely behind propaganda campaign targeting Trudeau, Poilievre, says Global Affairs
+ - [https://www.cbc.ca/news/politics/china-spamouflage-mps-1.7005066?cmp=rss](https://www.cbc.ca/news/politics/china-spamouflage-mps-1.7005066?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T11:57:55+00:00
+
+<img alt="Canadian Prime Minister Justin Trudeau and Chinese President Xi Jinping listen to opening remarks at a plenary session at the G20 Summit in Osaka, Japan, Friday June 28, 2019. " height="349" src="https://i.cbc.ca/1.5193633.1698075662!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/g20-trudeau-20190628.jpg" title="Canadian Prime Minister Justin Trudeau and Chinese President Xi Jinping listen to opening remarks at a plenary session at the G20 Summit in Osaka, Japan, Friday June 28, 2019." width="620" /><p>The Chinese government likely was behind a “spamouflage” disinformation campaign targeting Prime Minister Justin Trudeau, Conservative Leader Pierre Poilievre and other MPs in August and September, says Global Affairs Canada.</p>
+
+## Ontario NDP kicks Hamilton MPP Sarah Jama from caucus after controversial Gaza comments
+ - [https://www.cbc.ca/news/canada/hamilton/jama-ndp-caucus-1.7005056?cmp=rss](https://www.cbc.ca/news/canada/hamilton/jama-ndp-caucus-1.7005056?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T11:43:05+00:00
+
+<img alt="A woman speaking into a mic." height="349" src="https://i.cbc.ca/1.6928261.1691172534!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sarah-jama.jpg" title="Sarah Jama is Hamilton Centre&apos;s member of provincial parliament." width="620" /><p>Ontario New Democrats have kicked Hamilton Centre MPP Sarah Jama out of caucus, nearly two weeks after she posted a controversial statement in support of Palestinians. Jama's "unilateral actions" have undermined the NDP's work and broken colleagues' trust, the party's leader says.</p>
+
+## Do you believe that Cher has released her first-ever Christmas album?
+ - [https://www.cbc.ca/news/entertainment/cher-christmas-album-1.7004897?cmp=rss](https://www.cbc.ca/news/entertainment/cher-christmas-album-1.7004897?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T09:41:08+00:00
+
+<img alt="A woman with dark curly hair smiles and poses for a photo at an event." height="349" src="https://i.cbc.ca/1.7004908.1698068275!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/music-cher.jpg" title="Cher arrives at the premiere of the film Chevalier in Los Angeles on April 16, 2023. The singer&apos;s holiday album, Christmas, releases Friday." width="620" /><p>Cher released her first Christmas album and her first new album in five years, the appropriately titled Christmas, on Friday.</p>
+
+## A surprise result in Argentina's presidential election sets up a showdown
+ - [https://www.cbc.ca/news/world/argentina-election-1.7004856?cmp=rss](https://www.cbc.ca/news/world/argentina-election-1.7004856?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T09:32:22+00:00
+
+<img alt="A man in a dark suit holds a microphone while he speaks during a political rally." height="349" src="https://i.cbc.ca/1.7004870.1698065271!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1740026162.jpg" title="Argentine Economy Minister and presidential candidate for the Union por la Patria party, Sergio Massa, speaks to his supporters outside his party headquarters in Buenos Aires on October 22, 2023, after the first results of the presidential election. Argentina&apos;s Economy Minister Sergio Massa and anti-establishment outsider Javier Milei will face off in a run-off presidential election, according to partial poll results released." width="620" /><p>Economy Minister Sergio Massa produced a big surprise by finishing first in the opening round of Argentina's presidential election, reflecting voters' wariness about handing the presidency to his chief rival, a right-wing populist.</p>
+
+## Car smash a smash hit with stressed out students
+ - [https://www.cbc.ca/news/canada/thunder-bay/car-smash-a-smash-hit-with-stressed-out-students-1.7004892?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/car-smash-a-smash-hit-with-stressed-out-students-1.7004892?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T08:49:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/569/891/CarSmashthisone.jpg" title="" width="620" /><p>University midterms can leave students feeling stressed and overwhelmed. But Lakehead's university engineering students had the perfect outlet to help them let go some of that tension, CBC's Matt Fratpietro went to check it out</p>
+
+## Yes, the moon is indeed 40 million years older than we once thought
+ - [https://www.cbc.ca/news/science/moon-age-1.7003103?cmp=rss](https://www.cbc.ca/news/science/moon-age-1.7003103?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T07:00:00+00:00
+
+<img alt="Astronaut Harrison Schmitt is seen on the surface of the moon with a long pole outstretched to a large boulder." height="349" src="https://i.cbc.ca/1.7003131.1697824182!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/schmitt-covered-with-lunar-dirt.jpeg" title="Geologist-Astronaut Harrison Schmitt, Apollo 17 lunar module pilot, uses an adjustable sampling scoop to retrieve lunar samples during the second extravehicular activity (EVA-2), at Station 5 at the Taurus-Littrow landing site. The cohesive nature of the lunar soil is born out by the &quot;dirty&quot; appearance of Schmitt&apos;s space suit. A gnomon is atop the large rock in the foreground. The gnomon is a stadia rod mounted on a tripod, and serves as an indicator of the gravitational vector and provides accurate vertical reference and calibrated length for determining size and position of objects in near-field photographs. The color scale of blue, orange and green is used to accurately determine color for 
+
+## Mental health service links farmers to counsellors who understand agricultural life
+ - [https://www.cbc.ca/news/canada/manitoba/farmer-mental-health-counselling-1.7003528?cmp=rss](https://www.cbc.ca/news/canada/manitoba/farmer-mental-health-counselling-1.7003528?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T06:00:00+00:00
+
+<img alt="A woman with glasses, wearing a black shirt stands in a field of stubble in front of a mainly clear blue sky while smiling and looking into the distance." height="349" src="https://i.cbc.ca/1.7003591.1697834496!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/donna-odell.jpg" title="Donna Odell is a farmer near Virden, Man. and a board member with the Manitoba Farmer Wellness Program. She&apos;s sharing her story in hopes of helping others overcome the stigma of getting help." width="620" /><p>Donna Odell from Virden, Man., has become an advocate for farmer mental health, using her own experiences with depression and anxiety to help others overcome the stigma of seeking help. She’s now a board member for the Manitoba Farmer Wellness Program, which offers six free counselling sessions to farmers.</p>
+
+## Saskatoon organization offering free tattoo removal services to former gang members
+ - [https://www.cbc.ca/news/canada/saskatchewan/i-m-able-to-be-me-str8-up-offering-free-tattoo-removal-services-to-former-gang-members-1.7001987?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/i-m-able-to-be-me-str8-up-offering-free-tattoo-removal-services-to-former-gang-members-1.7001987?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T06:00:00+00:00
+
+<img alt="A young woman stands in the doorway of a small tattoo removal studio. " height="349" src="https://i.cbc.ca/1.7003004.1697843605!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sandatana-longneck-couillonneur.JPG" title="Sandatana Longneck-Couillonneur of Saskatoon has had two tattoo removal sessions at STR8 UP so far. She got her gang-related tattoo more than a decade ago, and says she is relieved to soon be free of it. " width="620" /><p>It's not uncommon for people to regret some of the tattoos they got when they were younger. But some tattoos are more important to leave behind than others. </p>
+
+## Mi'kmaw language users can now text with new Apple keyboard
+ - [https://www.cbc.ca/news/indigenous/mi-kmaw-apple-keyboard-1.7003632?cmp=rss](https://www.cbc.ca/news/indigenous/mi-kmaw-apple-keyboard-1.7003632?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T04:00:00+00:00
+
+<img alt="A Mi&apos;kmaw keyboard that features Mi&apos;kmaw symbols. " height="349" src="https://i.cbc.ca/1.7003655.1697836493!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/mi-kmaw-keyboard.jpeg" title="A Mi&apos;kmaw keyboard offered by Apple Inc. in partnership with Mi&apos;kmaw Kina&apos;matnewey. " width="620" /><p>Apple users can now text their friends with a keyboard tailored for Mi'kmaw dialects and one fluent speaker thinks that will help the next generation of language learners.</p>
+
+## Their daughter nearly drowned. Now they're going into debt paying for her care
+ - [https://www.cbc.ca/news/canada/ottawa/faces-canada-life-1.7000251?cmp=rss](https://www.cbc.ca/news/canada/ottawa/faces-canada-life-1.7000251?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-23T04:00:00+00:00
+
+<img alt="A little girl in a wheelchair" height="349" src="https://i.cbc.ca/1.7000254.1697651115!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/briar-mclaughlan.jpg" title="Briar McLaughlan was two when she was found without vital signs in a family pool in July 2022. She had been in the pool for up to 20 minutes and her mother performed CPR on her before she was rushed to hospital." width="620" /><p>A year ago, two-year-old Briar McLaughlan was in a hospital bed fighting for her life after a near drowning. Now her family has been fighting to get reimbursed by Canada Life for her daily needs.</p>
+
