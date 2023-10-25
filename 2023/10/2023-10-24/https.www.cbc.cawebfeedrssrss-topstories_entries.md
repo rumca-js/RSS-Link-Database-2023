@@ -1,0 +1,156 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Nygard set to testify at sex-assault trial and offer 'unequivocal and emphatic denial'
+ - [https://www.cbc.ca/news/canada/toronto/peter-nygard-sexual-assault-trial-1.7006255?cmp=rss](https://www.cbc.ca/news/canada/toronto/peter-nygard-sexual-assault-trial-1.7006255?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T19:40:26+00:00
+
+<img alt="Peter Nygard is driven from a Toronto court on Sept. 27, 2023, after hearing testimony in the former fashion mogul’s sexual assault trial." height="349" src="https://i.cbc.ca/1.7006279.1698164944!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/nygard-trial-day-2.jpg" title="Peter Nygard is driven from a Toronto court on Sept. 27, 2023, after hearing testimony in the former fashion mogul’s sexual assault trial." width="620" /><p>Peter Nygard's defence lawyer told court Tuesday his client will testify at his sexual assault trial, offering an "unequivocal and emphatic denial" that he engaged in any sexual misconduct with the five women who have claimed they were assaulted by the one-time Canadian fashion mogul.</p>
+
+## Everything we learned from Britney Spears's memoir, The Woman in Me
+ - [https://www.cbc.ca/news/entertainment/britney-spears-memoir-what-we-learned-1.7005241?cmp=rss](https://www.cbc.ca/news/entertainment/britney-spears-memoir-what-we-learned-1.7005241?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T15:40:28+00:00
+
+<img alt="A book display is shown in a large bookstore." height="349" src="https://i.cbc.ca/1.7006646.1698176772!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/memoirs-britney-spears.JPG" title="A new memoir by Britney Spears called The Woman In Me is seen on display in an Indigo bookstore in Toronto on Tuesday." width="620" /><p>Britney Spears's long-anticipated memoir, The Woman In Me, is here. The singer's book chronicles her rise to fame, from a young performer in Louisiana to one of the world's most famous pop stars.</p>
+
+## Former colleague of ex-intelligence official on trial says RCMP unit was kept separate from criminal probes
+ - [https://www.cbc.ca/news/politics/ortis-dan-morris-operations-research-intelligence-1.6998804?cmp=rss](https://www.cbc.ca/news/politics/ortis-dan-morris-operations-research-intelligence-1.6998804?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T15:37:43+00:00
+
+<img alt="Cameron Jay Ortis, a former RCMP intelligence director accused of disclosing classified information, returns to the Ottawa Courthouse during a break in proceedings in Ottawa, on Tuesday, Oct. 3, 2023." height="349" src="https://i.cbc.ca/1.6988448.1696542346!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-secrets-20231003.jpg" title="Cameron Jay Ortis, a former RCMP intelligence director accused of disclosing classified information, returns to the Ottawa Courthouse during a break in proceedings in Ottawa, on Tuesday, Oct. 3, 2023." width="620" /><p>An RCMP employee who worked under Cameron Ortis — the former high-ranking intelligence official accused of leaking information to police targets — says their unit was purposely separated from those investigating criminal activity, according to a transcript of his testimony. </p>
+
+## Woman says she was 11 when Montreal billionaire Robert Miller sexually exploited her
+ - [https://www.cbc.ca/news/canada/montreal/class-action-lawsuit-robert-miller-new-victims-1.7006125?cmp=rss](https://www.cbc.ca/news/canada/montreal/class-action-lawsuit-robert-miller-new-victims-1.7006125?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T14:43:54+00:00
+
+<img alt="Head-and-shoulders shot of smiling man in a suit and tie with summer background." height="349" src="https://i.cbc.ca/1.6741689.1693591632!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robert-g-miller.jpg" title="Radio-Canada&apos;s Enquête and CBC&apos;s The Fifth Estate made public the stories of several young women who say Robert G. Miller paid them for sex when they were minors, between 1994 and 2006." width="620" /><p>The lawyers leading the class action against Robert Miller, accused of allegedly paying minors for sex, are asking that the billionaire's assets be frozen to ensure that the alleged victims, now 39 in total, are compensated should a judge rule in their favour.</p>
+
+## NHL backtracks on Pride Tape ban, will allow players to represent social causes
+ - [https://www.cbc.ca/news/canada/nhl-backtracks-pride-tape-ban-1.7006393?cmp=rss](https://www.cbc.ca/news/canada/nhl-backtracks-pride-tape-ban-1.7006393?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T13:51:55+00:00
+
+<img alt="Men&apos;s hockey player holds stick in right hand, with glove resting on the ice and Pride Tape adorning the blade of the stick." height="349" src="https://i.cbc.ca/1.6991467.1696951639!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pride-tape-nhl-210322-1180.jpg" title="The NHL on Tuesday issued updated theme night guidance, including a ban on players using Pride Tape on the ice." width="620" /><p>The National Hockey League is ending its ban on players supporting social causes on their equipment, including a popular stick tape in support of the LGBTQ community, the league announced on Tuesday.</p>
+
+## Michael Cohen, with Trump looking on, testifies at civil fraud trial
+ - [https://www.cbc.ca/news/world/trump-organization-trial-cohen-1.7006278?cmp=rss](https://www.cbc.ca/news/world/trump-organization-trial-cohen-1.7006278?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T13:37:49+00:00
+
+<img alt="A man in a suit blazer and collared shirt waves to someone off camera while walking." height="349" src="https://i.cbc.ca/1.7006315.1698166353!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-fraud-lawsuit.jpg" title="Michael Cohen arrives for former President Donald Trump&apos;s civil business fraud trial at New York Supreme Court, Tuesday, Oct. 24, 2023, in New York. " width="620" /><p>Donald Trump's former lawyer and fixer Michael Cohen took the witness stand on Tuesday to testify against the former president in a civil fraud case in Manhattan that threatens to break up Trump's business empire.</p>
+
+## Judge approves historic $23B First Nations child welfare compensation agreement
+ - [https://www.cbc.ca/news/politics/judge-approves-23-billion-first-nations-child-welfare-agreement-1.7006351?cmp=rss](https://www.cbc.ca/news/politics/judge-approves-23-billion-first-nations-child-welfare-agreement-1.7006351?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T13:20:56+00:00
+
+<img alt="A 2019 order from the Canadian Human Rights Tribunal became part of the class action settlement agreement that lawyers are seeking fees for." height="349" src="https://i.cbc.ca/1.6995664.1697223789!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/reconciliation-day-cda-20230930.jpg" title="The class action lawsuit against Ottawa was largely based on the findings of a Canadian Human Rights Tribunal&apos;s ruling, which found Ottawa discriminated against First Nations children and families. " width="620" /><p>The Federal Court has approved a $23 billion settlement agreement — the largest in Canadian history — for First Nations children and families who experienced racial discrimination through Ottawa's chronic underfunding of the on-reserve foster care system and other family services.</p>
+
+## Canada wins Pan Am Games rowing gold in women's 8 by nearly 4 seconds over U.S.
+ - [https://www.cbc.ca/sports/pan-american-games/rowing-women-canada-roundup-pan-am-games-oct24-1.7006308?cmp=rss](https://www.cbc.ca/sports/pan-american-games/rowing-women-canada-roundup-pan-am-games-oct24-1.7006308?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T13:06:26+00:00
+
+<img alt="Sitting in their boat, the Canadian women&apos;s eight rowing team reacts to their gold-medal victory at the Pan Am Games in Santiago, Chile." height="349" src="https://i.cbc.ca/1.7006330.1698166741!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-women-8-rowing-231024-1180.jpg" title="The women&apos;s eight squad picked up Canada&apos;s third rowing medal of the Pan Am Games, posting a winning time of six minutes 10.7 seconds to beat the United States (6:14.17) on Tuesday in Santiago, Chile." width="620" /><p>Canada won gold in the women's eight rowing event to open Tuesday's competition at the Pan Am Games in Santiago, Chile.</p>
+
+## 33 U.S. states sue Facebook and Instagram owner for making social media addictive to kids
+ - [https://www.cbc.ca/news/business/meta-lawsuit-children-addictive-1.7006259?cmp=rss](https://www.cbc.ca/news/business/meta-lawsuit-children-addictive-1.7006259?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T12:59:30+00:00
+
+<img alt="Social media influencer Malini Agarwal smiles as she looks at her phone" height="349" src="https://i.cbc.ca/1.7006277.1698164830!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/malini-agarwal.JPG" title="Malini Agarwal, blogger-in-chief of missmalini.com, uses her mobile phone to check messages, to tweet and upload Instagram pictures as she travels home in a car after a cover photo shoot in Mumbai, January 17, 2013. Agarwal, 35, exemplifies what aspirational India is all about - She&apos;s bubbly, energetic, and describes herself as &quot;India&apos;s blogging princess&quot; and a &quot;social media Jedi&quot;. She&apos;s been called &quot;without a doubt, India&apos;s most famous blogger&quot;. Her blog, missmalini.com, gets over 250,000 unique visitors a month. It provides a steady diet of Bollywood gossip, fashion, food and entertainment to a legion of followers. Picture taken January 17, 2013.  REUTERS/Vivek Prakash (INDIA - Tags: SOCIETY SCIENCE TECHNOLOGY MEDI
+
+## Liberal MPs are conflicted about the Israel-Hamas war, and they're far from alone
+ - [https://www.cbc.ca/news/politics/salima-zahid-ceasefire-letter-wherry-analysis-1.7005576?cmp=rss](https://www.cbc.ca/news/politics/salima-zahid-ceasefire-letter-wherry-analysis-1.7005576?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T12:48:03+00:00
+
+<img alt="Liberal member of Parliament Salma Zahid arrives at a caucus meeting on Parliament Hill in Ottawa on Wednesday, Feb. 1, 2023. Zahid is criticizing her own government&apos;s response to Israel&apos;s administration amid police violence in Jerusalem." height="349" src="https://i.cbc.ca/1.7006302.1698165692!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/cda-israel-20230405.JPG" title="Liberal member of Parliament Salma Zahid arrives at a caucus meeting on Parliament Hill in Ottawa on Wednesday, Feb. 1, 2023. Zahid is criticizing her own government&apos;s response to Israel&apos;s administration amid police violence in Jerusalem." width="620" /><p>It's not even remotely shocking that there are 23 people in the Liberal caucus who would like Canada to officially call for a ceasefire in the Israel-Hamas conflict. It would be more surprising if there were absolutely no disagreements among 158 Liberals on such a serious matter.</p>
+
+## Professional Women's Hockey League unveils new logo
+ - [https://www.cbc.ca/sports/hockey/pwhl-unveils-league-logos-1.7006033?cmp=rss](https://www.cbc.ca/sports/hockey/pwhl-unveils-league-logos-1.7006033?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T10:53:32+00:00
+
+<img alt="A white logo with a stylized W, including two hockey sticks and a puck in the visual of a hockey faceoff, is shown over a purple background. The league&apos;s website, thepwhl.com, is written in white below the logo." height="349" src="https://i.cbc.ca/1.7006046.1698155880!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pwhl-logo.jpg" title="The PWHL unveiled its league logo on Tuesday, after six players each teased a portion of it on social media over the last few days." width="620" /><p>The PWHL unveiled its new branding on Tuesday, after a player from each of the league's six teams each teased a portion of the logo on their social media posts over the last few days.</p>
+
+## First window, then middle, then aisle? United Airlines launches new boarding system
+ - [https://www.cbc.ca/news/business/united-airlines-boarding-1.7006032?cmp=rss](https://www.cbc.ca/news/business/united-airlines-boarding-1.7006032?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T10:17:17+00:00
+
+<img alt="Passengers line up to board a plane." height="349" src="https://i.cbc.ca/1.7006041.1698155759!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-plane-boarding.jpg" title="Social distancing signage is displayed as passengers scan boarding passes for an American Airlines Group Inc. flight at Los Angeles International Airport (LAX) in Los Angeles, California, U.S., on Saturday, June 13, 2020. The market for jet fuel, along with an increase in flight bookings since early May, is signaling that at least some Americans are ready to take to the skies again after foregoing the pleasures of travel. Photographer: Patrick T. Fallon/Bloomberg" width="620" /><p>United Airlines will start boarding passengers in economy class with window seats first starting next week, a move designed to reduce the time planes spend sitting on the ground. The airline said in an internal memo that it will implement the plan on Oct. 26.</p>
+
+## First window, then middle, then aisle? United Airlines launches new boarding system
+ - [https://www.cbc.ca/news/business/united-airlines-boarding-system-1.7006032?cmp=rss](https://www.cbc.ca/news/business/united-airlines-boarding-system-1.7006032?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T10:17:17+00:00
+
+<img alt="Passengers line up to board a plane." height="349" src="https://i.cbc.ca/1.7006041.1698155759!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/us-plane-boarding.jpg" title="Social distancing signage is displayed as passengers scan boarding passes for an American Airlines Group Inc. flight at Los Angeles International Airport (LAX) in Los Angeles, California, U.S., on Saturday, June 13, 2020. The market for jet fuel, along with an increase in flight bookings since early May, is signaling that at least some Americans are ready to take to the skies again after foregoing the pleasures of travel. Photographer: Patrick T. Fallon/Bloomberg" width="620" /><p>United Airlines will start boarding passengers in economy class with window seats first starting next week, a move designed to reduce the time planes spend sitting on the ground. The airline said in an internal memo that it will implement the plan on Oct. 26.</p>
+
+## Icelandic women — including PM — stage 24-hour strike for pay equity, end to violence
+ - [https://www.cbc.ca/news/world/iceland-women-strike-pay-violence-1.7005957?cmp=rss](https://www.cbc.ca/news/world/iceland-women-strike-pay-violence-1.7005957?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T09:42:08+00:00
+
+<img alt="A woman speaks at a podium during a press conference." height="349" src="https://i.cbc.ca/1.7005970.1698151441!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-nordics-security.JPG" title="Iceland&apos;s Prime Minister Katrin Jakobsdottir speaks during a press conference at the Presidential Palace in Helsinki, Finland May 3, 2023." width="620" /><p>Icelandic women across the island nation went on strike Tuesday to push for an end to unequal pay and gender-based violence.</p>
+
+## Grocers called back to Parliament to testify about plans to stabilize prices
+ - [https://www.cbc.ca/news/politics/grocers-called-back-to-ottawa-1.7005942?cmp=rss](https://www.cbc.ca/news/politics/grocers-called-back-to-ottawa-1.7005942?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T08:51:29+00:00
+
+<img alt="Two people by shopping carts in the fruit and vegetable section of a grocery store." height="349" src="https://i.cbc.ca/1.6918146.1690377739!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/grocery-store-toronto.JPG" title="People shop in the produce aisle of a grocery store in Toronto on July 17, 2023. " width="620" /><p>A House of Commons committee is asking the heads of Canada's major grocery chains to explain their plans to stabilize food prices.</p>
+
+## A peek behind the scenes of Canadian Ranger training
+ - [https://www.cbc.ca/news/canada/thunder-bay/a-peek-behind-the-scenes-of-canadian-ranger-training-1.7005989?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/a-peek-behind-the-scenes-of-canadian-ranger-training-1.7005989?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T08:42:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/917/539/rangers_169.jpg" title="" width="620" /><p>The Canadian Rangers work closely with the OPP in emergency situations and provide on-the-ground assistance in northern Ontario's remote communities. The CBC's Jasmine Kabatay made the trek to Rinker Lake, just north of Thunder Bay, to see them in action.</p>
+
+## Alberta paleontologists studying rare horse and camel fossils
+ - [https://www.cbc.ca/news/canada/edmonton/royal-alberta-museum-paleontology-camels-horses-1.7003010?cmp=rss](https://www.cbc.ca/news/canada/edmonton/royal-alberta-museum-paleontology-camels-horses-1.7003010?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T08:00:00+00:00
+
+<img alt="Skeleton of prehistoric camel" height="349" src="https://i.cbc.ca/1.7005679.1698098464!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/skeleton-of-prehistoric-camel-ram.jpg" title="A skeleton of a prehistoric camel, Camelops hesternus, exhibited at the Royal Alberta Museum. It evolved around 4 million years ago and disappeared some 100,000 years ago. The skeleton is contemporaneous with camel fossils found at Big Stone. " width="620" /><p>Fossils found in a gravel pit at Big Stone offer a glimpse into a little-known time in Alberta's prehistory, scientists say.</p>
+
+## Air force will have to wait even longer to get armed drones, defence department says
+ - [https://www.cbc.ca/news/politics/mq-9-reaper-drone-canadian-forces-1.7005625?cmp=rss](https://www.cbc.ca/news/politics/mq-9-reaper-drone-canadian-forces-1.7005625?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T04:00:00+00:00
+
+<img alt="A U.S. MQ-9 drone is on display during an air show at Kandahar Airfield, Afghanistan, Tuesday, Jan. 23, 2018." height="349" src="https://i.cbc.ca/1.7005619.1698095811!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg" title="A U.S. MQ-9 drone is on display during an air show at Kandahar Airfield, Afghanistan, Tuesday, Jan. 23, 2018." width="620" /><p>Canada's air force will have to wait a few extra years to get the armed drones it has been promised for more than a decade — because, among other things, the pilotless aircraft require special modifications to fly in the Far North.</p>
+
+## City of Markham apologizes after cancelling public artwork featuring queer subject in drag
+ - [https://www.cbc.ca/news/canada/toronto/markham-public-art-cancellaton-1.7005280?cmp=rss](https://www.cbc.ca/news/canada/toronto/markham-public-art-cancellaton-1.7005280?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T04:00:00+00:00
+
+<img alt="A large artwork hangs outside a sports complex. On the right side of the image, a person is pictured on all fours in only underwear and a bandana. On the left side, the same person is shown lying on their side, wearing a baseball hat and jersey, diamond tights and high-heeled shoes." height="349" src="https://i.cbc.ca/1.7005309.1698084913!/fileImage/httpImage/image.JPEG_gen/derivatives/16x9_620/julian-hou-bicycle-rendering.JPEG" title="A digital rendering of the artwork “Bicycle” by Julian Yi-Zhong Hou shows it installed outside the Pan Am Centre in Markham, Ont. The artwork, which was developed in collaboration with Markham&apos;s public art curator for the Façade project, was abruptly cancelled one day before it was set to be installed and just days before a planned launch event. " width="620" /><p>The City of Markham's sudden, last-minute cancellation of a piece of public artwork one year in the making has the artist — and his subject — concerned about censorship.</p>
+
+## Former N.W.T. priest gets 2 years jail for indecent assault against child in Fort Simpson 40 years ago
+ - [https://www.cbc.ca/news/canada/north/pich%C3%A9-sentenced-fort-simpson-assault-1.7005726?cmp=rss](https://www.cbc.ca/news/canada/north/pich%C3%A9-sentenced-fort-simpson-assault-1.7005726?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T04:00:00+00:00
+
+<img alt="A black and white photo of a priest at a pulpit inside a church." height="349" src="https://i.cbc.ca/1.6770161.1678148616!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/camille-piche.JPG" title="Camille Piché, a priest with the Missionary Oblates of Mary Immaculate, has been charged with a historic indecent assault dating back to the &apos;80s. " width="620" /><p>Camille Piché, who worked as a priest in the N.W.T., has been sentenced to two years in custody for indecent assault. The assault occurred 40 years ago and the victim was a child whose home Piché visited regularly.</p>
+
+## Global shift toward clean energy is picking up speed, new report says
+ - [https://www.cbc.ca/news/climate/iea-report-world-energy-outlook-2023-1.7005194?cmp=rss](https://www.cbc.ca/news/climate/iea-report-world-energy-outlook-2023-1.7005194?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T04:00:00+00:00
+
+<img alt="A solar technician walks through solar panels." height="349" src="https://i.cbc.ca/1.7005393.1698088016!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/africa-solar-energy.jpg" title="A technician examines solar panels on the roof of a company in Nairobi, Kenya, last month. " width="620" /><p>The way the world is powered will change dramatically by the end of the decade, thanks to surging demand for electric vehicles and clean energy technologies, a new report from the International Energy Agency says. But experts say Canada should be doing more.</p>
+
+## India's math on 'diplomatic parity' with Canada may not add up
+ - [https://www.cbc.ca/news/politics/india-canada-embassies-diplomats-1.7005303?cmp=rss](https://www.cbc.ca/news/politics/india-canada-embassies-diplomats-1.7005303?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-10-24T04:00:00+00:00
+
+<img alt="An Indian paramilitary soldier stands guard next to a police barricade outside the Canadian High Commission in New Delhi, India, Tuesday, Sept. 19, 2023. Tensions between India and Canada are high after Prime Minister Justin Trudeau&apos;s government expelled a top Indian diplomat and accused India of having links to the assassination in Canada of Sikh leader Hardeep Singh Nijjar, a strong supporter of an independent Sikh homeland." height="349" src="https://i.cbc.ca/1.7005598.1698148729!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-canada-sikh-slain.jpg" title="An Indian paramilitary soldier stands guard next to a police barricade outside the Canadian High Commission in New Delhi, India, Tuesday, Sept. 19, 2023. Tensions between India and Canada are high after Prime Minister Justin Trudeau&apos;s government expelled a top Indian diplomat and accused India of having links to the assassination in Canada of Sikh leader Hardeep Singh Nijjar, a strong supporter 
+
