@@ -1,0 +1,123 @@
+# Source:Louder With Crowder, URL:http://louderwithcrowder.com/feed/, language:en-US
+
+## Man Pretends To Be Store Mannequin Before Going On Mall Shopping Spree
+ - [https://www.louderwithcrowder.com/poland-mannequin-thief](https://www.louderwithcrowder.com/poland-mannequin-thief)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T22:16:49+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50304765&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C46" /><br /><br /><p>We have some crimes of fashion going on in Poland. </p><p>A 22-year-old man<a href="https://nypost.com/2023/10/19/man-pretending-to-be-mannequin-accused-of-robbing-malls/" rel="noopener noreferrer" target="_blank"> has been arrested</a> after he pretended to be a mannequin before stealing from a shopping center after it closed, police in Warsaw have said. Polish police said that mall employees and shoppers failed to notice anything unusual as the man stood frozen in the window. </p><p>Police have not released his name but we shall call him "Manny Quinn" for the purpose of this story. </p><p>Unfortunately, is not what you call a "model citizen." </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/nowthisnews/status/1715451066115108887"></a>
+</blockquote>
+
+
+## Chicago Tops Rattiest Cities List For Ninth Consecutive Year
+ - [https://www.louderwithcrowder.com/rattiest-chicago-city](https://www.louderwithcrowder.com/rattiest-chicago-city)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T22:06:01+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50304735&amp;width=1245&amp;height=700&amp;coordinates=0%2C3%2C0%2C3" /><br /><br /><p>Rats are social creatures and need the company of other rats. This is why rats love Democrat-run cities where there is no shortage of them. In fact, the top 10 most rat-infested cities in the U.S. are run by Democrats. Or should we say, DemocRATS? </p><p>Time to switch out the donkey for a rodent. There’s a reason it’s called the “swamp.” </p><p>For the 9th consecutive year, Chicago gets the gold as it topped the list of <a href="https://www.orkin.com/press-room/top-rodent-infested-cities-2023" rel="noopener noreferrer" target="_blank">Orkin's </a>annual "Top 50 Rattiest Cities List," a press release from the Pest Control company said.</p><p>Of course, we are not surprised since Democrats always win the rat race. </p><p>And that's without counting the rodents! </p><p>Cong-rats to Chicago! We were wondering why it was becoming so
+
+## DEBUNKED: Israel Is Withholding Fuel From Gaza Citizens
+ - [https://www.louderwithcrowder.com/debunked-israel-is-withholding-fuel-from-gaza-citizens](https://www.louderwithcrowder.com/debunked-israel-is-withholding-fuel-from-gaza-citizens)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T22:01:21+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50304709&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C2" /><br /><br /><p>The truth is Hamas is to blame...</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">DEBUNKED: Israel Is Withholding Fuel From Gaza Citizens</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=y30mQUo0zMI" target="_blank">www.youtube.com</a>
+</small>
+</p>
+
+## Iceland's Prime Minister Goes On Strike Over Something Called “Gender Equality”
+ - [https://www.louderwithcrowder.com/iceland-gender-strike](https://www.louderwithcrowder.com/iceland-gender-strike)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T20:17:05+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50304321&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Question for progressives: How can the gender pay gap exist if gender is not real? </p><p>It’s nothing new that everyone in the Western world is forced to listen to an endless parade of whining from those who continue to claim they are victims in an effort to stay relevant and get attention.</p><p>Obviously, Women are not discriminated against when it comes to wages. We have all the facts and <a href="https://www.bls.gov/opub/reports/womens-earnings/archive/highlights-of-womens-earnings-in-2013.pdf" target="_blank">data </a>to back up those claims but we really don't need it to prove our point. Because anyone with half a brain would know that if women earned less than men, why would anyone hire men? Why wouldn’t employers only hire women if it costs less? </p><p>Progressives like Icelandic Prime Minister Katrin Jakobsdóttir will
+
+## Biden Admin Release Over A Quarter Million INADMISSIBLE Aliens Into America Thanks To CBP App: Report
+ - [https://www.louderwithcrowder.com/cbp-app-aliens](https://www.louderwithcrowder.com/cbp-app-aliens)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T20:06:59+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50304273&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>The band played on. </p><p>DHS <a href="https://homeland.house.gov/2023/10/23/new-documents-obtained-by-homeland-majority-detail-shocking-abuse-of-cbp-one-app/" rel="noopener noreferrer" target="_blank">documents obtained </a>by the House Committee on Homeland Security revealed that hundreds of thousands of inadmissible aliens, including from “hostile nations like Russia,” were released into the interior of the U.S. </p><p>Why even gaslight people at this point? The Biden Administration should just admit that we <a href="https://www.heritage.org/immigration/commentary/shocking-cost-the-illegal-immigration-crisis-americans" rel="noopener noreferrer" target="_blank">have open borders</a>. If the government has made our immigration laws de facto <a href="https://www.louderwithcrowder.com/trump-border-plan" target="_self">pointless<
+
+## ACLU Supports Prostitutes From Knowingly Spreading HIV, Sues Over Tennesee Law That "Disproportalely Affects Black And Trans"
+ - [https://www.louderwithcrowder.com/aclu-lawsuit-hiv](https://www.louderwithcrowder.com/aclu-lawsuit-hiv)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T18:11:29+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50303330&amp;width=1245&amp;height=700&amp;coordinates=4%2C0%2C0%2C0" /><br /><br /><p>It turns out, the ACLU may be more racist and transphobic than we thought. </p><p>On Tuesday, the ACLU basically claimed that black and trans people are more likely to intentionally infect someone with HIV. But that this purposeful act is justified because the aforementioned black and trans people are only doing this because they are disabled and probably didn't know better. </p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/Cernovich/status/1716914539818824165"></a>
+</blockquote>
+<p>And because of the ACLU’s soft bigotry of low expectations, they believe the crime of knowingly infecting someone with this incurable virus should be condoned because this is a "protected disability." </p><p>No, I am not kidding. They really said that. </p><p>Oh, and if you 
+
+## Man who laughed at Jewish woman after ripping down her hostage posters gets suspended from job. By his dad. Who's Jewish.
+ - [https://www.louderwithcrowder.com/man-suspended-from-job-posters](https://www.louderwithcrowder.com/man-suspended-from-job-posters)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T17:19:22+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50302186&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>
+	One of the more dickish things antisemites (aka moderate NYC progressives) have been doing is ripping down posters of the children who were kidnapped by Hamas. On October 7th, Hamas led a savage massacre where 1400 Israelis were slaughtered - women raped, families burned alive, and infants beheaded.
+</p><p>
+	People who hate Jews more than they were offended by these actions have been tearing down posters. One of these schmucks just got suspended from his job. Turns out his dad, who is his boss, saw the video. Also, his dad's Jewish.
+</p><p>Tearing down the posters was a dickish thing to do. Not to be confused with the more evil thing of marching through Jewish neighborhoods calling for their demise.</p><blockquote class="rm-embed twitter-tweet">
+<div style="margin: 1em 0;"></div> —  (@)
+        <a href="https://twitter.com/The
+
+## Watch: Property Taxes And How The Government Ties Owning Your Own  Home To The Indoctrination Of Your Children
+ - [https://www.louderwithcrowder.com/property-taxes-education](https://www.louderwithcrowder.com/property-taxes-education)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T16:54:09+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50302211&amp;width=1200&amp;height=800&amp;coordinates=100%2C0%2C100%2C0" /><br /><br /><p>Today’s show got into how owning your home and paying taxes finances the indoctrination of your children in America's schools.</p><p class="shortcode-media shortcode-media-rumble">
+
+</p><p>The American dream is not dead, at least not yet. </p><p>"It really is long-term theft. You don't really get to own anything. That is compounded by the fact that you may not be able to own homes in the future considering what the rates are these days," said Crowder. </p><p>Basically, the cards are stacked against Americans these days. </p><p>“If you believe the American dream is dead, you are probably looking in the wrong places. There are ways to make it work. That being said, homeownership is a huge component of that,” Crowder said. </p><p>Property taxes make it feel or seem much more like renting. This is even true in Texas. </p><p>In h
+
+## Video captures brazen shoplifter attempting to steal AN ENTIRE tortilla chip stand, not once but TWICE
+ - [https://www.louderwithcrowder.com/taki-chips](https://www.louderwithcrowder.com/taki-chips)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T14:19:46+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50300997&amp;width=1200&amp;height=400&amp;coordinates=0%2C0%2C0%2C294" /><br /><br /><p>A... let's call them a person for now... had a mad case of the munchies. So they attempted to steal an ENTIRE rack of Taki chips. Out the front door. And when this person --- let's call them Pat --- was foiled by security, made a second attempt. We here at the Louder with Crowder Dot Com website would never endorse or cheer on criminal behavior. Though we do salute Pat's moxie. If not their complete lack of self-awareness.</p><p>Yes, I'm purposely playing the pronoun game.</p><p>My favorite part of the video is what we don't see. Someone had their camera out before Pat ran into the store. That means Pat was outside the store, either psyching themselves up or getting psyched up to go for it. Pat ran into the bodega like they were entering an octagon. They were leaving with the ENTIRE rack of Taki if it was the last thing they d
+
+## INVASION: Record Number of Terrorists Captured at US Southern Border!
+ - [https://www.louderwithcrowder.com/invasion-terrorists-southern-border](https://www.louderwithcrowder.com/invasion-terrorists-southern-border)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T13:28:04+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50300789&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C2" /><br /><br /><p>This can't be good. </p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" style="display: block; padding-top: 56.25%;"></span>
+<small class="image-media media-caption">INVASION: Record Number of Terrorists Captured at US Southern Border!</small>
+<small class="image-media media-photo-credit">
+<a href="https://www.youtube.com/watch?v=-dnGaNc4Bno" target="_blank">www.youtube.com</a>
+</small>
+</p>
+
+## Watch Today's Show: Hamas Denies Resources to Gaza & Trump Attacks RINO Speaker Candidate!
+ - [https://www.louderwithcrowder.com/house-speaker-trump-louder-crowder](https://www.louderwithcrowder.com/house-speaker-trump-louder-crowder)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T13:22:11+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=50300770&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C1" /><br /><br /><p>An NBA Referee came out as the league's first trans-non-binary referee in a 3,700 word GQ article, House Speaker candidate Representative Tom Emmer in & out, Trump's epic Truth Social rants, how owning your home finances the indoctrination of your children in America's schools, and more! <br /></p><p class="shortcode-media shortcode-media-rumble">
+
+</p><p><strong>TRANS NON-BINARY REFEREE</strong></p><ul><li><a href="https://www.gq.com/story/che-flores-nba-referee" rel="noopener noreferrer" target="_blank">NBA Referee Che Flores on Becoming the First Out Trans and Nonbinary Ref in American Pro Sports</a></li></ul><p><strong>SPEAKER’S RACE</strong></p><ul><li><a href="https://www.youtube.com/watch?v=kUfDKT-z-M8" rel="noopener noreferrer" target="_blank">House Republicans nominate Rep. Tom Emmer for next speaker in internal vote</a
+
+## Watch: Cop swoops in to prevent woman from showing sexually explicit images the school board allows in children's libraries
+ - [https://www.louderwithcrowder.com/school-board-cop](https://www.louderwithcrowder.com/school-board-cop)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T12:51:06+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50299667&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>This is not the first time we've seen a parent <a href="https://www.louderwithcrowder.com/nbc-news-defends-teacher" target="_blank">share explicit material made available by schools to children</a>. Sadly. This isn't the first time that <a href="https://www.louderwithcrowder.com/school-board-pastor-north-carolina" target="_blank">a parent has been prevented from doing so</a>, sending a message that it's appropriate for children in school but NOT for the adults who allow it. Also sadly.</p><p>However, this is the first time police have gotten involved.</p><p>At Hillsborough County schools, a mother wanted to draw attention to the review process where board members approved the book <em>Blankets</em> for school children. It is a graphic novel about a young man coming of age and finding the confidence to express his creative voice.
+
+## Bud Light is so desperate to win back customers, they are giving the UFC $100 Million
+ - [https://www.louderwithcrowder.com/ufc-bud-light](https://www.louderwithcrowder.com/ufc-bud-light)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2023-10-25T11:53:46+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50298149&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0" /><br /><br /><p>Bud Light is having the worst year in 2023. Unless you count the middle class in America as one collective. A misguided marketing stunt with a controversial titface performer set off a chain of events that saw the company lose B-B-B-B-Billions of dollars and get knocked off as the #1 beer in America. In a play to win back fans, they a turning to the UFC.</p><p>And giving the UFC a HUNDRED MILLION DOLLARS in a sponsorship deal. Keep that number in mind when we get to Dana White's comment about core values.</p><h3>Bud Light's Keys to DERPtory</h3><br /><img alt="" class="rm-shortcode" id="f0a4e" src="https://www.louderwithcrowder.com/media-library/image.gif?id=50298434&amp;width=980" /><p>In case you missed the Bud Light drama:</p><p>1. Social media erupted in mockery when the beer <a href="https://www.louderwithcrowder.com/bud-li
+
