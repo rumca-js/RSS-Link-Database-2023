@@ -1,0 +1,354 @@
+# Source:RT - Daily news, URL:https://www.rt.com/rss/, language:en
+
+## Gaza suffers near-total information blackout
+ - [https://www.rt.com/news/586012-gaza-internet-communication-blackout/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586012-gaza-internet-communication-blackout/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T23:47:57+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c4c3585f54029b42283ab.jpg" style="margin-right: 10px;" /> The Gaza Strip has suffered a near-total blackout of internet and cell phone services, after Israel “expanded” its war against Hamas <br /><a href="https://www.rt.com/news/586012-gaza-internet-communication-blackout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## CIA-backed spies shot former Ukrainian MP – BBC
+ - [https://www.rt.com/russia/586011-ukraine-tsarev-assassination-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/586011-ukraine-tsarev-assassination-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T23:14:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c447720302759ed6527da.jpg" style="margin-right: 10px;" /> The US-supported Security Service of Ukraine (SBU) has claimed the attempted murder of former parliamentarian Oleg Tsarev <br /><a href="https://www.rt.com/russia/586011-ukraine-tsarev-assassination-attempt/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kids’ game haven for terrorism, says Israel
+ - [https://www.rt.com/news/586006-israel-roblox-palestinian-protests-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586006-israel-roblox-palestinian-protests-terrorism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T22:15:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c3584203027134045d190.jpeg" style="margin-right: 10px;" /> Israeli Roblox players have been attacked by players with Palestinian and Saudi flags, the Ministry of National Security claims <br /><a href="https://www.rt.com/news/586006-israel-roblox-palestinian-protests-terrorism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Lukashenko names Ukraine’s biggest problem
+ - [https://www.rt.com/russia/585994-lukashenko-ukraine-weapons-people-problem/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585994-lukashenko-ukraine-weapons-people-problem/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T22:09:31+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c345285f5401e967760e6.jpg" style="margin-right: 10px;" /> Kiev is running out of men even faster than Western-supplied ammunition, the leader of Belarus has said <br /><a href="https://www.rt.com/russia/585994-lukashenko-ukraine-weapons-people-problem/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Mass grave of WWII victims of Ukrainian Nazi collaborators found – Warsaw
+ - [https://www.rt.com/news/585999-mass-grave-victims-ukrainian-nazi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585999-mass-grave-victims-ukrainian-nazi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T21:01:50+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c24b22030271df847154b.jpg" style="margin-right: 10px;" /> Researchers have found a pit filled with the remains of Poles killed by Ukrainian nationalists during WWII, Warsaw has said <br /><a href="https://www.rt.com/news/585999-mass-grave-victims-ukrainian-nazi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ivanka Trump ordered to testify at her father’s trial
+ - [https://www.rt.com/news/585993-ivanka-trump-fraud-trial/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585993-ivanka-trump-fraud-trial/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T20:31:29+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c157c2030277d7264490d.jpg" style="margin-right: 10px;" /> Former US President Donald Trump’s daughter, Ivanka, has been ordered by a New York judge to testify in her father’s fraud trial <br /><a href="https://www.rt.com/news/585993-ivanka-trump-fraud-trial/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## 'Putin has died of a heart attack': Inside the Western media's 'intelligence sources' and their fake news about Russia
+ - [https://www.rt.com/russia/585989-putin-had-cardiac-arrest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585989-putin-had-cardiac-arrest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T20:30:14+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653c1d5185f5403d4a701ba2.jpg" style="margin-right: 10px;" /> What do Western media base their stories on when they write about the Russian president’s health? <br /><a href="https://www.rt.com/russia/585989-putin-had-cardiac-arrest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia to prosecute fugitive banker over $1 billion theft
+ - [https://www.rt.com/russia/585986-pugachev-banker-sued-embezzlement/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585986-pugachev-banker-sued-embezzlement/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T19:20:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bfac485f54037c143b9ab.jpg" style="margin-right: 10px;" /> Moscow will try Sergey Pugachev in absentia for embezzlement and abuse of power in the 2010 Mezhprombank scandal <br /><a href="https://www.rt.com/russia/585986-pugachev-banker-sued-embezzlement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Remote Russian region bans Halloween
+ - [https://www.rt.com/russia/585988-russian-region-ban-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585988-russian-region-ban-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T18:22:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bfea620302709e8605427.jpg" style="margin-right: 10px;" /> The Russian region of Yakutia has advised educational facilities not to celebrate Halloween, citing the need to foster national traditions <br /><a href="https://www.rt.com/russia/585988-russian-region-ban-halloween/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia appoints replacement for General Surovikin
+ - [https://www.rt.com/russia/585980-surovikin-replacement-general-afzalov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585980-surovikin-replacement-general-afzalov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T17:46:08+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653be74f85f54035f83fb028.jpg" style="margin-right: 10px;" /> General Viktor Afzalov has been confirmed as the new head of the Russian Aerospace Forces, officially replacing Sergey Surovikin <br /><a href="https://www.rt.com/russia/585980-surovikin-replacement-general-afzalov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel ‘expanding’ operations in Gaza – IDF
+ - [https://www.rt.com/news/585984-idf-expands-gaza-operation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585984-idf-expands-gaza-operation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T17:41:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg" style="margin-right: 10px;" /> Israeli ground forces will ramp up their activity in Gaza on Friday night, IDF spokesman Daniel Hagari told reporters <br /><a href="https://www.rt.com/news/585984-idf-expands-gaza-operation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU state’s leader explains why he opposes €50 billion Ukraine aid
+ - [https://www.rt.com/news/585982-orban-block-ukraine-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585982-orban-block-ukraine-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T17:23:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bf1742030277daf74d621.jpg" style="margin-right: 10px;" /> Hungarian Prime Minister Viktor Orban said that he blocked a €50 billion EU aid package for Kiev because Ukraine cannot defeat Russia <br /><a href="https://www.rt.com/news/585982-orban-block-ukraine-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ex-Ukrainian MP shot in Crimea
+ - [https://www.rt.com/russia/585978-oleg-tsarev-assasination-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585978-oleg-tsarev-assasination-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T16:13:52+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653be0cc20302704a225bc59.jpg" style="margin-right: 10px;" /> Former Rada deputy Oleg Tsarev is in critical condition after being shot in an apparent assassination attempt in the city of Yalta <br /><a href="https://www.rt.com/russia/585978-oleg-tsarev-assasination-attempt/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US trying to block Chinese access to African resources – FT
+ - [https://www.rt.com/africa/585977-us-china-africa-mineral-resources/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/585977-us-china-africa-mineral-resources/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T16:11:50+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bdfa520302779de6c4e77.jpg" style="margin-right: 10px;" /> Cobalt and copper mine sales in DR Congo have reignited the economic rivalry between Washington and Beijing
+
+  <br /><a href="https://www.rt.com/africa/585977-us-china-africa-mineral-resources/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## First battalion of former Ukrainian soldiers to join Russian forces – media
+ - [https://www.rt.com/russia/585976-former-ukrainian-soldiers-join-russian/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585976-former-ukrainian-soldiers-join-russian/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T16:02:57+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bde42203027134045d14f.jpg" style="margin-right: 10px;" /> A battalion of former Ukrainian soldiers has volunteered to fight for Moscow and will join the Russian forces, RIA Novosti reports <br /><a href="https://www.rt.com/russia/585976-former-ukrainian-soldiers-join-russian/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Experts fear Ukraine will run out of ammo in 2024 – Le Monde
+ - [https://www.rt.com/russia/585972-ukraine-run-out-ammunition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585972-ukraine-run-out-ammunition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T16:01:14+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bd2212030277d726448f5.jpg" style="margin-right: 10px;" /> The Ukrainian military will run out of ammunition in 2024 and the West will be unable to meet Kiev’s demands until 2025, Le Monde reports <br /><a href="https://www.rt.com/russia/585972-ukraine-run-out-ammunition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Iran kicks off major war games (VIDEO)
+ - [https://www.rt.com/news/585962-iran-military-exercises-tensions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585962-iran-military-exercises-tensions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T15:15:55+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bc48685f54067983ecb92.jpg" style="margin-right: 10px;" /> Iran has started major war games amid the ongoing conflict between Hamas and Israel  <br /><a href="https://www.rt.com/news/585962-iran-military-exercises-tensions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel could be committing war crimes – UN human rights body
+ - [https://www.rt.com/news/585967-un-israel-war-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585967-un-israel-war-crimes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T14:58:39+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bc5122030277ba97faa25.jpg" style="margin-right: 10px;" /> The UN Human Rights Office has said it is concerned that war crimes are being committed in the conflict between Israel and Hamas <br /><a href="https://www.rt.com/news/585967-un-israel-war-crimes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel accuses Amnesty International of anti-Semitism – Politico
+ - [https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T14:41:44+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bc53120302779de6c4e5c.jpg" style="margin-right: 10px;" /> Israel called Amnesty International “anti-Semitic” for saying that war crimes have been committed by “all parties” in the conflict <br /><a href="https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Germany warns EU about overspending – Bloomberg
+ - [https://www.rt.com/business/585960-eu-overspending-germany-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/585960-eu-overspending-germany-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T14:31:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bba5420302704a225bc48.jpg" style="margin-right: 10px;" /> German Chancellor Olaf Scholz has reportedly called on EU members to get serious about curbing expenditures <br /><a href="https://www.rt.com/business/585960-eu-overspending-germany-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Over 2,000 Ukrainian officials have attempted to flee this year – border service
+ - [https://www.rt.com/russia/585954-ukraine-officials-draft-dodgers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585954-ukraine-officials-draft-dodgers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T14:28:48+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bb26d85f5404821337cf6.jpg" style="margin-right: 10px;" /> The Ukrainian border guard service has revealed the number of attempts to illegally leave the country by civil servants this year <br /><a href="https://www.rt.com/russia/585954-ukraine-officials-draft-dodgers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## First Southeast Asian country plans to legalize gay marriage
+ - [https://www.rt.com/news/585958-thailand-gay-marriage-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585958-thailand-gay-marriage-bill/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T14:12:35+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bb86520302721ab36b8ec.jpg" style="margin-right: 10px;" /> Thai Prime Minister Srettha Thavisin will introduce bills to legalize gay marriage, prostitution, and sex changes <br /><a href="https://www.rt.com/news/585958-thailand-gay-marriage-bill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Largest UK energy producer warns of 70% price rise
+ - [https://www.rt.com/business/585944-uk-electricity-prices-hike-wind/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/585944-uk-electricity-prices-hike-wind/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T13:53:37+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bab7b20302779de6c4e51.jpg" style="margin-right: 10px;" /> The UK’s biggest power provider has said London should hike the price offered to wind farm operators to encourage expansion <br /><a href="https://www.rt.com/business/585944-uk-electricity-prices-hike-wind/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukraine supporter attacks Dutch MP (VIDEO)
+ - [https://www.rt.com/news/585961-ukraine-supporter-attacks-dutch-mp/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585961-ukraine-supporter-attacks-dutch-mp/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T13:45:38+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bbd6d85f5403d4a701b89.jpg" style="margin-right: 10px;" /> An unknown man who shouted anti-Putin slogans in Ukrainian attacked right-wing Dutch MP Thierry Baudet before a lecture in Belgium <br /><a href="https://www.rt.com/news/585961-ukraine-supporter-attacks-dutch-mp/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## West African bloc ‘quietly’ withdraws forces deployed against Niger – media
+ - [https://www.rt.com/africa/585955-ecowas-niger-military-intervention/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/585955-ecowas-niger-military-intervention/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T13:33:38+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653bb85e85f5404821337cff.jpg" style="margin-right: 10px;" /> West African regional bloc ECOWAS is reportedly demobilizing forces deployed for potential military action in Niger as member states opt out <br /><a href="https://www.rt.com/africa/585955-ecowas-niger-military-intervention/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## China to snub Zelensky’s ‘peace’ meeting – Bloomberg
+ - [https://www.rt.com/news/585952-china-snub-zelensky-peace-summit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585952-china-snub-zelensky-peace-summit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T12:14:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653ba5a820302721ab36b8de.jpg" style="margin-right: 10px;" /> China is unlikely to attend a major summit on the Ukraine conflict hosted by Malta, Bloomberg has reported <br /><a href="https://www.rt.com/news/585952-china-snub-zelensky-peace-summit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kiev’s attack on Russian nuclear facility thwarted – officials
+ - [https://www.rt.com/russia/585949-kurchatov-drone-attack-nuclear/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585949-kurchatov-drone-attack-nuclear/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T11:58:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b9b1920302779de6c4e44.jpg" style="margin-right: 10px;" /> Several Ukrainian drones were eliminated near Russia’s Kursk nuclear power plant, officials have reported <br /><a href="https://www.rt.com/russia/585949-kurchatov-drone-attack-nuclear/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel to pass law allowing state to kill its own citizens – media
+ - [https://www.rt.com/news/585947-israel-police-live-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585947-israel-police-live-fire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T11:24:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b9c462030277d811acac3.jpg" style="margin-right: 10px;" /> Police will only need permission from their commander to shoot at protesters under new rules to be introduced in Israel, Kan has reported <br /><a href="https://www.rt.com/news/585947-israel-police-live-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Two NATO states blocked €50 billion Ukraine aid – Politico
+ - [https://www.rt.com/news/585951-nato-states-blocked-ukraine-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585951-nato-states-blocked-ukraine-aid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T11:22:21+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b9bc985f54037c143b990.jpg" style="margin-right: 10px;" /> Slovakia and Hungary reportedly blocked the European Union from giving Kiev €50 billion in aid <br /><a href="https://www.rt.com/news/585951-nato-states-blocked-ukraine-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Israel bombing ‘everything but Hamas in Gaza’ – Jackson Hinkle
+ - [https://www.rt.com/news/585948-israel-forcing-palestinians-out-hinkle/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585948-israel-forcing-palestinians-out-hinkle/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T11:13:25+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b99fa2030277daf74d5ff.jpg" style="margin-right: 10px;" /> Political analyst Jackson Hinkle has suggested Israel continues to bomb Gaza because its true goal is to drive Palestinians out of the area <br /><a href="https://www.rt.com/news/585948-israel-forcing-palestinians-out-hinkle/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Central Bank of Russia hikes key interest rate
+ - [https://www.rt.com/business/585942-russia-interest-rate-hike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/585942-russia-interest-rate-hike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T10:54:19+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b955285f5403ea34e1618.jpg" style="margin-right: 10px;" /> The Russian central bank has once again raised its benchmark rate, citing inflationary pressure <br /><a href="https://www.rt.com/business/585942-russia-interest-rate-hike/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India to deploy border surveillance drones after Hamas attack on Israel – Bloomberg
+ - [https://www.rt.com/india/585943-india-border-surveillance-drones-pakistan-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/585943-india-border-surveillance-drones-pakistan-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T10:48:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b941b2030271df847151c.jpg" style="margin-right: 10px;" /> A border surveillance system, which could cost India $500 million each year, is expected to be in place by May <br /><a href="https://www.rt.com/india/585943-india-border-surveillance-drones-pakistan-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US sanctions are ‘nonsense’ – Zimbabwean official
+ - [https://www.rt.com/africa/585933-us-sanctions-protest-zimbabwe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/585933-us-sanctions-protest-zimbabwe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T10:14:07+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b80f820302709e86053d1.jpg" style="margin-right: 10px;" /> Zimbabweans took to the streets to protest against Western sanctions on Wednesday <br /><a href="https://www.rt.com/africa/585933-us-sanctions-protest-zimbabwe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Baltic state moves closer to confiscating Russian cars
+ - [https://www.rt.com/russia/585935-latvia-eu-russian-cars-confiscate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585935-latvia-eu-russian-cars-confiscate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T10:09:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b8bf62030277d811acab7.jpg" style="margin-right: 10px;" /> Latvia’s parliament has supported a bill that could see Russian-registered cars seized and handed over to Ukraine <br /><a href="https://www.rt.com/russia/585935-latvia-eu-russian-cars-confiscate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## MEPs propose ‘creative’ way to arm Ukraine
+ - [https://www.rt.com/news/585936-ukraine-arms-libya-embargo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585936-ukraine-arms-libya-embargo/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T10:06:47+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b885085f54029b4228359.jpg" style="margin-right: 10px;" /> Dutch MEP Bart Groothuis is urging the EU to give Kiev weaponry seized for allegedly violating a UN arms embargo against Libya <br /><a href="https://www.rt.com/news/585936-ukraine-arms-libya-embargo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## French diesel demand collapsing
+ - [https://www.rt.com/business/585852-french-diesel-demand-collapsing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/585852-french-diesel-demand-collapsing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T10:02:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653a64f02030273a405e9d61.jpg" style="margin-right: 10px;" /> The decline in demand for diesel in France suggests the EU’s second-biggest economy is slowing <br /><a href="https://www.rt.com/business/585852-french-diesel-demand-collapsing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Tunisia could criminalize calls for ‘normalization’ with Israel
+ - [https://www.rt.com/africa/585934-tunisia-israel-ties-normalization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/585934-tunisia-israel-ties-normalization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T09:44:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b856420302709e86053e8.jpg" style="margin-right: 10px;" /> Tunisia’s parliament adopted a draft law making ties with Israel illegal, with penalties including life imprisonment <br /><a href="https://www.rt.com/africa/585934-tunisia-israel-ties-normalization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Gaza Health Ministry publishes names of Israeli strike victims
+ - [https://www.rt.com/news/585929-gaza-names-biden-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585929-gaza-names-biden-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T08:50:09+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b707a85f5405e1e1382e9.jpg" style="margin-right: 10px;" /> The Gaza Health Ministry says it has published a list of those killed in Israeli strikes to show that the Palestinians are “not nobodies” <br /><a href="https://www.rt.com/news/585929-gaza-names-biden-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ayodhya’s reincarnation: Massive temple construction brings cultural and economic boom to this rural town from the Ramayana
+ - [https://www.rt.com/india/585882-india-renewal-cultural-renaissance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/585882-india-renewal-cultural-renaissance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T08:35:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b5e7f85f540503313ae55.jpg" style="margin-right: 10px;" /> Lord Rama’s birthplace will welcome international jets, superfast trains, upmarket hotels, and housing for Indian pilgrims from abroad <br /><a href="https://www.rt.com/india/585882-india-renewal-cultural-renaissance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Netanyahu delaying Gaza ground invasion plans – NYT
+ - [https://www.rt.com/news/585930-netanyahu-gaza-plan-nyt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585930-netanyahu-gaza-plan-nyt/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T08:28:01+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b6d4785f5401e9677609f.jpg" style="margin-right: 10px;" /> The New York Times has described divisions in the Israeli government over how to pursue the war with Hamas <br /><a href="https://www.rt.com/news/585930-netanyahu-gaza-plan-nyt/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Biden left US in the dark on Ukraine endgame – House Speaker
+ - [https://www.rt.com/news/585926-biden-ukraine-aid-endgame-republicans/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585926-biden-ukraine-aid-endgame-republicans/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T08:09:09+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b65062030270416021442.jpg" style="margin-right: 10px;" /> The White House has never been clear about what it wants to achieve in Ukraine, House Speaker Mike Johnson has said <br /><a href="https://www.rt.com/news/585926-biden-ukraine-aid-endgame-republicans/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian machine tool industry looks to recover Soviet era glory
+ - [https://www.rt.com/business/585870-russia-machinery-tool-demand-soars/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/585870-russia-machinery-tool-demand-soars/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T05:29:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653a7dff85f5401b57029880.jpg" style="margin-right: 10px;" /> Sanctions and military-related orders may help Russia’s machinery sector to become as powerful as its Soviet predecessor <br /><a href="https://www.rt.com/business/585870-russia-machinery-tool-demand-soars/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian alternative overtakes historic Coca-Cola sales
+ - [https://www.rt.com/business/585851-russian-brand-overtakes-coca-cola/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/585851-russian-brand-overtakes-coca-cola/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T05:29:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653a617520302737b12c503d.jpg" style="margin-right: 10px;" /> US soft-drink giant Coca-Cola has been successfully replaced by a local brand on the Russian market, according to a new study <br /><a href="https://www.rt.com/business/585851-russian-brand-overtakes-coca-cola/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU state's leader ‘proud’ of dialogue with Russia
+ - [https://www.rt.com/news/585918-orban-proud-dialogue-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585918-orban-proud-dialogue-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T05:01:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b3e2685f5405e1e1382d7.jpg" style="margin-right: 10px;" /> Hungarian Prime Minister Viktor Orban said he is “proud” to maintain good relations with Russia <br /><a href="https://www.rt.com/news/585918-orban-proud-dialogue-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Missile strikes Egyptian town near Israeli border
+ - [https://www.rt.com/news/585914-egypt-missile-israel-border/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585914-egypt-missile-israel-border/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T02:38:58+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b21bb2030271ade19450d.png" style="margin-right: 10px;" /> An unidentified missile has landed in the Egyptian Red Sea resort town of Taba, just across the border with Israel <br /><a href="https://www.rt.com/news/585914-egypt-missile-israel-border/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US strikes Syria in ‘self-defense’ – Pentagon
+ - [https://www.rt.com/news/585916-us-strikes-syria-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585916-us-strikes-syria-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T02:22:31+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg" style="margin-right: 10px;" /> President Joe Biden has ordered the US military to strike two facilities in eastern Syria, according to the Pentagon <br /><a href="https://www.rt.com/news/585916-us-strikes-syria-pentagon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Pentagon admits more attacks on US bases
+ - [https://www.rt.com/news/585913-pentagon-us-bases-troops/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585913-pentagon-us-bases-troops/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T02:15:05+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b10632030272c262a8193.jpg" style="margin-right: 10px;" /> The US military will deploy 900 soldiers to the Middle East to bolster “force protection” in the region, officials said <br /><a href="https://www.rt.com/news/585913-pentagon-us-bases-troops/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## What’s behind the alleged ‘Chinese bot’ operation in Canada?
+ - [https://www.rt.com/news/585806-chinese-bot-operation-canada/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585806-chinese-bot-operation-canada/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T01:05:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653a446085f5404b4651ab68.jpg" style="margin-right: 10px;" /> Ottawa accuses Beijing of running a social media operation against its politicians. It’s likely a pretext for more control and censorship <br /><a href="https://www.rt.com/news/585806-chinese-bot-operation-canada/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Zelensky losing support in Ukraine – poll
+ - [https://www.rt.com/russia/585911-ukraine-zelensky-popularity-poll/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/585911-ukraine-zelensky-popularity-poll/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T00:58:37+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.10/thumbnail/653b035e85f5404b5e252b53.jpg" style="margin-right: 10px;" /> A US-funded survey shows a nine-point loss in the Ukrainian president’s approval rating and disapproval more than doubling <br /><a href="https://www.rt.com/russia/585911-ukraine-zelensky-popularity-poll/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## China’s former premier dies of ‘sudden heart attack’
+ - [https://www.rt.com/news/585912-china-premier-li-keqiang-dies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585912-china-premier-li-keqiang-dies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-10-27T00:33:30+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg" style="margin-right: 10px;" /> China's number two leader for the past ten years, Li Keqiang, has passed away on Friday at the age of 68, according to state media <br /><a href="https://www.rt.com/news/585912-china-premier-li-keqiang-dies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+

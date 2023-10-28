@@ -1,0 +1,93 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Total Recall: Is Alan Wake Worth Playing Before Its Sequel?
+ - [https://kotaku.com/total-recall-alan-wake-twin-peaks-remedy-entertainment-1850964420](https://kotaku.com/total-recall-alan-wake-twin-peaks-remedy-entertainment-1850964420)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T21:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b6e332d8f2dee32d6faf2c2f02df7ace.jpg" /><p><a href="https://kotaku.com/total-recall-alan-wake-twin-peaks-remedy-entertainment-1850964420">Read more...</a></p>
+
+## Super Smash Bros. Got YouTuber Ludwig In Trouble With Nintendo
+ - [https://kotaku.com/nintendo-sue-youtuber-ludwig-super-smash-bros-melee-1850964570](https://kotaku.com/nintendo-sue-youtuber-ludwig-super-smash-bros-melee-1850964570)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T21:26:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/44aa42632dc2c3afea05a3066b65f6ae.jpg" /><p>Gaming YouTuber <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/youtube-streamer-ludwig-stolen-subaru-truck-reddit-1850180401">Ludwig Ahgren</a>, widely known as Ludwig, has claimed that Nintendo came for his throat with a “baby cease-and-desist” letter a few months ago. The move was prompted by modifications he wanted to make to the company’s supremely popular crossover fighter Super Smash Bros. Melee for the sake of a tournament…</p><p><a href="https://kotaku.com/nintendo-sue-youtuber-ludwig-super-smash-bros-melee-1850964570">Read more...</a></p>
+
+## Super Mario Bros. Wonder: The Kotaku Review
+ - [https://kotaku.com/super-mario-bros-wonder-review-switch-nintendo-kotaku-1850964104](https://kotaku.com/super-mario-bros-wonder-review-switch-nintendo-kotaku-1850964104)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T20:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dd103d8fff8384e01ed1768b76b9ae54.jpg" /><p>First, the bad news: Super Mario Bros. Wonder doesn’t cure covid-19. Trust me on that. But, if you ignore that one flaw and focus on everything else—the gorgeous graphics, the immensely creative levels, the pitch-perfect music—it’s easy to see this is one of Nintnedo’s best Mario games in years.</p><p><a href="https://kotaku.com/super-mario-bros-wonder-review-switch-nintendo-kotaku-1850964104">Read more...</a></p>
+
+## Try These Three Must-Play Games Before They Leave Game Pass
+ - [https://kotaku.com/xbox-game-pass-persona-5-leaving-1850963372](https://kotaku.com/xbox-game-pass-persona-5-leaving-1850963372)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5fb97d6e2a20a1c7c5a6f6e64ef2f416.jpg" /><p>Games routinely cycle in and out of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/xbox-game-pass-free-lies-of-p-gotham-knights-payday-3-1850854434">Game Pass every month</a>, but the Xbox subscription service is about to lose some really good ones. You have less than a week left to try Persona 5 Royal, Signalis, and Gunfire Reborn. Here’s why you should give them a try before they’re gone.</p><p><a href="https://kotaku.com/xbox-game-pass-persona-5-leaving-1850963372">Read more...</a></p>
+
+## Gold Coins Aren’t That Useful In Super Mario Bros. Wonder
+ - [https://kotaku.com/super-mario-bros-wonder-gold-coins-purple-flower-shop-1850963074](https://kotaku.com/super-mario-bros-wonder-gold-coins-purple-flower-shop-1850963074)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/31ea713d39d2da70b76610a93c6e4b77.jpg" /><p>Every Mario game has gold coins scattered around the Mushroom Kingdom for the fireball-throwing plumber to collect, and finding every last one is a big part of getting a perfect run of a level for some players. But in Super Mario Bros. Wonder, they’re not quite as useful as they once were, because a different currency…</p><p><a href="https://kotaku.com/super-mario-bros-wonder-gold-coins-purple-flower-shop-1850963074">Read more...</a></p>
+
+## Big Xbox Shakeup Might Avoid Another Redfall Debacle
+ - [https://kotaku.com/microsoft-xbox-bethesda-redfall-arkane-executives-1850962825](https://kotaku.com/microsoft-xbox-bethesda-redfall-arkane-executives-1850962825)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T16:35:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/918f66991a4753aa40a6cd0d1149b865.jpg" /><p>Today Microsoft announced a re-organization within its Xbox division that will see ZeniMax and Bethesda Game Studios report more directly to head of game services, Matt Booty. The shift comes after <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/xbox-redfall-game-pass-exclusive-shooter-bethesda-1850616260">vampire shooter Redfall was so poorly recieved</a> that Microsoft Gaming CEO Phil Spencer went on a fan podcast to publicly…</p><p><a href="https://kotaku.com/microsoft-xbox-bethesda-redfall-arkane-executives-1850962825">Read more...</a></p>
+
+## 2023's Best Horror Remake Just Landed On Xbox Game Pass
+ - [https://kotaku.com/xbox-game-pass-dead-space-remake-halloween-1850962591](https://kotaku.com/xbox-game-pass-dead-space-remake-halloween-1850962591)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/444338c73d44086130a18ddfc63fc9e3.jpg" /><p>If you are a Game Pass subscriber and need to play a spooky video game this Halloween worry not, because you now have access to one of this year’s best horror games: Dead Space.</p><p><a href="https://kotaku.com/xbox-game-pass-dead-space-remake-halloween-1850962591">Read more...</a></p>
+
+## Alan Wake 2's Epic Games Store Achievements Are Its Biggest Nightmare
+ - [https://kotaku.com/alan-wake-2-pc-epic-games-store-achievements-1850962519](https://kotaku.com/alan-wake-2-pc-epic-games-store-achievements-1850962519)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6dfcf4ccbd2589a128b50d4cda95f1bd.jpg" /><p>I am carefully making my way through a haunting forest of crushing darkness. Wolves snarl at me as twisted beings who were once human stumble about, their aggressive muttering filling my head with fear. My heart rate is elevated; I’m completely immersed in the dark fantasy of Alan Wake II. Then, suddenly, a friendly…</p><p><a href="https://kotaku.com/alan-wake-2-pc-epic-games-store-achievements-1850962519">Read more...</a></p>
+
+## Diablo IV Datamine May Detail The Game’s First Expansion
+ - [https://kotaku.com/diablo-4-datamine-leak-version-2-0-lord-of-hatred-dlc-1850962318](https://kotaku.com/diablo-4-datamine-leak-version-2-0-lord-of-hatred-dlc-1850962318)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/cbd00741af6736302e82a3e0da275918.jpg" /><p>A recent datamine has revealed that Blizzard may be cooking up some delicious DLC for its action RPG Diablo 4, including a new class, region, and villain.</p><p><a href="https://kotaku.com/diablo-4-datamine-leak-version-2-0-lord-of-hatred-dlc-1850962318">Read more...</a></p>
+
+## Mario Wonder's Online Mode Is Perfect For Antisocial Gamers
+ - [https://kotaku.com/super-mario-bros-wonder-online-multiplayer-co-op-switch-1850962252](https://kotaku.com/super-mario-bros-wonder-online-multiplayer-co-op-switch-1850962252)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T15:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6c6bd1661102c4269288f17c6a90649d.jpg" /><p>The Super Mario games are often best experienced in solitude. Pretty much everyone who tried playing Super Mario 3D World with friends has stories about it devolving into chaos. But if you’ve decided that you only want to experience Super Mario Bros. Wonder by yourself, I’m here to recommend you give the new 2D…</p><p><a href="https://kotaku.com/super-mario-bros-wonder-online-multiplayer-co-op-switch-1850962252">Read more...</a></p>
+
+## Cyberpunk 2077's New Patch Buffs Keanu Reeves' Gun And Screws Over Homeless People
+ - [https://kotaku.com/cyberpunk-2077-phantom-liberty-patch-notes-2-02-1850961849](https://kotaku.com/cyberpunk-2077-phantom-liberty-patch-notes-2-02-1850961849)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T13:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/d23f6aba62670404c4835f2815eb3957.jpg" /><p>Cyberpunk 2077's latest update went live today and brings with it a surprising number of new tweaks to the sci-fi RPG. In addition to changing the stats of various weapons, there are also a bunch of bug fixes and the kind of random nerfs you only see <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/cyberpunk-2077-phantom-liberty-update-review-idris-elba-1850852291">in a sprawling open world</a>.</p><p><a href="https://kotaku.com/cyberpunk-2077-phantom-liberty-patch-notes-2-02-1850961849">Read more...</a></p>
+
+## Halo Infinite May Have Just Begun Its Renaissance
+ - [https://kotaku.com/halo-infinite-season-5-armor-pc-xbox-campaign-1850960459](https://kotaku.com/halo-infinite-season-5-armor-pc-xbox-campaign-1850960459)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/df4f42e3e1153ee75648ead31ba58149.jpg" /><p>It’s no secret that Halo Infinite has been in a tough place since launch. While many will argue that its core shooting gameplay has always been solid and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/halo-infinite-valhalla-squad-battle-firefight-forge-map-1850705404">was often great fun</a>, restrictive customization options and a limited-feeling amount of content often made for a shallow-feeling experience. Enter the fifth season,…</p><p><a href="https://kotaku.com/halo-infinite-season-5-armor-pc-xbox-campaign-1850960459">Read more...</a></p>
+
+## You’ve Never Played Anything Like This Junji Ito-Inspired Horror Game
+ - [https://kotaku.com/world-of-horror-game-release-steam-review-junji-ito-1850959984](https://kotaku.com/world-of-horror-game-release-steam-review-junji-ito-1850959984)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-10-26T13:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/c0af6439de1b9aca0e8f40bc86f4385b.jpg" /><p>I notice that people get kind of misty-eyed when they talk about the Junji Ito-inspired roguelite role-playing game World of Horror. If it were their cold husband, they’d have been wanting to hold it for a long time. It’s been out in some capacity, either as a demo or in early access, since 2017, but, finally, on…</p><p><a href="https://kotaku.com/world-of-horror-game-release-steam-review-junji-ito-1850959984">Read more...</a></p>
+
