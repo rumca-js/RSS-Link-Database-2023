@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: A media literacy handbook for Israel-Gaza (28 Oct 2023)
+ - [https://pluralistic.net/2023/10/28/fog-o-war](https://pluralistic.net/2023/10/28/fog-o-war)
+ - RSS feed: https://pluralistic.net/feed
+ - date published: 2023-10-28T17:41:21+00:00
+
+Today's links A media literacy handbook for Israel-Gaza: A new "breaking news consumer handbook" from On The Media. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A media literacy handbook for Israel-Gaza (permalink) Media explainers are a cheap way to become an instant expert on everything from billionaire submarine excursions to hellaciously complex geopolitical conflicts, but On The Media's "Breaking News Consumers' Handbooks" are explainers that help you understand other explainers: https://www.wnycstudios.org/podcasts/otm/segments/breaking-news-consumers-handbook-israel-and-gaza-edition-on-the-media The latest handbook is an Israel-Gaza edition. It doesn't aim to parse fine distinctions over the definition of "occupation" or identify the source of shell fragments. Rather, it offers seven bullet points' worth of advice on weighing all t
+

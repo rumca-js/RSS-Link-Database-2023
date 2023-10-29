@@ -1,0 +1,25 @@
+# Source:Engadget, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## NASA is launching a rocket on Sunday to study a 20,000-year-old supernova
+ - [https://www.engadget.com/nasa-is-launching-a-rocket-on-sunday-to-study-a-20000-year-old-supernova-193009477.html?src=rss](https://www.engadget.com/nasa-is-launching-a-rocket-on-sunday-to-study-a-20000-year-old-supernova-193009477.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-28T19:30:09+00:00
+
+<p>A sounding rocket toting a special imaging and spectroscopy instrument will take a brief trip to space Sunday night to try and capture as much data as it can on a long-admired supernova remnant in the Cygnus constellation. Its target, a massive cloud of dust and gas known as the Cygnus Loop or the Veil Nebula, was created after the explosive death of a star an estimated 20,000 years ago — and it’s still expanding.</p>
+<p>NASA plans to launch the mission at 11:35 PM ET on Sunday October 29 from the White Sands Missile Range in New Mexico. The Integral Field Ultraviolet Spectroscopic Experiment, or INFUSE, will observe the Cygnus Loop for only a few minutes, capturing light in the far-ultraviolet wavelengths to illuminate gasses as hot as 90,000-540,000 degrees Fahrenheit. It’s expected to fly to an altitude of about 150 miles before parachuting back to Earth.</p>
+<span id="end-legacy-contents"></span><p>The Cygnus Loop sits about 2,600 light-years away, and was formed by the collap
+
+## Instagram head says Threads is working on an API for developers
+ - [https://www.engadget.com/instagram-head-says-threads-is-working-on-an-api-for-developers-140049094.html?src=rss](https://www.engadget.com/instagram-head-says-threads-is-working-on-an-api-for-developers-140049094.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-28T14:00:49+00:00
+
+<p>Threads was missing a lot of features users would expect from a service similar to Twitter's (now X's) when it launched. Over the past few months, however, it has been been rolling out more and more new features to give users a more robust experience, including polls, <a href="https://www.engadget.com/threads-now-has-polls-and-an-easy-way-to-post-gifs-184330729.html">an easy way to post GIFs</a> and the <a href="https://www.engadget.com/threads-now-lets-you-quote-posts-on-the-web-083759052.html">ability to quote posts</a> on the web. Still, since it doesn't have an API, third-party developers can't conjure features specific to their services that would make the social network a more integral part of people's everyday lives. An example of that is local transportation agencies being able to automatically <a href="https://www.engadget.com/nycs-transport-authority-will-no-longer-post-service-alerts-on-twitter-051701441.html">post service alerts</a> when a train is delayed. According t
+
+## iRobot's Roomba Combo vacuum-and-mops are up to $300 off right now
+ - [https://www.engadget.com/irobots-roomba-combo-vacuum-and-mops-are-up-to-300-off-right-now-130031081.html?src=rss](https://www.engadget.com/irobots-roomba-combo-vacuum-and-mops-are-up-to-300-off-right-now-130031081.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-10-28T13:00:31+00:00
+
+<p>The <a class="rapid-with-clickid" href="https://shopping.yahoo.com/rdlw?merchantId=f14f6b23-c078-4e53-8011-5b872f886d6b&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;featureId=text-link&amp;merchantName=Wellbots&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy53ZWxsYm90cy5jb20vcHJvZHVjdHMvaXJvYm90LXJvb21iYS1jb21iby1qNy1yb2JvdC12YWN1dW0tYW5kLW1vcD92YXJpYW50PTQwNzIxMjYwNDc4NTEyIiwiY29udGVudFV1aWQiOiI5YjM5YzQzZS0wZjQzLTRjMDQtYWNkYS1iM2ViYzJlZDI1NDEifQ&amp;signature=AQAAAd5104CHH4VdofHt4LZKcfl9Hc7WoUMvdEJEi65cvOEW&amp;gcReferrer=https%3A%2F%2Fwww.wellbots.com%2Fproducts%2Firobot-roomba-combo-j7-robot-vacuum-and-mop%3Fvariant%3D40721260478512">iRobot Roomba Combo j7+</a> is the top 2-in-1 pick in our guide to the <a href="https://www.engadget.com/best-robot-vacuums-130010426.html">best robot vacuums</a>, as it adds a retractable mop for cleaning hard floors onto a powerful robovac for carpets and other surfaces. It's expensive at its u
+
