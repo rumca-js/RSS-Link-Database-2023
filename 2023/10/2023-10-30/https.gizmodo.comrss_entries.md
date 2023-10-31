@@ -1,0 +1,30 @@
+# Source:Gizmodo, URL:https://gizmodo.com/rss, language:en-US
+
+## NASA's Lucy Ready to Explore Its First Asteroid This Week
+ - [https://gizmodo.com/nasa-lucy-flyby-asteroid-dinkinesh-jupiter-trojans-1850974022](https://gizmodo.com/nasa-lucy-flyby-asteroid-dinkinesh-jupiter-trojans-1850974022)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-10-30T20:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2702404d0be9dcf6a537895cf1a37fca.png" /><p>After traveling millions of miles over the past two years, the Lucy spacecraft has almost reached its first destination. NASA’s asteroid probe will briefly rendezvous with Dinkinesh in the main asteroid belt on Wednesday to prepare for its future visits of Jupiter’s Trojan asteroids.</p><p><a href="https://gizmodo.com/nasa-lucy-flyby-asteroid-dinkinesh-jupiter-trojans-1850974022">Read more...</a></p>
+
+## As Banks Write Down X, Musk Offers Employee Stock Options
+ - [https://gizmodo.com/banks-write-down-x-elon-musk-offers-stock-options-1850973650](https://gizmodo.com/banks-write-down-x-elon-musk-offers-stock-options-1850973650)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-10-30T20:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/35ba99f3991db158101aef2a073b7bad.jpg" /><p>If the ship’s going down, at least the employees all get a piece of the pie. As <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/fidelity-elon-musk-twitter-44-billion-value-1850488895">X (the platform formerly known as Twitter) continues to devalue itself</a> with decisions that are scaring off advertisers and pissing off users, owner Elon Musk is at least willing to offer some stock to company employees. </p><p><a href="https://gizmodo.com/banks-write-down-x-elon-musk-offers-stock-options-1850973650">Read more...</a></p>
+
+## Fake Ozempic Has Sent Several People to the Hospital, Health Agency Warns
+ - [https://gizmodo.com/fake-ozempic-counterfeit-semaglutide-wegovy-insulin-1850973107](https://gizmodo.com/fake-ozempic-counterfeit-semaglutide-wegovy-insulin-1850973107)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-10-30T19:53:19+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a453b9c6ef73472225b485c4a382f6d9.jpg" /><p>Health officials in Austria are the latest to warn the public to stay away from sketchy sources of semaglutide, the active ingredient in popular weight loss drugs Wegovy and Ozempic, following recent reports of severe adverse effects linked to counterfeit products. Residents have reportedly been hospitalized with…</p><p><a href="https://gizmodo.com/fake-ozempic-counterfeit-semaglutide-wegovy-insulin-1850973107">Read more...</a></p>
+
+## Microsoft May Drop Support for 'Unauthorized' Xbox Controllers, Accessories
+ - [https://gizmodo.com/microsoft-unauthorized-xbox-controllers-accessories-1850971997](https://gizmodo.com/microsoft-unauthorized-xbox-controllers-accessories-1850971997)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-10-30T14:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/99495bb27d6d692930c1e1b5cd285e03.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://gizmodo.com/ftc-says-microsoft-leaked-its-own-xbox-plans-1850853588">Xbox’s</a> latest console patch has hidden DRM that appears to brick some commonly used third-party Xbox accessories. While the company claims that these unauthorized controllers and USB ports somehow hurt gamers’ experience, gaming accessibility advocates say it could drastically limit what they can do with their own…</p><p><a href="https://gizmodo.com/microsoft-unauthorized-xbox-controllers-accessories-1850971997">Read more...</a></p>
+

@@ -1,0 +1,142 @@
+# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Tons Of Lego Sets Are On Sale Ahead Of Black Friday 2023
+ - [https://www.gamespot.com/gallery/tons-of-lego-sets-are-on-sale-ahead-of-black-friday-2023/2900-4924](https://www.gamespot.com/gallery/tons-of-lego-sets-are-on-sale-ahead-of-black-friday-2023/2900-4924)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T21:13:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1702/17023653/4213719-collagemaker-30-oct-2023-11-10-am-4531.jpg" /><br /><h3><p>Black Friday may seem like a long way off, but early <a href="https://www.gamespot.com/black-friday/?page=3/">Black Friday 2023</a> savings are already rolling in. Swing by Amazon right now and you'll find tons of Lego sets on sale--covering everything from Star Wars and Mario to Batman and more. And Amazon isn't the only retailer with Lego deals; <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/pl/698036474">Target</a> is selling a bunch of Lego sets for up to 20% off, and <a href="https://shop-links.co/1823951562797340040?u1=subid_value">Best Buy</a> is offering 40% off select kits for <a href="https://shop-links.co/1812345578378023391?u1=subid_value">My Best Buy Plus/Total members</a>.</p><p>One of the best Lego deals is for the <a href="https://www.amazon.com/dp/B09Q46YHKC?tag=gamespot-bfc
+
+## Target Has Already Kicked Off Its Black Friday Sale - Here Are The Best Gaming, Tech, And Toy Deals
+ - [https://www.gamespot.com/gallery/target-black-friday-2023-sale-best-deals/2900-4923](https://www.gamespot.com/gallery/target-black-friday-2023-sale-best-deals/2900-4923)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T21:01:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1702/17023653/4213551-target.jpg" /><br /><h3><p><a href="https://www.gamespot.com/black-friday/?page=3/">Black Friday</a> seems to start earlier and earlier each year. <a href="https://shop-links.co/1813567614206032083?u1=subid_value">Best Buy kicked off its Black Friday sale</a> last week, and now <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/c/target-black-friday/-/N-5q0f2">Targe</a>t has joined in on the fun. The retailer will be launching new deals every week (and daily deals), and you'll even benefit from a holiday price-match guarantee--so if the price goes lower at Target from now until December 24, you'll be eligible for even more savings.</p><p>Video games are a big part of the event, with <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/pl/448894274">Star Wars Jedi: Survivor</a> down to just $35 from its us
+
+## It Follows Given A Sequel Over A Decade Later
+ - [https://www.gamespot.com/articles/it-follows-given-a-sequel-over-a-decade-later/1100-6518767/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/it-follows-given-a-sequel-over-a-decade-later/1100-6518767/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T20:37:00+00:00
+
+<p>Over a decade later, David Robert Mitchell is getting to make his long-awaited follow-up to the horror hit It Follows which is being called They Follow. <a href="https://www.hollywoodreporter.com/movies/movie-news/it-follows-sequel-they-follow-1235632664/">The Hollywood Reporter</a> mentioned that Tom Quinn's Neon studios (Parasite) is co-producing the sequel, which is expected to film next year.</p><p>They Follow will once again star Maika Monroe as Jay Height, who was at the center of the 2014 film. Jay learns, after having sex with her boyfriend for the first time, that she will now be hunted by a sinister entity. The only way to defeat it, or at least temporarily make it stop hunting her, is to pass it on to somebody else. Throughout the film, the force takes on many disturbing shapes and forms including an eyeless, tall pale man and a screaming old woman.</p><p>It Follows became a sleeper hit that grossed $21.9 million globally on a budget of around $1 million. A sequel had b
+
+## Limited-Edition Captain America Xbox Controller Bundle Is Only $80 Right Now
+ - [https://www.gamespot.com/articles/limited-edition-captain-america-xbox-controller-bundle-is-only-80-right-now/1100-6516951/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/limited-edition-captain-america-xbox-controller-bundle-is-only-80-right-now/1100-6516951/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T19:46:00+00:00
+
+<p>Xbox controllers are available in a wide range of colors currently, but when it comes to a mix of red, white, and blue, this patriotic model designed by Razer makes for an eye-catching design. Inspired by Captain America and Anthony Mackie's take on the character, this particular Xbox wireless controller and charging station combo usually retails for $180, but right now, <strong><a href="https://www.dpbolvw.net/click-100770772-13142092?sid=subid_value&amp;url=https://electronics.woot.com/offers/new-razer-limited-edition-xbox-controller-charging-stand">the Captain America combo pack is down to an astonishingly low $80</a></strong>. Much like Woot's deal on the <a href="https://www.jdoqocy.com/click-100770772-13142092?sid=subid_value&amp;url=https://electronics.woot.com/offers/razer-limited-edition-xbox-controller-charging-stand">Star Wars Stormtrooper controller</a>, we expect this to sell out pretty quickly. Woot is an Amazon-owned company that offers free shipping for Prime membe
+
+## CoD: Modern Warfare 3 PC Minimum/Recommended Specs And DLSS 3 Support Detailed
+ - [https://www.gamespot.com/articles/cod-modern-warfare-3-pc-minimum-recommended-specs-and-dlss-3-support-detailed/1100-6518765/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cod-modern-warfare-3-pc-minimum-recommended-specs-and-dlss-3-support-detailed/1100-6518765/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T18:53:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Call of Duty: Modern Warfare 3</a> launches on November 10, and Activision has provided a full list of the minimum and recommended specs for playing on PC. Here's everything you need to know about the game's PC requirements, the announced DLSS 3 support, and more.</p><p dir="ltr">The minimum specs for Modern Warfare 3 require an Intel Core i5-6600 or AMD Ryzen 5 1400 CPU, 8 GB of RAM, along with Nvidia GeForce GTX 960 / GTX 1650 or AMD Radeon RX 470 video card. You'll also need an SSD with 149GB of available space (78GB if COD HQ and Warzone are already installed.)</p><p dir="ltr">The recommended specs call for 16 GB of RAM, an Intel Core i7-6700K or AMD Ryzen 5 1600X CPU, and an Nvidia GeForce GTX 1080Ti / RTX 3060 or AMD Radeon RX 6600XT video card.</p><a href="https://www.gamespot.com/articles/cod-modern-warfare-3-pc-minimum-recommended-specs-and-dlss-3-support-detailed/1100-6518765/?ftag=CAD-01
+
+## Ubisoft Will Shut Down Online Services For 10 Games In 2024, Including Older Assassin's Creed Titles
+ - [https://www.gamespot.com/articles/ubisoft-will-shut-down-online-services-for-10-games-in-2024-including-older-assassins-creed-titles/1100-6518764/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/ubisoft-will-shut-down-online-services-for-10-games-in-2024-including-older-assassins-creed-titles/1100-6518764/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T18:34:00+00:00
+
+<p>A total of 10 older Ubisoft titles will see their online services shut down on January 25, 2024, Ubisoft has announced.</p><p dir="ltr">Among the list of titles are numerous Assassin's Creed titles for Xbox 360 and PlayStation 3, which as of January will no longer support any form of multiplayer, the ability to link Ubisoft accounts, or claim Ubisoft Connect rewards. Other titles affected include <a href="https://www.gamespot.com/games/tom-clancys-splinter-cell-conviction/">Splinter Cell: Conviction</a> for Xbox 360, <a href="https://www.gamespot.com/games/tom-clancys-ghost-recon-future-soldier/">Ghost Recon: Future Soldier</a> for PC, <a href="https://www.gamespot.com/games/trials-evolution/">Trials Evolution</a> for PC, and others.</p><p dir="ltr">"Decommissioning the online services for older games is something we do not take lightly, however, it is also a necessity as the technology behind these services becomes outdated," Ubisoft states in a <a href="https://www.ubisoft.com/e
+
+## Destiny 2: The Final Shape, Marathon Reportedly Delayed As Bungie Lays Off Staff
+ - [https://www.gamespot.com/articles/destiny-2-the-final-shape-marathon-reportedly-delayed-as-bungie-lays-off-staff/1100-6518763/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-the-final-shape-marathon-reportedly-delayed-as-bungie-lays-off-staff/1100-6518763/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T18:22:00+00:00
+
+<p>Bungie is reportedly laying off developers while also delaying the upcoming Destiny 2: The Final Shape expansion and its new Marathon game.</p><p>According to <a href="https://www.bloomberg.com/news/articles/2023-10-30/sony-s-bungie-game-unit-cuts-staff-following-delayed-titles?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTY5ODY4ODE3NCwiZXhwIjoxNjk5MjkyOTc0LCJhcnRpY2xlSWQiOiJTM0NRMFhUMVVNMFcwMSIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.077ThvskMXBqNoeCerLdBqupSAotW1akRtDJHWZtPzU">Bloomberg</a>, Bungie has reportedly laid off an undisclosed number of developers. Additionally, Destiny 2's upcoming expansion, The Final Shape, has been delayed from February to June. Bungie's next game, Marathon, has also reportedly been delayed to 2025.</p><p>Bungie has not commented on these yet, but several now-former Bungie employees have announced they were laid off. The cuts seem to impact departments such as edi
+
+## Cocoon Developers Open Up About Leaving Playdead And Creating Their Most Complex Puzzle Game Yet
+ - [https://www.gamespot.com/articles/cocoon-developers-open-up-about-leaving-playdead-and-creating-their-most-complex-puzzle-game-yet/1100-6518762/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/cocoon-developers-open-up-about-leaving-playdead-and-creating-their-most-complex-puzzle-game-yet/1100-6518762/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T17:59:00+00:00
+
+<p>In 2016--the same year that Limbo follow-up Inside released to critical acclaim--two of the developers behind Playdead's latest puzzle platformer made a big announcement: They were leaving the company.</p><p dir="ltr">Following their work on Inside, lead gameplay designer Jeppe Carlsen and programmer/composer Jakob Schmid decided it was time to forge a new identity and, with it, a new studio. The pair founded Geometric Interactive later that year and began work on Cocoon, an ambitious puzzle game that would be "structurally and fundamentally different" from any game they had worked on before--and, as Carlsen told GameSpot in an exclusive interview, was simply "too fascinating to not do it."</p><p dir="ltr">"Initially it was just all these thought experiments about exploring a hierarchy of worlds and how you could manipulate the hierarchy in different interesting ways to build puzzles that had a new way of thinking and a freshness to it," Carlsen said. "Everything started with just
+
+## Nintendo Patent Application Shows A Dual-Screen System That Can Be Split In Two
+ - [https://www.gamespot.com/articles/nintendo-patent-application-shows-a-dual-screen-system-that-can-be-split-in-two/1100-6518758/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/nintendo-patent-application-shows-a-dual-screen-system-that-can-be-split-in-two/1100-6518758/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T17:16:00+00:00
+
+<p>Details on an alleged series of patent applications filed by Nintendo in November 2022 have surfaced, revealing the concept for a new dual-screen gaming device concept that can be split in two. However, it's worth bearing in mind that even a granted patent--let alone an application for one--does not mean a real product will ever see the light of day.</p><p>Shared on the <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023203801">World Intellectual Property Organisation</a> website (via <a href="https://www.resetera.com/threads/gamerant-nintendo-patents-dual-screen-gaming-device-that-can-be-split-in-half.779426/">ResetEra</a> and first spotted by <a href="https://gamerant.com/nintendo-patent-detachable-dual-screen-gaming-device/">GameRant</a>), Nintendo's device is reminiscent of its DS and 3DS handheld consoles, which utilized a dual-screen setup for games on those systems. According to the application, the top and bottom halves can operate independently of one 
+
+## Minecraft Mini Fridge Creeps Down To Only $55
+ - [https://www.gamespot.com/articles/minecraft-mini-fridge-creeps-down-to-only-55/1100-6518759/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/minecraft-mini-fridge-creeps-down-to-only-55/1100-6518759/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T16:55:00+00:00
+
+<p>Minecraft fans, rejoice, for Walmart is offering the perfect vessel to keep your favorite beverages cool in a unit that looks like it was pulled straight from your favorite game. Just in time for--checks notes--<em>next </em>summer, this <strong><a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;url=https://www.walmart.com/ip/Minecraft-Green-Creeper-Body-12-Can-Mini-Fridge-8L-2-Door-Ambient-Lighting-25-2-H-9-5-W-9-1-D/2670909566">Minecraft Green Creeper Mini Fridge</a></strong> has been marked down from its usual price of $168 to a very tempting $55.</p><figure style="width: 1280px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4213683-creep-fridge.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/original/1601/16018044/4213683-creep-fridge.jpg" /></a></figure><div class="norewrite" title="">           <a href="https://go.skimresources.com?id=225336X1707200&amp;xs=1&amp;xcust=subid_value&amp;ur
+
+## The Largest Lego Set Ever Is On Sale For A Huge Discount At Amazon
+ - [https://www.gamespot.com/articles/the-largest-lego-set-ever-is-on-sale-for-a-huge-discount-at-amazon/1100-6518754/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-largest-lego-set-ever-is-on-sale-for-a-huge-discount-at-amazon/1100-6518754/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T16:55:00+00:00
+
+<p>If you've ever felt like expressing yourself with Lego--and possibly getting a case of wanderlust in the process--this Lego Art World Map is a great project to work on. Normally $250, you can save $100 off this impressive work of art on <a href="https://www.amazon.com/dp/B08YP6XRP1?tag=gamespot-bfcm-20">Amazon</a> by clicking the coupon box below the price to apply the full discount. It's also available at <a href="https://shop-links.co/1823941680565672450?u1=subid_value">Best Buy</a> at the same discounted price, but only for <a href="https://shop-links.co/1812345578378023391?u1=subid_value">My Best Buy Plus and Total members</a>. The Lego Art World Map has a whopping 11,695 pieces, which makes it <a href="https://www.lego.com/en-us/categories/adults-welcome/article/biggest-lego-sets-ever-made">Lego's largest set ever</a>.</p><div><div class="norewrite" title="">           <a href="https://www.amazon.com/dp/B08YP6XRP1?tag=gamespot-bfcm-20">See at Amazon</a> </div></div><p> </p><d
+
+## Astro's Star Wars Mandalorian Gaming Headset Is $100 Off
+ - [https://www.gamespot.com/articles/astros-star-wars-mandalorian-gaming-headset-is-100-off/1100-6518164/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/astros-star-wars-mandalorian-gaming-headset-is-100-off/1100-6518164/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T16:20:00+00:00
+
+<p>Logitech's Astro brand has long been one of the premier gaming headset manufacturers. If you're in the market for a new headset and happen to be a Star Wars fan, you shouldn't miss Amazon's deal on the <strong><a href="https://www.amazon.com/dp/B0BL25MQY8?tag=gamespot-bfcm-20">Astro A30 Mandalorian-themed wireless headset</a></strong>. The A30 is back on sale for $150 ahead of <a href="https://www.gamespot.com/black-friday/?page=3/">Black Friday 2023</a>, which matches the stellar discount we saw during Prime Day Round 2. Both the PlayStation and Xbox versions of the A30 are eligible for this offer. If you aren't a Star Wars fan, you can grab the stylish A30 in white for $180, which is still a great deal.</p><ul><li><a href="https://www.amazon.com/dp/B0BL2614ZR?tag=gamespot-bfcm-20">Astro A30 Mandalorian Edition for Xbox</a> -- $150 (<del>$249</del>)</li><li><a href="https://www.amazon.com/dp/B0BL25MQY8?tag=gamespot-bfcm-20">Astro A30 Mandalorian Edition for PlayStation</a> -- $15
+
+## Apex Legends Season 19 Patch Notes Include Welcome Respawning Changes, Catalyst Nerf
+ - [https://www.gamespot.com/articles/apex-legends-season-19-patch-notes-include-welcome-respawning-changes-catalyst-nerf/1100-6518761/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/apex-legends-season-19-patch-notes-include-welcome-respawning-changes-catalyst-nerf/1100-6518761/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T16:14:00+00:00
+
+<p dir="ltr"><a href="https://www.gamespot.com/articles/everything-to-know-about-apex-legends-season-19-cross-progression-new-legend-conduit-and-more/1100-6518736/">Apex Legends Season 19: Ignite</a> is nearly here, kicking off on October 31, and after steadily drip-feeding players info about the new season over the last few weeks, Respawn has finally revealed all of the features Apex's playerbase can look forward to this season via the release of Season 19's patch notes.</p><p dir="ltr">Season 19 is one of <a href="https://www.gamespot.com/games/apex-legends/">Apex Legends</a>' biggest seasons yet in terms of new content (including the addition of <a href="https://www.gamespot.com/articles/cross-progression-is-coming-to-apex-legends-on-halloween/1100-6518700/">cross-progression</a> and some <a href="https://www.gamespot.com/articles/apex-legends-season-19-trailer-reveals-conduits-abilities-and-a-massive-map-makeover/1100-6518708/">truly massive map changes</a>), and the patch notes 
+
+## 18 Minutes Of Avatar: Frontiers Of Pandora Gameplay
+ - [https://www.gamespot.com/videos/18-minutes-of-avatar-frontiers-of-pandora-gameplay/2300-6462744](https://www.gamespot.com/videos/18-minutes-of-avatar-frontiers-of-pandora-gameplay/2300-6462744)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T16:00:00+00:00
+
+<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4213051-gameplay_avatarfrontier_thumb_v1_gs.jpg" width="480" /> Here's footage from a work-in-progress build of Avatar: Frontiers of Pandora. In this video you'll see air combat on an ikran, taking down a main base, investigating the whereabouts of a missing resistance pilot, and liberating an outpost.
+
+## Avatar: Frontiers Of Pandora Could Be A New Spin On Ubisoft Open-World Games
+ - [https://www.gamespot.com/articles/avatar-frontiers-of-pandora-could-be-a-new-spin-on-ubisoft-open-world-games/1100-6518731/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/avatar-frontiers-of-pandora-could-be-a-new-spin-on-ubisoft-open-world-games/1100-6518731/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T16:00:00+00:00
+
+<p dir="ltr">Open-world games often benefit from putting players in the middle of wars and revolutions, fought across lush and fascinating worlds, where an evil force has taken control of nearly everything and must be pushed back inch by inch. Ubisoft often utilizes this formula for its open-world games, which usually feature huge and gorgeous worlds where you're fighting a powerful, entrenched military enemy. The harsh but beautiful alien moon of Pandora, the setting of the <a href="https://www.gamespot.com/reviews/avatar-the-way-of-water-review-dead-in-the-water/1900-6418013/">Avatar films</a>, is a near-perfect fit for the approach.</p><p dir="ltr">What's most interesting about <a href="https://www.gamespot.com/games/avatar-frontiers-of-pandora/">Avatar: Frontiers of Pandora</a>, though, is that it might give developer Massive Entertainment an opportunity to improve on the Ubisoft open-world formula at a time when the genre is inspiring more than a little fatigue.</p><p dir="ltr">
+
+## Avengers Endgame's Joe Russo Playfully Responds To Martin Scorsese's MCU Criticism
+ - [https://www.gamespot.com/articles/avengers-endgames-joe-russo-playfully-responds-to-martin-scorseses-mcu-criticism/1100-6518760/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/avengers-endgames-joe-russo-playfully-responds-to-martin-scorseses-mcu-criticism/1100-6518760/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T15:57:00+00:00
+
+<p>Martin Scorsese is one of the most prolific and acclaimed filmmakers in movie history and has become a legend in his own time. Joe Russo, one half of the Russo Brothers director team with his brother Anthony, has some of the biggest box office numbers under his belt with Marvel movies including Avengers: Infinity War and Endgame.</p><p>A <a href="https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html">few years back</a>, Scorsese fairly criticized Marvel for having a chokehold on movies with their release schedules and how he felt it pushed a lot of middle-budget features out of theaters.</p><p>It is still something fans of both directors are talking about, almost to ad nausea. Over the weekend, Russo finally retorted back on this Tiktok with a playful, quick video with his dog jokingly named Box Office in response to Scorsese and his dog, Oscar, which was posted by the Oscar winner's daughter, Francesca.</p><a href="https://www.gamespot.com/articles/avengers-endga
+
+## Star Wars Jedi: Survivor Drops To Lowest Price Yet In Early Black Friday Sale
+ - [https://www.gamespot.com/articles/star-wars-jedi-survivor-drops-to-lowest-price-yet-in-early-black-friday-sale/1100-6517802/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-jedi-survivor-drops-to-lowest-price-yet-in-early-black-friday-sale/1100-6517802/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T15:48:00+00:00
+
+<p>Target has kicked off its <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/c/target-black-friday/-/N-5q0f2">early Black Friday sale</a>, and one of the retailer's best deals is on Star Wars Jedi: Survivor. The 2023 sequel to Fallen Order is available for only $35 at Target, which beats the price we saw earlier this month for Prime Day Round 2. This offer is up for grabs on physical editions for both <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/star-wars-jedi-survivor-playstation-5/-/A-88183520">PS5</a> and <a href="https://goto.target.com/c/1804712/81938/2092?subId1=subid_value&amp;u=https://www.target.com/p/star-wars-jedi-survivor-xbox-series-x/-/A-88183518">Xbox Series X</a>. Amazon was matching this offer but has since sold out. However, PC players can <a href="https://www.amazon.com/Star-Wars-Jedi-Survivor-Standard/dp/B0BTKW6HCB?tag=gamespot-bfcm-20">grab a Steam key
+
+## Starfield PC Gamers Can Look Forward To Some Sleek Hardware Next Year
+ - [https://www.gamespot.com/articles/starfield-pc-gamers-can-look-forward-to-some-sleek-hardware-next-year/1100-6518749/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/starfield-pc-gamers-can-look-forward-to-some-sleek-hardware-next-year/1100-6518749/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T15:40:00+00:00
+
+<p>Starfield fans looking to take their PC setup to the final frontier can look forward to the release of new gaming gear as part of the NZXT CRFT series. While the full product range will be revealed next year, the first piece being debuted is the Starfield H5 Flow case. This will be available starting today in the US with the purchase of a prebuilt Player 2 system that comes with an Nvidia GeForce RTX 4070Ti GPU, AMD Ryzen 7 5800X CPU, 32GB of RAM, and 1TB of storage space.</p><figure style="width: 1600px;"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4213429-nz-starfield-case.jpg"><img alt="No Caption Provided" src="https://www.gamespot.com/a/uploads/scale_super/1601/16018044/4213429-nz-starfield-case.jpg" /></a></figure><div><div class="norewrite" title="">           <a href="https://nzxt.sjv.io/c/1804712/1719474/20004?subId1=subid_value&amp;u=https://nzxt.com/product/player-two-starfield-case">See on NZXT</a> </div></div><figure><div class="image-gallery__l
+
+## Does Call Of Duty: Modern Warfare 3 Have A Zombies Mode?
+ - [https://www.gamespot.com/articles/does-call-of-duty-modern-warfare-3-have-a-zombies-mode/1100-6518756/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/does-call-of-duty-modern-warfare-3-have-a-zombies-mode/1100-6518756/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T15:29:00+00:00
+
+<p dir="ltr">For the first time ever, Treyarch's Zombies is coming to the Modern Warfare series with <a href="https://www.gamespot.com/games/call-of-duty-modern-warfare-iii/">Modern Warfare 3</a>, but the mode will offer a different co-op experience than the traditional round-based Zombies that you might expect. Here is everything you need to know about Modern Warfare 3's Zombies mode.</p><div><span><strong>Table of Contents</strong> [<a href="https://www.gamespot.com">hide</a>]</span><ul class="collapse in" id="toc_list"><li><a href="https://www.gamespot.com">Not traditional round-based Zombies</a></li></ul></div><p dir="ltr"> </p><h2 dir="ltr" id="Not_traditional_round_based_Zombies">Not traditional round-based Zombies</h2><p dir="ltr">Modern Warfare 3's Zombies mode offers large-scale extraction gameplay instead of the traditional round-based experience, making this more of a mashup between Zombies and MW2's DMZ. This mode is designed for trios in a PvE environment, where you can 
+
+## David Fincher Pitched A Spider-Man Movie In 1999, Without The "Dumb" Origin
+ - [https://www.gamespot.com/articles/david-fincher-pitched-a-spider-man-movie-in-1999-without-the-dumb-origin/1100-6518750/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/david-fincher-pitched-a-spider-man-movie-in-1999-without-the-dumb-origin/1100-6518750/?ftag=CAD-01-10abi2f)
+ - RSS feed: https://www.gamespot.com/feeds/mashup
+ - date published: 2023-10-30T13:36:00+00:00
+
+<p> </p><p dir="ltr">Before Spider-Man became one of the biggest box office draws of all time--now spanning three different decades--director David Fincher pitched his idea for the superhero in 1999. The filmmaker wanted to ignore Peter Parker's origin story, which meant those in charge "weren't f**king interested."</p><p dir="ltr">Speaking with <a href="https://www.theguardian.com/film/2023/oct/27/david-fincher-on-hitmen-incels-and-spider-mans-dumb-origin-story?CMP=Share_iOSApp_Other">The Guardian</a>, Fincher expressed how little he cares for Peter's beginnings while also understanding why he was rejected. "And I get it," he said. "They were like: 'Why would you want to eviscerate the origin story?' And I was like: 'Cos it's dumb?' That origin story means a lot of things to a lot of people, but I looked at it and I was like: 'A red and blue spider?' There’s a lot of things I can do in my life and that's just not one of them."</p><a href="https://www.gamespot.com/articles/david-finc
+
