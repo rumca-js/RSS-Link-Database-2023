@@ -1,0 +1,16 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Workplace training content provider Media Partners rebrands as Atana and raises $6M
+ - [https://www.geekwire.com/2023/workplace-training-content-provider-media-partners-rebrands-as-atana-and-raises-6m](https://www.geekwire.com/2023/workplace-training-content-provider-media-partners-rebrands-as-atana-and-raises-6m)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-10-31T16:49:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://cdn.geekwire.com/wp-content/uploads/2023/10/John_Hansen_Headshot-1260x1024.jpg" width="1260" /><br />Media Partners, a Seattle-area company that builds workplace training content, has rebranded to Atana Inc., and raised $6 million in new funding. Bellevue, Wash.-based Atana has been known for its training solutions around diversity and inclusion, sexual harassment, bias, workplace violence, and more. A new product called Atana Insights combines that content with AI-driven behavioral insights and analytics, to help change attitudes and behaviors on those topics. &#8220;We seamlessly integrate behavioral theory, organizational psychology, and advanced data science to empower organizations to foster positive, lasting behavior change at scale,&#8221; Atana CEO John Hansen said. Atana originally launched in 1993. Hansen,&#8230; <a href="https://www.geekwire.com/2023/workplace-training-content-provider-medi
+
+## How the Pacific Northwest could become a carbon-capture hub — with help from tech and basalt
+ - [https://www.geekwire.com/2023/how-the-pacific-northwest-could-become-a-carbon-capture-hub-with-help-from-tech-and-basalt](https://www.geekwire.com/2023/how-the-pacific-northwest-could-become-a-carbon-capture-hub-with-help-from-tech-and-basalt)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-10-31T14:43:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="495" src="https://cdn.geekwire.com/wp-content/uploads/2023/10/27099637605_a65fa84d4f_c.jpg" width="800" /><br />The Pacific Northwest&#8217;s lush forests are a pretty obvious place to store carbon dioxide pulled from the atmosphere. But the region has another vast resource for trapping carbon that&#8217;s more easily overlooked: the basaltic rock formations covering swaths of Washington, Oregon and Idaho. Now a regional consortium is investigating whether the area could become a carbon capture hub, locking away planet warming CO2 in rocks or turning it into other compounds. The group, called the Ankeron Carbon Management Hub, has landed $3 million in funding from the U.S. Department of Energy to do a two-year study on the science, feasibility,&#8230; <a href="https://www.geekwire.com/2023/how-the-pacific-northwest-could-become-a-carbon-capture-hub-with-help-from-tech-and-basalt/">Read More</a>
+

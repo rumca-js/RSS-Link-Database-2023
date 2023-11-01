@@ -1,0 +1,184 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss/, language:en-us
+
+## Report: Bungie revenue 45% below projections, leading to latest layoffs and delays
+ - [https://www.neowin.net/news/report-bungie-revenue-45-below-projections-leading-to-latest-layoffs-and-delays](https://www.neowin.net/news/report-bungie-revenue-45-below-projections-leading-to-latest-layoffs-and-delays)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T22:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2017/09/1506030677_d2_title_medium.jpg" /></div>The Sony-owned live-service giant Bungie has reportedly laid off 8% of its workforce following a major miss on its revenue targets. Future projects of the studio may been delayed internally too. <a href="https://www.neowin.net/news/report-bungie-revenue-45-below-projections-leading-to-latest-layoffs-and-delays">Read more...</a>
+
+## NVIDIA releases a new security update for desktop Kepler-series GeForce GPUs
+ - [https://www.neowin.net/news/nvidia-releases-a-new-security-update-for-desktop-kepler-series-geforce-gpus](https://www.neowin.net/news/nvidia-releases-a-new-security-update-for-desktop-kepler-series-geforce-gpus)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T21:10:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2018/05/1525896947_nvidialogo6_medium.jpg" /></div>NVIDIA has released a new security update for its desktop Kepler-series GeForce GPUs. The 474.64 update is designed to fix a number of &quot;issues that may lead to multiple security impacts.&quot; <a href="https://www.neowin.net/news/nvidia-releases-a-new-security-update-for-desktop-kepler-series-geforce-gpus">Read more...</a>
+
+## Get this Xbox wired controller with customizable RGB lighting for an all time low price
+ - [https://www.neowin.net/deals/get-this-xbox-wired-controller-with-customizable-rgb-lighting-for-an-all-time-low-price](https://www.neowin.net/deals/get-this-xbox-wired-controller-with-customizable-rgb-lighting-for-an-all-time-low-price)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T20:42:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698783716_xbox-pdp-wired-controller_medium.jpg" /></div>The PDP Afterglow Wave Xbox officially authorized wired controller includes eight customizable RGB lighting zones. It&#039;s currently discounted down to an all time price low of $37.99 at Amazon <a href="https://www.neowin.net/deals/get-this-xbox-wired-controller-with-customizable-rgb-lighting-for-an-all-time-low-price">Read more...</a>
+
+## Microsoft Teams free October update reveals more info on its Windows 11 23H2 debut and more
+ - [https://www.neowin.net/news/microsoft-teams-free-october-update-reveals-more-info-on-its-windows-11-23h2-debut-and-more](https://www.neowin.net/news/microsoft-teams-free-october-update-reveals-more-info-on-its-windows-11-23h2-debut-and-more)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T19:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2021/06/1623452685_microsoft_teams_9_medium.jpg" /></div>Microsoft Teams free is now officially a part of the new Windows 11 23H2 update, but there were a lot of other things that were added to the free version of the online meeting service in October. <a href="https://www.neowin.net/news/microsoft-teams-free-october-update-reveals-more-info-on-its-windows-11-23h2-debut-and-more">Read more...</a>
+
+## OneNote for Windows adds new digital pen features; Copilot to be added in November
+ - [https://www.neowin.net/news/onenote-for-windows-adds-new-digital-pen-features-copilot-to-be-added-in-november](https://www.neowin.net/news/onenote-for-windows-adds-new-digital-pen-features-copilot-to-be-added-in-november)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T19:10:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/04/1681749734_onenote_logo_medium.jpg" /></div>Microsoft has announced some new and improved features it has recently added to the OneNote for Windows app. It also says that the generative AI Copilot feature is coming in November. <a href="https://www.neowin.net/news/onenote-for-windows-adds-new-digital-pen-features-copilot-to-be-added-in-november">Read more...</a>
+
+## The Guardian battles controversy over offensive AI-backed poll, blames Microsoft for it
+ - [https://www.neowin.net/news/the-guardian-battles-controversy-over-offensive-ai-backed-poll-blames-microsoft-for-it](https://www.neowin.net/news/the-guardian-battles-controversy-over-offensive-ai-backed-poll-blames-microsoft-for-it)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T18:56:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2016/10/1477002619_microsoft-broken-windows_medium.jpg" /></div>Microsoft is being charged with allegations by The Guardian for sharing an offensive AI-generated poll beside a news article on Microsoft Start by The Guardian. Microsoft has yet to reply.  <a href="https://www.neowin.net/news/the-guardian-battles-controversy-over-offensive-ai-backed-poll-blames-microsoft-for-it">Read more...</a>
+
+## The Crucial T500 internal SSDs are now available for PCs and PS5s
+ - [https://www.neowin.net/news/the-crucial-t500-internal-ssds-are-now-available-for-pcs-and-ps5s](https://www.neowin.net/news/the-crucial-t500-internal-ssds-are-now-available-for-pcs-and-ps5s)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T18:46:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698774450_crucial-t500_medium.jpg" /></div>Crucial has just launched its new T500 Gen4 internal solid-state drives in 500GB, 1TB, and 2TB models, along with versions with built-in heatsinks for its 1TB and 2TB models as well. <a href="https://www.neowin.net/news/the-crucial-t500-internal-ssds-are-now-available-for-pcs-and-ps5s">Read more...</a>
+
+## Larian confirms Baldur's Gate 3 Xbox release in 2023 despite technical hurdles
+ - [https://www.neowin.net/news/larian-confirms-baldurs-gate-3-xbox-release-in-2023-despite-technical-hurdles](https://www.neowin.net/news/larian-confirms-baldurs-gate-3-xbox-release-in-2023-despite-technical-hurdles)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T18:34:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1693508191_baldurs-gate-3_medium.jpg" /></div>Larian Studios provides a Baldur&#039;s Gate 3 update, stating that the Xbox version remains on track for a 2023 release before the end of the year. Split-screen will be excluded on Series S at launch. <a href="https://www.neowin.net/news/larian-confirms-baldurs-gate-3-xbox-release-in-2023-despite-technical-hurdles">Read more...</a>
+
+## Microsoft releases PowerToys 0.75.1 with FancyZones and Run fixes
+ - [https://www.neowin.net/news/microsoft-releases-powertoys-0751-with-fancyzones-and-run-fixes](https://www.neowin.net/news/microsoft-releases-powertoys-0751-with-fancyzones-and-run-fixes)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T18:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/06/1685715450_15_medium.jpg" /></div>Microsoft has released one more update for PowerToys to resolve a couple of bugs. Version 0.75.1 is now available for download with fixes for FancyZones and the PowerToys Run launcher. <a href="https://www.neowin.net/news/microsoft-releases-powertoys-0751-with-fancyzones-and-run-fixes">Read more...</a>
+
+## Cliff Bleszinski thinks Gears of War "needs a little bit of a reboot"; offers to help
+ - [https://www.neowin.net/news/cliff-bleszinski-thinks-gears-of-war-needs-a-little-bit-of-a-reboot-offers-to-help](https://www.neowin.net/news/cliff-bleszinski-thinks-gears-of-war-needs-a-little-bit-of-a-reboot-offers-to-help)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T17:44:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2015/03/gow2_artsy_fartsy_medium.jpg" /></div>Gear of War creator Cliff Bleszinski stated in a new interview that the Microsoft sci-fi game franchise &quot;needs a little bit of a reboot&quot; and would be &quot;happy to consult&quot; with Microsoft on that project. <a href="https://www.neowin.net/news/cliff-bleszinski-thinks-gears-of-war-needs-a-little-bit-of-a-reboot-offers-to-help">Read more...</a>
+
+## Microsoft releases Windows 11 version 23H2
+ - [https://www.neowin.net/news/microsoft-releases-windows-11-version-23h2](https://www.neowin.net/news/microsoft-releases-windows-11-version-23h2)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T17:06:03+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1693400905_windows_11_23h2_medium.jpg" /></div>Microsoft has finally released Windows 11 version 23H2. Official images are now available for download, allowing you to clean-install the latest operating system from the software giant. <a href="https://www.neowin.net/news/microsoft-releases-windows-11-version-23h2">Read more...</a>
+
+## Price Drop! Save 96% on lifetime access to StackSkills Unlimited
+ - [https://www.neowin.net/deals/price-drop-save-97-on-lifetime-access-to-stackskills-unlimited](https://www.neowin.net/deals/price-drop-save-97-on-lifetime-access-to-stackskills-unlimited)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T17:00:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2019/05/1557819974_product_27377_product_shots1_image_medium.jpg" /></div>With today&#039;s highlighted deal, discover your potential with access to 1000+ Premium online courses on coding, design, marketing and much more. Get this time-limited discount today! <a href="https://www.neowin.net/deals/price-drop-save-97-on-lifetime-access-to-stackskills-unlimited">Read more...</a>
+
+## Save 32% on Dell's 32-inch 4K monitor with narrow bezels and picture-in-picture support
+ - [https://www.neowin.net/deals/save-32-on-dells-32-inch-4k-monitor-with-narrow-bezels-and-picture-in-picture-support](https://www.neowin.net/deals/save-32-on-dells-32-inch-4k-monitor-with-narrow-bezels-and-picture-in-picture-support)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T16:00:08+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698760961_dell_4k_monitor_2_medium.jpg" /></div>Dell&#039;s SE3223Q 32-inch 4K UHD monitor is now available for the lowest price with a 32% discount. You can get this high-resolution display with narrow bezels for only $249 and save $115. <a href="https://www.neowin.net/deals/save-32-on-dells-32-inch-4k-monitor-with-narrow-bezels-and-picture-in-picture-support">Read more...</a>
+
+## Python Machine Learning ($24.00 Value) eBook FREE for a Limited Time
+ - [https://www.neowin.net/sponsored/python-machine-learning-2400-value-ebook-free-for-a-limited-time](https://www.neowin.net/sponsored/python-machine-learning-2400-value-ebook-free-for-a-limited-time)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T16:00:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698743892_py_machine_medium.jpg" /></div>Python Machine Learning is essential reading for students, developers, or anyone with a keen interest in taking their coding skills to the next level. Claim it now for free, before the offer ends.  <a href="https://www.neowin.net/sponsored/python-machine-learning-2400-value-ebook-free-for-a-limited-time">Read more...</a>
+
+## Microsoft Teams updates in October 2023 included a new People app and more
+ - [https://www.neowin.net/news/microsoft-teams-updates-in-october-2023-included-a-new-people-app-and-more](https://www.neowin.net/news/microsoft-teams-updates-in-october-2023-included-a-new-people-app-and-more)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T15:54:54+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698766821_people_app_in_teams_medium.jpg" /></div>Microsoft has posted its roundup of all the new updates it has added to Teams in October. They include a new People app, along with a new Portrait Blur option, and many more additions. <a href="https://www.neowin.net/news/microsoft-teams-updates-in-october-2023-included-a-new-people-app-and-more">Read more...</a>
+
+## Microsoft says it will be revamping its Xbox Insider community and communication efforts
+ - [https://www.neowin.net/news/microsoft-says-it-will-be-revamping-its-xbox-insider-community-and-communication-efforts](https://www.neowin.net/news/microsoft-says-it-will-be-revamping-its-xbox-insider-community-and-communication-efforts)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T15:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2020/03/1584472513_xihastronaut2020_medium.jpg" /></div>Microsoft has announced plans for a &quot;months-long transformation&quot; of its Xbox Insider community and social efforts, which will include plans to &quot;Improve communications&quot; with Insiders. <a href="https://www.neowin.net/news/microsoft-says-it-will-be-revamping-its-xbox-insider-community-and-communication-efforts">Read more...</a>
+
+## Remedy offers an update on its four upcoming games after the launch of Alan Wake 2
+ - [https://www.neowin.net/news/remedy-offers-an-update-on-its-four-upcoming-games-after-the-launch-of-alan-wake-2](https://www.neowin.net/news/remedy-offers-an-update-on-its-four-upcoming-games-after-the-launch-of-alan-wake-2)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T14:36:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2018/06/1528772023_screen_shot_2018-06-11_at_7.52.48_pm_medium.jpg" /></div>Remedy has launched Alan Wake 2 but the developer has four projects in various stages of production. Today, it offered an update on all four games, including the remakes of Max Payne 1 and 2. <a href="https://www.neowin.net/news/remedy-offers-an-update-on-its-four-upcoming-games-after-the-launch-of-alan-wake-2">Read more...</a>
+
+## You can buy the new Samsung Galaxy S23 FE phone and get a $100 Amazon gift card for free
+ - [https://www.neowin.net/deals/you-can-buy-the-new-samsung-galaxy-s23-fe-phone-and-get-a-100-amazon-gift-card-for-free](https://www.neowin.net/deals/you-can-buy-the-new-samsung-galaxy-s23-fe-phone-and-get-a-100-amazon-gift-card-for-free)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T14:06:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698759912_samsung-s23-fe-1_medium.jpg" /></div>The Samsung Galaxy S23 FE is the company&#039;s new affordable flagship smartphone model. You can get it unlocked at Amazon for $599.99 and get a $100 Amazon gift card at no additional cost. <a href="https://www.neowin.net/deals/you-can-buy-the-new-samsung-galaxy-s23-fe-phone-and-get-a-100-amazon-gift-card-for-free">Read more...</a>
+
+## Microsoft will add Football Manager 2024 and more to Xbox Game Pass soon
+ - [https://www.neowin.net/news/microsoft-will-add-football-manager-2024-and-more-to-xbox-game-pass-soon](https://www.neowin.net/news/microsoft-will-add-football-manager-2024-and-more-to-xbox-game-pass-soon)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T13:54:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698757904_tw_coming-soon_10.31.2023-e8f8616ee08e8e0b4fc4_medium.jpg" /></div>Microsoft will be adding a lot of games to its  Xbox Game Pass and PC Game Pass service over the next couple of weeks, including Football Manager 2024, while also removing eight games as well <a href="https://www.neowin.net/news/microsoft-will-add-football-manager-2024-and-more-to-xbox-game-pass-soon">Read more...</a>
+
+## NVIDIA 546.01 WHQL driver is out with CoD Modern Warfare 3 support and Halo Infinite fixes
+ - [https://www.neowin.net/news/nvidia-54601-whql-driver-is-out-with-cod-modern-warfare-3-support-and-halo-infinite-fixes](https://www.neowin.net/news/nvidia-54601-whql-driver-is-out-with-cod-modern-warfare-3-support-and-halo-infinite-fixes)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T12:42:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1692297768_mwiii-reveal-full-006_medium.jpg" /></div>NVIDIA has released a new driver with support and optimizations for the upcoming Call of Duty Modern Warfare III release and fixes for increased loading times and performance drops in Halo Infinite. <a href="https://www.neowin.net/news/nvidia-54601-whql-driver-is-out-with-cod-modern-warfare-3-support-and-halo-infinite-fixes">Read more...</a>
+
+## Atari acquires retro games publisher Digital Eclipse in $20 million deal
+ - [https://www.neowin.net/news/atari-acquires-retro-games-publisher-digital-eclipse-in-20-million-deal](https://www.neowin.net/news/atari-acquires-retro-games-publisher-digital-eclipse-in-20-million-deal)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T11:54:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698751623_atari-digital-eclipse_medium.jpg" /></div>Atari has acquired retro game publisher Digital Eclipse in a $20 million deal that will see the renowned classic game compilation studio develop its collections under the Atari banner. <a href="https://www.neowin.net/news/atari-acquires-retro-games-publisher-digital-eclipse-in-20-million-deal">Read more...</a>
+
+## Apple has finally killed the MacBook Pro TouchBar
+ - [https://www.neowin.net/news/apple-has-finally-killed-the-macbook-pro-touchbar](https://www.neowin.net/news/apple-has-finally-killed-the-macbook-pro-touchbar)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T05:04:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698720806_macbook_pro_touch_bar_medium.jpg" /></div>Apple has finally said goodbye to the Touch Bar secondary display that replaced the function keys. The hardware was introduced around seven years ago with the release of the 2016 MacBook Pro. <a href="https://www.neowin.net/news/apple-has-finally-killed-the-macbook-pro-touchbar">Read more...</a>
+
+## BlackBerry CEO John Chen will depart the company after 10 years
+ - [https://www.neowin.net/news/blackberry-ceo-john-chen-will-depart-the-company-after-10-years](https://www.neowin.net/news/blackberry-ceo-john-chen-will-depart-the-company-after-10-years)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T01:32:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698714183_jc-23-agm-875x530px-hdr_medium.jpg" /></div>John Chen revealed today he will depart BlackBerry as its CEO on November 4, which will be 10 years to the day that he came on board the tech company and moved it away from the smartphone business. <a href="https://www.neowin.net/news/blackberry-ceo-john-chen-will-depart-the-company-after-10-years">Read more...</a>
+
+## Microsoft releases new free Windows 11 virtual machines
+ - [https://www.neowin.net/news/microsoft-releases-new-free-windows-11-virtual-machines-3](https://www.neowin.net/news/microsoft-releases-new-free-windows-11-virtual-machines-3)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T01:12:02+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_medium.jpg" /></div>Microsoft has updated its official free Windows 11 virtual machines, also known as Windows Development Environment. Version 2310 is now available for download with September 2023 cumulative updates. <a href="https://www.neowin.net/news/microsoft-releases-new-free-windows-11-virtual-machines-3">Read more...</a>
+
+## Apple announces new 14-inch and 16-inch MacBook Pros with M3 chips
+ - [https://www.neowin.net/news/apple-announces-new-14-inch-and-16-inch-macbook-pros-with-m3-chips](https://www.neowin.net/news/apple-announces-new-14-inch-and-16-inch-macbook-pros-with-m3-chips)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T01:02:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698712803_apple-macbook-pro-2up-231030-bleed-image.jpg.xlarge_medium.jpg" /></div>Apple has unveiled new 14- and 16-inch MacBook Pros powered by third-generation M Series chips. These models are up to 11 times faster than Intel Macs and up to 2.5 times faster than prior M1 Max. <a href="https://www.neowin.net/news/apple-announces-new-14-inch-and-16-inch-macbook-pros-with-m3-chips">Read more...</a>
+
+## Apple officially reveals the M3, M3 Pro and M3 Max processors
+ - [https://www.neowin.net/news/apple-officially-reveals-the-m3-m3-pro-and-m3-max-processors](https://www.neowin.net/news/apple-officially-reveals-the-m3-m3-pro-and-m3-max-processors)
+ - RSS feed: https://www.neowin.net/news/rss/
+ - date published: 2023-10-31T00:52:01+00:00
+
+<div style="float: left; margin-right: 10px;"><img alt="" src="https://cdn.neowin.com/news/images/uploaded/2023/10/1698712399_apple-m3-chip-series-architecture-231030_big.jpg.large_medium.jpg" /></div>As expected, Apple announced a new family of in-house processors for Mac PCs; the M3, M3 Pro, and M3 Max. They also announced new versions of the MacBook Pro and all-in-one iMac with those chips. <a href="https://www.neowin.net/news/apple-officially-reveals-the-m3-m3-pro-and-m3-max-processors">Read more...</a>
+

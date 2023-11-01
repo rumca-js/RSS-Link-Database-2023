@@ -1,0 +1,93 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## As Alberta threatens to pull out of CPP, Freeland calls a meeting with other finance ministers
+ - [https://www.cbc.ca/news/politics/freeland-meeting-provinces-cpp-1.7014242?cmp=rss](https://www.cbc.ca/news/politics/freeland-meeting-provinces-cpp-1.7014242?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T17:40:33+00:00
+
+<img alt="Deputy Prime Minister and Minister of Finance Chrystia Freeland holds a press conference in Ottawa" height="349" src="https://i.cbc.ca/1.7014251.1698781671!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alta-pension-plan-20231031.JPG" title="Deputy Prime Minister and Minister of Finance Chrystia Freeland holds a press conference in Ottawa on Tuesday, Oct. 31, 2023." width="620" /><p>Finance Minister Chrystia Freeland said Tuesday she would convene a meeting with her provincial and territorial counterparts later this week to discuss Alberta's proposal to pull out of the Canada Pension Plan.</p>
+
+## Patient, employee data taken in ransomware attack of 5 Ontario hospitals could be published
+ - [https://www.cbc.ca/news/canada/windsor/patient-data-employee-could-be-published-1.7013835?cmp=rss](https://www.cbc.ca/news/canada/windsor/patient-data-employee-could-be-published-1.7013835?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T11:28:39+00:00
+
+<img alt="Data obtained by CBC News from both Windsor Regional Hospital and Bluewater Health in Sarnia shows a decline in abortion procedures." height="349" src="https://i.cbc.ca/1.6638190.1698765163!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/windsor-regional-hospital-and-bluewater-health.jpg" title="Data obtained by CBC News from both Windsor Regional Hospital and Bluewater Health in Sarnia shows a decline in abortion procedures." width="620" /><p>The IT systems provider for five southwestern Ontario hospitals says patient and staff data have been taken and could be published in an ongoing ransomware attack.</p>
+
+## All aboard Danielle Smith's bullet train to never-ending Alberta super-growth
+ - [https://www.cbc.ca/news/canada/calgary/alberta-population-danielle-smith-high-speed-rail-analysis-1.7013363?cmp=rss](https://www.cbc.ca/news/canada/calgary/alberta-population-danielle-smith-high-speed-rail-analysis-1.7013363?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T10:55:30+00:00
+
+<img alt="Rendering of a modern train going through a scrubby prairie landscape." height="349" src="https://i.cbc.ca/1.6095318.1698708439!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/prairie-link-project.jpg" title="Prairie Link would run through Edmonton, Red Deer and Calgary." width="620" /><p>The premier has Alberta government preparing for the population to double to 10 million by 2050, way above government projections. And, perhaps, a Calgary-Edmonton high-speed train to move all those people.</p>
+
+## Some N.S. seniors struggling financially say they need support from friends, family to make ends meet
+ - [https://www.cbc.ca/news/canada/nova-scotia/some-n-s-seniors-struggling-financially-say-they-need-support-from-friends-family-to-make-ends-meet-1.7012833?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/some-n-s-seniors-struggling-financially-say-they-need-support-from-friends-family-to-make-ends-meet-1.7012833?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T09:14:00+00:00
+
+<img alt="" height="349" src="https://thumbnails.cbc.ca/maven_legacy/thumbnails/457/926/st_POTTIE_seniors_frame_857.jpg" title="" width="620" /><p>According to a recent report, one in 10 seniors in Nova Scotia are living in poverty. Some Cape Breton residents 65 and older say money is getting tighter each year — but they're making it work with the support of family and friends. Erin Pottie shares some of their stories.</p>
+
+## Canada's economy was flat for second month in a row in August, new GDP numbers show
+ - [https://www.cbc.ca/news/business/canada-gdp-august-1.7013612?cmp=rss](https://www.cbc.ca/news/business/canada-gdp-august-1.7013612?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T08:50:45+00:00
+
+<img alt="A worker welds at a Volkswagen owned facility in Quebec." height="349" src="https://i.cbc.ca/1.6982239.1695990338!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/canada-volvo-factory.jpg" title="A welder works at the Volvo Group-owned Prevost factory in Sainte-Claire, Quebec, Canada, on Friday, May 5, 2023. In Quebec City, the local unemployment rate hovers around 2.5%, near the lowest of any North American city over 500,000 people. Photographer: Renaud Philippe/Bloomberg" width="620" /><p>Canada's economy is showing clear signs of a slowdown, as the total value of all goods and services sold was essentially unchanged in July and August — and likely September, too.</p>
+
+## How a soul-searching journey to Japan landed Canada's Hana Furumoto-Deshaies in Pan Am Games dojo
+ - [https://www.cbc.ca/sports/pan-american-games/pan-am-games-karate-hana-furumoto-deshaies-1.7005736?cmp=rss](https://www.cbc.ca/sports/pan-american-games/pan-am-games-karate-hana-furumoto-deshaies-1.7005736?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T08:26:00+00:00
+
+<img alt="A karate athletes gets in fighting position." height="349" src="https://i.cbc.ca/1.7005862.1698113534!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/furumoto-deshaies-hana-102323.jpg" title="Canada&apos;s Hana Furumoto-Deshaies is looking to bring home a medal from the Pan Am Games in Santiago, Chile." width="620" /><p>Now 27 and ranked fourth worldwide in her weight class, Canadian karate athlete Hana Furumoto-Deshaies is off to her first multi-sport competition at the Pan Am Games in Santiago, Chile.</p>
+
+## No tricks, just treats: This street makes Halloween more accessible to autistic kids
+ - [https://www.cbc.ca/news/canada/montreal/halloween-accessible-kids-with-autism-rue-bleue-1.7013573?cmp=rss](https://www.cbc.ca/news/canada/montreal/halloween-accessible-kids-with-autism-rue-bleue-1.7013573?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T06:48:17+00:00
+
+<img alt="Pierre Anthian and daughter Eve packing Halloween candy. " height="349" src="https://i.cbc.ca/1.7013604.1698754608!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/pierre-anthian-and-daughter-eve.jpeg" title="Pierre Anthian and his daughter, Eve, " width="620" /><p></p>
+
+## Stealing your kids' Halloween candy is a time-honoured tradition I'm happy to embrace
+ - [https://www.cbc.ca/news/canada/saskatoon/first-person-craig-silliphant-steal-halloween-candy-1.7006307?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/first-person-craig-silliphant-steal-halloween-candy-1.7006307?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T06:48:17+00:00
+
+<img alt="A man with glasses holds a finger to his mouth in a shushing motion while stealing from a Halloween candy bucket with the other hand." height="349" src="https://i.cbc.ca/1.7006368.1698270124!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/silliphant-candy-bucket.JPG" title="Craig Silliphant says stealing your kids&apos; Halloween candy is an almost-universal parenting experience." width="620" /><p></p>
+
+## Ottawa teacher suspended for 2 days after confining student in locker
+ - [https://www.cbc.ca/news/canada/ottawa/teacher-suspension-locker-college-franco-ouest-1.7013016?cmp=rss](https://www.cbc.ca/news/canada/ottawa/teacher-suspension-locker-college-franco-ouest-1.7013016?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T05:30:00+00:00
+
+<img alt="A school&apos;s entrance in autumn." height="349" src="https://i.cbc.ca/1.7013121.1698755025!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/college-catholique-franco-ouest.jpg" title="Collège catholique Franco-Ouest, where the incident took place in December 2020." width="620" /><p>A student at a Bells Corners French school says the two minutes he spent confined to a locker at age 12 left him shaken and in tears.</p>
+
+## Amid an opioid crisis, Nova Scotia sees growing number of cocaine overdose deaths
+ - [https://www.cbc.ca/news/canada/nova-scotia/overdose-deaths-cocaine-rise-1.7006030?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/overdose-deaths-cocaine-rise-1.7006030?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T05:00:02+00:00
+
+<img alt="An emergency sign on a building is shown." height="349" src="https://i.cbc.ca/1.7012486.1698676202!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/emergency.jpg" title="The emergency department sign at Aberdeen Hospital in New Glasgow, N.S., is shown in 2017." width="620" /><p>Cocaine has quietly become implicated in a growing number of overdose deaths in Nova Scotia, with some experts warning that the public discussion around the dangers of drug use needs to broaden beyond the focus on potent opioids.</p>
+
+## More than 100 foreign-trained doctors apply to new licensing program in New Brunswick
+ - [https://www.cbc.ca/news/canada/new-brunswick/doctors-college-physicians-surgeons-new-brunswick-foreign-trained-licence-1.7012884?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/doctors-college-physicians-surgeons-new-brunswick-foreign-trained-licence-1.7012884?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T05:00:00+00:00
+
+<img alt="A smiling white lady with blonde hair, wearing a blue top. " height="349" src="https://i.cbc.ca/1.7012898.1698693012!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nicole-leblanc.JPG" title="Nicole LeBlanc, deputy registrar at New Brunswick&apos;s College of Physicians and Surgeons has worked closely to develop the Provinces&apos; PRA program." width="620" /><p>A new program launched this month by the New Brunswick College of Physicians and Surgeons designed to increase the number of doctors licensed to practise in the province.</p>
+
+## Ontario college revokes international student admissions again — leaving hundreds scrambling
+ - [https://www.cbc.ca/news/canada/toronto/ontario-college-revokes-applications-again-1.7012594?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-college-revokes-applications-again-1.7012594?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T05:00:00+00:00
+
+<img alt="A building at dusk." height="349" src="https://i.cbc.ca/1.5514707.1698695807!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/northern-college.jpg" title="Northern College revoked 200 international student admissions for Winter 2024 term. This comes in less than three months after the college revoked 500 admissions this Fall." width="620" /><p>Hundreds of international students are scrambling after an Ontario college revoked their January admissions letters, prompting concerns about how a lack of provincial oversight keeps colleges from facing repercussions for admitting more students than they can handle.</p>
+
+## P.E.I. suffered 'shocking' coastline loss from Fiona, data analysis shows
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-coastline-loss-2022-post-fiona-report-1.7010862?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-coastline-loss-2022-post-fiona-report-1.7010862?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-canada
+ - date published: 2023-10-31T05:00:00+00:00
+
+<img alt="A woman in an orange safety vest talks into a radio on a beach with dunes in the background " height="349" src="https://i.cbc.ca/1.7010960.1698695417!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/catherine-kennedy.jpg" title="Catherine Kennedy is a masters student at the UPEI School of Climate Change and Adaptation, and has worked on a peg line coastal monitoring for the last 5 years. " width="620" /><p>Now that all the numbers have been crunched, researchers at UPEI's School of Climate Change and Adaptation can confidently say that Prince Edward Island lost a record amount of shoreline in 2022.</p>
+
