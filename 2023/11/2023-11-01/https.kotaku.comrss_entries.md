@@ -1,0 +1,142 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Adidas Is Selling Miles Morales' 'Worst' Spider-Man 2 Suit
+ - [https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029](https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T22:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/164d6547245ae5db843a6c7ee5622367.jpg" /><p>Miles Morales has a lot of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/spiderman-2-miles-morales-best-suits-playstation-5-1850954248">stylish new suits in Marvel’s Spider-Man 2</a>. Unfortunately, one of the new Miles suits is getting virtually tarred and feathered online for being one of his absolute worst superhero looks. Someone probably should’ve let Adidas know, because now the athletic clothing company is selling the…</p><p><a href="https://kotaku.com/adidas-miles-morales-collab-evolved-suit-collection-1850983029">Read more...</a></p>
+
+## Everything Announced During Disney Dreamlight Valley's Showcase Event
+ - [https://kotaku.com/disney-dreamlight-valley-showcase-multiplayer-update-1850982970](https://kotaku.com/disney-dreamlight-valley-showcase-multiplayer-update-1850982970)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T21:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/78ad6315b47dfa2a23287b78f9e86f48.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/disney-dreamlight-valley-review-animal-crossing-stardew-1849507154">Disneys Dreamlight Valley</a> is finally getting online multiplayer as part of its big December update. We also learned about future free updates that will add more characters and realms as well as more details on the game’s first paid expansion launching in December, too. </p><p><a href="https://kotaku.com/disney-dreamlight-valley-showcase-multiplayer-update-1850982970">Read more...</a></p>
+
+## Overwatch 2’s K-Pop Collab Prices Have Fans Conflicted
+ - [https://kotaku.com/overwatch-2-le-sserafim-k-pop-skin-prices-1850982605](https://kotaku.com/overwatch-2-le-sserafim-k-pop-skin-prices-1850982605)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T21:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/04ca6f5d06d835d7a137450ce8b3bb6a.jpg" /><p>Overwatch 2’s collaboration with K-pop group Le Sserafim is out now, and it brings a limited-time game mode, cosmetics for specific heroes, and an animated music video featuring characters attending the group’s concert. But now that the skins, emotes, and other cosmetics are out, fans are feeling split on how much the…</p><p><a href="https://kotaku.com/overwatch-2-le-sserafim-k-pop-skin-prices-1850982605">Read more...</a></p>
+
+## PS Plus November Offerings Are Pretty Underwhelming
+ - [https://kotaku.com/ps-plus-november-2023-mafia-2-1850982149](https://kotaku.com/ps-plus-november-2023-mafia-2-1850982149)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T20:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4e1241ab40e84916cc35737769959ff6.jpg" /><p>Sony announced November’s free titles for game subscription service PlayStation Plus <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://blog.playstation.com/2023/11/01/playstation-plus-monthly-games-for-november-mafia-ii-definitive-edition-dragon-ball-the-breakers-aliens-fireteam-elite/" rel="noopener noreferrer" target="_blank">in a November 1 blog</a>. The games will be available to add to your library November 7 through December 4, though PS Plus’ typically limited play window might not be enough to convince subscribers to rush to download this month’s main…</p><p><a href="https://kotaku.com/ps-plus-november-2023-mafia-2-1850982149">Read more...</a></p>
+
+## I Use My Xbox Series S For Shooters And My PS5 For Everything Else
+ - [https://kotaku.com/xbox-series-s-playstation-5-ps5-games-more-popular-1850981929](https://kotaku.com/xbox-series-s-playstation-5-ps5-games-more-popular-1850981929)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T20:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4ffac97b2a3ec97bcb20171489fd9075.jpg" /><p>On the frontline of the console wars, it’s difficult to find perspective. Whether you’ve already chosen a side and are deep in the trenches, or you’re just trying to figure out if an Xbox Series X (<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.amazon.com/Xbox-X/dp/B08H75RTZ8/?asc_campaign=kinjakotakulink-20&amp;asc_refurl=https://kotaku.com/xbox-series-s-playstation-5-ps5-games-more-popular-1850981929&amp;asc_source=&amp;tag=kinjakotakulink-20" rel="sponsored noopener noreferrer nofollow noskim" target="_blank">see on Amazon</a>) or PS5 (<a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.amazon.com/PlayStation-5-Console-CFI-1215A01X/dp/B0BCNKKZ91/?asc_campaign=kinjakotakulink-20&amp;asc_refurl=https://kotaku.com/xbox-series-s-playstation-5-ps5-games-more-popular-1850981929&amp;asc_source=&amp;tag=
+
+## This Rad Fan-Made Bloodborne Racing Game Finally Has A Release Date
+ - [https://kotaku.com/bloodborne-kart-fan-game-release-date-trailer-1850981931](https://kotaku.com/bloodborne-kart-fan-game-release-date-trailer-1850981931)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/7433ad9ffafb4e26c5263c3aaf0fd923.jpg" /><p>Last year, the creators of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/fantastic-looking-bloodborne-ps1-demake-is-out-january-1847971763">Bloodborne PSX</a>, a popular fan-made demake of From Software’s beloved 2015 action role-playing game, Bloodborne <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.amazon.com/Bloodborne-Hits-PlayStation-4/dp/B07DNLYMV4/?asc_campaign=kinjakotakulink-20&amp;asc_refurl=https://kotaku.com/bloodborne-kart-fan-game-release-date-trailer-1850981931&amp;asc_source=&amp;tag=kinjakotakulink-20" rel="sponsored noopener noreferrer nofollow noskim" target="_blank">(see on Amazon)</a>, made headlines announcing their next project: Bloodborne Kart. At the time, developer Lillith Walther told Kotaku that the racing game would be released “when it’s…</p><p><a href="htt
+
+## Marvel Nearly Pivoted To Dr. Doom After Kang Actor Legal Case
+ - [https://kotaku.com/marvel-doctor-doom-kang-jonathan-majors-1850981679](https://kotaku.com/marvel-doctor-doom-kang-jonathan-majors-1850981679)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T19:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a06df560ce73b5732a154b7a981cdd26.jpg" /><p>The Marvel Cinematic Universe is in a weird place right now. Between <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/marvel-victoria-alonso-ike-perlmutter-jonathan-majors-1850289779">shake-ups in upper management</a>, Jonathan Majors’ <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://variety.com/2023/film/news/jonathan-majors-more-alleged-abuse-victims-cooperate-with-da-office-assault-1235588870/" rel="noopener noreferrer" target="_blank">legal trouble following domestic violence charges in March</a>, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.avclub.com/on-set-vfx-workers-petition-unionize-marvel-studios-1850715420">animators unionizing</a>, and a complete <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.avclub.com/marvel-tv-failure-
+
+## Gran Turismo 7 Update Adds Four-Player Splitscreen Mode
+ - [https://kotaku.com/gran-turismo-7-gt7-1-4-update-split-screen-new-cars-ps5-1850981590](https://kotaku.com/gran-turismo-7-gt7-1-4-update-split-screen-new-cars-ps5-1850981590)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T18:31:39+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/784692b0f771ddfe68f2598e36453b18.jpg" /><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://jalopnik.com/gran-turismo-7-is-a-racing-sim-that-isnt-afraid-to-be-a-1848602261">Gran Turismo 7’s</a> upcoming 1.40 update is adding new cars, a snowy racetrack, and four-player splitscreen support, letting folks race each other on the couch like it’s the ‘90s all over again.<br /></p><p><a href="https://kotaku.com/gran-turismo-7-gt7-1-4-update-split-screen-new-cars-ps5-1850981590">Read more...</a></p>
+
+## Remedy’s Return To Max Payne Is An Opportunity To Reinvent The Series
+ - [https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091](https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T17:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4799131f4e05f4d3c290174e990eb89b.jpg" /><p>The Max Payne remake project has entered “production readiness,” according to developer Remedy Entertainment <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://investors.remedygames.com/announcements/remedy-entertainment-plc-business-review-january-september-2023-alan-wake-2-launched-with-a-great-reception-laying-the-foundation-for-future/" rel="noopener noreferrer" target="_blank">in a message to investors</a>. </p><p><a href="https://kotaku.com/max-payne-remake-remedy-alan-wake-control-1850981091">Read more...</a></p>
+
+## 2023’s Best Soulslike Is Getting DLC And A Sequel
+ - [https://kotaku.com/lies-of-p-sequel-dlc-dorothy-oz-1850981029](https://kotaku.com/lies-of-p-sequel-dlc-dorothy-oz-1850981029)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T17:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/07d0b3955d106293f4c976b16abc2977.jpg" /><p>One of the year’s best Soulslikes, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/lies-of-p-release-bloodborne-pinocchio-soulslike-acab-1850830775">Lies of P</a>, is getting new content in the form of a DLC expansion, as well as (eventually) a full-fledged sequel.<br /></p><p><a href="https://kotaku.com/lies-of-p-sequel-dlc-dorothy-oz-1850981029">Read more...</a></p>
+
+## Star Ocean 2 Gets The Definitive Remake Every Classic PS1 RPG Deserves
+ - [https://kotaku.com/star-ocean-2-second-story-review-remake-switch-ps5-1850980995](https://kotaku.com/star-ocean-2-second-story-review-remake-switch-ps5-1850980995)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T17:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/f9480ac70a07e8a1fdded63c9eac83f6.jpg" /><p>We’ve seen Square Enix port a lot of beloved RPGs from the original PlayStation to modern platforms in recent years. Some have been fine. A few have been disappointing. None of them seemed quite worthy of the source material they were working with…until Star Ocean The Second Story R. The Final Fantasy maker’s latest…</p><p><a href="https://kotaku.com/star-ocean-2-second-story-review-remake-switch-ps5-1850980995">Read more...</a></p>
+
+## There's Finally A New Silent Hill Game And Fans Already Hate It
+ - [https://kotaku.com/silent-hill-ascension-reddit-reactions-konami-1850980911](https://kotaku.com/silent-hill-ascension-reddit-reactions-konami-1850980911)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4d1ee0d436536660e674d5f275e0100b.jpg" /><p>Konami’s Silent Hill franchise has been dormant for over 10 years. The last mainline game, 2012’s Silent Hill: Downpour, received <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/silent-hill-downpour-made-you-the-monster-1832640116">mixed reviews</a>, with most players put off by its messy combat and scares. It was up to <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/silent-hill-ascension-trailer-release-date-twitch-1850486480">Silent Hill: Ascension</a>, the first new installment in a decade to help nudge the series back to the…</p><p><a href="https://kotaku.com/silent-hill-ascension-reddit-reactions-konami-1850980911">Read more...</a></p>
+
+## President Biden Worried About AI After Watching Latest Mission: Impossible
+ - [https://kotaku.com/president-joe-biden-mission-impossible-ai-tech-order-1850980643](https://kotaku.com/president-joe-biden-mission-impossible-ai-tech-order-1850980643)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T16:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b6917695ed8a4d1e777a3783176aae35.jpg" /><p>President Joe Biden signed an executive order designed to create the first real US regulations and suggestions about artificial intelligence on October 30. The order came after months of meetings about <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/assassin-s-creed-ai-ezio-art-ubisoft-1850977102">AI tech</a>, though the White House also confirmed that, strangely, the new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mission-impossible-dead-reckoning-tom-cruise-movie-game-1850637210">Mission: Impossible</a> film played a part in its…</p><p><a href="https://kotaku.com/president-joe-biden-mission-impossible-ai-tech-order-1850980643">Read more...</a></p>
+
+## Metal Gear Solid Actor Weighs In On Controversial 'Revealing Costume'
+ - [https://kotaku.com/metal-gear-mgs-quiet-outfit-controversy-design-1850980602](https://kotaku.com/metal-gear-mgs-quiet-outfit-controversy-design-1850980602)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/114f4314cb72c6aba92d4fa8ef954140.jpg" /><p>Ever since <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/metal-gear-solid-v-the-phantom-pain-the-kotaku-review-1728728287">Metal Gear Solid V: The Phantom Pain</a> was released in 2015, its eagle-eyed sniper, Quiet, has been at the epicenter of online debates over her revealing default outfit, and the backstory that supported it. Now, Quiet’s actress has finally weighed in on the discourse over her character’s getup. </p><p><a href="https://kotaku.com/metal-gear-mgs-quiet-outfit-controversy-design-1850980602">Read more...</a></p>
+
+## Persona 5 Tactica Has Me Questioning If I Want More Phantom Thieves Games
+ - [https://kotaku.com/persona-5-tactica-preview-akechi-kasumi-sumire-1850980514](https://kotaku.com/persona-5-tactica-preview-akechi-kasumi-sumire-1850980514)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T16:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e49b50ad8072f3449a0bc5dd46d0e22c.jpg" /><p>About five hours into Persona 5 Tactica, the tactical RPG spin-off of the Phantom Thieves’ supernatural adventures through corrupted Tokyo, I find myself thinking about Persona 5 Royal more than what’s going on in this group’s latest adventure. This is less a condemnation of Tactica than it is the broader handling of P…</p><p><a href="https://kotaku.com/persona-5-tactica-preview-akechi-kasumi-sumire-1850980514">Read more...</a></p>
+
+## Mario Kart 8's Final Update Is A Treat For Wii And Rosalina Fans
+ - [https://kotaku.com/mario-kart-8-deluxe-dlc-booster-pack-6-1850980293](https://kotaku.com/mario-kart-8-deluxe-dlc-booster-pack-6-1850980293)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T15:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dc5491050cf0d1e97342a14aa403fecb.jpg" /><p>Mario Kart 8 Deluxe, Nintendo’s beloved Switch racer, is finally getting its last major expansion on November 9. And it’s one for the Rosalina and Wii fans.<br /></p><p><a href="https://kotaku.com/mario-kart-8-deluxe-dlc-booster-pack-6-1850980293">Read more...</a></p>
+
+## Switch Loses App You Probably Didn’t Even Know It Had
+ - [https://kotaku.com/nintendo-switch-twitch-app-eshop-1850980082](https://kotaku.com/nintendo-switch-twitch-app-eshop-1850980082)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T14:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ed42df0ee4ddb8bc250bdce87c4de660.jpg" /><p>While it does have a handful of consumption apps like YouTube, Hulu, and Crunchyroll in the eShop, the Nintendo Switch is typically used for gaming and little else. That became a bit more true today, as the official Twitch app is getting tossed from Nintendo’s hybrid console.</p><p><a href="https://kotaku.com/nintendo-switch-twitch-app-eshop-1850980082">Read more...</a></p>
+
+## Super Mario Bros. Wonder Badges, Ranked From Worst To Best
+ - [https://kotaku.com/super-mario-bros-wonder-badges-best-worst-ranking-1850977031](https://kotaku.com/super-mario-bros-wonder-badges-best-worst-ranking-1850977031)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2e36362add0bd9ff095db19c815d85d2.jpg" /><p>Badges are one of the best new additions that Super Mario Bros. Wonder brings to Nintendo’s perennial platforming series. This new piece of equipment lets Mario and his friends take on new abilities, which in turn lets you customize your play style to accommodate your own strengths and weaknesses. But not all Badges…</p><p><a href="https://kotaku.com/super-mario-bros-wonder-badges-best-worst-ranking-1850977031">Read more...</a></p>
+
+## November’s Game Releases Should Thrill RPG, Call Of Duty Fans
+ - [https://kotaku.com/november-2023-modern-warfare-3-releases-robocop-mario-1850977458](https://kotaku.com/november-2023-modern-warfare-3-releases-robocop-mario-1850977458)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T14:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/0b8ec22443d1d0b6074583cb3a819ab4.jpg" /><p>There are only two months left in what is quite likely <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/2023-best-year-games-goty-switch-ps5-xbox-1850968555">one of the most epic years in gaming</a>. We’ve already had some incredible games this year, and hopefully there are still a few more to come. </p><p><a href="https://kotaku.com/november-2023-modern-warfare-3-releases-robocop-mario-1850977458">Read more...</a></p>
+
+## Spider-Man 3 Has Plenty Of Ways To Bring Back Venom
+ - [https://kotaku.com/spider-man-3-has-plenty-of-ways-to-bring-back-venom-1850976956](https://kotaku.com/spider-man-3-has-plenty-of-ways-to-bring-back-venom-1850976956)
+ - RSS feed: https://kotaku.com/rss
+ - date published: 2023-11-01T13:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ea7a6fe538b4b2f1adba46a349528ff4.jpg" /><p>It’s hard to say no to more Symbiote. Insomniac’s <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/marvel-spider-man-2-review-ps5-venom-miles-morales-1850929271">Spider-Man 2</a> explores a totally new story about iconic alien parasite, and while many of the game’s plot threads get resolved by the end of the story, there’s still plenty of room for future DLC or a sequel to bring Spider-Man’s beloved foil Venom back for more…</p><p><a href="https://kotaku.com/spider-man-3-has-plenty-of-ways-to-bring-back-venom-1850976956">Read more...</a></p>
+
