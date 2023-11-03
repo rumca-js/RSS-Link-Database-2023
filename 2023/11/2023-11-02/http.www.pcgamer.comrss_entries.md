@@ -1,0 +1,170 @@
+# Source:pcgamer, URL:http://www.pcgamer.com/rss, language:en-US
+
+## The PC game releases we're most excited about in November
+ - [https://www.pcgamer.com/november-2023-pc-game-releases](https://www.pcgamer.com/november-2023-pc-game-releases)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T23:24:20+00:00
+
+Contemplative sci-fi games, Call of Duty, a Persona spin-off, and other notable November releases.
+
+## Radiant Silvergun is finally on Steam, and I'm thrilled that its PC port does justice to one of the best shumps of all time
+ - [https://www.pcgamer.com/radiant-silvergun-is-finally-on-steam-and-im-thrilled-that-its-pc-port-does-justice-to-one-of-the-best-shumps-of-all-time](https://www.pcgamer.com/radiant-silvergun-is-finally-on-steam-and-im-thrilled-that-its-pc-port-does-justice-to-one-of-the-best-shumps-of-all-time)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T22:44:58+00:00
+
+Radiant Silvergun's port full full of new graphical and scoring options is something to be Treasured.
+
+## Payday 3's long-overdue first patch is live: 'We’re finally up and running as things should be'
+ - [https://www.pcgamer.com/payday-3s-long-overdue-first-patch-is-live-were-finally-up-and-running-as-things-should-be](https://www.pcgamer.com/payday-3s-long-overdue-first-patch-is-live-were-finally-up-and-running-as-things-should-be)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T21:34:04+00:00
+
+The patch makes a number of fixes and balance changes, but it's not enough for some fans.
+
+## Baldur's Gate 3's new patch made its thirstiest companion slower to warm up to you, with dire consequences for its beloved Sex% speedrun category
+ - [https://www.pcgamer.com/baldurs-gate-3s-new-patch-made-its-thirstiest-companion-slower-to-warm-up-to-you-with-dire-consequences-for-its-beloved-sex-speedrun-category](https://www.pcgamer.com/baldurs-gate-3s-new-patch-made-its-thirstiest-companion-slower-to-warm-up-to-you-with-dire-consequences-for-its-beloved-sex-speedrun-category)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T21:19:35+00:00
+
+Lae'zel has suddenly developed much stricter standards.
+
+## Bungie issues statement to Destiny community following layoffs: 'We know we have lost a lot of your trust'
+ - [https://www.pcgamer.com/bungie-issues-statement-to-destiny-community-following-layoffs-we-know-we-have-lost-a-lot-of-your-trust](https://www.pcgamer.com/bungie-issues-statement-to-destiny-community-following-layoffs-we-know-we-have-lost-a-lot-of-your-trust)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T19:54:35+00:00
+
+The Destiny 2 studio says it's committed to "exceeding your expectations" with The Final Shape expansion, but there's still no word of a delay.
+
+## Robocop: Rogue City review
+ - [https://www.pcgamer.com/robocop-rogue-city-review](https://www.pcgamer.com/robocop-rogue-city-review)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T19:52:37+00:00
+
+I'd buy that for 20 dollars!
+
+## Cities: Skylines 2 patch fixes 'unnecessarily large' character textures, removes 'offensive' radio ad
+ - [https://www.pcgamer.com/cities-skylines-2-patch-fixes-unnecessarily-large-character-textures-removes-offensive-radio-ad](https://www.pcgamer.com/cities-skylines-2-patch-fixes-unnecessarily-large-character-textures-removes-offensive-radio-ad)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T19:28:55+00:00
+
+Citizens might start hogging less processing power, though we're still not completely sure about their teeth.
+
+## The next Sims 4 expansion finally adds functional apartments but also eviction anxiety and malicious mold
+ - [https://www.pcgamer.com/the-next-sims-4-expansion-finally-adds-functional-apartments-but-also-eviction-anxiety-and-malicious-mold](https://www.pcgamer.com/the-next-sims-4-expansion-finally-adds-functional-apartments-but-also-eviction-anxiety-and-malicious-mold)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T18:57:21+00:00
+
+The next Sims expansion delivers another long-requested feature wrapped in the dire realities of renting.
+
+## Where to find the Ghost House safe code in RoboCop: Rogue City
+ - [https://www.pcgamer.com/robocop-rogue-city-ghost-house-safe-code](https://www.pcgamer.com/robocop-rogue-city-ghost-house-safe-code)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T18:02:19+00:00
+
+Break open this vault to retrieve some crime evidence.
+
+## I put Doritos' new noise suppression tech to the test across 5 separate crisp brands and was appalled by the results
+ - [https://www.pcgamer.com/i-put-doritos-new-noise-suppression-tech-to-the-test-across-5-separate-crisp-brands-and-was-appalled-by-the-results](https://www.pcgamer.com/i-put-doritos-new-noise-suppression-tech-to-the-test-across-5-separate-crisp-brands-and-was-appalled-by-the-results)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T17:38:58+00:00
+
+Much as I wish I could, I cannot recommend Doritos Silent for your next online gaming session.
+
+## Samsung's monster-sized Ark gaming monitor gets a refresh and for a mere $3000, you too can hook up four PCs to the same screen
+ - [https://www.pcgamer.com/samsungs-monster-sized-ark-gaming-monitor-gets-a-refresh-and-for-a-mere-dollar3000-you-too-can-hook-up-four-pcs-to-the-same-screen](https://www.pcgamer.com/samsungs-monster-sized-ark-gaming-monitor-gets-a-refresh-and-for-a-mere-dollar3000-you-too-can-hook-up-four-pcs-to-the-same-screen)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T17:21:50+00:00
+
+Not exactly the cheapest way to enjoy a LAN-cum-split-screen gaming session.
+
+## The Invincible review
+ - [https://www.pcgamer.com/the-invincible-review](https://www.pcgamer.com/the-invincible-review)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T16:44:01+00:00
+
+This intriguing sci-fi adventure shows the value of a novel approach.
+
+## Elden Ring: Shadow of the Erdtree development is 'proceeding smoothly' but sorry, there's still no release date
+ - [https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-development-is-proceeding-smoothly-but-sorry-theres-still-no-release-date](https://www.pcgamer.com/elden-ring-shadow-of-the-erdtree-development-is-proceeding-smoothly-but-sorry-theres-still-no-release-date)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T16:22:14+00:00
+
+The latest financial report from FromSoftware's parent company says it's going great, and not a whole lot else.
+
+## The Talos Principle 2 review
+ - [https://www.pcgamer.com/the-talos-principle-2-review](https://www.pcgamer.com/the-talos-principle-2-review)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T16:04:43+00:00
+
+The Talos Principle 2 brings fresh human context to its beautiful world of puzzles.
+
+## Football Manager 2024 review
+ - [https://www.pcgamer.com/football-manager-2024-review](https://www.pcgamer.com/football-manager-2024-review)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T15:00:38+00:00
+
+Despite its slow pace, this is the most engrossing Football Manager has been for years.
+
+## Silent Hill: Ascension underestimates the rowdiness of stream chat, who—given the wheel—crashed the whole thing into a ditch so fast they had to turn it off
+ - [https://www.pcgamer.com/silent-hill-ascension-underestimates-the-rowdiness-of-stream-chat-whogiven-the-wheelcrashed-the-whole-thing-into-a-ditch-so-fast-they-had-to-turn-it-off](https://www.pcgamer.com/silent-hill-ascension-underestimates-the-rowdiness-of-stream-chat-whogiven-the-wheelcrashed-the-whole-thing-into-a-ditch-so-fast-they-had-to-turn-it-off)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T14:59:24+00:00
+
+"She Pyramid my Head till I Ascension griddy skibibi".
+
+## Yaaas, AMD's FSR 2.2 has finally been patched into Baldur's Gate 3
+ - [https://www.pcgamer.com/baldurs-gate-3-fsr-2-2-now-available](https://www.pcgamer.com/baldurs-gate-3-fsr-2-2-now-available)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T14:52:55+00:00
+
+I am in handheld gaming PC heaven right now.
+
+## If Intel's latest GPU drivers are delivering a 750% fps boost in Halo imagine how bad it was before
+ - [https://www.pcgamer.com/if-intels-latest-gpu-drivers-are-delivering-a-750-fps-boost-in-halo-imagine-how-bad-it-was-before](https://www.pcgamer.com/if-intels-latest-gpu-drivers-are-delivering-a-750-fps-boost-in-halo-imagine-how-bad-it-was-before)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T13:10:59+00:00
+
+Hell's bells, the game might actually run well on a Arc graphics card now.
+
+## AMD swaps Zen 4 cores for Zen 4c in two new entry-level laptop APUs stating 'no human being would ever know the difference'
+ - [https://www.pcgamer.com/amd-swaps-zen-4-cores-for-zen-4c-in-two-new-entry-level-laptop-apus-stating-no-human-being-would-ever-know-the-difference](https://www.pcgamer.com/amd-swaps-zen-4-cores-for-zen-4c-in-two-new-entry-level-laptop-apus-stating-no-human-being-would-ever-know-the-difference)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T13:01:33+00:00
+
+Just don't call them AMD Efficient-cores, okay?
+
+## Baldur's Gate 3's latest patch has over 1,000 fixes—but most importantly, it lets you buy a butt-naked statue of yourself
+ - [https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-over-1000-fixesbut-most-importantly-it-lets-you-buy-a-butt-naked-statue-of-yourself](https://www.pcgamer.com/baldurs-gate-3s-latest-patch-has-over-1000-fixesbut-most-importantly-it-lets-you-buy-a-butt-naked-statue-of-yourself)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T12:25:42+00:00
+
+You can also clean your grimey companions with soap, praise Mystra.
+
+## Greg Street, who quit working on the League of Legends MMO to do 'something new,' has revealed that the new thing is another MMO
+ - [https://www.pcgamer.com/greg-street-who-quit-working-on-the-league-of-legends-mmo-to-do-something-new-has-revealed-that-the-new-thing-is-another-mmo](https://www.pcgamer.com/greg-street-who-quit-working-on-the-league-of-legends-mmo-to-do-something-new-has-revealed-that-the-new-thing-is-another-mmo)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T12:00:08+00:00
+
+Fantastic Pixel Castle is a new Netease studio that's currently working on an fantasy MMO codenamed Ghost.
+
+## 2023 gets even better for Morrowind fans as Skyrim port project gives a spooktacular look at its magical leprosy village
+ - [https://www.pcgamer.com/2023-gets-even-better-for-morrowind-fans-as-skyrim-port-project-gives-a-spooktacular-look-at-its-magical-leprosy-village](https://www.pcgamer.com/2023-gets-even-better-for-morrowind-fans-as-skyrim-port-project-gives-a-spooktacular-look-at-its-magical-leprosy-village)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T11:56:38+00:00
+
+Don't mess with Morrowind fans. We have a devastating inability to let go of things that happened over 20 years ago.
+
+## Wordle today: Hint and answer #866 for Thursday, November 2
+ - [https://www.pcgamer.com/wordle-today-answer-866-november-2](https://www.pcgamer.com/wordle-today-answer-866-november-2)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T04:04:07+00:00
+
+Help with the #866 Wordle if you need it.
+
+## 'No expense spared and not a single corner cut': After 11 months of work, one of Japan's most beloved PS2 games is finally playable in English
+ - [https://www.pcgamer.com/no-expense-spared-and-not-a-single-corner-cut-after-11-months-of-work-one-of-japans-most-beloved-ps2-games-is-finally-playable-in-english](https://www.pcgamer.com/no-expense-spared-and-not-a-single-corner-cut-after-11-months-of-work-one-of-japans-most-beloved-ps2-games-is-finally-playable-in-english)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-11-02T00:30:38+00:00
+
+5000 lines of English translation later, Boku no Natsuyasumi 2's fan translation is complete.
+
