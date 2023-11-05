@@ -1,0 +1,16 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed/, language:en-US
+
+## Washington state senator behind wealth tax proposal responds to Bezos’ departure
+ - [https://www.geekwire.com/2023/washington-state-senator-behind-wealth-tax-proposal-responds-to-bezos-departure](https://www.geekwire.com/2023/washington-state-senator-behind-wealth-tax-proposal-responds-to-bezos-departure)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-11-04T17:26:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="300" src="https://cdn.geekwire.com/wp-content/uploads/2023/11/Sen-Frame_Noel-2023_300x300.jpeg" width="300" /><br />Washington Sen. Noel Frame isn&#8217;t disappointed in Jeff Bezos&#8217; decision to move to Miami, despite the potential loss of revenue from a wealth tax she&#8217;s been pushing for in her home state. Frame spoke to GeekWire on Friday following news that the Amazon founder is moving away from his longtime home in the Seattle area to be closer to family in Miami and operations for his Blue Origin space venture. Bezos, who stepped down as Amazon CEO in 2021, didn&#8217;t cite taxes in his Instagram post announcing the move to Miami, but the decision sparked questions about whether tax policy&#8230; <a href="https://www.geekwire.com/2023/washington-state-senator-behind-wealth-tax-proposal-responds-to-bezos-departure/">Read More</a>
+
+## GeekWire Podcast: Bezos’ big move, Convoy’s last stop, AI meets VC, and more news of the week
+ - [https://www.geekwire.com/2023/geekwire-podcast-bezos-big-move-convoys-last-stop-ai-meets-vc-and-more-news-of-the-week](https://www.geekwire.com/2023/geekwire-podcast-bezos-big-move-convoys-last-stop-ai-meets-vc-and-more-news-of-the-week)
+ - RSS feed: https://www.geekwire.com/feed/
+ - date published: 2023-11-04T15:04:23+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2023/11/jeffsgarage-1260x945.jpg" width="1260" /><br />What should we make of Jeff Bezos&#8217; decision to move from Seattle to Miami? It&#8217;s tempting to see the Amazon founder&#8217;s departure as a blow to the Seattle region. But like many of us, he was a transplant, and different from Microsoft co-founders Bill Gates and the late Paul Allen in that way, in his reasons for being here and ultimately in his long-term commitment to the place.  That said, Bezos did as much as anyone to change this city and region, indirectly and directly, for better and worse, over the course of three decades. In that way, at least&#8230; <a href="https://www.geekwire.com/2023/geekwire-podcast-bezos-big-move-convoys-last-stop-ai-meets-vc-and-more-news-of-the-week/">Read More</a>
+
