@@ -1,0 +1,38 @@
+# Source:Ign - YouTube, URL:https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw, language:en-US
+
+## Vampire Survivors - Official 1.8 Adventures Update Trailer
+ - [https://www.youtube.com/watch?v=LnpKVieYZR0](https://www.youtube.com/watch?v=LnpKVieYZR0)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-11-05T20:00:07+00:00
+
+Vampire Survivors is a 2D pixel-graphic bullet hell action roguelike game developed by Poncle. Players will face thousands of creatures to survive until dawn by upgrading abilities and weapons to become powerful. The 1.8 Adventures Update is introducing Adventures to Vampire Survivors coming packed with new remixed content for the game along with side-quests containing deep lore about the game itself. The ability to start fresh without losing unlocks will also be included in the 1.8 Adventures Update for Vampire Survivors launching soon for Xbox One, Xbox Series S|X, Nintendo Switch, iOS, Android, and PC.
+
+#VampireSurvivors #AdventuresUpdate
+
+## Teardown - Official Gameplay Overview Trailer
+ - [https://www.youtube.com/watch?v=77MzwpZmDDM](https://www.youtube.com/watch?v=77MzwpZmDDM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-11-05T17:30:01+00:00
+
+Teardown is a sandbox physics destruction heist game developed by Tuxedo Labs. Players will utilize the fully destructible environments to prepare the perfect heist in the story campaign, carefree sandbox modes, or creative modes for players to design their very own user-created content. Take a look at the gameplay overview trailer to get a rundown on what Teardown has to offer, launching on November 15 for PlayStation 5 and Xbox Series S|X.
+
+#Teardown #Gameplay
+
+## What You Need to Know Before Watching The Marvels: Story So Far
+ - [https://www.youtube.com/watch?v=NPxlVSuqXy8](https://www.youtube.com/watch?v=NPxlVSuqXy8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-11-05T17:00:26+00:00
+
+In The Marvels, Carol Danvers (Brie Larson), Monica Rambeau (Teyonah Parris), and Kamala Khan (Iman Vellani) join forces with Nick Fury (Samuel L. Jackson) to fight a Kree named Dar-Benn (Zawe Ashton), who is threatening to destroy more worlds. They form a fast team, but if you’re wondering what Fury has been up to and who are if you haven’t watched the different Disney+ series (WandaVision, Ms. Marvel, Secret Invasion) we have you covered with a comprehensive recap that also traces the Skrull’s time on Earth and how much the cosmic world has grown since Avengers: Endgame.
+
+#TheMarvels #StorySoFar
+
+## Reverse: 1999 - Official Version 1.1 'The Theft of the Rimet Cup' Trailer
+ - [https://www.youtube.com/watch?v=iyq_pekQeTk](https://www.youtube.com/watch?v=iyq_pekQeTk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+ - date published: 2023-11-05T15:30:11+00:00
+
+Reverse: 1999 is a turn-based strategy time travel adventure RPG game developed by Bluepoch Co Ltd. Reverse: 1999 will soon release its version 1.1 update bringing three new characters the Great Thief Melania, the degenerate hippy Diggers, and the philosophical Border Collie Pickles to the game. Version 1.1 also brings new events, garments, a limited-time seasonal challenge, and more to Reverse: 1999. Version 1.1 for Reverse: 1999 is launching on November 9 for iOS, Android, and PC.
+
+#Reverse1999
+

@@ -1,0 +1,471 @@
+# Source:Pakistan Observer, URL:https://pakobserver.net/feed/, language:en-US
+
+## Gold prices in Pakistan inch downward with slight drop
+ - [https://pakobserver.net/gold-prices-in-pakistan-inch-downward-with-slight-drop](https://pakobserver.net/gold-prices-in-pakistan-inch-downward-with-slight-drop)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:26:37+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/05/gold-rate-in-pakistan-today-24-March-2023-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The price of 24-karat gold in Pakistan reached Rs214,000 per tola, while 10 grams of 24-karat gold were priced at Rs183,471. Moreover, the rate of 22-karat gold in Pakistan reached Rs196,167 per tola, while 10 grams of 22-karat gold were stood at Rs168,182. It’s important to note that gold rates in Pakistan can fluctuate multiple [&#8230;]
+
+## IRSA releases 107,100 cusecs water
+ - [https://pakobserver.net/irsa-releases-107100-cusecs-water-3](https://pakobserver.net/irsa-releases-107100-cusecs-water-3)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:26:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/10/irsa-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Indus River System Authority (IRSA) on Sunday released 107,100 cusecs water from various rim stations with inflow of 51,000 cusecs. According to the data released by IRSA, water level in River Indus at Tarbela Dam was 1520.31 feet and was 122.31 feet higher than its dead level of 1,398 feet. Water inflow and outflow in [&#8230;]
+
+## Pakistan’s cotton production increases by 82 pc
+ - [https://pakobserver.net/pakistans-cotton-production-increases-by-82-pc](https://pakobserver.net/pakistans-cotton-production-increases-by-82-pc)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:26:32+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/encomey-watch-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan registers an 82 percent increase in cotton production as compared to last year, the Pakistan Cotton Ginners Association said on Saturday. As of Oct. 31, around 6.8 million bales arrived at the ginning factories across the country as compared to 3.7 million bales last year after the crop got damaged by floods and heavy [&#8230;]
+
+## Introduction of PayPal to boost Pakistan tech ecosystem
+ - [https://pakobserver.net/introduction-of-paypal-to-boost-pakistan-tech-ecosystem](https://pakobserver.net/introduction-of-paypal-to-boost-pakistan-tech-ecosystem)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:26:31+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/encomey-watch-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An international IT investor, tech entrepreneur and digitalization expert, Noman Said has categorically stated that the introduction of globally-accepted payment gateways of PayPal and Stripe are going to revolutionize Pakistan’s tech ecosystem &#8211; and, we are going to experience a major inward repatriationary flow and flux in international payments. At least 1200 IT companies based [&#8230;]
+
+## China’s Urban passenger trips soar 16.7 pc in first three quarters
+ - [https://pakobserver.net/chinas-urban-passenger-trips-soar-16-7-pc-in-first-three-quarters](https://pakobserver.net/chinas-urban-passenger-trips-soar-16-7-pc-in-first-three-quarters)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:26:30+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/02/china-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />China’s urban public transport logged robust growth in the first three quarters of this year, with the number of passenger trips jumping 16.7 percent year on year, official data showed. During this period, 69.95 billion passenger trips were handled by the country’s urban public transport system, according to the Ministry of Transport. Specifically, passenger trips [&#8230;]
+
+## PCB Management Committee gets three-month extension
+ - [https://pakobserver.net/pcb-management-committee-gets-three-month-extension](https://pakobserver.net/pcb-management-committee-gets-three-month-extension)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:11:56+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/517539_767312_updates-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The federal government Saturday extended the tenure of Zaka Ashraf as chairman of the Pakistan Cricket Board’s (PCB) Management Committee for three months. According to a notification issued by the Ministry of Inter-Provincial Coordination (IPC), the management committee is only authoritised to perform the primary task of finalising the board of governance (BoG) and conduct [&#8230;]
+
+## World Cup 2023: Asthmatic players skip practice as Bangladesh coach says Delhi air ‘not ideal’
+ - [https://pakobserver.net/world-cup-2023-asthmatic-players-skip-practice-as-bangladesh-coach-says-delhi-air-not-ideal](https://pakobserver.net/world-cup-2023-asthmatic-players-skip-practice-as-bangladesh-coach-says-delhi-air-not-ideal)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:11:55+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/PZII7NVG6JO37HXYM4TPJ5NLDQ-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Asthmatic Bangladesh cricketers remained indoors ahead of their World Cup clash against Sri Lanka, with coach Chandika Hathurusinghe citing the air quality in smog-shrouded New Delhi on Sunday. Both teams had already cancelled one practice session in the build-up to Monday’s match between eliminated Bangladesh and seventh-placed Sri Lanka, who have only the slimmest of [&#8230;]
+
+## Hamza bags Asian Taekwondo silver for Pakistan
+ - [https://pakobserver.net/hamza-bags-asian-taekwondo-silver-for-pakistan](https://pakobserver.net/hamza-bags-asian-taekwondo-silver-for-pakistan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:11:51+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-05-at-17-23-30-11699195418-0-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan’s Hamza Omar Saeed grabbed the silver medal at the Combaxx Asian Taekwondo Open finals on Sunday. Saeed finished second to Afghanistan’s Ali Akbar Ameeri in the +87 category, while Egypt’s Mohammad Ali secured the bronze medal. The winners shared the podium and the stage with squash legend Jahangir Khan who was present at the [&#8230;]
+
+## Pakistan fined for slow over rate against New Zealand
+ - [https://pakobserver.net/pakistan-fined-for-slow-over-rate-against-new-zealand](https://pakobserver.net/pakistan-fined-for-slow-over-rate-against-new-zealand)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:11:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/sports-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The International Cricket Council (ICC) on Sunday fined Pakistan for maintaining a slow over rate during the World Cup fixture against New Zealand at the M.Chinnaswamy Stadium, Bengaluru, India. The Green Shirts were fined 10% of their match fee by the international cricket body. A day earlier, Pakistan were declared winners in the crucial game [&#8230;]
+
+## Kashmiris to observe Jammu Martyrs’ Day today
+ - [https://pakobserver.net/kashmiris-to-observe-jammu-martyrs-day-today-3](https://pakobserver.net/kashmiris-to-observe-jammu-martyrs-day-today-3)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:05:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/Fg28sY9X0AIMihu-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Kashmiris on both sides of the Line of Control and the world over will observe the Jammu Martyrs’ Day, today, (Monday) to reaffirm the resolve to continue the martyrs’ mission till the realization of their inalienable right to self-determination. Hundreds of thousands of Kashmiris were massacred by the forces of Maharaja Hari Singh, Indian army [&#8230;]
+
+## ‘Sacrifices of Kashmiri martyrs will not go waste’
+ - [https://pakobserver.net/sacrifices-of-kashmiri-martyrs-will-not-go-waste](https://pakobserver.net/sacrifices-of-kashmiri-martyrs-will-not-go-waste)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:05:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/9460003221699087087-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Hurriyat leaders and organizations have paid glowing tributes to the Jammu martyrs of November 1947 and reiterated the Kashmiris’ resolve that sacrifices of the martyrs will not go waste. According to Kashmir Media Service, hundreds of thousands of Kashmiris were martyred by the forces of Dogra Maharaja Hari Singh, Indian Army and Hindu fanatics in [&#8230;]
+
+## Farooq Abdullah appeals authorities to allow Mirwaiz to do his religious duty
+ - [https://pakobserver.net/farooq-abdullah-appeals-authorities-to-allow-mirwaiz-to-do-his-religious-duty](https://pakobserver.net/farooq-abdullah-appeals-authorities-to-allow-mirwaiz-to-do-his-religious-duty)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:05:04+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/farooq-abdullah-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />National Conference President Farooq Abdullah has appealed to the authorities to allow Mirwaiz Umar Farooq to do his religious duty. According to Kashmir Media Service, Farooq Abdullah in a post on X, formerly twitter, strongly demanded permission for Mirwaiz Umar Farooq to resume his Friday routine in Srinagar Jamia Masjid. Meanwhile, Farooq Abdullah talking to [&#8230;]
+
+## Indian police arrest Abdul Samad Inqilabi
+ - [https://pakobserver.net/indian-police-arrest-abdul-samad-inqilabi](https://pakobserver.net/indian-police-arrest-abdul-samad-inqilabi)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:05:02+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/pic_1559396565-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Indian police today arrested Hurriyat leader and Chairman of Islami Tanzeem-e-Azadi Jammu and Kashmir Abdul Samad Inqilabi in Indian illegally occupied Jammu and Kashmir. According to Kashmir Media Service, the spokesman of Islami Tanzeem-e-Azadi in a statement issued in Srinagar said that Abdul Samad Inqilabi was released after a long detention a few months ago [&#8230;]
+
+## Jammu Genocide: Forgotten human carnage of disputed region
+ - [https://pakobserver.net/jammu-genocide-forgotten-human-carnage-of-disputed-region](https://pakobserver.net/jammu-genocide-forgotten-human-carnage-of-disputed-region)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T23:05:00+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/jammu-massacre-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Madiha Shakil Khan On the afternoon of July 10, the Bosnian Serb army soldiers began storming Srebrenica, a city of refuge created by the United Nations, where more than 40,000 people sought shelter from war. A United Nations officer in the town hunched over his computer and tapped out a desperate plea to his leaders [&#8230;]
+
+## The average Palestinian in Gaza is living on 2 pieces of bread a day: UN
+ - [https://pakobserver.net/the-average-palestinian-in-gaza-is-living-on-2-pieces-of-bread-a-day-un](https://pakobserver.net/the-average-palestinian-in-gaza-is-living-on-2-pieces-of-bread-a-day-un)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:57:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/download-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The average Palestin-ian in Gaza is living on two pieces of Arabic bread made from flour the United Nations had stockpiled in the region, yet the main refrain now being heard in the street is “Water, water,” the Gaza director for the U.N. agency for Palestinian refugees said Friday. Thomas White, who said he traveled [&#8230;]
+
+## ‘Solidarity for humanity’: Hundreds of thousands rally in Jakarta to support Palestine
+ - [https://pakobserver.net/solidarity-for-humanity-hundreds-of-thousands-rally-in-jakarta-to-support-palestine](https://pakobserver.net/solidarity-for-humanity-hundreds-of-thousands-rally-in-jakarta-to-support-palestine)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:57:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/4081841-251227220-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Hundreds of thousands of protesters gathered in central Jakarta on Sunday in Indonesia’s biggest display of solidarity with Palestinians since the beginning of Israel’s deadly onslaught on Gaza. Indonesia has been a staunch supporter of Palestine for decades, with its people and authorities seeing Palestinian statehood as mandated by their own constitution, which calls for [&#8230;]
+
+## Pakistani-American S Javaid Anwar honoured with International Philanthropist Award
+ - [https://pakobserver.net/pakistani-american-s-javaid-anwar-honoured-with-international-philanthropist-award](https://pakobserver.net/pakistani-american-s-javaid-anwar-honoured-with-international-philanthropist-award)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:57:43+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/1-6-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />S. Javaid Anwar, an American citizen of Pakistani origin, was honoured with the “Outstanding International Philanthropist Award” by the World Affairs Council of Greater Houston, at their 25th Annual Jesse H. Jones Award Luncheon. Former us President George W. Bush presented the award to Anwar at a special ceremony held at the Presidential Reception. He [&#8230;]
+
+## North Korea creates new holiday to mark ICBM test launch
+ - [https://pakobserver.net/north-korea-creates-new-holiday-to-mark-icbm-test-launch](https://pakobserver.net/north-korea-creates-new-holiday-to-mark-icbm-test-launch)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:57:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/International-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />North Korea has created a new holiday to celebrate the anniversary of the successful test launch of its Hwasong-17 intercontinental ballistic missile last year, state media reported Sunday. On November 18, 2022, Pyongyang carried out what is believed to be the first full flight test of the Hwasong-17 &#8212; dubbed the “monster missile” by analysts. [&#8230;]
+
+## Daily Cartoon 06-11-2023
+ - [https://pakobserver.net/daily-cartoon-06-11-2023](https://pakobserver.net/daily-cartoon-06-11-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:52:49+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/Cartoon-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />
+
+## Terror attack  foiled
+ - [https://pakobserver.net/terror-attack-foiled](https://pakobserver.net/terror-attack-foiled)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:49:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; In the early hours of Saturday, Pakistan Air Force (PAF) once again showcased its unwavering valour, thwarting a heinous terrorist attack at Mianwali Training Air Base. The resolute operation, culminating in the elimination of nine terrorists, not only underscores PAF’s remarkable skills and bravery but also adds another chapter to its illustrious history. This [&#8230;]
+
+## Cultural splendour on display
+ - [https://pakobserver.net/cultural-splendour-on-display](https://pakobserver.net/cultural-splendour-on-display)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:49:35+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The vibrancy of Pakistan’s cultural heritage takes centre stage at ongoing National Folk Festival, at Lok Virsa in the federal capital. Over the years, the festival has become a testament to country’s rich cultural tapestry, offering a delightful blend of provincial pavilions, shopping stalls, delectable food options and captivating musical performances. Minister for National [&#8230;]
+
+## Spectacular win
+ - [https://pakobserver.net/spectacular-win](https://pakobserver.net/spectacular-win)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:49:34+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/editorial-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; In a breathtaking World Cup 2023 clash, Pakistan stunned the cricket world with an impressive win over New Zealand. The game in Bengaluru on Saturday was a rollercoaster of emotions, with rain interruptions heightening the drama, but it was Fakhar Zaman’s extraordinary display that ultimately sealed Pakistan’s remarkable victory. His resilience and aggressive approach [&#8230;]
+
+## Nawaz Sharif: Return of the survivor
+ - [https://pakobserver.net/nawaz-sharif-return-of-the-survivor](https://pakobserver.net/nawaz-sharif-return-of-the-survivor)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:47:39+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/tariq-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />NO matter what his performance has been there is no doubt that Nawaz Sharif has been a great survivor throughout his political career. He has the capacity to be knocked down and get up again before the end of the count down and now his return from his self-imposed exile is proof of his great [&#8230;]
+
+## What is sacrosanct about 90 days?
+ - [https://pakobserver.net/what-is-sacrosanct-about-90-days](https://pakobserver.net/what-is-sacrosanct-about-90-days)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:46:46+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/Khalid-Saleem-final-last-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />WHAT is it that attracts so much attention to the 90 day period in this Land of the Pure? Think of anything and you are confronted with a mention of the 90 day period. The Constitution fixes the interim period between a dissolved parliament and the newly elected one at 90 days. The interim government [&#8230;]
+
+## Sindhi lays foundation stone of new academic block at GCU
+ - [https://pakobserver.net/sindhi-lays-foundation-stone-of-new-academic-block-at-gcu](https://pakobserver.net/sindhi-lays-foundation-stone-of-new-academic-block-at-gcu)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:18+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/HY-PH-051123-37-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The caretaker Federal Minister of Education and Professional Training Madad Ali Sindhi On Sunday visited the Government College (GC) University, Hyderabad. Upon reaching the university, the Vice-Chancellor, Professor Dr. Tayyaba Zarif welcomed the Education Minister and presented him with the traditional Sindhi ajrak, the universitys annual report and a souvenir. The Minister, along with [&#8230;]
+
+## KWSC main water line ruptures
+ - [https://pakobserver.net/kwsc-main-water-line-ruptures](https://pakobserver.net/kwsc-main-water-line-ruptures)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:15+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Karachi Water and Sewerage Corporation’s (KWSC) main water line around the city’s Steel Town ruptured on Sunday, halting the water supply to the city.According to the spokesperson of the water corporation, a 54-inch PRRC water supply line around Steel Town has been ruptured. Due to the affected line, the city is being supplied with [&#8230;]
+
+## Overseas Pakistani files online complaint of car theft
+ - [https://pakobserver.net/overseas-pakistani-files-online-complaint-of-car-theft](https://pakobserver.net/overseas-pakistani-files-online-complaint-of-car-theft)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; An overseas Pakistani living in New York, the United States has filed an online complaint of car theft at a police station in Karachi, SSP East Irfan Bahadur said. According to the complaint, filed at Shahrah-e-Faisal police station, Rizwan Ashraf alias Jhole Lal allegedly stole the car and sold it for Rs65,000 with a [&#8230;]
+
+## Tessori distributes cheques among artistes
+ - [https://pakobserver.net/tessori-distributes-cheques-among-artistes](https://pakobserver.net/tessori-distributes-cheques-among-artistes)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/Governor-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Sindh Governor Kamran Khan Tessori on Saturday distributed cheques of financial support among the artistes under the Legend Trust. Sohail Wajahat Siddiqui, Trustee, Legend Trust was also present on the occasion. Governor Sindh handed over the cheques of 23 months arrears to Ghulam Haider Siddiqui, Nighat Sultana Widow Salahuddin, Jan Bibi Widow Aziz Baloch, [&#8230;]
+
+## FIA arrests two over fake travel papers at airport
+ - [https://pakobserver.net/fia-arrests-two-over-fake-travel-papers-at-airport](https://pakobserver.net/fia-arrests-two-over-fake-travel-papers-at-airport)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:10+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/01/FIA-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; FIA immigration arrested two passengers at Karachi airport over fake travel documents.“The accused went Saudi Arabia for Umra pilgrimage,” Federal Investigation Agency (FIA) said. “They tried to travel Bosnia on fake documents”.“Arrested men Zain ul Abideen and Mohammad Akhtar arrived in Pakistan by an international flight,” FIA stated. The accused were also involved in [&#8230;]
+
+## One killed in Karachi Pink bus accident
+ - [https://pakobserver.net/one-killed-in-karachi-pink-bus-accident](https://pakobserver.net/one-killed-in-karachi-pink-bus-accident)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/03/kill-3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />At least one was killed and five others sustained injuries when a pink bus hit a rikshaw in Karachi. According to the details, an accident was reported from North Karachi Saleem Center where a pink bus – the first women-only bus service in Pakistan’s Sindh province – hit a three-wheeler rickshaw. The police officials reported [&#8230;]
+
+## Experts recommend industrial waste water purification to resolve scarcity
+ - [https://pakobserver.net/experts-recommend-industrial-waste-water-purification-to-resolve-scarcity](https://pakobserver.net/experts-recommend-industrial-waste-water-purification-to-resolve-scarcity)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Mehran University of Engineering and Technology Jamshoro has organized a seminar focused on the latest research findings concerning water issues here at the water research center of the university. In which the public was informed about the results of the research projects initiated with the grant of the Higher Education Commission of Pakistan. According [&#8230;]
+
+## Trans community unveils plan for one-day festival
+ - [https://pakobserver.net/trans-community-unveils-plan-for-one-day-festival](https://pakobserver.net/trans-community-unveils-plan-for-one-day-festival)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The transgender community in Pakistan has plans for the ‘Hijra Festival’ in the country, scheduled for the November 10 at the Arts Council of Pakistan Karachi. The festival, a one-day event, has multiple goals. Firstly, it aims to provide a platform for the transgender community to come together and celebrate collectively. Secondly, it intends [&#8230;]
+
+## Traffic violations in megacity on the rise: Altaf Shakoor
+ - [https://pakobserver.net/traffic-violations-in-megacity-on-the-rise-altaf-shakoor](https://pakobserver.net/traffic-violations-in-megacity-on-the-rise-altaf-shakoor)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:24:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Traffic violations are on the rise in the megacity Karachi as traffic police and related civic agencies are sitting cross-legged, said Pasban Democratic Party (PDP) Chairman AltafShakoor here Sunday.He said wrong-side driving and violation of traffic light signals has become a routine in Karachi, as the traffic police are more interested in extorting bribes [&#8230;]
+
+## Police constable held for drug peddling
+ - [https://pakobserver.net/police-constable-held-for-drug-peddling](https://pakobserver.net/police-constable-held-for-drug-peddling)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:02:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/police-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; In a demonstration of zero tolerance towards drug-related activities, the Keamari district police, acting on the directives of Karachi’s Additional IG Khadim Hussain Rind, has apprehended a police officer on charges of drug peddling.SSP Airf Aslam Rao announced on Friday that Head Constable Abdullah, who was stationed at the Investigation Unit of the Baldia [&#8230;]
+
+## Governor, CM attend Russian Consul General’s reception
+ - [https://pakobserver.net/governor-cm-attend-russian-consul-generals-reception](https://pakobserver.net/governor-cm-attend-russian-consul-generals-reception)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:02:13+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/CM-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Sindh Governor Muhammad Kamran Tessori has said there are deep ties between Pakistan and the Russian Federation, and many important projects of cooperation between the two countries have been ongoing in the past. Talking to the media at the reception hosted on the 75th diplomatic relations day, Unity Day of the Russian Federation, at [&#8230;]
+
+## Naegleria claims another life, tally rises to 11
+ - [https://pakobserver.net/naegleria-claims-another-life-tally-rises-to-11](https://pakobserver.net/naegleria-claims-another-life-tally-rises-to-11)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:02:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The Naegleria fowleri, brain-eating amoeba, has claimed the life of another patient in Karachi.According to the health department, a resident of Bufferzone Karachi in the metropolis died due to Naegleria. He was suffering from fever and headache for the last three days, said the spokesperson of the Sindh Health Department. This is the third [&#8230;]
+
+## Hunting season begins in Sindh
+ - [https://pakobserver.net/hunting-season-begins-in-sindh](https://pakobserver.net/hunting-season-begins-in-sindh)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:02:08+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/karachi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; The Sindh Wildlife Department has officially announced the launch of the hunting season in the province, which commences today (Sunday) and will conclude on March 3, 2024.Anyone interested in hunting birds, including foreign visitors, will need to obtain a hunting permit, which is available for a fee of $100. Each permit allows hunters to [&#8230;]
+
+## Muttahida to welcome repeal of 18th Amendment: Kamal
+ - [https://pakobserver.net/muttahida-to-welcome-repeal-of-18th-amendment-kamal](https://pakobserver.net/muttahida-to-welcome-repeal-of-18th-amendment-kamal)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:02:07+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/05/819257_5838557_Mustafa-Kamal_akhbar-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Pakistan cannot progress under the current system where power and resources do not trickle down from the offices of the prime minister and chief ministers.Muttahida Qaumi Movement-Pakistan (MQM-P) Senior Deputy Convener Mustafa Kamal said this while speaking to media representatives outside an accountability.“The country has suffered the most damage due to the 18th Amendment. [&#8230;]
+
+## CM orders beautification of Shahrah-e-Faisal
+ - [https://pakobserver.net/cm-orders-beautification-of-shahrah-e-faisal](https://pakobserver.net/cm-orders-beautification-of-shahrah-e-faisal)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T22:02:05+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/Justice-Baqar-named-Sindh-caretaker-CM-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />&#160; Sindh Caretaker Chief Minister Justice (retd) Maqbool Baqar has decided to improve and beautify the main arteries of the city to enhance the image of Karachi.“The people coming out of Jinnah Terminal and going to the airport take with them a very poor impression of the city because the road starting from the terminal [&#8230;]
+
+## Normal rains, above normal temperature likely in Pakistan during winter season
+ - [https://pakobserver.net/normal-rains-above-normal-temperature-likely-in-pakistan-during-winter-season](https://pakobserver.net/normal-rains-above-normal-temperature-likely-in-pakistan-during-winter-season)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T16:30:33+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/WW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; The Pakistan Meteorological Department (PMD) has predicted normal to slightly above normal rainfall and above normal temperature for Pakistan during the winter season. As per the synoptic situation, the positive phase of climate indicators like El Niño Southern Oscillation (ENSO) is expected to persist during November, December, and January 2023-24. A positive phase [&#8230;]
+
+## India thrash South Africa by 243 runs to lead World Cup 2023 points table
+ - [https://pakobserver.net/india-thrash-south-africa-by-243-runs-to-lead-world-cup-2023-points-table](https://pakobserver.net/india-thrash-south-africa-by-243-runs-to-lead-world-cup-2023-points-table)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T15:20:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/INDW-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KOLKATA – India thrashed South Africa by 243 runs in the ICC Men’s Cricket World Cup match at Eden Gardens in Kolkata on Sunday. Chasing a challenging 327-run target, South Africa kept losing wickets and the entire team was bundled out for 83 runs in 27.1 overs. After the victory, India now lead the points [&#8230;]
+
+## World Cup 2023: India set 327 runs target for South Africa
+ - [https://pakobserver.net/world-cup-2023-india-set-327-runs-target-for-south-africa](https://pakobserver.net/world-cup-2023-india-set-327-runs-target-for-south-africa)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T12:40:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/INDSA-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KOLKATA – India set a challenging 327-run target for South Africa in the ICC Men’s Cricket World Cup match at Eden Gardens in Kolkata on Sunday. After winning the toss and electing to bat first, India managed to reach 326 runs for the loss of five wickets in the allotted 50 overs. Openers Rohit Sharma [&#8230;]
+
+## Fawad Chaudhry sent to Police custody on two day physical remand
+ - [https://pakobserver.net/fawad-chaudhry-sent-to-police-custody-on-two-day-physical-remand](https://pakobserver.net/fawad-chaudhry-sent-to-police-custody-on-two-day-physical-remand)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T11:46:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/fawad-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD &#8211; A local court on Sunday granted a two-day physical remand of former PTI stalwart Fawad Chaudhry. Fawad was arrested last day and was taken to an unknown place. The former Federal Minister for Information; and Science and Technology was brought to the court in an armoured vehicle. His face was covered with a [&#8230;]
+
+## School of Tomorrow Events 2023 Kicks Off in Islamabad
+ - [https://pakobserver.net/school-of-tomorrow-events-2023-kicks-off-in-islamabad](https://pakobserver.net/school-of-tomorrow-events-2023-kicks-off-in-islamabad)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T11:37:06+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/IMG-20231105-WA0032-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ISLAMABAD, November 5th : The sixteenth edition of School of Tomorrow (SOT) Events, Guardians of the Future: Shaping Tomorrow with Generative AI, was launched at the Pakistan National Council of the Arts (PNCA) in Islamabad. Organised by Beaconhouse, the future-oriented three-day event is scheduled to continue until Monday, 6th November. Throughout its 23 years, SOT [&#8230;]
+
+## Pakistan Women A reach T20 tri-series final
+ - [https://pakobserver.net/pakistan-women-a-reach-t20-tri-series-final](https://pakobserver.net/pakistan-women-a-reach-t20-tri-series-final)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T10:47:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/PWAF-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE &#8211; Pakistan Women A defeated Thailand Women Emerging by 28 runs in the third match of the T20 tri-series at the Gaddafi Stadium on Sunday. The home side posted 121-4 on the back of a brilliant half-century by player of the match Shawaal Zulfiqar. Thailand Women Emerging could only manage to get to 93-5 [&#8230;]
+
+## LDA issues notice to Rosa Blanca Country Club in Lahore
+ - [https://pakobserver.net/lda-issues-notice-to-rosa-blanca-country-club-in-lahore](https://pakobserver.net/lda-issues-notice-to-rosa-blanca-country-club-in-lahore)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T10:20:24+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/07/lda-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LAHORE – Lahore Development Authority (LDA) has issued notice to Rosa Blanca, a well-known 196-kanal country club located on Raiwand Road, for non-payment of commercialization fees. As per the LDA media cell, Rosa Blanca Country Club management has been directed to pay Rs1.41 billion outstanding dues within five days. کمشنر و ڈی جی ایل ڈی [&#8230;]
+
+## Congo virus takes another life
+ - [https://pakobserver.net/congo-virus-takes-another-life](https://pakobserver.net/congo-virus-takes-another-life)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T09:17:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/Congo-virsu-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />QUETTA- The deadly Congo virus has taken another life in the provincial metropolis on Sunday. An ill-fated healthcare professional tested positive for the virus a few days back. He breathed his last on Sunday while he was being shifted to Karachi for treatment. As per media reports, at least 41 confirmed cases have been reported [&#8230;]
+
+## World Cup 2023: India elect to bat first against South Africa
+ - [https://pakobserver.net/world-cup-2023-india-elect-to-bat-first-against-south-africa](https://pakobserver.net/world-cup-2023-india-elect-to-bat-first-against-south-africa)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T08:22:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/INDSA-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KOLKATA – Indian skipper Rohit Sharma won the toss and elected to bat first against South Africa in the ICC Men’s Cricket World Cup match at Eden Gardens in Kolkata on Sunday. Both sides have already qualified for the semi-finals and the result of the match will decide the leading team on the points table. [&#8230;]
+
+## Currency exchange rates in Pakistan today – November 5, 2023
+ - [https://pakobserver.net/currency-exchange-rates-in-pakistan-today-november-5-2023](https://pakobserver.net/currency-exchange-rates-in-pakistan-today-november-5-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T06:36:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/curreny-rate-today-15-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The exchange rate for one US Dollar against Pakistani Rupees was recorded at Rs 282.45 in the local and open market, with a selling rate of Rs 285.25 on Sunday, November 5, 2023. Note: Exchange rates can vary based on the location and the Exchange Company or bank involved in the transaction. Below are [&#8230;]
+
+## Gold rate in Pakistan today – 5 November, 2023
+ - [https://pakobserver.net/gold-rate-in-pakistan-today-5-november-2023](https://pakobserver.net/gold-rate-in-pakistan-today-5-november-2023)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T06:32:42+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/gold-rate-in-pakistan-today-24-March-2023-1-1024x576-4-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />KARACHI – The gold rate of 24-karat is being traded at PKR 217,000 on Sunday, November 5, 2023. Similarly, the gold price for 24-karat was recorded at Rs 185,020 per 10g as per the bullion market. Gold Price in Pakistan’s different cities. City Gold Silver Karachi PKR 217,000 PKR 2,450 Lahore PKR 217,000 PKR 2,450 [&#8230;]
+
+## Earthquake in Nepal kills more than 150
+ - [https://pakobserver.net/earthquake-in-nepal-kills-more-than-150](https://pakobserver.net/earthquake-in-nepal-kills-more-than-150)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:27:54+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/1-5-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The death toll from a powerful midnight earthquake that struck western Nepal climbed to more than 150 people on Saturday, as the authorities and aid organizations rushed to provide relief for thousands of families stranded under the open sky and fearful of aftershocks. Rescuers worked through the day to push through roads blocked by landslides [&#8230;]
+
+## PCB announces Rs.1m cash reward for Fakhar
+ - [https://pakobserver.net/pcb-announces-rs-1m-cash-reward-for-fakhar](https://pakobserver.net/pcb-announces-rs-1m-cash-reward-for-fakhar)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:27:52+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/20231104225157_ogImage_10-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Pakistan Cricket Board Chairman Zaka Ashraf on Saturday announced a reward of one million rupees for Pakistan batter Fakhar Zaman for his match-winning performance in the ICC Cricket World Cup 2023 fixture against New Zealand at Bengaluru’s M. Chinnaswamy Stadium. The left-handed batter scored an unbeaten century to guide the side to a 21-run [&#8230;]
+
+## Nawaz to visit Sindh, Balochistan and KP
+ - [https://pakobserver.net/nawaz-to-visit-sindh-balochistan-and-kp](https://pakobserver.net/nawaz-to-visit-sindh-balochistan-and-kp)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:25:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/08/Nawaz-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Fida Hussnain Lahore The preparations are underway for Pakistan Muslim League-N Supremo Nawaz Sharif’s visit to Sindh, Khyber Pakhtunkhwa and Balochistan, the sources privy to the development said on Saturday. The sources said that Nawaz Sharif would visit all these three provinces at the end of the ongoing month, and the preparations are being finalized. [&#8230;]
+
+## IHC to hear Imran’s bail pleas on Nov 7
+ - [https://pakobserver.net/ihc-to-hear-imrans-bail-pleas-on-nov-7](https://pakobserver.net/ihc-to-hear-imrans-bail-pleas-on-nov-7)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:24:21+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/03/imran-khan-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Islamabad High Court fixed Pakistan Tehreek-e-Insaf chief Imran Khan’s restoration of bail appeal pleas in the £190 million Al-Qadir Trust reference and the Toshakhana NAB investigation cases for November 7, on Saturday. As per the cause list issued by the IHC Chief Justice Aamer Farooq and Justice Tariq Mahmood Jahangiri will lead the hearing. [&#8230;]
+
+## Post-war Gaza must be part of Palestinian state: Erdogan
+ - [https://pakobserver.net/post-war-gaza-must-be-part-of-palestinian-state-erdogan](https://pakobserver.net/post-war-gaza-must-be-part-of-palestinian-state-erdogan)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:24:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2020/12/Tayyip-Erdogan-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Turkish President Tayyip Erdogan said Gaza must be part of an independent, sovereign Palestinian state once the Israel-Hamas war is over, and Ankara will not support any plans “gradually erasing Palestinians” from history. “Once all of this that is happening is finished, we want to see Gaza as a peaceful region that is a part [&#8230;]
+
+## Israeli jets hit Lebanon after Hezbollah missile fire
+ - [https://pakobserver.net/israeli-jets-hit-lebanon-after-hezbollah-missile-fire](https://pakobserver.net/israeli-jets-hit-lebanon-after-hezbollah-missile-fire)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:24:16+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Lebanon’s Hezbollah said it carried out simultaneous attacks on Israeli positions at the Lebanese border on Saturday, as residents of south Lebanon reported some of the fiercest Israeli strikes yet during weeks of cross-border clashes. The Israeli army said its warplanes had struck Hezbollah targets in response to an earlier attack from Lebanese territory, and [&#8230;]
+
+## Sugarcane price increased
+ - [https://pakobserver.net/sugarcane-price-increased](https://pakobserver.net/sugarcane-price-increased)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:09:09+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/Sugar-cane-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The sugarcane price has been increased before the crushing season and the sugar rate is also likely to go up in the new season after the raise in sugarcane price. Sources said that the food department is considering to increase the price of sugarcane by Rs125 to Rs150 per maund. Sources said that Cane Commissioner’s [&#8230;]
+
+## SC orders property share for sisters after 42-year wait
+ - [https://pakobserver.net/sc-orders-property-share-for-sisters-after-42-year-wait](https://pakobserver.net/sc-orders-property-share-for-sisters-after-42-year-wait)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:09:03+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/02/election-for-coveted-punjab-cm-slot-to-be-held-on-july-22-rules-supremecourt-1656681729-6045-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In a long-delayed property dispute, the Supreme Court has finally ordered for two sisters to be given their rightful share in the family property after a wait of 42 years. The court imposed a hefty fine of Rs 1,000,000 for not handing over the property on time. In case of non-payment, a property of equivalent [&#8230;]
+
+## Israel strikes Gaza UN school, killing 20
+ - [https://pakobserver.net/israel-strikes-gaza-un-school-killing-20](https://pakobserver.net/israel-strikes-gaza-un-school-killing-20)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:08:44+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/11/1-4-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />At least 20 Palestinians were martyred while taking shelter in a school in Gaza City after Israeli forces on Friday night bombed the facility housing thousands of other displaced Palestinians, according to Palestinian media. The official Palestinian news agency WAFA reported: “The Israeli occupation forces committed a new massacre by bombing the Osama Bin Zaid [&#8230;]
+
+## Clerics proclaim ban on mingling of NGO women with ‘na mehram’ men
+ - [https://pakobserver.net/clerics-proclaim-ban-on-mingling-of-ngo-women-with-na-mehram-men](https://pakobserver.net/clerics-proclaim-ban-on-mingling-of-ngo-women-with-na-mehram-men)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:05:11+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A group of clerics in Kohistan on Saturday proclaimed that women working with non-governmental organisations would not be allowed to mingle with “na mahram” men in public and that doing so would require them to follow specific directives, contingent upon their marital status. A 12-member group of clerics issued a warning that if a married [&#8230;]
+
+## IMF mission unlikely to meet political parties
+ - [https://pakobserver.net/imf-mission-unlikely-to-meet-political-parties](https://pakobserver.net/imf-mission-unlikely-to-meet-political-parties)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:03:19+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/09/imf-rejects-pakistan-s-request-to-relax-dollar-6bn-external-financing-requirement-1685702861-6691-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The International Monetary Fund review mission is unlikely to meet political parties during its visit to Pakistan as talks for the next installment under the standby programme are underway. An IMF review mission landed in Pakistan on November 2 and reviewed the country’s progress on targets set in a $3 billion programme approved in July [&#8230;]
+
+## Naqvi orders implementation of one-dish policy
+ - [https://pakobserver.net/naqvi-orders-implementation-of-one-dish-policy](https://pakobserver.net/naqvi-orders-implementation-of-one-dish-policy)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:03:17+00:00
+
+<img alt="Mohsin Raza Naqvi" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/01/1-2-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Punjab’s caretaker Chief Minister Mohsin Naqvi has issued instructions for strict observance of the policy of one-dish and timely closure of banquet halls for wedding ceremonies. Taking notice of the violation of the government policy, the chief minister ordered the commissioners and deputy commissioners to ensure strict implementation of the policy of one-dish and timely [&#8230;]
+
+## Imran’s ‘Naya Pakistan was topi drama’: Khattak
+ - [https://pakobserver.net/imrans-naya-pakistan-was-topi-drama-khattak](https://pakobserver.net/imrans-naya-pakistan-was-topi-drama-khattak)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:02:27+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2023/06/opposition-rehber-committee-assured-government-a-peaceful-protest-pervez-khattak-1572333535-6569-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pakistan Tehreek-e-Insaf Parliamentarians chief Pervez Khattak has taken a jibe at Pakistan Tehreek-e-Insaf Chairman Imran Khan, saying his political slogan of “Naya (new) Pakistan” was a gimmick to gain votes. Khattak was among the dozens of PTI leaders who parted ways with the PTI chief and formed a breakaway faction of the PTI following the [&#8230;]
+
+## Gaza: Shehbaz bemoans world inaction
+ - [https://pakobserver.net/gaza-shehbaz-bemoans-world-inaction](https://pakobserver.net/gaza-shehbaz-bemoans-world-inaction)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:02:25+00:00
+
+<img alt="Pakistan floods" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/09/shehbaz-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Former prime minister Shehbaz Sharif has termed the silence of international organisations over the ongoing bloodshed of innocent Palestinians in Gaza as “shameful”. In a statement issued here Saturday, Shehbaz observed that Israel, an illegitimate state, could not hide its crimes through illegitimate actions. He said the Zionist state was violating the international laws, Geneva [&#8230;]
+
+## Punjab mill owners raise flour prices
+ - [https://pakobserver.net/punjab-mill-owners-raise-flour-prices](https://pakobserver.net/punjab-mill-owners-raise-flour-prices)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:01:47+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The flour mill owners in Punjab on Saturday announced to increase in flour prices in the Punjab province, citing a rise in prices of wheat in the market. Announcing the decision, Punjab Flour Mills owners said that the price of a 20-kilogram flour bag has been increased from Rs 2650 to Rs 2750, witnessing an [&#8230;]
+
+## Alvi should be in Attock Jail: JUI-F
+ - [https://pakobserver.net/alvi-should-be-in-attock-jail-jui-f](https://pakobserver.net/alvi-should-be-in-attock-jail-jui-f)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:01:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2021/03/juif-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Jamiat Ulema-i-Islam-F has stated that Arif Alvi should be in Attock Jail instead of President House. JUI-F spokesperson Aslam Ghauri said that if Arif Alvi continued as the president of Pakistan it would be detrimental to the country and its constitution. The JUI-F leader demanded the resignation of President Alvi before the elections. Aslam Ghauri [&#8230;]
+
+## Guinea dictator escapes from jail
+ - [https://pakobserver.net/guinea-dictator-escapes-from-jail](https://pakobserver.net/guinea-dictator-escapes-from-jail)
+ - RSS feed: https://pakobserver.net/feed/
+ - date published: 2023-11-05T00:01:41+00:00
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://pakobserver.net/wp-content/uploads/2022/11/top-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Gunmen stormed the main prison in Guinea’s capital early Saturday and freed former dictator Moussa “Dadis” Camara, the country’s justice minister said, announcing the closure of the West African nation’s borders. The announcement by Justice Minister Charles Alphonse Wright came several hours after heavy gunfire erupted in the Kaloum district of the capital, Conakry.—Reuters
+
