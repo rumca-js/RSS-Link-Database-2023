@@ -1,0 +1,117 @@
+# Source:Popular Science, URL:https://www.popsci.com/feed, language:en-US
+
+## The Juno spacecraft spotted evidence of a salty ocean on Jupiter’s biggest moon
+ - [https://www.popsci.com/science/juno-salt-ocean-ganymede-jupiter](https://www.popsci.com/science/juno-salt-ocean-ganymede-jupiter)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T22:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Three moons and Jupiter, plus the NASA probe Juno." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/Juno-NASA.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Juno observed Jupiter and three of its moons, including Ganymede, furthest to the left. <span class="orgnc-SingleImage-credit">NASA/JPL-Caltech/SwRI/MSSS</span></figcaption></figure><p>Ganymede, the largest moon in the solar system, might be layered with ice and liquid.</p>
+<p>The post <a href="https://www.popsci.com/science/juno-salt-ocean-ganymede-jupiter/" rel="nofollow">The Juno spacecraft spotted evidence of a salty ocean on Jupiter&#8217;s biggest m
+
+## Watch an uncrewed Navy ‘ghost boat’ fire live missiles
+ - [https://www.popsci.com/technology/us-navy-uncrewed-boat-test-fires-weapons](https://www.popsci.com/technology/us-navy-uncrewed-boat-test-fires-weapons)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T21:37:13+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A MARTAC T-38 Devil Ray unmanned surface vehicle on Oct. 26 in the Persian Gulf." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/uncrewed-naval-ship.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">A MARTAC T-38 Devil Ray unmanned surface vehicle on Oct. 26 in the Persian Gulf. <span class="orgnc-SingleImage-credit">Jacob Vernier / US Navy</span></figcaption></figure><p>The small munitions hit floating targets as part of an exercise. Take a look.</p>
+<p>The post <a href="https://www.popsci.com/technology/us-navy-uncrewed-boat-test-fires-weapons/" rel="nofollow">Watch an uncrewed Navy &#8216;ghost boat&#8217; f
+
+## Megalodon’s warm-blooded relatives are still circling the oceans today
+ - [https://www.popsci.com/environment/megalodons-warm-blooded-shark](https://www.popsci.com/environment/megalodons-warm-blooded-shark)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T21:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A side view of a great white shark. Regional endothermy in fish has been seen in apex predators like the great white sharks or giant tuna." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/great-white-shark-eye.png?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Regional endothermy in fish has been seen in apex predators like the great white sharks or giant tuna. <span class="orgnc-SingleImage-credit"><a href="https://depositphotos.com/photo/great-white-shark-deep-blue-water-341465716.html">Deposit Photos</a></span></figcaption></figure><p>Regional endothermy could help the smalltooth sand tiger shark generate powe
+
+## Rimac’s electric speed demon tore through a world record in reverse
+ - [https://www.popsci.com/technology/rimac-nevera-reverse-world-record](https://www.popsci.com/technology/rimac-nevera-reverse-world-record)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T20:35:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Rimac Nevera hypercar action shot driving in reverse" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/rimac-nevera-guinness-world-record-12.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">170 MPH is pretty fast, regardless of direction. <span class="orgnc-SingleImage-credit"><a href="https://www.rimac-newsroom.com/press-releases/rimac-automobili/rimac-nevera-breaks-guinness-world-record-in-reverse">Rimac / Dennis Noten </a></span></figcaption></figure><p>It’s starting to feel like the world’s most powerful EV is running out of impressive feats.</p>
+<p>The post <a href="https://www.popsci.com/technology/rimac-n
+
+## Walmart started Black Friday early. Here are the best deals on tools, electronics, and more.
+ - [https://www.popsci.com/gear/walmart-early-black-friday-deals-2023](https://www.popsci.com/gear/walmart-early-black-friday-deals-2023)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T19:55:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Walmart Black Friday products including pots, a shop vac, a TV, and a coffee machine arranged in a pattern on a plain background" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/walmart-black-friday-2023-header.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stan Horaczek</span></figcaption></figure><p>Walmart isn't waiting for Thanksgiving. The biggest big box store's Black Friday deals are happening right now.</p>
+<p>The post <a href="https://www.popsci.com/gear/walmart-early-black-friday-deals-2023/" rel="nofollow">Walmart started Black Friday early. Here are the best 
+
+## Amazon’s early Black Friday tool deal saves you almost 40% on a DeWalt Drill Driver
+ - [https://www.popsci.com/gear/dewalt-drill-driver-deal-early-black-friday-amazon-2023](https://www.popsci.com/gear/dewalt-drill-driver-deal-early-black-friday-amazon-2023)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T19:28:40+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A DeWalt impact driver kit on a plain background" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="959" src="https://www.popsci.com/uploads/2023/11/08/dewalt-impact-drill-driver-deal.jpg?auto=webp&amp;width=1440&amp;height=959.76" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Amanda Reed</span></figcaption></figure><p>Replace your tools without burning through your wallet with this DeWalt drill driver deal at Amazon. </p>
+<p>The post <a href="https://www.popsci.com/gear/dewalt-drill-driver-deal-early-black-friday-amazon-2023/" rel="nofollow">Amazon&#8217;s early Black Friday tool deal saves you almost 40% on a DeWalt Drill Driver</a> appeared first on <a href="https
+
+## What head lice can tell us about human migration
+ - [https://www.popsci.com/environment/head-lice-human-migration](https://www.popsci.com/environment/head-lice-human-migration)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T19:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A louse on human hair under a microscope. Humans and lice have coevolved for thousands of years. The oldest human louse known to scientists is a 10,000 year-old specimen from Brazil." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/lice-human-migration.jpeg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Humans and lice have coevolved for thousands of years. The oldest human louse known to scientists is a 10,000 year-old specimen from Brazil. <span class="orgnc-SingleImage-credit">Getty Images</span></figcaption></figure><p>‘Lice are like living fossils we carry around on our own heads.’</p>
+<p>The post <a href="h
+
+## These robots reached a team consensus like a swarm of bees
+ - [https://www.popsci.com/technology/bee-robot-communication](https://www.popsci.com/technology/bee-robot-communication)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T18:30:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Image of kilobots atop photo of bees" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/bees.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">The tiny robots communicate using multicolored LED lights. <span class="orgnc-SingleImage-credit"><a href="https://unsplash.com/photos/brown-and-black-bee-on-white-textile-0sfPFlBcciA">Credit: Unsplash / University of Barcelona / PopSci</a></span></figcaption></figure><p>Scout bees vote for new hive locations with a 'dance.' These bots use blinking lights.</p>
+<p>The post <a href="https://www.popsci.com/technology/bee-robot-communication/" rel="nofollow">These robots reache
+
+## The best garage heaters in 2023
+ - [https://www.popsci.com/gear/best-garage-heaters](https://www.popsci.com/gear/best-garage-heaters)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T18:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--productTable">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Best garage heaters sliced header" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="936" src="https://www.popsci.com/uploads/2023/11/06/best-garage-heaters-header.jpg?auto=webp&amp;width=1440&amp;height=936" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><div class="orgnc-SingleImage-creditTop">Tony Ware</div></figure><p>Because your hands should be warm and pliable when you’re tooling in the garage.</p>
+<p>The post <a href="https://www.popsci.com/gear/best-garage-heaters/" rel="nofollow">The best garage heaters in 2023</a> appeared first on <a href="https://www.popsci.com" rel="nofollow">Popular Science</a>.</p>
+
+## In space, your body is like a soda can
+ - [https://www.popsci.com/science/city-on-mars-space-pressure](https://www.popsci.com/science/city-on-mars-space-pressure)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T17:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="An astronaut in a white spacesuit with Earth in the background." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/06/Spacesuit.jpg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">An astronaut floats in space in a spacesuit. <span class="orgnc-SingleImage-credit">NASA</span></figcaption></figure><p>The absence of air pressure in space exposes the fragility of human bodies.</p>
+<p>The post <a href="https://www.popsci.com/science/city-on-mars-space-pressure/" rel="nofollow">In space, your body is like a soda can</a> appeared first on <a href="https://www.popsci.com" rel="nofollow">Popular Science</a>.</p>
+
+## Scientists made a claw machine from a dead spider
+ - [https://www.popsci.com/science/scientists-made-a-claw-machine-from-a-dead-spider](https://www.popsci.com/science/scientists-made-a-claw-machine-from-a-dead-spider)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T15:30:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="spider in a web" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/07/spidre.png?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div></figure><p>Plus other weird things we learned this week.</p>
+<p>The post <a href="https://www.popsci.com/science/scientists-made-a-claw-machine-from-a-dead-spider/" rel="nofollow">Scientists made a claw machine from a dead spider</a> appeared first on <a href="https://www.popsci.com" rel="nofollow">Popular Science</a>.</p>
+
+## Unwrap the gift of multilingual magic with a $160 lifetime subscription to Rosetta Stone
+ - [https://www.popsci.com/sponsored-content/160-rosetta-stone-lifetime-subscription-deal](https://www.popsci.com/sponsored-content/160-rosetta-stone-lifetime-subscription-deal)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T14:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="A Rosetta Stone advert with flags from different countries on an orange background" class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.popsci.com/uploads/2023/11/06/image-2.png?auto=webp" style="display: block; margin: auto; margin-bottom: 5px;" width="1067" /></div><figcaption class="orgnc-SingleImage-caption"><span class="orgnc-SingleImage-credit">Stack Commerce</span></figcaption></figure><p>For only $160 you can embrace the joy of learning a new language—deal lasts through Nov. 9 only! </p>
+<p>The post <a href="https://www.popsci.com/sponsored-content/160-rosetta-stone-lifetime-subscription-deal/" rel="nofollow">Unwrap the gift of multilingual magic with a $160 lifetime subscription to Rosetta Stone</a> appeared first on <a href="https://www.popsci.com" rel=
+
+## How frozen baby corals and high-powered lasers could help dying reefs
+ - [https://www.popsci.com/environment/how-frozen-baby-corals-and-high-powered-lasers-could-help-dying-reefs](https://www.popsci.com/environment/how-frozen-baby-corals-and-high-powered-lasers-could-help-dying-reefs)
+ - RSS feed: https://www.popsci.com/feed
+ - date published: 2023-11-08T12:00:00+00:00
+
+<figure class="Article-thumbnail orgnc-SingleImage orgnc-SingleImage--center orgnc-SingleImage--hasCaption">
+                    <div class="orgnc-SingleImage-wrapper"><img alt="Hood coral larvae can withstand being dunked in liquid nitrogen and thawed with a laser—but scientists are still working to increase the number of corals that survive this cryopreservation process." class="orgnc-SingleImage-image webfeedsFeaturedVisual wp-post-image" height="810" src="https://www.popsci.com/uploads/2023/11/08/corals-baby.com_.jpeg?auto=webp&amp;width=1440&amp;height=810" style="display: block; margin: auto; margin-bottom: 5px;" width="1440" /></div><figcaption class="orgnc-SingleImage-caption">Hood coral larvae can withstand being dunked in liquid nitrogen and thawed with a laser—but scientists are still working to increase the number of corals that survive this cryopreservation process. <span class="orgnc-SingleImage-credit">Getty</span></figcaption></figure><p>Cryopreserved coral larvae rea
+

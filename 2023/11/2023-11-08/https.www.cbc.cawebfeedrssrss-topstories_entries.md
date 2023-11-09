@@ -1,0 +1,149 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## MP says he's received death threats after being accused of giving middle finger in House
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/ken-mcdonald-death-threats-1.7022876?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/ken-mcdonald-death-threats-1.7022876?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T17:57:35+00:00
+
+<img alt="A man wearing a suit stands in front of a yellow curtain." height="349" src="https://i.cbc.ca/1.7022899.1699482130!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ken-mcdonald.jpg" title="Avalon MP Ken McDonald told the House of Commons he&apos;s received death threats since being accused of giving the middle finger in the House on Monday. Speaker Greg Fergus ruled video showed the nature of the incident to be inconclusive. " width="620" /><p>House of Commons Speaker Greg Fergus says video couldn't prove whether MP Ken McDonald recently made a rude gesture toward the Conservative side of the House.</p>
+
+## 'Act of heroism': Sask. family says 2 men who fell through ice died trying to save children
+ - [https://www.cbc.ca/news/canada/saskatoon/humboldt-family-mourns-loss-of-three-1.7022717?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/humboldt-family-mourns-loss-of-three-1.7022717?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T17:02:47+00:00
+
+<img alt="Three portraits side-by-side, two of adult men and one of a girl." height="349" src="https://i.cbc.ca/1.7022881.1699481323!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/humboldt-lake-deaths.jpg" title="Chris Novecosky, left, Joseph Novecosky, centre, and Ava Novecosky died Saturday after falling through the ice on Humboldt Lake in Saskatchewan." width="620" /><p>A Saskatchewan family is mourning after the loss of three members, including a seven-year-old girl.</p>
+
+## Bye-bye, pandas: Amid curdling U.S.-China relations, zoo loses beloved beasts after 51 years
+ - [https://www.cbc.ca/news/world/pandas-leave-us-zoo-1.7022364?cmp=rss](https://www.cbc.ca/news/world/pandas-leave-us-zoo-1.7022364?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T15:47:32+00:00
+
+<img alt="Panda lounging on n upraised log" height="349" src="https://i.cbc.ca/1.7022438.1699468594!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-pandas.JPG" title="Giant panda Mei Xiang, seen here enjoying an afternoon nap at the National Zoo in Washington, in 2007. August 23, 2007." width="620" /><p>Bye-bye, pandas: Amid curdling U.S.-China relations, the zoo in the U.S. capital has lost its beloved beasts after 51 years. They have been a symbolic barometer of U.S.-China ties. They're now a sign of trouble.</p>
+
+## It started with a sandwich cookbook from 1909. Now, Barry Enderwick is TikTok's favourite sandwich historian
+ - [https://www.cbc.ca/radio/thecurrent/tiktok-sandwich-historian-1.7022373?cmp=rss](https://www.cbc.ca/radio/thecurrent/tiktok-sandwich-historian-1.7022373?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T15:08:50+00:00
+
+<img alt="A man with glasses and a button-up shirt looks at the camera before taking a bite of a sandwich." height="349" src="https://i.cbc.ca/1.7022383.1699466969!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/sandwiches-of-history.jpeg" title="Barry Enderwick posts recipes of yore to TikTok, Instagram and YouTube under the account Sandwiches of History. He tries to stick to the historic recipe as closely as possible, before adding toppings that improve the meal." width="620" /><p>Barry Enderwick, who posts on social media as Sandwiches of History, aims to recreate the recipes as exactly as possible, before adding a twist that turns the relic into a modern meal idea.</p>
+
+## Transcript of alleged RCMP leaker's testimony still not available due to 'serious technical issue'
+ - [https://www.cbc.ca/news/politics/ortis-tetimony-transcript-1.7017419?cmp=rss](https://www.cbc.ca/news/politics/ortis-tetimony-transcript-1.7017419?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T14:56:45+00:00
+
+<img alt="Cameron Jay Ortis arrives to the Ottawa Courthouse in Ottawa on Friday, Nov. 3, 2023. " height="349" src="https://i.cbc.ca/1.7017771.1699026597!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp-secrets-20231103.jpg" title="Cameron Jay Ortis arrives to the Ottawa Courthouse in Ottawa on Friday, Nov. 3, 2023. " width="620" /><p>In a stunning moment in an already extraordinary case, the lawyer for Cameron Ortis — the former high-ranking RCMP intelligence official accused of leaking classified information to police targets —  said Thursday his client was acting on secret information sent by a foreign agency.</p>
+
+## New telescope searching for unseen matter in our universe reveals stunning new images
+ - [https://www.cbc.ca/news/science/photos/esa-euclid-photo-scroller-1.7022468?cmp=rss](https://www.cbc.ca/news/science/photos/esa-euclid-photo-scroller-1.7022468?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T14:43:28+00:00
+
+<img alt="An image shows stars and gases that appear red and purple, with one central region shaped like a horse&apos;s head." height="349" src="https://i.cbc.ca/1.7022299.1699471459!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/euclid-horsehead-nebula.jpeg" title="Euclid shows us a spectacularly panoramic and detailed view of the Horsehead Nebula, also known as Barnard 33 which can be found in the constellation Orion. In Euclid’s new observation of this stellar nursery, scientists hope to find many dim and previously unseen Jupiter-mass planets in their celestial infancy, as well as young brown dwarfs and baby stars." width="620" /><p>Dark matter and dark energy make up roughly 95 per cent of our universe but can't be seen. In order to reveal their influence, over its six-year mission, this new space telescope will observe the shapes, distances and motions of billions of galaxies out to 10 billion light-years and create the largest cosmic 3D map ever made.</p>
+
+## Southwestern Ontario hospitals will rebuild network from scratch amid fallout from cyberattack
+ - [https://www.cbc.ca/news/canada/windsor/transform-cyberattack-update-1.7022414?cmp=rss](https://www.cbc.ca/news/canada/windsor/transform-cyberattack-update-1.7022414?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T14:36:20+00:00
+
+<img alt="A silhouetted man hunched over a computer with data illuminated in the background." height="349" src="https://i.cbc.ca/1.4176844.1678817584!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cyber-attack.jpg" title="The City of Woodstock spent more than half-a-million dollars on a cybersecurity company&apos;s services, after an attack in the fall. " width="620" /><p>All five southwestern Ontario hospitals impacted by a cyberattack just over two weeks ago will now rebuild their networks from scratch, the hospitals say in an update Wednesday.  But the hospitals also say the investigation into precisely whose data was taken in the attack is expected to take months. </p>
+
+## Bank of Canada officials split on need for more rate hikes, deliberations show
+ - [https://www.cbc.ca/news/business/bank-of-canada-deliberations-1.7022481?cmp=rss](https://www.cbc.ca/news/business/bank-of-canada-deliberations-1.7022481?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T14:09:50+00:00
+
+<img alt="A man and a woman wearing blue suits and smiling sit at a table before microphones." height="349" src="https://i.cbc.ca/1.6817631.1682037948!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/banking-senate-commitee-20230420.jpg" title="Governor of the Bank of Canada Tiff Macklem, right, and Carolyn Rogers, Senior Deputy Governor wait to appear as witnesses before the Senate of Canada Standing Commitee on Banking, Commerce and the Economy studying matters relating to banking and commerce at the Senate of Canada in Ottawa, on Thursday, April 20, 2023. THE CANADIAN PRESS/Spencer Colby" width="620" /><p>Further interest rate hikes from the Bank of Canada are very much still on the table as its governing council remains split on whether rates may need to rise further.</p>
+
+## Ivanka Trump denies involvement in father's financial statements
+ - [https://www.cbc.ca/news/world/ivanka-trump-testifies-civil-fraud-trial-1.7022187?cmp=rss](https://www.cbc.ca/news/world/ivanka-trump-testifies-civil-fraud-trial-1.7022187?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T12:56:29+00:00
+
+<img alt="Ivanka Trump attends the Trump Organization civil fraud trial in Manhattan." height="349" src="https://i.cbc.ca/1.7022203.1699460354!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ivanka-trump-attending-trump-organization-civil-fraud-trial-in-manhattan.JPG" title="Former U.S. president Donald Trump&apos;s daughter Ivanka Trump attends the Trump Organization civil fraud trial, in the New York State Supreme Court in the Manhattan borough of New York City, U.S., November 8, 2023." width="620" /><p>Ivanka Trump testified Wednesday that she had no role in her father's personal financial statements, echoing her adult brothers about documents central to the civil fraud trial that could reshape Donald Trump's family business.</p>
+
+## Lung cancer still biggest cancer killer, but death rates are improving, report finds
+ - [https://www.cbc.ca/news/health/lung-cancer-stats-1.7022181?cmp=rss](https://www.cbc.ca/news/health/lung-cancer-stats-1.7022181?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T12:40:46+00:00
+
+<img alt="MaryAnn Bradley" height="349" src="https://i.cbc.ca/1.7022211.1699460518!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cancer-statistics-20231108.jpg" title="MaryAnn Bradley, shown in a handout photo,  thought she was &quot;going to die&quot; when she was diagnosed with lung cancer 10 years ago. A new report released Wednesday says death rates for people with lung cancer are decreasing.  " width="620" /><p>Canada's annual report on cancer statistics says more people with lung cancer are surviving.</p>
+
+## Rise in antisemitic, Islamophobic threats has Canadians 'scared in our own streets,' PM says
+ - [https://www.cbc.ca/news/politics/trudeau-antisemitism-gaza-islamophobia-1.7022244?cmp=rss](https://www.cbc.ca/news/politics/trudeau-antisemitism-gaza-islamophobia-1.7022244?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T12:39:41+00:00
+
+<img alt="Justin Trudeau speaks to reporters in Ottawa. " height="349" src="https://i.cbc.ca/1.7022265.1699462246!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/liberal-caucus-20231108.JPG" title="Trudeau also the rising instances of anti-Semitism and Islamophobia are unacceptable and have left Canadians “scared in our own streets right now.”  Wednesday, Nov. 8, 2023. " width="620" /><p>Prime Minister Justin Trudeau is calling out what he describes as a "terrifying" rise in antisemitism and Islamophobia across the country as the Israel-Hamas war grinds on.</p>
+
+## Alberta to dismantle current patient-care model, create new health delivery system
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-health-care-changes-1.7022133?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-health-care-changes-1.7022133?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T11:42:49+00:00
+
+<img alt="A woman speaks into a microphone at a podium bearing a sign that states Refocusing Alberta&apos;s Health Care System. Behind her are three men and one woman, along with a selection of Canada and Alberta flags. " height="349" src="https://i.cbc.ca/1.7022190.1699460684!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/smith-health-care-announcement.jpg" title="Alberta Premier Danielle Smith provided details Wednesday about changes to the delivery of health care in the province.  Smith is flanked by Mental Health and Addiction Minister Dan Williams, left, and Health Minister Adriana LaGrange, right. " width="620" /><p>The Alberta government is announcing it will restructure the delivery of health care in the province, a realignment of services Premier Danielle Smith says will help solve capacity issues caused by a flawed system.</p>
+
+## Jade McLeod says debuting Jagged Little Pill's non-binary Jo was tough, but vital
+ - [https://www.cbc.ca/news/entertainment/jade-mcleod-jagged-little-pill-1.7021688?cmp=rss](https://www.cbc.ca/news/entertainment/jade-mcleod-jagged-little-pill-1.7021688?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T11:29:57+00:00
+
+<img alt="A group of performers pose dramatically on stage. The central figure, lit brightly while the others are in shadow, grabs their chest as they sing passionately. " height="349" src="https://i.cbc.ca/1.7021693.1699402596!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jade-mcleod.jpg" title="Jade McLeod, centre, appears in a promotional image from Jagged Little Pill. The Canadian actor spoke to CBC News about bringing the Alanis Morissette musical home to Canada, and about redebuting a non-binary character. " width="620" /><p>Canadian performer Jade McLeod speaks to CBC News about bringing Alanis Morissette's musical Jagged Little Pill home to Canada, and debuting a non-binary character in a field that lacks similar representation.</p>
+
+## Members of Shania Twain's road crew taken to hospital after bus rolls in southeastern Sask.
+ - [https://www.cbc.ca/news/canada/saskatchewan/twain-crew-bus-rollover-hospital-1.7022157?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/twain-crew-bus-rollover-hospital-1.7022157?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T11:12:52+00:00
+
+<img alt="A coach bus rolled over in the snow" height="349" src="https://i.cbc.ca/1.7022467.1699469184!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/coach-bus-rollover.jpg" title="A coach bus rolled over on Highway 1 east of Wolseley on Wednesday morning." width="620" /><p>Shania Twain's manager says members of her production crew were brought to hospital after their crew bus rolled in southeastern Saskatchewan on Wednesday morning.</p>
+
+## Nintendo game The Legend of Zelda to be adapted into a live-action film
+ - [https://www.cbc.ca/news/entertainment/the-legend-of-zelda-film-1.7022056?cmp=rss](https://www.cbc.ca/news/entertainment/the-legend-of-zelda-film-1.7022056?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T10:06:09+00:00
+
+<img alt="A man looks at a video game display." height="349" src="https://i.cbc.ca/1.7022076.1699455362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1253919146.jpg" title="A man looks at a display outside a popular electronics chain store advertising the latest offering from Japanese gaming giant Nintendo&apos;s long-running Legend of Zelda game series, Tears of the Kingdom, which went on sale in Tokyo on May 12, 2023. The gaming saga will be adapted into a live-action film, Nintendo announced Wednesday." width="620" /><p>Nintendo is developing a live-action film based on its hit video game The Legend of Zelda, the Japanese company behind the Super Mario franchise said Wednesday.</p>
+
+## Ohio votes to entrench abortion rights in state constitution
+ - [https://www.cbc.ca/news/world/united-states-election-ohio-abortion-1.7022009?cmp=rss](https://www.cbc.ca/news/world/united-states-election-ohio-abortion-1.7022009?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T09:51:50+00:00
+
+<img alt="Voters celebrate after a ballot measure to enshrine abortion rights in the Ohio state constitution passed. " height="349" src="https://i.cbc.ca/1.7022023.1699451916!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2023-ohio-abortion.jpg" title="Voters reacts to the passage of Ohio Issue 1, a ballot measure to amend the state constitution and establish a right to abortion, at an election night party hosted by the Hamilton County Democratic Party, Tuesday, Nov. 7, 2023, at Knox Joseph Distillery in the Over-the-Rhine neighborhood of Cincinnati." width="620" /><p>Democrats and abortion rights advocates notched a string of electoral victories on Tuesday, including in conservative Ohio and Kentucky, an early signal that reproductive rights remain a potent issue for Democrats ahead of the 2024 presidential race.</p>
+
+## Decade-high number of black bears killed by B.C. conservation officers in first 9 months of year, data shows
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-black-bear-safety-1.7020555?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-black-bear-safety-1.7020555?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T08:00:00+00:00
+
+<img alt="A black bear eating vegetation at side of road, with greenery protruding from its mouth. Trees in background." height="349" src="https://i.cbc.ca/1.5654564.1699336999!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/black-bear.jpg" title="A black bear eating vegetation at side of road, with greenery protruding from its mouth. Trees in background." width="620" /><p>Newly released data shows a decade-high number of black bears have been killed by conservation officers in British Columbia in 2023 so far due to conflict with humans.</p>
+
+## Rashida Tlaib, only Palestinian-American member of Congress, censured for controversial war statements
+ - [https://www.cbc.ca/news/world/us-house-tlaib-censure-vote-1.7021966?cmp=rss](https://www.cbc.ca/news/world/us-house-tlaib-censure-vote-1.7021966?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T07:03:24+00:00
+
+<img alt="A closeup of a bespectacled woman wearing a blazer speaking while outdoors is shown." height="349" src="https://i.cbc.ca/1.7021971.1699442840!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1690923378.jpg" title="WASHINGTON, DC - SEPTEMBER 19: Rep. Rashida Tlaib (D-MI)  speaks at a news conference on the introduction of the &quot;Restaurant Workers Bill of Rights&quot; outside the U.S. Capitol Building on September 19, 2023 in Washington, DC. Lawmakers held the news conference alongside members of the Restaurant Opportunity Center United organization to hear stories about those who work in the restaurant industry and their requests for countrywide improved working conditions.  " width="620" /><p>The U.S. House voted late Tuesday to censure member Rashida Tlaib, Congress's lone Palestinian-American lawmaker, for comments she made regarding Israel's war with Hamas in Gaza, with 22 of her fellow Democrats voting to censure.</p>
+
+## Greenpeace calls for Canadian forestry giant to lose its eco certification
+ - [https://www.cbc.ca/news/business/paper-excellence-greenpeace-fsc-complaint-1.7021203?cmp=rss](https://www.cbc.ca/news/business/paper-excellence-greenpeace-fsc-complaint-1.7021203?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T06:00:00+00:00
+
+<img alt="Cars drive on a street leading to a large industrial plant " height="349" src="https://i.cbc.ca/1.6958301.1698441381!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/espanola-street.JPG" title="The Domtar paper mill in Espanola is set to be shutdown by the end of the year, with hundreds of workers in the northern Ontario town being laid off in the coming weeks. " width="620" /><p>Canada’s largest pulp-and-paper company should lose its sustainability credentials because new information shows that it's closely tied to an Indonesian conglomerate that has destroyed vast stretches of tropical rainforest, Greenpeace Canada says.</p>
+
+## Honouring their bravery and dedication: Indigenous veterans have their special day
+ - [https://www.cbc.ca/news/indigenous/first-nation-veterans-empowered-by-service-1.7020676?cmp=rss](https://www.cbc.ca/news/indigenous/first-nation-veterans-empowered-by-service-1.7020676?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T06:00:00+00:00
+
+<img alt="An Indigenous woman in army fatigues in Iraq. " height="349" src="https://i.cbc.ca/1.7020694.1699368009!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/francine-young.jpeg" title="Francine Young on deployment in Iraq in 2008. " width="620" /><p>They come from First Nations communities across Canada, and on Indigenous Veterans Day, Nov. 8, Canadians will have the opportunity to honour their unique contributions and bravery.</p>
+
+## I'm a long-distance dad. So I went to Taylor Swift's movie alone, for my daughters
+ - [https://www.cbc.ca/news/canada/first-person-taylor-swift-movie-long-distance-dad-1.7019980?cmp=rss](https://www.cbc.ca/news/canada/first-person-taylor-swift-movie-long-distance-dad-1.7019980?cmp=rss)
+ - RSS feed: https://www.cbc.ca/webfeed/rss/rss-topstories
+ - date published: 2023-11-08T04:00:00+00:00
+
+<img alt="A man with grey hair stands next to a poster for Taylor Swift: The Eras Tour. " height="349" src="https://i.cbc.ca/1.7020539.1699330946!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/jordan-kawchuk.jpeg" title="Jordan Kawchuk had promised his daughters that they’d watch Taylor Swift’s movie together. And they did — even if it meant he had to watch it himself at the same time as them because they live in another city. " width="620" /><p>Jordan Kawchuk had promised his daughters that they’d watch Taylor Swift’s movie together. And they did — even if it wasn’t in the same theatre sitting side-by-side.</p>
+

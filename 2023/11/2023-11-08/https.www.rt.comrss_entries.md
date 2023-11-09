@@ -1,0 +1,338 @@
+# Source:RT - Daily news, URL:https://www.rt.com/rss/, language:en
+
+## US launches new ‘self-defense’ strike in Syria – Pentagon
+ - [https://www.rt.com/news/586872-us-airstrikes-syria-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586872-us-airstrikes-syria-pentagon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T22:57:01+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg" style="margin-right: 10px;" />  <br /><a href="https://www.rt.com/news/586872-us-airstrikes-syria-pentagon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Ukraine will bring war to EU – member
+ - [https://www.rt.com/news/586871-hungary-ukraine-eu-membership/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586871-hungary-ukraine-eu-membership/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T22:37:21+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654c0d602030275c60384fd7.jpg" style="margin-right: 10px;" /> Letting Kiev join the bloc would mean getting involved in war, which nobody wants, Hungarian Foreign Minister Peter Szijjarto has said <br /><a href="https://www.rt.com/news/586871-hungary-ukraine-eu-membership/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## ‘We have a plan’ – Zelensky
+ - [https://www.rt.com/russia/586865-zelensky-ukraine-battlefield-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/586865-zelensky-ukraine-battlefield-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T22:16:00+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654c07f485f54011b43cb234.jpg" style="margin-right: 10px;" /> Ukraine has a “plan” and is seeking to capture certain locations from Russia by the end of the year, President Vladimir Zelensky has said <br /><a href="https://www.rt.com/russia/586865-zelensky-ukraine-battlefield-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US busts ‘brothel network’ for VIPs – prosecutors
+ - [https://www.rt.com/news/586869-us-busts-brothel-network/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586869-us-busts-brothel-network/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T22:15:02+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654c01ca20302759bc06c766.jpg" style="margin-right: 10px;" /> US Department of Justices charges three people with running a prostitution service for upper-class clients <br /><a href="https://www.rt.com/news/586869-us-busts-brothel-network/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US senator speaks painful truth on Ukraine and Israel aid
+ - [https://www.rt.com/news/586862-us-senator-jd-vance-decries-ukraine-policy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586862-us-senator-jd-vance-decries-ukraine-policy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T21:15:28+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bea3720302774312b30f6.jpg" style="margin-right: 10px;" /> US Senator J.D. Vance exposes dishonesty of Washington’s intervention in the Russia-Ukraine conflict <br /><a href="https://www.rt.com/news/586862-us-senator-jd-vance-decries-ukraine-policy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US Congress summons Biden family in impeachment probe
+ - [https://www.rt.com/news/586864-hunter-biden-subpoena-impeachment/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586864-hunter-biden-subpoena-impeachment/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T20:58:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bf62220302754f0355ac2.jpg" style="margin-right: 10px;" /> The president’s son Hunter and brother James received subpoenas as Republicans probed the first family’s “influence peddling schemes” <br /><a href="https://www.rt.com/news/586864-hunter-biden-subpoena-impeachment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## World must unite to regulate AI – China’s Xi
+ - [https://www.rt.com/news/586861-china-xi-ai-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586861-china-xi-ai-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T20:00:17+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654be78485f540232d3b1c75.jpg" style="margin-right: 10px;" /> China’s president Xi Jinping has called on the global community to collaboratively manage technological innovations like AI <br /><a href="https://www.rt.com/news/586861-china-xi-ai-regulation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Robot kills man
+ - [https://www.rt.com/news/586847-killer-robot-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586847-killer-robot-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T19:47:45+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654be46620302774312b30e9.jpg" style="margin-right: 10px;" /> An industrial robot has slain a worker who was servicing it, mistaking the man for a box of vegetables <br /><a href="https://www.rt.com/news/586847-killer-robot-south-korea/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Details released for latest game in hugely-controversial series
+ - [https://www.rt.com/news/586857-culture-gta6-teaser-december/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586857-culture-gta6-teaser-december/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T19:47:23+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bdba185f54030404f568d.jpg" style="margin-right: 10px;" /> Rockstar will release details of the long-awaited Grand Theft Auto VI next month, the award-winning gaming company has confirmed <br /><a href="https://www.rt.com/news/586857-culture-gta6-teaser-december/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Chemical plant in US explodes (PHOTO, VIDEO)
+ - [https://www.rt.com/news/586856-texas-chemical-plant-blast/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586856-texas-chemical-plant-blast/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T18:38:20+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bcc0420302718b77c69c2.jpg" style="margin-right: 10px;" /> A chemical plant and explosion northeast of Houston, Texas has injured one person and prompted fears of toxic fumes in nearby communities <br /><a href="https://www.rt.com/news/586856-texas-chemical-plant-blast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Middle Eastern country says it downed US drone
+ - [https://www.rt.com/news/586852-yemen-shot-down-drone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586852-yemen-shot-down-drone/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T18:09:43+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bc00f203027786040e966.jpg" style="margin-right: 10px;" /> A MQ-9 Reaper was brought down over Yemeni waters while spying on behalf of Israel, the Houthi military in Sanaa has said <br /><a href="https://www.rt.com/news/586852-yemen-shot-down-drone/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## German daycare eviscerated for dropping ‘Anne Frank’ name during Israel-Gaza war
+ - [https://www.rt.com/news/586854-anne-frank-daycare-rename-controversy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586854-anne-frank-daycare-rename-controversy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T18:09:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bc885203027165f750a25.jpg" style="margin-right: 10px;" /> Politicians and Jewish community groups have slammed a kindergarten in Germany named after Anne Frank over a long-planned name change <br /><a href="https://www.rt.com/news/586854-anne-frank-daycare-rename-controversy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Weaponizing the enemy’s children: Dehumanization of Palestinians has gone mainstream
+ - [https://www.rt.com/news/586845-israel-gaza-dehumanization-palestinians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586845-israel-gaza-dehumanization-palestinians/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T18:01:05+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bbe5f20302774312b30db.jpg" style="margin-right: 10px;" /> A cynical explanation for why so many minors are dying in Israeli strikes on Gaza has been offered by a respected Western outlet <br /><a href="https://www.rt.com/news/586845-israel-gaza-dehumanization-palestinians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## No American money left for Ukraine – USAID
+ - [https://www.rt.com/news/586853-us-ukraine-humanitarian-funding-runs-out/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586853-us-ukraine-humanitarian-funding-runs-out/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T17:29:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bc22285f54021c4233a24.jpg" style="margin-right: 10px;" /> USAID officials claim humanitarian funding for Ukraine has run out, putting Kiev at risk of economic collapse <br /><a href="https://www.rt.com/news/586853-us-ukraine-humanitarian-funding-runs-out/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian central bank estimates how long sanctions will last
+ - [https://www.rt.com/business/586814-russia-western-sanctions-forecast/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586814-russia-western-sanctions-forecast/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T16:45:15+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b739e85f54032f9136890.jpg" style="margin-right: 10px;" /> The West will keep its sanctions policy against Moscow unchanged for at least four years, the Bank of Russia predicts <br /><a href="https://www.rt.com/business/586814-russia-western-sanctions-forecast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Nature’s call: Why even 100 million toilets is not enough to overcome India’s age-old practice
+ - [https://www.rt.com/india/586833-india-sanitation-old-habits/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/586833-india-sanitation-old-habits/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T16:40:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bb88e85f540278600955f.jpeg" style="margin-right: 10px;" /> Unlike Bangladesh and Tanzania, many of India’s poorest have been unable to kick old habits of using fields instead of toilets <br /><a href="https://www.rt.com/india/586833-india-sanitation-old-habits/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Mexican Congress hears evidence of ‘non-human beings’ during UFO session
+ - [https://www.rt.com/news/586850-mexico-non-human-samples-congress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586850-mexico-non-human-samples-congress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T16:25:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bb44c85f5402e0a2cbf17.jpg" style="margin-right: 10px;" /> Supposed “non-human beings” shown to Mexican lawmakers are “real,” scientific analysis has concluded <br /><a href="https://www.rt.com/news/586850-mexico-non-human-samples-congress/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Syrian refugee shot by EU border guard
+ - [https://www.rt.com/news/586846-syrian-migrant-shot-poland-border/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586846-syrian-migrant-shot-poland-border/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T15:39:46+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654bab9785f5402e0a2cbf0b.jpeg" style="margin-right: 10px;" /> A Syrian migrant was hospitalized after a Polish border guard accidentally shot him in the back while on patrol <br /><a href="https://www.rt.com/news/586846-syrian-migrant-shot-poland-border/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## White House ‘not encouraging’ Ukraine peace talks
+ - [https://www.rt.com/news/586844-us-state-department-ukraine-russia-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586844-us-state-department-ukraine-russia-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T15:22:10+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b9ca985f540232d3b1c4f.jpg" style="margin-right: 10px;" /> The US State Department has rebutted media reports suggesting that behind closed doors Washington is urging Kiev to negotiate with Moscow <br /><a href="https://www.rt.com/news/586844-us-state-department-ukraine-russia-talks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU Commission approves start of Ukraine membership talks
+ - [https://www.rt.com/news/586835-eu-commission-ukraine-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586835-eu-commission-ukraine-talks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T15:20:03+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654ba5f085f5402a256652c5.jpg" style="margin-right: 10px;" /> The EU Commission has recommended launching membership talks with Moldova and Ukraine once they have completed the prerequisite reforms <br /><a href="https://www.rt.com/news/586835-eu-commission-ukraine-talks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## China emerges as developing world’s largest creditor – report
+ - [https://www.rt.com/africa/586825-china-loans-developing-world-africa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/586825-china-loans-developing-world-africa/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T15:12:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654ba3fd203027787f1d0634.jpg" style="margin-right: 10px;" /> China has been lending billions of dollars to developing countries in financial trouble, research by AidData shows <br /><a href="https://www.rt.com/africa/586825-china-loans-developing-world-africa/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Sanctions here to stay – Moscow
+ - [https://www.rt.com/russia/586841-lavrov-western-sanctions-remain/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/586841-lavrov-western-sanctions-remain/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T14:20:53+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b8e9b2030277f450b9059.jpg" style="margin-right: 10px;" /> Russian Foreign Minister Sergey Lavrov has downplayed the importance of Western sanctions imposed against his country <br /><a href="https://www.rt.com/russia/586841-lavrov-western-sanctions-remain/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU state’s new government blocks Ukraine aid package
+ - [https://www.rt.com/news/586830-slovakia-weapons-package-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586830-slovakia-weapons-package-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T14:10:18+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b942920302777cd0d7b8a.jpg" style="margin-right: 10px;" /> Slovakian Prime Minister Robert Fico has blocked the 14th package of military aid to Ukraine <br /><a href="https://www.rt.com/news/586830-slovakia-weapons-package-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Rupee to hit record low – Reuters
+ - [https://www.rt.com/india/586840-india-rupee-record-low/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/586840-india-rupee-record-low/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T14:04:32+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b8d0a85f54011b43cb208.jpg" style="margin-right: 10px;" /> The Indian currency is expected to reach record lows against the US dollar in the coming months, due to reduced intervention <br /><a href="https://www.rt.com/india/586840-india-rupee-record-low/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Criminals are waging war on citizens – South African police minister
+ - [https://www.rt.com/africa/586828-criminal-war-south-africa-citizens/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/586828-criminal-war-south-africa-citizens/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T13:55:59+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b82eb85f54027126188e9.jpg" style="margin-right: 10px;" /> South Africa’s police chief pledges tougher action on crime after the transport minister is held up by armed men <br /><a href="https://www.rt.com/africa/586828-criminal-war-south-africa-citizens/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Sudanese refugees report increased ethnic cleansing in Darfur
+ - [https://www.rt.com/africa/586837-sudan-darfur-ethnic-cleansing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/586837-sudan-darfur-ethnic-cleansing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T13:50:01+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b8c262030277e920406c0.jpg" style="margin-right: 10px;" /> Residents of Sudan’s West Darfur region have reported a new wave of ethnic killings amid the country’s ongoing conflict <br /><a href="https://www.rt.com/africa/586837-sudan-darfur-ethnic-cleansing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India directs social-media companies to act against ‘deepfakes’
+ - [https://www.rt.com/india/586836-india-advisory-social-media-deepfake-actress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/586836-india-advisory-social-media-deepfake-actress/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T13:46:53+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b8b2585f54021c4233a05.jpg" style="margin-right: 10px;" /> India’s government issues an advisory after AI-morphed clip of popular actress Rashmika Mandanna went viral  <br /><a href="https://www.rt.com/india/586836-india-advisory-social-media-deepfake-actress/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Chinese investment in US collapsing – FT
+ - [https://www.rt.com/business/586757-china-us-investment-collapse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586757-china-us-investment-collapse/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T13:46:20+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654a5baa85f540271261887e.jpg" style="margin-right: 10px;" /> Worsening trade relations between Washington and Beijing have diminished Chinese investment in the US, the Financial Times reports <br /><a href="https://www.rt.com/business/586757-china-us-investment-collapse/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## This year ‘virtually certain’ to be warmest on record – EU scientists
+ - [https://www.rt.com/news/586832-climate-change-warmest-year/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586832-climate-change-warmest-year/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T13:13:54+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b891b203027165f750a11.png" style="margin-right: 10px;" /> This year is set to be the warmest in 125,000 years, scientists from the European Union have said <br /><a href="https://www.rt.com/news/586832-climate-change-warmest-year/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Kremlin warns West of ‘serious costs’ if assets seized
+ - [https://www.rt.com/russia/586827-peskov-house-russian-assets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/586827-peskov-house-russian-assets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T12:35:26+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b7ec72030270ddb296683.jpg" style="margin-right: 10px;" /> The Kremlin has warned US lawmakers about the cost of confiscating Russian sovereign funds and sending them to Ukraine <br /><a href="https://www.rt.com/russia/586827-peskov-house-russian-assets/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## West has lost billions trying ‘to teach Russia a lesson’ – Lavrov
+ - [https://www.rt.com/business/586822-eu-losses-russia-sanctions-lavrov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586822-eu-losses-russia-sanctions-lavrov/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T12:27:23+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b727785f54021c42339f5.jpg" style="margin-right: 10px;" /> EU businesses have lost $266 billion since the beginning of the Ukraine conflict due to sanctions imposed on Moscow, Sergey Lavrov says <br /><a href="https://www.rt.com/business/586822-eu-losses-russia-sanctions-lavrov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US senator seeks to end trade privileges for South Africa
+ - [https://www.rt.com/africa/586819-south-africa-us-trade-benefit-threats/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/586819-south-africa-us-trade-benefit-threats/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T11:41:37+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b6c5a20302718b77c698c.jpg" style="margin-right: 10px;" /> US Senator Chris Coons demands an immediate review of South Africa’s eligibility for a US-Africa trade program <br /><a href="https://www.rt.com/africa/586819-south-africa-us-trade-benefit-threats/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Gunmen reported in Hamburg school
+ - [https://www.rt.com/news/586824-germany-hamburg-school-gunmen-police/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586824-germany-hamburg-school-gunmen-police/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T11:38:09+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b74aa203027786040e94b.jpg" style="margin-right: 10px;" /> Police enter a school in Germany’s Hamburg after reports of two students, one of whom is presumably armed, taking a teacher hostage <br /><a href="https://www.rt.com/news/586824-germany-hamburg-school-gunmen-police/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Trump’s fortune soared after presidency – Bloomberg
+ - [https://www.rt.com/business/586817-trump-wealth-surge-presidency/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586817-trump-wealth-surge-presidency/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T11:02:38+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b68b085f54030404f564d.jpg" style="margin-right: 10px;" /> Donald Trump’s wealth has surged by roughly $500 million since he left the White House, data from the Bloomberg Billionaires Index shows <br /><a href="https://www.rt.com/business/586817-trump-wealth-surge-presidency/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Scholz unveils major reform of immigration
+ - [https://www.rt.com/news/586811-germany-scholz-new-migration-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586811-germany-scholz-new-migration-plan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T10:16:56+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b504885f54014b60edcb3.jpg" style="margin-right: 10px;" /> German Chancellor Olaf Scholz has presented a new policy on immigration that includes possibly operating processing centers outside the EU <br /><a href="https://www.rt.com/news/586811-germany-scholz-new-migration-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Moldova set to become victim of Western colonialism – Moscow
+ - [https://www.rt.com/russia/586815-patrushev-moldova-victim-colonialism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/586815-patrushev-moldova-victim-colonialism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T10:07:06+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b5cd285f5402e0a2cbee6.jpg" style="margin-right: 10px;" /> The government in Chisinau wants to strip Moldova of all sovereignty, Russian Security Council Secretary Nikolay Patrushev has claimed <br /><a href="https://www.rt.com/russia/586815-patrushev-moldova-victim-colonialism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russian GDP grew 5% in third quarter – central bank
+ - [https://www.rt.com/business/586812-russian-gdp-growth-third-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586812-russian-gdp-growth-third-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T09:49:45+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b538785f540269300bf71.jpg" style="margin-right: 10px;" /> The Russian economy exceeded expectations in the third quarter of the year, data from the central bank shows <br /><a href="https://www.rt.com/business/586812-russian-gdp-growth-third-quarter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## India test-fires Iskander-like tactical ballistic missile
+ - [https://www.rt.com/india/586809-india-pralay-tactical-ballistic-missile/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/india/586809-india-pralay-tactical-ballistic-missile/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T08:51:47+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b4339203027786040e92e.jpg" style="margin-right: 10px;" /> New Delhi is poised to deploy its new Pralay missiles to deter Pakistan and China <br /><a href="https://www.rt.com/india/586809-india-pralay-tactical-ballistic-missile/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Portuguese prime minister resigns over lithium graft probe
+ - [https://www.rt.com/news/586807-portugal-prime-minister-resigns/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586807-portugal-prime-minister-resigns/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T08:38:41+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b41fe85f5402a25665299.jpg" style="margin-right: 10px;" /> Portuguese Prime Minister Antonio Costa has announced his resignation following the detention of his chief-of-staff Vitor Escaria <br /><a href="https://www.rt.com/news/586807-portugal-prime-minister-resigns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia and Burkina Faso hold defense talks
+ - [https://www.rt.com/africa/586806-russia-burkina-faso-hold-defense/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/africa/586806-russia-burkina-faso-hold-defense/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T08:13:34+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b3dae2030271d84153ef8.jpg" style="margin-right: 10px;" /> Russia’s defense minister hosts a meeting with his Burkina Faso counterpart, seeking to bolster military ties <br /><a href="https://www.rt.com/africa/586806-russia-burkina-faso-hold-defense/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Bogus ‘billionaire rabbi astrologer’ sentenced
+ - [https://www.rt.com/business/586765-conman-billionaire-rabbi-prison/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586765-conman-billionaire-rabbi-prison/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T08:12:57+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654a707385f54014b60edc7d.jpg" style="margin-right: 10px;" /> A conman who used outrageous lies to defraud victims has been sentenced to 102 months in prison, Bloomberg reports <br /><a href="https://www.rt.com/business/586765-conman-billionaire-rabbi-prison/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russians buying less Dubai property – Bloomberg
+ - [https://www.rt.com/business/586748-russians-dubai-real-estate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586748-russians-dubai-real-estate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T07:01:39+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654a3b8985f540150052150e.jpg" style="margin-right: 10px;" /> Purchases of Dubai real estate by Russian investors have started to slow, Bloomberg reports, citing top brokers <br /><a href="https://www.rt.com/business/586748-russians-dubai-real-estate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Eurozone risks recession – S&P Global data
+ - [https://www.rt.com/business/586737-eurozone-recession-risks-rise/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/business/586737-eurozone-recession-risks-rise/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T05:58:12+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654a1a99203027333c5a8dd9.jpg" style="margin-right: 10px;" /> The worsening economic activity across the euro area has reignited fears of a downturn, according to latest report <br /><a href="https://www.rt.com/business/586737-eurozone-recession-risks-rise/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Russia puts another ICC judge on wanted list
+ - [https://www.rt.com/russia/586799-russia-icc-judge-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/russia/586799-russia-icc-judge-wanted/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T05:09:13+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b156420302774c53eb986.jpg" style="margin-right: 10px;" /> The Russian government has placed a judge with the International Criminal Court (ICC) on its list of wanted persons <br /><a href="https://www.rt.com/russia/586799-russia-icc-judge-wanted/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## EU state sends F-16 jets to train Ukrainian pilots
+ - [https://www.rt.com/news/586797-netherlands-romania-f16-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586797-netherlands-romania-f16-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T04:48:37+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654b0a9c85f540194359957e.jpg" style="margin-right: 10px;" /> The Dutch military donated five F-16 fighter jets for a new pilot training center in Romania, which will be used to train Ukrainian airmen <br /><a href="https://www.rt.com/news/586797-netherlands-romania-f16-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US warns Israel against Gaza ‘reoccupation’
+ - [https://www.rt.com/news/586795-us-israel-gaza-occupation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586795-us-israel-gaza-occupation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T02:16:46+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654aef382030272c815db2b3.jpg" style="margin-right: 10px;" /> The White House sounded alarms over the possible “reoccupation” of the Gaza Strip by Israel following the conflict with Hamas <br /><a href="https://www.rt.com/news/586795-us-israel-gaza-occupation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## US Senate blocks aid for Israel over Ukraine
+ - [https://www.rt.com/news/586793-israel-ukraine-aid-senate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586793-israel-ukraine-aid-senate/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T00:57:46+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654adce920302725d9609800.jpg" style="margin-right: 10px;" /> Democrats rejected the Republican bill that would have funded Israel separately, insisting on linking it to Ukraine and Taiwan <br /><a href="https://www.rt.com/news/586793-israel-ukraine-aid-senate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+
+## Poland issues EU membership condition to Ukraine
+ - [https://www.rt.com/news/586792-poland-ukraine-eu-volyn-massacre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/586792-poland-ukraine-eu-volyn-massacre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - RSS feed: https://www.rt.com/rss/
+ - date published: 2023-11-08T00:36:44+00:00
+
+<img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2023.11/thumbnail/654ad6a285f54027126188ca.png" style="margin-right: 10px;" /> Polish undersecretary of state says Ukraine can’t join EU without first resolving issue of exhuming World War II Volyn massacre victims <br /><a href="https://www.rt.com/news/586792-poland-ukraine-eu-volyn-massacre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS">Read Full Article at RT.com</a>
+

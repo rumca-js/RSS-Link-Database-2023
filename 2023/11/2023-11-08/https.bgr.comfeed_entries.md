@@ -1,0 +1,178 @@
+# Source:BGR, URL:https://bgr.com/feed, language:en-US
+
+## The top 10 anime series you can only watch on Netflix
+ - [https://bgr.com/entertainment/the-top-10-anime-series-you-can-only-watch-on-netflix](https://bgr.com/entertainment/the-top-10-anime-series-you-can-only-watch-on-netflix)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T23:22:00+00:00
+
+<p>Anime has become mainstream in recent years. Not only does every major streaming service have anime from Japan in their libraries, but some license and &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/the-top-10-anime-series-you-can-only-watch-on-netflix/">The top 10 anime series you can only watch on Netflix</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Lucy discovers yet another surprise during Dinkinesh flyby
+ - [https://bgr.com/science/lucy-discovers-yet-another-surprise-during-dinkinesh-flyby](https://bgr.com/science/lucy-discovers-yet-another-surprise-during-dinkinesh-flyby)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T22:29:00+00:00
+
+<p>Earlier this month, NASA’s Lucy probe completed its first flyby of the asteroid Dinkinesh, discovering that it actually was part of a binary pair with &#8230;</p>
+<p>The post <a href="https://bgr.com/science/lucy-discovers-yet-another-surprise-during-dinkinesh-flyby/">Lucy discovers yet another surprise during Dinkinesh flyby</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Backbone reveals an update to the best mobile gaming controller on the market
+ - [https://bgr.com/entertainment/backbone-reveals-an-update-to-the-best-mobile-gaming-controller-on-the-market](https://bgr.com/entertainment/backbone-reveals-an-update-to-the-best-mobile-gaming-controller-on-the-market)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T21:36:06+00:00
+
+<p>We finally have an update to the Backbone One! I personally love my Backbone One controller, so I&#8217;m excited to see that the company is &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/backbone-reveals-an-update-to-the-best-mobile-gaming-controller-on-the-market/">Backbone reveals an update to the best mobile gaming controller on the market</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## How to add your Gogoro scooter key to iPhone’s Wallet
+ - [https://bgr.com/tech/how-to-add-your-gogoro-scooter-key-to-iphones-wallet](https://bgr.com/tech/how-to-add-your-gogoro-scooter-key-to-iphones-wallet)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T21:20:00+00:00
+
+<p>Today, Gogoro released a new line of smart scooters that can be unlocked using an the Wallet app on an iPhone or Apple Watch. These &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/how-to-add-your-gogoro-scooter-key-to-iphones-wallet/">How to add your Gogoro scooter key to iPhone&#8217;s Wallet</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Nature retracts ground-breaking discovery of room-temperature superconductor
+ - [https://bgr.com/science/nature-retracts-ground-breaking-discovery-of-room-temperature-superconductor](https://bgr.com/science/nature-retracts-ground-breaking-discovery-of-room-temperature-superconductor)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T20:27:00+00:00
+
+<p>Back in March, a paper published in Nature posited that it was possible to create a near-ambient temperature superconductor. Now, several months after the study’s &#8230;</p>
+<p>The post <a href="https://bgr.com/science/nature-retracts-ground-breaking-discovery-of-room-temperature-superconductor/">Nature retracts ground-breaking discovery of room-temperature superconductor</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Spotify Premium users now have access to over 200,000 audiobooks – here are 3 worth checking out
+ - [https://bgr.com/tech/spotify-premium-users-now-have-access-to-over-200000-audiobooks-here-are-3-worth-checking-out](https://bgr.com/tech/spotify-premium-users-now-have-access-to-over-200000-audiobooks-here-are-3-worth-checking-out)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T19:34:51+00:00
+
+<p>As of Wednesday, November 8, Spotify Premium users in the US have access to over 200,000 audiobooks as a part of their subscriptions. Spotify Premium &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/spotify-premium-users-now-have-access-to-over-200000-audiobooks-here-are-3-worth-checking-out/">Spotify Premium users now have access to over 200,000 audiobooks &#8211; here are 3 worth checking out</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Google partners with carriers as it begs the EU to make Apple iMessage a gatekeeper
+ - [https://bgr.com/tech/google-partners-with-carriers-as-it-begs-the-eu-to-make-apple-imessage-a-gatekeeper](https://bgr.com/tech/google-partners-with-carriers-as-it-begs-the-eu-to-make-apple-imessage-a-gatekeeper)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T17:58:00+00:00
+
+<p>Google&#8217;s relentless anti-iMessage campaign continues with a new episode this week. The online search giant partnered with wireless carriers in the European Union (EU) to &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/google-partners-with-carriers-as-it-begs-the-eu-to-make-apple-imessage-a-gatekeeper/">Google partners with carriers as it begs the EU to make Apple iMessage a gatekeeper</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## JBL Bluetooth headphones start at $30 ahead of Black Friday
+ - [https://bgr.com/deals/jbl-bluetooth-headphones-start-at-30-ahead-of-black-friday](https://bgr.com/deals/jbl-bluetooth-headphones-start-at-30-ahead-of-black-friday)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T17:05:00+00:00
+
+<p>JBL is a headphones brand that doesn&#8217;t get as much attention as it should. Some users think of JBL as the best-kept secret when it &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/jbl-bluetooth-headphones-start-at-30-ahead-of-black-friday/">JBL Bluetooth headphones start at $30 ahead of Black Friday</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## New York City is scared to death in the trailer for Ghostbusters: Frozen Empire
+ - [https://bgr.com/entertainment/new-york-city-is-scared-to-death-in-the-trailer-for-ghostbusters-frozen-empire](https://bgr.com/entertainment/new-york-city-is-scared-to-death-in-the-trailer-for-ghostbusters-frozen-empire)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T17:04:09+00:00
+
+<p>You ain&#8217;t afraid of no ghosts? Well, it appears that at least some people in New York are. Today, Sony Pictures Entertainment released the official &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/new-york-city-is-scared-to-death-in-the-trailer-for-ghostbusters-frozen-empire/">New York City is scared to death in the trailer for Ghostbusters: Frozen Empire</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Tiny Fey is trying to make Mean Girls happen again, but this trailer is not fetch
+ - [https://bgr.com/entertainment/tiny-fey-is-trying-to-make-mean-girls-happen-again-but-this-trailer-is-not-fetch](https://bgr.com/entertainment/tiny-fey-is-trying-to-make-mean-girls-happen-again-but-this-trailer-is-not-fetch)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T16:33:40+00:00
+
+<p>Get in loser, we&#8217;re remaking Mean Girls. Today, Paramount Pictures released the official trailer for&#8230;let me check my notes here&#8230;Mean Girls? Yep, you&#8217;ve heard that &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/tiny-fey-is-trying-to-make-mean-girls-happen-again-but-this-trailer-is-not-fetch/">Tiny Fey is trying to make Mean Girls happen again, but this trailer is not fetch</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Galaxy S24’s ChatGPT rival has a name: Meet Samsung Gauss
+ - [https://bgr.com/tech/galaxy-s24s-chatgpt-rival-has-a-name-meet-samsung-gauss](https://bgr.com/tech/galaxy-s24s-chatgpt-rival-has-a-name-meet-samsung-gauss)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T16:12:00+00:00
+
+<p>Several rumors said in the past few weeks that the Galaxy S24 will be Samsung&#8217;s first device to feature on-device generative AI software similar to &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/galaxy-s24s-chatgpt-rival-has-a-name-meet-samsung-gauss/">Galaxy S24&#8217;s ChatGPT rival has a name: Meet Samsung Gauss</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Move aside, Mariah Carey – this is Hannah Waddingham’s Christmas special on Apple TV+
+ - [https://bgr.com/entertainment/move-aside-mariah-carey-this-is-hannah-waddinghams-christmas-special-on-apple-tv](https://bgr.com/entertainment/move-aside-mariah-carey-this-is-hannah-waddinghams-christmas-special-on-apple-tv)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T15:44:18+00:00
+
+<p>I&#8217;m afraid that Mariah Carey might murder Hannah Waddingham over this. Today, Apple TV+ released the official trailer for Hannah Waddingham: Home for Christmas. The &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/move-aside-mariah-carey-this-is-hannah-waddinghams-christmas-special-on-apple-tv/">Move aside, Mariah Carey &#8211; this is Hannah Waddingham&#8217;s Christmas special on Apple TV+</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## YouTube’s ban of ad blockers might be illegal in Europe
+ - [https://bgr.com/tech/youtubes-ban-of-ad-blockers-might-be-illegal-in-europe](https://bgr.com/tech/youtubes-ban-of-ad-blockers-might-be-illegal-in-europe)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T15:19:00+00:00
+
+<p>Google started a limited YouTube experiment this summer to test tech that would help it ban ad blockers. A few days ago, YouTube confirmed the &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/youtubes-ban-of-ad-blockers-might-be-illegal-in-europe/">YouTube&#8217;s ban of ad blockers might be illegal in Europe</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Rockstar finally confirmed it’ll announce Grand Theft Auto VI next month
+ - [https://bgr.com/entertainment/rockstar-finally-confirmed-itll-announce-grand-theft-auto-vi-next-month](https://bgr.com/entertainment/rockstar-finally-confirmed-itll-announce-grand-theft-auto-vi-next-month)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T14:29:36+00:00
+
+<p>Rockstar Games just revealed it has a Grand Theft Auto VI trailer to show in early December. The developer confirmed this in a blog post &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/rockstar-finally-confirmed-itll-announce-grand-theft-auto-vi-next-month/">Rockstar finally confirmed it’ll announce Grand Theft Auto VI next month</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Today’s deals: Walmart Black Friday sale, $400 off Roomba Combo j9+, LG OLED TVs, Fire Sticks, more
+ - [https://bgr.com/deals/todays-deals-walmart-black-friday-sale-400-off-roomba-combo-j9-lg-oled-tvs-fire-sticks-more](https://bgr.com/deals/todays-deals-walmart-black-friday-sale-400-off-roomba-combo-j9-lg-oled-tvs-fire-sticks-more)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T14:26:00+00:00
+
+<p>Things are really starting to pick up now that Black Friday 2023 is less than three weeks away. The big news on Wednesday is that &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/todays-deals-walmart-black-friday-sale-400-off-roomba-combo-j9-lg-oled-tvs-fire-sticks-more/">Today&#8217;s deals: Walmart Black Friday sale, $400 off Roomba Combo j9+, LG OLED TVs, Fire Sticks, more</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## yeedi robot vacuum deals start at $99.99 in this epic early Black Friday sale
+ - [https://bgr.com/deals/yeedi-robot-vacuum-deals-start-at-99-99-in-this-epic-early-black-friday-sale](https://bgr.com/deals/yeedi-robot-vacuum-deals-start-at-99-99-in-this-epic-early-black-friday-sale)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T12:43:00+00:00
+
+<p>This is a sponsored article and all content and opinions expressed within are of the author. Black Friday 2023 is right around the corner, but &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/yeedi-robot-vacuum-deals-start-at-99-99-in-this-epic-early-black-friday-sale/">yeedi robot vacuum deals start at $99.99 in this epic early Black Friday sale</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple claims 8GB of RAM on M3 MacBook Pro is like having 16GB on PCs, but it’s not
+ - [https://bgr.com/tech/apple-claims-8gb-of-ram-on-m3-macbook-pro-is-like-having-16gb-on-pcs-but-its-not](https://bgr.com/tech/apple-claims-8gb-of-ram-on-m3-macbook-pro-is-like-having-16gb-on-pcs-but-its-not)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T12:09:22+00:00
+
+<p>Apple math is something we should always keep an eye on. It&#8217;s true that owning the hardware and software can do wonders for your product, &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/apple-claims-8gb-of-ram-on-m3-macbook-pro-is-like-having-16gb-on-pcs-but-its-not/">Apple claims 8GB of RAM on M3 MacBook Pro is like having 16GB on PCs, but it’s not</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Two M3 MacBook Pro tricks you should know before you buy one
+ - [https://bgr.com/tech/2-m3-macbook-pro-tricks-you-should-know-before-you-buy](https://bgr.com/tech/2-m3-macbook-pro-tricks-you-should-know-before-you-buy)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T11:50:00+00:00
+
+<p>Apple unveiled the M3 MacBook Pro and iMac models last week, opening online preorders. The M3 MacBook Pro, M3 Pro MacBook Pro, and M3 iMac &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/2-m3-macbook-pro-tricks-you-should-know-before-you-buy/">Two M3 MacBook Pro tricks you should know before you buy one</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Astronomers discover record-breaking black hole from early universe
+ - [https://bgr.com/science/astronomers-discover-record-breaking-black-hole-from-early-universe](https://bgr.com/science/astronomers-discover-record-breaking-black-hole-from-early-universe)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T03:31:00+00:00
+
+<p>Astronomers have discovered the most distant black hole we have ever seen. The record-breaking black hole was discovered using the combined data of NASA’s Chandra &#8230;</p>
+<p>The post <a href="https://bgr.com/science/astronomers-discover-record-breaking-black-hole-from-early-universe/">Astronomers discover record-breaking black hole from early universe</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Google Maps and Apple Maps should copy Waze’s crash history alerts
+ - [https://bgr.com/tech/google-maps-and-apple-maps-should-copy-wazes-crash-history-alerts](https://bgr.com/tech/google-maps-and-apple-maps-should-copy-wazes-crash-history-alerts)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T02:38:00+00:00
+
+<p>Google Maps might be Google&#8217;s main navigation app, but it&#8217;s Waze that sometimes gets the more exciting features. For instance, there&#8217;s a new crash history &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/google-maps-and-apple-maps-should-copy-wazes-crash-history-alerts/">Google Maps and Apple Maps should copy Waze&#8217;s crash history alerts</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Elon Musk says AI will create a ‘universal high income’ and eliminate the need for jobs
+ - [https://bgr.com/tech/elon-musk-says-ai-will-create-a-universal-high-income-and-eliminate-the-need-for-jobs](https://bgr.com/tech/elon-musk-says-ai-will-create-a-universal-high-income-and-eliminate-the-need-for-jobs)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T01:45:00+00:00
+
+<p>AI could make us all rich, or at least that seems to be what Elon Musk is suggesting. While speaking at the U.K.’s AI Safety &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/elon-musk-says-ai-will-create-a-universal-high-income-and-eliminate-the-need-for-jobs/">Elon Musk says AI will create a ‘universal high income’ and eliminate the need for jobs</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## The cheap Avengers trick in the final trailer won’t save The Marvels
+ - [https://bgr.com/entertainment/the-cheap-avengers-trick-in-the-final-trailer-wont-save-the-marvels](https://bgr.com/entertainment/the-cheap-avengers-trick-in-the-final-trailer-wont-save-the-marvels)
+ - RSS feed: https://bgr.com/feed
+ - date published: 2023-11-08T00:52:00+00:00
+
+<p>The Marvels opens on Friday in theaters around the world. With a few days go to, we have a surprising final trailer for it. It&#8217;s &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/the-cheap-avengers-trick-in-the-final-trailer-wont-save-the-marvels/">The cheap Avengers trick in the final trailer won&#8217;t save The Marvels</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
