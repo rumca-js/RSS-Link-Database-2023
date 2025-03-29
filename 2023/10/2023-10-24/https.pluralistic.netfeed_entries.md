@@ -1,9 +1,0 @@
-# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
-
-## Pluralistic: Podcasting "Microincentives and Enshittification" (24 Oct 2023)
- - [https://pluralistic.net/2023/10/24/cursed-bigness/](https://pluralistic.net/2023/10/24/cursed-bigness/)
- - RSS feed: https://pluralistic.net/feed
- - date published: 2023-10-24T16:42:46+00:00
-
-Today's links Podcasting "Microincentives and Enshittification": They’ve run out of lands to conquer and they’re taking it out on you. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting "Microincentives and Enshittification" (permalink) This week on my podcast, I read my recent Medium column, "Microincentives and Enshittification," about the way that monopoly drives mediocrity, with Google's declining quality as Exhibit A: https://pluralistic.net/2023/07/28/microincentives-and-enshittification/ It's not your imagination: Google used to be better &#8211; in every way. Search used to be better, sure, but Google used to be better as a company. It treated its workers better (for example, not laying off 12,000 workers months after a stock buyback that would have paid their salaries for the next 27 years). It had its users' backs in policy
-

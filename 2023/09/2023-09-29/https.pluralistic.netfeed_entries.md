@@ -1,9 +1,0 @@
-# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
-
-## Pluralistic: The surveillance advertising to financial fraud pipeline (29 Sept 2023)
- - [https://pluralistic.net/2023/09/29/ban-surveillance-ads/](https://pluralistic.net/2023/09/29/ban-surveillance-ads/)
- - RSS feed: https://pluralistic.net/feed
- - date published: 2023-09-29T14:14:09+00:00
-
-Today's links The surveillance advertising to financial fraud pipeline: Finding suckers is the one thing ad-targeting is good at. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The surveillance advertising to financial fraud pipeline (permalink) Being watched sucks. Of all the parenting mistakes I've made, none haunt me more than the times my daughter caught me watching her while she was learning to do something, discovered she was being observed in a vulnerable moment, and abandoned her attempt: https://www.theguardian.com/technology/blog/2014/may/09/cybersecurity-begins-with-integrity-not-surveillance It's hard to be your authentic self while you're under surveillance. For that reason alone, the rise and rise of the surveillance industry &#8211; an unholy public-private partnership between cops, spooks, and ad-tech scum &#8211; is a plagu
-

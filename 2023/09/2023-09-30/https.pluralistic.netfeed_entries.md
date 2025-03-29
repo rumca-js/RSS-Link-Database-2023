@@ -1,9 +1,0 @@
-# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
-
-## Pluralistic: The internet is not a (link)dump truck (30 Sept 2023)
- - [https://pluralistic.net/2023/09/30/mesclada/](https://pluralistic.net/2023/09/30/mesclada/)
- - RSS feed: https://pluralistic.net/feed
- - date published: 2023-09-30T16:57:49+00:00
-
-Today's links The internet is not a (link)dump truck: It's a series of totally tubular links. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The internet is not a (link)dump truck (permalink) The second decade of the 21st century is truly a bounteous time. My backyard has produced a bumper crop of an invasive species of mosquito that is genuinely innovative: rather than confining itself to biting in the dusk and dawn golden hours, these stinging clouds of flying vampires bite at every hour that God sends: https://themagnet.substack.com/p/the-magnet-081-war-with-mosquitoes Here in the twilight of capitalism's planet-devouring, half-century orgy of wanton destruction, there's more news every day than I can possibly write a full blog post about every day, and as with many weeks, I have arrived at Saturday with a substantial backlog of links that didn't fit into the week's "Hey look at this
-

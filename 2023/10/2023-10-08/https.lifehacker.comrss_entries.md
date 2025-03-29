@@ -1,9 +1,0 @@
-# Source:Lifehacker, URL:https://lifehacker.com/rss, language:en-US
-
-## Use Your Work Rivalry for Good
- - [https://lifehacker.com/use-your-work-rivalry-for-good-1850903522](https://lifehacker.com/use-your-work-rivalry-for-good-1850903522)
- - RSS feed: https://lifehacker.com/rss
- - date published: 2023-10-08T15:00:00+00:00
-
-<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,fl_progressive,q_80,w_636/d55fc08459a431cc6d8f362c62543cd4.jpg" /><p>Given how much time we spend interacting with coworkers either in person or virtually, various relationship and dynamics are bound to emerge. Sometimes colleagues can become <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://lifehacker.com/do-you-make-friends-at-work-1850595848" rel="noopener noreferrer" target="_blank">genuine friends</a>; other times, those relationships can <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://lifehacker.com/how-to-break-up-with-a-toxic-work-friend-1819009561" rel="noopener noreferrer" target="_blank">turn out to be toxic</a> or <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://lifehacker.com/how-to-deal-with-a-manipulative-coworker-1787682219" rel="noopener noreferrer" target="_blank">manipulative</a>. </p><p><a href="https://lifehacker.c
-

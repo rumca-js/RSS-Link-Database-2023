@@ -1,9 +1,0 @@
-# Source GameSpot, Source URL:https://www.gamespot.com/feeds/mashup, Source language: en-US
-
-## How Games Get Akimbo Weapons Wrong - Loadout
- - [https://www.gamespot.com/videos/how-games-get-akimbo-weapons-wrong-loadout/2300-6460457/](https://www.gamespot.com/videos/how-games-get-akimbo-weapons-wrong-loadout/2300-6460457/)
- - RSS feed: https://www.gamespot.com/feeds/mashup
- - date published: 2023-01-29 15:00:00+00:00
- - user: None
-
-<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1594/15941173/4090890-gamespot-loadout-akimbo-thumb-v1_site.jpg" width="480" /> Does double always mean deadlier? From slow motion action in The Matrix and Max Payne, to Lara Croft and the lobbies of the Call of Duty franchise, dual wielding weapons has been a phenomenon in gaming for decades, and for even longer in wider pop culture. But how practical is that off-hand weapon? And what is the real world history of twin gunslinging?

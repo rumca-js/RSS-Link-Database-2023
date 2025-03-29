@@ -1,9 +1,0 @@
-# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
-
-## Pluralistic: Yanis Varoufakis's "Technofeudalism: What Killed Capitalism?" (28 Sep 2023)
- - [https://pluralistic.net/2023/09/28/cloudalists/](https://pluralistic.net/2023/09/28/cloudalists/)
- - RSS feed: https://pluralistic.net/feed
- - date published: 2023-09-28T13:35:20+00:00
-
-Today's links Yanis Varoufakis's "Technofeudalism: What Killed Capitalism?": Socialism or barbarism. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Yanis Varoufakis's "Technofeudalism: What Killed Capitalism?" (permalink) Socialists have been hotly anticipating the end of capitalism since at least 1848, when Marx and Engels published The Communist Manifesto &#8211; but the Manifesto also reminds us that capitalism is only too happy to reinvent itself during its crises, coming back in new forms, over and over again: https://www.nytimes.com/2022/10/31/books/review/a-spectre-haunting-china-mieville.html Now, in Technofeudalism: What Killed Capitalism, Yanis Varoufakis &#8211; the "libertarian Marxist" former finance minister of Greece &#8211; makes an excellent case that capitalism died a decade ago, turning into a new form of feudalism: technofeudalism: 
-

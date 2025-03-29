@@ -1,9 +1,0 @@
-# Source:GameSpot, URL:https://www.gamespot.com/feeds/mashup, language:en-US
-
-## Firearms Expert Reacts To Crysis Franchise Guns
- - [https://www.gamespot.com/videos/firearms-expert-reacts-to-crysis-franchise-guns/2300-6461700/](https://www.gamespot.com/videos/firearms-expert-reacts-to-crysis-franchise-guns/2300-6461700/)
- - RSS feed: https://www.gamespot.com/feeds/mashup
- - date published: 2023-06-17 14:00:00+00:00
-
-<img height="480" src="https://www.gamespot.com/a/uploads/square_medium/1352/13527689/4154260-crysis_site.jpg" width="480" /> Jonathan Ferguson, a weapons expert and Keeper of Firearms &amp; Artillery at the Royal Armouries, breaks down the weaponry from the Crysis franchise, including the iconic starting pistol, the SCAR, and an MP7-like submachinegun.
-
